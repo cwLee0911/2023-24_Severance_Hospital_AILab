@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5054">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04839146</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL76192.000.20</org_study_id>
+    <nct_id>NCT04839146</nct_id>
+  </id_info>
+  <brief_title>Safety and Tolerability of ABNCoV2</brief_title>
+  <acronym>COUGH-1</acronym>
+  <official_title>First-in-human Trial of the Coronavirus Virus-like Particle Subunit Vaccine ABNCoV2 in SARS-CoV-2-naïve Adult Volunteers in Good Health</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Radboud University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>European Union</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Radboud University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase 1 trial aims to assess the safety and tolerability of two doses of ABNCoV2,&#xD;
+      formulated with and without the adjuvant MF59, in healthy adult volunteers and to identify&#xD;
+      the dosage and formulation that optimizes the immunogenicity-tolerability ratio 14 days&#xD;
+      following first vaccination with ABNCoV2.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This first-in-human phase 1 trial of ABNCoV2 is a single center, sequential dose-escalation,&#xD;
+      open labelled trial to establish the safety and tolerability of two doses of ABNCoV2,&#xD;
+      formulated with and without MF59 in healthy, adult, severe acute respiratory syndrome&#xD;
+      coronavirus 2 (SARS-CoV-2)-naïve volunteers. The immunological objective of this trial is to&#xD;
+      identify a dosage that optimizes the immunogenicity-tolerability ratio 14 days following&#xD;
+      first vaccination with ABNCoV2. The trial will be carried out by the Radboud University&#xD;
+      Medical Center (Radboudumc).&#xD;
+&#xD;
+      The trial involves first-in-human administration, dose escalation of ABNCoV2 and adjuvant&#xD;
+      selection. Volunteers will be screened for eligibility and receive two vaccinations by&#xD;
+      intramuscular injection. While we cannot predict with certainty the safety in human subjects,&#xD;
+      we have adopted a safety-orientated staggered trial design with ascending doses of ABNCoV2.&#xD;
+      Seven groups of volunteers (n=6) will receive a given dose of ABNCoV2, either with or without&#xD;
+      MF59, followed by a booster with the same dose and formulation four weeks after the first&#xD;
+      vaccination. All vaccinations will be given as intramuscular injection. The pre-defined&#xD;
+      escalation schedule will start with 6 μg ABNCoV2, with a maximum dose of 70 μg.&#xD;
+      Dose-escalation will proceed only in absence of protocol-defined safety signals.&#xD;
+      MF59-adjuvanted and non-adjuvanted formulations will be tested in parallel at the first three&#xD;
+      escalation steps (Group 1-3) to detect superiority or futility of the MF59-adjuvanted against&#xD;
+      the non-adjuvanted formulation. Up to forty-two (n=42) subjects will be enrolled, as well as&#xD;
+      one reserve subject per group.&#xD;
+&#xD;
+      Safety follow-up will be done at following timepoints: baseline, day 1, day 2, day 7, day 14,&#xD;
+      day 25, day 29, day 30, day 35, day 42, day 70, day 119 and day 196 after first ABNCoV2&#xD;
+      administration.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 11, 2021</start_date>
+  <completion_date type="Anticipated">December 20, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 20, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>ABNCoV2 is a virus-like particle vaccine. It will be administered as two intramuscular injections in groups of up to 9 volunteers. All subjects will receive a second vaccination with the same dose and formulation 4 weeks following the first vaccination. The pre-defined escalation schedule will start with 6 μg ABNCoV2, followed by 12, 25 and 50 μg with a maximum dose of 70 μg. MF59-adjuvanted and non-adjuvanted formulations will be tested in parallel to detect superiority or futility of the MF59-adjuvanted against the non-adjuvanted formulation at the 6, 12 and 25 μg dosage. Approval for further dose escalation and choice of adjuvant use will be provided by a safety monitoring committee (SMC), supported by pre-defined analyses of safety, tolerability and immunogenicity data at day 14 post-first-vaccination. Recruitment for the two best (safe, tolerable and most immunogenic) regimens will continue until 12 volunteers per regimen have been immunized.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary safety endpoint: Number of at least possibly related Grade 3 adverse events (AE) and serious adverse events (SAE)</measure>
+    <time_frame>up to 28 weeks</time_frame>
+    <description>Number of at least possibly related Grade 3 adverse events (AE) and serious adverse events (SAE)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Primary immunogenicity endpoint: Concentration of ABNCoV2-specific antibodies</measure>
+    <time_frame>14 days following first vaccination.</time_frame>
+    <description>Concentration of ABNCoV2-specific antibodies</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Secondary study endpoint: Number and severity of at least possibly related solicited AEs</measure>
+    <time_frame>within one week following administration of ABNCoV2.</time_frame>
+    <description>Number and severity of at least possibly related solicited AEs</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Concentration of ABNCoV2-specific antibodies at baseline and during immunization and follow up.</measure>
+    <time_frame>up to 28 weeks</time_frame>
+    <description>ABNCoV2-specific antibody concentrations will be measured by ELISA during immunisation and follow-up.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Inhibitory titre in invasion inhibition assay at baseline and during immunization and follow up.</measure>
+    <time_frame>up to 28 weeks</time_frame>
+    <description>Inhibitory titres will be measured in an in vitro SARS-CoV-2 invasion inhibition assay.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Cellular immune responses (T and B cell) at baseline and during immunization and follow up.</measure>
+    <time_frame>up to 28 weeks</time_frame>
+    <description>Cellular responses will be analysed by cytometry and enzyme-linked absorbent spot (ELISpot) assay.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Correlation of response vaccine to habitual sleep using the Pittsburgh Sleep Quality Index (PSQI)</measure>
+    <time_frame>one month prior first ABNCoV2 immunization</time_frame>
+    <description>The PSQI will be used to investigate if sleep quality is associated with immune responses to the vaccine.</description>
+  </other_outcome>
+  <number_of_arms>7</number_of_arms>
+  <enrollment type="Anticipated">42</enrollment>
+  <condition>Covid19</condition>
+  <condition>Severe Acute Respiratory Syndrome</condition>
+  <condition>SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Group 1: 6 microgram ABNCoV2 with/without MF59 adjuvant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In Group 1 (n=6), subjects will receive 6 μg ABNCoV2 intramuscularly, half of whom (n=3) will receive the non-adjuvanted vaccine formulation and the other half (n=3) will receive the MF59-adjuvanted vaccine formulation. All subjects will receive a second vaccination with the same dose and formulation 4 weeks following the first vaccination.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2: 12 microgram ABNCoV2 with/without MF59 adjuvant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In Group 2 (n=6), subjects will receive 12 μg ABNCoV2 intramuscularly, half of whom (n=3) will receive the non-adjuvanted vaccine formulation and the other half (n=3) will receive the MF59-adjuvanted vaccine formulation. All subjects will receive a second vaccination with the same dose and formulation 4 weeks following the first vaccination.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3: 25 microgram ABNCoV2 with/without MF59 adjuvant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In Group 3 (n=6), subjects will receive 25 μg ABNCoV2 intramuscularly, half of whom (n=3) will receive the non-adjuvanted vaccine formulation and the other half (n=3) will receive the MF59-adjuvanted vaccine formulation. All subjects will receive a second vaccination with the same dose and formulation 4 weeks following the first vaccination.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4: 50 microgram ABNCoV2 with/without MF59 adjuvant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In Group 4 (n=6), subjects will receive 50 μg non-adjuvanted or MF59-adjuvanted ABNCoV2 intramuscularly. All subjects will receive a second vaccination with the same dose and formulation 4 weeks following the first vaccination.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 5: 70 microgram ABNCoV2 with/without MF59 adjuvant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In Group 5 (n=6), subjects will receive 70 μg non-adjuvanted or MF59-adjuvanted ABNCoV2 intramuscularly. All subjects will receive a second vaccination with the same dose and formulation 4 weeks following the first vaccination.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 6: t.b.d. microgram ABNCoV2 with/without MF59 adjuvant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The subjects in Group 6 (n=6) will receive the next lower dosage of the highest non-adjuvanted or MF59-adjuvanted ABNCoV2 dose achieved intramuscularly. All subjects will receive a second vaccination with the same dose and formulation 4 weeks following the first vaccination.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 7: t.b.d. microgram ABNCoV2 with/without MF59 adjuvant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The subjects in Group 7 (n=6) will receive the highest non-adjuvanted or MF59-adjuvanted ABNCoV2 dose achieved intramuscularly. All subjects will receive a second vaccination with the same dose and formulation 4 weeks following the first vaccination.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ABNCoV2 Vaccine</intervention_name>
+    <description>SARS-CoV-2 vaccine</description>
+    <arm_group_label>Group 1: 6 microgram ABNCoV2 with/without MF59 adjuvant</arm_group_label>
+    <arm_group_label>Group 2: 12 microgram ABNCoV2 with/without MF59 adjuvant</arm_group_label>
+    <arm_group_label>Group 3: 25 microgram ABNCoV2 with/without MF59 adjuvant</arm_group_label>
+    <arm_group_label>Group 4: 50 microgram ABNCoV2 with/without MF59 adjuvant</arm_group_label>
+    <arm_group_label>Group 5: 70 microgram ABNCoV2 with/without MF59 adjuvant</arm_group_label>
+    <arm_group_label>Group 6: t.b.d. microgram ABNCoV2 with/without MF59 adjuvant</arm_group_label>
+    <arm_group_label>Group 7: t.b.d. microgram ABNCoV2 with/without MF59 adjuvant</arm_group_label>
+    <other_name>cVLP-RBD</other_name>
+    <other_name>RBDn-CLP</other_name>
+    <other_name>ABNCoV2</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subject must sign written informed consent to participate in the trial.&#xD;
+&#xD;
+          2. Subject is able to understand planned study procedures and demonstrate comprehension&#xD;
+             of the protocol procedures and knowledge of the study by passing a quiz (assessment of&#xD;
+             understanding). Subjects must score at least 80% correct on a multiple-choice quiz. If&#xD;
+             they do not score 80% on the initial quiz, the protocol information will be reviewed&#xD;
+             with them, and they will have the opportunity to retest.&#xD;
+&#xD;
+          3. In the opinion of the investigator, the subject can and will comply with the&#xD;
+             requirements of the protocol.&#xD;
+&#xD;
+          4. Subjects are available to attend all study visits and are reachable by phone&#xD;
+             throughout the entire study period from day -1 until 24 weeks following last&#xD;
+             vaccination (end of study).&#xD;
+&#xD;
+          5. Subject is a male or non-pregnant and non-lactating female age ≥ 18 and ≤ 55 years and&#xD;
+             in good health at time of ABNCoV2 administration.&#xD;
+&#xD;
+          6. Subject agrees to their general practitioner (GP) being informed about participation&#xD;
+             in the study and agrees to sign a form to request the release by their GP, and medical&#xD;
+             specialist when necessary, of any relevant medical information concerning possible&#xD;
+             contra-indications for participation in the study to the investigator(s).&#xD;
+&#xD;
+          7. The subject agrees to refrain from blood donation to Sanquin or for other purposes&#xD;
+             throughout the study period according to current Sanquin guidelines.&#xD;
+&#xD;
+          8. Female subjects of non-childbearing potential may be enrolled in the study.&#xD;
+             Non-childbearing potential is defined as pre-menarche, current bilateral tubal&#xD;
+             ligation or occlusion, hysterectomy, bilateral ovariectomy or post-menopause. All&#xD;
+             other female subjects must agree to use continuous adequate contraception2 for the&#xD;
+             duration of the study. Female subjects must have a negative pregnancy test at the&#xD;
+             inclusion visit.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Any clinically significant abnormal finding on clinical examination or laboratory screening&#xD;
+        tests according to the US Food and Drug Administration (FDA) Toxicity Grading Scale for&#xD;
+        Healthy Adult and Adolescent Subjects Enrolled in Preventative Vaccine Clinical Trials&#xD;
+        [30].&#xD;
+&#xD;
+        2. History of COVID-19 infection. 3. Chronic use of immunosuppressive drugs or other immune&#xD;
+        modifying drugs within six months prior to study onset (inhaled and topical corticosteroids&#xD;
+        and oral anti-histamines exempted) or expected use of such during the study period.&#xD;
+&#xD;
+        4. Positive urine toxicology test for cannabis, cocaine or amphetamines at inclusion.&#xD;
+&#xD;
+        5. Screening tests positive for SARS-CoV-2, SARS-CoV-2 antibodies, Human Immunodeficiency&#xD;
+        Virus (HIV), active Hepatitis B Virus (HBV), or Hepatitis C Virus (HCV).&#xD;
+&#xD;
+        6. Receipt of any investigational or non-registered product (drug or vaccine) other than&#xD;
+        the study product in the 30 days preceding enrolment or during the study period.&#xD;
+&#xD;
+        7. Participation in any other clinical study in the 30 days prior to the start of the study&#xD;
+        or during the study period.&#xD;
+&#xD;
+        8. Immunization with any vaccines within the past four weeks or planned receipt of a&#xD;
+        vaccine during the study period with the exception of a licensed SARS-CoV-2 vaccine, given&#xD;
+        within the framework of the national SARS-CoV-2 vaccination campaign. The time between last&#xD;
+        vaccination with ABNCoV2 and a SARS-CoV-2 vaccine provided by the campaign shall be at&#xD;
+        least 4 weeks.&#xD;
+&#xD;
+        9. Known hypersensitivity to any of the vaccine components (adjuvant or protein).&#xD;
+&#xD;
+        10. Administration of immunoglobulins and/or any blood products within the three months&#xD;
+        prior to the first dose of ABNCoV2 or planned administration during the study period.&#xD;
+&#xD;
+        11. Previous participation in a COVID-19 vaccine study. 12. Body Mass Index (BMI) &gt;35&#xD;
+        kg/m2. 13. Pregnancy, lactation or intention to become pregnant during the study period.&#xD;
+&#xD;
+        14. History of drug or alcohol abuse interfering with normal functioning in the five years&#xD;
+        preceding enrolment.&#xD;
+&#xD;
+        15. Being an employee or student of the department of Medical Microbiology of the&#xD;
+        Radboudumc, or a person otherwise related to the investigator other than a professional&#xD;
+        relationship for clinical trial purpose only.&#xD;
+&#xD;
+        16. Any other condition or situation that would, in the opinion of the investigator, place&#xD;
+        the subject at an unacceptable risk of injury or render the subject unable to meet the&#xD;
+        requirements of the protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Benjamin Mordmüller, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stichting Radboud university medical center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Merel J. Smit, MD</last_name>
+    <phone>024-3619515</phone>
+    <phone_ext>+31</phone_ext>
+    <email>merel.smit@radboudumc.nl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Radboud univserity medical center</name>
+      <address>
+        <city>Nijmegen</city>
+        <state>Gelderland</state>
+        <zip>6525GA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Merel J. Smit, MD</last_name>
+      <phone>024-3619515</phone>
+      <phone_ext>+31</phone_ext>
+      <email>merel.smit@radboudumc.nl</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 9, 2021</study_first_posted>
+  <last_update_submitted>April 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

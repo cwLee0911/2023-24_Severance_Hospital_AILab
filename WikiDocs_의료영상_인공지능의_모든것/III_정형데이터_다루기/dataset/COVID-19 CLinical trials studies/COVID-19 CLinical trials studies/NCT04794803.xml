@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3613">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04794803</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REPAVID-19</org_study_id>
+    <secondary_id>2020-001645-40</secondary_id>
+    <nct_id>NCT04794803</nct_id>
+  </id_info>
+  <brief_title>Reparixin in COVID-19 Pneumonia - Efficacy and Safety</brief_title>
+  <official_title>Study on the Efficacy and Safety of Reparixin in the Treatment of Hospitalized Patients With COVID-19 Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dompé Farmaceutici S.p.A</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Dompé Farmaceutici S.p.A</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      -  Phase 2 Study Objectives: efficacy and safety of of Reparixin treatment as compared to&#xD;
+           the control arm in adult patients with severe COVID-19 pneumonia&#xD;
+&#xD;
+        -  Phase 3 Study Objectives: efficacy and safety of Reparixin treatment as compared to the&#xD;
+           control arm in adult patients with moderate or severe COVID-19 pneumonia&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This clinical trial is an adaptive phase 2/3, randomized, controlled multicenter study on the&#xD;
+      efficacy and safety of Reparixin in the treatment of hospitalized patients with COVID-19&#xD;
+      pneumonia. 48 patients are planned to be enrolled in Phase 2 and an estimated total of 111&#xD;
+      patients are planned to be enrolled up to the end of Phase 3, with a randomization 2:1&#xD;
+      Reparixin vs Control (Standard of care).&#xD;
+&#xD;
+      In the phase 2 segment of this study, patients are randomized 2:1 to Reparixin oral tablets&#xD;
+      1200 mg (Group 1, active treatment) or standard of care (Group 2, control arm). In case of&#xD;
+      worsening (e.g. need of ICU and/or mechanical ventilation) after the first 24hrs, patients&#xD;
+      are offered a rescue medication with no restriction from the sponsor and fully based on their&#xD;
+      physicians' judgement.&#xD;
+&#xD;
+      In the phase 3 segment of this study, it is planned that patients are randomized 2:1 to&#xD;
+      Reparixin or standard of care. The Phase 3 design will be reassessed and decided based on the&#xD;
+      results of the Phase 2.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    The sponsor has decided to start with a separate protocol for phase 3 and therefore this study&#xD;
+    was terminated with only phase 2.&#xD;
+  </why_stopped>
+  <start_date type="Actual">May 5, 2020</start_date>
+  <completion_date type="Actual">February 2, 2021</completion_date>
+  <primary_completion_date type="Actual">November 30, 2020</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase 2 primary endpoint - Composite endpoint of clinical events</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The patient requires at least one of the following: supplemental oxygen requirement, mechanical ventilation use, admission to Intensive Care Unit (ICU), and use of a rescue medication for any reason</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 2 primary endpoint - Composite endpoint of clinical events</measure>
+    <time_frame>day 1</time_frame>
+    <description>The patient requires at least one of the following: supplemental oxygen requirement, mechanical ventilation use, admission to Intensive Care Unit (ICU), and use of a rescue medication for any reason</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 2 primary endpoint - Composite endpoint of clinical events</measure>
+    <time_frame>day 2</time_frame>
+    <description>The patient requires at least one of the following: supplemental oxygen requirement, mechanical ventilation use, admission to Intensive Care Unit (ICU), and use of a rescue medication for any reason</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 2 primary endpoint - Composite endpoint of clinical events</measure>
+    <time_frame>week 1</time_frame>
+    <description>The patient requires at least one of the following: supplemental oxygen requirement, mechanical ventilation use, admission to Intensive Care Unit (ICU), and use of a rescue medication for any reason</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 2 primary endpoint - Composite endpoint of clinical events</measure>
+    <time_frame>day 21(end of treatment)</time_frame>
+    <description>The patient requires at least one of the following: supplemental oxygen requirement, mechanical ventilation use, admission to Intensive Care Unit (ICU), and use of a rescue medication for any reason</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 2 primary endpoint - Composite endpoint of clinical events</measure>
+    <time_frame>Follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>The patient requires at least one of the following: supplemental oxygen requirement, mechanical ventilation use, admission to Intensive Care Unit (ICU), and use of a rescue medication for any reason</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 3 Primary Endpoint: Composite endpoint of death and of severe clinical events</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The patient dies or requires mechanical ventilation use and/or admission to ICU</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 3 Primary Endpoint: Composite endpoint of death and of severe clinical events</measure>
+    <time_frame>day 1</time_frame>
+    <description>The patient dies or requires mechanical ventilation use and/or admission to ICU</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 3 Primary Endpoint: Composite endpoint of death and of severe clinical events</measure>
+    <time_frame>day 2</time_frame>
+    <description>The patient dies or requires mechanical ventilation use and/or admission to ICU</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 3 Primary Endpoint: Composite endpoint of death and of severe clinical events</measure>
+    <time_frame>week 1</time_frame>
+    <description>The patient dies or requires mechanical ventilation use and/or admission to ICU</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 3 Primary Endpoint: Composite endpoint of death and of severe clinical events</measure>
+    <time_frame>day 21(end of treatment)</time_frame>
+    <description>The patient dies or requires mechanical ventilation use and/or admission to ICU</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 3 Primary Endpoint: Composite endpoint of death and of severe clinical events</measure>
+    <time_frame>Follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>The patient dies or requires mechanical ventilation use and/or admission to ICU</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: Changes in clinical severity score (as recommended by the World Health Organization -WHO- for COVID studies)</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (7±3 days after treatment period)</time_frame>
+    <description>The time to clinical improvement of two points from the time of randomization on a seven-category ordinal scale or live discharge from the hospital, whichever comes first. The seven-category ordinal scale consists of the following:&#xD;
+1) not hospitalized, with resumption of normal activities; 2) not hospitalized, but unable to resume normal activities; 3) hospitalized, not requiring supplemental oxygen; 4) hospitalized, requiring supplemental oxygen; 5) hospitalized, requiring high-flow oxygen therapy, noninvasive mechanical ventilation, or both; 6) hospitalized, requiring ECMO, invasive mechanical ventilation, or both; and 7) death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: Dyspnea severity</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>The severity of dyspnea is measured through the Liker scale. The Liker scale is used as follows: the patient grades his current breathing compared to when he first started the drug (from -3 to 3). &quot;0&quot; = no change, &quot;1&quot; =minimally better, &quot;2&quot; =moderately better, &quot;3&quot; =markedly better, &quot;-1&quot; =minimally worse, &quot;-2&quot; =moderately worse, &quot;-3&quot; =markedly worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: Dyspnea severity</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>The severity of dyspnea is measured also through the VAS scale. The VAS scale is used as follows: the patient draws a horizontal line on an axial graph (from 0 to 100) to show the degree of how he feels about breathing. The number &quot;0&quot; equals the worst breathing the patient has ever felt and the number &quot;100&quot; equals the best he has ever felt.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: duration of supplemental oxygen treatment</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>Duration of oxygen administration (hours) = Administration end date/time - Administration start date/time / 60.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: quantity of supplemental oxygen treatment</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>Cumulative quantity of oxygen treatment (L) = Sum of all Quantity (L) in CONCOMITANT OXYGEN TREATMENT form, from randomization to time point of interest.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: Incidence of mechanical ventilation use</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>Proportion along with the 95% confidence interval (Clopper-Pearson's formula) of subjects requiring mechanical ventilation are calculated and compared.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: duration of mechanical ventilation use</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>Cumulative duration of mechanical ventilation (hours) = Sum of duration of mechanical ventilation (hours) in mechanical ventilation form, from randomization to time point of interest.&#xD;
+Duration of mechanical ventilation (hours) = End date/time - Start date/time / 60</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: Incidence of intensive care unit (ICU) admission need</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>Proportion along with the 95% confidence interval (Clopper-Pearson's formula) of subjects requiring ICU admission are calculated and compared.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: Lung damage extension changes from baseline</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>Lung damage extentions is assessed by Chest CT or Rx</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: Change from baseline in lung exudation degree</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>Lung exudation degree is assessed by Chest CT or Rx</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: PaO2</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>PaO2 measures the pressure of oxygen dissolved in the blood and how well oxygen is able to move from the airspace of the lungs into the blood.&#xD;
+Normally, PaO2 is between 75 and 100 mmHg (at sea level). Lower levels indicate an unsufficient amount of oxygen flowing from the alveoli to the blood.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: SpO2</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>SpO2 measures the amount of oxygen-carrying hemoglobin in the blood relative to the amount of hemoglobin not carrying oxygen. Acceptable normal ranges for patients without pulmonary pathology are from 95 to 99 percent.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: Partial arterioral oxygen pressure (PaO2) to fraction of inspiration O2 (FiO2) ratio</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>PaO2/FiO2 ratio is the ratio of arterial oxygen partial pressure (PaO2 in mmHg) to fractional inspired oxygen (FiO2 expressed as a fraction, not a percentage) also known as the Horowitz index, the Carrico index, and (most conveniently) the P/F ratio at sea level, the normal PaO2/FiO2 ratio is ~ 400-500 mmHg (~55-65 kPa).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: C-reactive protein (CRP)</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>For a standard CRP test, a normal reading is less than 10 milligram per liter (mg/L). Levels between 10 mg/L and 100 mg/L are moderately elevated and are usually due to more significant inflammation from an infectious or non-infectious cause. Inflammatory status is documented by C-reactive protein (CRP) ≥ 100mg/L.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2/3 Secondary Endpoint: Hs-CRP</measure>
+    <time_frame>Baseline, day 1, day 2, week 1, day 21(end of treatment), follow-up (FU) (7±3 days after treatment period)</time_frame>
+    <description>The hs-CRP test detects lower levels of CRP in the bloodstream (0.5-10 mg/L), whereas the CRP test measures levels in a higher range (10-1,000 mg/L).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">55</enrollment>
+  <condition>Severe Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Reparixin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Reparixin oral tablets 1200 mg TID for 7 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard of care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Reparixin</intervention_name>
+    <description>Reparixin will be administered via oral tablets 1200 mg TID for 7 days. In case of improvement, treatment can be prolonged at discretion of the investigator up to a maximum of 21 days of treatment in total or live discharge from the hospital, whichever comes first.</description>
+    <arm_group_label>Reparixin</arm_group_label>
+    <other_name>Repertaxin L-lysine salt</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>Standard of care</description>
+    <arm_group_label>Standard of care</arm_group_label>
+    <other_name>Control</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Phase 2 Inclusion Criteria:&#xD;
+&#xD;
+               1. Age 18 to 90.&#xD;
+&#xD;
+               2. Confirmed COVID-19 diagnosis&#xD;
+&#xD;
+               3. At least one of the following: # Respiratory distress, RR ≥ 30 breaths/min&#xD;
+                  without oxygen; # Partial arterial oxygen pressure (PaO2) / Fraction of&#xD;
+                  inspiration O2 (FiO2) &gt;100 &lt;300mmHg&#xD;
+&#xD;
+             (1mmHg = 0.133kPa). 4. Chest imaging confirms lung involvement and inflammation. 5.&#xD;
+             Inflammatory status as documented by at least one of the following: Lactate&#xD;
+             dehydrogenase (LDH) &gt; normal range, C-reactive protein (CRP) ≥ 100mg/L or IL-6 ≥&#xD;
+             40pg/mL, serum ferritin ≥ 900ng/mL, XDP &gt;20mcg/mL.&#xD;
+&#xD;
+          -  Phase 3 Inclusion Criteria: Same as above; other criteria TBD based on Phase 2&#xD;
+             outcomes.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        • Phase 2/3 Exclusion Criteria:&#xD;
+&#xD;
+          1. Cannot obtain informed consent.&#xD;
+&#xD;
+          2. Severe hepatic dysfunction (Child Pugh score ≥ C, or AST&gt; 5 times the upper limit);&#xD;
+             Severe renal dysfunction (estimated glomerular filtration rate ≤ 30mL / min / 1.73 m2)&#xD;
+             or receive continuous renal replacement therapy, hemodialysis, or peritoneal dialysis.&#xD;
+&#xD;
+          3. Patients with hypersensitivity to ibuprofen or to more than one non steroidal&#xD;
+             anti-inflammatory drug or to more than one medication belonging to the class of&#xD;
+             sulfonamides (e.g. sulfamethazine, sulfamethoxazole, sulfasalazine, nimesulide or&#xD;
+             celecoxib; hypersensitivity to sulphanilamide antibiotics alone, e.g.&#xD;
+             sulfamethoxazole, does not qualify for exclusion)&#xD;
+&#xD;
+          4. Severe, active bleeding such as hemoptysis, gastrointestinal bleeding, central nervous&#xD;
+             system bleeding, and nosebleeds within 1 month before enrollment.&#xD;
+&#xD;
+          5. Pregnant and lactating women and those planning to get pregnant.&#xD;
+&#xD;
+          6. Participated in other interventional clinical trials with investigational medicinal&#xD;
+             products, not considered suitable for this study by the researchers.&#xD;
+&#xD;
+          7. At the time of enrollment, patients not in a clinical condition compatible with the&#xD;
+             oral administration of the study drug.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lorenzo Piemonti, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ospedale San Raffaele</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alberto Zangrillo, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ospedale San Raffaele</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Instituto do Coração do Hospital das Clínicas da Faculdade de Medicina de São Paulo</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>05403-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Paolo</name>
+      <address>
+        <city>Milan</city>
+        <state>Lombardy</state>
+        <zip>20100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Raffaele</name>
+      <address>
+        <city>Milan</city>
+        <state>Lombardy</state>
+        <zip>20100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale di Varese</name>
+      <address>
+        <city>Varese</city>
+        <state>Lombardy</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 12, 2021</study_first_posted>
+  <last_update_submitted>March 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

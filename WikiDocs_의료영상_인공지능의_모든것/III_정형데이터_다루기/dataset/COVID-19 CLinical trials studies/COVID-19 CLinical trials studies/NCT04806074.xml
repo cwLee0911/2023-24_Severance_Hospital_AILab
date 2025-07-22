@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4741">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04806074</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SFRH/BD/128528/2017</org_study_id>
+    <nct_id>NCT04806074</nct_id>
+  </id_info>
+  <brief_title>FOODLIT-PRO: Improving Food Literacy and Food Sustainability Amidst the COVID-19 Pandemic</brief_title>
+  <acronym>FOODLIT-PRO</acronym>
+  <official_title>FOODLIT-PRO: Improving Food Literacy and Food Sustainability With an eHealth Intervention Using the Health Action Process Approach (HAPA) Framework and the Behaviour Change Techniques Taxonomy v1 (BCTTv) Amidst the COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ISPA - Instituto Universitario de Ciencias Psicologicas, Sociais e da Vida</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fundação para a Ciência e a Tecnologia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>ISPA - Instituto Universitario de Ciencias Psicologicas, Sociais e da Vida</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Given that healthy food-related habits are protective of both malnutrition and multiple&#xD;
+      noncommunicable diseases (including diabetes, heart disease, and cancer), and acknowledging&#xD;
+      that poor diets constitute a greater risk to mortality, it is essential to improve&#xD;
+      individuals' food-related knowledge, skills, and behaviours. Furthermore, the current public&#xD;
+      health context caused by the COVID-19 pandemic has reinforced the need for an adequate diet&#xD;
+      as a protective factor for one's global health.&#xD;
+&#xD;
+      In the ambit of the FOODLIT-PRO: Food Literacy Project (ref. SFRH/BD/128528/2017), a digital&#xD;
+      intervention to promote food literacy - that is, food-related knowledge, competencies, and&#xD;
+      behaviours - encompassing behavioural change strategies and psychological determinants (such&#xD;
+      as intention, planning, and self-efficacy) was developed.&#xD;
+&#xD;
+      With the online deliver of personalised evidence-based materials concerning food literacy,&#xD;
+      adult participants receive weekly challenges that promote their food-related knowledge (e.g.,&#xD;
+      recognising food's origin and seasonality), competencies (e.g., as cooking and planning&#xD;
+      skills), and behaviours (e.g., tracking food intake, interpret nutritional labels). Matched&#xD;
+      with tailored behavioural change strategies (experimental group), both food literacy content&#xD;
+      and psychological aspects that relate to health behaviour are assessed weekly in order to&#xD;
+      evaluate the intervention's efficacy. Follow-ups at 3-, 6- and 9-months post intervention&#xD;
+      will be assessed.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">August 14, 2020</start_date>
+  <completion_date type="Anticipated">September 6, 2021</completion_date>
+  <primary_completion_date type="Actual">December 6, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Food Literacy skills (Food Literacy Assessment Tool; submitted)</measure>
+    <time_frame>Measure applied at baseline, one week post-intervention, and at 3-, 6- and 9-months follow-ups in order to evaluate.</time_frame>
+    <description>Currently submitted for peer-review, this is a 24-item tool that assesses the perception of food literacy-related knowledge, competencies, and behaviours, according to the Food Literacy Wheel (Rosas et al., 2021). The food literacy aspects are measured through five domains: (i) origin, (ii) production and quality, (iii) select and plan, (iv) environmentally safe, and (v) cooking skills.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Health Action Process Approach Model (HAPA) Variables</measure>
+    <time_frame>Measure at baseline, one week post-intervention, and at 3-, 6- and 9-months follow-ups</time_frame>
+    <description>All measures of the HAPA model were based on the work of Schwarzer (2008) and Godinho, Alvarez, Lima, and Schwarzer (2014).&#xD;
+A total of 46-items assessed (i) outcome expectations, (ii) risk perception, (iii) action self-efficacy, (iv) maintenance self-efficacy, (v) recovery self-efficacy, (vi) intention, (vii) action planning, (viii) coping planning, and (ix) action control.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">215</enrollment>
+  <condition>Food Literacy</condition>
+  <condition>Food Habits</condition>
+  <condition>Behavior and Behavior Mechanisms</condition>
+  <condition>Eating Behavior</condition>
+  <arm_group>
+    <arm_group_label>Single-moment, unspecified delivery of food literacy information</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Non-specific food-related national and international guidelines were made digitally available in a website exclusively accessible to all the participants from the comparison group.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Personalised, weekly delivery of food literacy information matched with behaviour strategies</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Food-related tips - including theoretical knowledge, practical competencies, and behaviours - from national and international guidelines were specifically matched with Behaviour Change Techniques from the BCT Taxonomy v1. These personalised material were made digitally available in a website exclusively accessible to all the participants from the experimental group. Presenting each week's topic, a small video featuring the lead psychologist was also made available each week.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Experimental Group</intervention_name>
+    <description>Evidence-based food-related national and international guidelines were (i) specifically arranged considering the Food Literacy Wheel (Rosas et al., 2021) and personalised materials contained these guidelines were designed, (ii) matched with tailored behaviour change techniques (BCT Taxonomy v1, by Michie et al., XXXX) that indicated how to develop/implement each competence/behaviour, and (iii) digitally delivered weekly. Psychological variables of the Health Action Process Approach model (HAPA; Schwarzer, 2008) were integrated in the intervention, to study potential food literacy's psychological determinants. Weekly introduction videos featuring the lead psychologist were made available. Participants' groups in WhatsApp were built to incentive experience-sharing. Food literacy domains and HAPA determinants were assessed weekly, post-intervention, and in follow-up moments 3-, 6- and 9-months after the intervention.</description>
+    <arm_group_label>Personalised, weekly delivery of food literacy information matched with behaviour strategies</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Comparison Group</intervention_name>
+    <description>Food-related guidelines were delivered in a single moment in the first week of the intervention, on their original format and referring their original source (national's and international's entities websites). There was not a thematic for each specific week. No weekly introduction videos or WhatsApp groups existed in this condition. Food literacy domains and HAPA determinants were assessed weekly, post-intervention, and in follow-up moments 3-, 6- and 9-months after the intervention.</description>
+    <arm_group_label>Single-moment, unspecified delivery of food literacy information</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Having a minimum of digital literacy to access, visualise and download online material&#xD;
+             related to the intervention;&#xD;
+&#xD;
+          -  Having the availability to participate in the intervention (11 weeks) and posterior&#xD;
+             follow-up moments.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Isabel Leal, Ph.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>ISPA - Instituto Universitário</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>ISPA - Instituto Universitário</name>
+      <address>
+        <city>Lisboa</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Portugal</country>
+  </location_countries>
+  <reference>
+    <citation>Schwarzer, R. (2008) Modeling health behavior change: how to predict and modify the adoption and maintenance of health behaviors, Applied Psychology: An International Review, 57, 1-29.</citation>
+  </reference>
+  <reference>
+    <citation>Godinho CA, Alvarez MJ, Lima ML, Schwarzer R. Will is not enough: coping planning and action control as mediators in the prediction of fruit and vegetable intake. Br J Health Psychol. 2014 Nov;19(4):856-70. doi: 10.1111/bjhp.12084. Epub 2013 Dec 6.</citation>
+    <PMID>24308823</PMID>
+  </reference>
+  <reference>
+    <citation>Rosas R, Pimenta F, Leal I, Schwarzer R. FOODLIT-PRO: conceptual and empirical development of the food literacy wheel. Int J Food Sci Nutr. 2021 Feb;72(1):99-111. doi: 10.1080/09637486.2020.1762547. Epub 2020 May 13.</citation>
+    <PMID>32397776</PMID>
+  </reference>
+  <reference>
+    <citation>Rosas R, Pimenta F, Leal I, Schwarzer R. FOODLIT-PRO: Food Literacy Domains, Influential Factors and Determinants-A Qualitative Study. Nutrients. 2019 Dec 27;12(1). pii: E88. doi: 10.3390/nu12010088.</citation>
+    <PMID>31892245</PMID>
+  </reference>
+  <reference>
+    <citation>Michie S, Richardson M, Johnston M, Abraham C, Francis J, Hardeman W, Eccles MP, Cane J, Wood CE. The behavior change technique taxonomy (v1) of 93 hierarchically clustered techniques: building an international consensus for the reporting of behavior change interventions. Ann Behav Med. 2013 Aug;46(1):81-95. doi: 10.1007/s12160-013-9486-6.</citation>
+    <PMID>23512568</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 19, 2021</study_first_posted>
+  <last_update_submitted>March 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>ISPA - Instituto Universitario de Ciencias Psicologicas, Sociais e da Vida</investigator_affiliation>
+    <investigator_full_name>Raquel Rosas</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Food Literacy</keyword>
+  <keyword>Behaviour Change</keyword>
+  <keyword>Sustainability</keyword>
+  <keyword>COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

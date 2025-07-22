@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4097">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04760743</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NBP2001_001</org_study_id>
+    <nct_id>NCT04760743</nct_id>
+  </id_info>
+  <brief_title>Safety and Immunogenicity of a SARS-CoV-2 Vaccine (NBP2001) in Healthy Adults (COVID-19)</brief_title>
+  <official_title>A Phase I, Placebo-controlled, Randomized, Observer-blinded, Dose-escalation Study to Assess the Safety, Reactogenicity, and Immunogenicity of a SARS-CoV-2 Vaccine (NBP2001) in Healthy Adults Aged at 19 to 55 Years</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>SK Bioscience Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>SK Chemicals Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is to assess the safety, reactogenicity and immunogenicity of a SK SARS-CoV-2&#xD;
+      recombinant protein subunit vaccine (NBP2001) in healthy adults.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a first-in-human, Phase I, randomized, placebo-controlled, observer-blinded study to&#xD;
+      assess the safety, reactogenicity and immunogenicity of a SK SARS-CoV-2 recombinant protein&#xD;
+      subunit vaccine (NBP2001) in healthy adults.&#xD;
+&#xD;
+      A total of 50 healthy adults between 19 and 55 years of age will be enrolled and&#xD;
+      block-randomized in a 4:1 ratio to receive 2 doses of either one NBP2001 formulation (Test&#xD;
+      group 1 or 2) or placebo saline (Placebo group).&#xD;
+&#xD;
+      Over the study period, participants will commonly attend 10 planned visits. Telephone calls&#xD;
+      will be made 7 days after each vaccination (Day 7+3 after Visit 2 and Visit 4). However,&#xD;
+      sentinel participants will be required to return at Day 7(+ 3 days) after 1st vaccination for&#xD;
+      rigorous safety assessment.&#xD;
+&#xD;
+      Study vaccination will comprise 2 intramuscular injections of saline placebo, or a 30 or 50μg&#xD;
+      dose of NBP2001 in an injection volume of approximately 0.5mL. The study vaccines will be&#xD;
+      injected preferably into the deltoid muscle of the upper arm at a 28-day interval.&#xD;
+&#xD;
+      Halting rules based on reactogenicity and safety outcomes are defined, and enrollment and&#xD;
+      study vaccination may be paused during the study if any halting rules are met.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">December 17, 2020</start_date>
+  <completion_date type="Anticipated">April 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of immediate systemic reactions</measure>
+    <time_frame>Through 30 minutes (2 hours for sentinel participants) post-vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Occurrence of solicited local Adverse Events (AEs) during 7 days post each vaccination</measure>
+    <time_frame>Through 7 days post-vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Occurrence of solicited systemic AEs during 7 days post each vaccination</measure>
+    <time_frame>Through 7 days post-vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Occurrence of unsolicited AEs during 28 days post each vaccination</measure>
+    <time_frame>Through 28 days post-vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Occurrence of Serious Adverse Events (SAEs), Medically Attended Adverse Events (MAAEs) and Adverse Events of Special Interest (AESIs) during the whole study period</measure>
+    <time_frame>Through Day 0 to Day 365 post last vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GMT of IgG antibody to the SARS-CoV-2 RBD measured by Enzyme-linked Immunosorbent Assay (ELISA)</measure>
+    <time_frame>Through Day 365 post last vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GMFR of IgG antibody to the SARS-CoV-2 RBD from baseline measured by ELISA</measure>
+    <time_frame>Through Day 365 post last vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants with ≥ 4-fold rise from baseline in ELISA IgG titer</measure>
+    <time_frame>Through Day 365 post last vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GMT of neutralizing antibody to the SARS-CoV-2 measured by pseudovirus and wild-type virus neutralization assays</measure>
+    <time_frame>Through Day 365 post last vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GMFR of neutralizing antibody to the SARS-CoV-2 from baseline measured by pseudovirus and wild-type virus neutralization assays</measure>
+    <time_frame>Through Day 365 post last vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants with ≥ 4-fold rise from baseline in pseudovirus and wild-type neutralizing antibody titer</measure>
+    <time_frame>Through Day 365 post last vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cell-mediated response for both Th1 and Th2 (e.g. INF-γ, IL-4 using Enzyme-linked ImmunoSpot (ELISpot) or other system</measure>
+    <time_frame>Through Day 28 post last vaccination</time_frame>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">50</enrollment>
+  <condition>COVID-19 (Healthy Volunteers)</condition>
+  <arm_group>
+    <arm_group_label>low dose level cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 dose of NBP2001 adjuvanted with alum (Receptor Binding domain (RBD) 30μg/dose), 1 dose each on Day 0 and 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>high dose level cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 dose of NBP2001 adjuvanted with alum (Receptor Binding domain (RBD) 50μg/dose), 1 dose each on Day 0 and 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>2 doses of Placebo Saline, 1 dose each on Days 0 and 28.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>NBP2001 adjuvanted with alum (RBD 30μg/dose)</intervention_name>
+    <description>Participants will receive intramuscular (IM) injections of NBP2001(RBD 30μg/dose) on Days 0 and 28.</description>
+    <arm_group_label>low dose level cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>NBP2001 adjuvanted with alum (RBD 50μg/dose)</intervention_name>
+    <description>Participants will receive intramuscular (IM) injections of NBP2001(RBD 50μg/dose) on Days 0 and 28.</description>
+    <arm_group_label>high dose level cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Normal Saline</intervention_name>
+    <description>Participants will receive intramuscular (IM) injections of Normal saline on Days 0 and 28.</description>
+    <arm_group_label>Placebo group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Age&#xD;
+&#xD;
+          1. Participant must be 19 to 55 years of age inclusive, at the time of signing the&#xD;
+             informed consent.&#xD;
+&#xD;
+             Type of Participant and Disease Characteristics&#xD;
+&#xD;
+          2. Participants who are healthy as determined by medical evaluation including medical&#xD;
+             history, physical examination, clinical laboratory tests, and medical judgement of the&#xD;
+             investigator&#xD;
+&#xD;
+          3. Participants who are able to attend all scheduled visits and comply with all study&#xD;
+             procedures.&#xD;
+&#xD;
+             Weight&#xD;
+&#xD;
+          4. Body mass index (BMI) within the range 18-30 kg/m2 at screening (inclusive)&#xD;
+&#xD;
+             Sex and Contraceptive/Barrier Requirements&#xD;
+&#xD;
+          5. Female participants of childbearing potential must agree to be heterosexually&#xD;
+             inactive, or agree to consistently use at least one acceptable method of contraception&#xD;
+             from at least 21 days prior to the 1st study vaccination to 8 weeks after the last&#xD;
+             study vaccination&#xD;
+&#xD;
+          6. Female participants with a negative urine or serum pregnancy test at screening&#xD;
+&#xD;
+             Informed Consent&#xD;
+&#xD;
+          7. Capable of giving signed informed consent which includes compliance with the&#xD;
+             requirements and restrictions listed in the informed consent form (ICF) and in this&#xD;
+             protocol.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Medical Conditions&#xD;
+&#xD;
+          1. Any clinically significant respiratory symptoms (e.g. cough, sore throat), febrile&#xD;
+             illness (tympanic temperature &gt;38°C), or acute illness within 72 hours prior to the&#xD;
+             1st study vaccination. A prospective participant should not be included until 72 hours&#xD;
+             after the condition has resolved.&#xD;
+&#xD;
+          2. History of virologically-confirmed COVID-19 disease, or definite or suspected exposure&#xD;
+             to anyone known to have SARS-CoV-2 infection&#xD;
+&#xD;
+          3. History of virologically-confirmed SARS or MERS disease&#xD;
+&#xD;
+          4. History of congenital, hereditary, acquired immunodeficiency, or autoimmune disease&#xD;
+&#xD;
+          5. Any positive test results for hepatitis B, C, or HIV at screening&#xD;
+&#xD;
+          6. History of bleeding disorder or thrombocytopenia which is contraindicating&#xD;
+             intramuscular vaccination in the investigator's opinion&#xD;
+&#xD;
+          7. History of hypersensitivity and severe allergic reaction (e.g. anaphylaxis,&#xD;
+             Guillain-Barre syndrome) to any vaccines or components of the study intervention&#xD;
+&#xD;
+          8. History of malignancy within 5 years prior to the 1st study vaccination&#xD;
+&#xD;
+          9. Significant chronic illness that, in the opinion of the investigator, might increase&#xD;
+             risk of severe COVID-19, or interfere with the evaluation of the study objectives&#xD;
+             (e.g. asthma, chronic pulmonary disease, cardiovascular disease, chronic liver&#xD;
+             disease, diabetes mellitus, uncontrolled hypertension, renal disorders)&#xD;
+&#xD;
+         10. History of, or planned surgery under general anesthesia from 1 year prior to the 1st&#xD;
+             study vaccination through the study period&#xD;
+&#xD;
+         11. Any other conditions which, in the opinion of the investigator, might interfere with&#xD;
+             the evaluation of the study objectives (e.g. neurologic or psychiatric conditions)&#xD;
+&#xD;
+         12. Female participants who are pregnant or breastfeeding&#xD;
+&#xD;
+         13. Current smokers or a recent smoking history within 12 weeks prior to the 1st study&#xD;
+             vaccination. Occasional smokers who smoke up to 10 cigarettes per month may be allowed&#xD;
+             to participate at the investigator's discretion&#xD;
+&#xD;
+             Prior/Concomitant therapy&#xD;
+&#xD;
+         14. Receipt of any medications or vaccinations intended to prevent COVID-19.&#xD;
+&#xD;
+         15. Receipt of any vaccine within 4 weeks prior to the 1st study vaccination or planned&#xD;
+             receipt of any vaccine from enrollment through 28 days after the last study&#xD;
+             vaccination (Visit 7), except for influenza vaccination, which may be received at&#xD;
+             least 2 weeks prior to the 1st study vaccination. This exception includes monovalent&#xD;
+             pandemic influenza vaccines and multivalent influenza vaccines&#xD;
+&#xD;
+         16. Receipt of immunoglobulins and/or any blood or blood products within 12 weeks prior to&#xD;
+             the 1st study vaccination&#xD;
+&#xD;
+         17. Chronic use (more than 2 consecutive weeks) of immunosuppressive therapy, such as&#xD;
+             anti-cancer chemotherapy or radiation therapy; or long-term systemic corticosteroid&#xD;
+             therapy (≥10mg prednisone/day or equivalent for more than 2 consecutive weeks) within&#xD;
+             12 weeks prior to the 1st vaccination. The use of topical and nasal glucocorticoids&#xD;
+             will be permitted.&#xD;
+&#xD;
+             Prior/Concurrent Clinical Study Experience&#xD;
+&#xD;
+         18. Participation in another clinical study involving study intervention within 6 months&#xD;
+             prior to the 1st study vaccination, or concurrent, planned participation in another&#xD;
+             clinical study with study intervention during this study period.&#xD;
+&#xD;
+             Other Exclusions&#xD;
+&#xD;
+         19. Investigators, or study staff who are directly involved in the conduct of this study&#xD;
+             or supervised by the investigator, and their respective family members.&#xD;
+&#xD;
+         20. Healthcare worker or emergency response personnel in an occupation with a high risk of&#xD;
+             exposure to SARS-CoV-2&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Myoung-Don Oh</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Seoul National University Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Seoul National University Bundang Hospital</name>
+      <address>
+        <city>Seongnam-si</city>
+        <state>Bundang</state>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 18, 2021</study_first_posted>
+  <last_update_submitted>February 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aluminum sulfate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

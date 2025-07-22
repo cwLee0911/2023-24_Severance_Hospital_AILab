@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1005">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04756128</url>
+  </required_header>
+  <id_info>
+    <org_study_id>X2103400</org_study_id>
+    <nct_id>NCT04756128</nct_id>
+  </id_info>
+  <brief_title>Impact of Colchicine and Low-dose Naltrexone on COVID-19</brief_title>
+  <acronym>COLTREXONE</acronym>
+  <official_title>Impact of Colchicine and Low-dose Naltrexone on COVID-19 Disease Progression and Clinical Course in Hospitalized Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>HealthPartners Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Park Nicollet Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>HealthPartners Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to explore the impact of two medications-colchicine and low-dose&#xD;
+      naltrexone (LDN)-relative to standard of care (SOC) on COVID-19 disease progression to&#xD;
+      severe/critical illness and/or intubation in patients hospitalized with moderate COVID-19. As&#xD;
+      researchers have learned, COVID-19's clinical course suggests that the hyperinflammatory&#xD;
+      response seen in severe/critical cases is involved in the pathogenesis of associated adverse&#xD;
+      sequelae such as acute respiratory distress syndrome (ARDS), thromboembolic disease, and&#xD;
+      acute cardiac injury. Given colchicine has demonstrated clinical utility in inflammatory&#xD;
+      syndromes within these systems (e.g. endothelial/vascular/myocardial), and LDN acts both to&#xD;
+      boost the immune system, and limit an excessive response; they may prove useful in minimizing&#xD;
+      the risk of disease progression and associated adverse sequelae.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In December 2019, a novel coronavirus caused a cluster of pneumonia cases in Wuhan, China.&#xD;
+      The identified virus was officially named severe acute respiratory syndrome coronavirus 2&#xD;
+      (SARS-CoV-2) and the associated illness named coronavirus disease (COVID-19) (WHO). In the&#xD;
+      months since its discovery, the spread of SARS-CoV-2 has led to tens of millions of cases&#xD;
+      worldwide. In the United States alone, there have been over 11.6 million cases of COVID-19,&#xD;
+      with over 340,000 attributed deaths reported as of December 31, 2020 (CDC Cases in the US).&#xD;
+      Despite the recent availability of a preventative vaccine, there are limited&#xD;
+      pharmacotherapeutic treatment options for those with an active infection, the majority of&#xD;
+      which remain investigational.&#xD;
+&#xD;
+      Common symptoms among patients with mild disease include fever, altered senses of smell or&#xD;
+      taste, fatigue, or cough. More severe cases of COVID-19 may lead to hypoxemia and pneumonia.&#xD;
+      When compared to those with less-severe disease, severe/critical COVID-19 pneumonia generally&#xD;
+      results in an increase in circulating proinflammatory chemokines and cytokines. The&#xD;
+      SARS-CoV-2 virus has specific structural components (e.g. viroporin E and viroporins 3a and&#xD;
+      8A) that have been shown to activate NLRP3 inflammasomes NLRP3 has been found to be a major&#xD;
+      pathophysiologic component in developing ARDS; and inflammasome activation along with&#xD;
+      subsequent cytokine production is seen with myocardial injury, which may provide mechanistic&#xD;
+      insight to SARS-CoV-2's ability to cause cardiac insult. Additionally, aberrant activation of&#xD;
+      neutrophils and formation of excessive neutrophil extracellular traps (NETs) were found to be&#xD;
+      associated with ARDS, and recently to be the potential central cause of severe/critical&#xD;
+      COVID-19.&#xD;
+&#xD;
+      Treatments that influence neutrophil recruitment to sites of inflammation and&#xD;
+      hyper-inflammatory response may prove beneficial for reduction in disease progression,&#xD;
+      adverse sequelae, and mortality associated with COVID-19 infections. Agents under&#xD;
+      investigation to mitigate this detrimental host response include the IL-6 receptor&#xD;
+      antagonists. However, their extreme expense, scarce availability, and high-risk for severe&#xD;
+      adverse effects relegate the use of these injectable agents to cases that have already&#xD;
+      progressed to critical illness.&#xD;
+&#xD;
+      Colchicine is an oral anti-inflammatory agent that is relatively inexpensive, readily&#xD;
+      available, and has been used for generations. Approved for treatment and prophylaxis of gout&#xD;
+      flares and Mediterranean fever, it is also used in a variety of other inflammatory&#xD;
+      conditions. Colchicine binds to tubulin causing depolymerization, which interferes with&#xD;
+      neutrophil chemotaxis, adhesion, and mobilization to sites of inflammation, and contributes&#xD;
+      to reduction in superoxide production; through interference of the NLRP3 inflammasome protein&#xD;
+      complex, colchicine inhibits IL-1b, IL-6, and IL-18 production. These are recognized as&#xD;
+      playing an important role in acute coronary syndrome, pericarditis, and ARDS. Colchicine also&#xD;
+      has an anti-apoptotic action on endothelial cells that may provide benefit in minimizing&#xD;
+      extravasation, capillary leak, and therefore progression or development of ARDS. Lastly,&#xD;
+      coronavirus replication, virion particle assembly, and subsequent exocytosis from the host&#xD;
+      cell, have been shown to rely on cytoplasmic structural proteins (microtubules) for&#xD;
+      trafficking during its lifecycle. Disrupting microtubule trafficking has the potential to&#xD;
+      interfere with these key viral replication steps, and therefore introduction of a microtubule&#xD;
+      depolymerizing agent may help treat a coronavirus infection through decreased viral&#xD;
+      replication.&#xD;
+&#xD;
+      The use of colchicine in patients hospitalized with COVID-19 has been studied in several&#xD;
+      small uncontrolled case series and comparative cohort studies, as well as small, randomized&#xD;
+      controlled trials. Results have been unanimously favorable thus far, though they have&#xD;
+      substantial limitations. Some were performed during local COVID-19 surges, rates of&#xD;
+      intubation and mortality were likely inflated as a result, and therefore the benefits of&#xD;
+      colchicine may be overestimated.&#xD;
+&#xD;
+      Most well known as an opioid antagonist, or a treatment for alcohol dependence, naltrexone&#xD;
+      also possesses immunomodulatory effects. Seen exclusively at low doses, this attribute is&#xD;
+      being employed in the pain community as a novel anti-inflammatory agent that has been shown&#xD;
+      to reduce symptom severity in fibromyalgia, Crohn's disease, and multiple sclerosis.&#xD;
+      Naltrexone is a 50:50 racemic mixture of both L and R isomers - in theory, these isomers&#xD;
+      allow it to act in a dualistic fashion, both boosting the immune system yet limiting an&#xD;
+      excessive immune response. The L isomer is a competitive inhibitor of the Mu and Kappa opioid&#xD;
+      receptor, resulting in elevated levels of endogenous endorphins and enkephalins, which in&#xD;
+      turn, functions as an immune enhancer. The R isomer blocks the toll like receptor and&#xD;
+      modulates T and B cell activity; the downstream effects limit the release of inflammatory&#xD;
+      cytokines including IL-6, IL-12, TNF alpha, and NF-KB. A study in 2017 demonstrated a&#xD;
+      significant reduction in cytokines after eight weeks of therapy in eight female patients.&#xD;
+&#xD;
+      While preliminary LDN studies demonstrate success in Crohn's disease, multiple sclerosis, and&#xD;
+      fibromyalgia, there is still a need for follow-up trials to establish definitive evidence of&#xD;
+      benefit. The lack of proprietary value in a generic medication with no industry backing has&#xD;
+      hampered widespread adoption and FDA approval. Thus, clinical efficacy data is slowly&#xD;
+      forthcoming on LDN. At the same time, the safety profile of naltrexone is well established&#xD;
+      and very well tolerated in alcohol use disorder. Considering that is a high-risk population,&#xD;
+      and the dose used is significantly higher (25-100mg versus 1-4.5mg for LDN), it stands to&#xD;
+      reason that LDN should have little to no toxicity. Hepatic function has to be monitored at&#xD;
+      higher doses, and the drug should be stopped if necessary. However, with LDN the majority of&#xD;
+      adverse drug effects are constitutional (headache, dizziness, nausea etc.), with no end organ&#xD;
+      damage and no evidence for opportunistic infections.&#xD;
+&#xD;
+      As previously outlined, available evidence demonstrates that excessive immune response in the&#xD;
+      form of a &quot;cytokine storm&quot; plays a key role in the pathophysiology of COVID-19 offering this&#xD;
+      process as a possible target for drug therapy. Known immunomodulatory effects of LDN suggest&#xD;
+      that this drug could be used to reduce this exaggerated immune response. While the efficacy&#xD;
+      of LDN is being studied in COVID-19 (NCT04604704, NCT04604678, NCT04365985) in combination&#xD;
+      with a nutritional supplement, metformin, and ketamine (respectively), only the latter trial&#xD;
+      is recruiting at this time, and none includes colchicine.&#xD;
+&#xD;
+      The proposed study will investigate whether or not the colchicine and naltrexone (used alone&#xD;
+      or in combination) can slow the progression of COVID-19 patients hospitalized with mild&#xD;
+      illness. A modified version of the World Health Organization's R&amp;D Blueprint Ordinal Clinical&#xD;
+      Scale will be used to assess this outcome. Patients enrolled in the study will follow the&#xD;
+      schedule of events outlined below. If randomized to receive study drug (colchicine only,&#xD;
+      naltrexone only, or both colchicine and naltrexone) patients will continue to take the&#xD;
+      medication until discharge form the hospital (but not more than 28 days).&#xD;
+&#xD;
+      Baseline Enrollment Information collection&#xD;
+&#xD;
+        -  Inclusion &amp; Exclusion Criteria Assessment&#xD;
+&#xD;
+        -  Informed consent, randomization&#xD;
+&#xD;
+        -  Demographics-Documentation of patient characteristics&#xD;
+&#xD;
+        -  Past medical history-Documentation of diagnoses at baseline&#xD;
+&#xD;
+        -  Documentation of need for supplemental home oxygen therapy at baseline&#xD;
+&#xD;
+        -  Rule out pregnancy for female participants of child-bearing age Clinical Course&#xD;
+           Monitoring - Performed daily until discharge&#xD;
+&#xD;
+        -  Safety assessment and reporting-Review of chart for AEs by study staff&#xD;
+&#xD;
+        -  Concomitant medications-Review of medications taken in hospital in addition to study&#xD;
+           drugs&#xD;
+&#xD;
+        -  New Drug-Drug Interactions-Assessment of new/updated medications to determine risk of&#xD;
+           new drug interactions&#xD;
+&#xD;
+        -  Documentation of Colchicine dose frequency (Daily/BID, with rationale if changed)&#xD;
+&#xD;
+        -  Study Drug Administration-For interventional arms: Documentation of date and time of&#xD;
+           study drug administration&#xD;
+&#xD;
+        -  Maximum O2 needs for continuous 12-hour periods beginning at hospital admission&#xD;
+&#xD;
+        -  Tmax-Maximum recorded temperature patient reached during the study day&#xD;
+&#xD;
+        -  Chest imaging (yes/no)-Documentation of whether patient received SOC chest imaging on&#xD;
+           study day&#xD;
+&#xD;
+        -  EKG or continuous telemetry (yes/no)-Documentation of whether patient received an SOC&#xD;
+           EKG or is on continuous telemetry on study day&#xD;
+&#xD;
+        -  LMWH &gt; 0.5 mg/kg/dose (not cumulative daily dose) or heparin drip?&#xD;
+           (yes/no)-Documentation of need for more than .5mg/kg total dose of Low Molecular Weight&#xD;
+           Heparin on study day&#xD;
+&#xD;
+        -  Level of care-Documentation of clinical scale score; hospital unit through which patient&#xD;
+           is being treated&#xD;
+&#xD;
+        -  Length of hospitalization Mortality-Documentation of patient death at any time during&#xD;
+           the hospital stay Laboratory Monitoring&#xD;
+&#xD;
+        -  BNP (B-Type Natriuretic Peptide)-Documented during patient's hospital stay as performed&#xD;
+           per SOC&#xD;
+&#xD;
+        -  CBC with differential-Documented during patient's hospital stay as performed per SOC&#xD;
+           with supplemental research-only labs added as needed&#xD;
+&#xD;
+        -  C-reactive protein-Documented during patient's hospital stay as performed per SOC with&#xD;
+           supplemental research-only labs added as need&#xD;
+&#xD;
+        -  D-dimer-Documented during patient's hospital stay as performed per SOC with supplemental&#xD;
+           research-only labs added as need&#xD;
+&#xD;
+        -  Ferritin-Documented during patient's hospital stay as performed per SOC with&#xD;
+           supplemental research-only labs added as need&#xD;
+&#xD;
+        -  Hepatic Function Panel-Documented during patient's hospital stay as performed per SOC&#xD;
+           with supplemental research-only labs added as need&#xD;
+&#xD;
+        -  Procalcitonin-Documented during patient's hospital stay as performed per SOC -Serum&#xD;
+           Creatinine (SCr)-Documented during patient's hospital stay as preformed per SOC/as&#xD;
+           needed for research&#xD;
+&#xD;
+        -  Troponin-Documented during patient's hospital stay as performed per SOC up to discharge&#xD;
+&#xD;
+      Dosing strategy-Colchicine Patients randomized to a colchicine-containing treatment arm will&#xD;
+      receive colchicine 0.6 mg twice daily for up to 28 days. On the day of enrollment, provided&#xD;
+      the first dose can be given prior to 16:00 that day, patients are eligible to receive two&#xD;
+      doses; the second dose will be scheduled for 22:00. Patients experiencing gastrointestinal&#xD;
+      side effects (nausea, vomiting, and diarrhea) on twice daily dosing may have the dose&#xD;
+      decreased to 0.6 mg daily. Dosing will continue twice daily unless there is a change that&#xD;
+      requires a dose adjustment or an exclusion criterion is met. Dosing deviations above the&#xD;
+      study protocol will be allowed if medically necessary for the treatment of an additional&#xD;
+      indication (e.g. colchicine for viral pericarditis).&#xD;
+&#xD;
+      Renal dosing:&#xD;
+&#xD;
+        -  CrCl* ≥50 mL/min: colchicine 0.6 mg twice daily&#xD;
+&#xD;
+        -  CrCl* 30-49 mL/min: colchicine 0.6 mg every 24 hours&#xD;
+&#xD;
+        -  CrCl* 11-29 mL/min**: colchicine 0.6 mg every 48 hours&#xD;
+&#xD;
+        -  CrCl* ≤10 mL/min: doses will be held&#xD;
+&#xD;
+      Drug interactions: To ensure patients are properly screened and identified as&#xD;
+      eligible/ineligible with respect to prescribed medications, this research team will identify&#xD;
+      a group of study pharmacists and physicians (including the PI, Dr. Daniel Delaney, and a pain&#xD;
+      specialist, Dr. Joseph Johnson), who will be available as-needed to field questions regarding&#xD;
+      any medications a patient is taking during or prior to their hospital stay that may or may&#xD;
+      not preclude study participation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">January 25, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>This will be a four arm, prospective, randomized, open label trial in patients hospitalized with moderate COVID-19. Randomization will be stratified by baseline severity score (2 or 3) to ensure balanced baseline severities between the four arms. Block randomization will be used to ensure equal group sizes. As the final sample size is unknown, study staff will use small blocks of eight for randomization. This is being done in an effort to ensure evenly distributed treatment arms.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression of COVID-19 from &quot;moderate&quot; classification to &quot;severe/critical&quot;</measure>
+    <time_frame>Assessed from time of hospitalization until (1) 14 days after enrollment, while still hospitalized (or until discharge, which may be less than 14 days)</time_frame>
+    <description>Moderate illness is defined as patients requiring hospitalization due to laboratory confirmed COVID-19, and a clinical score of 2 or 3 on a modified version of the World Health Organization's R&amp;D Blueprint Ordinal Clinical Scale. A score of 4 or 5 will be defined as severe/critical illness. An increase of 2 or more points over the baseline scale will constitute progression to the primary endpoint. The study will determine if the odds of progression from moderate to severe/critical illness is different among the four treatment arms.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Total duration of hospitalization</measure>
+    <time_frame>Assessed from time of hospitalization until discharge, calculated after patient completes hospital stay - approximately 7 days on average</time_frame>
+    <description>Study team will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on this metric:&#xD;
+Total amount of time (in hours) patient spent in hospital from admission to discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total duration of hospitalization (from first dose of study drug to discharge)</measure>
+    <time_frame>Assessed from time of study drug administration to discharge, calculated after patient completes hospital stay; 7 days after admission on average)</time_frame>
+    <description>Study team will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on this metric:&#xD;
+Total amount of time (in hours) patient spent in hospital from first dose of any study medication (or when first dose would be given for standard of care arm) to hospital discharge (or when ready for discharge but remains hospitalized for non-medical reasons [e.g. transitional care unit placement delays])</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Composite in-hospital mortality</measure>
+    <time_frame>Assessed/evaluated following patient's hospital stay; 7 days after admission on average)</time_frame>
+    <description>Count of patients in each study arm who expire during their hospital admission for COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total duration of ICU Admission</measure>
+    <time_frame>Assessed/evaluated following patient's hospital stay; 7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on this metric:&#xD;
+Among patients admitted to the ICU; total amount of time spent receiving this level of care, in hours</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total duration of intubation</measure>
+    <time_frame>Assessed/evaluated following patient's hospital stay; 7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on this metric:&#xD;
+Among patients intubated, total amount of time spent intubated, in hours</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total duration of time spent on HFNC or NIPPV from first dose of study drug to discharge</measure>
+    <time_frame>Assessed/evaluated after patient's hospital stay after enrollment; 7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on this metric:&#xD;
+Total amount of time (in hours) patients spent on High Flow Nasal Cannula (HFNC) or Non-Invasive Positive Pressure Ventilation (NIPPV) from first dose of study drug (or anticipate first dose, if in standard of care arm) to discharge.&#xD;
+*will exclude time spent on NIPPV for obstructive sleep apnea/night time use in patients who use these devices (CPAP, BiPAP) and baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total duration of time above baseline oxygen requirements from first dose of study drug to discharge</measure>
+    <time_frame>Assessed/evaluated following patient's hospital stay; 7 days after admission on average</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on this metric:&#xD;
+Total amount of time (in hours) patients spent above their baseline oxygen requirements from first dose of study drug (or anticipated study drug, if in standard of care arm) to discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In hospital days with a fever &gt;/= 38 degrees Celsius (00:00 to 23:59:59) from first dose of study drug to discharge (or anticipated first dose if in standard of care arm)</measure>
+    <time_frame>Assessed/evaluated following patient's hospital stay after enrollment; 7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on this metric:&#xD;
+Count (frequency) of in-hospital days with a fever &gt;/= 38 degrees Celsius (00:00 to 23:59:59) from first dose of study drug (or anticipated first dose if in standard of care arm) to discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events associated with the study drug</measure>
+    <time_frame>Assessed/evaluated daily during patient's hospital stay from randomization to discharge from hospital (on average, 7 days), but up to 60 days.</time_frame>
+    <description>Will document the type and count of AEs that are known to be related to each study drug (will document the specific diagnosis and report the frequency of with which they occur among all participants in the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of significant adverse outcomes associated with/attributable to COVID-19</measure>
+    <time_frame>Assessed/evaluated daily during patient's hospital from randomization to discharge from hospital (on average, 7 days), but up to 60 days,</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on this metric:&#xD;
+Frequency with which the following known sequelae of COVID-19 occur:&#xD;
+Acute Respiratory Distress Syndrome (ARDS)&#xD;
+Thromboembolic disease&#xD;
+Myocardial injury&#xD;
+Acute Kidney Injury&#xD;
+Myocardial Injury&#xD;
+Encephalopathic delirium</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative dose of corticosteroids received in ED/Hospital</measure>
+    <time_frame>Assessed/evaluated Following patient's hospital stay; 7 days after admission on average</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on this metric:&#xD;
+Cumulative dose of corticosteroids received in ED/Hospital (excluding those used prior to admission for an alternative indication) converted to a single equivalent unit. Study team will document steroid type and total amount given prior to conversion to equivalency unit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative dose of remdesivir received in ED/Hospital</measure>
+    <time_frame>Assessed/evaluated following patient's hospital stay; 7 days after admission on average</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on this metric:&#xD;
+Cumulative dose of remdesivir received during hospital stay (i.e. total number of doses received)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Discharge Anticoagulation Needs</measure>
+    <time_frame>Assessed/evaluated following patient's hospital stay; 7 days after admission on average).</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on this metric:&#xD;
+Need for discharge anticoagulation (i.e., whether or not patient was prescribed direct oral anticoagulant specifically for prophylaxis of increased venous thromboembolism risk due to COVID-19 following hospitalization).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Continuous lab results - B-Type Natriuretic Peptide</measure>
+    <time_frame>Documented during patient's hospital stay at (1) baseline/enrollment and at (2) completion of study/hospital discharge (7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on the following continuous lab values:&#xD;
+B-Type Natriuretic Peptide (pg/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Continuous lab results - C-Reactive Protein</measure>
+    <time_frame>Documented during patient's hospital stay at (1) baseline/enrollment, (2) once in the 3-day time period between study days 5-7, and (3) completion of study/hospital discharge (7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on the following continuous lab values:&#xD;
+C-Reactive Protein (pg/dL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Continuous lab results - D-Dimer</measure>
+    <time_frame>Documented during patient's hospital stay at (1) baseline/enrollment and at (2) completion of study/hospital discharge (7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on the following continuous lab values:&#xD;
+D-Dimer (pg/dL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Continuous lab results - Ferritin</measure>
+    <time_frame>Documented during patient's hospital stay at (1) baseline/enrollment and at (2) completion of study/hospital discharge (7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on the following continuous lab values:&#xD;
+Ferritin (ng/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Continuous lab results - Procalcitonin</measure>
+    <time_frame>Documented during patient's hospital stay at (1) baseline/enrollment and at (2) completion of study/hospital discharge (7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on the following continuous lab values:&#xD;
+Procalcitonin (ng/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Continuous lab results - Serum Creatinine</measure>
+    <time_frame>Documented during patient's hospital stay at (1) baseline/enrollment and (2) every 48 hours after enrollment until discharge from hospital (7 days on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on the following continuous lab values:&#xD;
+Serum Creatinine (mg/dL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Continuous lab results - Troponin</measure>
+    <time_frame>Documented during patient's hospital stay at (1) baseline/enrollment and at (2) completion of study/hospital discharge (7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on the following continuous lab values:&#xD;
+Troponin (ng/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Continuous lab results - Hepatic Function Panel (ALT/AST/Alkaline Phosphotase)</measure>
+    <time_frame>Documented during patient's hospital stay at (1) baseline/enrollment, (2) one time on study day 6, and (3) completion of study/hospital discharge (7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on the following continuous lab values:&#xD;
+AST Aspartate aminotransferase (U/L) ALT alanine aminotransferase (U/L) alkaline phosphotase (U/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Continuous lab results - Hepatic Function Panel (Bilirubin)</measure>
+    <time_frame>Documented during patient's hospital stay at (1) baseline/enrollment, (2) one time on study day 6, and (3) completion of study/hospital discharge (7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on the following continuous lab values:&#xD;
+Bilirubin (total) - mg/dL Bilirubin (indirect) - mg/dL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Continuous lab results - Hepatic Function Panel (Protein/Albumin)</measure>
+    <time_frame>Documented during patient's hospital stay at (1) baseline/enrollment, (2) one time on study day 6, and (3) completion of study/hospital discharge (7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on the following continuous lab values:&#xD;
+Protein - g/dL Albumin- g/dL&#xD;
+Will document results of each individual test obtained throughout patient's stay. Will document if ordered standard-of-care or for research. For patients with a 7 day hospital stay, 2-3 hepatic function panel labs will be collected.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Continuous lab results - Complete Blood Count with Differential Part 1</measure>
+    <time_frame>Documented during patient's hospital stay at (1) baseline/enrollment, (2) once in the 3-day time period between study days 5-7, and (3) completion of study/hospital discharge (7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on the following continuous lab values:&#xD;
+Red Blood Cell Count White Blood Cell Count Platelets Neutrophil Absolute Lymphocyte Absolute Monocyte Absolute Eosinophil absolute Basophil absolute&#xD;
+(all reported as 10^9 cells per L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Continuous lab results - Complete Blood Count with Differential Part 2</measure>
+    <time_frame>Documented during patient's hospital stay at (1) baseline/enrollment, (2) once in the 3-day time period between study days 5-7, and (3) completion of study/hospital discharge (7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on the following continuous lab values:&#xD;
+Hemocrit (HCT) % Immature granulocytes (%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Continuous lab results - Complete Blood Count with Differential Part 3</measure>
+    <time_frame>Documented during patient's hospital stay at (1) baseline/enrollment, (2) once in the 3-day time period between study days 5-7, and (3) completion of study/hospital discharge (7 days after admission on average)</time_frame>
+    <description>Will investigate the effects of colchicine and LDN, alone or in combination, relative to standard care on the following continuous lab values:&#xD;
+Hemoglobin (g/dL)</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">164</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Colchicine-Only Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients randomized to a colchicine-containing treatment arm will receive colchicine 0.6 mg twice daily for up to 28 days. On the day of enrollment, provided the first dose can be given prior to 16:00 that day, patients are eligible to receive two doses; the second dose will be scheduled for 22:00. Patients experiencing gastrointestinal side effects (nausea, vomiting, and diarrhea) on twice daily dosing may have the dose decreased to 0.6 mg daily. Dosing will continue twice daily unless there is a change that requires a dose adjustment or an exclusion criterion is met. Dosing deviations above the study protocol will be allowed if medically necessary for the treatment of an additional indication (e.g. colchicine for viral pericarditis).&#xD;
+Patients in this arm will also receive the investigating institution's current standard of care (described in detail in the &quot;standard of care&quot; arm) for patients with COVID-19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Colchicine and Naltrexone (&quot;Combined&quot;) Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients randomized to a colchicine-containing treatment arm (including the &quot;combined arm&quot;) will receive colchicine 0.6 mg twice daily for up to 28 days. On the day of enrollment, provided the first dose can be given prior to 16:00 that day, patients are eligible to receive two doses; the second dose will be scheduled for 22:00.&#xD;
+Patients in the &quot;combined&quot; arm will also receive naltrexone. Patients randomized to an LDN-containing treatment arm (including the &quot;combined arm&quot;) will receive naltrexone 4.5 mg once daily. The first dose can be given at any time during the day of enrollment/randomization, and will be timed at 08:00 daily thereafter (with AM colchicine dose, if in combined colchicine/LDN arm) for up to 28 days (unless new contraindication or exclusion criteria met).&#xD;
+Patients in this arm will also receive the investigating institution's current standard of care (described in detail in the &quot;standard of care&quot; arm) for patients with COVID-19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Naltrexone-Only Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients randomized to an LDN-containing treatment arm (including the &quot;combined arm&quot;) will receive naltrexone 4.5 mg once daily. The first dose can be given at any time during the day of enrollment/randomization, and will be timed at 08:00 daily thereafter (with AM colchicine dose, if in combined colchicine/LDN arm) for up to 28 days (unless new contraindication or exclusion criteria met).&#xD;
+Patients in this arm will also receive the investigating institution's current standard of care (described in detail in the &quot;standard of care&quot; arm) for patients with COVID-19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care Arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients in this arm will receive the investigating institution's current standard of care for patients with COVID-19. For example, all patients requiring supplemental oxygen (assuming no contraindications) would be candidates for both remdesivir 200 mg x 1 IV dose followed the next day by 100 mg q24h IV x up to 4 doses, as well as dexamethasone 6 mg q24h x 10 up to 10 doses.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Colchicine 0.6 mg</intervention_name>
+    <description>Colchicine is an oral anti-inflammatory agent that is relatively inexpensive, readily available, and has been used for generations. Approved for treatment and prophylaxis of gout flares and Mediterranean fever, it is also used in a variety of other inflammatory conditions (e.g. pericarditis and diffuse vascular inflammation such as Behcet syndrome). Colchicine binds to tubulin causing depolymerization, which interferes with neutrophil chemotaxis, adhesion, and mobilization to sites of inflammation, and contributes to reduction in superoxide production; through interference of the NLRP3 inflammasome protein complex, colchicine inhibits IL-1b, IL-6, and IL-18 production.&#xD;
+For this study, patients enrolled in a colchicine containing arm will receive 0.6mg of colchicine BID (unless renal function/gastrointestinal issues require adjustments described in the protocol)</description>
+    <arm_group_label>Colchicine and Naltrexone (&quot;Combined&quot;) Arm</arm_group_label>
+    <arm_group_label>Colchicine-Only Arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Naltrexone</intervention_name>
+    <description>Most well known as an opioid antagonist, or a treatment for alcohol dependence, naltrexone also possesses immunomodulatory effects. Seen exclusively at low doses, this attribute is being employed in the pain community as a novel anti-inflammatory agent that has been shown to reduce symptom severity in fibromyalgia, Crohn's disease, multiple sclerosis, and complex regional pain syndrome.&#xD;
+For this study, patients enrolled in a naltrexone-containing arm will take their daily dose of the medication (4.5mg) by oral suspension.</description>
+    <arm_group_label>Colchicine and Naltrexone (&quot;Combined&quot;) Arm</arm_group_label>
+    <arm_group_label>Naltrexone-Only Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male and (non-pregnant, non-breastfeeding) females aged 18 years or older&#xD;
+&#xD;
+          2. Requiring admission to Methodist or Regions Hospital due to laboratory-confirmed&#xD;
+             COVID-19&#xD;
+&#xD;
+          3. Meets criteria of only up to moderate COVID-19 disease as defined by a clinical score&#xD;
+             of 2 or 3 at the time of enrollment, and one or more of the following:&#xD;
+&#xD;
+               1. Dyspnea limiting usual activities on baseline O2 needs&#xD;
+&#xD;
+               2. Respiratory rate &gt;/= 30/min on O2 or room air&#xD;
+&#xD;
+               3. Blood oxygen saturations &lt;94% on room air (or on baseline O2 needs if on&#xD;
+                  supplemental oxygen prior to presentation at the hospital for a condition&#xD;
+                  unrelated to COVID-19).&#xD;
+&#xD;
+               4. Requiring supplemental 02 above baseline needs (i.e. prior to presentation at&#xD;
+                  hospital)&#xD;
+&#xD;
+          4. Ability to provide written informed consent, or has identifiable LAR that is able to&#xD;
+             do so on the patient's behalf as defined by study protocol, prior to performing study&#xD;
+             procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients meeting criteria for severe/critical COVID-19 as defined by study protocol or&#xD;
+             requiring O2 supplementation ≥6L nasal cannula at screening&#xD;
+&#xD;
+          2. Patients currently in shock as defined by hemodynamic instability requiring&#xD;
+             vasopressors&#xD;
+&#xD;
+          3. Patients with a current hospitalization for COVID-19 that is &gt;/=7 days at the time of&#xD;
+             screening.&#xD;
+&#xD;
+          4. Clinical estimation of attending physician that the patient will require mechanical&#xD;
+             respiratory support within 48 hours of enrollment&#xD;
+&#xD;
+          5. Clinical estimation of attending physician that patient will be discharged within 48&#xD;
+             hours of enrollment&#xD;
+&#xD;
+          6. Patients in which EITHER symptom onset OR a positive COVID-19 laboratory test occurred&#xD;
+             &gt;10 days prior to enrollment.&#xD;
+&#xD;
+          7. Patients with concomitant influenza A or B at time of hospitalization if tested as&#xD;
+             part of ED/hospital admission.&#xD;
+&#xD;
+          8. Female patients who are pregnant or breastfeeding at time of hospital admission&#xD;
+&#xD;
+          9. Diagnosis of Chronic Kidney Disease stage ≥4 as documented in the patient's problem&#xD;
+             list (not based on CrCI calculations alone)&#xD;
+&#xD;
+         10. CrCl &lt; 30 mL/min or requiring renal replacement therapy (e.g. intermittent&#xD;
+             hemodialysis, continuous renal replacement therapy, peritoneal dialysis) at screening&#xD;
+&#xD;
+         11. History of cirrhosis or advanced liver disease, or active hepatic viral infection&#xD;
+&#xD;
+         12. Transplant of kidney, lung, heart, or liver in the past 2 years&#xD;
+&#xD;
+         13. Uncontrolled severe gastrointestinal disorders, Crohn's disease, ulcerative colitis,&#xD;
+             chronic diarrhea, diarrhea predominant irritable bowel syndrome, active stomach or&#xD;
+             intestinal ulcer, or one that was treated within the last 6 months&#xD;
+&#xD;
+         14. Patients currently receiving agents that are p-glycoprotein AND strong CYP3A4&#xD;
+             inhibitors with CrCl &lt; 60 mL/min, or any combination of drug interactions that is not&#xD;
+             amenable to dosage adjustment (refer to list of medications with potential Colchicine&#xD;
+             and Naltrexone interactions).&#xD;
+&#xD;
+         15. Patients actively undergoing chemotherapy for an active malignancy, or history of a&#xD;
+             hematologic malignancies&#xD;
+&#xD;
+         16. Chronic or current use of colchicine or any mu-opioid antagonist.&#xD;
+&#xD;
+         17. Chronic, scheduled opioid therapy (i.e. not intermittent as needed use), or, prior to&#xD;
+             enrollment, an acute condition requiring continued pain control that is unattainable&#xD;
+             without ongoing opioid therapy.&#xD;
+&#xD;
+         18. Pre-existing condition that is being treated with tocilizumab, anakinra, sarilumab,&#xD;
+             other interleukin-antagonists, TNF-inhibitors, or JAK inhibitors.&#xD;
+&#xD;
+         19. Participation in any other clinical trial of an experimental treatment for COVID-19,&#xD;
+             note: a. While convalescent plasma is no longer recommended within HP, it can be given&#xD;
+             if deemed appropriate by the medical team once ≥ 24 hours has elapsed since&#xD;
+             enrollment; b. Patients previously enrolled in the C3PO study can enroll in this&#xD;
+             study, as any convalescent plasma received would have been outpatient; c.Remdesivir is&#xD;
+             allowed per standard protocol; d. Dexamethasone is allowed per standard protocol&#xD;
+&#xD;
+         20. Patients actively enrolled in hospice or that are DNI or on palliative care&#xD;
+&#xD;
+         21. History of hypersensitivity reaction to colchicine or its inactive ingredients&#xD;
+&#xD;
+         22. History of hypersensitivity reaction to naltrexone or its inactive ingredients&#xD;
+&#xD;
+         23. Incarcerated or a ward of the state&#xD;
+&#xD;
+         24. Any patient considered an unsuitable candidate, for any reason, by study&#xD;
+             investigators.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dan Delaney, PharmD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Park Nicollet Methodist Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Park Nicollet Methodist Hospital</name>
+      <address>
+        <city>Saint Louis Park</city>
+        <state>Minnesota</state>
+        <zip>55426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regions Hospital</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 16, 2021</study_first_posted>
+  <last_update_submitted>February 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>HealthPartners Institute</investigator_affiliation>
+    <investigator_full_name>Daniel P. Delaney, PharmD, BCIDP</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colchicine</mesh_term>
+    <mesh_term>Naltrexone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is no plan to share IPD with investigators not currently involved in the study.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

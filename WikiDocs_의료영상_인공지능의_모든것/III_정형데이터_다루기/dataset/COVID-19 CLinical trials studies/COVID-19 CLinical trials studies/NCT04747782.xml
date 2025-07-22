@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2926">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04747782</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COLOBILI v4.2</org_study_id>
+    <nct_id>NCT04747782</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Longitudinal Biomarkers in Lung Injury</brief_title>
+  <acronym>COLOBILI</acronym>
+  <official_title>COVID-19 Longitudinal Biomarkers in Lung Injury</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dr. Andrew Baker</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Unity Health Toronto</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Profile known and novel biomarkers in blood in COVID19 patients to characterize the host&#xD;
+      response to SARS-CoV-2 over time and in response to treatment.&#xD;
+&#xD;
+      The investigators aim to:&#xD;
+&#xD;
+        -  Better understand the disease. The investigators will achieve this by characterizing the&#xD;
+           biology of COVID-19 infection and the pathophysiology of the host response using&#xD;
+           clinical data together with cellular and molecular measurements over the course of the&#xD;
+           disease. This will allow better insights for the discovery and development of novel&#xD;
+           therapeutics.&#xD;
+&#xD;
+        -  Understand why different patients have different phenotypes and disease presentations&#xD;
+           over time. The investigators will achieve this by analyzing for patient subgroups. This&#xD;
+           will allow targeted patient stratification and better matching of resources.&#xD;
+&#xD;
+        -  Understand how patients are responding to the different medications being tested in&#xD;
+           clinical trials. The investigators will achieve that by co-enrolling with therapeutic&#xD;
+           trials. This will allow an understanding of the biological effects of these&#xD;
+           interventions.&#xD;
+&#xD;
+      Study Design: Observational adaptive study of a translational nature, combining clinical data&#xD;
+      and basic science investigations in blood samples in the same patients, longitudinally, with&#xD;
+      serial interim analyses.&#xD;
+&#xD;
+      Primary outcomes: 90 day ICU mortality. Secondary outcomes: measures of ICU utilization and&#xD;
+      disease severity, and 90 day in-hospital mortality.&#xD;
+&#xD;
+      The study ends after 3 months from admission to the ICU, hospital discharge or death.&#xD;
+&#xD;
+      Location: St. Michael's Hospital (Unity Health Toronto), an academic center in downtown&#xD;
+      Toronto affiliated with the University of Toronto.&#xD;
+&#xD;
+      The investigators will collect: A) Detailed clinical data including investigations,&#xD;
+      mechanical ventilation and cardiovascular parameters. B) Blood samples for state-of-the-art&#xD;
+      multi-omics biomarker discovery and development: cytokines, anti-COVID19 antibodies,&#xD;
+      autoimmune serology, metabolomics, transcriptomics, epigenomics, deep immune phenotyping,&#xD;
+      viral loads. For those patients who die with COVID19 The investigators will perform bedside&#xD;
+      post-mortem biopsies of lung, heart, kidney and muscle.&#xD;
+&#xD;
+      Sampling times: From admission to the maximal severity phase through convalescence, in order&#xD;
+      to capture the evolution and dynamics of the disease and the recovery process: days 0,1, 3,&#xD;
+      5, 7, 10, 15 and 22, and then every 2 weeks until the end of the study (3 months from&#xD;
+      admission to the ICU, hospital discharge or death).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 23, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Death in ICU</measure>
+    <time_frame>within 3 months from admission</time_frame>
+    <description>Death in ICU</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Days in ICU</measure>
+    <time_frame>within 3 months from admission to the ICU</time_frame>
+    <description>Length of hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation days</measure>
+    <time_frame>within 3 months from admission to the ICU</time_frame>
+    <description>Length of mechanical ventilation while in the ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days of mechanical ventilation rescue measures</measure>
+    <time_frame>within 3 months from admission to the ICU</time_frame>
+    <description>Number of days on which the patient was treated with one or more of the following rescue meaures: neuromuscular blockade, inhaled NO, proning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>APACHE II score on admission</measure>
+    <time_frame>On admission to the ICU</time_frame>
+    <description>Acute Physiology And Chronic Health Evaluation II. Min 0, Max 71. Higher scores impart higher mortality risk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SOFA score</measure>
+    <time_frame>On the same days as blood sampling: days 0,1, 3, 5, 7, 10, 15 and 22, and then every 2 weeks until the end of the study (3 months from admission to the ICU, hospital discharge or death).</time_frame>
+    <description>Sequential Organ Failure Assessment, calculated daily. Min 6, Max 24. Higher scores impart higher mortality risk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In hospital death</measure>
+    <time_frame>within 3 months from admission</time_frame>
+    <description>In hospital death</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid19</condition>
+  <condition>Respiratory Disease</condition>
+  <condition>Critical Illness</condition>
+  <arm_group>
+    <arm_group_label>COVID positive</arm_group_label>
+    <description>Patients admitted to the ICU with respiratory distress found to be COVID19 positive.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID negative</arm_group_label>
+    <description>Patients admitted to the ICU with respiratory distress found to be COVID19 negative</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID positive delayed</arm_group_label>
+    <description>Patients admitted to the ICU for an indication other than respiratory distress, found to be COVID19 positive.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>never-ICU</arm_group_label>
+    <description>Patients admitted to the internal medicine ward with respiratory distress found to be COVID19 positive.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>no interventions performed. Just collecting data, blood samples and post-mortem biopsies.</intervention_name>
+    <description>no interventions performed. Just collecting data, blood samples and post-mortem biopsies.</description>
+    <arm_group_label>COVID negative</arm_group_label>
+    <arm_group_label>COVID positive</arm_group_label>
+    <arm_group_label>COVID positive delayed</arm_group_label>
+    <arm_group_label>never-ICU</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      -  EDTA plasma and cellular pellets, serum, citrated plasma, saliva, fixed whole blood for&#xD;
+           CYTOF.&#xD;
+&#xD;
+        -  Percutaneous core biopsy of lung, heart, kidney and muscle.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients admitted to the critical care unit or general medicine ward in a tertiary referral&#xD;
+        medical center.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        -  Primary Cohort: Patients admitted to the ICU with respiratory deterioration suspected&#xD;
+             or confirmed to be due to SARS-CoV-2. Suspicion will be based on the clinical criteria&#xD;
+             in place at SMH, with the threshold for inclusion being a suspicion high enough to use&#xD;
+             PPE until confirmatory testing results are obtained. Only patients found to be COVID19&#xD;
+             positive will stay in this cohort. This population will be called &quot;ICU Positive&quot;.&#xD;
+&#xD;
+          -  Secondary Cohort: Patients admitted to the ICU for any reason who are COVID19&#xD;
+             positive, regardless of admission date or when they are found to be COVID19 positive.&#xD;
+             This population will be called &quot;ICU Positive - delayed&quot;&#xD;
+&#xD;
+          -  Biological controls in the ICU: Any patients from the primary cohort who are found to&#xD;
+             be COVID19 negative. This population will be called &quot;ICU negative&quot;.&#xD;
+&#xD;
+          -  Biological controls outside the ICU: Patients admitted to the floor with respiratory&#xD;
+             deterioration suspected or confirmed to be due to SARS-CoV-2, or that develop such&#xD;
+             respiratory deterioration within 15 days of admission (i.e. become &quot;persons under&#xD;
+             investigation&quot;). Suspicion will be based on the clinical criteria in place at SMH,&#xD;
+             with the threshold for inclusion being a suspicion high enough to use PPE until&#xD;
+             confirmatory testing results are obtained. Only patients found to be COVID19 positive&#xD;
+             will stay in this cohort. If these patients require ICU admission within 15 days, they&#xD;
+             will cross-over to the &quot;ICU positive&quot; cohort and count towards that cohort (i.e.&#xD;
+             number of recruited patients). If they don't require ICU admission within 15 days,&#xD;
+             they will stay in this cohort and be called &quot;never ICU&quot;.&#xD;
+&#xD;
+          -  Healthy volunteers: The investigators will recruit healthy volunteers among healthcare&#xD;
+             workers and allied personnel in the hospital. They will provide peripheral blood to&#xD;
+             serve as: a) independent controls for experimental and laboratory variables, and b)&#xD;
+             references of healthy baseline state for experiments.&#xD;
+&#xD;
+          -  A patient previously enrolled as a COVID negative can be re-enrolled in a subsequent&#xD;
+             hospitalization with a new study ID (i.e. counts as another encounter for the total&#xD;
+             enrollment). The records will be linked to indicate they represent the same person&#xD;
+             enrolled again.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          -  Refusal to participate.&#xD;
+&#xD;
+          -  Inability to record the primary outcome during the first 2 weeks.&#xD;
+&#xD;
+          -  For the ICU positive and ICU negative cohorts only: failure to obtain the day 0 or 1&#xD;
+             blood sample (for example technical problems, or identification of COVID-19 after ICU&#xD;
+             admission i.e. there was no suspicion on admission).&#xD;
+&#xD;
+          -  For the ward patients, inability to collect day 1 or 2 blood sample.&#xD;
+&#xD;
+          -  Known to have had COVID in the past (&gt;4 weeks) in any setting.&#xD;
+&#xD;
+          -  Healthy volunteers only: COVID19 known or suspected infection, or unprotected exposure&#xD;
+             to a known acutely ill COVID19 patient in the past 4 weeks; and/or currently unwell or&#xD;
+             in the course of an acute illness.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrew J Baker, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Unity Health Toronto</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marlene Santos</last_name>
+    <phone>416-360-4000</phone>
+    <phone_ext>2322</phone_ext>
+    <email>Marlene.Santos@unityhealth.to</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Victoria Paz</last_name>
+    <phone>416-864-5559</phone>
+    <email>Victoria.Paz@unityhealth.to</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>St Michael's Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5B 1W8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marlene Santos</last_name>
+      <phone>416-360-4000</phone>
+      <phone_ext>2322</phone_ext>
+      <email>Marlene.Santos@unityhealth.to</email>
+    </contact>
+    <contact_backup>
+      <last_name>Victoria Paz</last_name>
+      <phone>416-864-5559</phone>
+      <email>Victoria.Paz@unityhealth.to</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Andrew Baker, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 10, 2021</study_first_posted>
+  <last_update_submitted>February 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Unity Health Toronto</investigator_affiliation>
+    <investigator_full_name>Dr. Andrew Baker</investigator_full_name>
+    <investigator_title>Chief, Departments of Critical Care and Anesthesia, St Michael's Hospital</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Injury</mesh_term>
+    <mesh_term>Respiration Disorders</mesh_term>
+    <mesh_term>Respiratory Tract Diseases</mesh_term>
+    <mesh_term>Critical Illness</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Depends on the type of data requested</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

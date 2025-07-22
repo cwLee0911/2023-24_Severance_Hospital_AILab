@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="966">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04780035</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COV/pept-03/20</org_study_id>
+    <nct_id>NCT04780035</nct_id>
+  </id_info>
+  <brief_title>Study of the Tolerability, Safety, Immunogenicity and Preventive Efficacy of the EpiVacCorona Vaccine for the Prevention of COVID-19</brief_title>
+  <official_title>Multicenter Double-blind Placebo-controlled Comparative Randomized Study of the Tolerability, Safety, Immunogenicity and Prophylactic Efficacy of the EpiVacCorona Peptide Antigen-based Vaccine for the Prevention of COVID-19, With the Participation of 3000 Volunteers Aged 18 Years and Above (Phase III-IV)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Federal Budgetary Research Institution State Research Center of Virology and Biotechnology &quot;Vector&quot;</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Federal Budgetary Research Institution State Research Center of Virology and Biotechnology &quot;Vector&quot;</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of the clinical study is to evaluate the tolerability, safety, immunogenicity&#xD;
+      and prophylactic efficacy of the EpiVacCorona vaccine in volunteers aged 18 and above.&#xD;
+&#xD;
+      The study tasks are to:&#xD;
+&#xD;
+        -  evaluate the safety of the EpiVacCorona vaccine when administered twice intramuscularly;&#xD;
+&#xD;
+        -  evaluate the tolerability of the EpiVacCorona vaccine when administered twice&#xD;
+           intramuscularly;&#xD;
+&#xD;
+        -  identify any adverse events to the administration of the EpiVacCorona vaccine;&#xD;
+&#xD;
+        -  investigate the humoral immune response following two doses of the EpiVacCorona vaccine;&#xD;
+&#xD;
+        -  investigate the cell-mediated immune response following two doses of the EpiVacCorona&#xD;
+           vaccine;&#xD;
+&#xD;
+        -  evaluate the prophylactic efficacy of the EpiVacCorona vaccine when administered twice&#xD;
+           intramuscularly.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will screen a maximum of 4,929 volunteers of both sexes aged 18 and above, of which&#xD;
+      3,000 volunteers who meet the inclusion criteria and do not have the exclusion criteria will&#xD;
+      be randomized:&#xD;
+&#xD;
+        -  2,250 volunteers who will be vaccinated with the EpiVacCorona vaccine, twice&#xD;
+           intramuscularly at a dose of 0.5 ml;&#xD;
+&#xD;
+        -  750 volunteers who will be vaccinated with a placebo, twice intramuscularly at a dose of&#xD;
+           0.5 ml.&#xD;
+&#xD;
+      If volunteers drop out of the study, they will not be replaced. All volunteers will be&#xD;
+      followed up by an investigator physician for 6 months following the first vaccination in&#xD;
+      order to identify possible late adverse events. In case the volunteer has any late reactions,&#xD;
+      he/she will be invited to the clinic to correct his/her condition.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">November 18, 2020</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The proportion of vaccinated volunteers with no laboratory confirmed symptoms caused by SARS-CoV-2, within 6 months post vaccination versus a placebo</measure>
+    <time_frame>within 6 months after the first vaccination</time_frame>
+    <description>The proportion of vaccinated volunteers with no laboratory confirmed symptoms caused by SARS-CoV-2, in combination with one or more of the following symptoms: fever or chills; cough; shortness of breath or labored breathing; fatigue; muscle pain; headache; loss of taste or smell; sore throat; a stuffy nose or runny nose; nausea or vomiting; diarrhea, within 6 months post vaccination versus a placebo</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The prophylactic efficacy of the vaccine</measure>
+    <time_frame>9 months after the first vaccination</time_frame>
+    <description>The prophylactic efficacy of the vaccine under study is ≥50% compared to a placebo, with the lower limit of the confidence interval of the point estimate for the primary efficacy variable &gt; 30%</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of volunteers with increased levels of the immune response in terms of geometric mean titers of specific antibodies</measure>
+    <time_frame>21-28 days after the second vaccination</time_frame>
+    <description>The proportion of volunteers with increased levels of the immune response in terms of geometric mean titers of specific antibodies in ELISA is more than 4 times greater 21 to 28 days following the second vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of volunteers with increased levels of the immune response in terms of specific neutralizing antibody titers</measure>
+    <time_frame>21-28 days after the second vaccination</time_frame>
+    <description>The proportion of volunteers with increased levels of the immune response in terms of specific neutralizing antibody titers in ELISA is more than 4 times greater 21 to 28 days following the second vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The frequency of severe cases of COVID-19 following a single / double vaccination</measure>
+    <time_frame>through the whole study, an average of 9 months</time_frame>
+    <description>The frequency of severe cases of COVID-19 following a single / double vaccination (including hospitalization, transfer to an intensive care unit, death, etc.)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of disease</measure>
+    <time_frame>through the whole study, an average of 9 months</time_frame>
+    <description>Duration of illness in case of COVID-19 disease</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of asymptomatic COVID-19 following a single / double vaccination</measure>
+    <time_frame>through the whole study, an average of 9 months</time_frame>
+    <description>The incidence of asymptomatic COVID-19 following a single / double vaccination (to assess the effectiveness of vaccination in preventing SARS-CoV-2 infection)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">3000</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Group &quot;Vaccine&quot;</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2,250 volunteers who will be vaccinated with the EpiVacCorona vaccine, twice intramuscularly at a dose of 0.5 ml.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>&quot;Control Group&quot;</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>750 volunteers who will be vaccinated with a placebo, twice intramuscularly at a dose of 0.5 ml.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>EpiVacCorona (EpiVacCorona vaccine based on peptide antigens for the prevention of COVID-19)</intervention_name>
+    <description>The EpiVacCorona vaccine is intended to prevent COVID-19. The vaccine relies on chemically synthesized peptide antigens of SARS-CoV-2 proteins conjugated to a carrier protein and adsorbed on an aluminum-containing adjuvant (aluminum hydroxide).&#xD;
+The vaccine induces the specific immunity against the SARS-CoV-2 coronavirus following two intramuscular injections spaced 21 to 28 days apart.&#xD;
+The EpiVacCorona vaccine contributes to the development of protective immunity against SARS-CoV-2 coronavirus following two intramuscular administrations given 21 to 28 days apart.</description>
+    <arm_group_label>Group &quot;Vaccine&quot;</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo (sodium chloride, a 0.9% solution for the preparation of dosage forms for injections)</intervention_name>
+    <description>The use of placebo: intramuscularly twice, given 21 to 28 days apart at a dose of 0.5 ml</description>
+    <arm_group_label>&quot;Control Group&quot;</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Availability of a signed and dated informed consent of the volunteer to participate in&#xD;
+             a clinical trial, prior to any of the study procedures.&#xD;
+&#xD;
+          2. Volunteers (men and women) above the age of 18 years with stable indicators of basic&#xD;
+             vital functions.&#xD;
+&#xD;
+          3. Ability to attend all scheduled visits and all planned procedures and examinations.&#xD;
+&#xD;
+          4. Consent of volunteers to use effective contraceptive methods throughout the study,&#xD;
+             including the observation period for possible post-vaccination reactions.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of severe acute respiratory syndrome (SARS) or Middle East respiratory&#xD;
+             syndrome (MERS) or another coronavirus infection (HCoV-229E, HCOV-OC43, HCoV-NL63,&#xD;
+             HCoV-HKU1).&#xD;
+&#xD;
+          2. History of exposure to confirmed or suspected cases of SARS-CoV-2 infection within 1&#xD;
+             month prior to randomization.&#xD;
+&#xD;
+          3. Positive for IgM or IgG to SARS-CoV-2 as detected during screening.&#xD;
+&#xD;
+          4. Positive PCR test for SARS-CoV-2 as detected during screening.&#xD;
+&#xD;
+          5. Clinically and laboratory (according to PCR data) confirmed disease caused by&#xD;
+             SARS-CoV-2 coronavirus, at the moment or in the past.&#xD;
+&#xD;
+          6. Serious post-vaccination reaction (body temperature above 40 °C , hyperemia or edema&#xD;
+             greater than 8 cm in diameter) or complication (collapse or shock-like state that&#xD;
+             developed within 48 hours after vaccination; convulsions, with or without of a febrile&#xD;
+             state) to a previous vaccination in the past.&#xD;
+&#xD;
+          7. Aggravated allergic history (anaphylactic shock, Quincke's edema, polymorphic&#xD;
+             exudative eczema, atopy, history of serum disease, history of hypersensitivity or&#xD;
+             allergic reactions to the administration of any vaccines, any known allergic reactions&#xD;
+             to vaccine components, etc.).&#xD;
+&#xD;
+          8. Hypersensitivity to any component of the product, allergy to vaccine components.&#xD;
+&#xD;
+          9. History of vaccination with any vaccine within one month prior to randomization.&#xD;
+&#xD;
+         10. Previous vaccination with rabies vaccines less than 2 months prior to randomization,&#xD;
+             or planned vaccination with rabies vaccines within 1 month after immunization with the&#xD;
+             vaccine under study.&#xD;
+&#xD;
+         11. Pregnancy or breastfeeding.&#xD;
+&#xD;
+         12. The military.&#xD;
+&#xD;
+         13. Persons in custody in detention facilities and those serving sentences in correctional&#xD;
+             facilities.&#xD;
+&#xD;
+         14. Children under the age of 18.&#xD;
+&#xD;
+         15. History of any acute respiratory illness less than 3 months prior to randomization.&#xD;
+&#xD;
+         16. Acute infectious or non-infectious diseases, exacerbation of chronic diseases less&#xD;
+             than 4 weeks prior to randomization.&#xD;
+&#xD;
+         17. History of tuberculosis (pulmonary and extrapulmonary), cancer, autoimmune diseases,&#xD;
+             skin diseases.&#xD;
+&#xD;
+         18. Long-term use (more than 14 days) of immunosuppressants, systemic glucocorticosteroids&#xD;
+             or immunomodulatory drugs within 6 months prior to randomization.&#xD;
+&#xD;
+         19. Use of immunoglobulin drugs or blood products within 3 months prior to randomization.&#xD;
+&#xD;
+         20. Chronic diseases of the cardiovascular, bronchopulmonary, endocrine systems,&#xD;
+             gastrointestinal tract, liver, kidneys, blood, disease of the endocrine system in the&#xD;
+             exacerbation phase or that in the decompensation phase in the past or as detected&#xD;
+             during laboratory and imaging examination.&#xD;
+&#xD;
+         21. History of surgery within 6 months prior to randomization.&#xD;
+&#xD;
+         22. Participation in other clinical trials less than 3 months prior to randomization.&#xD;
+&#xD;
+         23. Persons with alcohol or drug abuse (medications or narcotics). Use of more than 10&#xD;
+             units of alcohol per week (1 unit of alcohol is equivalent to ½ liter of beer, or 200&#xD;
+             ml of wine or 50 ml of alcohol) or history of alcoholism, narcomania or drug&#xD;
+             (medication) abuse.&#xD;
+&#xD;
+         24. Mental illness or neurasthenia.&#xD;
+&#xD;
+         25. Positive test for HIV, viral hepatitis B and C, or syphilis.&#xD;
+&#xD;
+         26. Premenopausal women (last menstrual period ≤ 1 year prior to signing the informed&#xD;
+             consent) who are not surgically sterile and women who have reproductive potential but&#xD;
+             do not use or plan to use approved birth control products throughout the study nor&#xD;
+             they agree to a urine pregnancy test while participating in the study.&#xD;
+&#xD;
+         27. Serious concomitant diseases or pathological conditions not listed above, which,&#xD;
+             according to the investigator's opinion, could complicate the assessment of the study&#xD;
+             results, including any pathological deviations from the age norms and laboratory norms&#xD;
+             of blood and urine parameters, clinically significant in the investigator's opinion.&#xD;
+&#xD;
+        And:&#xD;
+&#xD;
+          1. The investigator's decision to exclude the volunteer for the benefit of the volunteer.&#xD;
+&#xD;
+          2. False inclusion (violation of inclusion or non-inclusion criteria) or the appearance&#xD;
+             of non-inclusion criteria during the study.&#xD;
+&#xD;
+          3. The decision of the investigator or the Sponsor to exclude the volunteer from the&#xD;
+             study due to a clinically significant deviation from the protocol/violation of the&#xD;
+             protocol.&#xD;
+&#xD;
+          4. Any undesirable phenomenon requiring the appointment of drugs not authorized by the&#xD;
+             protocol of this study.&#xD;
+&#xD;
+          5. Volunteer's desire to complete the study early for any reason.&#xD;
+&#xD;
+          6. Volunteer's failure to show up for a scheduled visit without the warning the&#xD;
+             investigator or loss of communication with the volunteer.&#xD;
+&#xD;
+          7. Positive urine drug test and / or alcohol breath test during the visit.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rinat A. Maksyutov, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Federal Budgetary Research Institution - State Research Center of Virology and Biotechnology &quot;Vector&quot;, Federal Service for Surveillance on Consumer Rights Protection and Human Well-being</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Nikita V. Lomakin</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Federal State Budgetary Institution - Central Clinical Hospital with Polyclinic, Administrative Office of the President of the Russian Federation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Vitaly G. Gusarov</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Federal State Budgetary Institution - N.I. Pirogov National Medical and Surgical Center, Ministry of Health of the Russian Federation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Maria A. Chukina</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Federal State Budgetary Research Institution - Academician B.V. Petrovsky Russian Research Center for Surgery</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Stanislav A. Terpigorev</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>State Budgetary Healthcare Institution of the Moscow region - M.F. Vladimirsky Moscow Regional Research Clinical Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Svetlana B. Erofeeva</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>State Budgetary Healthcare Institution of the Moscow region - Krasnogorsk City Hospital # 1</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Olga A. Rychkova</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>State Budgetary Educational Institution of Higher Professional Education - Tyumen State Medical University, Ministry of Health of the Russian Federation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Viktoria Y. Delyan, Associate Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>State Autonomous Healthcare Institution - Clinical City Hospital # 7 of Kazan</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Vladimir V. Rafalsky</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Federal State Autonomous Educational Institution of Higher Education - Immanuel Kant Baltic University (short name: FSAEIHE- I. Kant Baltic Federal University)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution of the Moscow region - Krasnogorsk City Hospital # 1 (short name: SBHI MR KCH # 1)</name>
+      <address>
+        <city>Krasnogorsk</city>
+        <state>Moscow Region</state>
+        <zip>143408</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Federal State Autonomous Educational Institution of Higher Education - Immanuel Kant Baltic University (short name: FSAEIHE- I. Kant Baltic Federal University)</name>
+      <address>
+        <city>Kaliningrad</city>
+        <zip>236016</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State Autonomous Healthcare Institution - Clinical City Hospital # 7 of Kazan (short name: SAHI CCH # 7)</name>
+      <address>
+        <city>Kazan</city>
+        <zip>420103</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Federal State Budgetary Institution - N.I. Pirogov National Medical and Surgical Center, Ministry of Health of the Russian Federation (short name: FSBI - N.I. Pirogov NMSC, Ministry of Health of the Russian Federation)</name>
+      <address>
+        <city>Moscow</city>
+        <zip>105203</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Federal State Budgetary Research Institution - Academician B.V. Petrovsky Russian Research Center for Surgery (short name: FSBRI - Academician B.V. Petrovsky RRCS)</name>
+      <address>
+        <city>Moscow</city>
+        <zip>119991</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Center: Federal State Budgetary Institution - Central Clinical Hospital with Polyclinic, Administrative Office of the President of the Russian Federation (short name: FSBI Central Clinical Hospital with Polyclinic)</name>
+      <address>
+        <city>Moscow</city>
+        <zip>121359</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution of the Moscow region - M.F. Vladimirsky Moscow Regional Research Clinical Institute (short name: M.F. Vladimirsky SBHI MRRCI)</name>
+      <address>
+        <city>Moscow</city>
+        <zip>129110</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Educational Institution of Higher Professional Education - Tyumen State Medical University, Ministry of Health of the Russian Federation (short name: SBEIHPE - Tyumen State Medical University, Ministry of Health of Russian Federation)</name>
+      <address>
+        <city>Tyumen</city>
+        <zip>625023</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>March 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>EpiVacCorona vaccine</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

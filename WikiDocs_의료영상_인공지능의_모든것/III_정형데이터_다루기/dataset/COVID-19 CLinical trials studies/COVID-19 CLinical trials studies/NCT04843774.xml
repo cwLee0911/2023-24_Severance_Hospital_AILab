@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="941">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04843774</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-00206</org_study_id>
+    <nct_id>NCT04843774</nct_id>
+  </id_info>
+  <brief_title>Covid19 Multiple Sclerosis Vaccine Biospecimen Study</brief_title>
+  <official_title>The Evaluation of Immune Responses to SARS-COV-2 mRNA Vaccines in Multiple Sclerosis Patients on Ocrelizumab</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Severe acute respiratory coronavirus 2 (SARS-CoV-2) is a novel coronavirus and the causative&#xD;
+      agent of COVID 19 disease, whose presentation symptoms range from asymptomatic infection to&#xD;
+      mild flu-like symptoms to multi system failure and death, resulting in significant morbidity&#xD;
+      and mortality worldwide. Novel vaccines against the SARS-CoV-2 virus have very recently been&#xD;
+      developed; however, the effectiveness, immune response, and short- or long-term safety of&#xD;
+      these vaccines have not been tested in immunocompromised patients on anti-CD-20 therapy for&#xD;
+      multiple sclerosis (MS) or for other disorders.&#xD;
+&#xD;
+      This study will examine the immune response of the Pfizer-BioNTech and Moderna messenger RNA&#xD;
+      (mRNA)-platform vaccines developed against SARS-CoV-2 virus given as standard of care (SOC)&#xD;
+      in MS patients on ocrelizumab.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 19, 2021</start_date>
+  <completion_date type="Anticipated">October 14, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Anti-SARS-CoV-2 S Titer Levels</measure>
+    <time_frame>Baseline, Pre-First Vaccine Dose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anti-SARS-CoV-2 S Titer Levels</measure>
+    <time_frame>Week 4, Post-Last Dose of Vaccine</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anti-SARS-CoV-2 S Titer Levels</measure>
+    <time_frame>Week 12, Post-Last Dose of Vaccine</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with a fold rise of serum anti-SARS-CoV-2 S titers</measure>
+    <time_frame>Baseline, Pre-First Vaccine Dose</time_frame>
+    <description>This outcome measure will be reported for participants with a fold rise &gt;=2, &gt;=3, and &gt;=4 of serum anti-SARS-CoV-2 S titers</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with a fold rise of serum anti-SARS-CoV-2 S titers</measure>
+    <time_frame>Week 4, Post-Last Dose of Vaccine</time_frame>
+    <description>This outcome measure will be reported for participants with a fold rise &gt;=2, &gt;=3, and &gt;=4 of serum anti-SARS-CoV-2 S titers</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with a fold rise of serum anti-SARS-CoV-2 S titers</measure>
+    <time_frame>Week 12, Post-Last Dose of Vaccine</time_frame>
+    <description>This outcome measure will be reported for participants with a fold rise &gt;=2, &gt;=3, and &gt;=4 of serum anti-SARS-CoV-2 S titers</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>T-Cell Response</measure>
+    <time_frame>Baseline, Pre-First Vaccine Dose</time_frame>
+    <description>T-cell response will be measured by ELISpot assay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>T-Cell Response</measure>
+    <time_frame>Week 4, Post-Last Dose of Vaccine</time_frame>
+    <description>T-cell response will be measured by ELISpot assay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>T-Cell Response</measure>
+    <time_frame>Week 12, Post-Last Dose of Vaccine</time_frame>
+    <description>T-cell response will be measured by ELISpot assay</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 anti-S1 and anti-Receptor Binding Domain (RBD) binding antibody levels</measure>
+    <time_frame>Week 4, Post-Last Dose of Vaccine</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 anti-S1 and anti-Receptor Binding Domain (RBD) binding antibody levels</measure>
+    <time_frame>Week 12, Post-Last Dose of Vaccine</time_frame>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Multiple Sclerosis</condition>
+  <arm_group>
+    <arm_group_label>COVID-negative Multiple Sclerosis patients treated with ocrelizumab</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SARS-COV-2 mRNA Vaccine</intervention_name>
+    <description>Pfizer-BioNTech and Moderna messenger RNA (mRNA)-platform vaccines developed against SARS-CoV-2 virus will be given as standard of care (SOC)</description>
+    <arm_group_label>COVID-negative Multiple Sclerosis patients treated with ocrelizumab</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Patients will have 5 blood draws in-person&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        COVID-negative Multiple Sclerosis patients treated with ocrelizumab&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ability to provide written informed consent and understand and agree to be compliant&#xD;
+             with the study protocol&#xD;
+&#xD;
+          -  Age 18 to 65 years at time of signing the ICF&#xD;
+&#xD;
+          -  For women of childbearing potential: agreement to avoid in-vitro fertilization or&#xD;
+             remain abstinent (refrain from heterosexual intercourse) or use acceptable&#xD;
+             contraceptive methods during the treatment period and for 6 months after the final&#xD;
+             dose of ocrelizumab&#xD;
+&#xD;
+               -  A woman is considered to be of childbearing potential if she is postmenarchal,&#xD;
+                  has not reached a postmenopausal state (12 continuous months of amenorrhea with&#xD;
+                  no identified cause other than menopause), and has not undergone surgical&#xD;
+                  sterilization (removal of ovaries and/or uterus). The definition of childbearing&#xD;
+                  potential may be adapted for alignment with local guidelines or requirements.&#xD;
+&#xD;
+               -  The following are acceptable contraceptive methods (as defined by the&#xD;
+                  guidelines): progesterone-only hormonal contraception, where inhibition of&#xD;
+                  ovulation is not the primary mode of action; male or female condom with or&#xD;
+                  without spermicide; and cap, diaphragm, or sponge with spermicide. More effective&#xD;
+                  contraceptive methods (e.g., bilateral tubal ligation; male sterilization; copper&#xD;
+                  intrauterine devices) may be used, but are not required.&#xD;
+&#xD;
+          -  Diagnosis of RMS, PPMS, SPMS currently on ocrelizumab therapy&#xD;
+&#xD;
+          -  Patients on ocrelizumab as SOC with the last dose received within 6 months prior to&#xD;
+             first vaccine&#xD;
+&#xD;
+          -  EDSS &lt;= 6.5&#xD;
+&#xD;
+          -  Able to comply with study procedures based on the assessment of the Investigator&#xD;
+&#xD;
+          -  Healthy adults or adults with pre-existing medical conditions who are in stable&#xD;
+             condition. A stable medical condition is defined as disease not requiring significant&#xD;
+             change in therapy or hospitalization for worsening disease during the 3 months before&#xD;
+             enrollment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  MS related&#xD;
+&#xD;
+               -  Clinical MS relapse as defined by the treating physician, documented within the&#xD;
+                  last 3 months prior to vaccine&#xD;
+&#xD;
+               -  Is acutely ill or febrile 72 hours prior to or at screening. Fever is defined as&#xD;
+                  a body temperature &gt;=38.0C/100.4F. Participants meeting this criterion may be&#xD;
+                  rescheduled within the relevant window periods. Febrile participants with minor&#xD;
+                  illnesses can be enrolled at the discretion of the investigator.&#xD;
+&#xD;
+          -  Is pregnant or breastfeeding; women of childbearing potential must have a negative&#xD;
+             serum or urine pregnancy test result within 14 days prior to study enrollment&#xD;
+&#xD;
+          -  Known history of SARS-CoV-2 infection as defined by:&#xD;
+&#xD;
+               1. Meeting CDC Clinical Case Definition Criteria (CDC, 2020) in which at least two&#xD;
+                  core symptoms below are present:&#xD;
+&#xD;
+                    -  New continuous cough,&#xD;
+&#xD;
+                    -  Temperature &gt;= 37.8C,&#xD;
+&#xD;
+                    -  Loss of, or change in, normal sense of smell (anosmia) or taste (ageusia) in&#xD;
+                       the absence of alternative explanation,&#xD;
+&#xD;
+                    -  Additional features such as influenza-like illness, clinical or radiological&#xD;
+                       evidence of pneumonia, or acute worsening of underlying respiratory illness,&#xD;
+                       or fever without another cause, AND&#xD;
+&#xD;
+               2. Objective evidence that supports COVID 19 diagnosis, such as detection of&#xD;
+                  SARS-CoV-2 specific antibody in serum, plasma, or whole blood; radiographic&#xD;
+                  evidence of pneumonia or acute respiratory distress syndrome.&#xD;
+&#xD;
+          -  Prior mRNA vaccine for COVID 19&#xD;
+&#xD;
+          -  History of a delayed second dose of vaccine &gt;= 14 days from recommended dosing&#xD;
+&#xD;
+          -  Prior administration of an investigational coronavirus (SARS CoV, MERS CoV) vaccine or&#xD;
+             current/planned simultaneous participation in another interventional study to prevent&#xD;
+             or treat COVID 19&#xD;
+&#xD;
+          -  Demonstrated inability to comply with the study procedures&#xD;
+&#xD;
+          -  Known or suspected allergy or history of anaphylaxis, urticaria, or other significant&#xD;
+             adverse reaction to the vaccine or its excipients&#xD;
+&#xD;
+          -  Bleeding disorder considered a contraindication to intramuscular injection or&#xD;
+             phlebotomy&#xD;
+&#xD;
+          -  Has received or plans to receive a non-study vaccine within 28 days prior to or after&#xD;
+             any dose of COVID vaccine (except for seasonal influenza vaccine, which is not&#xD;
+             permitted within 14 days before or after any dose of COVID vaccine)&#xD;
+&#xD;
+          -  Has participated in an interventional clinical study within 28 days prior to the day&#xD;
+             of enrollment&#xD;
+&#xD;
+          -  Immunosuppressive or immunodeficient state, asplenia, recurrent severe infections&#xD;
+             (HIV-positive participants with CD4 count &gt;=350 cells/mm^3 and an undetectable HIV&#xD;
+             viral load within the past year [low-level variations from 50 to 500 viral copies that&#xD;
+             do not lead to changes in antiretroviral therapy are permitted])&#xD;
+&#xD;
+          -  Has received systemic steroids or other immunosuppressants other than those required&#xD;
+             as ocrelizumab pre-medication for &gt;14 days in total within 6 months prior to screening&#xD;
+             (for corticosteroids &gt;=20 mg/day of prednisone equivalent)&#xD;
+&#xD;
+          -  Has received high-dose intravenous (IV) or oral steroids within 30 days of screening;&#xD;
+             IVIG or PLEX within 3 months of screening&#xD;
+&#xD;
+          -  Has received systemic immunoglobulins or blood products within 3 months prior to the&#xD;
+             day of screening&#xD;
+&#xD;
+          -  Patients cannot receive other COVID 19 vaccine products outside this study during the&#xD;
+             study period&#xD;
+&#xD;
+          -  Infection related&#xD;
+&#xD;
+             - Known active bacterial, viral, fungal, mycobacterial infection, or other infection&#xD;
+             (including tuberculosis or atypical mycobacterial disease, but excluding fungal&#xD;
+             infection of nail beds) or any major episode of infection requiring hospitalization or&#xD;
+             treatment with IV antibiotics within 4 weeks prior to baseline visit or oral&#xD;
+             antibiotics within 2 weeks prior to baseline visit&#xD;
+&#xD;
+          -  Cancer Related&#xD;
+&#xD;
+             - History of cancer, including solid tumors and hematological malignancies (except&#xD;
+             basal cell, in situ squamous cell carcinomas of the skin, and in situ carcinoma of the&#xD;
+             cervix or the uterus that have been excised and resolved with documented clean margins&#xD;
+             on pathology)&#xD;
+&#xD;
+          -  Other medical conditions&#xD;
+&#xD;
+               -  History of or currently active primary or secondary immunodeficiency&#xD;
+&#xD;
+               -  History of active alcohol or other drug abuse&#xD;
+&#xD;
+               -  Any concomitant, non-MS disease that may require chronic treatment with systemic&#xD;
+                  corticosteroids or immunosuppressants during the course of the study&#xD;
+&#xD;
+               -  Significant, uncontrolled disease, as defined by AMA guidelines or similar, such&#xD;
+                  as cardiovascular (including congestive heart failure - NYHA Grade 3 or 4,&#xD;
+                  cardiac arrhythmia), uncontrolled hypertension, pulmonary (including chronic&#xD;
+                  obstructive pulmonary disease), renal, hepatic, endocrine (including uncontrolled&#xD;
+                  diabetes mellitus), and gastrointestinal&#xD;
+&#xD;
+               -  Known presence or history of other neurologic disorders, including but not&#xD;
+                  limited to, the following:&#xD;
+&#xD;
+                    -  Neuromyelitis optica spectrum disorders (NMOSD)&#xD;
+&#xD;
+                    -  Severe, clinically significant brain or spinal cord trauma (e.g., cerebral&#xD;
+                       contusion, spinal cord compression)&#xD;
+&#xD;
+                    -  Psychosis not yet controlled by a treatment&#xD;
+&#xD;
+          -  Prior DMT for MS&#xD;
+&#xD;
+               -  Previous treatment with alemtuzemab, cyclophosphamide, mitoxantrone,&#xD;
+                  azathioprine, mycophenolate mofetil, cyclosporine, methotrexate, total body&#xD;
+                  irradiation, or bone marrow transplantation&#xD;
+&#xD;
+               -  Treatment with another anti-CD 20 depleting agent within 6 months&#xD;
+&#xD;
+          -  Laboratory - Certain laboratory abnormalities or findings at screening, including the&#xD;
+             following:&#xD;
+&#xD;
+               -  IgG &lt;300, or patients trending toward &lt;300 based on previous labs/trajectory (PI&#xD;
+                  discretion) at time of screening labs&#xD;
+&#xD;
+               -  Absolute lymphocyte count &lt;750/mm3 at time of screening labs&#xD;
+&#xD;
+               -  Absolute neutrophil count &lt;1000/mm3 at time of screening labs&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ilya Kister, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zoe Rimler</last_name>
+    <phone>929-455-5084</phone>
+    <email>zoe.rimler@nyulangone.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Colorado, Denver (UCD)</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Haley Simpson</last_name>
+      <email>NeurologyResearchPartners@cuanschutz.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Amanda Piquet, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone Health Multiple Sclerosis Comprehensive Care Center (NYULH MSCCC)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Zoe Rimler</last_name>
+      <email>zoe.rimler@nyulangone.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ilya Kister, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2 Vaccine</keyword>
+  <keyword>Ocrelizumab</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Sclerosis</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

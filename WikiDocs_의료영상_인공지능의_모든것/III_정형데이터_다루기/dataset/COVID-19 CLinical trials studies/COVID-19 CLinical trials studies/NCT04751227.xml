@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4954">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04751227</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RAC # 2201230</org_study_id>
+    <nct_id>NCT04751227</nct_id>
+  </id_info>
+  <brief_title>Modafinil for Wakefulness in the Critical Care Units</brief_title>
+  <official_title>Modafinil for Wakefulness in the Critical Care Units and COVID-19 Patients at a Tertiary Care Saudi Hospital</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>King Faisal Specialist Hospital &amp; Research Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>King Faisal Specialist Hospital &amp; Research Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It has been well documented that patients in the intensive care unit (ICU) are susceptible to&#xD;
+      developing neurocognitive and musculoskeletal complications because of various factors,&#xD;
+      including the nature of the critical illness, medications, over-sedation, and pain.&#xD;
+      Neuro-stimulants are used to speed up physical and mental processes through the increase in&#xD;
+      neurotransmitter, which translates into increase in arousal, wakefulness, attention, memory,&#xD;
+      mental and motor processing speed. The investigators reviewed the literature and described&#xD;
+      the clinical characteristics for a case series of adult patients admitted to COVID and&#xD;
+      non-COVID ICU between January 2017 and June 2020, who received modafinil to promote&#xD;
+      wakefulness and improve cognition at the King Faisal Specialist Hospital and Research Centre&#xD;
+      (KFSH&amp;RC) in Riyadh, Saudi Arabia. The secondary goals to describe the change of Glasgow Coma&#xD;
+      Scale (GCS) before and after the start of modafinil therapy, ICU and hospital length of stay,&#xD;
+      discharge disposition, adverse drug effects, and mortality rate.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 22, 2020</start_date>
+  <completion_date type="Actual">January 30, 2021</completion_date>
+  <primary_completion_date type="Actual">January 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Median change in of Glasgow Coma Scale (GCS)</measure>
+    <time_frame>48 hours before modafinil therapy and 7 days after modafinil therapy</time_frame>
+    <description>Describe the median change in Glasgow Coma Scale (GCS) before and after modafinil therapy. The GCS is used to assess and communicate changes in mental status and to measure the duration of coma. The Glasgow Coma Scale is comprised of the individual components, e.g. &quot;eye(4) verbal(5) motor (6)&quot;. Glasgow Coma Score is calculated by addition of the total points selected under each component (eye, verbal, motor) score can range from 1 and 15</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>adverse drug reactions (ADRs)</measure>
+    <time_frame>until ICU discharge, 90 days or death whichever occurs first.</time_frame>
+    <description>Number of patients started on antipsychotics and with possible adverse drug reactions (ADRs) related to modafinil including nervousness, agitation, delirium, hypersensitivity, and drug rash. Naranjo scale was used to evaluate the causality of ADRs and modafinil therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Mechanical Ventilation</measure>
+    <time_frame>From Intubation to extubation date and off Mechanical Ventilation or until ICU discharge, death, or 90 days whichever occurs first. ]</time_frame>
+    <description>To assess whether modafinil can help to shorten the time of being in breathing tube and ventilator (duration of mechanical ventilation )</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU Length of stay (LOS)</measure>
+    <time_frame>until ICU discharge, 90 days or death whichever occurs first.</time_frame>
+    <description>To describe ICU LOS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Length of Stay (LOS)</measure>
+    <time_frame>until hospital discharge, 90 days or death whichever occurs first.</time_frame>
+    <description>To describe hospital LOS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate</measure>
+    <time_frame>28 days and 90 days</time_frame>
+    <description>Death that occurs during 28 days and 90 days</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">8</enrollment>
+  <condition>Critical Illness</condition>
+  <condition>COVID-19</condition>
+  <condition>Cognitive Dysfunction</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <description>Modafinil 100-200 mg daily for wakefulness in a cohort of adult patients admitted to our COVID and non-COVID intensive care unit (ICU) between January 2017 and June 2020</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Modafinil</intervention_name>
+    <description>100-200 mg oral daily for for Wakefulness in the Critical Care Units</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        COVID ICU and non-COVID ICU units (medical, surgical, transplant/oncology ICUs).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. ICU patients 18 years and older&#xD;
+&#xD;
+          2. admitted to COVID and non-COVID units between January 2017 and June 2020&#xD;
+&#xD;
+          3. ICU stay for at least 48 hours&#xD;
+&#xD;
+          4. started on modafinil during ICU stay for at least 48 h&#xD;
+&#xD;
+          5. required ventilatory support.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Those who did not receive modafinil or received modafinil for indications other than&#xD;
+             ICU wakefulness&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Marwa R Amer, PharmD, BCPS,BCCCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>KFSHRC</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>King Faisal Specialist Hospital and Research Center</name>
+      <address>
+        <city>Riyadh</city>
+        <country>Saudi Arabia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Saudi Arabia</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 12, 2021</study_first_posted>
+  <last_update_submitted>February 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>King Faisal Specialist Hospital &amp; Research Center</investigator_affiliation>
+    <investigator_full_name>MARWA RIDHA AMER</investigator_full_name>
+    <investigator_title>ICU clinical Pharmacist, Adjunct Assistance professor- college of medicine Alfaisal university</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Critical Illness</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Modafinil</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

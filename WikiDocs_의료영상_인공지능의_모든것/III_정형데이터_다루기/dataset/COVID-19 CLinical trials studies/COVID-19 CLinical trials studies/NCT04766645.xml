@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5155">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04766645</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FDG_Acegender_2021</org_study_id>
+    <nct_id>NCT04766645</nct_id>
+  </id_info>
+  <brief_title>ACE2 Gender Differences in NeuroCovid19 Stroke</brief_title>
+  <acronym>ACEGENDER</acronym>
+  <official_title>Gender Differences in NeuroCovid19 Stroke: Epigenetic and Biochemical Study of ACE2 Receptor and Relationship With Rehabilitative Outcome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fondazione Don Carlo Gnocchi Onlus</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fondazione Don Carlo Gnocchi Onlus</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The new coronavirus SARS-CoV-2, causes the COVID-19 infection, which showed a form of&#xD;
+      neurovirulence involving the Central and peripheral Nervous Systems [Baig et al, 2020]. In a&#xD;
+      mouse model for human ACE2 expression, the virus entered the brain mainly through the&#xD;
+      olfactory bulb pathway [Netland et al, 2008], with an encephalic invasion uniformly lethal&#xD;
+      even with low viral doses and without lung involvement. The death of the animal was&#xD;
+      reasonably related to neuronal dysfunction/death in cardiorespiratory bone marrow centers,&#xD;
+      while the absence of ACE2 prevented severe encephalopathy.&#xD;
+&#xD;
+      Men has a highly frequency of severe and lethal COVID-19, and the observed gender difference&#xD;
+      could be related to the regulation of ACE2 receptor expression.&#xD;
+&#xD;
+      The ACE2 gene is encoded by a region of the X chromosome that escapes inactivation, so that&#xD;
+      women have an increased expression of this protein. The process of inactivation of the X&#xD;
+      chromosome includes DNA methylation with a decrease in the expression of genes that are&#xD;
+      affected by methylation. In This way an epigenetic mechanism could modulate the expression of&#xD;
+      ACE2 in a gender-specific way determining its levels and consequently its protective role.&#xD;
+&#xD;
+      Also in this regulatory context of ACE2 expression the role of microRNA (miRNA) could be very&#xD;
+      important. In fact, the untranslated 3' region (UTR) of ACE2 presents a binding sequence for&#xD;
+      miRNA miR-200c-3p that has been found at high levels of expression in cellular models&#xD;
+      infected with H5N1 influenza virus [Liu et al, 2017].&#xD;
+&#xD;
+      In addition, high plasma levels of miR-200c-3p were found in patients with severe pneumonia&#xD;
+      while ACE2 was reduced suggesting a regulatory role of this miRNA in ACE2 receptor expression&#xD;
+      [Liu et al, 2017]. Deficiency of 25 (OH)D is common among elderly and obese men (during&#xD;
+      winter and spring), highlighting the sex-specific difference observed in COVID-19 infection&#xD;
+      [La Vignera et al, 2020]. This vitamin, envolved in physical recovery [Siotto et al, 2019],&#xD;
+      and in the pathway of the renin angiotensin system, seems important to be assessed in&#xD;
+      ex-COVID-19 patients with stroke outcomes in admission and at the end of the rehabilitation&#xD;
+      process.&#xD;
+&#xD;
+      The study will consist in:&#xD;
+&#xD;
+        -  Epigenetic study: evaluation of methylation of ACE2 promoter and miR-200c-3p levels.&#xD;
+&#xD;
+        -  Biochemical analysis: the evaluation of levels of angiotensin II, ACE2 and Vitamin D.&#xD;
+&#xD;
+        -  Correlation between rehabilitative outcome and biological markers&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A new coronavirus was identified in December 2019 in Wuhan, China as the causative agent of&#xD;
+      &quot;Severe Acute Respiratory Syndrome&quot; (SARS-CoV-2), a viral lung infection indicated by the&#xD;
+      acronym COVID-19 (coronavirus disease 2019). By the end of January 2020, this rapidly&#xD;
+      spreading virus had already infected more than 100,000 people in several countries, leading&#xD;
+      the World Health Organization to declare a &quot;global emergency&quot; [Wu et al 2020]. The clinical&#xD;
+      manifestations of COVID-19 can vary from the common cold to more serious lung diseases such&#xD;
+      as those observed in the &quot;Severe Acute Respiratory Syndrome&quot; (SARS) of 2002-2003 and the&#xD;
+      &quot;Middle East Respiratory Syndrome&quot; (MERS) of 2011.&#xD;
+&#xD;
+      The Sars-Cov2 virus, like other RNA viruses, also showed a form of neurovirulence with&#xD;
+      consequent involvement in some patients of the Central Nervous System (CNS) and Peripheral&#xD;
+      Nervous System (SNP) [Baig et al, 2020].&#xD;
+&#xD;
+      Neurological symptoms in patients with COVID-19 infection fall into three categories:&#xD;
+&#xD;
+        1. neurological expressions of the symptoms of the underlying disease (headache, dizziness,&#xD;
+           dysfunction of consciousness, ataxia, epileptic manifestations and stroke)&#xD;
+&#xD;
+        2. symptoms of neuro-peripheral origin (hypo-ageusia, hyposmia, neuralgia);&#xD;
+&#xD;
+        3. symptoms of skeletal muscle damage, often associated with liver and kidney damage.&#xD;
+&#xD;
+      The first data on COVID-19 infection are in favor of neurological involvement in a variable&#xD;
+      percentage of cases with particular expression in more severe patients [Mao et al, 2020].&#xD;
+      According to some authors, involvement of the nervous system may be partly responsible for&#xD;
+      respiratory impairment [Yan-Chao et al, 2020].&#xD;
+&#xD;
+      It should be noted that in the case of SARS-CoV infection, in a mouse model for human ACE2&#xD;
+      expression, the virus had entered the brain mainly through the olfactory bulb pathway&#xD;
+      [Netland et al, 2008]. Encephalic invasion was uniformly lethal with further evidence that&#xD;
+      brain inoculation with low viral doses could be lethal even without lung involvement. The&#xD;
+      death of the animal was reasonably related to neuronal dysfunction/death in cardiorespiratory&#xD;
+      bone marrow centers and the histopathological picture was characterized by a minimal cellular&#xD;
+      infiltrate in the brain supporting the hypothesis of a transsynaptic viral dissemination. The&#xD;
+      absence of ACE2 prevented severe encephalopathy in the animal model. The structures&#xD;
+      selectively affected by neuronal death were the dorsal vagal complex (nucleus of the solitary&#xD;
+      tract, postremactic area, dorsal motor nucleus of the vagus).&#xD;
+&#xD;
+      On the other hand, trans-nasal invasion selectively interfered with thalamic, hypothalamic,&#xD;
+      amygdala nuclei. Some affected nuclei had no explanation in the connection (e.g. cochlear&#xD;
+      nuclei). The invoked mechanism of neuronal loss was that of a &quot;flock&quot; of cytokines (IL-6).&#xD;
+&#xD;
+      CNS/SNP and muscle involvement is present in COVID-19 patients and a careful interpretation&#xD;
+      of them is desirable. The hyposmia reported suggests a nasal infection route with direct&#xD;
+      access to the CNS. This pathway could be alternative to the respiratory and intestinal&#xD;
+      pathways and theoretically it could occur, as in some cases of SARS-COV, with mainly&#xD;
+      neurological symptoms.&#xD;
+&#xD;
+      Recently it has been reported that symptoms of corticospinal tract impairment have been&#xD;
+      observed in 67% of patients [Helms et al, 2020].&#xD;
+&#xD;
+      The epidemiological data collected so far indicate a substantial difference between men and&#xD;
+      women in clinical manifestations and SARS-CoV-2 infections. Specifically, a mortality rate&#xD;
+      among men has been found to be 73% in China [Chen et al, 2020], 59% in South Korea [Korean&#xD;
+      society of infectious disease, 2020] and 70% in Italy as reported by the Higher Institute of&#xD;
+      Health (ISS). In addition, the mortality rate is very dependent on the presence of&#xD;
+      comorbidities. In fact, in 45000 Chinese patients positive for COVID-19 the mortality rate&#xD;
+      went from 0.9% in those patients without comorbidity to 10.5%, 7.3% and 6.3% in those with&#xD;
+      cardiovascular disease, diabetes mellitus and hypertension, respectively [Novel Coronavirus&#xD;
+      Pneumonia Emergency Response Epidemiology Team, 2020].&#xD;
+&#xD;
+      In Italy, data provided by the ISS have documented a percentage of deaths around 2.1% in&#xD;
+      patients without comorbidity, a percentage that increases to 21.3%, 25.9% and 50.7% in those&#xD;
+      patients with one, two and three comorbidities, respectively.&#xD;
+&#xD;
+      Thus the gender and presence of comorbidities have been identified as key factors in the&#xD;
+      evolution of COVID-19.&#xD;
+&#xD;
+      In addition to pre-existing comorbidities, which, as already reported, are almost always&#xD;
+      present in patients with severe and lethal COVID-19 with greater frequency in men, the&#xD;
+      biological mechanisms are to be considered the main responsible for the observed gender&#xD;
+      difference.&#xD;
+&#xD;
+      A hypothesis that attempts to explain all these epidiemological data is based on the&#xD;
+      regulation of ACE2 receptor expression (Angiotensin Converting Enzyme 2).&#xD;
+&#xD;
+      ACE2 is an enzyme that degrades angiontensin II by generating angiotensin (1-7) which plays a&#xD;
+      protective role against damage caused by infection, inflammation and stress [Vickers et al,&#xD;
+      2002; Zisman et al, 2003].&#xD;
+&#xD;
+      The SARS-CoV-2 virus penetrates the target cells of the respiratory system through the&#xD;
+      binding of its surface S protein (spike protein) to the ACE2 receptor reducing its&#xD;
+      expression.&#xD;
+&#xD;
+      In this way there is also a decrease in angiotensin levels (1-7) resulting in increased&#xD;
+      hypertension and lung failure [Gurwitz et al, 2020].&#xD;
+&#xD;
+      Therefore, it is important to consider the expression of ACE2 in those patients with&#xD;
+      hypertension, heart disease or diabetes when evaluating the different mortality rate in&#xD;
+      patients with these comorbidities.&#xD;
+&#xD;
+      In addition, gender-specific mortality could be precisely related to modulation of ACE2&#xD;
+      expression. In fact, estrogens induce an increase in ACE2 receptor expression, suggesting&#xD;
+      that, at least in women of childbearing age, even after infection, this enzyme is able to&#xD;
+      perform its protective function, particularly towards the lungs. In men, it seems that&#xD;
+      androgenic hormones play a pathogenetic role in modulating the expression of cellular enzymes&#xD;
+      such as serine protease TMPSSR2, involved in the phases following the attack of the virus on&#xD;
+      the receptor, i.e. in the viral entry, promoting the spread of the infection in lung cells.&#xD;
+&#xD;
+      The ACE2 gene is encoded by a region of the X chromosome that escapes inactivation, thus&#xD;
+      supporting the hypothesis of an increased expression of this protein in women who would have&#xD;
+      the advantage of being protected from the complications and fatalities of COVID-19 infection.&#xD;
+&#xD;
+      The process of inactivation of the X chromosome includes DNA methylation and as a result&#xD;
+      there is a decrease in the expression of those genes that are affected by methylation. In&#xD;
+      This way an epigenetic mechanism could modulate the expression of ACE2 in a gender-specific&#xD;
+      way determining its levels and consequently its protective role.&#xD;
+&#xD;
+      Also in this regulatory context of ACE2 expression the role of microRNA (miRNA) could be very&#xD;
+      important. In fact, the untranslated 3' region (UTR) of ACE2 presents a binding sequence for&#xD;
+      miRNA miR-200c-3p that has been found at high levels of expression in cellular models&#xD;
+      infected with H5N1 influenza virus [Liu et al, 2017].&#xD;
+&#xD;
+      In addition, high plasma levels of miR-200c-3p were found in patients with severe pneumonia&#xD;
+      while ACE2 was reduced suggesting a regulatory role of this miRNA in ACE2 receptor expression&#xD;
+      [Liu et al, 2017].&#xD;
+&#xD;
+      Vitamin D reduces the risk of viral infections, especially respiratory infections as&#xD;
+      described in literature [Martineau et al, 2016; Gruber-Bzura et al, 2018; Gombart et al,&#xD;
+      2020; Grant et al, 2020]. In fact, Vitamin D increases cellular immunity by reducing&#xD;
+      circulating cytokines induced by the innate immune system in response to viral infections&#xD;
+      [Huang et al, 2020].&#xD;
+&#xD;
+      Vitamin D deficiency or deficiency contributes to acute respiratory syndrome in which&#xD;
+      mortality increases with age and chronic comorbidities [Vásárhelyi et al, 2011]. This vitamin&#xD;
+      is a prohormone that has been shown to attenuate acute lipopolysaccharide-induced lung damage&#xD;
+      in mice by regulating the expression of components of the renin angiotensin system including&#xD;
+      ACE and ACE2, renin and angiotensin III [Xu J, 2017; Tsujino et al, 2019]. In these two&#xD;
+      months different research groups strongly suggested the need for an analysis on the&#xD;
+      correlations between vitamin D levels and COVID-19 infections [Tian et al, 2020; Panarese et&#xD;
+      al, 2020; Marik et al, 2020]. Serum concentrations of Vitamin D (25 (OH)D) tend to decrease&#xD;
+      with age, which may be determinant in COVID-19 infection due to case fatality rates (CFR)&#xD;
+      that increase with age.&#xD;
+&#xD;
+      Reasons include less time spent in the sun and reduced vitamin D production as a result of&#xD;
+      lower levels of 7-dehydrocholesterol in the skin [Siotto et al, 2019]. In addition, it has&#xD;
+      been pointed out that deficiency of 25 (OH)D is particularly common among elderly and obese&#xD;
+      men (post-menopausal women tend to control levels through Vitamin D supplements) especially&#xD;
+      during winter and spring, highlighting the sex-specific difference observed in COVID-19&#xD;
+      infection [La Vignera et al, 2020].&#xD;
+&#xD;
+      Considering the importance of this vitamin also in physical recovery [Siotto et al, 2019], in&#xD;
+      addition to its role in the pathway of the renin angiotensin system, it seems important to&#xD;
+      assess serum levels in ex-COVID-19 patients with stroke outcomes in admission and at the end&#xD;
+      of the rehabilitation process.&#xD;
+&#xD;
+      In summary, epidemiological data collected in recent months in different countries around the&#xD;
+      world have shown how gender differences and the presence of comorbidities affect the&#xD;
+      mortality rate due to COVID-19. Our hypothesis is that biological factors could play an&#xD;
+      important role in determining the severity of the disease, in particular the ACE2 receptor&#xD;
+      could be the key element in the development of the differences in gender-related immune&#xD;
+      response.&#xD;
+&#xD;
+      Study objectives&#xD;
+&#xD;
+      Main objectives:&#xD;
+&#xD;
+      To study the molecular mechanism of regulation of ACE2 in relation to gender, in patients&#xD;
+      with NeuroCovid19 outcomes and in particular with stroke outcomes in Covid19, hospitalized in&#xD;
+      3 rehabilitation facilities.&#xD;
+&#xD;
+      In particular they will be performed:&#xD;
+&#xD;
+        -  Epigenetic study: evaluation of methylation levels of ACE2 promoter and miR-200c-3p&#xD;
+           levels.&#xD;
+&#xD;
+        -  Biochemical analysis: the evaluation of serum levels of angiotensin II, ACE2 and Vitamin&#xD;
+           D.&#xD;
+&#xD;
+        -  Correlation between rehabilitative outcome and biological markers (epigenetic and&#xD;
+           biochemical) This project will study the molecular mechanisms underlying the regulation&#xD;
+           of ACE2 related to gender differences in patients post stroke in NeuroCOVID-19 (stroke)&#xD;
+           hospitalized in Rehabilitation facilities and the relationship between these variables&#xD;
+           and the rehabilitation outcome.&#xD;
+&#xD;
+      If the study showed the presence of molecular mechanisms capable of influencing recovery, we&#xD;
+      could identify rehabilitation pathways more tailored to the characteristics of the patient.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">July 7, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 7, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in promoter methylation levels of ACE2</measure>
+    <time_frame>Time Frame: Baseline [T0], First Treatment (6 weeks and 30 rehabilitation session) [T1]</time_frame>
+    <description>Promoter methylation of ACE2 using pyrosequencing analysis with PyroMark Q24 (Qiagen, Germany).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>expression levels of miR-200c-3p in serum</measure>
+    <time_frame>Time Frame: Baseline [T0], First Treatment (6 weeks and 30 rehabilitation session) [T1]</time_frame>
+    <description>expression levels of miR-200c-3p in serum using qRT-PCR (ThermoFisher)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>serum levels of Angiotensin II, ACE2 and Vitamin D</measure>
+    <time_frame>Time Frame: Baseline [T0], First Treatment (6 weeks and 30 rehabilitation session) [T1]</time_frame>
+    <description>serum levels of Angiotensin II, ACE2 and Vitamin D by ELISA assay tests (Bio-Rad)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Modified Barthel Index (BI)</measure>
+    <time_frame>Time Frame: Baseline [T0], First Treatment (6 weeks and 30 rehabilitation session) [T1]</time_frame>
+    <description>The BI is designed to assess the ability of an individual with a neuromuscular or musculoskeletal disorder to care for him/herself. It ranges from 0 to 100, with a higher number meaning better performance in activities of daily living.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the Montreal Cognitive Assessment (MoCA)</measure>
+    <time_frame>Time Frame: Baseline [T0], First Treatment (6 weeks and 30 rehabilitation session) [T1]</time_frame>
+    <description>The Montreal Cognitive Assessment (MoCA) was designed as a rapid screening instrument for mild cognitive dysfunction. It assesses different cognitive domains: attention and concentration, executive functions, memory, language, visuoconstructional skills, conceptual thinking, calculations, and orientation. Time to administer the MoCA is approximately 10 minutes. The maximum possible score is 30 points.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the Cumulative Ilness Rating scale</measure>
+    <time_frame>Time Frame: Baseline [T0], First Treatment (6 weeks and 30 rehabilitation session) [T1]</time_frame>
+    <description>The cumulative Illness Rating scale quantifies burden of disease in elderly patients (comorbidity scale).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Fugl-Meyer Assessment of Motor Recovery after Stroke for Upper Extremity portion (FMA-UL)</measure>
+    <time_frame>Time Frame: Baseline [T0], First Treatment (6 weeks and 30 rehabilitation session) [T1]</time_frame>
+    <description>The FMA-UL is a stroke-specific, performance-based impairment index. It is designed to assess motor functioning, sensation and joint functioning in patients with post-stroke hemiplegia. The upper limb portion of the FMA-UL ranges from 0 (hemiplegia) to 66 points (normal upper limb motor performance).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Numerical Rating Scale (NRS)</measure>
+    <time_frame>Time Frame: Baseline [T0], First Treatment (6 weeks and 30 rehabilitation session) [T1]</time_frame>
+    <description>The Numeric Rating Scale (NRS) is the simplest and most commonly used numeric scale to rate the pain from 0 (no pain) to 10 (worst pain).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuropathic Pain Four Questions (DN4)</measure>
+    <time_frame>Time Frame: Baseline [T0], First Treatment (6 weeks and 30 rehabilitation session) [T1]</time_frame>
+    <description>The DN4 used to evaluate presence of neuropathic pain, and consist of a brief interview of four questions answered yes/no: two on what the patient has conceived and two during the exam for the evaluation of hypoesthesia to the touch or sting and the evaluation of allodynia with the skimming of the skin. For each 'yes' a point is assigned. The total score is given by the sum of the individuals. The cut off for the presence of neuropathic pain is '4'.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in Modified Ashworth Scale (MAS)</measure>
+    <time_frame>[Time Frame: Baseline (T0), Treatment (6 weeks) (T1)]</time_frame>
+    <description>The MAS is a 6 point ordinal scale used for grading hypertonia in individuals with neurological diagnoses. A score of 0 on the scale indicates no increase in tone while a score of 4 indicates rigidity. Tone is scored by passively moving the individual's limb and assessing the amount of resistance to movement felt by the examiner.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in Motricity Index (MI)</measure>
+    <time_frame>[Time Frame: Baseline (T0), Treatment (6 weeks) (T1)]</time_frame>
+    <description>The MI aims to evaluate lower limb motor impairment after stroke, administrated on both sides.&#xD;
+Items to assess the lower limbs are 3, scoring from 0 to 33 each: (1) ankle dorsiflexion with foot in a plantar flexedposition (2) knee extension with the foot unsupported and the knee at 90° (3) hip flexion with the hip at 90° moving the knee as close as possible to the chin. (no movement: 0, palpable flicker but no movement: 9, movement but not against gravity :14, movement against gravity movement against gravity: 19, movement against resistance: 25, normal:33).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>hand grip strenght test</measure>
+    <time_frame>[Time Frame: Baseline (T0), Treatment (6 weeks) (T1)]</time_frame>
+    <description>it is a test to measure the maximum isometric strength of the hand and forearm muscles</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>pinch grip strenght test</measure>
+    <time_frame>[Time Frame: Baseline (T0), Treatment (6 weeks) (T1)]</time_frame>
+    <description>A pinch grip is a form of precision grip whereby an object is pinched</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Functional Ambulation Classification (FAC)</measure>
+    <time_frame>[Time Frame: Baseline (T0), Treatment (6 weeks) (T1)]</time_frame>
+    <description>Functional Ambulation Classification is a functional walking test that evaluates ambulation ability. This 6-point scale assesses ambulation status by determining how much human support the patient requires when walking, regardless of whether or not they use a personal assistive device.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in 10 Meter Walk Test (10MWT)</measure>
+    <time_frame>[Time Frame: Baseline (T0), Treatment (6 weeks) (T1)]</time_frame>
+    <description>This test will assess the patient's speed during gait. Patients will be asked to walk at their preferred maximum and safe speed. Patients will be positioned 1 meter before the start line and instructed to walk 10 meters, and pass the end line approximately 1 meter after. The distance before and after the course are meant to minimize the effect of acceleration and deceleration. Time will be measured using a stopwatch and recorded to the one hundredth of a second (ex: 2.15 s). The test will be recorded 3 times, with adequate rests between them. The average of the 3 times should be recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Time Up And Go (TUG)</measure>
+    <time_frame>[Time Frame: Baseline (T0), Treatment (6 weeks) (T1)]</time_frame>
+    <description>The Time Up And Go is a test used to assess mobility, balance, and walking in people with balance impairments. The subject must stand up from a chair (which should not be leant against a wall), walk a distance of 3 meters, turn around, walk back to the chair and sit down - all performed as quickly and as safely as possible. Time will be measured using a chronometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Six-Minute Walking Test (6MWT)</measure>
+    <time_frame>[Time Frame: Baseline (T0), Treatment (6 weeks) (T1)]</time_frame>
+    <description>The 6MWT measures the distance a subject covers during an indoor gait on a flat, hard surface in 6 minutes, using assistive devices, as necessary. The test is a reliable and valid evaluation of functional exercise capacity and is used as a sub-maximal test of aerobic capacity and endurance. The minimal detectable change in distance for people with sub-acute stroke is 60.98 meters. The 6MWT is a patient self-paced walk test and assesses the level of functional capacity. Patients are allowed to stop and rest during the test. However, the timer does not stop. If the patient is unable to complete the test, the time is stopped at that moment. The missing time and the reason of the stop are recorded. This test will be administered while wearing a pulse oximeter to monitor heart rate and oxygen saturation, also integrated with Borg scale to assess dyspnea.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kinematic analysis</measure>
+    <time_frame>[Time Frame: Baseline (T0), Treatment (6 weeks) (T1)]</time_frame>
+    <description>Kinematic information recorded during the administration of the Evaluation Task provided by Motore, based on a center-out point-to-point reaching activity.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Neurologic Manifestations</condition>
+  <arm_group>
+    <arm_group_label>Covid patients</arm_group_label>
+    <description>Inpatients and outpatients admitted to the investigators' rehabilitation facility with covid symptoms</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Robotic assisted intervention</intervention_name>
+    <description>Conventional rehabilitation and Robotic treatment of the upper limb (30 sessions, 5 times a week) using a set of 4 robotic devices: Motore (Humanware); Amadeo, Diego, Pablo (Tyromotion). The training will include motor-cognitive exercises specifically selected to train spatial attention, vision and working memory, praxis, executive function, and speed of processing.</description>
+    <arm_group_label>Covid patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>epigenetic analyses</intervention_name>
+    <description>Epigenetic study: evaluation of methylation levels of ACE2 promoter and miR-200c-3p levels.</description>
+    <arm_group_label>Covid patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>biochemical analyses</intervention_name>
+    <description>Biochemical analysis: the evaluation of serum levels of angiotensin II, ACE2 and Vitamin D.</description>
+    <arm_group_label>Covid patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with first ischemic stroke (of ischemic or hemorrhagic aetiology) in subacute&#xD;
+        phase (within six months after the acute event), hospitalized at the participating&#xD;
+        intensive-extensive rehabilitation centers will be included&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. stroke patients (hemorrhagic or ischemic) documented through Magnetic Resonance&#xD;
+             Imaging (MRI) or Computed Tomography (CT);&#xD;
+&#xD;
+          2. NeuroCOVID19 stroke patients with double nasopharyngeal swab negative after 24 hours&#xD;
+             for SARS-Cov2.&#xD;
+&#xD;
+          3. latency time within 6 months after stroke event;&#xD;
+&#xD;
+          4. sufficient cognitive and language skills to understand the instructions related to the&#xD;
+             administration of the assessment scales and to sign informed consent; -&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        1. behavioral and cognitive disorders that may interfere with the therapeutic activity; 2.&#xD;
+        other orthopaedic or neurological complications that may interfere with the rehabilitation&#xD;
+        protocol; 3. inability to understand and sign informed consent;&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Irene Aprile, MD,PHD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>IRCCS Fondazione Don Carlo Gnocchi</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>IRENE APRILE, MD,PHD</last_name>
+    <phone>+390633085646</phone>
+    <email>iaprile@dongnocchi.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>MARIACRISTINA SIOTTO, PHD</last_name>
+    <phone>+390633086552</phone>
+    <email>msiotto@dongnocchi.it</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Baig AM, Khaleeq A, Ali U, Syeda H. Evidence of the COVID-19 Virus Targeting the CNS: Tissue Distribution, Host-Virus Interaction, and Proposed Neurotropic Mechanisms. ACS Chem Neurosci. 2020 Apr 1;11(7):995-998. doi: 10.1021/acschemneuro.0c00122. Epub 2020 Mar 13.</citation>
+    <PMID>32167747</PMID>
+  </reference>
+  <reference>
+    <citation>Chen T, Wu D, Chen H, Yan W, Yang D, Chen G, Ma K, Xu D, Yu H, Wang H, Wang T, Guo W, Chen J, Ding C, Zhang X, Huang J, Han M, Li S, Luo X, Zhao J, Ning Q. Clinical characteristics of 113 deceased patients with coronavirus disease 2019: retrospective study. BMJ. 2020 Mar 26;368:m1091. doi: 10.1136/bmj.m1091. Erratum in: BMJ. 2020 Mar 31;368:m1295.</citation>
+    <PMID>32217556</PMID>
+  </reference>
+  <reference>
+    <citation>Grant WB, Lahore H, McDonnell SL, Baggerly CA, French CB, Aliano JL, Bhattoa HP. Evidence that Vitamin D Supplementation Could Reduce Risk of Influenza and COVID-19 Infections and Deaths. Nutrients. 2020 Apr 2;12(4). pii: E988. doi: 10.3390/nu12040988. Review.</citation>
+    <PMID>32252338</PMID>
+  </reference>
+  <reference>
+    <citation>Gombart AF, Pierre A, Maggini S. A Review of Micronutrients and the Immune System-Working in Harmony to Reduce the Risk of Infection. Nutrients. 2020 Jan 16;12(1). pii: E236. doi: 10.3390/nu12010236. Review.</citation>
+    <PMID>31963293</PMID>
+  </reference>
+  <reference>
+    <citation>Gruber-Bzura BM. Vitamin D and Influenza-Prevention or Therapy? Int J Mol Sci. 2018 Aug 16;19(8). pii: E2419. doi: 10.3390/ijms19082419. Review.</citation>
+    <PMID>30115864</PMID>
+  </reference>
+  <reference>
+    <citation>Gurwitz D. Angiotensin receptor blockers as tentative SARS-CoV-2 therapeutics. Drug Dev Res. 2020 Aug;81(5):537-540. doi: 10.1002/ddr.21656. Epub 2020 Mar 4.</citation>
+    <PMID>32129518</PMID>
+  </reference>
+  <reference>
+    <citation>Helms J, Kremer S, Merdji H, Clere-Jehl R, Schenck M, Kummerlen C, Collange O, Boulay C, Fafi-Kremer S, Ohana M, Anheim M, Meziani F. Neurologic Features in Severe SARS-CoV-2 Infection. N Engl J Med. 2020 Jun 4;382(23):2268-2270. doi: 10.1056/NEJMc2008597. Epub 2020 Apr 15.</citation>
+    <PMID>32294339</PMID>
+  </reference>
+  <reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </reference>
+  <reference>
+    <citation>Jakovac H. COVID-19 and vitamin D-Is there a link and an opportunity for intervention? Am J Physiol Endocrinol Metab. 2020 May 1;318(5):E589. doi: 10.1152/ajpendo.00138.2020.</citation>
+    <PMID>32297519</PMID>
+  </reference>
+  <reference>
+    <citation>Korean Society of Infectious Diseases; Korean Society of Pediatric Infectious Diseases; Korean Society of Epidemiology; Korean Society for Antimicrobial Therapy; Korean Society for Healthcare-associated Infection Control and Prevention; Korea Centers for Disease Control and Prevention. Report on the Epidemiological Features of Coronavirus Disease 2019 (COVID-19) Outbreak in the Republic of Korea from January 19 to March 2, 2020. J Korean Med Sci. 2020 Mar 16;35(10):e112. doi: 10.3346/jkms.2020.35.e112.</citation>
+    <PMID>32174069</PMID>
+  </reference>
+  <reference>
+    <citation>La Vignera S, Cannarella R, Condorelli RA, Torre F, Aversa A, Calogero AE. Sex-Specific SARS-CoV-2 Mortality: Among Hormone-Modulated ACE2 Expression, Risk of Venous Thromboembolism and Hypovitaminosis D. Int J Mol Sci. 2020 Apr 22;21(8). pii: E2948. doi: 10.3390/ijms21082948.</citation>
+    <PMID>32331343</PMID>
+  </reference>
+  <reference>
+    <citation>Li YC, Bai WZ, Hashikawa T. The neuroinvasive potential of SARS-CoV2 may play a role in the respiratory failure of COVID-19 patients. J Med Virol. 2020 Jun;92(6):552-555. doi: 10.1002/jmv.25728. Epub 2020 Mar 11. Review.</citation>
+    <PMID>32104915</PMID>
+  </reference>
+  <reference>
+    <citation>Marik PE, Kory P, Varon J. Does vitamin D status impact mortality from SARS-CoV-2 infection? Med Drug Discov. 2020 Jun;6:100041. doi: 10.1016/j.medidd.2020.100041. Epub 2020 Apr 29.</citation>
+    <PMID>32352080</PMID>
+  </reference>
+  <reference>
+    <citation>Martineau AR, Jolliffe DA, Hooper RL, Greenberg L, Aloia JF, Bergman P, Dubnov-Raz G, Esposito S, Ganmaa D, Ginde AA, Goodall EC, Grant CC, Griffiths CJ, Janssens W, Laaksi I, Manaseki-Holland S, Mauger D, Murdoch DR, Neale R, Rees JR, Simpson S Jr, Stelmach I, Kumar GT, Urashima M, Camargo CA Jr. Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data. BMJ. 2017 Feb 15;356:i6583. doi: 10.1136/bmj.i6583. Review.</citation>
+    <PMID>28202713</PMID>
+  </reference>
+  <reference>
+    <citation>Epidemiology Working Group for NCIP Epidemic Response, Chinese Center for Disease Control and Prevention. [The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China]. Zhonghua Liu Xing Bing Xue Za Zhi. 2020 Feb 10;41(2):145-151. doi: 10.3760/cma.j.issn.0254-6450.2020.02.003. Chinese.</citation>
+    <PMID>32064853</PMID>
+  </reference>
+  <reference>
+    <citation>Netland J, Meyerholz DK, Moore S, Cassell M, Perlman S. Severe acute respiratory syndrome coronavirus infection causes neuronal death in the absence of encephalitis in mice transgenic for human ACE2. J Virol. 2008 Aug;82(15):7264-75. doi: 10.1128/JVI.00737-08. Epub 2008 May 21.</citation>
+    <PMID>18495771</PMID>
+  </reference>
+  <reference>
+    <citation>Panarese A, Shahini E. Letter: Covid-19, and vitamin D. Aliment Pharmacol Ther. 2020 May;51(10):993-995. doi: 10.1111/apt.15752. Epub 2020 Apr 12.</citation>
+    <PMID>32281109</PMID>
+  </reference>
+  <reference>
+    <citation>Tian Y, Rong L. Letter: Covid-19, and vitamin D. Authors' reply. Aliment Pharmacol Ther. 2020 May;51(10):995-996. doi: 10.1111/apt.15764.</citation>
+    <PMID>32286694</PMID>
+  </reference>
+  <reference>
+    <citation>Tsujino I, Ushikoshi-Nakayama R, Yamazaki T, Matsumoto N, Saito I. Pulmonary activation of vitamin D(3) and preventive effect against interstitial pneumonia. J Clin Biochem Nutr. 2019 Nov;65(3):245-251. doi: 10.3164/jcbn.19-48. Epub 2019 Sep 11.</citation>
+    <PMID>31777427</PMID>
+  </reference>
+  <reference>
+    <citation>Vásárhelyi B, Sátori A, Olajos F, Szabó A, Beko G. [Low vitamin D levels among patients at Semmelweis University: retrospective analysis during a one-year period]. Orv Hetil. 2011 Aug 7;152(32):1272-7. doi: 10.1556/OH.2011.29187. Hungarian.</citation>
+    <PMID>21803724</PMID>
+  </reference>
+  <reference>
+    <citation>Wu F, Zhao S, Yu B, Chen YM, Wang W, Song ZG, Hu Y, Tao ZW, Tian JH, Pei YY, Yuan ML, Zhang YL, Dai FH, Liu Y, Wang QM, Zheng JJ, Xu L, Holmes EC, Zhang YZ. A new coronavirus associated with human respiratory disease in China. Nature. 2020 Mar;579(7798):265-269. doi: 10.1038/s41586-020-2008-3. Epub 2020 Feb 3. Erratum in: Nature. 2020 Apr;580(7803):E7.</citation>
+    <PMID>32015508</PMID>
+  </reference>
+  <reference>
+    <citation>Xu J, Yang J, Chen J, Luo Q, Zhang Q, Zhang H. Vitamin D alleviates lipopolysaccharide-induced acute lung injury via regulation of the renin-angiotensin system. Mol Med Rep. 2017 Nov;16(5):7432-7438. doi: 10.3892/mmr.2017.7546. Epub 2017 Sep 20.</citation>
+    <PMID>28944831</PMID>
+  </reference>
+  <reference>
+    <citation>Zisman LS, Keller RS, Weaver B, Lin Q, Speth R, Bristow MR, Canver CC. Increased angiotensin-(1-7)-forming activity in failing human heart ventricles: evidence for upregulation of the angiotensin-converting enzyme Homologue ACE2. Circulation. 2003 Oct 7;108(14):1707-12. Epub 2003 Sep 22.</citation>
+    <PMID>14504186</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 23, 2021</study_first_posted>
+  <last_update_submitted>February 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Fondazione Don Carlo Gnocchi Onlus</investigator_affiliation>
+    <investigator_full_name>Irene Giovanna Aprile</investigator_full_name>
+    <investigator_title>Md, PhD, Principal Investigator, Head of Rehabilitation Unit</investigator_title>
+  </responsible_party>
+  <keyword>Stroke</keyword>
+  <keyword>rehabilitation</keyword>
+  <keyword>ACE2</keyword>
+  <keyword>methylation</keyword>
+  <keyword>VitaminD</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neurologic Manifestations</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

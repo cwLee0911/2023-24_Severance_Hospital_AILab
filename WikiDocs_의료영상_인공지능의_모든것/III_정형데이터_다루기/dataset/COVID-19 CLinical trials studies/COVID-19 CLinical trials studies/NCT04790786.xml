@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1638">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04790786</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY21020179</org_study_id>
+    <nct_id>NCT04790786</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Monoclonal Antibodies in COVID-19</brief_title>
+  <official_title>A Pragmatic Evaluation of Monoclonal Antibody Treatments in Participants With COVID-19 Illness</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>David T. Huang, MD, MPH</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Pittsburgh Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Berry Consultants</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multiple monoclonal antibodies (mABs) have been shown to reduce viral burden and improve&#xD;
+      clinical outcomes, have been granted FDA Emergency Use Authorization (EUA) for use in select&#xD;
+      populations, and are routinely used in the UPMC Health System, which has made expanded access&#xD;
+      a priority. However, the comparative effectiveness of these mABS is unknown. The National&#xD;
+      Academies of Sciences, Engineering, and Medicine has called for expanded access and clinical&#xD;
+      use of mABs, noting it is &quot;critical to collect data and evaluate whether they are working as&#xD;
+      predicted&quot;. This pragmatic evaluation will determine the relative effects of the EUA-governed&#xD;
+      mABs versus each other&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      While COVID-19 vaccination will reduce COVID-19-related morbidity and mortality, the learned&#xD;
+      immune response may vary between individuals. This means interventions such as monoclonal&#xD;
+      antibodies (mAB) will still be needed to prevent progression of COVID-19 illness. Monoclonal&#xD;
+      antibodies seek to mimic or enhance the natural immune system response against a pathogen and&#xD;
+      are often used in the care of patients with cancer or infection.&#xD;
+&#xD;
+      For viral infections, mABs are created by exposing a white blood cell to a particular viral&#xD;
+      protein, which is then cloned to mass produce antibodies to target that virus. For&#xD;
+      SARS-CoV-2, the virus that causes COVID-19, IgG1 mABs target the spike protein of SARS-CoV-2&#xD;
+      and block viral attachment and entry into cells.&#xD;
+&#xD;
+      The SARS-CoV-2 mABs bamlanivimab and etesevimab, and the REGN-COV2 combination (casirivimab +&#xD;
+      imdevimab) reduce nasopharyngeal viral burden plus clinical outcomes including future&#xD;
+      emergency department visits and hospitalizations. Each received FDA Emergency Use&#xD;
+      Authorization (EUA) for use in selected populations.&#xD;
+&#xD;
+      As of February 2021, there are over 60,000 new cases of COVID-19 diagnosed daily in the US,&#xD;
+      with over 7000 daily COVID-19 related hospital admissions. Although case volumes are&#xD;
+      currently declining, COVID-19 remains a significant public health threat.&#xD;
+&#xD;
+      Despite the EUAs, the clinical use of mABs is low due in part to lack of patient access,&#xD;
+      complexities in drug allocation, and lack of knowledge among providers are contributing&#xD;
+      factors. Further, the comparative effectiveness of different mABs is unknown and not yet&#xD;
+      directly studied. The National Academies of Sciences, Engineering, and Medicine recently&#xD;
+      called for expanded access and clinical use of mABs, noting it is &quot;critical to collect data&#xD;
+      and evaluate whether they are working as predicted&quot;. This evaluation seeks to determine their&#xD;
+      relative effects versus each other, starting with those governed by EUAs.&#xD;
+&#xD;
+      The COVID-19 mABs are routinely used at UPMC and which mAB is assigned by pharmacies is&#xD;
+      haphazard. Once any order for mAB infusion is approved by the UPMC system oversight group,&#xD;
+      the pharmacy provides whichever EUA-governed mAB is available under a therapeutic interchange&#xD;
+      approach. Ordering physicians review with the patient the EUA Fact Sheet for each mAB, and&#xD;
+      explain that the patient could receive any of the mABs governed by FDA EUAs. If demand for&#xD;
+      mAB exceeds supply, UPMC has a lottery system to allot who receives the therapy once&#xD;
+      requested by a physician. This pragmatic evaluation embraces and extends the current lottery&#xD;
+      system and therapeutic interchange policy for EUA-governed mABs for COVID-19, using an&#xD;
+      embedded assignment system akin to current mAb provision. This embedded system structures&#xD;
+      assignment to allow a clearer examination of care as a clarity measure for quality&#xD;
+      improvement. This system will allow a comparative effectiveness evaluation of the multiple&#xD;
+      mABs by effectively ensuring random allocation. As per standard UPMC pharmacy therapeutic&#xD;
+      interchange policy for all medications, the Physician can agree to the assigned mAB or can&#xD;
+      request a specific mAB. As per EUA requirements, patients will be counseled by their&#xD;
+      Physician about mABs and provided EUA Fact Sheets.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">December 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 22, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Alive and Free from Hospitalization</measure>
+    <time_frame>28 days after initial participation</time_frame>
+    <description>Days alive and free from hospitalization. Patients that are both living and not in the hospital will meet criteria to be counted in this outcome.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-location mortality at 90 days</measure>
+    <time_frame>90 days after initial participation</time_frame>
+    <description>All-location mortality at 90 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-location mortality at 28 days</measure>
+    <time_frame>28 days after initial participation</time_frame>
+    <description>All-location mortality at 28 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality at 28 days</measure>
+    <time_frame>28 days after initial participation</time_frame>
+    <description>All-cause mortality at 28 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality at 90 days</measure>
+    <time_frame>90 days after initial participation</time_frame>
+    <description>All-location mortality at 90 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Organ-support free days at day 28</measure>
+    <time_frame>28 days after initial participation</time_frame>
+    <description>Organ-support free days at day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 nasopharyngeal viral loads</measure>
+    <time_frame>28 days after initial participation</time_frame>
+    <description>Where feasible SARS-CoV-2 nasopharyngeal viral loads among participants from baseline and longitudinally through day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 plasma viral loads</measure>
+    <time_frame>28 days after initial participation</time_frame>
+    <description>Where feasible SARS-CoV-2 plasma viral loads among participants from baseline and longitudinally through day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 antibody titers</measure>
+    <time_frame>28 days after initial participation</time_frame>
+    <description>Where feasible SARS-CoV-2 antibody titers at baseline and longitudinally through day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 antibody neutralization</measure>
+    <time_frame>28 days after initial participation</time_frame>
+    <description>Where feasible SARS-CoV-2 antibody neutralization at baseline and longitudinally through day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 immune responses</measure>
+    <time_frame>28 days after initial participation</time_frame>
+    <description>Where feasible SARS-CoV-2 immune responses at baseline and longitudinally through day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Detection of SARS-CoV-2 variants through next-generation sequencing</measure>
+    <time_frame>28 days after initial participation</time_frame>
+    <description>Where feasible detection of SARS-CoV-2 variants through next-generation sequencing at baseline and longitudinally through day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of SAR-CoV-2 infectivity</measure>
+    <time_frame>28 days after initial participation</time_frame>
+    <description>Where feasible determining the duration of SAR-CoV-2 infectivity among patients with persistent nasopharyngeal swab viral shedding</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Non-culture surrogates for SARS-CoV-2 infectivity</measure>
+    <time_frame>28 days after initial participation</time_frame>
+    <description>Where feasible determining non-culture surrogates for SARS-CoV-2 infectivity among patients with persistent nasopharyngeal swab viral shedding</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Non-culture surrogates for SARS-CoV-2 infectivity</measure>
+    <time_frame>90 days after initial participation</time_frame>
+    <description>Where feasible determining non-culture surrogates for SARS-CoV-2 infectivity among patients with persistent nasopharyngeal swab viral shedding</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of SAR-CoV-2 infectivity</measure>
+    <time_frame>90 days after initial participation</time_frame>
+    <description>Where feasible determining the duration of SAR-CoV-2 infectivity among patients with persistent nasopharyngeal swab viral shedding</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">5000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Lilly Bamlanivimab</arm_group_label>
+    <description>The Lilly monoclonal antibody bamlanivimab will be administered according to FDA EUA guidelines. Dosing is 700 mg intravenously times one within 10 days of COVID-19 symptom onset.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Regeneron Casirivimab + Imdevimab</arm_group_label>
+    <description>The Regeneron monoclonal antibody cocktail Casirivimab + Imdevimab will be administered according to FDA EUA guidelines. Dosing is 1200 mg of each drug (2400 mg total) administered intravenously times one within 10 days of COVID-19 symptom onset.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lilly Bamlanivimab + Etesevimab</arm_group_label>
+    <description>The Lilly monoclonal antibody cocktail of bamlanivimab + etesevimab will be administered according to FDA EUA guidelines. Dosing is given intravenously times one within 10 days of COVID-19 symptom onset.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Lilly Bamlanivimab</intervention_name>
+    <description>Administration of Lilly Bamlanivimab to COVID positive patients</description>
+    <arm_group_label>Lilly Bamlanivimab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Regeneron Casirivimab + Imdevimab</intervention_name>
+    <description>Administration of Regeneron Casirivimab + Imdevimab to COVID positive patients</description>
+    <arm_group_label>Regeneron Casirivimab + Imdevimab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Lilly Bamlanivimab + Etesevimab</intervention_name>
+    <description>Administration of Lilly Bamlanivimab + Etesevimab to COVID positive patients</description>
+    <arm_group_label>Lilly Bamlanivimab + Etesevimab</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Remnant biological samples will be collected from routine clinical care to quantify the viral&#xD;
+      load and host response to the virus&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Any patients receiving mAB during the course of their COVID-19 illness that meets the&#xD;
+        existing EUA criteria is able to participate in this study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  COVID-19 positive patients&#xD;
+&#xD;
+          -  Eligible for mAB under FDA EUA&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Death is deemed to be imminent or inevitable&#xD;
+&#xD;
+          -  Previous participation in this REMAP within the last 90 days&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bryan McVerry, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David Huang, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bryan J McVerry, MD</last_name>
+    <phone>(412) 648-3098</phone>
+    <email>mcverrybj@upmc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kelsey Linstrum, MS</last_name>
+    <phone>203-947-6013</phone>
+    <email>linstrumk@upmc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UPMC</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 10, 2021</study_first_posted>
+  <last_update_submitted>March 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>David T. Huang, MD, MPH</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>COVID</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>De-identified participant-level data underlying the results reported in journal articles, subject to appropriate security controls, may be available for sharing with other researchers.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Relevant data may be available 1 year following publication</ipd_time_frame>
+    <ipd_access_criteria>Data access is subject to a methodologically sound proposal and the necessary data sharing agreements.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

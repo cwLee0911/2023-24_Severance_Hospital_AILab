@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4929">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04751682</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BBIL/BBV154/2020</org_study_id>
+    <nct_id>NCT04751682</nct_id>
+  </id_info>
+  <brief_title>Safety and Immunogenicity of an Intranasal SARS-CoV-2 Vaccine (BBV154) for COVID-19</brief_title>
+  <official_title>A Phase 1, Randomized, Double-blinded, Multicenter Study to Evaluate the Reactogenicity, Safety, and Immunogenicity of an Intranasal Adenovirus Vector COVID-19 Vaccine (BBV154) in Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bharat Biotech International Limited</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bharat Biotech International Limited</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is designed to evaluate the safety, reactogenicity, and immunogenicity of three&#xD;
+      groups of healthy volunteers who receive either intranasal single dose (Vaccine on Day 0 and&#xD;
+      placebo on Day 28) or two-dose (vaccine on Day 0 and 28) of BBV154 vaccine or Placebo (on Day&#xD;
+      0 and day 28). A total of 175 subjects will be enrolled in 2:2:1 ratio and will be conducted&#xD;
+      in a double-blinded manner.&#xD;
+&#xD;
+      To assess the safety of the vaccine, each participant will record symptoms in a diary card&#xD;
+      for 7 days after each dose. Safety and laboratory tests and physical exams will also be&#xD;
+      performed.&#xD;
+&#xD;
+      Blood samples and saliva samples be collected to assess the immune response from the vaccine.&#xD;
+&#xD;
+      An interim report based on the safety and immunogenicity of the vaccine (BBV154) will be&#xD;
+      notified to the Central Drugs Standard Control Organization (CDSCO), India, for further&#xD;
+      progressing the clinical development of the vaccine. This unblinded interim report will&#xD;
+      contain a detailed analysis of the data based on the primary and secondary objectives of all&#xD;
+      visits through Day 42 (Immunogenicity &amp; Safety).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">March 1, 2021</start_date>
+  <completion_date type="Anticipated">November 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 25, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A Phase 1, Randomized, Double-blinded, Multicenter Study to Evaluate the Reactogenicity, Safety, and Immunogenicity of an Intranasal Adenoviral vector COVID-19 vaccine (BBV154) in Healthy Volunteers.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The vaccine and placebo are identical in appearance and colour.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of immediate adverse events.</measure>
+    <time_frame>within 2 hours post each vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The incidence of solicited local and systemic adverse events</measure>
+    <time_frame>within 7 days post each vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The incidence of serious adverse events (SAEs)</measure>
+    <time_frame>Through study completion, an average of 6 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The incidence of unsolicited adverse events</measure>
+    <time_frame>Through study completion, an average of 6 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the humoral immune responses of BBV154</measure>
+    <time_frame>Through study completion, an average of 6 months</time_frame>
+    <description>GMT and four-fold seroconversion rate (SCR) of neutralizing antibodies (NAb's) by MNT/PRNT assays across the three groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare the humoral responses between single dose group and double dose group.</measure>
+    <time_frame>Through study completion, an average of 6 months</time_frame>
+    <description>GMT and four-fold seroconversion rate (SCR) of neutralizing antibodies (NAb's) by MNT/PRNT assays across the three groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the immune responses against spike protein of SARS-CoV-2 virus and Adenovirus vector</measure>
+    <time_frame>Through study completion, an average of 6 months</time_frame>
+    <description>GMT and four-fold seroconversion rate of binding antibodies (bAb's) IgA and IgG against spike protein across the three groups.&#xD;
+Immune response (binding/ or neutralization) to the vector will be assessed by ELISA</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vaccine induced cell mediated antigen specific T-cell responses across the three groups.</measure>
+    <time_frame>Through study completion, an average of 6 months</time_frame>
+    <description>IFN-gamma (ELISPOT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vaccine induced cell mediated antigen specific cytokines across the three groups. To evaluate the vaccine induced Cell mediated immune response.</measure>
+    <time_frame>Through study completion, an average of 6 months</time_frame>
+    <description>Th1/Th2 profiling</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the vaccine secretory IgA antibody response.</measure>
+    <time_frame>Through study completion, an average of 6 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the safety of the vaccine in terms of assessing adverse event of special interest (AESI)</measure>
+    <time_frame>Through study completion, an average of 6 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">175</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>BBV154: Single Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 1 (Single dose group): In this group, 70 participants will be recruited and administered with vaccine (BBV154) on day 0 and with placebo on day 28 via intranasal route.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BBV154: Two Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 2 (Two-dose group): In this group, 70 participants will be recruited and administered with vaccine (BBV154) on both day 0 and on day 28 via intranasal route.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Group 3 (Placebo): In this group, 35 participants will be recruited and administered with placebo on both day 0 and day 28 via intranasal route.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BBV154 Vaccine</intervention_name>
+    <description>Replication deficient Adenoviral vector-based (expressing a stabilized spike protein) SARS-CoV-2 vaccine (BBV154) NLT 1X10^10 Virus Particle.</description>
+    <arm_group_label>BBV154: Single Dose</arm_group_label>
+    <arm_group_label>BBV154: Two Dose</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Ability to provide written informed consent.&#xD;
+&#xD;
+          2. Participants of either gender of age between ≥18 to ≤60 years.&#xD;
+&#xD;
+          3. Good general health as determined by the discretion of investigator (vital signs&#xD;
+             (heart rate ≥60 to≤100 bpm; blood pressure systolic ≥90 mm Hg and &lt;140 mm Hg;&#xD;
+             diastolic ≥ 60 mm Hg and &lt;90 mm Hg; oral temperature &lt;100.4ºF), medical history, and&#xD;
+             physical examination).&#xD;
+&#xD;
+          4. Expressed interest and availability to fulfil the study requirements.&#xD;
+&#xD;
+          5. For a female participant of child-bearing potential, planning to avoid becoming&#xD;
+             pregnant (use of an effective method of contraception or abstinence) from the time of&#xD;
+             study enrolment until at least four weeks after the last vaccination.&#xD;
+&#xD;
+          6. Male subjects of reproductive potential: Use of condoms to ensure effective&#xD;
+             contraception with the female partner from first vaccination until 3 months after last&#xD;
+             vaccination.&#xD;
+&#xD;
+          7. Male subjects agree to refrain from sperm donation from the time of first vaccination&#xD;
+             until 3 months after last vaccination.&#xD;
+&#xD;
+          8. Participants must refrain from blood or plasma donation from the time of first&#xD;
+             vaccination until 3 months after last vaccination.&#xD;
+&#xD;
+          9. Agrees not to participate in another clinical trial at any time during the study&#xD;
+             period.&#xD;
+&#xD;
+         10. Agrees to remain in the study area for the entire duration of the study.&#xD;
+&#xD;
+         11. Willing to allow storage and future use of biological samples for future research.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of any other COVID-19 investigational/or licensed vaccination.&#xD;
+&#xD;
+          2. Unacceptable laboratory abnormality from screening (prior to first vaccination) or&#xD;
+             safety testing, as listed below [Abnormal Complete Blood Count (CBC), Random blood&#xD;
+             sugar level, Renal function test (serum urea and Creatinine), liver function tests,&#xD;
+             urine analysis report, Positive serology for hepatitis C or HIV antibody or hepatitis&#xD;
+             B surface antigen].&#xD;
+&#xD;
+             (Subjects will be informed if their results are positive for hepatitis C, HIV 1 &amp; 2&#xD;
+             antibody or hepatitis B surface antigen (HBsAg) and will be referred to a primary care&#xD;
+             provider for follow up of these abnormal laboratory tests.)&#xD;
+&#xD;
+          3. Confirmed SARS-CoV-2 at the time of screening using RT-PCR and ELISA or CLIA method.&#xD;
+&#xD;
+          4. History of facial nerve paralysis&#xD;
+&#xD;
+          5. History of cold, sneezing, nasal obstruction in the past 3 days.&#xD;
+&#xD;
+          6. Prescribed usage of any nasal spray/or nasal drop medication.&#xD;
+&#xD;
+          7. Any significant abnormality altering the anatomy of the nose in a substantial way or&#xD;
+             nasopharynx that may interfere with the aims of the study and in particular any of the&#xD;
+             nasal assessments or viral challenge (historical nasal polyps can be included, but&#xD;
+             large nasal polyps causing current and significant symptoms and/or requiring regular&#xD;
+             treatments in the last month are excluded)&#xD;
+&#xD;
+          8. For women of child bearing potential, a positive serum pregnancy test (during&#xD;
+             screening within 45 days of enrolment) or positive urine pregnancy test (within 24&#xD;
+             hours of administering each dose of vaccine).&#xD;
+&#xD;
+          9. Temperature &gt;38.0°C (100.4°F) or symptoms of an acute self-limited illness such as an&#xD;
+             upper respiratory infection or gastroenteritis within three days prior to each dose of&#xD;
+             vaccine.&#xD;
+&#xD;
+         10. Medical problems as a result of alcohol or illicit drug use during the past 12 months.&#xD;
+&#xD;
+         11. Receipt of an experimental agent (vaccine, drug, device, etc.) within 60 days before&#xD;
+             enrolment or expects to receive an investigational agent during the study period.&#xD;
+&#xD;
+         12. Receipt of any licensed vaccine within four weeks before enrolment in this study.&#xD;
+&#xD;
+         13. Known sensitivity to any ingredient of the study vaccines, or a more severe allergic&#xD;
+             reaction and history of allergies in the past.&#xD;
+&#xD;
+         14. Receipt of immunoglobulin or other blood products within the three months prior to&#xD;
+             vaccination in this study.&#xD;
+&#xD;
+         15. Immunosuppression as a result of an underlying illness or treatment with&#xD;
+             immunosuppressive or cytotoxic drugs, or use of anticancer chemotherapy or radiation&#xD;
+             therapy within the preceding 36 months.&#xD;
+&#xD;
+         16. Long-term use (&gt; 2 weeks) of oral or parenteral steroids (glucocorticoids) or&#xD;
+             high-dose inhaled steroids (&gt;800 mcg/day of beclomethasone dipropionate or equivalent)&#xD;
+             within the preceding six months (nasal and topical steroids are allowed).&#xD;
+&#xD;
+         17. Any history of hereditary angioedema or idiopathic angioedema.&#xD;
+&#xD;
+         18. Any history of anaphylaxis in relation to vaccination.&#xD;
+&#xD;
+         19. Any history of albumin-intolerance.&#xD;
+&#xD;
+         20. Pregnancy, lactation, or willingness/intention to become pregnant during the study.&#xD;
+&#xD;
+         21. History of any cancer.&#xD;
+&#xD;
+         22. History of severe psychiatric conditions likely to affect participation in the study.&#xD;
+&#xD;
+         23. A bleeding disorder (e.g. factor deficiency, coagulopathy or platelet disorder, or&#xD;
+             prior history of significant bleeding or bruising following IM injections or&#xD;
+             venepuncture.&#xD;
+&#xD;
+         24. Any other serious chronic illness requiring hospital specialist supervision.&#xD;
+&#xD;
+         25. Chronic respiratory diseases like severe acute respiratory syndrome (SARS), including&#xD;
+             mild asthma.&#xD;
+&#xD;
+         26. Chronic cardiovascular disease, gastrointestinal disease, liver disease, renal&#xD;
+             disease, endocrine disorder, and neurological illness&#xD;
+&#xD;
+         27. Morbidly obese (BMI≥35 kg/m2) or underweight (BMI ≤18 kg/m2).&#xD;
+&#xD;
+         28. Living in the same household of any COVID-19 positive person.&#xD;
+&#xD;
+         29. Any other condition that in the opinion of the investigator would jeopardize the&#xD;
+             safety or rights of a volunteer participating in the trial or would render the subject&#xD;
+             unable to comply with the protocol. Re-Vaccination Exclusion Criteri.&#xD;
+&#xD;
+         30. Pregnancy.&#xD;
+&#xD;
+         31. Anaphylactic reaction following administration of the investigational vaccine.&#xD;
+&#xD;
+         32. Virologically confirmed cases of SARS-CoV-2 infection.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>AIIMS,Patna</name>
+      <address>
+        <city>Patna</city>
+        <state>Bihar</state>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Apollo Hospitals,Chennai</name>
+      <address>
+        <city>Chennai</city>
+        <state>Tamil Nadu</state>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St.Theresa Hospital, Hyderabad</name>
+      <address>
+        <city>Hyderabad</city>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gillurkar Multispeciality Hospital,Nagpur</name>
+      <address>
+        <city>Nagpur</city>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>India</country>
+  </location_countries>
+  <reference>
+    <citation>Hassan AO, Kafai NM, Dmitriev IP, Fox JM, Smith BK, Harvey IB, Chen RE, Winkler ES, Wessel AW, Case JB, Kashentseva E, McCune BT, Bailey AL, Zhao H, VanBlargan LA, Dai YN, Ma M, Adams LJ, Shrihari S, Danis JE, Gralinski LE, Hou YJ, Schäfer A, Kim AS, Keeler SP, Weiskopf D, Baric RS, Holtzman MJ, Fremont DH, Curiel DT, Diamond MS. A Single-Dose Intranasal ChAd Vaccine Protects Upper and Lower Respiratory Tracts against SARS-CoV-2. Cell. 2020 Oct 1;183(1):169-184.e13. doi: 10.1016/j.cell.2020.08.026. Epub 2020 Aug 19.</citation>
+    <PMID>32931734</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 12, 2021</study_first_posted>
+  <last_update_submitted>March 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

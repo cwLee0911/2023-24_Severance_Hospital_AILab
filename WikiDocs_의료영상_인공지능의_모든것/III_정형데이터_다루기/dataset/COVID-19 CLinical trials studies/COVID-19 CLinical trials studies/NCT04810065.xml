@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2141">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04810065</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SingStrong</org_study_id>
+    <nct_id>NCT04810065</nct_id>
+  </id_info>
+  <brief_title>SingStrong: Strong Lungs Through Song - Long COVID-19 Study</brief_title>
+  <acronym>ss</acronym>
+  <official_title>SingStrong: Strong Lungs Through Song</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Limerick</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Limerick</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evidence is emerging that many individuals who recover from Covid-19 are experiencing a range&#xD;
+      of residual problems. These include fatigue, pain, reduced exercise tolerance and breathing&#xD;
+      issues. This study includes participants who are experiencing problems with their lungs such&#xD;
+      as breathing difficulties, shortness of breath, and/or reduced exercise tolerance. The&#xD;
+      intervention is a twice weekly singing and breathing retraining intervention conducted over&#xD;
+      ten weeks. A range of self-report questionnaire measures will evaluate the efficacy of the&#xD;
+      intervention in addressing these problems. Focus groups and individual interviews will also&#xD;
+      be used to gather information on the impact and acceptability of the programme.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 29, 2021</start_date>
+  <completion_date type="Anticipated">September 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Covid-19 Yorkshire Rehab Screen (C19YRS)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The C19YRS was developed as a screening tool to monitor long-term symptoms due to Covid-19. The screening tool covers 19 items which combines yes/no answers and an 11 point ordinal scale (0-10) where a higher score denotes increased symptom severity.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>DePaul Symptom Questionnaire - Short Form DSQ - SF</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The DPSQ -SF assesses key symptoms of ME/Chronic Fatigue Syndrome such as fatigue, post-exertional malaise, sleep, pain, neurological/cognitive impairments and autonomic, neuroendocrine and immune symptoms. At each item, participants have to rate the frequency and severity of the symptom on a scale from 0 to 4. A higher score denotes increased symptom severity.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">35</enrollment>
+  <condition>Long Covid</condition>
+  <arm_group>
+    <arm_group_label>SingStrong for Pulmonary Fibrosis</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>This arm of the project explores Singing as an intervention for people suffering from Pulmonary Fibrosis specifically.&#xD;
+It is a 10 week programme. All other aspects of the intervention are the same in terms of delivery and length of classes.&#xD;
+Different outcome measures, namely the St Georges Respiratory Questionnaire is used in this trial. This is a disease-specific instrument designed to measure impact on overall health, daily life, and perceived well-being in patients with airways disease. Scores range from 0 to 100, with higher scores indicating more limitations.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>SingStrong: Strong lungs through Song</intervention_name>
+    <description>Participants who have been clinically diagnosed with Covid-19 and who continue to suffer residual adverse effects on the lung health will be invited to participate in the study.&#xD;
+The intervention will involve biweekly hour-long breathing and singing classes that are designed to correct dis-ordered breathing, and retrain the principal muscles of respiration.&#xD;
+Pre and post evaluation of participant bio-psychosocial health and wellness will be conducted. Triangulation of data using focus groups and individual interviews will be conducted after conclusion of the intervention,</description>
+    <arm_group_label>SingStrong for Pulmonary Fibrosis</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 years of age or older&#xD;
+&#xD;
+          -  Previous clinical diagnosis of Covid-19&#xD;
+&#xD;
+          -  Ongoing issues with any or all of: Shortness of breath, disordered breathing, reduced&#xD;
+             exercise tolerance&#xD;
+&#xD;
+          -  Good written and spoken English language&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Lack of a confirmed Covid-19 diagnosis&#xD;
+&#xD;
+          -  Currently undergoing a similar singing or breathing retraining intervention&#xD;
+&#xD;
+          -  No residual problems from a confirmed case of Covid-19&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Roisin Cahalan, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Limerick</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Roisin Cahalan, PhD</last_name>
+    <phone>+35361 202959</phone>
+    <email>roisin.cahalan@ul.ie</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Limerick</name>
+      <address>
+        <city>Limerick</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roisin Cahalan, PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Ireland</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 22, 2021</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Limerick</investigator_affiliation>
+    <investigator_full_name>Roisin Cahalan</investigator_full_name>
+    <investigator_title>Senior Lecturer Physiotherapy</investigator_title>
+  </responsible_party>
+  <keyword>Singing</keyword>
+  <keyword>Disordered breathing</keyword>
+  <keyword>Covid-19</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

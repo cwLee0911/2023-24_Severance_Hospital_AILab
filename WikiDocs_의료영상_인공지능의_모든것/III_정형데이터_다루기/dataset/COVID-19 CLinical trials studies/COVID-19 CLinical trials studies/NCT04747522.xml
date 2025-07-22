@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2797">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04747522</url>
+  </required_header>
+  <id_info>
+    <org_study_id>227626</org_study_id>
+    <nct_id>NCT04747522</nct_id>
+  </id_info>
+  <brief_title>Severe Acute Respiratory Syndrome Corona Virus 2 (SARS-CoV-2) Immune Kidney Transplant Study (COVID-19)</brief_title>
+  <acronym>SCV-KTx-imm</acronym>
+  <official_title>SARS-CoV-2 Cellular and Humoral Immune Response Following Vaccination of Kidney Transplant Recipients and Healthy Controls</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oslo University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Oslo University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      None of the vaccines approved, or in clinical trials, have so far been tested on transplanted&#xD;
+      patients. If they produce an immune response to the Spike protein of SARS-CoV-2 it is unknown&#xD;
+      how long the protective immunity will last.&#xD;
+&#xD;
+      Not all immune responses are equal. The investigators will quantify immune cell subsets with&#xD;
+      flow and mass cytometry analyses to describe the phenotype of responding immune cells,&#xD;
+      including specific T cells. If not already established, patient human Leukocyte antigen (HLA)&#xD;
+      genotypes will be typed.&#xD;
+&#xD;
+      In order to compare the immune responses with healthy individuals a control group of hospital&#xD;
+      employees will be included and sampled before and after vaccination according to the same&#xD;
+      time schedules as the kidney transplanted patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Kidney transplanted patients with post-transplant follow-up visits at the national transplant&#xD;
+      center in Norway will be included before they are SARS-CoV-2 vaccinated. As a control group&#xD;
+      the investigators will include blood samples from healthy volunteers (hospital employees)&#xD;
+      that receive vaccine as first line health care workers.&#xD;
+&#xD;
+      Baseline blood samples will be obtained before vaccination. The vaccination will be performed&#xD;
+      according to the national procedures and not necessarily by the hospital. Following&#xD;
+      vaccination, all patients and controls will have blood drawn 7-10 days as well as 4-6 weeks&#xD;
+      after the second dose. Depending on the results of the immunity testing the patients and&#xD;
+      controls may be invited to additional blood sampling up or at specific time points to two&#xD;
+      years following vaccination.&#xD;
+&#xD;
+      At each blood sampling and at the time of both vaccinations the systemic exposure of&#xD;
+      tacrolimus will be assessed in kidney transplanted patients.&#xD;
+&#xD;
+      All samples will be analyzed with validated assays for SARS-CoV-2 immunoglobulin G (IgG)&#xD;
+      (anti-receptor binding domain (RBD) spike protein) using ELISA, flow cytometry bead arrays&#xD;
+      and SARS-CoV-2 neutralization assays or comparable techniques. Cells will be analyzed by flow&#xD;
+      and mass cytometry for activation and phenotype markers, and with functional assays for&#xD;
+      responsiveness (e.g. proliferation and cytokine production). Samples will be HLA-typed if&#xD;
+      HLA-genotype if not already established.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 22, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cellular immunological response</measure>
+    <time_frame>1.5 months</time_frame>
+    <description>IgG antibodies against SARS-CoV-2 spike protein above assay limit of positive sample.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Humoral immunological response</measure>
+    <time_frame>1.5 months</time_frame>
+    <description>T-cell reactivity against SARS-CoV-2 spike protein, including known mutation in the spike protein.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Vaccine related side effects</measure>
+    <time_frame>6 months</time_frame>
+    <description>Adverse drug reactions that have a reasonable relation to the vaccination, as assessed by the investigator</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Kidney Transplant Infection</condition>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Kidney Transplanted patients</arm_group_label>
+    <description>Kidney transplanted patients transplanted at least 6 months prior to SARS-CoV-2 vaccination. Vaccination according to national plan with messenger Ribonucleic acid (mRNA) vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <description>Healthy hospital staff receiving SARS-CoV-2 mRNA vaccine as being front line Healthcare workers.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SARS-CoV-2 vaccine</intervention_name>
+    <description>SARS-CoV-2 vaccines currently on market, i.e. Pfizer/BioNTech and Moderna</description>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <arm_group_label>Kidney Transplanted patients</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Whole blood Serum Isolated blood cells DNA&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult, standard risk kidney transplanted patients on tacrolimus based immunosuppressive&#xD;
+        therapy are eligible for inclusion in the project.&#xD;
+&#xD;
+        Adult, healthy Oslo university hospital (OUS) employees that receive vaccine as first line&#xD;
+        health care workers and that are not treated for any disease known to be a risk factor for&#xD;
+        severe COVID-19. These will be invited to participate via study information posted in the&#xD;
+        relevant clinics.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients transplanted with a kidney (only) at least 6 months before vaccination OR&#xD;
+             healthy volunteer first line health care workers at OUS.&#xD;
+&#xD;
+          -  Age of 18 years or older (also for controls).&#xD;
+&#xD;
+          -  Standard immunological risk at transplantation (i.e. no donor specific HLA antibodies&#xD;
+             (DSA)) and not performed an ABO blood-type-incompatible transplantation.&#xD;
+&#xD;
+          -  No treatment for rejection episodes the last 6 months before inclusion.&#xD;
+&#xD;
+          -  Immunosuppressive therapy including tacrolimus, mycophenolate and prednisolone.&#xD;
+&#xD;
+          -  Stable graft-function the last 6 months.&#xD;
+&#xD;
+          -  S-creatinine &lt; 200 μmol/L (also for controls).&#xD;
+&#xD;
+          -  Signed informed consent to participate in the study (also for controls).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Three or more previous transplantations.&#xD;
+&#xD;
+          -  Hemoglobin level below 10 g/dL (also for control).&#xD;
+&#xD;
+          -  Leukopenia defined as total lymphocyte count &lt; 2 X 109 (also for controls).&#xD;
+&#xD;
+          -  Previous treatment with anti-thymocyte antibodies (ATG) or rituximab.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Karsten Midtvedt, MD, PhD</last_name>
+    <phone>004723070000</phone>
+    <phone_ext>1894</phone_ext>
+    <email>kmidtved@ous-hf.no</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anders Åsberg, PhD</last_name>
+    <phone>004723070000</phone>
+    <phone_ext>1937</phone_ext>
+    <email>aaasbe@ous-hf.no</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Oslo University Hospital</name>
+      <address>
+        <city>Oslo</city>
+        <zip>0424</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karsten Midtvedt, MD, PhD</last_name>
+      <phone>004723070000</phone>
+      <phone_ext>1894</phone_ext>
+      <email>kmidtved@ous-hf.no</email>
+    </contact>
+    <contact_backup>
+      <last_name>Anders Åsberg, PhD</last_name>
+      <phone>004723070000</phone>
+      <phone_ext>1937</phone_ext>
+      <email>aaasbe@ous-hf.no</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 10, 2021</study_first_posted>
+  <last_update_submitted>February 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Oslo University Hospital</investigator_affiliation>
+    <investigator_full_name>Anders Åsberg</investigator_full_name>
+    <investigator_title>Head of Laboratory</investigator_title>
+  </responsible_party>
+  <keyword>Vaccination</keyword>
+  <keyword>Humoral</keyword>
+  <keyword>Cellular</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Potential sharing of de-identified immunological data. Need specific ethical Committee approval for sharing</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

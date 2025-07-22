@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5376">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04826809</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-011897</org_study_id>
+    <nct_id>NCT04826809</nct_id>
+  </id_info>
+  <brief_title>New Reusable Mask Design With Superior Filtration and Fit</brief_title>
+  <official_title>A New Fully-reusable, Affordable, Comfortable Mask Design With Superior Filtration and Fit for Use During Respirator Shortages and Pandemics</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mayo Clinic</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will test the filtration, air leak, and breathability of a newly designed fully&#xD;
+      washable mask developed by Dr. Nordell with the Mayo Clinic. This mask is theorized to be a&#xD;
+      superior alternative to other respirators currently used when one-time-use N95 masks are&#xD;
+      unavailable.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study is to determine potential effectiveness of a new, reusable mask&#xD;
+      against SARS-CoV-2 and other microbes. This requires filtering down to at least 0.3 microns,&#xD;
+      as the SARS-CoV-2 virus is on average 0.25-0.5 microns in diameter.&#xD;
+&#xD;
+      Dr. Nordell has developed a machine-washable mask which shows potential to be significantly&#xD;
+      more effective than other masks on the market. It uses a fabric that is machine washable,&#xD;
+      without need for a filter or replaceable component. This fabric, Evolon-100 or E-100, is a&#xD;
+      microfilament fabric produced by a private company outside of the USA (and is therefore not&#xD;
+      yet FDA approved as of December 2020).&#xD;
+&#xD;
+      Unofficial data shows this mask passes the &quot;N95 fit test&quot; before and after multiple washes on&#xD;
+      the majority of individuals tested, and the material used in Dr. Nordell's design filters&#xD;
+      93-96% of 0.3 micron particles. For reference, the N95 mask used in the hospital (whenever&#xD;
+      concern for potential exposure to COVID-19 or similar contagion exists) filters 95% of 0.3&#xD;
+      micron particles when factoring in air leak, assessed with the &quot;fit test.&quot; Voluntary survey&#xD;
+      of users also shows it is more comfortable than other masks, including the N95. This mask is&#xD;
+      also reported to be breathable even after prolonged use.&#xD;
+&#xD;
+      This mask design addresses every factor in respirator design. The design intentionally uses&#xD;
+      pleats to increase the effective mask surface area while decreasing the seal perimeter,&#xD;
+      resulting in increased air flow, lower pressure drop, and increased filtration efficiency.&#xD;
+      The investigators propose that it has a higher filtration ability than other washable fabrics&#xD;
+      tested, filtering at least 93% of 0.3 micron particles, even up to 96%. It also helps prevent&#xD;
+      air leak, a large factor limiting efficacy of most non-standard masks. It is easy to don and&#xD;
+      doff, and it is very easy to clean and disinfect. This material can be washed multiple times&#xD;
+      in a standard washing machine without reducing its effectiveness. And finally, it is very&#xD;
+      affordable, with materials for one mask costing less than $1.50. All materials used beyond&#xD;
+      this specific fabric are easily purchased on the internet or in a fabric store.&#xD;
+&#xD;
+      Upon completion of this research, the investigators hope to demonstrate that this mask is a&#xD;
+      superior alternative in multiple settings, including hospitals in developing countries with&#xD;
+      little or no N95 mask access, non-hospital settings such as businesses and schools, as well&#xD;
+      as for the general population, especially those with high risk for COVID-related&#xD;
+      complications.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">October 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Filter rate</measure>
+    <time_frame>6 months</time_frame>
+    <description>The percentage of particles that are 0.3 microns in size or larger</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comfort level</measure>
+    <time_frame>6 months</time_frame>
+    <description>Measured by a self-reported questionnaire that rates the comfort level of the new mask on a scale from 0 to 5 (0 is the most uncomfortable mask ever worn, 5 is the best, most comfortable mask)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Ability to breathe</measure>
+    <time_frame>6 months</time_frame>
+    <description>Measured by a self-reported questionnaire that rates ability to breathe comfortably while wearing the new mask, from 0 (not able to breathe at all) to 5 (just as easy to breathe as not wearing any mask)</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <condition>Tuberculosis</condition>
+  <condition>Respiratory Viral Infection</condition>
+  <arm_group>
+    <arm_group_label>Health care workers</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Health care workers will complete a fit test while wearing the Nordell Single E-100 layer + (cotton layer) mask, Nordell Double E-100 layer mask and an N95 mask</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>N95 mask</intervention_name>
+    <description>Standard 1870 N95 one time use mask</description>
+    <arm_group_label>Health care workers</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Nordell single E-100 layer mask</intervention_name>
+    <description>Nordell mask design using one layer of E-100 fabric plus cotton fabric overlay</description>
+    <arm_group_label>Health care workers</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Nordell double E-100 layer mask</intervention_name>
+    <description>Nordell mask design using two layers of E-100 fabric</description>
+    <arm_group_label>Health care workers</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Current employee of Mayo Clinic Health System-Mankato&#xD;
+&#xD;
+          -  Passed N95 fit test within the past year&#xD;
+&#xD;
+          -  No medical history of: high blood pressure, current or recent pneumonia or upper&#xD;
+             respiratory infection, and no uncontrolled chronic asthma&#xD;
+&#xD;
+          -  Ideally with wide representation of genders, race, age, BMI, occupation/role in&#xD;
+             hospital.&#xD;
+&#xD;
+          -  Willing and able to provde verbal consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - History of uncontrolled asthma, pneumonia, or hypertension.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Janielle R Nordell, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic Health System in Mankato</name>
+      <address>
+        <city>Mankato</city>
+        <state>Minnesota</state>
+        <zip>56001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Janielle Nordell</last_name>
+      <phone>507-594-7493</phone>
+      <email>MANORDELLMASKPRJ@mayo.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mayo Clinic</investigator_affiliation>
+    <investigator_full_name>Janielle R. Nordell</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>PPE</keyword>
+  <keyword>mask</keyword>
+  <keyword>N95</keyword>
+  <keyword>pandemic</keyword>
+  <keyword>mask shortage</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tuberculosis</mesh_term>
+    <mesh_term>Virus Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

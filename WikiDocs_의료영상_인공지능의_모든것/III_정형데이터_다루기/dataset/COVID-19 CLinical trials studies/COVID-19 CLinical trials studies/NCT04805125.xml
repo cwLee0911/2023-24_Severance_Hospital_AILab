@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2664">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04805125</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-02960; me20Bucher</org_study_id>
+    <nct_id>NCT04805125</nct_id>
+  </id_info>
+  <brief_title>Immunocompromised Swiss Cohorts Based Trial Platform</brief_title>
+  <acronym>COVERALL</acronym>
+  <official_title>Randomised Controlled Trials to Assess Approved SARS-CoV-2 Vaccines in Immunocompromised Patients: A Master Protocol for the Set-up of a Swiss Cohorts Based Trial Platform</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Basel, Switzerland</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Swiss National Science Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Basel, Switzerland</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is to set up a flexible trial platform using two existing national cohorts of&#xD;
+      immunocompromised patients (i.e. Swiss HIV Cohort Study [SHCS] and Swiss Transplant Cohort&#xD;
+      Study [STCS]) to assess the comparative effectiveness and safety of approved SARS-CoV-2&#xD;
+      vaccines in immunocompromised patients.&#xD;
+&#xD;
+      This platform will be tested in the frame of an exploratory pilot trial and a framework will&#xD;
+      be set up to conduct a larger, flexible, randomized controlled trial (RCT) to test approved&#xD;
+      SARS-CoV-2 vaccines to prevent SARS-CoV-2 infections.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is to set up a flexible trial platform using two existing national cohorts of&#xD;
+      immunocompromised patients (i.e. Swiss HIV Cohort Study [SHCS] and Swiss Transplant Cohort&#xD;
+      Study [STCS]) to assess the comparative effectiveness and safety of approved SARS-CoV-2&#xD;
+      vaccines in immunocompromised patients. Nesting this trial into cohorts with highly&#xD;
+      standardized data collection allows for a rapid, efficient and cost-saving trial conduct.&#xD;
+&#xD;
+      This platform will be tested in the frame of a pilot trial and a framework will be set up to&#xD;
+      conduct a larger, flexible, randomized controlled trial (RCT) to test approved SARS-CoV-2&#xD;
+      vaccines to prevent SARS-CoV-2 infections.&#xD;
+&#xD;
+      The pilot study will primarily assess the functionality of the trial platform and early&#xD;
+      immunogenicity, efficacy and safety data. At a later stage, the platform might also be used&#xD;
+      to enlarge the pilot trial or to develop sub-protocols to deal with patients with no or&#xD;
+      insufficient immune response to Sars-CoV-2 vaccines.&#xD;
+&#xD;
+      Since January 12, 2021 two mRNA vaccines against Sars-CoV-2 by Pfizer / BioNTech (Comirnaty®)&#xD;
+      and COVID-19 mRNA Vaccine Moderna® by Moderna have been licensed in Switzerland and roll-out&#xD;
+      of vaccines has started&#xD;
+&#xD;
+      The first sub-protocol for a pilot trial is to investigate the operability of a platform&#xD;
+      trial that is nested into two existing cohort studies and compare immune response, safety and&#xD;
+      clinical efficacy of the first two mRNA vaccines (Comirnaty® by Pfizer / BioNTech and&#xD;
+      COVID-19 mRNA Vaccine Moderna®, by Moderna) in immune compromised patients in the Swiss HIV&#xD;
+      and Swiss Transplant Cohort studies.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">July 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Cohort embedded platform with a first sub-study pilot trial of two arms comparing licensed vaccines against SARS-CoV-2. The platform design allows to expand the pilot trial into a larger trial by sub-protocols to add or drop vaccine arms or to add further sub-protocols for re-randomization of patients with no immune response to a vaccine booster or new vaccines A parallel two-arm open-label randomized controlled exploratory pilot trial comparing the first in Switzerland approved SARS-CoV-2 vaccines (based on a trial platform that is integrated into the ongoing routine prospective data collection of two national cohorts, the SHCS and STCS).</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>immunological outcome: change in pan-Ig antibody response (pan-Ig anti-S1-RBD)</measure>
+    <time_frame>at baseline (day of vaccination) and three months after vaccination</time_frame>
+    <description>A commercial immunoassay Elecsys® Anti-SARS-CoV-2 S for the in vitro quantitative determination of antibodies to the SARS-CoV-2 spike (S) protein receptor binding domain (RBD) in human serum and plasma is used. This assay detects pan-Ig antibody response (pan-Ig anti-S1-RBD) and allows for a quantitative assessment of the serological response of the participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>immunological outcome: change in anti-Nucleocapsid (N) response</measure>
+    <time_frame>at baseline (day of vaccination) and three months after vaccination</time_frame>
+    <description>Qualitative measurement of anti-Nucleocapsid (N) responses with Elecsys® Anti-SARS-CoV-2 N assay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>immunological outcome: change in SARS-CoV-2-binding antibodies</measure>
+    <time_frame>at baseline (day of vaccination) and three months after vaccination</time_frame>
+    <description>SARS-CoV-2-binding antibody responses of the participants are assessed by analyzing the IgM, IgA and IgG responses to a wider range of SARS-CoV-2 proteins (S1, S2, RBD and N) using an in-house method (ABCORA). The ABCORA test allows a parallel assessment of IgG, IgM and IgA reactivity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with newly polymerase chain reaction (PCR)-confirmed asymptomatic COVID-19 infection</measure>
+    <time_frame>at any time point in within 48 weeks following randomisation (day of vaccination)</time_frame>
+    <description>Number of participants with newly PCR-confirmed asymptomatic COVID-19 infection (identified by the presence of anti-SARS-CoV-2 nucleocapsid antibodies or Sars-Cov-2 PCR or rapid antigen test) and no related symptoms [(i.e. fever or chills, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, new loss of taste or smell, sore throat, congestion or runny nose nausea or vomiting, and diarrhea])</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with newly PCR-confirmed symptomatic COVID-19 infection</measure>
+    <time_frame>at any time point in within 48 weeks following randomisation (day of vaccination)</time_frame>
+    <description>Number of participants with newly PCR-confirmed symptomatic COVID-19 infection with at least one of the following symptoms (i.e. fever or chills, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, new loss of taste or smell, sore throat, congestion or runny nose nausea or vomiting, and diarrhea</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with severe COVID-19 infection</measure>
+    <time_frame>at any time point in within 48 weeks following randomisation (day of vaccination)</time_frame>
+    <description>Number of participants with severe COVID-19 infection with respiratory failure, evidence of shock (as diagnosed by a treating physician), clinically significant acute renal, hepatic, or neurologic dysfunction; admission to an intensive care unit; or death</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Outcome: COVID-19 burden of diseases (BOD)</measure>
+    <time_frame>within 48 weeks following randomisation (day of vaccination)</time_frame>
+    <description>COVID-19 burden of diseases (BOD), a composite, will be scored as by using 0 for no COVID-19, 1 for non-severe COVID-19, and 2 for severe COVID-19.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Duration of RCT set up (specific endpoint related to trial conduct feasibility)</measure>
+    <time_frame>one time assessment at baseline (from deciding which interventions will be tested until the first patient is randomised)</time_frame>
+    <description>Duration of RCT set up (i.e. time from deciding which interventions will be tested until the first patient is randomised).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time of patient recruitment from activation of first study site until 40 patients are randomised</measure>
+    <time_frame>one time assessment after approx. 3 months (from activation of first study site until 40 patients are randomised)</time_frame>
+    <description>Time of patient recruitment from activation of first study site until 40 patients are randomised</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time of patient recruitment from activation of first study site until 380 patients are randomised</measure>
+    <time_frame>one time assessment after approx. 3 months (from activation of first study site until 380 patients are randomised)</time_frame>
+    <description>Time of patient recruitment from activation of first study site until 380 patients are randomised</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient consent rate</measure>
+    <time_frame>approx. 3 months</time_frame>
+    <description>Patient consent rate (i.e. proportion of patients giving informed consent out of approached eligible patients)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of missing data for all baseline variables from routinely collected cohort data</measure>
+    <time_frame>one time assessment at baseline</time_frame>
+    <description>Proportion of missing data for all baseline variables from routinely collected cohort data</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of missing data for all clinical outcomes</measure>
+    <time_frame>one time assessment after approx. 3 months</time_frame>
+    <description>Proportion of missing data for all clinical outcomes from routinely collected cohort data and outcome data that is collected in the trial platform</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SARS-CoV-2-specific antibodies</measure>
+    <time_frame>three months after vaccination</time_frame>
+    <description>SARS-CoV-2-specific antibodies (using a pan-IgG antibody assay against the receptor binding domain (RBD) against the nP and spike 1 subunits)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SARS-CoV-2-specific titers</measure>
+    <time_frame>three months after vaccination</time_frame>
+    <description>SARS-CoV-2-specific titers (using an in-house assay developed by the Institute of Medical Virology, University of Zurich which can detect multiple viral epitopes)</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Safety Outcome: number of local symptoms</measure>
+    <time_frame>during the first 7 days after vaccination</time_frame>
+    <description>Any local symptom (redness or swelling or prolonged pain at injection side) limiting continuation of normal daily activities</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety Outcome: number of systemic symptoms</measure>
+    <time_frame>during the first 7 days after vaccination</time_frame>
+    <description>Any systemic symptom (fever, generalized muscle or joint pain) limiting continuation of normal daily activities</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety Outcome: number of vaccine related symptoms</measure>
+    <time_frame>during the first 7 days after vaccination</time_frame>
+    <description>Any vaccine related symptom leading to contacting a physician</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of participants with newly PCR-confirmed asymptomatic Covid-19 infection (clinical effectiveness endpoint according to FDA recommendations for phase III Covid-19 vaccine licensing trials)</measure>
+    <time_frame>at any time points within 48 weeks follow-up</time_frame>
+    <description>Number of participants with newly PCR-confirmed asymptomatic Covid-19 infection (identified by the presence of anti-SARS-CoV-2 nucleocapsid antibodies, or SARS-CoV-&quot; PCR or rapid antigen test) and no related symptoms [(i.e. fever or chills, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, new loss of taste or smell, sore throat, congestion or runny nose nausea or vomiting, and diarrhea])</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Newly PCR-confirmed symptomatic Covid-19 infection (clinical effectiveness endpoint according to FDA recommendations for phase III Covid-19 vaccine licensing trials)</measure>
+    <time_frame>at any time points within 48 week follow-up</time_frame>
+    <description>Newly PCR-confirmed symptomatic Covid-19 infection with at least one of the following symptoms (i.e. fever or chills, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, new loss of taste or smell, sore throat, congestion or runny nose nausea or vomiting, and diarrhea)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of participants with severe COVID-19 infection (clinical effectiveness endpoint according to FDA recommendations for phase III Covid-19 vaccine licensing trials)</measure>
+    <time_frame>at any time points within 48 week follow-up</time_frame>
+    <description>Number of participants with severe COVID-19 infection with respiratory failure, evidence of shock (as diagnosed by a treating physician), clinically significant acute renal, hepatic, or neurologic dysfunction; admission to an intensive care unit; or death</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Covid-19 burden of diseases (BOD) (clinical effectiveness endpoint according to FDA recommendations for phase III Covid-19 vaccine licensing trials)</measure>
+    <time_frame>within 48 week follow-up</time_frame>
+    <description>Covid-19 burden of diseases (BOD), a composite of the above endpoints. The BOD will be scored as by using 0 for no COVID-19, 1 for non-severe COVID-19, and 2 for severe COVID-19</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">380</enrollment>
+  <condition>Immunocompromised Patients</condition>
+  <arm_group>
+    <arm_group_label>Moderna mRNA COVID-19 vaccine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The Moderna COVID-19 Vaccine, mRNA-1273 (100 μg) is administered intramuscularly as a series of two doses (0.5 mL each), given 28 days apart.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Comirnaty® (Pfizer / BioNTech) mRNA COVID-19 vaccine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Active:&#xD;
+The comparator product is the first licensed vaccine against SARS-CoV-2 in Switzerland.&#xD;
+Pfizer-BioNTech COVID-19 Vaccine, BNT162b2 (30 µg) Comirnaty®, is administered intramuscularly (IM) as a series of two 30 µg doses of the diluted vaccine solution (0.3 mL each) according to the following schedule: a single dose followed by a second dose 21 days later.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Moderna COVID-19 Vaccine, mRNA-1273 (100 μg)</intervention_name>
+    <description>intramuscular injection, proposed as a series of two doses (0.5 mL each), dosing is 100 microgram on day 0 and day 28</description>
+    <arm_group_label>Moderna mRNA COVID-19 vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Pfizer-BioNTech COVID-19 Vaccine BNT162b2 (30 µg)( Comirnaty®)</intervention_name>
+    <description>intramuscular injection, proposed dosing is 30 microgram of the diluted vaccine solution (0.3 mL each) on day 0 and day 21</description>
+    <arm_group_label>Comirnaty® (Pfizer / BioNTech) mRNA COVID-19 vaccine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  All patients registered with informed consent from participating cohorts aged ≥18&#xD;
+             years&#xD;
+&#xD;
+          -  Additional consent for participation in the pilot trial&#xD;
+&#xD;
+        Inclusion criteria for pilot trial:&#xD;
+&#xD;
+          -  All patients with either a chronic HIV infection or recipients of solid organs&#xD;
+             registered with informed consent from the SHCS and STCS cohorts aged ≥18 years&#xD;
+&#xD;
+          -  Patients with solid organ transplantation of lungs or kidneys at least one month&#xD;
+             post-transplantation with a prednisone dose of 20mg or less.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Acute symptomatic SARS-CoV-2 infection, influenza or other acute respiratory tract&#xD;
+             infection&#xD;
+&#xD;
+          -  Known allergy or contra-indications for vaccines or any vaccine components&#xD;
+&#xD;
+          -  Any emergency condition requiring immediate hospitalization for any condition&#xD;
+&#xD;
+          -  Patients with previous PCR documented SARS-CoV-2 infection and, or documented&#xD;
+             antibodies less than 3 months prior to screening visit (day 0)&#xD;
+&#xD;
+        Exclusion criteria for pilot trial:&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Acute symptomatic SARS-CoV-2 infection, influenza or other acute respiratory tract&#xD;
+             infection&#xD;
+&#xD;
+          -  Known allergy or contra-indications for vaccines or any vaccine components&#xD;
+&#xD;
+          -  Any emergency condition requiring immediate hospitalization for any condition&#xD;
+&#xD;
+          -  Patients with previous PCR documented SARS-CoV-2 infection and, or documented&#xD;
+             antibodies less than 3 months prior to randomisation&#xD;
+&#xD;
+          -  Patients with solid organ transplantation (lung or kidney) with the following&#xD;
+             conditions:&#xD;
+&#xD;
+               1. Solid organ transplant recipients less than one month post-transplantation&#xD;
+&#xD;
+               2. Solid organ transplant recipients with the use of T-cell/B-cell depleting agents&#xD;
+                  in the last 3 months (i. e induction treatment in standard risk or high-risk&#xD;
+                  immunological situation or rejection treatment).&#xD;
+&#xD;
+               3. Solid organ transplant recipients with the need of pulse corticosteroids (&gt;100mg&#xD;
+                  prednisone or equivalent) in the last 1 month or who have received ATG or&#xD;
+                  rituximab in the last 6 months&#xD;
+&#xD;
+               4. Solid organ transplant recipients with the need of any kind of chemotherapy&#xD;
+                  treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Heiner C. Bucher, Prof. Dr. med.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Basel Institute for Clinical Epidemiology &amp; Biostatistics, University Hospital Basel</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Heiner C. Bucher, Prof. Dr. med.</last_name>
+    <phone>+41 (0)61 328 61 01</phone>
+    <email>heiner.bucher@usb.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Benjamin Speich, PhD</last_name>
+    <email>benjamin.speich@usb.ch</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Hospital Basel</name>
+      <address>
+        <city>Basel</city>
+        <zip>4031</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Heiner C. Bucher, Prof. Dr. med.</last_name>
+      <phone>+41 (0)61 328 61 01</phone>
+      <email>heiner.bucher@usb.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Benjamin Speich, Dr.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Heiner C. Bucher, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Michael Koller, PD Dr. med.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Matthias Briel, Prof.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Lars Hemkens, PD Dr. med.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Michael Tamm, Prof.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Michael Dickenmann, Prof.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marcel Stoeckle, Dr.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Bern</name>
+      <address>
+        <city>Bern</city>
+        <zip>3010</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Andri Rauch, Prof.</last_name>
+      <email>andri.rauch@insel.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Andri Rauch, Prof.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anna Lena Eichenberger, Dr.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Lausanne CHUV</name>
+      <address>
+        <city>Lausanne</city>
+        <zip>1011</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Matthias Cavassini, Prof. Dr. med.</last_name>
+      <phone>+41 21 314 1022</phone>
+      <email>matthias.cavassini@chuv.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Oriol Manuel, Prof. Dr. med.</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Matthias Cavassini, Prof.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Oriol Manuel, Prof.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Zurich</name>
+      <address>
+        <city>Zurich</city>
+        <zip>8091</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nicolas Müller, Prof. Dr. med.</last_name>
+      <email>nicolas.mueller@usz.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Macé Schuurmans, PD Dr. med.</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Huldrych Günthard, Prof.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nicolas Müller, Prof.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Thomas Müller, Prof.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Macé Schuurmans, PD Dr. med.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 18, 2021</study_first_posted>
+  <last_update_submitted>March 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid-19 infection</keyword>
+  <keyword>SARS-CoV-2-specific antibodies</keyword>
+  <keyword>Sars-CoV-2 vaccine</keyword>
+  <keyword>vector based messenger ribonucleic acid (mRNA) vaccines</keyword>
+  <keyword>SARS-CoV-2 infection</keyword>
+  <keyword>Swiss HIV Cohort Study [SHCS]</keyword>
+  <keyword>Swiss Transplant Cohort Study [STCS]</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

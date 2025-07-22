@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1400">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04840459</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1686206</org_study_id>
+    <nct_id>NCT04840459</nct_id>
+  </id_info>
+  <brief_title>Use of Monoclonal Antibodies for the Treatment of Mild to Moderate COVID-19 in Non-Hospitalized Setting</brief_title>
+  <official_title>Use of Monoclonal Antibodies (Bamlanivimab and Casirivimab + Imdevimab) for the Treatment of Mild to Moderate COVID-19 in Non-Hospitalized Setting</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sohail Rao</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>DHR Health Institute for Research and Development</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      No therapeutic agent is currently approved for the treatment of SARSCoV-2 infection. More&#xD;
+      importantly, no intervention is currently available to mitigate the progression of disease&#xD;
+      from mid/moderate to serve particularly in high risk patients. Recognizing this limitation&#xD;
+      and urgency of finding a treatment for COVID-19, the U.S. Food and Drug Administration (FDA)&#xD;
+      has issued an Emergency Use Authorization (EUA) to permit the emergencyuse of the unapproved&#xD;
+      product bamlanivimab or casirivimab + imdevimab for the treatment of mild to moderate&#xD;
+      coronavirus disease 2019 (COVID19) in adults and pediatric patients with positive results of&#xD;
+      direct SARS-CoV-2 viral testing who are 12 years of age and older weighing at least 40 kg,&#xD;
+      and who are at high risk for progressing to severe COVID-19 and/or hospitalization.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 20, 2020</start_date>
+  <completion_date type="Anticipated">January 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Minimize and/or eliminate the number of patients with mild to moderate COVID-19 who are at high risk for progressing to severe COVID-19 and/or hospitalization.</measure>
+    <time_frame>two weeks</time_frame>
+    <description>Medical records will be reviewed to determine how many participants did or did not progress to severe COVID-19 infection</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Determine Rate of Recovery after monoclonal antibody therapy</measure>
+    <time_frame>six weeks from monoclonal administration</time_frame>
+    <description>Participants will complete a questionnaire that will ask them to answer when symptoms started and how long after monoclonal antibody therapy did participants begin to feel better</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Determine if if Hospitalization occurred after monoclonal</measure>
+    <time_frame>six weeks from monoclonal administration</time_frame>
+    <description>Participants will complete a questionnaire that will ask them how they felt after monoclonal antibody therapy and whether or not they required hospitalization. Medical records will be reviewed to confirm.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>BAMLANIVIMAB</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The dosage of bamlanivimab in adults and pediatric patients 12 years of age and older weighing at least 40 kg is a single IV infusion of 700 mg bamlanivimab administered over at least 60 minutes</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CASIRIVIMAB + IMDEVIMAB</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 mL of casirivimab and 10 mL of imdevimab from each respective vial using two separate syringes and dilute together in the infusion bag containing 0.9% Sodium Chloride Injection</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BAMLANIVIMAB</intervention_name>
+    <description>n. Bamlanivimab is a recombinant neutralizing human mIgG1? monoclonal antibody (mAb) to the spike protein of SARS-CoV-2, and is unmodified in the Fc region.</description>
+    <arm_group_label>BAMLANIVIMAB</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CASIRIVIMAB</intervention_name>
+    <description>CASIRIVIMAB is a recombinant human mAbs which are unmodified in the Fc regions.</description>
+    <arm_group_label>CASIRIVIMAB + IMDEVIMAB</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>IMDEVIMAB</intervention_name>
+    <description>IMDEVIMAB is a recombinant human mAbs which are unmodified in the Fc regions.</description>
+    <arm_group_label>CASIRIVIMAB + IMDEVIMAB</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. adults and pediatric patients with positive results of direct SARS-CoV-2 viral testing&#xD;
+&#xD;
+          2. 12 years of age and older weighing at least 40 kg&#xD;
+&#xD;
+          3. are at &quot;:high risk&quot; for progressing to severe COVID-19 and/or hospitalization&#xD;
+&#xD;
+        High risk is defined as patients who meet at least one of the following criteria:&#xD;
+&#xD;
+          1. Have a body mass index (BMI) &gt;35&#xD;
+&#xD;
+          2. Have chronic kidney disease&#xD;
+&#xD;
+          3. Have diabetes&#xD;
+&#xD;
+          4. Have immunosuppressive disease&#xD;
+&#xD;
+          5. Are currently receiving immunosuppressive treatment&#xD;
+&#xD;
+          6. Are over 65 years of age&#xD;
+&#xD;
+          7. Are over 55 years of age AND have: cardiovascular disease, OR hypertension, OR chronic&#xD;
+             obstructive pulmonary disease/other chronic respiratory disease&#xD;
+&#xD;
+          8. Are 12 - 17 years of age AND have&#xD;
+&#xD;
+          9. BMI &gt;85th percentile for their age and gender based on CDC o growth charts, ii. sickle&#xD;
+             cell disease OR iii. congenital or acquired heart disease OR iv. neurodevelopmental&#xD;
+             disorders, for example, cerebral palsy, OR a medical-related technological dependence,&#xD;
+             for example, tracheostomy, gastrostomy, or positive pressure ventilation (not related&#xD;
+             to COVID-19), OR&#xD;
+&#xD;
+        v. asthma, reactive airway or other chronic respiratory disease o that requires daily&#xD;
+        medication for control.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          1. Younger than 12 years of age&#xD;
+&#xD;
+          2. Do not meet criteria to be classified as &quot;high risk'&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sohail Rao, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>DHR Heath Institute for Research and Development</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sohail Rao, MD</last_name>
+    <phone>9563622387</phone>
+    <email>s.rao@dhr-rgv.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Monica Betancourt-Garcia, MD</last_name>
+    <phone>956-3623223</phone>
+    <email>m.betancourt@dhr-rgv.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>DHR Health Institute for Research and Development</name>
+      <address>
+        <city>Edinburg</city>
+        <state>Texas</state>
+        <zip>78539</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sohail Rao, MD</last_name>
+      <phone>956-362-2387</phone>
+      <email>s.rao@dhr-rgv.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Monica Betancourt-Garcia, MD</last_name>
+      <phone>9563623223</phone>
+      <email>m.betancourt@dhr-rgv.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sohail Rao, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marissa Gomez-Martinez, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Monica Betancourt-Garcia, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Cristian Mercado, MA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ronnie Ozuna, Pharm.D</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>DHR Health</name>
+      <address>
+        <city>Edinburg</city>
+        <state>Texas</state>
+        <zip>78539</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sohail Rao, MD</last_name>
+      <phone>956-362-2387</phone>
+      <email>s.rao@dhr-rgv.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Monica Garcia-Betancourt, MD</last_name>
+      <phone>9563623223</phone>
+      <email>m.betancourt@dhr-rgv.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sohail Rao, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marissa Gomez-Martinez, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Cristian Mercado, MA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Monica Garcia-Betancourt, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ronnie Ozuna, Pharm.D</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Starr County Memorial Hospital</name>
+      <address>
+        <city>Rio Grande City</city>
+        <state>Texas</state>
+        <zip>78582</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sohail Rao, MD</last_name>
+      <phone>956-362-2387</phone>
+      <email>s.rao@dhr-rgv.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Monica Garcia-Betancourt, MD</last_name>
+      <phone>9563623223</phone>
+      <email>m.betancourt@dhr-rgv.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sohail Rao, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marissa Gomez-Martinez, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Cristian Mercado, MA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Monica Garcia-Betancourt, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ronnie Ozuna, Pharm.D</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 12, 2021</study_first_posted>
+  <last_update_submitted>April 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>DHR Health Institute for Research and Development</investigator_affiliation>
+    <investigator_full_name>Sohail Rao</investigator_full_name>
+    <investigator_title>President and CEO</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

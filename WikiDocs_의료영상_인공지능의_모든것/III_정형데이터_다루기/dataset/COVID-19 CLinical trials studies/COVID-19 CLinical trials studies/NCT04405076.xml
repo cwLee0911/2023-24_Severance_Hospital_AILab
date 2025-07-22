@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3256">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04405076</url>
+  </required_header>
+  <id_info>
+    <org_study_id>mRNA-1273-P201</org_study_id>
+    <secondary_id>75A50120C00034</secondary_id>
+    <nct_id>NCT04405076</nct_id>
+  </id_info>
+  <brief_title>Dose-Confirmation Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of mRNA-1273 COVID-19 Vaccine in Adults Aged 18 Years and Older</brief_title>
+  <official_title>A Phase 2a, Randomized, Observer-Blind, Placebo Controlled, Dose-Confirmation Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of mRNA-1273 SARS-COV-2 Vaccine in Adults Aged 18 Years and Older</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ModernaTX, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Biomedical Advanced Research and Development Authority</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>ModernaTX, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical study will assess the safety, reactogenicity, and immunogenicity of 2 dose&#xD;
+      levels of mRNA-1273 Severe Acute Respiratory Syndrome coronavirus (SARS-COV-2) vaccine in&#xD;
+      adults 18 years of age or older.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a 3-part Phase 2a study, with Part A (Blinded Phase), Part B (Open-label&#xD;
+      Interventional Phase), and Part C (Rollover Proof of Concept).&#xD;
+&#xD;
+      Participants in Part A are blinded to their treatment assignment, with participants receiving&#xD;
+      either 2 active mRNA-1273 vaccine doses or placebo. Part B of the study is designed to offer&#xD;
+      participants to be unblinded so that participants who received placebo in Part A can request&#xD;
+      2 doses of open-label mRNA-1273 vaccine. Additionally, participants who originally received 1&#xD;
+      or 2 doses of mRNA-1273 (50 microgram [μg] or 100 μg vaccine) during Part A, will have the&#xD;
+      opportunity to request to receive a single booster dose of mRNA-1273.&#xD;
+&#xD;
+      Part C will be a proof-of-concept rollover study to evaluate a vaccine to treat mutations of&#xD;
+      SARS-CoV2, such as the S-protein of the B.1.351 variant. Part C will include approximately 60&#xD;
+      participants, who are currently enrolled in Moderna's Phase 3 mRNA-1273-P301 study&#xD;
+      (NCT04470427), have already been unblinded, and have previously received 2 doses of mRNA-1273&#xD;
+      at least 6 months earlier. At enrollment into Part C of this study, their participation in&#xD;
+      mRNA-1273-P301 study will be terminated. Part C will evaluate the safety and immunogenicity&#xD;
+      of 2 dose levels (20 µg and 50 µg) of mRNA-1273.351 and mRNA-1273/mRNA-1273.351 mixture (50&#xD;
+      µg total), given as a single booster dose.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">May 29, 2020</start_date>
+  <completion_date type="Anticipated">October 6, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Part A is observer-blind. During Part B participants may request to be unblinded by scheduling a Participant Decision clinic visit. Part C is open-label.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with Solicited Local and Systemic Adverse Reactions (ARs)</measure>
+    <time_frame>7 days post-vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Unsolicited Adverse Events (AEs)</measure>
+    <time_frame>28 days post-vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Medically-Attended Adverse Events (MAAEs)</measure>
+    <time_frame>Up to Month 15</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Serious Adverse Events (SAEs)</measure>
+    <time_frame>Up to Month 15</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Baseline in the Measure of Clinical Safety Laboratory Values in Cohort 2</measure>
+    <time_frame>Part A: Baseline, 1 month after last vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Abnormalities in Blood Pressure, Temperature, HR, or Respiratory Rate</measure>
+    <time_frame>Up to Month 15</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Abnormalities in Physical Examinations</measure>
+    <time_frame>Up to Month 15</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Level of SARS-CoV-2-Specific Binding Antibody (bAb) as Measured by Enzyme-Linked Immunosorbent Assay (ELISA)</measure>
+    <time_frame>Day 1 through 6 months after last vaccination</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Titer of SARS-CoV-2-Specific Neutralizing Antibody (nAb)</measure>
+    <time_frame>Day 1 through 6 months after last vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seroconversion as Measured by an Increase of SARS-CoV-2-Specific Neutralizing Antibody (nAb) Titer</measure>
+    <time_frame>Day 1 through 6 months after last vaccination</time_frame>
+    <description>Seroconversion as measured by an increase of SARS-CoV-2-nAb titer either from below the limit of detection (LOD) or lower limit of quantification (LLOQ) to equal to or above LOD or LLOQ, or a 4-times higher titer in participants with pre-existing nAb titers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of SARS CoV-2-Specific Serum Binding Antibody</measure>
+    <time_frame>Day 1 through 6 months after last vaccination</time_frame>
+  </secondary_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Anticipated">660</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>mRNA-1273: Dose 50 microgram (ug) - Participants Aged 18-54 years</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part A: Participants aged 18-54 years will receive 1 intramuscular (IM) injection of 50 ug mRNA-1273 on Day 1 and on Day 29.&#xD;
+Part B: Participants aged 18-54 years who choose to be unblinded and received 50 ug mRNA-1273 during Part A, will receive 1 IM injection of mRNA-1273 (booster dose) on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>mRNA-1273: Dose 50 ug - Participants Aged 55+ years</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part A: Participants aged 55+ years will receive 1 IM injection of 50 ug mRNA-1273 on Day 1 and on Day 29.&#xD;
+Part B: Participants aged 55+ years who choose to be unblinded and received 50 ug mRNA-1273 during Part A, will receive 1 IM injection of mRNA-1273 (booster dose) on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>mRNA-1273: Dose 100 ug - Participants Aged 18-54 years</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part A: Participants aged 18-54 years will receive 1 IM injection of 100 ug mRNA-1273 on Day 1 and on Day 29.&#xD;
+Part B: Participants aged 18-54 years who choose to be unblinded and received 100 ug mRNA-1273 during Part A, will receive 1 IM injection of mRNA-1273 (booster dose) on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>mRNA-1273: Dose 100 ug - Participants Aged 55+ years</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part A: Participants aged 55+ years will receive 1 IM injection of 100 ug mRNA-1273 on Day 1 and on Day 29.&#xD;
+Part B: Participants aged 55+ years who choose to be unblinded and received 100 ug mRNA-1273 during Part A, will receive 1 IM injection of mRNA-1273 (booster dose) on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo (Part A) and mRNA-1273 100 ug (Part B) - Participants Aged 18-54 years</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Part A: Participants aged 18-54 years will receive 1 IM injection of mRNA-1273-matching placebo on Day 1 and on Day 29.&#xD;
+Part B: Participants aged 18-54 who choose to be unblinded and received mRNA-1273-matching placebo during Part A, will receive 1 IM injection of 100 ug mRNA-1273 on Day 1 and Day 29.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo (Part A) and mRNA-1273 100 ug (Part B) - Participants Aged 55+ years</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Part A: Participants aged 55+ years will receive 1 IM injection of mRNA-1273-matching placebo on Day 1 and on Day 29.&#xD;
+Part B: Participants aged 55+ years who choose to be unblinded and received mRNA-1273-matching placebo during Part A, will receive 1 IM injection of 100 ug mRNA-1273 on Day 1 and Day 29.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>mRNA 1273.351 20 ug (Part C)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part C: Participants will receive 1 IM booster dose of 20 ug of mRNA 1273.351 on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>mRNA 1273.351 50 ug (Part C)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part C: Participants will receive 1 IM booster dose of 50 ug of mRNA 1273.351 on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>mRNA-1273/mRNA-1273.351 mixture (Part C)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part C: Participants will receive 1 IM booster dose of 50 ug of mRNA-1273/mRNA-1273.351 mixture on Day 1.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Biological: mRNA-1273</intervention_name>
+    <description>Sterile liquid for injection</description>
+    <arm_group_label>Placebo (Part A) and mRNA-1273 100 ug (Part B) - Participants Aged 18-54 years</arm_group_label>
+    <arm_group_label>Placebo (Part A) and mRNA-1273 100 ug (Part B) - Participants Aged 55+ years</arm_group_label>
+    <arm_group_label>mRNA-1273/mRNA-1273.351 mixture (Part C)</arm_group_label>
+    <arm_group_label>mRNA-1273: Dose 100 ug - Participants Aged 18-54 years</arm_group_label>
+    <arm_group_label>mRNA-1273: Dose 100 ug - Participants Aged 55+ years</arm_group_label>
+    <arm_group_label>mRNA-1273: Dose 50 microgram (ug) - Participants Aged 18-54 years</arm_group_label>
+    <arm_group_label>mRNA-1273: Dose 50 ug - Participants Aged 55+ years</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>0.9% sodium chloride (normal saline) injection</description>
+    <arm_group_label>Placebo (Part A) and mRNA-1273 100 ug (Part B) - Participants Aged 18-54 years</arm_group_label>
+    <arm_group_label>Placebo (Part A) and mRNA-1273 100 ug (Part B) - Participants Aged 55+ years</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>mRNA-1273.351</intervention_name>
+    <description>Sterile liquid for injection</description>
+    <arm_group_label>mRNA 1273.351 20 ug (Part C)</arm_group_label>
+    <arm_group_label>mRNA 1273.351 50 ug (Part C)</arm_group_label>
+    <arm_group_label>mRNA-1273/mRNA-1273.351 mixture (Part C)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+        Each participant must meet all of the following criteria during the screening period and at&#xD;
+        Day 1, unless noted otherwise, to be enrolled in this study:&#xD;
+&#xD;
+          1. Male or female, 18 years of age or older at the time of consent (Screening Visit, Day&#xD;
+             0). For Part B, participants must have been previously enrolled in the mRNA-1273 P201&#xD;
+             study.&#xD;
+&#xD;
+          2. Understands and agrees to comply with the study procedures and provides written&#xD;
+             informed consent.&#xD;
+&#xD;
+          3. According to the assessment of the investigator, is in good general health and can&#xD;
+             comply with study procedures.&#xD;
+&#xD;
+          4. Female participants of nonchildbearing potential may be enrolled in the study.&#xD;
+             Nonchildbearing potential is defined as surgically sterile (history of bilateral tubal&#xD;
+             ligation, bilateral oophorectomy, hysterectomy) or postmenopausal (defined as&#xD;
+             amenorrhea for ≥12 consecutive months prior to Screening (Day 0) without an&#xD;
+             alternative medical cause). A follicle-stimulating hormone (FSH) level may be measured&#xD;
+             at the discretion of the investigator to confirm postmenopausal status.&#xD;
+&#xD;
+          5. Female participants of childbearing potential may be enrolled in the study if the&#xD;
+             participant fulfills all the following criteria:&#xD;
+&#xD;
+               -  Has a negative pregnancy test at Screening (Day 0) and on the day of the first&#xD;
+                  injection (Day 1).&#xD;
+&#xD;
+               -  Has practiced adequate contraception or has abstained from all activities that&#xD;
+                  could result in pregnancy for at least 28 days prior to the first injection (Day&#xD;
+                  1).&#xD;
+&#xD;
+               -  Has agreed to continue adequate contraception through 3 months following the&#xD;
+                  second injection (Day 29).&#xD;
+&#xD;
+               -  Is not currently breastfeeding.&#xD;
+&#xD;
+             Adequate female contraception is defined as consistent and correct use of a Food and&#xD;
+             Drug Administration (FDA) approved contraceptive method in accordance with the product&#xD;
+             label. For example:&#xD;
+&#xD;
+               -  Barrier method (such as condoms, diaphragm, or cervical cap) used in conjunction&#xD;
+                  with spermicide&#xD;
+&#xD;
+               -  Intrauterine device&#xD;
+&#xD;
+               -  Prescription hormonal contraceptive taken or administered via oral (pill),&#xD;
+                  transdermal (patch), subdermal, or IM route&#xD;
+&#xD;
+               -  Sterilization of a female participant's monogamous male partner prior to entry&#xD;
+                  into the study Note: periodic abstinence (for example, calendar, ovulation,&#xD;
+                  symptothermal, post-ovulation methods) and withdrawal are not acceptable methods&#xD;
+                  of contraception.&#xD;
+&#xD;
+          6. Male participants engaging in activity that could result in pregnancy of sexual&#xD;
+             partners must agree to practice adequate contraception from the time of the first&#xD;
+             injection and through 3 months after the last injection.&#xD;
+&#xD;
+        Adequate contraception for male participants is defined as:&#xD;
+&#xD;
+          -  Monogamous relationship with a female partner using an intrauterine device or hormonal&#xD;
+             contraception (described above)&#xD;
+&#xD;
+          -  Use of barrier methods and spermicide&#xD;
+&#xD;
+          -  History of surgical sterilization&#xD;
+&#xD;
+          -  Male participants with partners who have become pregnant prior to Screening are&#xD;
+             eligible to participate in the study.&#xD;
+&#xD;
+        Additional Key Inclusion Criteria for Part C&#xD;
+&#xD;
+        1. Participants must have been previously enrolled in the mRNA-1273-P301 study and must&#xD;
+        have received 2 doses of mRNA-1273 in Part A, has been unblinded and aware of their actual&#xD;
+        treatment in Study mRNA-1273-P301, must have been compliant in Study mRNA-1273-P301 (was&#xD;
+        not withdrawn or discontinued early), and has been at least 6 months since their second&#xD;
+        dose in Study mRNA-1273-P301 prior to enrollment in this part.&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+        Participants meeting any of the following criteria at the Screening Visit (Day 0) or at Day&#xD;
+        1, unless noted otherwise, will be excluded from the study:&#xD;
+&#xD;
+          1. Pregnant or breastfeeding.&#xD;
+&#xD;
+          2. Is acutely ill or febrile 24 hours prior to or at the Screening Visit (Day 0). Fever&#xD;
+             is defined as a body temperature ≥38.0°Celsius/100.4°Fahrenheit. Participants meeting&#xD;
+             this criterion may be rescheduled within the relevant window periods. Afebrile&#xD;
+             participants with minor illnesses can be enrolled at the discretion of the&#xD;
+             investigator.&#xD;
+&#xD;
+          3. Current treatment with investigational agents for prophylaxis against COVID-19.&#xD;
+&#xD;
+          4. Has a medical, psychiatric, or occupational condition that may pose additional risk as&#xD;
+             a result of participation, or that could interfere with safety assessments or&#xD;
+             interpretation of results according to the investigator's judgment.&#xD;
+&#xD;
+          5. Is a healthcare worker or a member of an emergency response team.&#xD;
+&#xD;
+          6. Current use of any inhaled substance (for example, tobacco or cannabis smoke, nicotine&#xD;
+             vapors).&#xD;
+&#xD;
+          7. History of chronic smoking (≥1 cigarette a day) within 1 year of the Screening Visit&#xD;
+             (Day 0).&#xD;
+&#xD;
+          8. History of illegal substance use or alcohol abuse within the past 2 years. This&#xD;
+             exclusion does not apply to historical cannabis use that was formerly illegal in the&#xD;
+             participant's state but is legal at the time of Screening.&#xD;
+&#xD;
+          9. Known history of hypertension, or systolic blood pressure &gt;150 millimeter of mercury&#xD;
+             (mmHg) in participants in Cohort 1 (≥18 to &lt;55 years old) or systolic blood pressure&#xD;
+             &gt;160 mmHg in participants in Cohort 2 (≥55 years old) at the Screening Visit (Day 0).&#xD;
+&#xD;
+         10. Known history of hypotension or systolic blood pressure &lt;85 mmHg at the Screening&#xD;
+             Visit (Day 0).&#xD;
+&#xD;
+         11. Diabetes mellitus&#xD;
+&#xD;
+         12. Diagnosis of chronic pulmonary disease (for example, chronic obstructive pulmonary&#xD;
+             disease, asthma)&#xD;
+&#xD;
+         13. Chronic cardiovascular disease&#xD;
+&#xD;
+         14. Resides in a nursing home&#xD;
+&#xD;
+         15. Grade 1 or higher toxicity on clinical safety laboratory testing at the Screening&#xD;
+             Visit (Day 0)&#xD;
+&#xD;
+         16. Current or previous diagnosis of immunocompromising condition, immune-mediated&#xD;
+             disease, or other immunosuppressive condition.&#xD;
+&#xD;
+         17. Received systemic immunosuppressants or immune-modifying drugs for &gt;14 days in total&#xD;
+             within 6 months prior to the Screening Visit (Day 0) (for corticosteroids ≥20&#xD;
+             milligrams (mg)/day of prednisone equivalent). Topical tacrolimus is allowed if not&#xD;
+             used within 14 days prior to the Screening Visit (Day 0).&#xD;
+&#xD;
+         18. Anticipating the need for immunosuppressive treatment at any time during participation&#xD;
+             in the study.&#xD;
+&#xD;
+         19. Positive serology for hepatitis B virus surface antigen, hepatitis C virus antibody,&#xD;
+             or human immunodeficiency virus (HIV) type 1 or 2 antibodies identified at the&#xD;
+             Screening Visit (Day 0).&#xD;
+&#xD;
+         20. History of anaphylaxis, urticaria, or other significant AR requiring medical&#xD;
+             intervention after receipt of a vaccine.&#xD;
+&#xD;
+         21. Bleeding disorder considered a contraindication to IM injection or phlebotomy.&#xD;
+&#xD;
+         22. Diagnosis of malignancy within previous 10 years (excluding non-melanoma skin cancer).&#xD;
+&#xD;
+         23. Has received or plans to receive a licensed vaccine ≤28 days prior to the first&#xD;
+             injection (Day 1) or plans to receive a licensed vaccine within 28 days before or&#xD;
+             after any study injection. Licensed influenza vaccines may be received more than 14&#xD;
+             days before or after any study injection.&#xD;
+&#xD;
+         24. Receipt of systemic immunoglobulins or blood products within 3 months prior to the&#xD;
+             Screening Visit (Day 0) or plans for receipt during the study.&#xD;
+&#xD;
+         25. Has donated ≥450 mL of blood products within 28 days prior to the Screening Visit (Day&#xD;
+             0) or plans to donate blood products during the study.&#xD;
+&#xD;
+         26. Participated in an interventional clinical study (other than mRNA-1273 P301) within 28&#xD;
+             days prior to the Screening Visit (Day 0) or plans to do so while participating in&#xD;
+             this study.&#xD;
+&#xD;
+         27. Is an immediate family member or household member of study personnel&#xD;
+&#xD;
+        Additional Key Exclusion Criteria for Part C&#xD;
+&#xD;
+          1. Is SARS-CoV-2 positive by Reverse transcription polymerase chain reaction (RT-PCR)&#xD;
+             (central or local testing) at baseline or at any time during the mRNA-1273-P301 study&#xD;
+             regardless of the presence or absence of symptoms consistent with COVID-19.&#xD;
+&#xD;
+          2. Had any SAE in the mRNA-1273-P301 study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance for Multispecialty Research</name>
+      <address>
+        <city>Newton</city>
+        <state>Kansas</state>
+        <zip>67114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance for Multispecialty Research</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Nebraska</state>
+        <zip>68701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Trial Management Associates</name>
+      <address>
+        <city>Wilmington</city>
+        <state>North Carolina</state>
+        <zip>28403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research</name>
+      <address>
+        <city>Dakota Dunes</city>
+        <state>South Dakota</state>
+        <zip>57049</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Benchmark Research</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Benchmark Research</name>
+      <address>
+        <city>San Angelo</city>
+        <state>Texas</state>
+        <zip>76904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>May 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 28, 2020</study_first_posted>
+  <last_update_submitted>March 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>mRNA-1273</keyword>
+  <keyword>mRNA-1273 vaccine</keyword>
+  <keyword>mRNA-1273.351</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>SARS-CoV-2 Vaccine</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Virus Diseases</keyword>
+  <keyword>Messenger RNA</keyword>
+  <keyword>COVID 19</keyword>
+  <keyword>COVID 19 Vaccine</keyword>
+  <keyword>Moderna</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

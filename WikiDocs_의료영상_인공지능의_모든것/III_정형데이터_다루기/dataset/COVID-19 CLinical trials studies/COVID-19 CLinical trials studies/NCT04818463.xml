@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2404">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04818463</url>
+  </required_header>
+  <id_info>
+    <org_study_id>QUALITY COVID-19</org_study_id>
+    <nct_id>NCT04818463</nct_id>
+  </id_info>
+  <brief_title>Characterization and Verification of the Intensive Care Standard Operating Procedure (SOP) Adherence of the Treated COVID-19 Patients</brief_title>
+  <official_title>Characterization and Verification of the Intensive Care Standard Operating Procedure (SOP) Adherence of the Treated COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Charite University, Berlin, Germany</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Charite University, Berlin, Germany</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      As part of the internal quality management (QM project), this retrospective cohort study&#xD;
+      examines the adherence to Standard Operating Procedures (SOP) of the COVID-19 patients&#xD;
+      treated since January 1st, 2020 to February 28th, 2021 in intensive care units of the Clinic&#xD;
+      for Anesthesiology m.S. operative intensive care medicine CCM / CVK.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SOP &quot;Analgesia, sedation, delirium and pain therapy&quot;</measure>
+    <time_frame>01.01.2020 - 28.02.2021</time_frame>
+    <description>SOP adherence to the selected SOP &quot;Analgesia, sedation, delirium and pain therapy&quot;. Process: daily implementation yes / no - yes&gt; 70%</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SOP &quot;Treatment of acute respiratory distress syndrome (ARDS)&quot;</measure>
+    <time_frame>01.01.2020 - 28.02.2021</time_frame>
+    <description>SOP adherence to the selected SOP &quot;Treatment of acute respiratory distress syndrome (ARDS)&quot; Process: daily implementation yes / no - yes&gt; 70%</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SOP &quot;Infectious treatment&quot;</measure>
+    <time_frame>01.01.2020 - 28.02.2021</time_frame>
+    <description>SOP adherence to the selected SOP &quot;Infectious treatment&quot; Process: daily implementation yes / no - yes&gt; 70%</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SOP &quot;Weaning&quot;</measure>
+    <time_frame>01.01.2020 - 28.02.2021</time_frame>
+    <description>SOP adherence to the selected SOP &quot;Weaning&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SOP &quot;Nutrition&quot;</measure>
+    <time_frame>01.01.2020 - 28.02.2021</time_frame>
+    <description>SOP adherence to the selected SOP &quot;Nutrition&quot; Process: daily implementation yes / no - yes&gt; 70%</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SOP &quot;Sepsis&quot;</measure>
+    <time_frame>01.01.2020 - 28.02.2021</time_frame>
+    <description>SOP adherence to the selected SOP &quot;Sepsis&quot; Process: daily implementation yes / no - yes&gt; 70%</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        During the intensive care stay with SARS-CoV-2 infected intensive care adult patients&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  During the intensive care stay with SARS-CoV-2 infected intensive care patients of the&#xD;
+             Charité - Universitätsmedizin Berlin, admitted to the intensive care units of the&#xD;
+             Department of Anesthesiology and operative intensive care medicine (CCM / CVK)&#xD;
+&#xD;
+          -  Treatment period: 01/01/2020 to 02/28/2021&#xD;
+&#xD;
+          -  At least 18 years old&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        • Incomplete electronic documentation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Claudia Spies, MD, Prof.</last_name>
+    <role>Study Director</role>
+    <affiliation>Charite University, Berlin, Germany</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Claudia Spies, MD, Prof.</last_name>
+    <phone>+49 30 450 551102</phone>
+    <email>claudia.spies@charite.de</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Anesthesiology and Operative Intensive Care Medicine (CCM/CVK), Campus Virchow-Klinikum</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13353</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Claudia Spies, MD, Prof.</last_name>
+      <phone>+49 30 450 55 11 02</phone>
+      <email>claudia.spies@charite.de</email>
+    </contact>
+    <investigator>
+      <last_name>Claudia Spies, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Andreas Edel, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 26, 2021</study_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Charite University, Berlin, Germany</investigator_affiliation>
+    <investigator_full_name>Claudia Spies</investigator_full_name>
+    <investigator_title>Head of the Department of Anesthesiology and Intensive Care Medicine (CCM/CVK)</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

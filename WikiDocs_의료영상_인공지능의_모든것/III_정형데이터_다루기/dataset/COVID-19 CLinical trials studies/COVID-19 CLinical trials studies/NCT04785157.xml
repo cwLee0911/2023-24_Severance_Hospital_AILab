@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="995">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04785157</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RC31/20/0441</org_study_id>
+    <secondary_id>2020-005827-35</secondary_id>
+    <nct_id>NCT04785157</nct_id>
+  </id_info>
+  <brief_title>Neurotropism and Neuroinflammation in COVID-19 Patients With Delirium.</brief_title>
+  <acronym>BRAINSTORM</acronym>
+  <official_title>SARS-CoV-2 Neurotropism, micRoglial ActivatioN and Cytokine dySregulaTiOn in COVID-19 Patients With Delirium</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Toulouse</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Institut National de la Santé Et de la Recherche Médicale, France</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Toulouse</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Emerging evidence indicates that SARS-CoV-2, the etiologic agent of COVID-19, can cause&#xD;
+      neurological, neuropsychological and psychiatric complications. Given the global dimensions&#xD;
+      of the current pandemic, there is to consider the possible large-scale neurocognitive impact&#xD;
+      of COVID-19. Therefore, there is an urgent need for longitudinal studies to determine the&#xD;
+      acute and chronic effects that COVID-19 may have on the Central Nervous System. These&#xD;
+      putative effects include the possibility that the CNS serves as a reservoir for the virus,&#xD;
+      and that COVID-19 triggers CNS deleterious inflammatory cascades and neurodegenerative&#xD;
+      process. The public implications of these effects are very important in the long term.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The BRAINSTORM project aims at creating a proof-of-concept dataset from severe COVID-19&#xD;
+      patients with delirium. For the first time, this longitudinal study will rely on repeated and&#xD;
+      concomitant: i) SARS-CoV-2 quasispecies detection and associated serology testing profiles&#xD;
+      description (peripheral blood and cerebrospinal fluid - CSF), ii) systemic and central immune&#xD;
+      response characterization, associated to the assessment of CNS damage biomarkers (peripheral&#xD;
+      blood and CSF), iii) in vivo brain PET-TSPO acquisitions (Positon Emission Tomography using a&#xD;
+      radioligand that targets the Translocator Protein, which is upregulated in activated&#xD;
+      microglia), iv) structural/functional brain MRI assessment (PWI/DWI mismatch imaging,&#xD;
+      quantification of gray and white matter microstructural integrity, DTI, functional&#xD;
+      connectivity), v) multi-domains neurocognitive assessment. This dataset will be made FAIR to&#xD;
+      allow open data use and to prepare future studies.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">August 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PET imaging examination</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Intensity and topography of [18F]DPA-714-labeled microglial activation in vivo in PET imaging examination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PET imaging examination</measure>
+    <time_frame>Month 3</time_frame>
+    <description>Intensity and topography of [18F]DPA-714-labeled microglial activation in vivo in PET imaging examination</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 quasispecies detection in acute delirium phase in blood specimen</measure>
+    <time_frame>Day 0</time_frame>
+    <description>SARS-CoV-2 quasispecies detection in blood specimen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 quasispecies detection 3 month after the acute delirium phase in blood specimen</measure>
+    <time_frame>Month 3</time_frame>
+    <description>SARS-CoV-2 quasispecies detection in blood specimen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 quasispecies detection in acute delirium phase in cerebrospinal fluid specimen</measure>
+    <time_frame>Day 0</time_frame>
+    <description>SARS-CoV-2 quasispecies detection in cerebrospinal fluid specimen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 quasispecies detection 3 month after the acute delirium phase in cerebrospinal fluid specimen</measure>
+    <time_frame>Month 3</time_frame>
+    <description>SARS-CoV-2 quasispecies detection in cerebrospinal fluid specimen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>multimodal MRI in acute delirium phase</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Imaging criteria: Structural-functional disconnects at the whole brain level (multimodal MRI)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>multimodal MRI 3 months after the acute delirium phase</measure>
+    <time_frame>month 3</time_frame>
+    <description>Imaging criteria: Structural-functional disconnects at the whole brain level (multimodal MRI)</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">25</enrollment>
+  <condition>Covid19</condition>
+  <condition>Delirium</condition>
+  <condition>Post-traumatic Stress Disorder</condition>
+  <arm_group>
+    <arm_group_label>severe COVID-19 patients with delirium</arm_group_label>
+    <description>i) SARS-CoV-2 quasispecies detection and associated serology testing profiles description (peripheral blood and cerebrospinal fluid - CSF) ii) systemic and central immune response characterization, associated to the assessment of CNS damage biomarkers (peripheral blood and CSF) iii) in vivo brain PET-TSPO acquisitions (Positon Emission Tomography using a radioligand that targets the Translocator Protein, which is upregulated in activated microglia) iv) structural/functional brain MRI assessment (PWI/DWI mismatch imaging, quantification of gray and white matter microstructural integrity, DTI, functional connectivity) v) multi-domains neurocognitive assessment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>serology testing profiles description</intervention_name>
+    <description>SARS-CoV-2 quasispecies detection and associated serology testing profiles description (peripheral blood and cerebrospinal fluid - CSF)</description>
+    <arm_group_label>severe COVID-19 patients with delirium</arm_group_label>
+    <other_name>biomarkers</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>immune response characterization</intervention_name>
+    <description>systemic and central immune response characterization , associated to the assessment of CNS damage biomarkers (peripheral blood and CSF)</description>
+    <arm_group_label>severe COVID-19 patients with delirium</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>in vivo brain PET-TSPO acquisitions</intervention_name>
+    <description>in vivo brain PET-TSPO acquisitions (Positon Emission Tomography using a radioligand that targets the Translocator Protein, which is upregulated in activated microglia)</description>
+    <arm_group_label>severe COVID-19 patients with delirium</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>brain MRI assessment</intervention_name>
+    <description>structural/functional brain MRI assessment (PWI/DWI mismatch imaging, quantification of gray and white matter microstructural integrity, DTI, functional connectivity)</description>
+    <arm_group_label>severe COVID-19 patients with delirium</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>neurocognitive assessment</intervention_name>
+    <description>multi-domains neurocognitive assessment</description>
+    <arm_group_label>severe COVID-19 patients with delirium</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      TSPO (Translocator protein) phenotype SARS-CoV-2 quasispecies detection and associated&#xD;
+      serology testing profiles description (peripheral blood and cerebrospinal fluid - CSF)&#xD;
+      systemic and central immune response characterization (peripheral blood and cerebrospinal&#xD;
+      fluid CSF)&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients from hospital&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients (male or female &gt; or = 18 years)&#xD;
+&#xD;
+          -  COVID-19 (positive respiratory track PCR test &lt; 30 days)&#xD;
+&#xD;
+          -  Delirium (CAM-ICU criteria)&#xD;
+&#xD;
+          -  informed and written consent to participate in the study by patient's surrogate.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  medical decision of withdrawal of life sustaining treatments previous to patients&#xD;
+             recruitment&#xD;
+&#xD;
+          -  former neurological or psychiatric disability&#xD;
+&#xD;
+          -  MRI or PET scan contraindication&#xD;
+&#xD;
+          -  pregnancy&#xD;
+&#xD;
+          -  hemodynamic or respiratory failure precluding patient's transport / MRI or PET&#xD;
+             scanning&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stein SILVA, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Toulouse</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stein SILVA, MD, PhD</last_name>
+    <phone>05 61 77 97 28</phone>
+    <phone_ext>+33</phone_ext>
+    <email>silva.s@chu-toulouse.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Hospital of Toulouse</name>
+      <address>
+        <city>Toulouse</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Stein SILVA, MD, PhD</last_name>
+      <phone>05 61 77 97 28</phone>
+      <phone_ext>+33</phone_ext>
+      <email>silva.s@chu-toulouse.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Tours</name>
+      <address>
+        <city>Tours</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Youenn JOUAN, MD, PhD</last_name>
+      <phone>0247473855</phone>
+      <phone_ext>+33</phone_ext>
+      <email>youenn.jouan@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 5, 2021</study_first_posted>
+  <last_update_submitted>March 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>delirium</keyword>
+  <keyword>microglial activation</keyword>
+  <keyword>SARS-CoV-2 neurotropism</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Delirium</mesh_term>
+    <mesh_term>Stress Disorders, Traumatic</mesh_term>
+    <mesh_term>Stress Disorders, Post-Traumatic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

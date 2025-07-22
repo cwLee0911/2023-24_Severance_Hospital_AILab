@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04785898</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-IDNow</org_study_id>
+    <nct_id>NCT04785898</nct_id>
+  </id_info>
+  <brief_title>Diagnostic Performance of the ID Now™ COVID-19 Screening Test Versus Simplexa™ COVID-19 Direct Assay</brief_title>
+  <acronym>COVID-IDNow</acronym>
+  <official_title>Diagnostic Performance of the ID Now™ COVID-19 Screening Test Versus Simplexa™ COVID-19 Direct Assay in Off-site Biology in Emergency Rooms for COVID-19 Screenin</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Groupe Hospitalier Paris Saint Joseph</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Groupe Hospitalier Paris Saint Joseph</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19), caused by Severe Acute Respiratory Syndrome Coronavirus&#xD;
+      2 (SARS-CoV-2), first appeared in China, and then spread around the world. In December 2019,&#xD;
+      a group of patients with pneumonia of unknown origin were infected after exposure to the&#xD;
+      market in Wuhan, Hubei province, China. Very quickly, a new coronavirus was isolated from a&#xD;
+      sample of a patient's lower respiratory tract and the entire virus genome was sequenced. This&#xD;
+      new coronavirus, named SARS-CoV-2 for its genetic homology with SARS-CoV, has shown worldwide&#xD;
+      spread. Thus, on January 30, 2020, the World Health Organization (WHO) announced the COVID-19&#xD;
+      epidemic as a threat to public health at the international level, then, in March 2020, the&#xD;
+      global situation degenerated into a pandemic. Johns Hopkins University has reported more than&#xD;
+      7,600,000 cases of infections and more than 427,000 deaths as of June 13, 20203. Due to the&#xD;
+      rapid progression of the COVID-19 pandemic and the limited capacity of molecular laboratory&#xD;
+      tests, the concept of delocalized molecular tests appears to be relevant. Indeed, the urgent&#xD;
+      need to increase testing for COVID-19 has been clearly identified as an essential part of the&#xD;
+      strategy to combat the coronavirus worldwide. In fact, COVID-19 represents a major public&#xD;
+      health problem currently causing a rapidly increasing number of infections and significant&#xD;
+      morbidity and mortality worldwide. As of July 1, 2020, more than 10 million people worldwide&#xD;
+      have been infected with SARS-CoV-211. As of August 25, 2020, this tally is 23,741,562 cases&#xD;
+      of contamination and 813,820 deaths following Johns Hopkins University.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Early detection with a sensitive technique of COVID-19 is essential to ensure rapid and&#xD;
+      appropriate patient management, to contain the epidemic and to better understand the global&#xD;
+      epidemiology of the virus. This detection will intensify in the coming months due to the&#xD;
+      start of the school year and university as well as the economic recovery.&#xD;
+&#xD;
+      Until now, laboratory diagnostics have relied primarily on the amplification and detection of&#xD;
+      viral gene sequences in upper respiratory tract samples performed in a centralized&#xD;
+      laboratory. A new test (ID NowTM COVID-19 developed by the Abbott laboratory) is available on&#xD;
+      the market. This test is the first in France to be able to be carried out in a medical&#xD;
+      examination of delocalized biology (MEDB) and makes it possible to return a result in 15 min&#xD;
+      directly in the clinical department. This speed will allow faster care, isolation and&#xD;
+      filiarisation of COVID-19 patients. The speed of this technique is based on the use of&#xD;
+      isothermal gene amplification. The investigators will be the first to evaluate it in France&#xD;
+      in MEDB in the context of urgent care. This evaluation of diagnostic performance will be&#xD;
+      performed during a comparison with that of our routine PCR microbiology laboratory test&#xD;
+      Simplexa ™ COVID-19 Direct assay marketed by the company DiaSorin.&#xD;
+&#xD;
+      This speed of obtaining results should lead to better efficiency of medical management,&#xD;
+      faster isolation and organization for COVID-19 positive patients.&#xD;
+&#xD;
+      The objective of this work is to assess diagnostic performance in relocated biology in a real&#xD;
+      situation and to validate this rapid strategy for the benefit of patients consulting the&#xD;
+      emergency department.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">November 9, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Actual">December 22, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is a diagnostic cohort study.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluate the diagnostic performance of the ID Now ™ COVID-19 test carried out by nurses in an emergency department in comparison with the reference PCR test: Simplexa ™ COVID-19 Direct</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Sensitivity of the ID Now ™ COVID-19 Test Compared to the Simplexa ™ COVID-19 Direct Assay</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Screening patients COVID-19 test</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>As part of the patient's management, two nasopharyngeal swabs will be taken from the same nostril:&#xD;
+The first swab will be sent to the microbiology laboratory for analysis with the Simplexa ™ COVID-19 Direct assay so as not to impact the patient's diagnostic result.&#xD;
+The second swab taken as part of the research will be analyzed with the ID NowTM COVID-19 test located in the UAS by one of the nurses trained and authorized to use it. The choice to perform the ID Now ™ COVID-19 test in the emergency room and not in the laboratory is based on the supplier's instructions. Indeed, the nasopharyngeal swab is intended to be analyzed directly and not to be transported in a container which could hinder the quality of the sample.&#xD;
+The discomfort or pain felt by the patient during the first sample can possibly influence the quality of the second. This could induce a bias. To minimize this bias, staff will be specifically trained in sampling.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>ID Now™ COVID-19 Screening Test</intervention_name>
+    <description>Patients, meeting the eligibility criteria, are selected consecutively in the emergency room. The investigating doctor delivers the written information note, answers the patient's questions and obtains his free, informed and express consent. The patient has sufficient time to reflect to make the decision to participate in the study. His oral, free, informed and express consent will be traced in the computerized medical file on the day of its inclusion in the &quot;COVID-IDNow&quot; protocol. Each patient participating in the study retains the possibility of participating simultaneously in another research. No exclusion period is provided for in the protocol.</description>
+    <arm_group_label>Screening patients COVID-19 test</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient aged ≥ 18 years&#xD;
+&#xD;
+          -  Patient presenting to the emergency room of the GhPSJ and for whom a PCR examination&#xD;
+             is prescribed by the emergency doctor in charge of the patient&#xD;
+&#xD;
+          -  French-speaking patient&#xD;
+&#xD;
+          -  Patient affiliated with social security or, failing that, with another health&#xD;
+             insurance system&#xD;
+&#xD;
+          -  Patient capable of giving free, informed and express consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant or breastfeeding patient.&#xD;
+&#xD;
+          -  Patient under guardianship or curatorship&#xD;
+&#xD;
+          -  Patient deprived of liberty&#xD;
+&#xD;
+          -  Patient under legal protection.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean-Claude NGUYEN, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Groupe Hospitalier Paris Saint Joseph</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Paris Saint-Joseph</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile De France</state>
+        <zip>75014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 8, 2021</study_first_posted>
+  <last_update_submitted>March 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>SARS-CoV2</keyword>
+  <keyword>Diagnosis performance</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

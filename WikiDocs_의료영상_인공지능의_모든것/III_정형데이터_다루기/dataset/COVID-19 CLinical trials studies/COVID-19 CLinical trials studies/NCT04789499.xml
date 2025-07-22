@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3693">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04789499</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202101190</org_study_id>
+    <nct_id>NCT04789499</nct_id>
+  </id_info>
+  <brief_title>Smell in Covid-19 and Efficacy of Nasal Theophylline</brief_title>
+  <acronym>SCENT2</acronym>
+  <official_title>Smell in Covid-19 and Efficacy of Nasal Theophylline</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evidence of COVID-19 related anosmia and dysgeusia continues to accumulate daily.&#xD;
+&#xD;
+      Currently, up to 80% of patients report subjective olfactory dysfunction (OD), and prevalence&#xD;
+      using objective olfactory testing could be even higher.&#xD;
+&#xD;
+      We propose a phase II single-site, double-blinded, placebo-controlled randomized clinical&#xD;
+      trial to determine the efficacy and safety of intranasal theophylline, a known&#xD;
+      phosphodiesterase inhibitor in the treatment of asthma, as a possible treatment for COVID-19&#xD;
+      related OD. Theophylline has shown benefit in similar clinical trials for post-viral OD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Post-viral olfactory dysfunction has numerous known adverse effects such as loss of cortical&#xD;
+      gray matter and decrease in quality of life. COVID-19 related olfactory dysfunction has&#xD;
+      already been shown to be correlated with depression and decreased quality of life, so finding&#xD;
+      an effective treatment is imperative.&#xD;
+&#xD;
+      Intranasal and oral corticosteroids as well as olfactory training are currently used to treat&#xD;
+      post-viral OD; however they have demonstrated limited efficacy and there is no current gold&#xD;
+      standard of care. There is no current consensus on the pathogenesis of COVID-related anosmia;&#xD;
+      however evidence for post-viral olfactory dysfunction suggests sensory axonal regeneration&#xD;
+      and olfactory signaling may rely on elevated levels of secondary messengers cAMP and cGMP, a&#xD;
+      known effect of theophylline. In this phase II treatment trial, patients will be allocated&#xD;
+      1:1 to receive either intranasal theophylline irrigation or placebo for six weeks. Various&#xD;
+      smell surveys and scratch-and-sniff tests will be utilized to capture changes in smell&#xD;
+      ability.&#xD;
+&#xD;
+      Due to COVID-19, this study will be conducted virtually, except for the first ten enrolled&#xD;
+      patients who will undergo one serum theophylline test. This study is limited to patients&#xD;
+      living in Missouri or Illinois.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 15, 2021</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>The pharmacy will maintain the blind until the completion of the study.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical Global Impression Scale</measure>
+    <time_frame>Comparison at 6 weeks post-intervention from baseline</time_frame>
+    <description>The response rate defined as the number of participants self reporting minimal change or larger in the Clinical Global Impression Scale (CGI) scale, divided by the number of participants in each group. The CGI has two components - the CGI-Severity and the CGI-Improvement. The CGI-Severity Scale from 1-7 (1 is Normal, 7 is Complete loss of smell) provides subjective data on the patient's perceived severity of their dysfunction at baseline. The CGI-Improvement Scale from 1-7 (1 is Very Much Improved, 7 is Very Much Worsened) measures changes at 3 weeks and post-treatment at 6 weeks. Participants reporting 3 as Minimally Improved, 2 as Much Improved, or 1 as Very Much Improved in the CGI-I will be deemed responders to treatment, and the number of responders to non-responders will be compared between the two arms.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>University of Pennsylvania Smell Identification Test (UPSIT)</measure>
+    <time_frame>Comparison at 6 weeks post-intervention from baseline</time_frame>
+    <description>This test is an objective, clinically validated 40-question forced-choice odor identification test where microencapsulated odorants on a strip are released by scratching. Out of a total of 40 points, normosmia is defined as ≥34 for males and ≥35 for females, and an increase in ≥4 points will be deemed a clinically significant improvement in symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaire for Olfactory Dysfunction (QOD)</measure>
+    <time_frame>Comparison at 6 weeks post-intervention from baseline</time_frame>
+    <description>This test will measure changes in the health-related quality of life of participants based on four factors as outlined by Mattos, et al. This will qualify which factor (eating, mental health, social interactions, or fear of dysfunction) was affected most by the proposed intervention. The survey also includes questions on parosmia, a phenomena of COVID-related OD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>36-Item Short Form Health Survey (SF-36)</measure>
+    <time_frame>Baseline assessment</time_frame>
+    <description>The SF-36 is a well-established 36-item questionnaire evaluating physical functioning, bodily pain, role limitations due to physical health problems, role limitations due to personal or emotional problems, emotional well-being, social functioning, energy/fatigue, and general health perceptions. This test allows us to study the overall quality of life for those suffering from COVID-19 related OD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Olfactory Dysfunction Outcomes Rating (ODOR)</measure>
+    <time_frame>Comparison at 6 weeks post-intervention from baseline</time_frame>
+    <description>ODOR is a new disease-specific questionnaire that assesses for physical, functional, and emotional limitations in participants with olfactory dysfunction of any etiology. Based on the recurring impairments for participants with post-viral OD in eating/appetite, environmental safety, interpersonal relationships, hygiene, and mood, 28 items were generated to create the new patient reported outcome measure.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Covid19</condition>
+  <condition>Anosmia</condition>
+  <condition>Olfactory Disorder</condition>
+  <condition>Covid-19 Pandemic</condition>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>Hyposmia</condition>
+  <condition>Ageusia</condition>
+  <condition>Hypogeusia</condition>
+  <arm_group>
+    <arm_group_label>Theophylline</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>400mg theophylline capsule diluted in 240 mL isotonic nasal saline lavage twice daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>500mg lactose capsule diluted in 240 mL isotonic nasal saline lavage twice daily.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Theophylline Powder</intervention_name>
+    <description>Theophylline is a known phosphodiesterase inhibitor in the treatment of asthma. Evidence for post-viral olfactory dysfunction suggests sensory axonal regeneration and olfactory signaling may rely on elevated levels of secondary messengers cAMP and cGMP, a known effect of theophylline. Therefore it is hypothesized to help treat COVID-related smell dysfunction, especially if delivered intranasally.&#xD;
+Twice daily nasal irrigation with 400 mg theophylline capsules and USP Grade Sodium Chloride &amp; Sodium Bicarbonate Mixture (pH balanced, Isotonic &amp; Preservative &amp; Iodine Free) commercially prepared packets dissolved in 240 ml of distilled water.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>Theophylline</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Olfactory dysfunction that has persisted for &gt;3 months following suspected COVID-19&#xD;
+             infection&#xD;
+&#xD;
+          -  Residing within the states of Missouri or Illinois.&#xD;
+&#xD;
+          -  Can read, write, and understand English.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of olfactory dysfunction prior to COVID-19 infection&#xD;
+&#xD;
+          -  Use of concomitant therapies specifically for the treatment of olfactory dysfunction&#xD;
+&#xD;
+          -  History of olfactory dysfunction longer than 12 months&#xD;
+&#xD;
+          -  Known existence of nasal polyps, prior sinonasal, or anterior skull-based surgery&#xD;
+&#xD;
+          -  Dependence on theophylline for comorbid conditions such as asthma and COPD&#xD;
+&#xD;
+          -  History of an allergic reaction to theophylline or other methylxanthines&#xD;
+&#xD;
+          -  History of neurodegenerative disease (ie. Alzheimer's dementia, Parkinson's disease,&#xD;
+             Lewy body dementia, frontotemporal dementia)&#xD;
+&#xD;
+          -  Pregnant or breastfeeding mothers&#xD;
+&#xD;
+          -  Current use of medications with significant interactions with theophylline, which&#xD;
+             include cimetidine, ciprofloxacin, disulfiram, enoxacin, fluvoxamine,&#xD;
+             interferon-alpha, lithium, mexiletine, phenytoin, propafenone, propranolol, tacrine,&#xD;
+             thiabendazole, ticlopidine, and troleandomycin.&#xD;
+&#xD;
+          -  Pre-existing arrhythmias or seizures&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jay F Piccirillo, M.D., FACS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Shruti Gupta, B.S.</last_name>
+    <phone>314-362-9475</phone>
+    <email>otooutcomes@wustl.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine in Saint Louis</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jay F Piccirillo, M.D., FACS</last_name>
+      <phone>314-362-8641</phone>
+      <email>piccirij@wustl.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Shruti Gupta, B.S.</last_name>
+      <phone>314-362-9475</phone>
+      <email>otooutcomes@wustl.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jay F Piccirillo, M.D., FACS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Shruti Gupta, B.S.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 9, 2021</study_first_posted>
+  <last_update_submitted>April 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Smell</keyword>
+  <keyword>Smell loss</keyword>
+  <keyword>smell dysfunction</keyword>
+  <keyword>olfactory dysfunction</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>anosmia</keyword>
+  <keyword>theophylline</keyword>
+  <keyword>nasal irrigation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Olfaction Disorders</mesh_term>
+    <mesh_term>Ageusia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Theophylline</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

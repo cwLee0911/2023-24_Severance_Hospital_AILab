@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1616">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04810689</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HS-20-00632</org_study_id>
+    <nct_id>NCT04810689</nct_id>
+  </id_info>
+  <brief_title>Pilot Trial of XFBD, a TCM, in Persons With COVID-19</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Control Pilot Trial of Xuanfei Baidu Granules (XFBD), a Traditional Chinese Medicine (TCM), in Persons With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Darcy Spicer</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Southern California</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to document the safety of taking traditional Chinese medicine&#xD;
+      (TCM) in patients with COVID-19 and to gain information to determine whether a study with TCM&#xD;
+      can be conducted. The study will test a traditional Chinese medicine that has been made into&#xD;
+      a granule formulation called Xuanfei Baidu Granules.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Xuanfei Baidu granules (XFBD) is a 13 medicinal traditional Chinese medicine (TCM)&#xD;
+      prescription developed by Dr. Zhang Boli, a member of Chinese Academy of Engineering, and his&#xD;
+      team, and used in Wuhan, China, during the initial outbreak of SARS-CoV2. Based on TCM&#xD;
+      theory, the 13 medicinals used mainly consist of heat-clearing and toxin-removing medicinals&#xD;
+      to reduce fever and clear viruses; cough-suppressing and phlegm-transforming medicinals to&#xD;
+      thin and clear the phlegm; and lung-diffusing and pant-calming to soothe the tracheal smooth&#xD;
+      muscle and relieve shortness of breath. Another unique quality is one of the medicinals helps&#xD;
+      to dissipate stasis and dissolves blood clots, providing a mild anticoagulant effect.&#xD;
+&#xD;
+      Before the widespread usage of TCM, nationwide China saw a progression of disease of about&#xD;
+      10% of their mild and moderate cases while during the period with the TCM utilization, the&#xD;
+      percentage dropped to 2-5% depending on the hospital. Overall, they saw an improvement of&#xD;
+      clinical symptoms. Due to the challenges of the rapidly evolving outbreak, these are clinical&#xD;
+      observations and not evidence from a controlled study.&#xD;
+&#xD;
+      The purpose of this initial pilot study is to document the safety of taking a TCM in patients&#xD;
+      with COVID-19 and to gain information to determine whether a study with TCM can be conducted&#xD;
+      in the US. The study will test a TCM which has been made into a granule formulation called&#xD;
+      XFBD.&#xD;
+&#xD;
+      This is a randomized double-blind placebo-control pilot trial to document safety and efficacy&#xD;
+      endpoint assessments and to determine the feasibility of community recruitment and enrollment&#xD;
+      of symptomatic adult outpatients with COVID-19. The 12-week pilot will have 14 days where&#xD;
+      they receive XFBD or a placebo, orally twice a day and a 10 week follow up. The study will&#xD;
+      have a total of 60 participants with approximately 30 participants in each treatment arm. The&#xD;
+      participants will be randomized 1:1 individuals.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2021</start_date>
+  <completion_date type="Anticipated">September 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Study participants will be randomized to 1 of 2 arms: XFBD granules or placebo</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of recruitment</measure>
+    <time_frame>90 days</time_frame>
+    <description>To document the feasibility of recruitment through community setting by assessment of the number of positive cases identified per week</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participation Rate</measure>
+    <time_frame>90 days</time_frame>
+    <description>To document the proportion of patients who agree to participate as measured by enrollment and randomization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Side Effects and Safety Profile</measure>
+    <time_frame>up to 90 days after enrollment</time_frame>
+    <description>To document the treatment emergent side effects and safety profile of the XFBD and placebo</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of hospitalization or death</measure>
+    <time_frame>up to 42 days after enrollment</time_frame>
+    <description>To document the rate of hospitalization or death within 42 days of enrollment in the XFBD and placebo treated groups.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Symptom Severity Score</measure>
+    <time_frame>up to 28 days after enrollment</time_frame>
+    <description>To document the effect of XFBD on Symptom Severity Score within 28 days of enrollment in the XFBD and placebo treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Study agent compliance</measure>
+    <time_frame>up to 14 days after enrollment</time_frame>
+    <description>To document the proportion of patients who are compliant taking greater than 90% of the test substance as measured by self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptom monitoring compliance</measure>
+    <time_frame>up to 90 days after enrollment</time_frame>
+    <description>To document the proportion of patients who comply with symptom monitoring.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 testing compliance</measure>
+    <time_frame>up to 14 days after enrollment</time_frame>
+    <description>To document the proportion of patients who comply with repeated clinical testing.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital-free days</measure>
+    <time_frame>up to 42 days after enrollment</time_frame>
+    <description>To document the hospital-free days from enrollment to 42 days (number of days patient not in hospital)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>up to 14 days after enrollment</time_frame>
+    <description>To document cumulative incidence of serious adverse events, and adverse events leading to early discontinuation of XFBD or placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Grade 3 and 4 adverse events</measure>
+    <time_frame>up to 28 days after enrollment</time_frame>
+    <description>To document cumulative incidence of grade 3 and 4 adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral load</measure>
+    <time_frame>up to 14 days after enrollment</time_frame>
+    <description>To obtain levels (detectable versus not detectable, and continuous on log10 scale) of SARS-CoV-2 RNA from nasal swabs at approximately days 1, 7 and 14 among a subset</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>XFBD Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>XFBD (administered as 1 packet of granules dissolved in warm water) orally twice daily for 14 day, 1 hour after food in the morning and at night with at least 8 hours in between doses</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Arm</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo (administered as 1 packet of granules dissolved in warm water) orally twice daily for 14 day, 1 hour after food in the morning and at night with at least 8 hours in between doses</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Xuanfei Baidu Granules</intervention_name>
+    <description>Xuanfei Baidu granules is a prescription of 13 herbal medicinals made into dissolvable granules for oral intake</description>
+    <arm_group_label>XFBD Arm</arm_group_label>
+    <other_name>XFBD</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo for Xuanfei Baidu granule made into dissolvable granules for oral intake</description>
+    <arm_group_label>Placebo Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participant provides informed consent prior to initiation of any study procedures.&#xD;
+&#xD;
+          -  Individual 18 to 75 years of age.&#xD;
+&#xD;
+          -  Documentation of confirmed active SARS-CoV-2 infection, as determined by an FDA&#xD;
+             authorized molecular test conducted at any US clinic or laboratory that has a Clinical&#xD;
+             Laboratory Improvement Amendments (CLIA) certification or its equivalent from any&#xD;
+             respiratory specimen collected &lt;96 hours prior to study entry.&#xD;
+&#xD;
+          -  Mild or Moderate COVID-19 experiencing at least one SARS-CoV-2 infection symptom&#xD;
+             including:&#xD;
+&#xD;
+               -  Mild Covid-19: Symptoms of mild illness with COVID-19 that could include fever,&#xD;
+                  cough, sore throat, malaise, headache, muscle pain, gastrointestinal symptoms,&#xD;
+                  without shortness of breath or dyspnea&#xD;
+&#xD;
+               -  Moderate Covid-19:&#xD;
+&#xD;
+                    -  Symptoms of moderate illness with COVID-19, which could include any symptom&#xD;
+                       of mild illness or shortness of breath with exertion&#xD;
+&#xD;
+                    -  Presence of clinical signs consistent with moderate illness with COVID-19,&#xD;
+                       such as respiratory rate ≥ 20 breaths per minute, saturation of oxygen&#xD;
+                       (SpO2) &gt; 93% on room air at sea level, heart rate ≥ 90 beats per minute from&#xD;
+                       a health care encounter within 48 hours.&#xD;
+&#xD;
+          -  Agrees to not participate in another clinical trial for the treatment of COVID-19 or&#xD;
+             SARS-CoV-2 during the study period up until reaching hospitalization or 28 days,&#xD;
+             whichever is earliest.&#xD;
+&#xD;
+          -  Agrees to not utilize TCM outside of this study.&#xD;
+&#xD;
+          -  Willing to be randomized to XFBD and placebo control arm for 14 days, and followed up&#xD;
+             to 12 weeks.&#xD;
+&#xD;
+          -  Willing to comply with the study related questionnaires, procedures and measurements.&#xD;
+&#xD;
+          -  Will to not become pregnant during the 14 days of test substance ingestion using&#xD;
+             appropriate accepted methods of contraception. Acceptable methods of contraception&#xD;
+             include: postmenopausal 1 year of amenorrhea and over 50 years of age; prior tubal&#xD;
+             ligation or hysterectomy; or barrier contraception using condom or diaphragm plus&#xD;
+             spermicide.&#xD;
+&#xD;
+          -  Able to provide the identity of their health care provider or health system clinical&#xD;
+             care entry information.&#xD;
+&#xD;
+          -  Able to utilize telephone and telehealth platform to comply with the study related&#xD;
+             questionnaires, procedures and measurements. Established during the recruitment&#xD;
+             process.&#xD;
+&#xD;
+          -  Able to speak and communicate in English, Spanish, Mandarin Chinese or Cantonese.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Need for hospitalization.&#xD;
+&#xD;
+          -  Severe or Critical COVID-19:&#xD;
+&#xD;
+               -  Severe COVID-19&#xD;
+&#xD;
+                    -  Symptoms suggestive of severe systemic illness with COVID-19, which could&#xD;
+                       include any symptom of moderate illness or shortness of breath at rest, or&#xD;
+                       respiratory distress&#xD;
+&#xD;
+                    -  Clinical signs indicative of severe systemic illness with COVID-19,&#xD;
+                       respiratory rate ≥ 30 breaths per minute, heart rate ≥ 125 beats per minute,&#xD;
+                       SpO2 ≤ 93% on room air at sea level or respiratory PaO2/FiO2 &lt; 300&#xD;
+&#xD;
+               -  Critical COVID-19 -- Evidence of critical illness, defined by at least one of the&#xD;
+                  following:&#xD;
+&#xD;
+                    -  Respiratory failure defined based on resource utilization requiring at least&#xD;
+                       one of the following: Endotracheal intubation and mechanical ventilation,&#xD;
+                       oxygen delivered by high flow nasal cannula (heated, humidified, oxygen&#xD;
+                       delivered via reinforced nasal cannula at flow rates &gt; 20 L/min with&#xD;
+                       fraction of delivered oxygen ≥ 0.5), noninvasive positive pressure&#xD;
+                       ventilation, ECMO, or clinical diagnosis of respiratory failure (i.e.,&#xD;
+                       clinical need for one of the preceding therapies, but preceding therapies&#xD;
+                       not able to be administered in setting of resource limitation)&#xD;
+&#xD;
+                    -  Shock (defined by systolic blood pressure &lt; 90 mm Hg, or diastolic blood&#xD;
+                       pressure &lt; 60 mm Hg or requiring vasopressors)&#xD;
+&#xD;
+                    -  Multi-organ dysfunction/failure&#xD;
+&#xD;
+          -  Positive SARS-CoV-2 molecular test in the absence of Covid-19 symptoms. However if&#xD;
+             patients develop symptoms within 14 days of the positive test and fulfill all other&#xD;
+             enrollment criteria, they are eligible for participation.&#xD;
+&#xD;
+          -  Receiving the following classes of agents found in 5.4.1. Prohibited Medications&#xD;
+&#xD;
+          -  Use of drugs for anti-SARS-CoV-2 treatment including remdesivir, baricitinib,&#xD;
+             lopinavir/ritonavir fixed dose combination, ribavirin, chloroquine,&#xD;
+             hydroxychloroquine, and azithromycin, dexamethasone, bamlanivimab, casirivimab plus&#xD;
+             imdevimab convalescent plasma, or participation in a clinical trial involving any of&#xD;
+             these drugs whether for treatment or prophylaxis.&#xD;
+&#xD;
+          -  Participating in a study where co-enrollment is not allowed.&#xD;
+&#xD;
+          -  Receipt of a SARS-CoV-2 vaccination prior to study entry.&#xD;
+&#xD;
+          -  Known allergy/sensitivity or any hypersensitivity to components of XFBD&#xD;
+&#xD;
+          -  Active drug or alcohol use or dependence that, in the opinion of the site&#xD;
+             investigator, would interfere with adherence to study requirements.&#xD;
+&#xD;
+          -  Has known prior kidney disease.&#xD;
+&#xD;
+          -  Has known cirrhosis, acute liver disease or uncontrolled chronic liver disease.&#xD;
+&#xD;
+          -  Has known severe coronary artery disease.&#xD;
+&#xD;
+          -  Has known narrow angle glaucoma.&#xD;
+&#xD;
+          -  Has greater than two or a single uncontrolled underlying comorbid condition including&#xD;
+             cardiovascular disease (coronary artery disease, heart failure, valvular heart&#xD;
+             disease), hypertension, diabetes, chronic lung disease, chronic kidney disease,&#xD;
+             chronic liver disease, immunocompromised (HIV or daily users of more than 5 mg/day of&#xD;
+             prednisone), prior organ transplant.&#xD;
+&#xD;
+          -  Fulfills the FDA EUA criteria of at high risk for progressing to severe COVID-19. This&#xD;
+             includes high-risk individuals specified in the EUA who meet at least one of the&#xD;
+             following criteria: Body mass index (BMI) ≥35; Chronic kidney disease; Diabetes&#xD;
+             mellitus; Immunocompromising condition/immunosuppressive disease; Currently receiving&#xD;
+             immunosuppressive treatment; Aged ≥65 years; or Aged ≥55 years and have:&#xD;
+             Cardiovascular disease, or Hypertension, or Chronic obstructive pulmonary&#xD;
+             disease/other chronic respiratory disease. If the patient is not able to receive the&#xD;
+             EUA agent casirivimab and imdevimab (Regeneron) or bamlanivimab (Eli Lilly) because of&#xD;
+             unavailability this exclusion may be waived.&#xD;
+&#xD;
+          -  Women who are currently pregnant or breastfeeding.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Darcy V Spicer, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Keck Medicine of USC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Darcy V Spicer, MD</last_name>
+    <phone>3238653904</phone>
+    <email>dspicer@usc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Elizabeth Qi, PharmD</last_name>
+    <email>eqi@usc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Southern California</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Darcy Spicer, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Peter Kuhn, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anna Wu, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ann Hamilton, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Cheryl Vigen, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Elizabeth Qi, PharmD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 23, 2021</study_first_posted>
+  <last_update_submitted>March 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Southern California</investigator_affiliation>
+    <investigator_full_name>Darcy Spicer</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

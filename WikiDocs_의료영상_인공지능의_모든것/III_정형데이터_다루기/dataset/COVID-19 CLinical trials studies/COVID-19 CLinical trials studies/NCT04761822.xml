@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="219">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04761822</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DAIT COVID-19-004</org_study_id>
+    <secondary_id>NIAID CRMS ID#: 38814</secondary_id>
+    <nct_id>NCT04761822</nct_id>
+  </id_info>
+  <brief_title>COVID-19: SARS Vaccination</brief_title>
+  <acronym>SARS</acronym>
+  <official_title>Systemic Allergic Reactions to SARS-CoV-2 Vaccination</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Immune Tolerance Network (ITN)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Rho Federal Systems Division, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: Allergic reactions have been reported to occur after vaccination with both the&#xD;
+      Pfizer-BioNTech COVID-19 Vaccine and Moderna COVID-19 Vaccine. Allergic reactions range from&#xD;
+      mild to severe and include life- threatening anaphylactic reactions, although no deaths have&#xD;
+      been reported with either vaccine.&#xD;
+&#xD;
+      This study is designed with two principal aims:&#xD;
+&#xD;
+        -  To estimate the proportions of systemic allergic reactions to the Pfizer-BioNTech&#xD;
+           COVID-19 Vaccine and the Moderna COVID-19 Vaccine in a High-Allergy/Mast Cell Disorder&#xD;
+           (HA/MCD) population, and&#xD;
+&#xD;
+        -  If the risk in the HA/MCD is demonstrable, to determine whether the proportions are&#xD;
+           higher in the HA/MCD compared to a non-atopic population.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multicenter, randomized, initially blinded (masked), phase 2 trial to assess&#xD;
+      SARS-CoV-2 vaccination reactions in two populations:&#xD;
+&#xD;
+        -  One population including individuals with a history of allergic reactions or Mast Cell&#xD;
+           Disorder (HA/MCD),and&#xD;
+&#xD;
+        -  One non-atopic population.&#xD;
+&#xD;
+      Approximately 2040 HA/MCD and 1360 non-atopic participants will be enrolled across&#xD;
+      participating sites in the United States. Approximately two-thirds of participants enrolled&#xD;
+      in each of the 2 groups will be female. This is because the vast majority of cases of&#xD;
+      anaphylaxis to the COVID-19 vaccines have occurred in women. Enrollment of participants who&#xD;
+      qualify only on the basis of reactions to multiple unrelated drugs will be limited to&#xD;
+      approximately 300.&#xD;
+&#xD;
+      Enrollment of the MCD group is anticipated to be at least 200 participants, and not more than&#xD;
+      300 participants. Participants in each population will be randomized 2:2:1:1 to receive the&#xD;
+      Pfizer-BioNTech COVID-19 Vaccine, Moderna COVID-19 Vaccine, placebo + Pfizer-BioNTech&#xD;
+      COVID-19 Vaccine, or placebo + Moderna COVID-19 Vaccine.&#xD;
+&#xD;
+      Participants randomized to one of the placebo groups will receive placebo as a first dose and&#xD;
+      will receive two doses of their assigned active vaccine at subsequent visits. During the&#xD;
+      first visit, all participants will be initially-blinded to whether they are receiving placebo&#xD;
+      or vaccine, and to which vaccine they are receiving. Due to the different dosing schedules&#xD;
+      for the Pfizer-BioNTech COVID-19 Vaccine and Moderna COVID-19 Vaccine, it will become&#xD;
+      apparent to both the site staff and the study participant which vaccine has been assigned,&#xD;
+      once the second injection visit is scheduled. However, the blind over placebo versus vaccine&#xD;
+      will remain in effect until after the second visit. During a follow-up call, scheduled 3 days&#xD;
+      after the second injection, participants will be unblinded as to whether they received&#xD;
+      placebo or active vaccine.&#xD;
+&#xD;
+      Study Duration: Randomized and vaccinated participants will complete study participation in&#xD;
+      approximately 29 days if vaccinated with the Pfizer-BioNTech COVID-19 Vaccine, 36 days if&#xD;
+      vaccinated with the Moderna COVID-19 Vaccine, and 50 or 64 days if administered placebo&#xD;
+      before receiving two doses of either the Pfizer-BioNTech COVID-19 Vaccine or the Moderna&#xD;
+      COVID-19 Vaccine, respectively.&#xD;
+&#xD;
+      Total study duration: Approximately 17 weeks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2021</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Due to the different dosing schedules for the Pfizer-BioNTech COVID-19 Vaccine and Moderna COVID-19 Vaccine, it will become apparent to both the site staff and study participant which vaccine has been assigned, once their second injection is scheduled. Participants and the staff will be unblinded (unmasked) during the follow-up call 3 days after the second injection when a third appointment (for those who received a placebo injection first) is, or is not (active vaccinations only) scheduled.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants who experience a systemic allergic reaction to either dose of the Pfizer-BioNTech COVID-19 Vaccine</measure>
+    <time_frame>Within the 90-minute post- vaccination observation period</time_frame>
+    <description>Symptoms considered to be allergic will be graded using the Consortium of Food Allergy Research (CoFAR) Grading Scale for Systemic Allergic Reactions, Version 3.0. The scale is Grade 1 (Mild) through 5, the higher the grade, the more severe the allergic reaction.&#xD;
+Note- It is possible for a participant to have a reaction to:&#xD;
+Either dose 1 or dose 2 of the assigned COVID-19 vaccine, but not to both doses, since a participant who has a reaction meeting qualifying criteria to dose 1 will not be eligible to receive the second dose; or,&#xD;
+Neither dose of the assigned COVID-19 vaccine.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of participants who experience a systemic allergic reaction to either dose of the Moderna COVID-19 Vaccine</measure>
+    <time_frame>Within the 90-minute post- vaccination observation period</time_frame>
+    <description>Symptoms considered to be allergic will be graded using the Consortium of Food Allergy Research (CoFAR) Grading Scale for Systemic Allergic Reactions, Version 3.0. The scale is Grade 1 (Mild) through 5, the higher the grade, the more severe the allergic reaction.&#xD;
+Note- It is possible for a participant to have a reaction to:&#xD;
+Either dose 1 or dose 2 of the assigned COVID-19 vaccine, but not to both doses, since a participant who has a reaction meeting qualifying criteria to dose 1 will not be eligible to receive the second dose; or, Neither dose of the assigned COVID-19 vaccine.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who experience a severe (≥ Grade 3) systemic allergic reaction to either dose of each vaccine</measure>
+    <time_frame>Within the 90-minute post- vaccination observation period</time_frame>
+    <description>Symptoms considered to be allergic will be graded using the Consortium of Food Allergy Research (CoFAR) Grading Scale for Systemic Allergic Reactions, Version 3.0. The scale is Grade 1 (Mild) through 5, the higher the grade, the more severe the allergic reaction.&#xD;
+Note- It is possible for a participant to have a reaction to:&#xD;
+Either dose 1 or dose 2 of the assigned COVID-19 vaccine, but not to both doses, since a participant who has a reaction meeting qualifying criteria to dose 1 will not be eligible to receive the second dose; or, Neither dose of the assigned COVID-19 vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who experience an anaphylactic reaction per Brighton Collaboration Criteria to either dose of each vaccine</measure>
+    <time_frame>Within the 90-minute post- vaccination observation period</time_frame>
+    <description>Defined by Levels 1-3 per Brighton Collaboration Criteria.&#xD;
+Brighton Collaboration case definition criteria for anaphylaxis. Brighton level 1 represents the highest level of diagnostic certainty that a reported case is a case of anaphylaxis, levels 2 and 3 represent successively lower levels of diagnostic certainty.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who experience a systemic allergic reaction ≥Grade 2 to the first dose</measure>
+    <time_frame>Within the 90-minute post- vaccination observation period</time_frame>
+    <description>Symptoms considered to be allergic will be graded using the Consortium of Food Allergy Research (CoFAR) Grading Scale for Systemic Allergic Reactions, Version 3.0. The scale is Grade 1 through 5, the higher the grade, the more severe the allergic reaction.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who experience a systemic allergic reaction ≥Grade 2 to the second dose conditional on no systemic allergic reaction to the first dose</measure>
+    <time_frame>Within the 90-minute post- vaccination observation period</time_frame>
+    <description>Symptoms considered to be allergic will be graded using the Consortium of Food Allergy Research (CoFAR) Grading Scale for Systemic Allergic Reactions, Version 3.0. The scale is Grade 1 through 5, the higher the grade, the more severe the allergic reaction.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who experience a systemic allergic reaction ≥Grade 2 to the first dose after adjusting for placebo administration</measure>
+    <time_frame>Within the 90-minute post- vaccination observation period</time_frame>
+    <description>Symptoms considered to be allergic will be graded using the Consortium of Food Allergy Research (CoFAR) Grading Scale for Systemic Allergic Reactions, Version 3.0. The scale is Grade 1 through 5, the higher the grade, the more severe the allergic reaction.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">3400</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>COVID-19</condition>
+  <condition>Allergic Reaction</condition>
+  <condition>Mast Cell Disorder</condition>
+  <condition>Non-atopic</condition>
+  <arm_group>
+    <arm_group_label>Moderna COVID-19 Vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The Moderna COVID-19 Vaccine (0.5 mL) will be administered intramuscularly in the deltoid, as a series of two doses (0.5 mL each) administered 1 month (28 days) apart.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pfizer-BioNTech COVID-19 Vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The Pfizer-BioNTech COVID-19 Vaccine (0.3 mL) will be administered intramuscularly in the deltoid, as a series of two doses (0.3 mL each) administered 3 weeks (21 days) apart.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo +Moderna COVID-19 Vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive placebo as a first dose followed by two doses of their assigned active vaccine at subsequent visits. 0.5 mL of placebo will be administered intramuscularly in the deltoid.&#xD;
+The placebo dose will be followed by two doses of Moderna COVID-19 Vaccine, with the first dose administered 1 month later. The Moderna COVID-19 Vaccine (0.5 mL) will be administered intramuscularly in the deltoid, as a series of two doses (0.5 mL each) administered 1 month (28 days) apart.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo+Pfizer-BioNTech COVID-19 Vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive placebo as a first dose followed by two doses of their assigned active vaccine at subsequent visits. 0.3 mL of placebo will be administered intramuscularly in the deltoid.&#xD;
+The placebo dose will be followed by two doses of Pfizer-BioNTech COVID-19 Vaccine, with the first dose administered 1 month later. The Pfizer-BioNTech COVID-19 Vaccine (0.3 mL) will be administered intramuscularly in the deltoid, as a series of two doses (0.3 mL each) administered 3 weeks (21 days) apart.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Moderna COVID-19 Vaccine</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Moderna COVID-19 Vaccine</arm_group_label>
+    <arm_group_label>Placebo +Moderna COVID-19 Vaccine</arm_group_label>
+    <other_name>mRNA-1273</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Pfizer-BioNTech COVID-19 Vaccine</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Pfizer-BioNTech COVID-19 Vaccine</arm_group_label>
+    <arm_group_label>Placebo+Pfizer-BioNTech COVID-19 Vaccine</arm_group_label>
+    <other_name>BNT162b2</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Placebo +Moderna COVID-19 Vaccine</arm_group_label>
+    <arm_group_label>Placebo+Pfizer-BioNTech COVID-19 Vaccine</arm_group_label>
+    <other_name>sterile, preservative-free 0.9% Sodium Chloride Injection</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Individuals who meet all of the following criteria are eligible for enrollment as study&#xD;
+        participants:&#xD;
+&#xD;
+        Both groups (e.g., High-Allergy and Mast Cell Disorder (HA/MCD) Group and Non-Atopic&#xD;
+        Group):&#xD;
+&#xD;
+          1. Able to understand and provide informed consent&#xD;
+&#xD;
+          2. Male or non-pregnant female 18 to 69 years of age, inclusive, on the date of first&#xD;
+             study vaccination/placebo administration&#xD;
+&#xD;
+          3. Females of childbearing potential must have a negative pregnancy test prior to the&#xD;
+             first vaccination and placebo administration, if applicable.&#xD;
+&#xD;
+             --If a participant becomes pregnant after receiving a placebo dose but prior to&#xD;
+             receiving study vaccination, she will be discontinued from the study&#xD;
+&#xD;
+          4. Females of reproductive potential° and sexually active must agree to use FDA approved&#xD;
+             methods of birth control for the duration of the study. These include hormonal&#xD;
+             contraceptives, intrauterine device, double barrier contraception (i.e., condom plus&#xD;
+             diaphragm), or male partner with documented vasectomy.&#xD;
+&#xD;
+               -  Menopause is defined as at least 12 consecutive months without menses; if in&#xD;
+                  question, a follicle stimulating hormone of ≥25 U/mL must be documented.&#xD;
+&#xD;
+               -  Hysterectomy, bilateral oophorectomy, or bilateral tubal ligation must be&#xD;
+                  documented, as applicable; if documented, women with these conditions are not&#xD;
+                  required to use additional contraception.&#xD;
+&#xD;
+        High-Allergy and Mast Cell Disorder (HA/MCD) Group:&#xD;
+&#xD;
+        Individuals who meet at least one of the following criteria are eligible for enrollment in&#xD;
+        the HA/MCD group:&#xD;
+&#xD;
+          1. History of a severe allergic reaction to food(s), allergen immunotherapy, or insect&#xD;
+             venom(s) with use of epinephrine within the last 5 years&#xD;
+&#xD;
+          2. History of documented, immediate allergic reactions to 2 or more unrelated drugs&#xD;
+             within the last 5 years&#xD;
+&#xD;
+          3. A convincing clinical history, or a history that is accompanied by a positive skin&#xD;
+             test, of an immediate reaction to a drug or vaccine within the last 5 years&#xD;
+&#xD;
+          4. History of a physician-diagnosed mast cell disorder (e.g., mastocytosis, mast cell&#xD;
+             activation syndrome, or hereditary alpha-tryptasemia). Mast cell activation syndrome&#xD;
+             must meet consensus criteria.&#xD;
+&#xD;
+        Non-Atopic Group:&#xD;
+&#xD;
+        Individuals who meet all of the following criteria are eligible for enrollment in the&#xD;
+        non-atopic group:&#xD;
+&#xD;
+          1. No history of allergic disorders, including allergic asthma, rhinitis, conjunctivitis,&#xD;
+             atopic dermatitis, chronic spontaneous urticaria, or angioedema&#xD;
+&#xD;
+          2. No history of allergic reactions to foods or insect venoms&#xD;
+&#xD;
+          3. No history of allergic reactions to drugs or vaccines&#xD;
+&#xD;
+          4. No history of a mast cell disorder (e.g., mastocytosis, mast cell activation syndrome,&#xD;
+             or hereditary alpha-tryptasemia)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Individuals who meet any of these criteria are not eligible for enrollment as study&#xD;
+        participants:&#xD;
+&#xD;
+          1. Inability or unwillingness to give written informed consent or comply with study&#xD;
+             protocol&#xD;
+&#xD;
+          2. Prior receipt of any doses of the Pfizer-BioNTech coronavirus disease 2019 (COVID-19)&#xD;
+             Vaccine, Moderna COVID-19 Vaccine, or any other COVID-19 vaccine&#xD;
+&#xD;
+          3. History of a severe reaction to any component of the Pfizer-BioNTech COVID-19 Vaccine&#xD;
+             or Moderna COVID-19 Vaccine&#xD;
+&#xD;
+          4. History of contact dermatitis with confirmed patch test reaction to Prevalence of&#xD;
+             polyethylene glycol (PEG)&#xD;
+&#xD;
+          5. History of reaction to Doxil®&#xD;
+&#xD;
+          6. Known exposure to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and&#xD;
+             still within the quarantine window&#xD;
+&#xD;
+          7. Symptoms consistent with acute COVID-19 infection or known COVID-19 infection&#xD;
+             (positive Polymerase chain reaction (PCR) or antigen test) and still within the&#xD;
+             quarantine window&#xD;
+&#xD;
+          8. Have an acute illness, including body temperature greater than 100.4 degrees, within&#xD;
+             14 days of the first study vaccination/placebo administration or 3 days prior to each&#xD;
+             subsequent vaccination&#xD;
+&#xD;
+          9. History of autoimmune or other disorders requiring systemic immune modulators&#xD;
+&#xD;
+         10. History of acute urticaria within 28 days of randomization&#xD;
+&#xD;
+         11. Pregnant&#xD;
+&#xD;
+         12. Have received any vaccines within 14 days of the first study vaccination/placebo&#xD;
+             administration or plan to receive other vaccines during the study period&#xD;
+&#xD;
+         13. Had any allergen immunotherapy administration within 24 hours prior to&#xD;
+             vaccination/placebo administration or plan to receive within 24 hours after&#xD;
+             vaccination/placebo administration&#xD;
+&#xD;
+         14. Have received a biologic therapy within 6 months of randomization&#xD;
+&#xD;
+         15. Use of systemic steroids for any reason within 28 days of randomization&#xD;
+&#xD;
+         16. Use of Zileuton® within 14 days of randomization&#xD;
+&#xD;
+         17. Use of Emergency Use Authorization (EUA) monoclonal antibodies casirivimab and&#xD;
+             imdevimab, or bamlanivimab, or any other antibody agent for treatment or prevention of&#xD;
+             COVID-19 within 3 months of randomization&#xD;
+&#xD;
+         18. Have past or current medical problems or findings from physical exam or laboratory&#xD;
+             testing not listed above, which in the opinion of the investigator, may pose&#xD;
+             additional risks from participation in the study or which may interfere with the&#xD;
+             ability to comply with study requirements&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>69 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James R. Baker Jr., MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Mary H. Weiser Food Allergy Center and Michigan Nanotechnology Institute for Medicine and the Biological Sciences</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rebecca S. Gruchalla, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Division of Allergy and Immunology Departments of Internal Medicine and Pediatrics, University of Texas Southwestern</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>N. Franklin Atkinson Jr., MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Graduate Training Program in Clinical Investigation Associate TP Director, Allergy-Immunology Johns Hopkins Asthma &amp; Allergy Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Arizona Health Sciences, College of Medicine Tucson, Department of Medicine, Division of Pulmonary, Allergy, Critical Care and Sleep Medicine</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Arkansas Children's, University of Arkansas for Medical Sciences</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary Kemp</last_name>
+      <phone>501-398-8622</phone>
+      <email>mckemp@uams.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Stacie M. Jones, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Los Angeles Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexis Stephens</last_name>
+      <phone>310-210-8771</phone>
+      <email>avstephens@mednet.ucla.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Maria I. Garcia-Lloret, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford Medicine, Sean N. Parker Center for Allergy &amp; Asthma Research</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Jewish Health</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ashley Kohlhepp, RN</last_name>
+      <phone>303-398-1379</phone>
+      <email>kohlheppA@njhealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Donald YM Leung, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Health, University of Miami Health System</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Florida Asthma Allergy and Immunology Clinical Research Unit</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University School of Medicine, Emory Healthcare: Emory Clinic Allergy and Immunology</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30324</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sang Le</last_name>
+      <phone>404-712-2982</phone>
+      <email>sang.n.le@emory.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Merin E. Kalangara, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sinus and Allergy Center of Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NorthShore University HealthSystem</name>
+      <address>
+        <city>Skokie</city>
+        <state>Illinois</state>
+        <zip>60077</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa Health Care</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Bayview Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Allen D. Judd</last_name>
+      <phone>617-726-3121</phone>
+      <email>adjudd@mgh.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Amelia Cogan, MPH</last_name>
+      <phone>617-726-3121</phone>
+      <email>ascogam@mgh.harvard.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kimberly Blumenthal, MD, MSc</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan Health</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Courtney Oliver</last_name>
+      <phone>906-273-2145</phone>
+      <email>msoliver@med.umich.edu</email>
+    </contact>
+    <investigator>
+      <last_name>James R. Baker, Jr., MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital and Health System</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shannon Murray</last_name>
+      <phone>313-805-5718</phone>
+      <email>smurray6@hfhs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Edward M. Zoratti, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Louis University Care Center for Specialized Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karla Mosby, RN, CCRC</last_name>
+      <phone>314-977-7526</phone>
+      <email>karla.mosby@health.siu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Mark Dykewicz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Hospital, Department of Medicine, Division of Clinical Immunology</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shanti Mangar, MPA, CCRC</last_name>
+      <phone>212-241-9538</phone>
+      <email>shanti.mangar@mssm.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Paula J. Busse, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Irving Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rochester Regional Health</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dawn Sheflin, RN</last_name>
+      <phone>585-922-9314</phone>
+      <email>dawn.sheflin@rochesterregional.org</email>
+    </contact>
+    <investigator>
+      <last_name>Allison C. Ramsey, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Carolina Translational and Clinical Sciences Institute-Clinical &amp; Translational Research Center (CTRC) at the University of North Carolina at Chapel Hill</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic, Allergy &amp; Clinical Immunology</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State Health Allergy, Milton S. Hershey Medical Center</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University Medical Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine Medical Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia Health System: Department of Medicine, Division of Allergy and Immunology</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Commonwealth University, Department of Internal Medicine, Division of Rheumatology, Allergy &amp; Immunology</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin Asthma Allergy Pulmonary Research</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>February 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2 vaccination</keyword>
+  <keyword>COVID-19 vaccination</keyword>
+  <keyword>Systemic Allergic Reactions to SARS-CoV-2 vaccination</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Hypersensitivity</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

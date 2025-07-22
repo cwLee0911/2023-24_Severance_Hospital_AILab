@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5489">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04840498</url>
+  </required_header>
+  <id_info>
+    <org_study_id>300005328</org_study_id>
+    <nct_id>NCT04840498</nct_id>
+  </id_info>
+  <brief_title>UAB AIM Virtual Magic Camp</brief_title>
+  <official_title>UAB Arts in Medicine's Evaluation of a Virtual Magic Camp</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hon K. Yuen, PhD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The magic camp for children with disabilities at UAB has been conducted yearly since 2018.&#xD;
+      This year, because of the Covid-19, the magic camp will be conducted online. The virtual&#xD;
+      magic camp will start in the beginning of June . It will run for 4 weeks. After one cohort,&#xD;
+      there will be another cohort starts in the beginning of July . Each cohort will have about 30&#xD;
+      children with disabilities. Two occupational therapy graduate students will teach each child&#xD;
+      via Zoom to learn magic hand trick 3 times a week, one hour each. No studies evaluate the&#xD;
+      psychological benefits of learning magic tricks via online in children with disabilities.&#xD;
+      Therefore, this study is to evaluate the psychological being of the children participants&#xD;
+      after completing a virtual magic camp.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 7, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Self Esteem</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Rosenberg Self Esteem Scale: The Rosenberg Self-Esteem Scale (Rosenberg, 1965) consists of 10 items quantifying participants' feelings about themselves on a 4-point scale (1=strongly agree; 4=strongly disagree). After taking into consideration the five reversed scored items, responses are totaled to form the summation score, ranging from 10 to 40, with the larger scores indicating higher self-esteem.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Strengths &amp; Difficulties</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>SDQ is a screening tool for emotional and behavioral problems in children and adolescents aged 2 to 17 years (Stone, Otten, Engels, Vermulst, &amp; Janssens, 2010). SDQ includes 25 items across 5 subscales. Each item is rated on a 3-point scale with 0=not true, 1=somewhat true, and 2=certainly true. Responses are totaled to form the summation score, ranging from 0-50, with higher scores indicating more emotional and behavioral problems.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Social Anxiety</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>The SAS is designed to assess feelings of social anxiety (avoidance, fears, or worries) experienced by children and adolescents in the context of their peer relations (La Greca &amp; Lopez, 1998; La Greca &amp; Stone, 1993). The SAS has 18 items divided into three subscales. Each item is rated on a 5-point Likert scale according to how much each item characterizes the specific feeling indicated (1 = not at all, 5 = all the time). Items from each subscale are summed so that high scores reflect greater levels of social anxiety.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Social Skills</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>The SSIS is designed to measure various aspects of social skills in children and adolescents who are suspected of having significant social difficulties (Gresham &amp; Elliott, 2008). The Social Skills domain has 46 items and consists of seven subscales. Items are rated on a 4-point Likert scale by indicating how true each social skill is (0 = not true, 3 = very true), with lower scores indicating poorer social skill.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Social Responses</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>The SRS-2 is designed to measure various dimensions of interpersonal behavior, communication, and repetitive/stereotypic behavior associated with autism occurring in natural social settings (Constantino &amp; Gruber, 2012). The SRS-2 is comprised of 65 items which are rated on a 4-point Likert scale, ranging from 1 = not true, to 4 = almost always true. Higher scores reflect a greater degree of social impairment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Parental Stress</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>The SIPA is a 112-item measure assessing stress within the parent-adolescent relationship (Sheras et al., 1998). The first 90 items have response options on a 5-point Likert scale (1 = strongly disagree, 2 = disagree, 3 = not sure, 4 = agree, 5 = strongly agree) and the remaining 22 items are yes (1) /no (0) questions pertaining to stressful life events the respondent may have experienced. Higher scores indicate higher levels of stress.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">26</enrollment>
+  <condition>Autism</condition>
+  <arm_group>
+    <arm_group_label>Magic Camp Session #1</arm_group_label>
+    <description>Children ages 9-18</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Magic Camp Session #2</arm_group_label>
+    <description>Children ages 9-18</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Autism Research</intervention_name>
+    <description>Measuring aspects such as self esteem, social skills, and social anxieties.</description>
+    <arm_group_label>Magic Camp Session #1</arm_group_label>
+    <arm_group_label>Magic Camp Session #2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants will be with other individuals who do not have ASD.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have some form of ASD&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>9 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hon Yuen, PhD</last_name>
+    <phone>205-934-6301</phone>
+    <email>yuen@uab.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UAB Alys Sthepens Center</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hon Yuen, PhD</last_name>
+      <phone>205-934-6301</phone>
+      <email>yuen@uab.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 12, 2021</study_first_posted>
+  <last_update_submitted>April 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Alabama at Birmingham</investigator_affiliation>
+    <investigator_full_name>Hon K. Yuen, PhD</investigator_full_name>
+    <investigator_title>Investigator</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

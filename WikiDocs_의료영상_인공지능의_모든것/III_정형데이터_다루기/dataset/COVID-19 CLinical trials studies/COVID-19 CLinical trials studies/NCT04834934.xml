@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="680">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04834934</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AI-SCoRE</org_study_id>
+    <nct_id>NCT04834934</nct_id>
+  </id_info>
+  <brief_title>Artificial Intelligence - SARS-CoV-2 Risk Evaluation</brief_title>
+  <acronym>AI-SCoRE</acronym>
+  <official_title>Artificial Intelligence - SARS-CoV-2 Risk Evaluation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>IRCCS San Raffaele</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Regione Lombardia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Orobix Srl</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Microsoft Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ASST Bergamo Est</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centro Cardiologico Monzino</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>NVIDIA Corporation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>PORINI Srl</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>IRCCS San Raffaele</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The management of COVID-19 patients in overwhelmed hospital facing the pandemic is a clinical&#xD;
+      challenge.&#xD;
+&#xD;
+      The improvement of decision making may allow a better allocation of available resources and a&#xD;
+      better treatment of patients at higher risk.&#xD;
+&#xD;
+      Chest CT has been widely adopted for COVID-19 pneumonia diagnosis. Several experiences&#xD;
+      documented the capability of Artificial Intelligence to improve and fasten COVID-19 pneumonia&#xD;
+      detection, mainly using chest X-ray.&#xD;
+&#xD;
+      Aim of the present study was to develop and validate an Artificial Intelligence approach&#xD;
+      integrating clinical and imaging data (automatically extracted through the adoption of&#xD;
+      dedicated neural networks) for the creation of a cloud platform capable of performing&#xD;
+      automatic patients risk stratification. Such an approach could be used for triage of COVID-19&#xD;
+      patients in the emergency department, with the aim to improve healthcare personnel&#xD;
+      decision-making and allocation of resources during health emergencies.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 16, 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Actual">September 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Training, testing and validation of an AI platform for predicting Italian first wave Covid-19 patients prognosis.</measure>
+    <time_frame>9 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Validation of the developed AI platform on italian second wave of Covid-19 patients</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 first wave patients</arm_group_label>
+    <description>1700 patients retrospectively enrolled in 15 Italian hospitals from 16/2/2020 to 29/4/2020.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 second wave patients</arm_group_label>
+    <description>300 patients prospectively enrolled in IRCCS San Raffaele Hospital from 19/10/2020 to 31/12/2020.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with confirmed SARS-CoV-2 infection with RT-PCR who performed non contrast chest&#xD;
+        CT scan within 72 hours after admission to the emergency department&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  confirmed SARS-CoV-2 infection with RT-PCR&#xD;
+&#xD;
+          -  non contrast chest CT scan performed within 72 hours after admission to the emergency&#xD;
+             department&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  age &lt; 18 ys&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Antonio Esposito, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>IRCCS San Raffaele</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Antonio Esposito, MD</last_name>
+    <phone>+390226436102</phone>
+    <email>esposito.antonio@unisr.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Carlo Tacchetti, MD</last_name>
+    <email>tacchetti.carlo@hsr.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>IRCCS San Raffaele</name>
+      <address>
+        <city>Milano</city>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antonio Esposito</last_name>
+      <email>esposito.antonio@unisr.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Emanuel EJ, Persad G, Upshur R, Thome B, Parker M, Glickman A, Zhang C, Boyle C, Smith M, Phillips JP. Fair Allocation of Scarce Medical Resources in the Time of Covid-19. N Engl J Med. 2020 May 21;382(21):2049-2055. doi: 10.1056/NEJMsb2005114. Epub 2020 Mar 23.</citation>
+    <PMID>32202722</PMID>
+  </reference>
+  <reference>
+    <citation>Ciceri F, Castagna A, Rovere-Querini P, De Cobelli F, Ruggeri A, Galli L, Conte C, De Lorenzo R, Poli A, Ambrosio A, Signorelli C, Bossi E, Fazio M, Tresoldi C, Colombo S, Monti G, Fominskiy E, Franchini S, Spessot M, Martinenghi C, Carlucci M, Beretta L, Scandroglio AM, Clementi M, Locatelli M, Tresoldi M, Scarpellini P, Martino G, Bosi E, Dagna L, Lazzarin A, Landoni G, Zangrillo A. Early predictors of clinical outcomes of COVID-19 outbreak in Milan, Italy. Clin Immunol. 2020 Aug;217:108509. doi: 10.1016/j.clim.2020.108509. Epub 2020 Jun 12.</citation>
+    <PMID>32535188</PMID>
+  </reference>
+  <reference>
+    <citation>Patel D, Kher V, Desai B, Lei X, Cen S, Nanda N, Gholamrezanezhad A, Duddalwar V, Varghese B, Oberai AA. Machine learning based predictors for COVID-19 disease severity. Sci Rep. 2021 Feb 25;11(1):4673. doi: 10.1038/s41598-021-83967-7.</citation>
+    <PMID>33633145</PMID>
+  </reference>
+  <reference>
+    <citation>Palmisano A, Scotti GM, Ippolito D, Morelli MJ, Vignale D, Gandola D, Sironi S, De Cobelli F, Ferrante L, Spessot M, Tonon G, Tacchetti C, Esposito A. Chest CT in the emergency department for suspected COVID-19 pneumonia. Radiol Med. 2021 Mar;126(3):498-502. doi: 10.1007/s11547-020-01302-y. Epub 2020 Nov 9.</citation>
+    <PMID>33165767</PMID>
+  </reference>
+  <reference>
+    <citation>Park JH, Lee SG, Ahn S, Kim JY, Song J, Moon S, Cho H. Strategies to prevent COVID-19 transmission in the emergency department of a regional base hospital in Korea: From index patient until pandemic declaration. Am J Emerg Med. 2020 Jul 24. pii: S0735-6757(20)30651-3. doi: 10.1016/j.ajem.2020.07.056. [Epub ahead of print]</citation>
+    <PMID>33059986</PMID>
+  </reference>
+  <reference>
+    <citation>Ai T, Yang Z, Hou H, Zhan C, Chen C, Lv W, Tao Q, Sun Z, Xia L. Correlation of Chest CT and RT-PCR Testing for Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases. Radiology. 2020 Aug;296(2):E32-E40. doi: 10.1148/radiol.2020200642. Epub 2020 Feb 26.</citation>
+    <PMID>32101510</PMID>
+  </reference>
+  <reference>
+    <citation>Wehbe RM, Sheng J, Dutta S, Chai S, Dravid A, Barutcu S, Wu Y, Cantrell DR, Xiao N, Allen BD, MacNealy GA, Savas H, Agrawal R, Parekh N, Katsaggelos AK. DeepCOVID-XR: An Artificial Intelligence Algorithm to Detect COVID-19 on Chest Radiographs Trained and Tested on a Large U.S. Clinical Data Set. Radiology. 2021 Apr;299(1):E167-E176. doi: 10.1148/radiol.2020203511. Epub 2020 Nov 24.</citation>
+    <PMID>33231531</PMID>
+  </reference>
+  <reference>
+    <citation>Schalekamp S, Huisman M, van Dijk RA, Boomsma MF, Freire Jorge PJ, de Boer WS, Herder GJM, Bonarius M, Groot OA, Jong E, Schreuder A, Schaefer-Prokop CM. Model-based Prediction of Critical Illness in Hospitalized Patients with COVID-19. Radiology. 2021 Jan;298(1):E46-E54. doi: 10.1148/radiol.2020202723. Epub 2020 Aug 13.</citation>
+    <PMID>32787701</PMID>
+  </reference>
+  <reference>
+    <citation>Cheng FY, Joshi H, Tandon P, Freeman R, Reich DL, Mazumdar M, Kohli-Seth R, Levin M, Timsina P, Kia A. Using Machine Learning to Predict ICU Transfer in Hospitalized COVID-19 Patients. J Clin Med. 2020 Jun 1;9(6). pii: E1668. doi: 10.3390/jcm9061668.</citation>
+    <PMID>32492874</PMID>
+  </reference>
+  <reference>
+    <citation>Liang W, Yao J, Chen A, Lv Q, Zanin M, Liu J, Wong S, Li Y, Lu J, Liang H, Chen G, Guo H, Guo J, Zhou R, Ou L, Zhou N, Chen H, Yang F, Han X, Huan W, Tang W, Guan W, Chen Z, Zhao Y, Sang L, Xu Y, Wang W, Li S, Lu L, Zhang N, Zhong N, Huang J, He J. Early triage of critically ill COVID-19 patients using deep learning. Nat Commun. 2020 Jul 15;11(1):3543. doi: 10.1038/s41467-020-17280-8.</citation>
+    <PMID>32669540</PMID>
+  </reference>
+  <reference>
+    <citation>Monaco CG, Zaottini F, Schiaffino S, Villa A, Della Pepa G, Carbonaro LA, Menicagli L, Cozzi A, Carriero S, Arpaia F, Di Leo G, Astengo D, Rosenberg I, Sardanelli F. Chest x-ray severity score in COVID-19 patients on emergency department admission: a two-centre study. Eur Radiol Exp. 2020 Dec 15;4(1):68. doi: 10.1186/s41747-020-00195-w.</citation>
+    <PMID>33319321</PMID>
+  </reference>
+  <reference>
+    <citation>Wong HYF, Lam HYS, Fong AH, Leung ST, Chin TW, Lo CSY, Lui MM, Lee JCY, Chiu KW, Chung TW, Lee EYP, Wan EYF, Hung IFN, Lam TPW, Kuo MD, Ng MY. Frequency and Distribution of Chest Radiographic Findings in Patients Positive for COVID-19. Radiology. 2020 Aug;296(2):E72-E78. doi: 10.1148/radiol.2020201160. Epub 2020 Mar 27.</citation>
+    <PMID>32216717</PMID>
+  </reference>
+  <reference>
+    <citation>Chorath A, Choi Y, Turkbey EB, Ahlman MA, Sibley CT, Liu S, Bluemke DA, Sandfort V. Coronary CT Angiography and Carotid MRI Improve Phenotyping of Disease Extent Compared with ACC/AHA Risk Score Alone. Radiol Cardiothorac Imaging. 2020 Feb 27;2(1):e190068. doi: 10.1148/ryct.2020190068.</citation>
+    <PMID>32715300</PMID>
+  </reference>
+  <reference>
+    <citation>Neri E, Miele V, Coppola F, Grassi R. Use of CT and artificial intelligence in suspected or COVID-19 positive patients: statement of the Italian Society of Medical and Interventional Radiology. Radiol Med. 2020 May;125(5):505-508. doi: 10.1007/s11547-020-01197-9. Epub 2020 Apr 29.</citation>
+    <PMID>32350794</PMID>
+  </reference>
+  <reference>
+    <citation>Bai HX, Wang R, Xiong Z, Hsieh B, Chang K, Halsey K, Tran TML, Choi JW, Wang DC, Shi LB, Mei J, Jiang XL, Pan I, Zeng QH, Hu PF, Li YH, Fu FX, Huang RY, Sebro R, Yu QZ, Atalay MK, Liao WH. Artificial Intelligence Augmentation of Radiologist Performance in Distinguishing COVID-19 from Pneumonia of Other Origin at Chest CT. Radiology. 2020 Sep;296(3):E156-E165. doi: 10.1148/radiol.2020201491. Epub 2020 Apr 27. Erratum in: Radiology. 2021 Apr;299(1):E225.</citation>
+    <PMID>32339081</PMID>
+  </reference>
+  <reference>
+    <citation>Li L, Qin L, Xu Z, Yin Y, Wang X, Kong B, Bai J, Lu Y, Fang Z, Song Q, Cao K, Liu D, Wang G, Xu Q, Fang X, Zhang S, Xia J, Xia J. Using Artificial Intelligence to Detect COVID-19 and Community-acquired Pneumonia Based on Pulmonary CT: Evaluation of the Diagnostic Accuracy. Radiology. 2020 Aug;296(2):E65-E71. doi: 10.1148/radiol.2020200905. Epub 2020 Mar 19.</citation>
+    <PMID>32191588</PMID>
+  </reference>
+  <reference>
+    <citation>Giannini F, Toselli M, Palmisano A, Cereda A, Vignale D, Leone R, Nicoletti V, Gnasso C, Monello A, Manfrini M, Khokhar A, Sticchi A, Biagi A, Turchio P, Tacchetti C, Landoni G, Boccia E, Campo G, Scoccia A, Ponticelli F, Danzi GB, Loffi M, Muri M, Pontone G, Andreini D, Mancini EM, Casella G, Iannopollo G, Nannini T, Ippolito D, Bellani G, Franzesi CT, Patelli G, Besana F, Costa C, Vignali L, Benatti G, Sverzellati N, Scarnecchia E, Lombardo FP, Anastasio F, Iannaccone M, Vaudano PG, Pacielli A, Baffoni L, Gardi I, Cesini E, Sperandio M, Micossi C, De Carlini CC, Spreafico C, Maggiolini S, Bonaffini PA, Iacovoni A, Sironi S, Senni M, Fominskiy E, De Cobelli F, Maggioni AP, Rapezzi C, Ferrari R, Colombo A, Esposito A. Coronary and total thoracic calcium scores predict mortality and provides pathophysiologic insights in COVID-19 patients. J Cardiovasc Comput Tomogr. 2021 Mar 11. pii: S1934-5925(21)00032-0. doi: 10.1016/j.jcct.2021.03.003. [Epub ahead of print]</citation>
+    <PMID>33744175</PMID>
+  </reference>
+  <reference>
+    <citation>Esposito A, Palmisano A, Toselli M, Vignale D, Cereda A, Rancoita PMV, Leone R, Nicoletti V, Gnasso C, Monello A, Biagi A, Turchio P, Landoni G, Gallone G, Monti G, Casella G, Iannopollo G, Nannini T, Patelli G, Di Mare L, Loffi M, Sergio P, Ippolito D, Sironi S, Pontone G, Andreini D, Mancini EM, Di Serio C, De Cobelli F, Ciceri F, Zangrillo A, Colombo A, Tacchetti C, Giannini F. Chest CT-derived pulmonary artery enlargement at the admission predicts overall survival in COVID-19 patients: insight from 1461 consecutive patients in Italy. Eur Radiol. 2020 Dec 23. doi: 10.1007/s00330-020-07622-x. [Epub ahead of print]</citation>
+    <PMID>33355697</PMID>
+  </reference>
+  <reference>
+    <citation>Ufuk F, Demirci M, Sagtas E, Akbudak IH, Ugurlu E, Sari T. The prognostic value of pneumonia severity score and pectoralis muscle Area on chest CT in adult COVID-19 patients. Eur J Radiol. 2020 Oct;131:109271. doi: 10.1016/j.ejrad.2020.109271. Epub 2020 Sep 9.</citation>
+    <PMID>32942198</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>IRCCS San Raffaele</investigator_affiliation>
+    <investigator_full_name>Antonio Esposito</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Artificial Intelligence</keyword>
+  <keyword>Covid19</keyword>
+  <keyword>Chest CT</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

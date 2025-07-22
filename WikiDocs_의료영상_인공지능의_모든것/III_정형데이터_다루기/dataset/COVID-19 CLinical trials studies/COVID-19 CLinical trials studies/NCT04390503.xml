@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="528">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04390503</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AAAT0052</org_study_id>
+    <nct_id>NCT04390503</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma for Early Treatment of COVID-19</brief_title>
+  <official_title>A Phase 2 Randomized, Double-blinded Trial to Evaluate the Efficacy and Safety of Human Anti-SARS-CoV-2 Plasma for Early Treatment of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Andrew Eisenberger</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Columbia University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a double-blinded, randomized control trial to assess the efficacy and safety of&#xD;
+      anti-SARS-CoV-2 convalescent plasma as early treatment. Participants will be randomized 2:1&#xD;
+      to receive either convalescent plasma qualitatively positive for SARS-CoV-2 antibody&#xD;
+      (&quot;anti-SARS-CoV-2 plasma&quot;) or control (albumin 5%). This study will investigate the potential&#xD;
+      of convalescent plasma (CP) to reduce severity of and/or help treat SARS-CoV-2 disease in&#xD;
+      patients with mild disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There are no approved therapies for Coronavirus disease 2019 (COVID-19), also known as severe&#xD;
+      acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Exposure to viruses results in an&#xD;
+      adaptive immune response that commonly include antibodies with neutralization activity.&#xD;
+      Plasma from subjects who have recovered from viral infections has been used to both prevent&#xD;
+      or treat disease. Notable examples of the successful use of convalescent plasma (CP) include&#xD;
+      influenza, measles, Argentine hemorrhagic fever, Middle East respiratory syndrome (MERS),&#xD;
+      Ebola and severe acute respiratory syndrome (SARS). In recent work in China, an open label&#xD;
+      safety trial of CP in patients with COVID-19 suggested a substantive benefit.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">April 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A total of 150 eligible subjects will be randomized in a 2:1 ratio to receive either convalescent plasma qualitatively positive for SARS-CoV-2 antibody (anti-SARS-CoV-2 plasma) or control (albumin 5%)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of Severe Disease</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>The efficacy of treatment will be determined by rating disease severity on Day 28, or last rating evaluated, using a seven-category severity scale.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of measurable anti-SARS-CoV-2 titers</measure>
+    <time_frame>Up to 90 days</time_frame>
+    <description>To compare the rate of measurable anti-SARS-CoV-2 titers between recipients of CP (anti-SARS-CoV-2 plasma) versus control (albumin 5%).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of SARS-CoV-2 PCR Positivity</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Compare the rates of SARS-CoV-2 PCR positivity (RT PCR) amongst the anti-SARS-CoV-2 convalescent plasma and control (albumin 5%).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of SARS-CoV-2 PCR Positivity</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Compare the duration of SARS-CoV-2 PCR positivity (RT PCR) amongst the anti-SARS-CoV-2 convalescent plasma and control (albumin 5%).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Levels of SARS-CoV-2 RNA</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Compare the levels of SARS-CoV-2 RNA between the recipients of antiSARS-CoV-2 plasma and control (albumin 5%)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>SARS-CoV 2</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Convalescent Plasma (anti-SARS-CoV-2 plasma)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to the experimental arm will receive 2 units (approximately 200 to 250 mL per unit, total 400-500mL) of convalescent plasma that was collected from a volunteer who recovered from COVID-19 disease.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control (albumin 5%)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants randomized to the control arm will receive 2 units of 250 mL (500mL total) of albumin (human) 5% infusion. The albumin will be prepared in bags that are identical to the bags used for plasma. The similar appearance of albumin and plasma will facilitate maintaining the blinded status of subjects and most of the study staff.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent Plasma (anti-SARS-CoV-2 plasma)</intervention_name>
+    <description>Convalescent Plasma that contains antibody titers against SARS-CoV-2.</description>
+    <arm_group_label>Convalescent Plasma (anti-SARS-CoV-2 plasma)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Control (albumin 5%)</intervention_name>
+    <description>Albumin (Human) 5% is a sterile aqueous solution for intravenous use containing the albumin component human plasma.</description>
+    <arm_group_label>Control (albumin 5%)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects must be 18 years of age or older&#xD;
+&#xD;
+          -  Recent close contact with a person with COVID-19, i.e. last close contact occurred&#xD;
+             within 7 days of anticipated infusion of study product. It is anticipated that most&#xD;
+             contacts will be household contacts with extensive interaction. All must meet the CDC&#xD;
+             criteria for close contacts. This includes healthcare workers at higher risk of&#xD;
+             developing severe disease.&#xD;
+&#xD;
+        OR&#xD;
+&#xD;
+          -  Recent self-reported or documented evidence of infection by nasal swab PCR that is&#xD;
+             positive for SARS-CoV-2, i.e., nasal sample was collected within 7 days or 10 days of&#xD;
+             anticipated infusion of study product for those who are asymptomatic or symptomatic,&#xD;
+             respectively.&#xD;
+&#xD;
+          -  Evidence of infection by nasal swab PCR that is positive for SARS-CoV-2 at screening&#xD;
+             visit.&#xD;
+&#xD;
+          -  May or may not be hospitalized.&#xD;
+&#xD;
+          -  No symptoms or no more than 5 days of mild symptoms at the time of screening. Mild&#xD;
+             symptoms (rated by participant as mild and not interfering with normal daily&#xD;
+             activities) may include:&#xD;
+&#xD;
+               -  Mild rhinorrhea&#xD;
+&#xD;
+               -  Mild sore throat or throat irritation&#xD;
+&#xD;
+               -  Mild nonproductive cough&#xD;
+&#xD;
+               -  Mild fatigue (able to perform Activities of Daily Living (ADLs))&#xD;
+&#xD;
+          -  Risk for severe COVID-19 based on a risk score of ≥ 1 Calculated Risk Score of ≥ 1&#xD;
+             point, with risk factors based on Center for Disease Control and Prevention (CDC)&#xD;
+             description&#xD;
+&#xD;
+               -  Age 65-74: 1 point&#xD;
+&#xD;
+               -  Age ≥ 75: 2 points&#xD;
+&#xD;
+               -  Known cardiovascular disease (including hypertension): 1 point&#xD;
+&#xD;
+               -  Diabetes mellitus: 1 point&#xD;
+&#xD;
+               -  Pulmonary disease (COPD, moderate to severe asthma, current smoking or other): 1&#xD;
+                  point&#xD;
+&#xD;
+               -  Morbid obesity: 1 point&#xD;
+&#xD;
+               -  Immunocompromised state: 1 point Received a bone marrow or solid organ transplant&#xD;
+                  at any time, received chemotherapy for a malignancy within the past 6 months, has&#xD;
+                  an acquired or congenital immunodeficiency, currently receiving immunosuppressive&#xD;
+                  or immune modulating medications, HIV with non-suppressed viral load and/or&#xD;
+                  cluster of differentiation 4 (CD4+) T cell count &lt;200 cells/mL).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Receipt of any blood product in past 120 days.&#xD;
+&#xD;
+          -  Psychiatric or cognitive illness or recreational drug/alcohol use that in the opinion&#xD;
+             of the principal investigator, would affect subject safety and/or compliance.&#xD;
+&#xD;
+          -  Confirmed or self-reported presumed COVID-19, with symptoms that began more than 5&#xD;
+             days prior to enrollment, and SARS-CoV-2 PCR positive sample that was collected more&#xD;
+             than 7 days prior to anticipated infusion for an asymptomatic participant or more than&#xD;
+             10 days prior to anticipated infusion for a patient with mild symptoms at screening.&#xD;
+&#xD;
+          -  Symptoms consistent with COVID---19 infection that are more than mild (as defined&#xD;
+             above) at time of screening.&#xD;
+&#xD;
+          -  Symptoms consistent with COVID---19 infection that are more than mild at time of&#xD;
+             screening.&#xD;
+&#xD;
+          -  History of allergic reaction to transfusion blood products&#xD;
+&#xD;
+          -  Inability to complete infusion of the product within 48 hours after randomization.&#xD;
+&#xD;
+          -  Resident of a long term or skilled nursing facility&#xD;
+&#xD;
+          -  Known prior diagnosis of immunoglobulin A (IgA) deficiency&#xD;
+&#xD;
+          -  Oxygen saturation that is &lt; 95% at the screening visit&#xD;
+&#xD;
+          -  On supplemental oxygen at time of enrollment&#xD;
+&#xD;
+          -  Participation in another clinical trial of anti-viral agent(s) for COVID-19&#xD;
+&#xD;
+          -  Receipt of any COVID-19 vaccine, either as part of a clinical research trial or&#xD;
+             through routine service delivery.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jessica Justman, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jessica Justman, MD</last_name>
+    <phone>212-342-0537</phone>
+    <email>jj2158@cumc.columbia.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jennifer Zech, MSc</last_name>
+    <phone>212-304-5506</phone>
+    <email>jz2973@cumc.columbia.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>National Institute of Infectious Diseases Evandro Chagas (INI)</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <zip>21040-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Beatriz Grinsztejn, MD, PhD</last_name>
+      <email>gbeatriz@ini.fiocruz.br</email>
+    </contact>
+    <investigator>
+      <last_name>Beatriz Grinsztejn, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <removed_countries>
+    <country>United States</country>
+  </removed_countries>
+  <reference>
+    <citation>Arabi YM, Hajeer AH, Luke T, Raviprakash K, Balkhy H, Johani S, Al-Dawood A, Al-Qahtani S, Al-Omari A, Al-Hameed F, Hayden FG, Fowler R, Bouchama A, Shindo N, Al-Khairy K, Carson G, Taha Y, Sadat M, Alahmadi M. Feasibility of Using Convalescent Plasma Immunotherapy for MERS-CoV Infection, Saudi Arabia. Emerg Infect Dis. 2016 Sep;22(9):1554-61. doi: 10.3201/eid2209.151164.</citation>
+    <PMID>27532807</PMID>
+  </reference>
+  <reference>
+    <citation>Casadevall A, Dadachova E, Pirofski LA. Passive antibody therapy for infectious diseases. Nat Rev Microbiol. 2004 Sep;2(9):695-703. Review.</citation>
+    <PMID>15372080</PMID>
+  </reference>
+  <reference>
+    <citation>Casadevall A, Pirofski LA. Antibody-mediated regulation of cellular immunity and the inflammatory response. Trends Immunol. 2003 Sep;24(9):474-8. Review.</citation>
+    <PMID>12967670</PMID>
+  </reference>
+  <reference>
+    <citation>Casadevall A, Scharff MD. Serum therapy revisited: animal models of infection and development of passive antibody therapy. Antimicrob Agents Chemother. 1994 Aug;38(8):1695-702. Review.</citation>
+    <PMID>7985997</PMID>
+  </reference>
+  <reference>
+    <citation>Cheng Y, Wong R, Soo YO, Wong WS, Lee CK, Ng MH, Chan P, Wong KC, Leung CB, Cheng G. Use of convalescent plasma therapy in SARS patients in Hong Kong. Eur J Clin Microbiol Infect Dis. 2005 Jan;24(1):44-6.</citation>
+    <PMID>15616839</PMID>
+  </reference>
+  <reference>
+    <citation>Crowe JE Jr, Firestone CY, Murphy BR. Passively acquired antibodies suppress humoral but not cell-mediated immunity in mice immunized with live attenuated respiratory syncytial virus vaccines. J Immunol. 2001 Oct 1;167(7):3910-8.</citation>
+    <PMID>11564809</PMID>
+  </reference>
+  <reference>
+    <citation>Gunn BM, Yu WH, Karim MM, Brannan JM, Herbert AS, Wec AZ, Halfmann PJ, Fusco ML, Schendel SL, Gangavarapu K, Krause T, Qiu X, He S, Das J, Suscovich TJ, Lai J, Chandran K, Zeitlin L, Crowe JE Jr, Lauffenburger D, Kawaoka Y, Kobinger GP, Andersen KG, Dye JM, Saphire EO, Alter G. A Role for Fc Function in Therapeutic Monoclonal Antibody-Mediated Protection against Ebola Virus. Cell Host Microbe. 2018 Aug 8;24(2):221-233.e5. doi: 10.1016/j.chom.2018.07.009.</citation>
+    <PMID>30092199</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>May 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 15, 2020</study_first_posted>
+  <last_update_submitted>March 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Columbia University</investigator_affiliation>
+    <investigator_full_name>Andrew Eisenberger</investigator_full_name>
+    <investigator_title>Associate Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Coronavirus</keyword>
+  <keyword>COVID</keyword>
+  <keyword>Convalescent Plasma</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

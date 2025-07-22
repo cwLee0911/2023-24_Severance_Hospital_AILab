@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2195">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04844710</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KET-845/UN2.F1/ ETIK/PPM.2020</org_study_id>
+    <nct_id>NCT04844710</nct_id>
+  </id_info>
+  <brief_title>The Effects of Acupuncture in Overcoming Inflammatory Response to COVID-19 Mild-moderate Symptoms</brief_title>
+  <official_title>The Effects of Combined Treatment of Acupuncture Intervention &amp; Standard of Care on Laboratory and Clinical Outcomes in Hospitalized COVID-19 Patients With Mild-Moderate Symptoms</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indonesia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Indonesia University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19) is a problem that is being faced in more than 200&#xD;
+      countries in the world, including Indonesia. The World Health Organization (WHO) has declared&#xD;
+      the COVID-19 outbreak as a pandemic. The transmission of the virus occurred rapidly that 2&#xD;
+      weeks from the first case diagnosed, 1000 patients tested positive. A week later, the number&#xD;
+      of positive cases exceeded 4600, reaching more than 30,000 patients and 2,500 deaths on March&#xD;
+      18, 2020. The death rate due to COVID-19 in Indonesia is one of the highest in Asia.&#xD;
+&#xD;
+      To date, no therapy has been shown to be effective for Coronavirus (SARS-CoV-2). A vaccine&#xD;
+      for SARS-CoV-2 also has not been found at this time and is in the research phase. Current&#xD;
+      management of COVID-19 patients focuses primarily on providing supportive care. Currently,&#xD;
+      several countries make treatment guidelines for COVID-19 patients by providing several types&#xD;
+      of anti-viral drugs and other drugs such as chloroquine or hydroxychloroquine,&#xD;
+      immunoglobulins, anti-cytokine agents or immunomodulators.&#xD;
+&#xD;
+      The administration of these drugs does not escape the various side effects experienced by&#xD;
+      patients. Administration of chloroquine or hydroxychloroquine carries the risk of causing&#xD;
+      prolonged QT interval which can lead to arrhytmia disturbances such as torsades des pointes&#xD;
+      in certain people. Administration of chloroquine or hydroxychloroquine in combination with&#xD;
+      azithromycin increases the risk of developing arrhythmias. Giving anti-viruses such as&#xD;
+      lopinavir / ritonavir, umifenovir, remdesivir, favipiravir can also cause various side&#xD;
+      effects including gastrointestinal disturbances (nausea, vomiting, diarrhea), impaired liver&#xD;
+      function, and hyperuricaemia. Treatment with human immunoglobulins has been associated with a&#xD;
+      significantly increased risk of thrombotic events.&#xD;
+&#xD;
+      Currently, no acupuncture research on COVID-19 patients has been published. However,&#xD;
+      acupuncture can play a role in several conditions that occur in COVID-19 according to the&#xD;
+      pathophysiology that occurs, this has been proven through several clinical studies conducted&#xD;
+      on non-COVID-19 cases that have pathophysiology that resemble COVID-19 conditions. In&#xD;
+      COVID-19 with mild-moderate symptoms, acupuncture can play a role in boosting the immune&#xD;
+      system, including increasing the number of Natural Killer cells and lymphocytes. Whereas in&#xD;
+      cases of severe COVID-19 symptoms, it is hoped that acupuncture can provide anti-inflammatory&#xD;
+      effect and prevent cytokine storm.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 1, 2020</start_date>
+  <completion_date type="Actual">November 20, 2020</completion_date>
+  <primary_completion_date type="Actual">November 15, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes of percentage of lymphocyte count</measure>
+    <time_frame>before treatment and after 2 weeks of treatment</time_frame>
+    <description>Changes of percentage of lymphocyte count (diff count) between before treatment and after 2 weeks of treatment (after sixth acupuncture session given)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes of Erythrocyte sedimentation rate</measure>
+    <time_frame>before treatment and after 2 weeks of treatment</time_frame>
+    <description>Changes of Erythrocyte sedimentation rate between before treatment and after 2 weeks of treatment (after sixth acupuncture session given)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes of Ferritin level</measure>
+    <time_frame>before treatment and after 2 weeks of treatment</time_frame>
+    <description>Changes of Ferritin level between before treatment and after 2 weeks of treatment (after sixth acupuncture session given)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes of C-Reactive Protein level</measure>
+    <time_frame>before treatment and after 2 weeks of treatment</time_frame>
+    <description>Changes of C-reactive protein level between before treatment and after 2 weeks of treatment (after sixth acupuncture session given)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical changes</measure>
+    <time_frame>before treatment and after 2 weeks of treatment</time_frame>
+    <description>duration of cough and fever during the patients are hospitalized</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">22</enrollment>
+  <condition>Acupuncture</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Manual acupuncture and standard care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Standard care only</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>acupuncture and standard care</intervention_name>
+    <description>manual acupuncture in acupoint LI4, LI11, ST36 every 2 days for 6 times standard care</description>
+    <arm_group_label>Treatment</arm_group_label>
+    <other_name>Combined Treatment of Acupuncture Intervention and Standard of Care</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>standard care</intervention_name>
+    <description>standard care only</description>
+    <arm_group_label>Control</arm_group_label>
+    <other_name>standard of care COVID-19</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female patients over 18 years of age, COVID-19 confirmed by RT-PCR with&#xD;
+             mild-moderate symptoms&#xD;
+&#xD;
+          -  Willing to participate in research.&#xD;
+&#xD;
+          -  Willing to follow the research process to completion.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  The patient has contraindications to acupuncture (medical emergencies, pregnancy,&#xD;
+             malignancy, blood clotting disorders and consumption of anti-coagulant drugs).&#xD;
+&#xD;
+          -  Patients with myeloproliferative disorders.&#xD;
+&#xD;
+          -  There is a tumor or infection in the area where the acupuncture point is inserted.&#xD;
+&#xD;
+          -  Patients with a history of uncontrolled Diabetes Mellitus with random blood sugar&#xD;
+             levels &gt; 200 mg / dL&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dwi Rachma Helianthi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Indonesia University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Medical Acupuncture Department FKUI-RSCM</name>
+      <address>
+        <city>Jakarta</city>
+        <zip>10430</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Indonesia</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indonesia University</investigator_affiliation>
+    <investigator_full_name>dr. Dwi Rachma Helianthi, Sp.Ak</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

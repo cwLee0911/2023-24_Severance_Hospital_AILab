@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1999">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04834401</url>
+  </required_header>
+  <id_info>
+    <org_study_id>US-TYS-11909</org_study_id>
+    <nct_id>NCT04834401</nct_id>
+  </id_info>
+  <brief_title>Effect of Disease Modifying Therapy on Antibody Response to COVID19 Vaccination in Multiple Sclerosis</brief_title>
+  <official_title>Evaluating the Effect of Disease Modifying Therapy on Antibody Response to COVID19 Vaccination in People With Multiple Sclerosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>St. Barnabas Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>St. Barnabas Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This observational study is intended to evaluate the effect of disease modifying therapies on&#xD;
+      antibody responses to the mRNA-1273 vaccine (Moderna) for COVID-19. We hypothesize that the&#xD;
+      use of certain disease modifying therapies, particularly ocrelizumab, will mute and/or&#xD;
+      shorten the duration of humoral response to mRNA vaccines.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 is a potentially fatal respiratory illness, caused by the novel coronavirus,&#xD;
+      SARS-CoV-2, which developed into a pandemic claiming the lives of over 500,000 people in the&#xD;
+      United States and over 2.5 million worldwide. Antibodies against the spike glycoprotein are&#xD;
+      believed to confer immunity to SARS-CoV-2. Multiple sclerosis (MS) is an autoimmune disease&#xD;
+      of the central nervous system, which is typically treated with immunomodulating medications,&#xD;
+      referred to as disease modifying therapies (DMTs). Some DMTs resulted in a diminished&#xD;
+      capacity to develop antibodies against natural infection with SARS-CoV-2. This study is&#xD;
+      designed to evaluate and compare the effect of DMTs on antibody response to mRNA vaccines for&#xD;
+      COVID-19. Serum samples will be collected from 30 participants per treatment arm at 8 weeks,&#xD;
+      24 weeks, 48 weeks, and 72 weeks following vaccination with mRNA-1273. Geometric mean titers&#xD;
+      of anti-SARS-CoV-2 spike IgG will be measured to evaluate and compare peak antibody titers,&#xD;
+      as well as the duration of antibody response. The results will likely impact clinical&#xD;
+      decision-making, and guide treatment strategies for safely managing MS during the ongoing&#xD;
+      pandemic.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 22, 2021</start_date>
+  <completion_date type="Anticipated">April 15, 2023</completion_date>
+  <primary_completion_date type="Anticipated">February 15, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Geometric mean titers (GMT) of anti-SARS-CoV-2 spike IgG for each treatment at 8 weeks from initial vaccination dose</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Serum Sample</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with &gt;4 fold increase in anti-SARS-CoV-2 spike IgG between baseline and 8 weeks</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Serum sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with &gt;2 fold increase in anti-SARS-CoV-2 spike IgG between baseline and 8 weeks</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Serum Sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median time from peak to complete absence of anti-SARS-CoV-2 IgG for each treatment arm</measure>
+    <time_frame>18 months</time_frame>
+    <description>Serum Sample</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Proportion of participants with known vaccine-related side effects</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Questionnaire</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>COVID-19 Infections</measure>
+    <time_frame>18 months</time_frame>
+    <description>Number of participants with PCR-confirmed COVID-19 infection following vaccination</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Effect of Duration of DMT use on Humoral Response to mRNA-1273</measure>
+    <time_frame>8 week</time_frame>
+    <description>Correlation between duration of DMT and GMT values for SARS-CoV-2 IgG within each treatment arm</description>
+  </other_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Multiple Sclerosis</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Natalizumab</arm_group_label>
+    <description>Natalizumab (minimum of 6 doses at standard interval)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fumarates</arm_group_label>
+    <description>Fumarates (dimethyl fumarate or diroximel fumarate)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Interferon Beta 1a</arm_group_label>
+    <description>Interferon Beta 1a (or pegylated Interferon Beta-1a)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ocrelizumab</arm_group_label>
+    <description>Ocrelizumab (minimum of 2 full cycles of 600mg)</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Serum will be stored for up to 2 years from enrollment&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants will be identified from the MS Center utilizing the electronic medical record,&#xD;
+        clinic visits or telephone encounters related to COVID-19 vaccination and recruited&#xD;
+        consecutively. Patients who appear to meet eligibility criteria will be contacted by&#xD;
+        research staff and offered informed consent using the Multiple Sclerosis Comprehensive Care&#xD;
+        Center standard protocol. If possible the baseline serum sample will be collected at the&#xD;
+        initial research visit, following the informed consent process.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Men and women aged 18 to 65 years inclusive&#xD;
+&#xD;
+          2. Patients who have signed written informed consent.&#xD;
+&#xD;
+          3. Patients stable on current MS DMT for &gt;6 months including:&#xD;
+&#xD;
+               -  Natalizumab (received a minimum of 6 doses per USPI)&#xD;
+&#xD;
+               -  Fumarates (dimethyl fumarate or diroximel fumarate)&#xD;
+&#xD;
+               -  Interferon Beta 1a (or pegylated Interferon Beta-1a)&#xD;
+&#xD;
+               -  Ocrelizumab (received a minimum of 2 full cycles per USPI)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Known history of SARS-CoV-2 infection&#xD;
+&#xD;
+          2. Is pregnant or breastfeeding&#xD;
+&#xD;
+          3. ≤6 months on current therapy (MS Participants)&#xD;
+&#xD;
+          4. Participation in another investigational study&#xD;
+&#xD;
+          5. Recent immunization with a non-COVID vaccine (within 4 weeks)&#xD;
+&#xD;
+          6. Known or suspected allergy or history of anaphylaxis or other significant adverse&#xD;
+             reaction to the COVID-19 vaccine or its excipients&#xD;
+&#xD;
+          7. Absolute lymphocyte count &lt;0.5 x 10^9/L&#xD;
+&#xD;
+          8. Concurrent Intravenous or Subcutaneous Immunoglobulin treatment (IVIG/SCIG)&#xD;
+&#xD;
+          9. Received systemic corticosteroids &lt; 30 days prior to Vaccine Dose 1&#xD;
+&#xD;
+        Visit and Assessment Schedule:&#xD;
+&#xD;
+        Participants will agree to five visits during the study and serum will be collected at the&#xD;
+        following time points:&#xD;
+&#xD;
+          -  Baseline/Screening visit&#xD;
+&#xD;
+          -  8 weeks after 1st dose/4 weeks after 2nd dose (+/- 1 week)&#xD;
+&#xD;
+          -  24 weeks (+/- 2 weeks)&#xD;
+&#xD;
+          -  48 weeks (+/- 4 weeks)&#xD;
+&#xD;
+          -  72 weeks (+/- 4 weeks)&#xD;
+&#xD;
+        Approximately 20ml of blood will be collected per patient per each visit.&#xD;
+&#xD;
+        Data Collection Plan and Patient Privacy Protection Prior to any testing under this&#xD;
+        protocol, including screening tests and assessments, candidates must also provide all&#xD;
+        authorizations required by local law (e.g., PHI authorization in North America).&#xD;
+&#xD;
+        The subject will not be identified by name in the CRF or in any study reports, and these&#xD;
+        reports will be used for research purposes only. Ethics committees and various government&#xD;
+        health agencies may inspect the records of this study. Every effort will be made to keep&#xD;
+        the subject's personal medical data confidential.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Matthew A Tremblay, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>RWJBarnabas Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Phoebe DelBoccio</last_name>
+    <phone>973-322-7046</phone>
+    <email>phoebe.delboccio@rwjbh.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Saint Barnabas Medical Center</name>
+      <address>
+        <city>Livingston</city>
+        <state>New Jersey</state>
+        <zip>07039</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Phoebe DelBoccio</last_name>
+      <phone>973-322-7046</phone>
+      <email>phoebe.delboccio@rwjbh.org</email>
+    </contact>
+    <investigator>
+      <last_name>Matthew A Tremblay, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2021</study_first_posted>
+  <last_update_submitted>April 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>St. Barnabas Medical Center</investigator_affiliation>
+    <investigator_full_name>Matthew A. Tremblay</investigator_full_name>
+    <investigator_title>Director of Multiple Sclerosis Research</investigator_title>
+  </responsible_party>
+  <keyword>mRNA vaccine</keyword>
+  <keyword>Ocrelizumab</keyword>
+  <keyword>Natalizumab</keyword>
+  <keyword>Dimethyl Fumarate</keyword>
+  <keyword>Diroximel Fumarate</keyword>
+  <keyword>Interferon Beta</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Sclerosis</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

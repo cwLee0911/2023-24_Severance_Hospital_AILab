@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2787">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04747366</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NAPKON-HAP</org_study_id>
+    <nct_id>NCT04747366</nct_id>
+  </id_info>
+  <brief_title>Analysis of the Pathophysiology and Pathology of Coronavirus Disease 2019 (COVID-19), Including Chronic Morbidity</brief_title>
+  <official_title>National Pandemic Cohort Network - High-resolution Platform (HAP) Analysis of the Pathophysiology and Pathology of Coronavirus Disease 2019 (COVID-19), Including Chronic Morbidity</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Charite University, Berlin, Germany</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Network University Medicine NUM</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Berlin Institute of Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Charite University, Berlin, Germany</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      NAPKON-HAP is the deep phenotyping platform of the National Pandemic Cohort Network (NAPKON)&#xD;
+      in Germany. NAPKON is a data and biospecimen collection of patients with COVID-19 and is part&#xD;
+      of the University Medicine Network (NUM) in Germany. The primary objective of the study is to&#xD;
+      provide a comprehensive collection of data and biosamples for researchers from national&#xD;
+      consortia and for participation in international research collaborations for studying&#xD;
+      COVID-19 and future pandemics.&#xD;
+&#xD;
+      Data is collected from patients with COVID-19 three times per week during their&#xD;
+      hospitalization and at follow-up visits after hospital discharge 3, 6, 12, 24, and 36 months&#xD;
+      after symptom onset. Data include epidemiological and demographic parameters, medical history&#xD;
+      and potential risk factors, documentation of routine medical procedures, and clinical course,&#xD;
+      including different patterns of organ involvement, quality of care, morbidity, and quality of&#xD;
+      life. Moreover, extensive serial high-quality bio sampling consisting of various sample types&#xD;
+      is performed to allow deep molecular, immunological, and virological phenotyping.&#xD;
+&#xD;
+      Patients not requiring Intensive Care Unit (ICU)/ Intermediate Care (IMC) treatment will&#xD;
+      receive 7 and patients requiring ICU/IMC treatment will receive 16 full-phenotyping visits&#xD;
+      including sampling for biobanking. During hospitalisation the planned blood sampling rate in&#xD;
+      total is 35 ml at each visit. The total amounts and/or sampling dates may differ according to&#xD;
+      the ethics committee's regulations for different study centers.&#xD;
+&#xD;
+      At follow-up visits, the clinical assessment includes an update of the medical history and&#xD;
+      recent medical events from which additional clinical data is collected (i.e. outpatient&#xD;
+      CT-scans, echocardiography, external laboratory data). Clinical symptoms are recorded and a&#xD;
+      physical examination will be performed. Vital signs are recorded and routine blood testing&#xD;
+      and biosampling is continued. Quality of life is measured with patient-reported outcome&#xD;
+      questionnaires.&#xD;
+&#xD;
+      Follow-up visits at months 3 and 12 are &quot;deep phenotyping&quot; visits with a comprehensive and&#xD;
+      detailed set of examinations. In the following visits at months 24 and 36, only examinations&#xD;
+      with pathologic results from the last deep phenotyping visit at month 12 will be performed.&#xD;
+&#xD;
+      A shorter follow-up visit to record quality of life, recent medical events and with a reduced&#xD;
+      number of examinations focusing on cardiorespiratory performance will take place at month 6.&#xD;
+&#xD;
+      In case of relevant medical events, new medical information or changes in the participant´s&#xD;
+      health status, an unscheduled visit can take place anytime within the entire study period.&#xD;
+&#xD;
+      Data collection during follow up includes standardized quality of life assessment including&#xD;
+      PROMIS® (Patient-Reported Outcomes Measurement Information System). The pulmonary&#xD;
+      characterization will include body plethysmography, diffusion capacity, respiratory muscles&#xD;
+      strength measurement, spiroergometry, capillary blood gas analysis and lung imaging studies&#xD;
+      (low-dose Computed Tomography (CT), Magnetic Resonance Imaging (MRI) of the lung).&#xD;
+      Cardiological phenotyping includes echocardiography, electrocardiogram (ECG), 24h-ECG,&#xD;
+      24h-blood pressure monitoring, stress cardiac MRI and pulse wave analysis. Neurocognitive&#xD;
+      testing includes brain MRI, electroencephalogram (EEG), somatosensory testing, refractometry&#xD;
+      (Visit 3 and 12 months), physical activity test, neurocognitive tests, somatosensory&#xD;
+      phenotyping, taste- and smell-test. Endocrinological phenotyping will incorporate Advanced&#xD;
+      Glycation Endproducts (AGE) reader, continuous glucose monitoring for 14 days, Air&#xD;
+      Displacement Plethysmography (ADP) or bioelectrical impedance analysis (BIA).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 6, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2025</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>36 Months</target_duration>
+  <primary_outcome>
+    <measure>Changes in Patient-reported Quality of life recorded with the help of the European Quality of Life 5 Dimensions 5 Level Version (Eq5d5l) questionnaire</measure>
+    <time_frame>day 1 of enrollment in the study, immediately before discharge, 3, 12, 24 and 36 months after symptom onset</time_frame>
+    <description>Health related quality of life after hospital discharge will be assessed with the questionnaire European Quality of Life 5 Dimensions 5 Level Version (Eq5d5l)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Patient-reported Quality of life recorded with the help of the Short Form Health 36 (Sf36)</measure>
+    <time_frame>day 1 of enrollment in the study, immediately before discharge, 3, 12, 24 and 36 months after symptom onset</time_frame>
+    <description>Health related quality of life after hospital discharge will be assessed with the questionnaire Short Form Health 36 (Sf36)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Patient-reported Quality of life recorded with the help of the Patient-Reported Outcomes Measurement Information System (PROMIS Profile)</measure>
+    <time_frame>day 1 of enrollment in the study, immediately before discharge, 3, 12, 24 and 36 months after symptom onset</time_frame>
+    <description>Health related quality of life after hospital discharge will be assessed with the questionnaire Patient-Reported Outcomes Measurement Information System (PROMIS Profile)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Patient-reported Quality of life recorded with the help of the Neuropathy Questionnaire (Mnsi)</measure>
+    <time_frame>day 1 of enrollment in the study, immediately before discharge, 3, 12, 24 and 36 months after symptom onset</time_frame>
+    <description>Health related quality of life after hospital discharge will be assessed with the questionnaire Neuropathy Questionnaire (Mnsi)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Patient-reported Quality of life recorded with the help of the Trauma Patient Health Questionnaire</measure>
+    <time_frame>day 1 of enrollment in the study, immediately before discharge, 3, 12, 24 and 36 months after symptom onset</time_frame>
+    <description>Health related quality of life after hospital discharge will be assessed with the questionnaire Trauma Patient Health Questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Patient-reported Quality of life recorded with the help of the PTSD (Post-traumatic stress disorder) Checklist for Diagnostic and Statistical Manual of Mental Disorders 5 (PCL-5).</measure>
+    <time_frame>day 1 of enrollment in the study, immediately before discharge, 3, 12, 24 and 36 months after symptom onset</time_frame>
+    <description>Health related quality of life after hospital discharge will be assessed with the PTSD (Post-traumatic stress disorder) Checklist for Diagnostic and Statistical Manual of Mental Disorders 5 (PCL-5). The PTSD Checklist for DSM-5 is a 20-questions self-report measure that assesses the presence and severity of PTSD symptoms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Patient-reported Quality of life recorded with the help of the National Eye Institute Visual Function Questionnaire (NEI-VFQ)</measure>
+    <time_frame>day 1 of enrollment in the study, immediately before discharge, 3, 12, 24 and 36 months after symptom onset</time_frame>
+    <description>Health related quality of life after hospital discharge will be assessed with the questionnaire National Eye Institute Visual Function Questionnaire (NEI-VFQ)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Patient-reported Quality of life recorded with the help of the St. George's Respiratory Questionnaire (SGRQ)</measure>
+    <time_frame>day 1 of enrollment in the study, immediately before discharge, 3, 12, 24 and 36 months after symptom onset</time_frame>
+    <description>Health related quality of life after hospital discharge will be assessed with the questionnaire St. George's Respiratory Questionnaire (SGRQ)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in neruocognitive testing with Cambridge Neuropsychological Test Automated Battery (CANTAB)</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>CANTAB tests can detect changes in neuropsychological performance and include tests of working memory, learning and executive function; visual, verbal and episodic memory; attention, information processing and reaction time; social and emotion recognition, decision making and response control.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in neruocognitive testing with Montreal Cognitive Assessment Test (MOCA)</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>This test is a screening procedure to determine cognitive deficits. Central cognitive functions are examined using 11 task complexes. This includes time and spatial orientation, learning and memory, attention, language and language skills, reading, writing, drawing and calculating (test duration approx. 10 minutes).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in blood pressure measured during spiroergometry testing</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Spiroergometry (spirometry while the participant exercises on a bicycle ergometer) is used to evaluate physical performance and fitness. Using spiroergometry blood pressure is measured during the test and compared with normative values.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in sensomotory testing with the questionnaire for peripheral neuropathy (Michigan Neuropathy Screening Instrument, MNSI)</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>The MNSI will be used to screen patients for peripheral neuropathy.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in sensomotory testing with the questionnaire (painDETECT-questionnaire, pDQ)</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>PainDETECT will be used to screen patients for for neuropathic pain.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Quantitative sensory testing (QST)</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Quantitative sensory testing (QST) is a method for semiquantative evaluation of somatosensory nervous system disorders, including chronic pain and pain related to various diseases. It essentially determines the sensation and pain thresholds for cold and warm temperatures, and the vibration sensation threshold by stimulating the skin and comparing the results to normative values.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Point-of-care neurography</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Point-of-care neuography measures nerve conduction using a point-of-care device (DPNcheck, Neurometrix Inc, USA).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in pulmonary function assessed by body plethysmography</measure>
+    <time_frame>immediately before discharge, at follow-up visits (3, 6 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Body plethysmography will yield information on the static and dynamic lung volumes to assess obstructive and restrictive ventilation patterns.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in pulmonary function assessed by single breath CO (carbon monoxide) diffusion capacity (DLCO)</measure>
+    <time_frame>immediately before discharge, at follow-up visits (3, 6 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>The DLCO test provides a general assessment of the lungs' ability to take up oxygen from the inspiratory air and to release carbon dioxide.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in heart rate measured with ECG (Electrocardiogram) during spiroergometry testing</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Spiroergometry (spirometry while the participant exercises on a bicycle ergometer) is used to evaluate physical performance and fitness. ECG is a test, used to monitor the electrical activity of the heart. Standard placement of 12-lead electrodes will be used. The patient´s heart rate will be assessed longitudinally and compared to normative values.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the oxygen saturation of the blood measured during spiroergometry testing</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Spiroergometry (spirometry while the participant exercises on a bicycle ergometer) is used to evaluate physical performance and fitness. Two blood samples are taken 2 hours apart. The first one is taken before the spiroergometry test and the second one - 120 minutes after the first one. The total concentration of carbon dioxide (ctCO2) of the blood is measured and compared with normative values.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the total concentration of carbon dioxide (ctCO2) of the blood measured during spiroergometry testing</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Spiroergometry (spirometry while the participant exercises on a bicycle ergometer) is used to evaluate physical performance and fitness. The carbon dioxide content of the blood is measured during the test and compared with normative values.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the pH value of the blood measured during spiroergometry testing</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Spiroergometry (spirometry while the participant exercises on a bicycle ergometer) is used to evaluate physical performance and fitness. Two blood samples are taken 2 hours apart. The first one is taken before the spiroergometry test and the second one - 120 minutes after the first one. The pH value of the blood is measured and compared with normative values. The pH value describes how acidic or basic the blood is.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the bicarbonate content of the blood measured during spiroergometry testing</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Spiroergometry (spirometry while the participant exercises on a bicycle ergometer) is used to evaluate physical performance and fitness. Two blood samples are taken 2 hours apart. The first one is taken before the spiroergometry test and the second one - 120 minutes after the first one. The bicarbonate content of the blood is measured and compared with normative values. Bicarbonate is a form of carbon dioxide.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the blood lactate levels during spiroergometry testing</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Spiroergometry (spirometry while the participant exercises on a bicycle ergometer) is used to evaluate physical performance and fitness. Two blood samples are taken 2 hours apart. The first one is taken before the spiroergometry test and the second one - 120 minutes after the first one. The lactate saturation is measured and compared with normative values.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the partial pressure of carbon dioxide (pCO2) of the blood measured during spiroergometry testing</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Spiroergometry (spirometry while the participant exercises on a bicycle ergometer) is used to evaluate physical performance and fitness. Two blood samples are taken 2 hours apart. The first one is taken before the spiroergometry test and the second one - 120 minutes after the first one. The partial pressure of carbon dioxide (pCO2) of the blood is measured and compared with normative values.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in heart rhythm type measured with ECG (Electrocardiogram) during spiroergometry testing</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results</time_frame>
+    <description>Spiroergometry (spirometry while the participant exercises on a bicycle ergometer) is used to evaluate physical performance and fitness. ECG is a test, used to monitor the electrical activity of the heart. Standard placement of 12-lead electrodes will be used. The patient´s heart rhythm will be assessed. Any abnormalities (too slow, too fast, irregular) will be documented and subsequently clinical consequences are being taken.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in time intervals of PQ measured with ECG (Electrocardiogram) during spiroergometry testing</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Spiroergometry (spirometry while the participant exercises on a bicycle ergometer) is used to evaluate physical performance and fitness. ECG is a test, used to monitor the electrical activity of the heart. Standard placement of 12-lead electrodes will be used. The time interval of PQ corresponds to the time interval from the beginning of the P wave to the beginning of the Q wave of the QRS complex. The time interval of PQ gives us information about the time required for the action potential to be transmitted from the atria to the ventricles. The recorded PQ time will be compared to normative values. In case of delayed PQ times, further diagnostic is carried out according to current guidelines.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in time intervals of QRS measured with ECG (Electrocardiogram) during spiroergometry testing</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Spiroergometry (spirometry while the participant exercises on a bicycle ergometer) is used to evaluate physical performance and fitness. ECG is a test, used to monitor the electrical activity of the heart. Standard placement of 12-lead electrodes will be used. The QRS complex is combination of the Q wave, R wave and S wave. The time interval of QRS corresponds to the time needed for ventricular depolarization. The recorded QRS time will be compared to normative values. In case of new diagnosed bundle blocks, further diagnostic is carried out according to current guidelines.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in time intervals of QT measured with ECG (Electrocardiogram) during spiroergometry testing</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Spiroergometry (spirometry while the participant exercises on a bicycle ergometer) is used to evaluate physical performance and fitness. ECG is a test, used to monitor the electrical activity of the heart. Standard placement of 12-lead electrodes will be used. The time interval of QT corresponds to the time interval from the beginning of the Q wave to the end of the T wave. The time interval of QT gives us information about the time required for ventricular depolarisation and repolarisation. The recorded QT time will be compared to normative values. In case of abnormal QT times, further diagnostic is carried out according to current guidelines.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Deviations in the ST segment depicted with the use of ECG (Electrocardiogram) during spiroergometry testing</measure>
+    <time_frame>at follow-up visits (3 and 12 months after symptom onset and 24 and 36 months after symptom onset (only in case of abnormal results)</time_frame>
+    <description>Spiroergometry (spirometry while the participant exercises on a bicycle ergometer) is used to evaluate physical performance and fitness. ECG is a test, used to monitor the electrical activity of the heart. Standard placement of 12-lead electrodes will be used. The ST-segment is a section between the end of the S wave and the beginning of the T wave and reflects the depolarized state and initial repolarization of the ventricles. Deviations in the ST segment (elevation or depression) will be documented. In case of ST segment elevation or depression, further diagnostic is carried out according to current guidelines.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in body temperature</measure>
+    <time_frame>every day during hospitalisation (from date of admission in trial until date of discharge or date of death, assessed up to 100 weeks</time_frame>
+    <description>Assessment of the patient´s body temperature will be performed at all visits during the acute phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood pressure</measure>
+    <time_frame>every day during hospitalisation (from date of admission in trial until date of discharge or date of death, assessed up to 100 weeks</time_frame>
+    <description>Assessment of the patient´s blood pressure will be performed at all visits during the acute phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in heart rate</measure>
+    <time_frame>every day during hospitalisation (from date of admission in trial until date of discharge or date of death, assessed up to 100 weeks</time_frame>
+    <description>Assessment of the patient´s heart rate will be performed at all visits during the acute phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in breath frequency (respiratory rate)</measure>
+    <time_frame>every day during hospitalisation (from date of admission in trial until date of discharge or date of death, assessed up to 100 weeks</time_frame>
+    <description>Assessment of the patient´s breath frequency (respiratory rate) will be performed at all visits during the acute phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in peripheral oxygen saturation</measure>
+    <time_frame>every day during hospitalisation (from date of admission in trial until date of discharge or date of death, assessed up to 100 weeks</time_frame>
+    <description>Assessment of the patient´s peripheral oxygen saturation will be performed at all visits during the acute phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the clinical score SOFA (sequential organ failure assessment)</measure>
+    <time_frame>at primary admission to hospital, upon admission to ICU ward, every Monday, Wednesday and Friday during ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>At each study visit on the ICU ward, the SOFA score will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the clinical score Berlin ARDS (acute respiratory distress syndrome) severity score (if provided)</measure>
+    <time_frame>every Monday, Wednesday and Friday during ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>At each study visit on the ICU ward, the Berlin ARDS (acute respiratory distress syndrome) severity score will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the clinical score APACHE (Acute Physiology and Chronic Health Evaluation) Score</measure>
+    <time_frame>upon admission to ICU</time_frame>
+    <description>At each study visit on the ICU ward, the APACHE (Acute Physiology and Chronic Health Evaluation) score will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the clinical score NEWS (National Early Warning Score)</measure>
+    <time_frame>day 1 of enrollment in the study (day of hospitalization), if available</time_frame>
+    <description>At primary admission to hospital NEWS (National Early Warning Score) will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the clinical score qSOFA Score (quick sequential organ failure assessment)</measure>
+    <time_frame>day 1 of enrollment in the study (day of hospitalization), if available</time_frame>
+    <description>At primary admission to hospital qSOFA Score will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the Barthel Index</measure>
+    <time_frame>day 1 of enrollment in the study, every Monday, Wednesday and Friday during hospitalisation, (assessed up to 100 weeks?), immediately before discharge, at follow up visits 3, 12, 24 and 36 months after symptom onset</time_frame>
+    <description>The changes in the Barthel Index score will be recorded and evaluated, if provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the Frailty score</measure>
+    <time_frame>day 1 of enrollment in the study, every Monday, Wednesday and Friday during hospitalisation, (assessed up to 100 weeks?), immediately before discharge, at follow up visits 3, 12, 24 and 36 months after symptom onset</time_frame>
+    <description>At each study visit during hospitalization (visits are conducted 3 times a week until discharge) the Frailty score will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the clinical score Murray Score</measure>
+    <time_frame>every Monday, Wednesday and Friday during ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>At each study visit on ICU ward the Murray Score will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the clinical score Glasgow Coma Scale (GCS)</measure>
+    <time_frame>upon admission to ICU ward, every Monday, Wednesday and Friday ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>At each study visit on ICU ward the Glasgow Coma Scale score will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the clinical score RASS (Richmond Agitation Sedation Scale)</measure>
+    <time_frame>upon admission to ICU ward, every Monday, Wednesday and Friday ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>At each study visit on ICU ward the RASS (Richmond Agitation Sedation Scale)will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the clinical score CAM-ICU (Score Confusion Assessment Method for Intensive Care Unit)</measure>
+    <time_frame>every Monday, Wednesday and Friday during ICU ward stay,assessed up to 100 weeks</time_frame>
+    <description>At each study visit on ICU ward the CAM-ICU (Score Confusion Assessment Method for Intensive Care Unit) score will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the clinical score SAPSII (Simplified acute physiology Score II)</measure>
+    <time_frame>every Monday, Wednesday and Friday during ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>At each study visit on ICU ward the SAPSII (Simplified acute physiology Score II) will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the clinical score NRS (numeric rating scale) pain score</measure>
+    <time_frame>every Monday, Wednesday and Friday during ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>At each study visit on ICU ward the NRS (numeric rating scale) pain score will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the clinical score BPS (behavioural pain scale) pain score</measure>
+    <time_frame>every Monday, Wednesday and Friday during ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>At each study visit on ICU ward the BPS (behavioural pain scale) pain score will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the clinical score CPOT (Critical Care Pain Observation tool)</measure>
+    <time_frame>every Monday, Wednesday and Friday during ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>At each study visit on ICU ward the CPOT (Critical Care Pain Observation tool) score will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the clinical score DDS (Delirium detection score)</measure>
+    <time_frame>every Monday, Wednesday and Friday during ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>At each study visit on ICU ward the DDS (Delirium detection score) will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the checked items on the ICDSC (Intensive Care Delirium Screening checklist)</measure>
+    <time_frame>every Monday, Wednesday and Friday during ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>At each study visit on ICU ward the ICDSC (Intensive Care Delirium Screening checklist) will be assessed (if provided in the clinical information system).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the heart time volume</measure>
+    <time_frame>every Monday, Wednesday and Friday during ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>Assessment of the patient´s heart time volume will be performed at all visits during their stay in the ICU ward.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the cardiac index</measure>
+    <time_frame>every Monday, Wednesday and Friday during ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>Assessment of the patient´s cardiac index will be performed at all visits during their stay in the ICU ward.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in EVLWI (Extravascular Lung Water Index)</measure>
+    <time_frame>every Monday, Wednesday and Friday during ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>Assessment of the patient´s Extravascular Lung Water Index measurement will be performed at all visits during their stay in the ICU ward.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Systemic Vascular Resistance Index (SVRI)</measure>
+    <time_frame>every Monday, Wednesday and Friday during ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>Assessment of the patient´s Systemic Vascular Resistance Index (SVRI) measurement will be performed at all visits during their stay in the ICU ward.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in ITBVI (Intrathoracic Blood Volume Index)</measure>
+    <time_frame>every Monday, Wednesday and Friday during ICU ward stay, assessed up to 100 weeks</time_frame>
+    <description>Assessment of the patient´s ITBVI (Intrathoracic Blood Volume Index) measurement will be performed at all visits during their stay in the ICU ward.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the score WHO (World Health Organisation) clinical ordinal scale</measure>
+    <time_frame>every day during hospital stay (from day of admission until discharge from hospital, assessed up to 100 weeks) and at follow-up visits (3, 12, 24 and 36 months after symptom onset)</time_frame>
+    <description>Changes in the patient´s score on the WHO clinical ordinal scale, used to measure illness severity over time will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the NYHA (New York Heart Association) score</measure>
+    <time_frame>at deep phenotyping during follow-up visits (3 and 12 months after symptom onset)</time_frame>
+    <description>The changes in the NYHA (New York Heart Association) score will be recorded and evaluated, if provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the Post-COVID-19 Functional Status (PCFS) scale</measure>
+    <time_frame>at follow-up visits (3, 12, 24 and 36 months after symptom onset)</time_frame>
+    <description>The changes in the Post-COVID-19 Functional Status (PCFS) scale will be recorded and evaluated, if provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the National Institutes of Health Stroke Scale (NIHSS)</measure>
+    <time_frame>at deep phenotyping during follow-up visits (3 and 12 months after symptom onset)</time_frame>
+    <description>The changes in the National Institutes of Health Stroke Scale (NIHSS) will be recorded and evaluated, if provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the Katz Index</measure>
+    <time_frame>at follow-up visits (3, 12, 24 and 36 months after symptom onset)</time_frame>
+    <description>The changes in the Katz Index will be recorded and evaluated, if provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the Rose Dyspnea Scale</measure>
+    <time_frame>at deep phenotyping during follow-up visits (3 and 12 months after symptom onset)</time_frame>
+    <description>The changes in the Rose Dyspnea Scale will be recorded and evaluated, if provided.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">750</enrollment>
+  <condition>Covid19</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Saliva, Urin, Oropharyngeal / Nasopharyngeal swab / Bronchoalveolar lavage (BAL) /&#xD;
+      Endotracheal aspirate (ENTA), whole blood&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        COVID-19 patients, hospitalised at any of the participating hospitals (see study sites)&#xD;
+        over the age of 18 years, who are willing and deemed able to participate in the study&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Willingness to participate in the study (consent to participate by patient or&#xD;
+             appropriate legal representative) or inclusion via deferred consent&#xD;
+&#xD;
+          -  Hospitalization at time of enrollment&#xD;
+&#xD;
+          -  Positive evidence for SARS-CoV-2 infection with PCR (polymerase chain reaction) or&#xD;
+             initial positive rapid diagnostic test in conjunction with typical clinical symptoms,&#xD;
+             confirmed by a later positive PCR test.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Refusal to participate by patient, or appropriate legal representative&#xD;
+&#xD;
+          -  Any condition that prohibits supplemental blood-sampling beyond routine blood drawing&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Martin Witzenrath, Prof. Dr. med.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Charite University Hospital Berlin</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Martin Witzenrath, Prof. Dr. med.</last_name>
+    <phone>+49 30 450 553 892</phone>
+    <email>martin.witzenrath@charite.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Florian Kurth, PD Dr.</last_name>
+    <email>florian.kurth@charite.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Medical Center Freiburg Department of Internal Medicine II Department of Infectiology</name>
+      <address>
+        <city>Freiburg</city>
+        <state>Baden-Württemberg</state>
+        <zip>79106</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Siegbert Rieg, Prof.</last_name>
+      <phone>+49 761 270 18240</phone>
+      <email>siegbert.rieg@uniklinik-freiburg.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Heidelberg Clinic for Gastroenterology, Infections, Poisoning</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Baden-Württemberg</state>
+        <zip>69120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Uta Merle, Prof. Dr. med.</last_name>
+      <phone>+49 6221 56 8611</phone>
+      <email>Uta.Merle@med.uni-heidelberg.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinic of the University of Munich Medical Clinic and Polyclinic III</name>
+      <address>
+        <city>Munich</city>
+        <state>Bayern</state>
+        <zip>81377</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael von Bergwelt, Prof. Dr.</last_name>
+      <phone>+49 89 4400 75551</phone>
+      <email>michael.bergwelt-baildon@med.uni-muenchen.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Frankfurt Medical Clinic II Department of infectiology</name>
+      <address>
+        <city>Frankfurt</city>
+        <state>Hessen</state>
+        <zip>60590</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria Vehreschild, Prof.</last_name>
+      <phone>+49 69 6301 5452</phone>
+      <email>Maria.Vehreschild@kgu.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Giessen (+Marburg) Medical Clinic II Pneumology and internal intensive care medicine Infectiology, Gastroenterology, Nephrology</name>
+      <address>
+        <city>Gießen</city>
+        <state>Hessen</state>
+        <zip>35392</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Werner Seeger, Prof.</last_name>
+      <phone>+49 641 985 42350</phone>
+      <email>werner.seeger@innere.med.uni.giessen.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hanover Medical School Clinic for Pneumology</name>
+      <address>
+        <city>Hannover</city>
+        <state>Niedersachsen</state>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marius M Hoeper, Prof. Dr. med.</last_name>
+      <phone>+49 511 532 3531</phone>
+      <email>Hoeper.marius@mh-hannover.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Cologne Internal Medicine I and Hematology and Oncology, Infectiology, additional qualification in Emergency Medicine</name>
+      <address>
+        <city>Cologne</city>
+        <state>Nordrhein-Westfalen</state>
+        <zip>50937</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Philipp Koehler, Dr. med.</last_name>
+      <phone>+49 221 478 85523</phone>
+      <email>philipp.koehler@uk-koeln.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Medical Center Schleswig-Holstein (Campus Kiel): Internal medicine, gastroenterology, pneumology, allergology, sleep medicine, emergency medicine, intensive care</name>
+      <address>
+        <city>Kiel</city>
+        <state>Schleswig-Holstein</state>
+        <zip>24105</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rainer Noth, Dr. med.</last_name>
+      <phone>+49 431 500 22233</phone>
+      <email>Rainer.Noth@uksh.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Medical Center Schleswig-Holstein (Campus Lübeck): Internal medicine, gastroenterology, pneumology, allergology, sleep medicine, emergency medicine, intensive care</name>
+      <address>
+        <city>Lübeck</city>
+        <state>Schleswig-Holstein</state>
+        <zip>23538</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Droemann, PD Dr.</last_name>
+      <phone>+49451 500 45000</phone>
+      <email>Daniel.Droemann@uksh.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Jena Department of Internal Medicine IV</name>
+      <address>
+        <city>Jena</city>
+        <state>Thüringen</state>
+        <zip>07747</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Philipp Reuken, PD Dr.</last_name>
+      <phone>+49 3641 9 324401</phone>
+      <email>Philipp.Reuken@med.uni-jena.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Charité University Hospital Berlin Medical Clinic Infectiology and Pneumology CCM/CVK</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13353</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martin Witzenrath, Prof. Dr. med.</last_name>
+      <phone>+49 30 450 553 892</phone>
+      <email>martin.witzenrath@charite.de</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 10, 2021</study_first_posted>
+  <last_update_submitted>February 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Charite University, Berlin, Germany</investigator_affiliation>
+    <investigator_full_name>Prof. Dr. med. Martin Witzenrath</investigator_full_name>
+    <investigator_title>Prof. Dr. med.</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>coronavirus</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>cohort</keyword>
+  <keyword>observational</keyword>
+  <keyword>phenotyping</keyword>
+  <keyword>NAPKON-HAP</keyword>
+  <keyword>NAPKON</keyword>
+  <keyword>chronic morbidity</keyword>
+  <keyword>pa-covid</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Given a concrete inquiry and prior consent by the study participants in question, IPD (individual participant data) can be made available on a case by case basis.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

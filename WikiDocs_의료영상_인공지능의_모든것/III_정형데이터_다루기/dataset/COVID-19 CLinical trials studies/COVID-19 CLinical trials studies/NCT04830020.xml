@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="954">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04830020</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CampusBioMedico</org_study_id>
+    <secondary_id>1ZIDES102465</secondary_id>
+    <nct_id>NCT04830020</nct_id>
+  </id_info>
+  <brief_title>Use of Inhaled High-molecular Weight Hyaluronan in Patients With Severe COVID19: Feasibility and Outcomes</brief_title>
+  <acronym>HA-COVID</acronym>
+  <official_title>Use of Inhaled High-molecular Weight Hyaluronan in Patients With Severe COVID19: Feasibility and Outcomes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Campus Bio-Medico University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Environmental Health Sciences (NIEHS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Campus Bio-Medico University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether inhaled Yabro protects against progression of COVID19-induced&#xD;
+      respiratory failure preventing the passage to non-invasive ventilation (NIV) and promotes&#xD;
+      recovery from COVID19 lung disease in hospitalized patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      All patients will be treated with state of the art COVID19 treatment as per the treating&#xD;
+      clinician (Remdesivir, systemic corticosteroids, monoclonal antibodies, convalescent plasma,&#xD;
+      biologic cytokine inhibitors and other interventions as per the latest guidelines). Patients&#xD;
+      randomized to the active intervention group will also receive HMW-HA (Yabro®, 5 ml of saline&#xD;
+      containing 0.3% hyaluronic acid sodium salt) via nebulizer, while patients randomized in the&#xD;
+      control group will receive a matching placebo two times daily.&#xD;
+&#xD;
+      Due to increased risk for SARS-CoV-2 transmission via the usual mask nebulization procedure,&#xD;
+      patients will receive the nebulized treatment via high-flow oxygen tubing as described in the&#xD;
+      literature 36-38. Patients will be treated until there is a qualitative change in oxygen&#xD;
+      requirement, i.e. either progression to assisted ventilation (non-invasive or invasive), or&#xD;
+      weaning from oxygen supplementation. Because COVID19 may result in long-term O2 dependency,&#xD;
+      the study and treatment period will be limited to a maximum of 10 days.&#xD;
+&#xD;
+      Moreover, a blood sample (20 ml) will be taken at baseline and after 10 days of treatment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 26, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cumulative time on oxygen</measure>
+    <time_frame>10 days</time_frame>
+    <description>cumulative duration of oxygen treatment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Need for advanced airway intervention or death due to COVID19;</measure>
+    <time_frame>10 days</time_frame>
+    <description>need of intubation or death due to COVID19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of decrease of respiratory rate;</measure>
+    <time_frame>10 days</time_frame>
+    <description>rapidity of decrease of respiratory rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Increase of PaO2 /FiO2 ratio during treatment</measure>
+    <time_frame>10 days</time_frame>
+    <description>improvement of PaO2/FiO2 ratio after 10 days of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to discharge from hospital</measure>
+    <time_frame>10 days</time_frame>
+    <description>decrease of cumulative days of hospitalization</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>HMW-HA</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>HMW-HA (Yabro - 5 ml of saline containing 0.3% hyaluronic acid sodium salt) via nebulizer b.i.d.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>5 ml of saline via nebulizer b.i.d.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HMW-HA</intervention_name>
+    <description>Aerolized administration b.i.d.</description>
+    <arm_group_label>HMW-HA</arm_group_label>
+    <arm_group_label>placebo</arm_group_label>
+    <other_name>Yabro</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18&#xD;
+&#xD;
+          -  Diagnosis of COVID19 by validated SARS-CoV-2 antigen, RT-PCR, or other molecular&#xD;
+             diagnostic assay, using an appropriate sample such as NP, nasal, oropharyngeal [OP],&#xD;
+             or saliva) and no alternative explanation for current clinical condition.&#xD;
+&#xD;
+          -  Respiratory failure requiring oxygen therapy&#xD;
+&#xD;
+          -  Has symptoms consistent with COVID-19, and is in non-fibroproliferative stage of&#xD;
+             disease, as determined by investigator.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Respiratory arrest or the need for immediate intubation;&#xD;
+&#xD;
+          -  Upper airway obstruction;&#xD;
+&#xD;
+          -  Facial trauma;&#xD;
+&#xD;
+          -  Inability to cooperate (e.g. agitation or dementia)&#xD;
+&#xD;
+          -  Inability to give informed consent&#xD;
+&#xD;
+          -  Participation in another study for COVID19 treatments&#xD;
+&#xD;
+          -  Deterioration due to other reasons than progressive COVID19 pneumonia per clinical&#xD;
+             judgment, e.g. pulmonary thromboembolism, heart failure, renal failure etc.&#xD;
+&#xD;
+          -  Palliative care or expectation that patient will not survive &gt; 72 hours post&#xD;
+             randomization per clinical judgment of the investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Raffaele Antonelli Incalzi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Università Campus-Biomedico di Roma</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Raffaele Antonelli Incalzi, MD</last_name>
+    <phone>+39 06225411365</phone>
+    <email>r.antonelli@unicampus.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Università Campus Biomedico di Roma</name>
+      <address>
+        <city>Roma</city>
+        <zip>00128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raffaele Antonelli Incalzi</last_name>
+      <phone>+39 06225411365</phone>
+      <email>r.antonelli@unicampus.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>March 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 31, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 2, 2021</study_first_posted>
+  <last_update_submitted>March 31, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

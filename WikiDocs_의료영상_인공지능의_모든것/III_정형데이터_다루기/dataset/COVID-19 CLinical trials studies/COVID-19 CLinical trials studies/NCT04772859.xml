@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4676">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04772859</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Lifestyle intervention</org_study_id>
+    <nct_id>NCT04772859</nct_id>
+  </id_info>
+  <brief_title>Evaluation of an Online Lifestyle Intervention in Mexican School Children During COVID-19 Pandemic</brief_title>
+  <official_title>Evaluation of a 4-month Online Lifestyle Intervention on the BMI Z-score of Mexican School Children During COVID-19 Pandemic: Randomized Controlled Pilot Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad de Sonora</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universidad de Sonora</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Introduction: School closures due to the COVID-19 pandemic represent a risk factor for the&#xD;
+      development of childhood obesity due to the increase in unhealthy behaviors. Online lifestyle&#xD;
+      interventions in schoolchildren could help to mitigate this problem. However, to date, no&#xD;
+      randomized controlled trials have been performed to prevent obesity in schoolchildren during&#xD;
+      the COVID-19 pandemic. The aim of this study is to evaluate the effect of a 4-month online&#xD;
+      lifestyle intervention on the BMI Z-score of Mexican schoolchildren during the COVID-19&#xD;
+      pandemic in an intervention group compared to a control group. Methodology: This is a pilot&#xD;
+      randomized controlled trial. Schoolchildren from a public elementary school in Hermosillo,&#xD;
+      Sonora, Mexico will be invited to participate. Participants will be randomized to an&#xD;
+      intervention group (online lifestyle intervention) or a control group. The intervention will&#xD;
+      include online sessions of nutrition education and physical activity and nutrition&#xD;
+      information for parents. The control group will receive a digital brochure with nutrition&#xD;
+      recommendations at the beginning of the study. The measurements will be performed at baseline&#xD;
+      and 4 months. The primary outcome will be the BMI Z- score. Secondary outcomes: waist&#xD;
+      circumference, fat percentage, nutritional knowledge, lifestyle parameters, retention,&#xD;
+      attendance at the program sessions, and acceptability of the intervention. The difference&#xD;
+      between groups in changes in the outcomes will be analyzed using an intention to treat&#xD;
+      analysis. The protocol was approved by the Research Ethics Committee of the University of&#xD;
+      Sonora Nursing Department (EPM-003-2020). Conclusion: The study will provide the first&#xD;
+      evidence of the evaluation of online interventions for the prevention of obesity in&#xD;
+      schoolchildren derived from a Randomized Controlled Trial. This information will be important&#xD;
+      for the development and implementation of other school-level obesity prevention programs&#xD;
+      around the world.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 1, 2021</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>The primary outcome (BMI Z-score) and some secondary outcomes (body fat percentage and waist circumference), will be measured by a person blinded to the assignment group.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in BMI Z-score</measure>
+    <time_frame>Baseline to 4 months.</time_frame>
+    <description>The measurement will be obtained using the sex, age, weight (kg) and height (m) of the participants.The height and weight will be combined (kg/m2) to obtain the BMI Z- score, expressed in units of standard deviation. The WHO Anthro Plus software will be used to obtain the BMI-Z-score for age.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in weight</measure>
+    <time_frame>Baseline to 4 months</time_frame>
+    <description>To obtain the weight (kg), a TANITA SC-240 will be used. The measurement will be used to obtain the BMI Z-score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in height</measure>
+    <time_frame>Baseline to 4 months</time_frame>
+    <description>To obtain the measure, a SECA 213 stadiometer will be used, following the Frankfurt plan. This measure will be used to obtain the BMI Z-score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in waist circumference</measure>
+    <time_frame>Baseline to 4 months.</time_frame>
+    <description>A Lufkin metallic anthropometric tape will be used. The umbilical scar will be taken as reference.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in body fat percentage</measure>
+    <time_frame>Baseline and 4 months.</time_frame>
+    <description>It will be estimated with the measurement of the tricipital fold, using a formula validated for Mexican children. To take the tricipital fold, the ISAK methodology will be followed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in relative fat mass</measure>
+    <time_frame>Baseline to 4 months.</time_frame>
+    <description>This is an estimator of total body fat. A formula carried out with children (8-14 years) will be used where the data of waist circumference (cm), height and sex (0 boys and 1 girls) will be needed .</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in nutrition knowledge</measure>
+    <time_frame>Baseline to 4 months</time_frame>
+    <description>A questionnaire designed by the study team will be used to assess knowledge on nutrition. It consists of 32 questions on nutrition and health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in food frequency consumption Food consumption frequency questionnaire</measure>
+    <time_frame>Baseline to 4 months.</time_frame>
+    <description>A questionnaire will be used to ask the frequency and quantity of consumption of ultra-processed food such as sweet beverages, cookies, pastries and chips (are associated with the development of obesity). In addition, some natural foods like fruits, vegetables and water will included in the questionnaire.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in physical activity and sedentary behaviors</measure>
+    <time_frame>Baseline to 4 months</time_frame>
+    <description>The physical activity and sedentary lifestyle questions from the questionnaire, &quot;The Health Behavior in School-Age Children&quot; (HBSC), which is used internationally and was validated in school-age children, will be used. The questionnaire includes the days and time spent doing physical activity and sedentary activities both during the week and at the weekend.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in quality of life</measure>
+    <time_frame>Baseline to 4 months</time_frame>
+    <description>The PedsQL ™ (pediatric quality of life inventory) questionnaire will be used, which was designed to assess quality of life aspects in healthy pediatric patients (2 to 18 years old) .The questionnaire consists of 23 questions about physical, emotional, social and school functioning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Retention</measure>
+    <time_frame>At 4 months</time_frame>
+    <description>The retention will be obtained using the % of participants who finished the intervention and the final measurements at 4 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Attendance</measure>
+    <time_frame>At 4 months</time_frame>
+    <description>The attendance will be measured using the % of the program sessions attended.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability</measure>
+    <time_frame>At 4 months</time_frame>
+    <description>The acceptability will be obtained with a questionnaire applied to the children and parents to rate the intervention, materials and benefits obtained with the intervention.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">54</enrollment>
+  <condition>Childhood Obesity</condition>
+  <arm_group>
+    <arm_group_label>Online Lifestyle Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Online sessions of nutrition education, physical activity, and family participation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>General nutrition recommendations</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Online Lifestyle Intervention</intervention_name>
+    <description>The intervention will be based on the Planet Nutrition program. This program was previously designed by the present research group and has a handbook that includes nutrition topics, framed by different behavior change strategies. The nutrition education and physical activity sessions will be offered 3 days a week, in the same 1-hour class: 30 minutes for each.&#xD;
+Nutrition education: presentations based on the Planet Nutrition program, a dedicated website, and the Zoom application, will be used to deliver the intervention. The website will be used to upload the nutrition materials and the recorded sessions. Participants will work on self-monitoring of different health behaviors.&#xD;
+Physical activity: The classes will be delivered by the Physical Activity team through the Zoom application. A website will be used to upload the recorded sessions.&#xD;
+Parents participation. The same website and a private Facebook group will be used to upload nutrition information once a week.</description>
+    <arm_group_label>Online Lifestyle Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Control Group</intervention_name>
+    <description>They will receive one digital brochure with general information on a healthy diet, at the beginning of the program.</description>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  4th, 5th and 6th- grade students from the participating primary school.&#xD;
+&#xD;
+          -  Have access to the internet.&#xD;
+&#xD;
+          -  Have an electronic device (e.g. computer, laptop, tablet, or smart cell phone).&#xD;
+&#xD;
+          -  Nutritional status: normal weight, overweight, or obesity (based on BMI-Z-score for&#xD;
+             age).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have a medical condition that affects body weight.&#xD;
+&#xD;
+          -  Takes medicine that affects body weight.&#xD;
+&#xD;
+          -  Participating in another intervention that affects body weight.&#xD;
+&#xD;
+          -  Have a condition that prevents physical activity.&#xD;
+&#xD;
+          -  Withdrawal of informed consent or assent.&#xD;
+&#xD;
+          -  Have a family member who is participating in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>9 Years</minimum_age>
+    <maximum_age>12 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rolando G. Díaz Zavala, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad de Sonora</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rolando G. Díaz Zavala, Ph.D</last_name>
+    <phone>6622893793</phone>
+    <phone_ext>4632</phone_ext>
+    <email>giovanni.diaz@unison.mx</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Rolando Giovanni Diaz Zavala</name>
+      <address>
+        <city>Hermosillo</city>
+        <state>Sonora</state>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rolando Giovanni Dr Diaz Zavala, Phd</last_name>
+      <email>giovanni.diaz@unison.mx</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 26, 2021</study_first_posted>
+  <last_update_submitted>March 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidad de Sonora</investigator_affiliation>
+    <investigator_full_name>Rolando Giovanni Díaz Zavala</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Online</keyword>
+  <keyword>Lifestyle Intervention</keyword>
+  <keyword>Prevention</keyword>
+  <keyword>Childhood Obesity</keyword>
+  <keyword>Nutrition Education</keyword>
+  <keyword>Physical Activity</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pediatric Obesity</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

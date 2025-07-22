@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1938">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04820803</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CPC01</org_study_id>
+    <nct_id>NCT04820803</nct_id>
+  </id_info>
+  <brief_title>Assessment of the Impact of Oral Intervention With Cetylpyridinium Chloride to Decrease SARS-CoV-2 Viral Load in Patients With COVID-19</brief_title>
+  <official_title>PILOT CLINICAL TRIAL TO ASSESS THE IMPACT OF ORAL INTERVENTION WITH CETIL PYRIDINIUM CHLORIDE TO REDUCE THE VIRAL LOAD OF SARS-CoV-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rosa Tarrago</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Dentaid SL</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Instituto de Investigación Sanitaria Aragón</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Pilot, randomized and controlled clinical trial for the evaluation of the decrease in the&#xD;
+      viral load of SARS-CoV-2 in the oropharynx in patients with COVID-19 through the use of&#xD;
+      mouthwash containing cetylpyridinium chloride (CPC) (0.07%) in mouthwash.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The objective of the clinical trial is to determine the short-term efficacy of&#xD;
+      cetylpyridinium chloride (CPC) mouthwashes to assess changes in the threshold cycle value of&#xD;
+      the analysis of the SARS-CoV-2 oropharyngeal saliva sample, in patients diagnosed with&#xD;
+      COVID-19 and with symptomatology compatible with the disease. A randomized double-blind pilot&#xD;
+      clinical trial (evaluator and patients) will be developed in patients with a diagnosis of&#xD;
+      COVID-19 and symptoms of the disease. The experimental group will perform a single rinse with&#xD;
+      a mouthwash containing Cetylpyridinium Chloride (CPC) while the placebo group will perform&#xD;
+      the same rinse, but with a harmless liquid that will act as a placebo. The study will be&#xD;
+      carried out in the Zaragoza III Health Sector, with patients belonging to the Zaragoza II&#xD;
+      Health Sector, collaborating with the &quot;Seminario&quot; health center and the Lozano Blesa Clinical&#xD;
+      University Hospital (HCULB). This project will be carried out in accordance with the CONSORT&#xD;
+      guidelines for clinical trials.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 3, 2021</start_date>
+  <completion_date type="Anticipated">May 5, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 23, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Accepting an alpha risk of 0.05 and a beta risk of 0.2 in a bilateral contrast, 40 subjects in the first group and 40 in the second were required to detect a difference equal to or greater than 5 units. The common standard deviation is assumed to be 10 (12). A loss to follow-up rate of 20% has been estimated.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Randomized double-blind pilot clinical trial (evaluator and patients) in patients with a diagnosis of COVID-19 and symptoms of the disease.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Threshold cycle value of SARS-CoV-2 by Polymerase Chain Reaction (PCR) in saliva samples</measure>
+    <time_frame>3 MONTHS</time_frame>
+    <description>Threshold cycle value of SARS-CoV-2 by Polymerase Chain Reaction (PCR) in saliva samples before antd 2hours after mouthwashes</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Cetylpyridinium Chloride (CPC) 0,07%</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>patients who rinse with cetylpyiridinium chloride 0,07% mouthwash for 60 seconds</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo: Distilled water with the same flavor and coloring as the product to be evaluated</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>patients who rinse with distilled water mouthwash for 60 seconds</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>ORAL INTERVENTION WITH CETYLPYRIDINIUM CHLORIDE</intervention_name>
+    <description>one mouthwash containing cetylpyridinium chloride (0.07%) for 60 seconds</description>
+    <arm_group_label>Cetylpyridinium Chloride (CPC) 0,07%</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>PLACEBO</intervention_name>
+    <description>one mouthwash containing distilled (placebo) water for 60 seconds</description>
+    <arm_group_label>Placebo: Distilled water with the same flavor and coloring as the product to be evaluated</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Outpatients older than 18 years and younger than 80 years.&#xD;
+&#xD;
+          -  Patients with a medical indication for a diagnostic test for active infection to&#xD;
+             SARS-CoV-2&#xD;
+&#xD;
+          -  Patients who present mild symptoms typical of COVID-19 and who have less than three&#xD;
+             days of evolution&#xD;
+&#xD;
+          -  Patients who have cognitive and motor skills to perform mouthwash correctly.&#xD;
+&#xD;
+          -  Patients who understand and speak Spanish&#xD;
+&#xD;
+          -  Patients who freely give their consent to participate in the study, after a correct&#xD;
+             understanding of its objectives and procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with hospitalization criteria (moderate or severe symptoms)&#xD;
+&#xD;
+          -  Vulnerable populations such as pregnant, lactating,&#xD;
+&#xD;
+          -  Patients with recent medical diagnosis (≤ 1 month) of pneumonia&#xD;
+&#xD;
+          -  Patients with hyposialia&#xD;
+&#xD;
+          -  Patients with consumption of oral antiseptics (in the form of mouthwash containing&#xD;
+             CPC, povidone iodine rinses, alcohol mouthwash and essential oils) and toothpastes&#xD;
+             with CPC during the last month.&#xD;
+&#xD;
+          -  Patients with cognitive impairment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>ROSA TARRAGÓ GIL</last_name>
+    <phone>+34 630992551</phone>
+    <email>rmtarrago@salud.aragon.es</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Seminario Health Center and Lozano Blesa University Clinical Hospital</name>
+      <address>
+        <city>Zaragoza</city>
+        <zip>50009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rosa Tarragó Gil, Dental hygienist</last_name>
+      <phone>+34 630992551</phone>
+      <email>rmtarrago@salud.aragon.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maria Jose Gil Mosteo, Nurse</last_name>
+      <email>mjgilmo@salud.aragon.es</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rosa Tarrago Gil, Dental hygienist</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maria Jose Gil Mosteo, Nurse</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Carmen Yagüe Muñoz, Nurse</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Yolanda Millán Fernandez, Dental Hygienist</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Diana Serrano Peris, Doctor</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maria Jesús Lallana Alvarez, Pharmaceutical</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mercedes Aza Pascual-Salcedo, Pharmaceutical</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Elena Altarribas Bolsa, Nurse</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Joaquin Costán Galicia, Doctor</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jessica Bueno Sancho, Microbiology</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marta Charlo Bernardos, Nurse</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jesica Montero Marco, Nurse</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 29, 2021</study_first_posted>
+  <last_update_submitted>March 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Instituto de Investigación Sanitaria Aragón</investigator_affiliation>
+    <investigator_full_name>Rosa Tarrago</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>cetylpyridinium</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>mouthwashes</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cetylpyridinium</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

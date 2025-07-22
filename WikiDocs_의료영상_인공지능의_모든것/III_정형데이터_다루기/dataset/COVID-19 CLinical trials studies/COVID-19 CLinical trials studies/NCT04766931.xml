@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2446">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04766931</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FB2001-102</org_study_id>
+    <nct_id>NCT04766931</nct_id>
+  </id_info>
+  <brief_title>The Safety and Efficacy of FB2001 in Healthy Subjects and Patients With COVID-19 Infection</brief_title>
+  <official_title>A Two-part, Phase I/II, Multi-center, Double-Blind, Randomized, Vehicle-controlled Study of the Safety and Efficacy of FB2001 in Patients With Moderate to Severe Coronavirus Disease 2019 (COVID-19) Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Frontier Biotechnologies Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Frontier Biotechnologies Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an adaptive, Phase I/II study in 2 parts: Part 1 is to evaluate the Maximum Tolerable&#xD;
+      Dose (MTD) , tolerance, safety and pharmacokinetics of FB2001 in healthey subjects, Part 2 is&#xD;
+      to evaluate the safety, pharmacokinetics and efficacy of FB2001 in patients with moderate to&#xD;
+      severe COVID-19 disease. Part 1 of this study is a randomized, double-blinded,&#xD;
+      placebo-controlled, sentinel design, dose escalation study with single ascending dose (SAD),&#xD;
+      followed by a multiple ascending dose (MAD) . Thirty-Two (32) male and female healthy&#xD;
+      volunteers will be enrolled for Part 1 of the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      All subjects, after signing the Informed Consent Form (ICF), will be assessed during the&#xD;
+      screening phase. Only those subjects who successfully complete the screening phase and meet&#xD;
+      the study eligibility criteria will proceed to receive study treatment at the assigned doses&#xD;
+      and will be followed up for 5 days (for SAD) and 1 week (for MAD) to assess post-treatment&#xD;
+      safety.&#xD;
+&#xD;
+      Subjects in the SAD cohorts A1 to A3 will be administered a single dose of escalated doses of&#xD;
+      FB2001 (5 mg, 15 mg, and 30mg) by intravenous (IV) infusion on Day 0. Subjects in the MAD&#xD;
+      cohort B1 will be administered with FB2001 by IV infusion once daily for 5 consecutive days&#xD;
+      (Days 0 to 4).&#xD;
+&#xD;
+      The SAD part of the study (cohorts A1-A3) will include a sentinel design in which, 2 subjects&#xD;
+      will be initially randomized 1:1 to FB2001 and placebo at the given cohort dose. If the dose&#xD;
+      was well tolerated for 48 hours after the administration per the study Data Safety Monitoring&#xD;
+      Committee (DSMC), the remaining 6 subjects with 5:1 randomization ratio (FB2001: placebo)&#xD;
+      will be administered the same dose. A daily assessment of adverse events will be performed&#xD;
+      via telephone everyday between EOT and the Follow-up Visit for both SAD and MAD.&#xD;
+&#xD;
+      The decision for cohort (dose level) escalation to the higher dose levels will be made by the&#xD;
+      study DSMC after safety review of available information&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 27, 2021</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The Maximum Tolerable Dose (MTD)</measure>
+    <time_frame>0~13 days</time_frame>
+    <description>Determination of the Maximum Tolerable Dose (MTD) of FB2001 based on the occurrence of Dose Limiting Toxicities (DLTs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with treatment-related adverse events as assessed by CTCAE V4.0</measure>
+    <time_frame>0~13 days</time_frame>
+    <description>Evaluation of the safety and tolerability of FB2001 after a single and multiple dose administrations in healthy volunteers.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic parameters(Cmax)</measure>
+    <time_frame>0~6 days</time_frame>
+    <description>Estimate of Cmax for single administration and multiple dose administration of FB2001.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic parameters(AUC)</measure>
+    <time_frame>0~6 days</time_frame>
+    <description>Estimate of AUC for single administration and multiple dose administration of FB2001.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>A1 FB2001 or Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>5mg, single dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>A2 FB2001 or Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>15mg, single dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>A3 FB2001 or Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>30mg, single dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B1 FB2001 or Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Once daily for 5 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>FB2001</intervention_name>
+    <description>Subjects will be administered with FB2001 by intravenous (IV) infusion</description>
+    <arm_group_label>A1 FB2001 or Placebo</arm_group_label>
+    <arm_group_label>A2 FB2001 or Placebo</arm_group_label>
+    <arm_group_label>A3 FB2001 or Placebo</arm_group_label>
+    <arm_group_label>B1 FB2001 or Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>FB2001 Placebo</intervention_name>
+    <description>Subjects will be administered with FB2001 placebo by intravenous (IV) infusion</description>
+    <arm_group_label>A1 FB2001 or Placebo</arm_group_label>
+    <arm_group_label>A2 FB2001 or Placebo</arm_group_label>
+    <arm_group_label>A3 FB2001 or Placebo</arm_group_label>
+    <arm_group_label>B1 FB2001 or Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  1) Male or female adults who are between 18 and 60 years old inclusive&#xD;
+&#xD;
+          -  2) Weigh at least 45kg, with a BMI of 19 to 30 kg/m2 inclusive&#xD;
+&#xD;
+          -  3) No serious underlying disease which would adversely affect the study conduct and&#xD;
+             data interpretation per the investigator&#xD;
+&#xD;
+          -  4) Female subjects of reproductive age should have negative results in serum pregnancy&#xD;
+             test at screening and negative urine pregnancy test at admission.&#xD;
+&#xD;
+               1. Subjects of reproductive age and their partners agree to take effective&#xD;
+                  contraceptive measures. . Note: Using a medically acceptable form of birth&#xD;
+                  control for at least 1 month prior to screening (3 months on oral contraceptives)&#xD;
+                  [e.g., hormonal contraceptives (oral, patch, injectable or vaginal ring),&#xD;
+                  implantable device (implantable rod or intrauterine device), or a double barrier&#xD;
+                  (e.g., diaphragm, cervical cap, oral, patch or vaginal hormonal contraceptive,&#xD;
+                  condom, spermicide, or sponge)]&#xD;
+&#xD;
+               2. Surgically sterile, with documentation, for at least 3 months prior to screening&#xD;
+                  by one of the following means:&#xD;
+&#xD;
+                    -  Bilateral tubal ligation&#xD;
+&#xD;
+                    -  Bilateral salpingectomy (with or without oophorectomy)&#xD;
+&#xD;
+                    -  Surgical hysterectomy&#xD;
+&#xD;
+                    -  Bilateral oophorectomy (with or without hysterectomy)&#xD;
+&#xD;
+                    -  Postmenopausal, defined as the following:&#xD;
+&#xD;
+                    -  Last menstrual period greater than 12 months prior to screening&#xD;
+&#xD;
+               3. Postmenopausal status confirmed by serum follicle stimulating hormone (FSH) and&#xD;
+                  estradiol levels at screening&#xD;
+&#xD;
+          -  5) Agree to refrain from alcohol during the study&#xD;
+&#xD;
+          -  6) Subjects should have normal (or abnormal but not clinically significant) laboratory&#xD;
+             results per the PI's judgement, including complete blood count, biochemistry,&#xD;
+             coagulation indices and urinalysis&#xD;
+&#xD;
+          -  7) Subjects should have a normal (or abnormal but not clinically significant) ECG and&#xD;
+             chest X-ray at screening&#xD;
+&#xD;
+          -  8) Subjects should be willing to cooperate and able to participate in this study,&#xD;
+             comply with all protocol requirements, and sign an informed consent.&#xD;
+&#xD;
+          -  9) Male subjects with female partners of childbearing potential must agree to use&#xD;
+             condoms for the duration of the study and until 12 weeks after completion of dosing&#xD;
+             with the study drug and must refrain from donating sperm for this same period&#xD;
+&#xD;
+          -  10) Current smokers and those who have not smoked within the last 6 months. This&#xD;
+             includes the use of cigarettes, e-cigarettes, and nicotine replacement products.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  1) HIV antibody positive;&#xD;
+&#xD;
+          -  2) HbsAg positive;&#xD;
+&#xD;
+          -  3) HCV antibody positive;&#xD;
+&#xD;
+          -  4) History of tuberculosis or lung disease;&#xD;
+&#xD;
+          -  5) The subject has severe cardiovascular disease, neurological disease, hematological&#xD;
+             disease, infectious disease, mental disorder, liver disease, gastrointestinal disease,&#xD;
+             lung disease, endocrine disease, immune disease or kidney disease, or has a history of&#xD;
+             the above diseases, or other symptoms known to interfere with the absorption,&#xD;
+             distribution, metabolism, or excretion of the medicine, or other conditions that the&#xD;
+             investigator believes will increase the risk of the subject and might interfere with&#xD;
+             the study conduct and results interpretation;&#xD;
+&#xD;
+          -  6) Female subjects who are pregnant, lactating or have pregnancy plans in the 3 months&#xD;
+             after their study completion;&#xD;
+&#xD;
+          -  7) Subjects who participated in any other clinical study within 30 days prior to&#xD;
+             screening;&#xD;
+&#xD;
+          -  8) Subjects with known allergic reactions to the study drug or its excipients;&#xD;
+&#xD;
+          -  9) Use of any medication, including prescription or over the counter, vitamins, herbal&#xD;
+             and/or mineral supplements, dietary supplements (and/or grape fruit juice) within 14&#xD;
+             days prior to the first treatment or during the trial, which in the opinion of the&#xD;
+             investigator may influence the trial results or the safety of the subjects;&#xD;
+&#xD;
+               1. Poor venous access or issues with needle sticks e.g., syncope&#xD;
+&#xD;
+               2. Donated or lost &gt;500 mL of blood in the previous 3 months&#xD;
+&#xD;
+               3. A history of prescription drug abuse, illicit drug use within 9 months prior to&#xD;
+                  screening&#xD;
+&#xD;
+               4. A positive screen for alcohol or drugs of abuse at screening or admission&#xD;
+&#xD;
+          -  10) Any other clinical condition that, in the Investigator's judgment, would&#xD;
+             potentially compromise study compliance or the ability to evaluate safety/efficacy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cheng Yao</last_name>
+    <role>Study Director</role>
+    <affiliation>Frontier Biotechnologies Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hongxia Li, MS</last_name>
+    <phone>(410)8184438</phone>
+    <email>hxli@frontierbiotech.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cheng Yao, MD</last_name>
+    <email>yaocheng@frontierbiotech.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Frontage Clinical Services, Inc.</name>
+      <address>
+        <city>Secaucus</city>
+        <state>New Jersey</state>
+        <zip>07094</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gregory Tracey</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 23, 2021</study_first_posted>
+  <last_update_submitted>March 31, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

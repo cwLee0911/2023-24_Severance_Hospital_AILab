@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="131">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04794361</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Local 2020/JF1</org_study_id>
+    <nct_id>NCT04794361</nct_id>
+  </id_info>
+  <brief_title>Management of Patients Suspected of COVID 19 With Ultra Low Dose Thoracic Scanner</brief_title>
+  <acronym>COVID-19 ULD</acronym>
+  <official_title>Management of Patients Suspected of COVID 19 With Ultra Low Dose Thoracic Scanner</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Nīmes</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Nīmes</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The year 2020 was marked by the emergence of a new respiratory disease: COVID19 related to an&#xD;
+      infection with the coronavirus SARS-CoV-2 (name given by the WHO on February 11, 2020).&#xD;
+      Initially appearing in China, in the province of Hubei, this epidemic has rapidly spread to&#xD;
+      be declared a global pandemic on March 12, 2020 by the WHO.Given the current context of the&#xD;
+      COVID-19 epidemic, strict hygiene measures have been taken in scanning rooms with systematic&#xD;
+      bio-cleaning. Strategies have been modified as a matter of urgency, with changes in the&#xD;
+      practices of electro radiology manipulators who work in &quot;isolation&quot; to avoid contamination.&#xD;
+      The number of scanners has increased exponentially following the curve of the epidemic,&#xD;
+      making it more and more difficult to systematically check the images before the patient&#xD;
+      leaves the room. To ensure sufficient image quality for interpretation of all scans, a&#xD;
+      complementary acquisition in ULD, with very low exposure, was systematically added to the&#xD;
+      acquisition protocol. The standard acquisition in LD, associated with this acquisition in ULD&#xD;
+      remain well below the diagnostic reference thresholds dictated by the nuclear safety&#xD;
+      authority (NRD: 350 mGy.cm. In Nîmes: LD: 100 to 150 mGy.cm and ULD: &lt; 15 mGy.cm). These two&#xD;
+      acquisitions allow us to avoid breathing and movement artifacts, etc., without having to have&#xD;
+      the patients return for a new scan in case of a bad acquisition. This avoids an overexposure&#xD;
+      of the staff to the risk of infection by the SARS-CoV-2 virus.&#xD;
+&#xD;
+      The main objective of this retrospective study is to evaluate the diagnostic performance of&#xD;
+      ULD vs. LD for the accurate diagnosis of COVID-19 pneumopathy which presents a particular&#xD;
+      ground glass pattern&#xD;
+&#xD;
+      Our study will demonstrate that the ULD scanner can be used in the search for COVID-19&#xD;
+      pneumopathy and thus limit the exposure of patients to X-rays, especially since thoracic&#xD;
+      scans are often repeated.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Main objective To evaluate the diagnostic performance of ULD vs. LD scanning for the&#xD;
+      diagnosis of COVID-19 lung disease.&#xD;
+&#xD;
+      Primary endpoint LD and ULD acquisitions will be anonymized and randomized in a read list.&#xD;
+      Double reading of scans in a randomized and blinded manner of the results of LD and ULD&#xD;
+      acquisitions of chest scans performed for suspected COVID-19 by 2 radiologists (one junior&#xD;
+      and one senior). Scans will be classified as non-COVID and COVID. The reference will be the&#xD;
+      LD scan. In case of discrepancy, a third senior radiologist will be asked and the decision&#xD;
+      will be made by consensus.&#xD;
+&#xD;
+      Secondary objectives&#xD;
+&#xD;
+        -  Objective evaluation of image quality (signal, noise, contrast to noise ratio)&#xD;
+&#xD;
+        -  Subjective evaluation of image quality and confidence in interpretation.&#xD;
+&#xD;
+        -  Specific study of ground glass signal in ULD&#xD;
+&#xD;
+      Secondary evaluation criteria&#xD;
+&#xD;
+        -  Measurement of signal and noise in the image using ROIs positioned in the lung, trachea,&#xD;
+           fat, which measure the average signal intensity and its standard deviation. These&#xD;
+           measurements will be performed on LD and ULD acquisitions at the same locations.&#xD;
+&#xD;
+        -  Likert scale to subjectively assess image quality and confidence in the diagnosis.&#xD;
+&#xD;
+        -  Specific measurement of signal and noise in the ground glass using ROI positioned within&#xD;
+           the ground glass that measures the average signal intensity and its standard deviation.&#xD;
+           This measurement will be performed on LD and ULD acquisitions at the same location.&#xD;
+&#xD;
+      Population concerned Patients of the Nîmes University Hospital who have had a prescription&#xD;
+      for a thoracic CT scan for suspected COVID-19 since March 5, 2020 (beginning of the COVID-19&#xD;
+      protocol) and until April 5. Patients having had the LD and ULD acquisitions.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 5, 2020</start_date>
+  <completion_date type="Actual">May 5, 2020</completion_date>
+  <primary_completion_date type="Actual">May 5, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>reading of LD and ULD acquisitions</measure>
+    <time_frame>day 1</time_frame>
+    <description>Diagnostic performance of ULD vs LD scanner for the diagnosis of COVID-19 pneumopathy</description>
+  </primary_outcome>
+  <enrollment type="Actual">400</enrollment>
+  <condition>Covid19</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      pcr Covid-19 and viral load, inflammation marker (CRP)&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients from the Nîmes University Hospital who had a chest CT prescription for suspected&#xD;
+        COVID-19 since March 5, 2020 (start of the COVID-19 protocol) and until April 5&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients having had the LD and ULD acquisitions&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  scanner not passed through the COVID circuit, no ULD acquisition performed&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Julien FRANDON</name>
+      <address>
+        <city>Nîmes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 12, 2021</study_first_posted>
+  <last_update_submitted>March 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

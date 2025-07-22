@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4348">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04769297</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LM-LDK-001</org_study_id>
+    <nct_id>NCT04769297</nct_id>
+  </id_info>
+  <brief_title>Micro-Dose, Macro-Impact: Leveraging Psychedelics in Frontline Healthcare Workers During the COVID-19 Pandemic</brief_title>
+  <official_title>Micro-Dose, Macro-Impact: Leveraging Psychedelics in Frontline Healthcare Workers During the COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Limbic Medical</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Enovex Pharmacy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Limbic Medical</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A retrospective chart review of an open-label trial of low-dose ketamine administered to&#xD;
+      front-line Healthcare workers who were identified as experiencing acute stress disorder due&#xD;
+      to the COVID-19 Pandemic.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      An investigation of a novel, off-label use of an FDA approved drug (ketamine) in a low(micro)&#xD;
+      dose sublingual formulation of ketamine provided to front-line healthcare workers who were&#xD;
+      identified as suffering from acute stress disorder.&#xD;
+&#xD;
+      The study was conducted completely virtually via real-time telemedicine for physician visits&#xD;
+      and via asynchronous interaction for outcomes data collection.&#xD;
+&#xD;
+      Patients self-referred to the study via email outreach, and diagnosis was confirmed by&#xD;
+      medically validated screening assessments and study physician confirmation.&#xD;
+&#xD;
+      Once treatment was initiated, patients were seen via live telemedicine every 40 days while&#xD;
+      treatment response/outcomes data was collected weekly and monthly.&#xD;
+&#xD;
+      Patients were treated up to 120 days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">April 15, 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Retrospective, Open-label chart review</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient self-reported outcome measure</measure>
+    <time_frame>up to 120 days</time_frame>
+    <description>Perceived Stress Scale</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient self-reported outcome measure</measure>
+    <time_frame>up to 120 days</time_frame>
+    <description>15-Dimensional Health-Related Quality of Life Questionnaire 15-Dimensional Health-Related Quality of Life Questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient self-reported outcome measure</measure>
+    <time_frame>up to 120 days</time_frame>
+    <description>PCL-5 (PTSD checklist for DSM-5)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient self-reported outcome measure</measure>
+    <time_frame>up to 120 days</time_frame>
+    <description>Physical Health- NIH PROMIS Global</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient self-reported outcome measure</measure>
+    <time_frame>up to 120 days</time_frame>
+    <description>Mental Health- NIH PROMIS Global</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient self-reported outcome measure</measure>
+    <time_frame>up to 120 days</time_frame>
+    <description>Health Perception and Social Roles</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient self-reported outcome measure</measure>
+    <time_frame>up to 120 days</time_frame>
+    <description>Doctor's Note</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient self-reported outcome measure</measure>
+    <time_frame>up to 120 days</time_frame>
+    <description>NIH PROMIS CAT- Depression</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient self-reported outcome measure</measure>
+    <time_frame>up to 120 days</time_frame>
+    <description>NIH PROMIS CAT Neuro-QOL-Anxiety</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>Acute Stress Disorder</condition>
+  <arm_group>
+    <arm_group_label>Sublingual Micro-Dose Ketamine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ketamine micro-dose 37.5mg compounded sublingual daily administration</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sublingual Micro-Dose Ketamine</intervention_name>
+    <description>daily micro-dosing of frontline healthcare workers suffering from acute stress disorder due to the COVID-19 pandemic</description>
+    <arm_group_label>Sublingual Micro-Dose Ketamine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Greater than 18 years of age&#xD;
+&#xD;
+          2. Demonstrate capacity to consent to the study&#xD;
+&#xD;
+          3. A Frontline Health Care Worker-defined as any EMS personnel (firefighter, EMT, flight&#xD;
+             nurse, etc.), or any hospital-based worker (particularly in the ED, ICU, or OR) such&#xD;
+             as an RN, MD/DO, or non-clinical support staff (EVS, etc.)&#xD;
+&#xD;
+          4. Experiencing acute stress disorder as determined by clinically validated screening&#xD;
+             tools -&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Currently on prescription medications for psychiatric issues&#xD;
+&#xD;
+          2. Currently pregnant or breastfeeding or actively trying to get pregnant&#xD;
+&#xD;
+          3. History of seizure disorder, liver disease, or psychosis/mania&#xD;
+&#xD;
+          4. Uncontrolled Hypertension&#xD;
+&#xD;
+          5. Physician discretion: any condition deemed inappropriate that will increase the risk -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andre Atoian, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Limbic Medical</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Limbic Medical</name>
+      <address>
+        <city>Toluca Lake</city>
+        <state>California</state>
+        <zip>91602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 24, 2021</study_first_posted>
+  <last_update_submitted>February 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stress Disorders, Traumatic, Acute</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ketamine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

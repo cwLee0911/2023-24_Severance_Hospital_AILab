@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5581">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04829188</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY20080130</org_study_id>
+    <nct_id>NCT04829188</nct_id>
+  </id_info>
+  <brief_title>Comparative Effectiveness of Readmission Reduction Interventions for Individuals With Sepsis or Pneumonia</brief_title>
+  <acronym>ACCOMPLISH</acronym>
+  <official_title>Comparative Effectiveness of Readmission Reduction Interventions for Individuals With Sepsis or Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Patient-Centered Outcomes Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      An adaptive platform trial to compare effectiveness of different care models to prevent&#xD;
+      readmissions for patients hospitalized with sepsis or lower respiratory tract infection. The&#xD;
+      primary outcome is number of days spent at home within 90 days after hospital discharge.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study implements an adaptive platform trial to compare effectiveness of different care&#xD;
+      models to prevent readmissions for patients hospitalized with sepsis or lower respiratory&#xD;
+      tract infection and discharged to home (with or without a short stay in a skilled nursing&#xD;
+      facility prior to going home): structured telephone support (STS); low-intensity remote&#xD;
+      patient monitoring (RPM-Low); and high-intensity remote patient monitoring (RPM-High). The&#xD;
+      remote patient monitoring models will be staffed by a physician or a nurse (Standard Team) or&#xD;
+      by a dedicated nurse-practitioner (NP)-led multidisciplinary team (Enhanced Team). Patients&#xD;
+      will be randomized to one of five arms: STS, RPM-Low + Standard Team, RPM-Low + Enhanced&#xD;
+      Team, RPM-High + Standard Team, and RPM-High + Enhanced Team. Using response adaptive&#xD;
+      randomization (RAR), interim outcome results will be used to modify the random allocation of&#xD;
+      patients to each study arm. The primary outcome is number of days spent at home within 90&#xD;
+      days after hospital discharge. Patient-reported functional status and quality of life data&#xD;
+      will be collected in addition to electronic health record (EHR) and claims-based data to&#xD;
+      measure health care utilization. Qualitative interviews with patients and providers will&#xD;
+      provide insight into the effectiveness of the implementation process.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 30, 2021</start_date>
+  <completion_date type="Anticipated">July 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Post-discharge home days</measure>
+    <time_frame>90 days after discharge to home</time_frame>
+    <description>days alive and at home</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Functional Status (measured by PROMIS Physical Function-for Mobility Aid Users-SF)</measure>
+    <time_frame>baseline, 90 days</time_frame>
+    <description>Functional Status will be measured using the Patient-Reported Outcomes Measurement Information System (PROMIS) Physical Function - for Mobility Aid Users-SF. This measures one's ability to stand, walk, and perform activities of daily living if some participants utilize mobility aids such as wheelchairs. The minimum score for patients who can walk 25 feet is 11 and the maximum 55. The minimum score for patients who cannot walk 25 feet is 8 and the maximum score is 40. Higher scores indicate better function status for both groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-related Quality of Life (measured by Quality of Life Enjoyment and Satisfaction Questionnaire-SF)</measure>
+    <time_frame>baseline, 90 days</time_frame>
+    <description>Health-related Quality of Life will be measured using the Quality of Life Enjoyment and Satisfaction Questionnaire-SF. The Quality of Life Enjoyment and Satisfaction Questionnaire (Q-LES-Q) is a self-report measure designed to enable investigators to easily obtain sensitive measures of the degree of enjoyment and satisfaction experienced by subjects in various areas of daily functioning. The Quality of Life Enjoyment and Satisfaction Questionnaire - Short Form (Q-LES-Q-SF) is a 16 item self-administered questionnaire that captures life satisfaction over the past week. Each question is rated on a 5 point scale from 1 (Very Poor) to 5 (Very Good). A total score is derived from 14 items with a maximum score of 70 and with higher scores indicating greater life satisfaction and enjoyment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transition to Hospice</measure>
+    <time_frame>measured at 90 days after discharge to home</time_frame>
+    <description>Transition to Hospice will be assessed via health insurance claims.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Emergent outpatient utilization</measure>
+    <time_frame>measured at 90 days after discharge to home</time_frame>
+    <description>Emergent outpatient utilization includes emergency department visits and urgent care visits. It will be assessed via claims data at 90 days for study participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital readmissions</measure>
+    <time_frame>measured at 7 days</time_frame>
+    <description>Readmissions will be assessed via health insurance claims for any inpatient admissions after index admission.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital readmissions</measure>
+    <time_frame>measured at 30 days</time_frame>
+    <description>Readmissions will be assessed via health insurance claims for any inpatient admissions after index admission.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital readmissions</measure>
+    <time_frame>measured at 90 days</time_frame>
+    <description>Readmissions will be assessed via health insurance claims for any inpatient admissions after index admission.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>measured at 90 days</time_frame>
+    <description>Mortality will be assessed via claims data to see if and when the member/participant passes away.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">1668</enrollment>
+  <condition>Sepsis</condition>
+  <condition>Pneumonia</condition>
+  <condition>Lower Resp Tract Infection</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Structured Telephone Support (STS)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Post-discharge assessment, education, and medication reconciliation delivered telephonically by a health plan case manager, home care as needed, and follow-up with the primary care provider (PCP) within seven days post-discharge.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-intensity Remote Patient Monitoring (RPM) + Standard Response Team (RPM-Low, Standard Team)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Questions are pushed to members patients times per week for up to 90 days post-discharge. Questions are limited to those checking vital signs that indicate worsening of infection. Patient answers to RPM questions trigger High or Medium alerts, which trigger a response by members of the intervention care team. RPM alerts are screened by a nurse-staffed call center. Nurses determine whether emergency care is needed. If not, nurses contact the patient and/or the patients' primary care provider (PCP) or specialist to coordinate care and ensure timely follow-up.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-intensity Remote Patient Monitoring (RPM) plus the Standard Team (RPM-High, Standard Team)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Questions are pushed to patients multiple times per week for up to 90 days post-discharge. Questions include monitoring vital signs for worsening infection but also ask about factors that would indicate worsening of underlying heart or lung conditions, such as weight gain or shortness of breath. Patient answers to RPM questions trigger High or Medium alerts, which trigger a response by members of the intervention care team. RPM alerts are screened by a nurse-staffed call center. Nurses determine whether emergency care is needed. If not, nurses contact the patient and/or the patients' primary care provider (PCP) or specialist to coordinate care and ensure timely follow-up.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-intensity Remote Patient Monitoring (RPM) + Enhanced Team (RPM-Low, Enhanced Team)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Questions are pushed to patients multiple times per week for up to 90 days post-discharge. Questions are limited to those checking vital signs that indicate worsening of infection. Patient answers to RPM questions trigger High or Medium alerts, which trigger a response by members of the intervention care team. RPM alerts are screened by a nurse-staffed call center. Nurses determine whether emergency care is needed. If not, the call center alerts a multidisciplinary care team that is led by a certified registered nurse practitioner (CRNP). CRNPs, who operate in a palliative care role, have prescribing authority and can modify care plans. In addition to reacting to RPM triggers, team members (e.g., CRNP, social workers, nurses) meet with the patient in-person or virtually in the week after discharge and at least twice more in the next 90 days, conduct assessments and a pharmacy review, develop care plans, and discuss advance directives).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-intensity Remote Patient Monitoring (RPM) plus the Enhanced Team (RPM-High, Enhanced Team)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Questions are pushed to patients multiple times per week for up to 90 days post-discharge. Questions include monitoring vital signs for worsening infection but also ask about factors that would indicate worsening of underlying heart or lung conditions, such as weight gain or shortness of breath. Patient answers to RPM questions trigger High or Medium alerts, which trigger a response by members of the intervention care team. RPM alerts are screened by a nurse-staffed call center. Nurses determine whether emergency care is needed. If not, the call center alerts a multidisciplinary care team that is led by a certified registered nurse practitioner (CRNP). CRNPs, who operate in a palliative care role, have prescribing authority and can modify care plans.Team members (e.g., CRNP, social workers, nurses) address RPM triggers, meet with the patient three times, pharmacy review, develop care plans, and discuss advance directives).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Structured Telephone Support (STS)</intervention_name>
+    <description>Structured telephone support (STS) consists of post-discharge assessment, education, and medication reconciliation delivered telephonically by a health plan case manager, home care as needed, and follow-up with the primary care within seven days post-discharge.</description>
+    <arm_group_label>Structured Telephone Support (STS)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Low-intensity Remote Patient Monitoring (RPM-Low)</intervention_name>
+    <description>Questions are pushed to members multiple times per week for up to 90 days post-discharge. Questions are limited to those checking vital signs that indicate worsening of infection. Patient answers to RPM questions trigger High or Medium alerts, which trigger a response by members of the intervention care team.</description>
+    <arm_group_label>Low-intensity Remote Patient Monitoring (RPM) + Enhanced Team (RPM-Low, Enhanced Team)</arm_group_label>
+    <arm_group_label>Low-intensity Remote Patient Monitoring (RPM) + Standard Response Team (RPM-Low, Standard Team)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>High-intensity Remote Patient Monitoring (RPM-High)</intervention_name>
+    <description>Questions are pushed to members multiple times per week for up to 90 days post-discharge. Questions include monitoring vital signs for worsening infection but also ask about factors that would indicate worsening of underlying heart or lung conditions, such as weight gain or shortness of breath. Patient answers to RPM questions trigger High or Medium alerts, which trigger a response by members of the intervention care team.</description>
+    <arm_group_label>High-intensity Remote Patient Monitoring (RPM) plus the Enhanced Team (RPM-High, Enhanced Team)</arm_group_label>
+    <arm_group_label>High-intensity Remote Patient Monitoring (RPM) plus the Standard Team (RPM-High, Standard Team)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Standard Response Team</intervention_name>
+    <description>RPM alerts are screened by a nurse-staffed call center. Nurses determine whether emergency care is needed. If not, nurses contact the patient and/or the patients' PCP or specialist to coordinate care and ensure timely follow-up.</description>
+    <arm_group_label>High-intensity Remote Patient Monitoring (RPM) plus the Standard Team (RPM-High, Standard Team)</arm_group_label>
+    <arm_group_label>Low-intensity Remote Patient Monitoring (RPM) + Standard Response Team (RPM-Low, Standard Team)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Enhanced Response Team</intervention_name>
+    <description>RPM alerts are screened by a nurse-staffed call center. Nurses determine whether emergency care is needed. If not, the call center alerts a multidisciplinary care team that is led by a certified registered nurse practitioner (CRNP). CRNPs, who operate in a palliative care role, have prescribing authority and can modify care plans. In addition to reacting to RPM triggers, team members (e.g., CRNP, social workers, nurses) meet with the patient in-person or virtually in the week after discharge and at least twice more in the next 90 days, conduct assessments and a pharmacy review, develop care plans, and discuss advance directives.</description>
+    <arm_group_label>High-intensity Remote Patient Monitoring (RPM) plus the Enhanced Team (RPM-High, Enhanced Team)</arm_group_label>
+    <arm_group_label>Low-intensity Remote Patient Monitoring (RPM) + Enhanced Team (RPM-Low, Enhanced Team)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  UPMC Health Plan members&#xD;
+&#xD;
+          -  Age 21+ -Hospitalized with a primary diagnosis of sepsis or lower respiratory tract&#xD;
+             infection, --&#xD;
+&#xD;
+          -  Discharged to home, independent living facility, or skilled nursing facility&#xD;
+&#xD;
+          -  Readmission risk is moderate or high&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Admitted from hospice;&#xD;
+&#xD;
+          -  Discharged to hospice, inpatient rehabilitation, or a long term acute care facility;&#xD;
+&#xD;
+          -  Known to be pregnant;&#xD;
+&#xD;
+          -  Current enrollment in another remote patient monitoring program;&#xD;
+&#xD;
+          -  Failure of the Callahan 6 item cognitive screen and do not have a proxy to consent;&#xD;
+&#xD;
+          -  No access to a technological device required to participate in remote patient&#xD;
+             monitoring program;&#xD;
+&#xD;
+          -  Current enrollment in UPMC Advanced Illness Care program;&#xD;
+&#xD;
+          -  Severe, persistent cognitive impairment;&#xD;
+&#xD;
+          -  No documented PCP;&#xD;
+&#xD;
+          -  PCP disapproves of the patient being enrolled in remote patient monitoring;&#xD;
+&#xD;
+          -  Discharged from hospital to skilled nursing facility and stay at the skilled nursing&#xD;
+             facility for greater than 28 days&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Namita Ahuja Yende, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UPMC Health Plan</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sachin Yende, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kristin Mayes, MS</last_name>
+    <phone>3179184282</phone>
+    <email>mayeskl@upmc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Suzanne Kinsky, PhD MPH</last_name>
+    <phone>4124548347</phone>
+    <email>kinskys@upmc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UPMC Presbyterian</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Namita Ahuja Yende</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 2, 2021</study_first_posted>
+  <last_update_submitted>April 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>Namita Ahuja</investigator_full_name>
+    <investigator_title>Clinical Assistant Professor of Medicine</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sepsis</mesh_term>
+    <mesh_term>Toxemia</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

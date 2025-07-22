@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5738">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03483935</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2016DS12</org_study_id>
+    <nct_id>NCT03483935</nct_id>
+  </id_info>
+  <brief_title>Microwave Therapy for Treatment of Precancerous Actinic Keratoses</brief_title>
+  <acronym>MTAK</acronym>
+  <official_title>Microwave Therapy for Treatment of Precancerous Actinic Keratoses</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Dundee</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Emblation Limited</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Dundee</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a two-stage feasibility study to determine if focussed microwave energy is a suitable&#xD;
+      treatment for Actinic Keratoses (AK).&#xD;
+&#xD;
+      The two study stages are as follows:&#xD;
+&#xD;
+      Stage 1:&#xD;
+&#xD;
+      To determine the electrical properties of permittivity in AK on the hand and bald scalp for&#xD;
+      subsequent optimisation of the SWIFT instrument to provide the correct dose of microwave&#xD;
+      energy to the AK.&#xD;
+&#xD;
+      Stage 2:&#xD;
+&#xD;
+        1. Evaluate the efficacy of microwave energy as a treatment for AK&#xD;
+&#xD;
+        2. Evaluate the long-term resolution of AK following microwave treatment&#xD;
+&#xD;
+        3. Assess the feasibility and acceptability of using microwave energy as a treatment for AK&#xD;
+&#xD;
+        4. Identify the potential mode of action of microwave energy in the treatment of AK.&#xD;
+&#xD;
+      The primary objective is to evaluate the efficacy of microwave therapy versus no treatment on&#xD;
+      the resolution of AK lesions using visual assessment. The primary outcome measure is full or&#xD;
+      partial resolution of the AK assessed by skin examination.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a collaboration between the University of Dundee, NHS Tayside and Emblation&#xD;
+      Ltd, funded by Innovate UK. Emblation is a Scottish based Small Medium sized Enterprise (SME)&#xD;
+      and is an established global leader in the design, development and manufacture of microwave&#xD;
+      medical devices.&#xD;
+&#xD;
+      Actinic keratoses (AK) are believed the most common pre-cancerous lesions in humans and are&#xD;
+      precursors to invasive cutaneous squamous cell carcinoma (cSCC), a malignancy that has more&#xD;
+      than doubled in incidence in the UK in the last decade due to ageing populations and&#xD;
+      increased UV exposure (Goon 2017). The UK incidence of cSCC now exceeds 30,000 annually&#xD;
+      (estimated &gt;50,000 cases/year, Public Health England, unpublished data) with significant&#xD;
+      health burden and NHS costs These skin cancers are often multiple, especially in&#xD;
+      immunosuppressed high-risk populations. AK are very common &quot;sun damage&quot; skin lesions found on&#xD;
+      sun-exposed areas of the skin, such as the backs of hands and bald scalp. Up to 70% of our&#xD;
+      elderly population have AK and 65% of cSCC arise from previously identified AK. AK are&#xD;
+      readily identified clinically so AK treatment offers an important opportunity for cancer&#xD;
+      prevention, but our ability to treat is limited by undesirable local adverse reactions from&#xD;
+      existing topical treatments which fail to balance effectiveness, side effects and cost. None&#xD;
+      of the currently available treatments for AK are suitable for widespread use in the community&#xD;
+      and are only partially effective. Other more effective treatments such as photodynamic&#xD;
+      therapy are expensive and time consuming and need to be delivered by experts in secondary&#xD;
+      care. NHS dermatologists are already overburdened and elderly patients with AK do not wish to&#xD;
+      travel. AK therapy would be greatly improved by a cheap, convenient, well-tolerated and&#xD;
+      efficacious therapy that can be delivered closer to home by General Practitioners (GPs) or&#xD;
+      nurses.&#xD;
+&#xD;
+      Clinically, AK display a spectrum of severity from mild Grade 1 lesions, which are just&#xD;
+      visible and just (barely) palpable, through Grade 2 red and scaly lesions (easily felt and&#xD;
+      seen), to the most severe Grade 3 lesions, which are grossly hyperkeratotic and &quot;thickened&quot;&#xD;
+      skin lesions. In practice, it is easier to grade them as 'thin' (just palpable) or 'thick'&#xD;
+      (with substance to them). It is possible that the dielectric properties of Thick and Thin AK&#xD;
+      will differ and therefore the measurement study will need to be carried out on both types of&#xD;
+      AK such that the appropriate microwave dose can be given to these variable skin lesions&#xD;
+&#xD;
+      The investigator's hypothesis is that localised microwave energy therapy is a suitable&#xD;
+      treatment for Actinic Keratosis (AK) skin lesions.&#xD;
+&#xD;
+      The use of microwave technology is well established as ablative doses for treatment of&#xD;
+      malignancy e.g. hepatocellular carcinoma. There are no known studies using microwave for&#xD;
+      treatment of pre-cancerous skin conditions or skin cancers. Furthermore, there is very little&#xD;
+      understanding of the biological process evoked by localised microwave exposure in the skin or&#xD;
+      of the clinically-relevant biological mechanisms triggered.&#xD;
+&#xD;
+      Emblation already have a CE-marked microwave instrument used successfully for the treatment&#xD;
+      of plantar viral warts, the SWIFT device. The investigators now wish to undertake a&#xD;
+      feasibility trial in 12 participants, each with multiple AK on dorsal hand skin or bald scalp&#xD;
+      or both. The trial will examine the tolerability, acceptability, efficacy and long-term&#xD;
+      resolution of AK following one or more treatments with microwave energy delivered using the&#xD;
+      SWIFT device.&#xD;
+&#xD;
+      Previous studies performed by Emblation using SWIFT on plantar viral warts found it to be&#xD;
+      effective and safe. Some participants experienced minor discomfort during the microwave&#xD;
+      therapy but any pain stopped when treatment stopped. Some reddening of the skin at the&#xD;
+      treatment site may occur but this resolved after 24 hours. Some instances of a haematoma have&#xD;
+      been seen at larger doses, typically resolving within 7 days.&#xD;
+&#xD;
+      This will be a two-stage study, stage 1 to measure the electrical properties of AKs in&#xD;
+      patients. The data from stage 1 allows derivation of the power settings to be used with SWIFT&#xD;
+      for AK in stage 2, to conduct a randomised controlled trial of microwave treatment, delivered&#xD;
+      using SWIFT, versus no treatment.&#xD;
+&#xD;
+      The SWIFT device has variable power and duration controls, the protocol suitable for plantar&#xD;
+      viral warts is unlikely to be compatible with AK. Plantar warts (verrucas) are considerably&#xD;
+      thicker than AK and are located on much thicker, more robust areas of normal skin. AK are&#xD;
+      most common in the elderly population and are located on thinner, more delicate skin. The&#xD;
+      investigators therefore anticipate that AK will require a smaller dose of microwave energy&#xD;
+      than plantar warts. In order to derive the correct power and duration settings for the Swift&#xD;
+      instrument and impart the correct amount of electromagnetic energy (referred to as dose) into&#xD;
+      the AK, the dielectric properties of AK need to be determined to confirm how the specific&#xD;
+      tissue responds to the electromagnetic energy (microwave). By measuring relative permittivity&#xD;
+      (commonly abbreviated to Epsilon relative Er) the dielectric properties of the AK can be&#xD;
+      determined.&#xD;
+&#xD;
+      The established method of measurement requires the tissue/material under test to come into&#xD;
+      contact with a specially designed probe attached to an instrument that measures the response&#xD;
+      to a radiated signal at the same frequency (8GHz) as that used in Emblation's product&#xD;
+      &quot;Swift&quot;. There are a number of instrument and probe manufacturers e.g. Keysight (HP/Agilent),&#xD;
+      SPEAG, Anritsu. The probe can be used to test solids, liquids and biological tissues by&#xD;
+      placing the probe in direct contact for a few seconds whilst remaining still during data&#xD;
+      acquisition by the instrument.&#xD;
+&#xD;
+      The instrument (Anritsu MS46122A) providing the probe excitation conforms to the following&#xD;
+      standards: CE Mark, Low voltage (2006/95/EC) and Safety (EN 61010-1:2010). The energy&#xD;
+      imparted into the lesion for the measurement will not exceed 0.5mW, by way of comparison this&#xD;
+      is far less than a mobile phone (up to 500mW) and a FitBit (1.6mW) thus there is no inherent&#xD;
+      danger to the volunteer.&#xD;
+&#xD;
+      Emblation employees will operate the instruments and direct the subjects to the probe. Other&#xD;
+      study team staff may work in conjunction with NHS staff at the time of recruitment and/or at&#xD;
+      the time of measurement.&#xD;
+&#xD;
+      Microwave energy is converted to heat in the skin layers and forms the basis of the therapy.&#xD;
+      The target temperature of 43-46 degrees Centigrade is crucial in eliciting the correct immune&#xD;
+      response in the tissue. As the current instrument is 'tuned' with an antenna for plantar&#xD;
+      warts, it may not be as efficient at imparting the energy into the AK lesions and the target&#xD;
+      temperature may not be achieved with the same power and duration settings. Conversely, if the&#xD;
+      AK provides a more efficient conversion of microwave to temperature, potentially too high a&#xD;
+      temperature may be reached at a given power and duration combination. Stage 1 data will be&#xD;
+      analysed to model the efficiency of the current antenna in computer simulations and values&#xD;
+      for input power (W) and duration (s) will be derived from the modelling data, subsequently to&#xD;
+      be used in the stage 2 of the trial. This will provide the correct dose of microwave energy&#xD;
+      to be used in Stage 2.&#xD;
+&#xD;
+      Once the settings required for AK have been determined, participants will be recruited into&#xD;
+      Stage 2 in order to determine efficacy, long term resolution, tolerability and potential mode&#xD;
+      of action of microwave treatment for AK.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 7, 2018</start_date>
+  <completion_date type="Actual">February 28, 2019</completion_date>
+  <primary_completion_date type="Actual">February 28, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomised, internally controlled trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Resolution of AK Lesions Following Microwave Treatment</measure>
+    <time_frame>Baseline, day 8, 15, 28, 42, 60 and 120</time_frame>
+    <description>The resolution of each treated AK lesion will be determined by clinical assessment. Resolution is predetermined as either partial (resolution of the area covered by the microwave probe, but with a rim or persistent AK) or full (complete resolution of the entire AK) over all time periods. Response will be assessed at visits 3 (day 8), 4 (day 15), 6 (day 28), 8 (day 42), 10 (day 60) and 11 (day 120). Mixed-effects logistic regression models analysed the effect of microwave therapy with random effects for participant and visit (≤ 6 per participant). Each visit will be analysed as a categorical variable as they were spaced unequally in time. Variables representing sex, age, skin site (hand/scalp) and AK subtype (thick/thin) will be included as covariates. The data reported in the outcome table is the number of resolved AK lesions.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Complete Resolution of AKs Following Microwave Treatment</measure>
+    <time_frame>Baseline, day 8, 15, 28, 42, 60 and 120</time_frame>
+    <description>The resolution of each treated AK lesion will be determined by clinical assessment. Resolution is predetermined as either partial (resolution of the area covered by the microwave probe, but with a rim or persistent AK) or full (complete resolution of the entire AK) over all time periods. Treatment will be given at day 1, with a second treatment on day 28 based on a clinical decision. Response will be assessed at visits 3 (day 8), 4 (day 15), 6 (day 28), 8 (day 42), 10 (day 60) and 11 (day 120). Clinical photos will be taken at each hospital visit. Mixed-effects logistic regression models analysed the effect of microwave therapy with random effects for participant and visit (≤ 6 per participant). Each visit will be analysed as a categorical variable as they were spaced unequally in time. Variables representing sex, age, skin site (hand/scalp) and AK subtype (thick/thin) will be included as covariates.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Partial Resolution of AKs Following Microwave Treatment</measure>
+    <time_frame>Baseline, day 8, 15, 28, 42, 60 and 120</time_frame>
+    <description>The resolution of each treated AK lesion will be determined by clinical assessment. Resolution is predetermined as either partial (resolution of the area covered by the microwave probe, but with a rim or persistent AK) or full (complete resolution of the entire AK) over all time periods. Treatment will be given at day 1, with a second treatment on day 28 based on a clinical decision. Response will be assessed at visits 3 (day 8), 4 (day 15), 6 (day 28), 8 (day 42), 10 (day 60) and 11 (day 120). Clinical photos will be taken at each hospital visit. Mixed-effects logistic regression models analysed the effect of microwave therapy with random effects for participant and visit (≤ 6 per participant). Each visit will be analysed as a categorical variable as they were spaced unequally in time. Variables representing sex, age, skin site (hand/scalp) and AK subtype (thick/thin) will be included as covariates.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Level of Pain Experienced During Treatment</measure>
+    <time_frame>Treatment 1 (day 1) and treatment 2 (day 28)</time_frame>
+    <description>To evaluate the safety and tolerability of microwave treatment as a therapy for AK, participants were asked about level of pain during treatment. Participants were asked to rate their pain level during each treatment as i) mild, ii) moderate or iii) severe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Pain Post Treatment</measure>
+    <time_frame>Treatment 1 (day 1) and Treatment 2 (day 28)</time_frame>
+    <description>To evaluate the safety and tolerability of microwave treatment as a therapy for AK, participants were asked about the duration of pain immediately after each treatment. Duration was grouped into 5 pre-determined periods, i) few seconds, ii) up to 5 minutes, iii) up to 10 minutes, iv) up to 20 minutes and v) over 30 minutes. The decision to administer a second treatment was made by the investigator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Ki67 Staining Determined Immunohistochemically by the Use of Specific Antibodies on Fixed Material</measure>
+    <time_frame>Day 15 OR day 42</time_frame>
+    <description>To identify the mode of action of microwave treatment on biomarkers of cell proliferation as a therapy for AK. Study team has not been able to analyse samples due to limitations on resources and capacity in Tayside Biorepository due to COVID related issues</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Hematoxylin and Eosin Stain</measure>
+    <time_frame>Day 15 OR day 42</time_frame>
+    <description>To identify the mode of action of microwave treatment on biomarkers of cell survival. Study team has not been able to analyse samples due to limitations on resources and capacity in Tayside Biorepository due to COVID related issues</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Apoptotic Cells Determined Using the ApopTag Peroxidase Detection Kit</measure>
+    <time_frame>Day 15 OR day 42</time_frame>
+    <description>To identify the mode of action of microwave treatment on biomarkers of stress response. Study team has not been able to analyse samples due to limitations on resources and capacity in Tayside Biorepository due to COVID related issues.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Gene Activity Determined by ApopTag Peroxidase</measure>
+    <time_frame>Day 15 OR day 42</time_frame>
+    <description>To identify the mode of action of microwave treatment on gene activity. Study team has not been able to analyse samples due to limitations on resources and capacity in Tayside Biorepository due to COVID related issues</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">18</enrollment>
+  <condition>Actinic Keratoses</condition>
+  <condition>Precancerous Skin Lesion</condition>
+  <arm_group>
+    <arm_group_label>Microwave energy treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The microwave treatment will be delivered using the microwave instrument, SWIFT, manufactured by Emblation and CE marked for this indication, will be used to deliver the microwave treatment. The microwave dose will be between 2 Watt and 4 Watt. The treatment will consist of 3, 2 to 3 second bursts delivered to the same lesion with 5-20 seconds between bursts.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No treatment will be given.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Microwave treatment</intervention_name>
+    <description>Microwave energy delivered using the microwave instrument, SWIFT, manufactured by Emblation and CE marked for dermatology applications.</description>
+    <arm_group_label>Microwave energy treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female participants&#xD;
+&#xD;
+          -  Age 18 years and over&#xD;
+&#xD;
+          -  Clinical diagnosis of precancerous Actinic Keratosis made by a dermatologist&#xD;
+&#xD;
+          -  Able to perform study assessments&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to give informed consent&#xD;
+&#xD;
+          -  Implantable Cardioverter-defibrillator (ICD), pacemaker or other implantable device&#xD;
+&#xD;
+          -  Metal implants at site of treatment&#xD;
+&#xD;
+          -  Known allergy or intolerance to microwave therapy&#xD;
+&#xD;
+          -  Unstable co-morbidities (cardiovascular disease, active malignancy, vasculopathy,&#xD;
+             inflammatory arthritis) which, in the opinion of the Chief Investigator (CI), would&#xD;
+             make the patient unsuitable to be enrolled in the study.&#xD;
+&#xD;
+          -  Individuals who are immunosuppressed (organ transplant recipients, haematologic&#xD;
+             malignancies, HIV).&#xD;
+&#xD;
+          -  Individuals will not be enrolled to the study if they are participating in the&#xD;
+             clinical phase of another interventional trial or have done so within the last 30&#xD;
+             days. Individuals who are participating in the follow-up phase of another&#xD;
+             interventional trial, or who are enrolled in an observational study, will be&#xD;
+             co-enrolled where the CIs of each study agree that it is appropriate.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Charlotte Proby, MBCHB</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Dundee</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>NHS Tayside</name>
+      <address>
+        <city>Dundee</city>
+        <zip>DD1 9SY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <reference>
+    <citation>Bristow I, Lim WC, Lee A, Holbrook D, Savelyeva N, Thomson P, Webb C, Polak M, Ardern-Jones MR. Microwave therapy for cutaneous human papilloma virus infection. Eur J Dermatol. 2017 Oct 1;27(5):511-518. doi: 10.1684/ejd.2017.3086.</citation>
+    <PMID>29084638</PMID>
+  </reference>
+  <reference>
+    <citation>Criscione VD, Weinstock MA, Naylor MF, Luque C, Eide MJ, Bingham SF; Department of Veteran Affairs Topical Tretinoin Chemoprevention Trial Group. Actinic keratoses: Natural history and risk of malignant transformation in the Veterans Affairs Topical Tretinoin Chemoprevention Trial. Cancer. 2009 Jun 1;115(11):2523-30. doi: 10.1002/cncr.24284.</citation>
+    <PMID>19382202</PMID>
+  </reference>
+  <reference>
+    <citation>Eder J, Prillinger K, Korn A, Geroldinger A, Trautinger F. Prevalence of actinic keratosis among dermatology outpatients in Austria. Br J Dermatol. 2014 Dec;171(6):1415-21. doi: 10.1111/bjd.13132. Epub 2014 Nov 19.</citation>
+    <PMID>24864059</PMID>
+  </reference>
+  <reference>
+    <citation>Goon PK, Greenberg DC, Igali L, Levell NJ. Squamous Cell Carcinoma of the Skin has More Than Doubled Over the Last Decade in the UK. Acta Derm Venereol. 2016 Aug 23;96(6):820-1. doi: 10.2340/00015555-2310.</citation>
+    <PMID>26631391</PMID>
+  </reference>
+  <reference>
+    <citation>Liang P, Wang Y. Microwave ablation of hepatocellular carcinoma. Oncology. 2007;72 Suppl 1:124-31. Epub 2007 Dec 13. Review.</citation>
+    <PMID>18087193</PMID>
+  </reference>
+  <reference>
+    <citation>Marks R, Rennie G, Selwood TS. Malignant transformation of solar keratoses to squamous cell carcinoma. Lancet. 1988 Apr 9;1(8589):795-7.</citation>
+    <PMID>2895318</PMID>
+  </reference>
+  <reference>
+    <citation>Martin R.C.G. (2011) Microwave Ablation and Hepatocellular Carcinoma. In: McMasters K. (eds) Hepatocellular Carcinoma:. Springer, New York, NY</citation>
+  </reference>
+  <reference>
+    <citation>Poggi G, Tosoratti N, Montagna B, Picchi C. Microwave ablation of hepatocellular carcinoma. World J Hepatol. 2015 Nov 8;7(25):2578-89. doi: 10.4254/wjh.v7.i25.2578. Review.</citation>
+    <PMID>26557950</PMID>
+  </reference>
+  <reference>
+    <citation>Wang T, Lu XJ, Chi JC, Ding M, Zhang Y, Tang XY, Li P, Zhang L, Zhang XY, Zhai B. Microwave ablation of hepatocellular carcinoma as first-line treatment: long term outcomes and prognostic factors in 221 patients. Sci Rep. 2016 Sep 13;6:32728. doi: 10.1038/srep32728.</citation>
+    <PMID>27620527</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 22, 2018</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2018</study_first_posted>
+  <results_first_submitted>June 2, 2020</results_first_submitted>
+  <results_first_submitted_qc>February 19, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 23, 2021</results_first_posted>
+  <last_update_submitted>February 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Dundee</investigator_affiliation>
+    <investigator_full_name>Charlotte Proby</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Keratosis, Actinic</mesh_term>
+    <mesh_term>Keratosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>September 26, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/35/NCT03483935/Prot_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 7, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/35/NCT03483935/SAP_002.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Participants were recruited to the Stage 1, dose finding study in March 2018.&#xD;
+Participants were recruited to Stage 2, the RCT, between May 2018 and October 2018.&#xD;
+Participants for both stages were recruited from the Department of Dermatology, Ninewells Hospital, NHS Tayside, UK.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Trial Population</title>
+          <description>Stage 1: Determine the electrical properties of AKs Stage 2: Evaluate the efficacy of microwave energy as a treatment for AK</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Stage 1: Dose Setting Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Stage 2: Randomised Controlled Trial</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="11">Participants were randomised to receiving treatment on the left or right side.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>AKs Treated</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>AKs Not Treated</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>History of skin cancer was not collected for Dose Finding population History of other cancer was not collected for the Dose Finding population</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Dose Finding Population</title>
+          <description>Consented participants had the electric properties of permittivity in AK on hand and bald scalp assessed for subsequent optimisation of the dose of microwave therapy to be used in the RCT.</description>
+        </group>
+        <group group_id="B2">
+          <title>RCT Study Population</title>
+          <description>This was a randomized, internally controlled, feasibility study. Consented participants had the treatment site (scalp/forehead or hands) selected based on a clinical decision. Participants were randomized to treatment to the left or right side.&#xD;
+The microwave treatment was delivered using the microwave instrument, SWIFT, manufactured by Emblation and CE marked for this indication. The microwave dose was between 2 Watt and 4 Watt. The treatment will consist of 3, 2 to 3 second bursts delivered to the same lesion with 5-20 seconds between bursts.&#xD;
+No treatment was administered to the control side.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="7"/>
+            <count group_id="B2" value="11"/>
+            <count group_id="B3" value="18"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="7"/>
+                    <count group_id="B2" value="11"/>
+                    <count group_id="B3" value="18"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="74" spread="7"/>
+                    <measurement group_id="B2" value="78" spread="6"/>
+                    <measurement group_id="B3" value="NA" spread="NA">Different patient populations for stage 1 and stage 2</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="7"/>
+                    <count group_id="B2" value="11"/>
+                    <count group_id="B3" value="18"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>History of skin cancer</title>
+          <population>Data were not collected</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="11"/>
+                    <count group_id="B3" value="11"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>History of other cancer</title>
+          <population>Data were not collected</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="11"/>
+                    <count group_id="B3" value="11"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Resolution of AK Lesions Following Microwave Treatment</title>
+        <description>The resolution of each treated AK lesion will be determined by clinical assessment. Resolution is predetermined as either partial (resolution of the area covered by the microwave probe, but with a rim or persistent AK) or full (complete resolution of the entire AK) over all time periods. Response will be assessed at visits 3 (day 8), 4 (day 15), 6 (day 28), 8 (day 42), 10 (day 60) and 11 (day 120). Mixed-effects logistic regression models analysed the effect of microwave therapy with random effects for participant and visit (≤ 6 per participant). Each visit will be analysed as a categorical variable as they were spaced unequally in time. Variables representing sex, age, skin site (hand/scalp) and AK subtype (thick/thin) will be included as covariates. The data reported in the outcome table is the number of resolved AK lesions.</description>
+        <time_frame>Baseline, day 8, 15, 28, 42, 60 and 120</time_frame>
+        <population>Eleven participants were randomized and 179 AKs (93 treated, 86 untreated) assessed. All participants completed treatment as planned.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Microwave Energy Treatment</title>
+            <description>Microwave dose for participants 1 and 2 was 5 Watt. Dose for participants 3 through 9 was between 2 Watt and 4 Watt. Treatment consists of 3, 2 to 3 second bursts of microwave energy, delivered to the same lesion with 5-20 seconds between bursts.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>No treatment</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Resolution of AK Lesions Following Microwave Treatment</title>
+          <description>The resolution of each treated AK lesion will be determined by clinical assessment. Resolution is predetermined as either partial (resolution of the area covered by the microwave probe, but with a rim or persistent AK) or full (complete resolution of the entire AK) over all time periods. Response will be assessed at visits 3 (day 8), 4 (day 15), 6 (day 28), 8 (day 42), 10 (day 60) and 11 (day 120). Mixed-effects logistic regression models analysed the effect of microwave therapy with random effects for participant and visit (≤ 6 per participant). Each visit will be analysed as a categorical variable as they were spaced unequally in time. Variables representing sex, age, skin site (hand/scalp) and AK subtype (thick/thin) will be included as covariates. The data reported in the outcome table is the number of resolved AK lesions.</description>
+          <population>Eleven participants were randomized and 179 AKs (93 treated, 86 untreated) assessed. All participants completed treatment as planned.</population>
+          <units>AK lesions</units>
+          <param>Count of Units</param>
+          <units_analyzed>AK lesions</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>AK lesions</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="93"/>
+                <count group_id="O2" value="86"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 8</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="73"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 15</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="73"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="86"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 42</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="86"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 60</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="81"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 120</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="84"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Complete Resolution of AKs Following Microwave Treatment</title>
+        <description>The resolution of each treated AK lesion will be determined by clinical assessment. Resolution is predetermined as either partial (resolution of the area covered by the microwave probe, but with a rim or persistent AK) or full (complete resolution of the entire AK) over all time periods. Treatment will be given at day 1, with a second treatment on day 28 based on a clinical decision. Response will be assessed at visits 3 (day 8), 4 (day 15), 6 (day 28), 8 (day 42), 10 (day 60) and 11 (day 120). Clinical photos will be taken at each hospital visit. Mixed-effects logistic regression models analysed the effect of microwave therapy with random effects for participant and visit (≤ 6 per participant). Each visit will be analysed as a categorical variable as they were spaced unequally in time. Variables representing sex, age, skin site (hand/scalp) and AK subtype (thick/thin) will be included as covariates.</description>
+        <time_frame>Baseline, day 8, 15, 28, 42, 60 and 120</time_frame>
+        <population>Eleven participants were randomized and 179 AKs (93 treated, 86 untreated) assessed. All participants completed treatment as planned.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Microwave Energy Treatment</title>
+            <description>Microwave dose for participants 1 and 2 was 5 Watt. Dose for participants 3 through 9 was between 2 Watt and 4 Watt. Treatment consists of 3, 2 to 3 second bursts of microwave energy, delivered to the same lesion with 5-20 seconds between bursts.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>No treatment</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Complete Resolution of AKs Following Microwave Treatment</title>
+          <description>The resolution of each treated AK lesion will be determined by clinical assessment. Resolution is predetermined as either partial (resolution of the area covered by the microwave probe, but with a rim or persistent AK) or full (complete resolution of the entire AK) over all time periods. Treatment will be given at day 1, with a second treatment on day 28 based on a clinical decision. Response will be assessed at visits 3 (day 8), 4 (day 15), 6 (day 28), 8 (day 42), 10 (day 60) and 11 (day 120). Clinical photos will be taken at each hospital visit. Mixed-effects logistic regression models analysed the effect of microwave therapy with random effects for participant and visit (≤ 6 per participant). Each visit will be analysed as a categorical variable as they were spaced unequally in time. Variables representing sex, age, skin site (hand/scalp) and AK subtype (thick/thin) will be included as covariates.</description>
+          <population>Eleven participants were randomized and 179 AKs (93 treated, 86 untreated) assessed. All participants completed treatment as planned.</population>
+          <units>Number of lesions</units>
+          <param>Count of Units</param>
+          <units_analyzed>Number of lesions</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>Number of lesions</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="93"/>
+                <count group_id="O2" value="86"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 8</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 15</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 42</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 60</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="41"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 120</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="39"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Partial Resolution of AKs Following Microwave Treatment</title>
+        <description>The resolution of each treated AK lesion will be determined by clinical assessment. Resolution is predetermined as either partial (resolution of the area covered by the microwave probe, but with a rim or persistent AK) or full (complete resolution of the entire AK) over all time periods. Treatment will be given at day 1, with a second treatment on day 28 based on a clinical decision. Response will be assessed at visits 3 (day 8), 4 (day 15), 6 (day 28), 8 (day 42), 10 (day 60) and 11 (day 120). Clinical photos will be taken at each hospital visit. Mixed-effects logistic regression models analysed the effect of microwave therapy with random effects for participant and visit (≤ 6 per participant). Each visit will be analysed as a categorical variable as they were spaced unequally in time. Variables representing sex, age, skin site (hand/scalp) and AK subtype (thick/thin) will be included as covariates.</description>
+        <time_frame>Baseline, day 8, 15, 28, 42, 60 and 120</time_frame>
+        <population>Eleven participants were randomized and 179 AKs (93 treated, 86 untreated) assessed. All participants completed treatment as planned.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Microwave Energy Treatment</title>
+            <description>Microwave dose for participants 1 and 2 was 5 Watt. Dose for participants 3 through 9 was between 2 Watt and 4 Watt. Treatment consists of 3, 2 to 3 second bursts of microwave energy, delivered to the same lesion with 5-20 seconds between bursts.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>No treatment</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Partial Resolution of AKs Following Microwave Treatment</title>
+          <description>The resolution of each treated AK lesion will be determined by clinical assessment. Resolution is predetermined as either partial (resolution of the area covered by the microwave probe, but with a rim or persistent AK) or full (complete resolution of the entire AK) over all time periods. Treatment will be given at day 1, with a second treatment on day 28 based on a clinical decision. Response will be assessed at visits 3 (day 8), 4 (day 15), 6 (day 28), 8 (day 42), 10 (day 60) and 11 (day 120). Clinical photos will be taken at each hospital visit. Mixed-effects logistic regression models analysed the effect of microwave therapy with random effects for participant and visit (≤ 6 per participant). Each visit will be analysed as a categorical variable as they were spaced unequally in time. Variables representing sex, age, skin site (hand/scalp) and AK subtype (thick/thin) will be included as covariates.</description>
+          <population>Eleven participants were randomized and 179 AKs (93 treated, 86 untreated) assessed. All participants completed treatment as planned.</population>
+          <units>Number of Lesions</units>
+          <param>Count of Units</param>
+          <units_analyzed>Number of Lesions</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>Number of Lesions</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="93"/>
+                <count group_id="O2" value="86"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 8</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="69"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 15</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="66"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="66"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 42</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="63"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 60</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="40"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 120</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="45"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Level of Pain Experienced During Treatment</title>
+        <description>To evaluate the safety and tolerability of microwave treatment as a therapy for AK, participants were asked about level of pain during treatment. Participants were asked to rate their pain level during each treatment as i) mild, ii) moderate or iii) severe.</description>
+        <time_frame>Treatment 1 (day 1) and treatment 2 (day 28)</time_frame>
+        <population>11 participants had a total of 93 AKs treated at visit 1 (day 1), with 10 participants having a total of 51 of the original 93 AKs receiving a second treatment at visit 6 (day 28).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment 1</title>
+            <description>First microwave treatment, administered at visit 1, day 1</description>
+          </group>
+          <group group_id="O2">
+            <title>Treatment 2</title>
+            <description>Second microwave treatment, administered at visit 6, day 28</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Level of Pain Experienced During Treatment</title>
+          <description>To evaluate the safety and tolerability of microwave treatment as a therapy for AK, participants were asked about level of pain during treatment. Participants were asked to rate their pain level during each treatment as i) mild, ii) moderate or iii) severe.</description>
+          <population>11 participants had a total of 93 AKs treated at visit 1 (day 1), with 10 participants having a total of 51 of the original 93 AKs receiving a second treatment at visit 6 (day 28).</population>
+          <units>Number of AK lesions treated</units>
+          <param>Number</param>
+          <units_analyzed>Number of AK lesions treated</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>Number of AK lesions treated</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="93"/>
+                <count group_id="O2" value="51"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Mild pain during treatment</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Moderate pain during treatment</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="32"/>
+                    <measurement group_id="O2" value="27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Severe pain during treatment</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="54"/>
+                    <measurement group_id="O2" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Pain Post Treatment</title>
+        <description>To evaluate the safety and tolerability of microwave treatment as a therapy for AK, participants were asked about the duration of pain immediately after each treatment. Duration was grouped into 5 pre-determined periods, i) few seconds, ii) up to 5 minutes, iii) up to 10 minutes, iv) up to 20 minutes and v) over 30 minutes. The decision to administer a second treatment was made by the investigator.</description>
+        <time_frame>Treatment 1 (day 1) and Treatment 2 (day 28)</time_frame>
+        <population>11 participants had a total of 93 AKs treated at visit 1 (day 1), with 10 participants having a total of 51 of the original 93 AKs receiving a second treatment at visit 6 (day 28).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment 1</title>
+            <description>First microwave treatment, administered at visit 1, day 1</description>
+          </group>
+          <group group_id="O2">
+            <title>Treatment 2</title>
+            <description>Second microwave treatment, administered at visit 6, day 28</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Pain Post Treatment</title>
+          <description>To evaluate the safety and tolerability of microwave treatment as a therapy for AK, participants were asked about the duration of pain immediately after each treatment. Duration was grouped into 5 pre-determined periods, i) few seconds, ii) up to 5 minutes, iii) up to 10 minutes, iv) up to 20 minutes and v) over 30 minutes. The decision to administer a second treatment was made by the investigator.</description>
+          <population>11 participants had a total of 93 AKs treated at visit 1 (day 1), with 10 participants having a total of 51 of the original 93 AKs receiving a second treatment at visit 6 (day 28).</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Duration: Few seconds</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Duration: Up to 5 minutes</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Duration: Up to 10 minutes</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Duration: Up to 20 minutes</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Duration: Over 30 minutes</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Ki67 Staining Determined Immunohistochemically by the Use of Specific Antibodies on Fixed Material</title>
+        <description>To identify the mode of action of microwave treatment on biomarkers of cell proliferation as a therapy for AK. Study team has not been able to analyse samples due to limitations on resources and capacity in Tayside Biorepository due to COVID related issues</description>
+        <time_frame>Day 15 OR day 42</time_frame>
+        <posting_date>06/2021</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Hematoxylin and Eosin Stain</title>
+        <description>To identify the mode of action of microwave treatment on biomarkers of cell survival. Study team has not been able to analyse samples due to limitations on resources and capacity in Tayside Biorepository due to COVID related issues</description>
+        <time_frame>Day 15 OR day 42</time_frame>
+        <posting_date>06/2021</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Apoptotic Cells Determined Using the ApopTag Peroxidase Detection Kit</title>
+        <description>To identify the mode of action of microwave treatment on biomarkers of stress response. Study team has not been able to analyse samples due to limitations on resources and capacity in Tayside Biorepository due to COVID related issues.</description>
+        <time_frame>Day 15 OR day 42</time_frame>
+        <posting_date>06/2021</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Gene Activity Determined by ApopTag Peroxidase</title>
+        <description>To identify the mode of action of microwave treatment on gene activity. Study team has not been able to analyse samples due to limitations on resources and capacity in Tayside Biorepository due to COVID related issues</description>
+        <time_frame>Day 15 OR day 42</time_frame>
+        <posting_date>06/2021</posting_date>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data was collected from the date of consent until the participant's last study visit. For Stage 1, study duration was 1 day. For stage 2, RCT, maximum participant duration on the trial was 35 days washout period (if required) and 120 days trial duration. SAEs were followed up for both stages until 30 days after the participant's last visit.</time_frame>
+      <desc>Participants were asked at every visit about the occurrence of adverse events at the site of treatment and biopsy and details of hospitalization. Expected adverse events following microwave therapy include stinging, redness, tingling, numbness or soreness. Participants were asked to score their pain immediately following microwave treatment and 30 minutes after treatment.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Stage 1 Dose Finding Study</title>
+          <description>To determine the electrical properties of permitivity in AK on the hand and scalp.</description>
+        </group>
+        <group group_id="E2">
+          <title>Stage 2 RCT</title>
+          <description>The microwave treatment delivered using the microwave instrument, SWIFT, manufactured by Emblation and CE marked for this indication. The microwave dose was between 5 Watt for the first two participants and 2 Watt and 4 Watt for the remaining nine participants. The treatment will consist of 3, 2 to 3 second bursts delivered to the same lesion with 5-20 seconds between bursts.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Tibia fracture</sub_title>
+                <description>Fracture of distal tibia resulting in hospitalisation. Unrelated to intervention.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal discomfort</sub_title>
+                <description>Unrelated to intervention</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Gastroesophageal reflux disease</sub_title>
+                <description>Unrelated to intervention</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Treatment administration site pain</sub_title>
+                <description>Transient pain at site of microwave treatment administration</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="21" subjects_affected="11" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Treatment administration site pruritus</sub_title>
+                <description>Transient pruritus at site of microwave treatment administration</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="6" subjects_affected="4" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Treatment administration site erythema</sub_title>
+                <description>Transient erythema at site of microwave treatment administration</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="6" subjects_affected="5" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Treatment administration site scab</sub_title>
+                <description>Transient scabbing at site of microwave treatment administration</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="10" subjects_affected="9" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Treatment administration site erosion</sub_title>
+                <description>Transient erosion at site of treatment administration</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Treatment administration site exfoliation</sub_title>
+                <description>Transient exfoliation at site of microwave treatment administration</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Treatment administration site paraesthesia</sub_title>
+                <description>Transient paraesthesia at microwave treatment site</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Tooth abscess</sub_title>
+                <description>Unrelated to intervention</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Lower respiratory tract infection</sub_title>
+                <description>Unrelated to intervention</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Paronychia</sub_title>
+                <description>Unrelated to intervention</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Procedural headache</sub_title>
+                <description>Transient headache post microwave treatment</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Skin wound</sub_title>
+                <description>Injury to scab at site of treatment administration unrelated to intervention</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Tibia fracture</sub_title>
+                <description>Unrelated to intervention</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Humerus fracture</sub_title>
+                <description>Unrelated to intervention</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Skin tightness</sub_title>
+                <description>Transient skin tightness at site of microwave treatment administration</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Prof Charlotte Proby</name_or_title>
+      <organization>University of Dundee</organization>
+      <phone>+44 1382 383289</phone>
+      <email>c.proby@dundee.ac.uk</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

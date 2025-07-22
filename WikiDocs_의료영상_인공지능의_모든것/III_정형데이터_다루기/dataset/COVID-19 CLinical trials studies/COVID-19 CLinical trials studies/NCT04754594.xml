@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3673">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04754594</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C4591015</org_study_id>
+    <secondary_id>2020-005444-35</secondary_id>
+    <nct_id>NCT04754594</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Safety, Tolerability, and Immunogenicity of SARS CoV-2 RNA Vaccine Candidate (BNT162b2) Against COVID-19 in Healthy Pregnant Women 18 Years of Age and Older</brief_title>
+  <official_title>A PHASE 2/3, PLACEBO-CONTROLLED, RANDOMIZED, OBSERVER-BLIND STUDY TO EVALUATE THE SAFETY, TOLERABILITY, AND IMMUNOGENICITY OF A SARS-COV-2 RNA VACCINE CANDIDATE (BNT162b2) AGAINST COVID-19 IN HEALTHY PREGNANT WOMEN 18 YEARS OF AGE AND OLDER</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioNTech SE</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>BioNTech SE</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This will be a Phase 2/3, randomized, placebo-controlled, observer-blind study evaluating the&#xD;
+      safety, tolerability, and immunogenicity of 30 µg of BNT162b2 or placebo administered in 2&#xD;
+      doses, 21 days apart, in approximately 4000 healthy pregnant women 18 years of age or older&#xD;
+      vaccinated at 24 to 34 weeks' gestation. Participants will be randomized 1:1 to receive&#xD;
+      BNT162b2 or placebo (saline).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Phase 2 portion of the study will include approximately 350 pregnant women randomized 1:1&#xD;
+      to receive BNT162b2 or placebo (saline) at 27 to 34 weeks' gestation. IRC review of safety&#xD;
+      data through 7 days after the second dose for all Phase 2 participants will be completed&#xD;
+      before participants in the Phase 3 portion can be enrolled.&#xD;
+&#xD;
+      The Phase 3 portion of this study will assess the safety, tolerability, and immunogenicity of&#xD;
+      BNT162b2 among pregnant women enrolled at 24 to 34 weeks' gestation.&#xD;
+&#xD;
+      Maternal participants who originally received placebo will receive BNT162b2 at defined time&#xD;
+      points as part of the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 16, 2021</start_date>
+  <completion_date type="Anticipated">June 27, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 27, 2022</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of maternal participants reporting: Local reactions</measure>
+    <time_frame>For 7 Days after Dose 1 and Dose 2</time_frame>
+    <description>Pain at the injection site, redness, and swelling as self-reported on electronic diaries</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of maternal participants reporting systemic events</measure>
+    <time_frame>For 7 days after Dose 1 and Dose 2</time_frame>
+    <description>Fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain as self-reported on electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of maternal participants reporting adverse events</measure>
+    <time_frame>From Dose 1 through 1 month after Dose 2</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of maternal participants reporting serious adverse events</measure>
+    <time_frame>From Dose 1 through 6 months after delivery</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of maternal participants (approx first 600 randomized participants) reporting Local reactions</measure>
+    <time_frame>For 7 Days after Dose 1 and Dose 2</time_frame>
+    <description>Pain at the injection site, redness and swelling as self reported on electronic diaries</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of maternal participants (approx first 600 randomized participants) reporting systemic events</measure>
+    <time_frame>For 7 Days after Dose 1 and Dose 2</time_frame>
+    <description>Fever, fatigue, headache, chills, vomiting, diarrhea, new of worsened muscle pain, and new or worsened joint pain as self-reported on electronic diaries</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of maternal participants (approx first 600 randomized participants) reporting adverse events</measure>
+    <time_frame>From Dose 1 through 1 month after Dose 2</time_frame>
+    <description>as elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of maternal participants (approx first 600 randomized participants) reporting serious adverse events</measure>
+    <time_frame>From Dose 1 through 6 months after delivery</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Demonstrate non inferiority of immune response in pregnant women compared to nonpregnant female participants from the C4591001 study without evidence of past SARS-CoV-2 infection.</measure>
+    <time_frame>1 month after Dose 2</time_frame>
+    <description>GMR, estimated by the ratio of the geometric mean of SARS CoV 2 neutralizing titers in pregnant women to those in nonpregnant female participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Demonstrate non inferiority of immune response in pregnant women compared to nonpregnant female participants from the C4591001 study with and without evidence of prior SARS-CoV-2 infection</measure>
+    <time_frame>1 month after Dose 2</time_frame>
+    <description>GMR, estimated by the ratio of the geometric mean of SARS CoV 2 neutralizing titers in pregnant women to those in nonpregnant female participants</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed COVID 19 in participants without evidence of infection prior to vaccination</measure>
+    <time_frame>7 days after Dose 2 through 1 month after delivery</time_frame>
+    <description>1000 person years of follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed COVID 19 in participants with and without evidence of infection prior to vaccination.</measure>
+    <time_frame>7 days after Dose 2 through 1 month after delivery</time_frame>
+    <description>1000 person years of follow-up</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">4000</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>COVID-19</condition>
+  <condition>Maternal Immunization</condition>
+  <arm_group>
+    <arm_group_label>BNT162b2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 doses</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>2 doses</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b2</intervention_name>
+    <description>Intramuscular Injection</description>
+    <arm_group_label>BNT162b2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intramuscular Injection</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy women ≥18 years of age who are between 24 0/7 and 34 0/7 weeks' gestation on&#xD;
+             the day of planned vaccination, with an uncomplicated, singleton pregnancy, who are at&#xD;
+             no known increased risk for complications.&#xD;
+&#xD;
+          2. Participants who are willing and able to comply with scheduled visits, treatment plan,&#xD;
+             laboratory tests, and other study procedures.&#xD;
+&#xD;
+          3. Healthy participants who are determined by medical history, physical examination, and&#xD;
+             clinical judgment to be appropriate for inclusion in the study&#xD;
+&#xD;
+          4. Documented negative HIV antibody test (Phase 2 only), syphilis test, and HBV surface&#xD;
+             antigen test during this pregnancy and prior to randomization&#xD;
+&#xD;
+          5. Participant is willing to give informed consent for her infant to participate in the&#xD;
+             study&#xD;
+&#xD;
+          6. Capable of giving signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Other medical or psychiatric condition including recent (within the past year) or&#xD;
+             active suicidal ideation/behavior or laboratory abnormality that may increase the risk&#xD;
+             of study participation or, in the investigator's judgment, make the participant&#xD;
+             inappropriate for the study.&#xD;
+&#xD;
+          2. Previous clinical (based on COVID-19 symptoms/signs alone, if a SARS-CoV-2 NAAT result&#xD;
+             was not available) or microbiological (based on COVID-19 symptoms/signs and a positive&#xD;
+             SARS-CoV-2 NAAT result) diagnosis of COVID 19.&#xD;
+&#xD;
+          3. History of severe adverse reaction associated with a vaccine and/or severe allergic&#xD;
+             reaction (eg, anaphylaxis) to any component of the study intervention or any related&#xD;
+             vaccine.&#xD;
+&#xD;
+          4. Participants with known or suspected immunodeficiency.&#xD;
+&#xD;
+          5. Bleeding diathesis or condition associated with prolonged bleeding that would in the&#xD;
+             opinion of the investigator contraindicate intramuscular injection.&#xD;
+&#xD;
+          6. Previous vaccination with any coronavirus vaccine.&#xD;
+&#xD;
+          7. Receipt of medications intended to prevent COVID 19.&#xD;
+&#xD;
+          8. Receipt of blood/plasma products or immunoglobulin, from 60 days before administration&#xD;
+             of study intervention, or planned receipt through delivery, with 1 exception, anti-D&#xD;
+             immunoglobulin (eg, RhoGAM), which can be given at any time.&#xD;
+&#xD;
+          9. Current alcohol abuse or illicit drug use.&#xD;
+&#xD;
+         10. Participants who receive treatment with immunosuppressive therapy, including cytotoxic&#xD;
+             agents or systemic corticosteroids, eg, for cancer or an autoimmune disease, or&#xD;
+             planned receipt through the postvaccination blood draw.&#xD;
+&#xD;
+         11. Participation in other studies involving study intervention within 28 days prior to&#xD;
+             study entry and/or during study participation.&#xD;
+&#xD;
+         12. Previous participation in other studies involving study intervention containing LNPs.&#xD;
+&#xD;
+         13. Investigator site staff or Pfizer employees directly involved in the conduct of the&#xD;
+             study, site staff otherwise supervised by the investigator, and their respective&#xD;
+             family members.&#xD;
+&#xD;
+         14. Participants whose unborn baby has been fathered by investigational site staff members&#xD;
+             directly involved in the conduct of the study or their family members, site staff&#xD;
+             members otherwise supervised by the investigator, or Pfizer employees directly&#xD;
+             involved in the conduct of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+    <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Children's of Alabama</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham Women &amp; Infant Center</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham/Center for Women's Reproductive Health</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MedPharmics</name>
+      <address>
+        <city>Mobile</city>
+        <state>Alabama</state>
+        <zip>36608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Arrowhead Hospital</name>
+      <address>
+        <city>Glendale</city>
+        <state>Arizona</state>
+        <zip>85308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Abrazo West Campus Hospital</name>
+      <address>
+        <city>Goodyear</city>
+        <state>Arizona</state>
+        <zip>85395</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph Hospital</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MedPharmics, LLC</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chemidox Clinical Trials Inc.</name>
+      <address>
+        <city>Lancaster</city>
+        <state>California</state>
+        <zip>93534</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Colorado</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Academic Office Building One</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Anschutz Inpatient Pavilion 2</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital Inpatient Pavilion</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital Outpatient Pavilion</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Leprino Building</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Research II Building</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Axcess Medical Research</name>
+      <address>
+        <city>Loxahatchee Groves</city>
+        <state>Florida</state>
+        <zip>33470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Idaho Falls Pediatrics</name>
+      <address>
+        <city>Ammon</city>
+        <state>Idaho</state>
+        <zip>83406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Bingham Memorial Hospital</name>
+      <address>
+        <city>Blackfoot</city>
+        <state>Idaho</state>
+        <zip>83221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Idaho Falls Pediatrics</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Prime</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Eastern Idaho Regional Medical Center</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mountain View Hospital</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ASR, LLC</name>
+      <address>
+        <city>Nampa</city>
+        <state>Idaho</state>
+        <zip>83687</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medpharmics, LLC</name>
+      <address>
+        <city>Covington</city>
+        <state>Louisiana</state>
+        <zip>70433</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Women's Health &amp; Wellness</name>
+      <address>
+        <city>Covington</city>
+        <state>Louisiana</state>
+        <zip>70433</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MedPharmics LLC</name>
+      <address>
+        <city>Lafayette</city>
+        <state>Louisiana</state>
+        <zip>70508</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MedPharmics, LLC</name>
+      <address>
+        <city>Metairie</city>
+        <state>Louisiana</state>
+        <zip>70006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Covenant Healthcare</name>
+      <address>
+        <city>Saginaw</city>
+        <state>Michigan</state>
+        <zip>48602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saginaw Valley Medical Research Group, LLC</name>
+      <address>
+        <city>Saginaw</city>
+        <state>Michigan</state>
+        <zip>48604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MedPharmics, LLC</name>
+      <address>
+        <city>Gulfport</city>
+        <state>Mississippi</state>
+        <zip>39503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Community Hospital of Anaconda</name>
+      <address>
+        <city>Anaconda</city>
+        <state>Montana</state>
+        <zip>59711</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boeson Research (BUT)</name>
+      <address>
+        <city>Butte</city>
+        <state>Montana</state>
+        <zip>59701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SCL St. James Healthcare Hospital</name>
+      <address>
+        <city>Butte</city>
+        <state>Montana</state>
+        <zip>59701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Benefis Hospital</name>
+      <address>
+        <city>Great Falls</city>
+        <state>Montana</state>
+        <zip>59405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boeson Research (GTF)</name>
+      <address>
+        <city>Great Falls</city>
+        <state>Montana</state>
+        <zip>59405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Marcus Daly Memorial Hospital</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Montana</state>
+        <zip>59840</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boeson Research (HLN)</name>
+      <address>
+        <city>Helena</city>
+        <state>Montana</state>
+        <zip>59601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Peter's Health Hospital</name>
+      <address>
+        <city>Helena</city>
+        <state>Montana</state>
+        <zip>59601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Providence St. Patrick Hospital</name>
+      <address>
+        <city>Missoula</city>
+        <state>Montana</state>
+        <zip>59802</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Birth Center</name>
+      <address>
+        <city>Missoula</city>
+        <state>Montana</state>
+        <zip>59803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boeson Research</name>
+      <address>
+        <city>Missoula</city>
+        <state>Montana</state>
+        <zip>59804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Community Medical Center</name>
+      <address>
+        <city>Missoula</city>
+        <state>Montana</state>
+        <zip>59804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Community Physicians Group-Maternal Fetal Medicine</name>
+      <address>
+        <city>Missoula</city>
+        <state>Montana</state>
+        <zip>59804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Luke Community Healthcare Hospital</name>
+      <address>
+        <city>Ronan</city>
+        <state>Montana</state>
+        <zip>59864</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research, LLC</name>
+      <address>
+        <city>Grand Island</city>
+        <state>Nebraska</state>
+        <zip>68803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research, LLC</name>
+      <address>
+        <city>Hastings</city>
+        <state>Nebraska</state>
+        <zip>68901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research, LLC</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Nebraska</state>
+        <zip>68701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Allegheny Health and Wellness Pavilion</name>
+      <address>
+        <city>Erie</city>
+        <state>Pennsylvania</state>
+        <zip>16506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>OBGYN Associates of Erie</name>
+      <address>
+        <city>Erie</city>
+        <state>Pennsylvania</state>
+        <zip>16507</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Liberty Family Practice</name>
+      <address>
+        <city>Erie</city>
+        <state>Pennsylvania</state>
+        <zip>16508</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Vincent Hospital</name>
+      <address>
+        <city>Erie</city>
+        <state>Pennsylvania</state>
+        <zip>16544</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Reading Hospital - Children's Health Center</name>
+      <address>
+        <city>West Reading</city>
+        <state>Pennsylvania</state>
+        <zip>19611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Reading Hospital Clinical Trials Office</name>
+      <address>
+        <city>West Reading</city>
+        <state>Pennsylvania</state>
+        <zip>19611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Reading Hospital-Family Health Care Center</name>
+      <address>
+        <city>West Reading</city>
+        <state>Pennsylvania</state>
+        <zip>19611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Reading Hospital-Womens Health Center</name>
+      <address>
+        <city>West Reading</city>
+        <state>Pennsylvania</state>
+        <zip>19611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tower Health Medical Group-Maternal Fetal Medicine</name>
+      <address>
+        <city>West Reading</city>
+        <state>Pennsylvania</state>
+        <zip>19611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tekton Research, Inc.</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tekton Research, Inc.</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78745</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ventavia Research Group LLC</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DHR Health Institute for Research and Development</name>
+      <address>
+        <city>Edinburg</city>
+        <state>Texas</state>
+        <zip>78539</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>8th Avenue Obstetrics &amp; Gynecology</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ventavia Research Group, LLC</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Medical Branch</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77555</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chisholm Trail Pediatrics</name>
+      <address>
+        <city>Georgetown</city>
+        <state>Texas</state>
+        <zip>78626</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FMC Science.</name>
+      <address>
+        <city>Georgetown</city>
+        <state>Texas</state>
+        <zip>78626</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. David's Georgetown Hospital</name>
+      <address>
+        <city>Georgetown</city>
+        <state>Texas</state>
+        <zip>78626</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hermann Memorial City - Labor and Delivery Unit</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UT Physicians Women's Center at Memorial City</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UTHealth Women's Research Program at Memorial City</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Texas Medical School at Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FMC Science</name>
+      <address>
+        <city>Lampasas</city>
+        <state>Texas</state>
+        <zip>76550</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dr. Ruben Aleman &amp; Associates</name>
+      <address>
+        <city>McAllen</city>
+        <state>Texas</state>
+        <zip>78504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UTMB Health RMCHP Pasadena</name>
+      <address>
+        <city>Pasadena</city>
+        <state>Texas</state>
+        <zip>77503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UTMB Health RMCHP Pearland</name>
+      <address>
+        <city>Pearland</city>
+        <state>Texas</state>
+        <zip>77581</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ventavia Research Group, LLC</name>
+      <address>
+        <city>Plano</city>
+        <state>Texas</state>
+        <zip>75093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ventavia Research Group, LLC</name>
+      <address>
+        <city>Weatherford</city>
+        <state>Texas</state>
+        <zip>76086</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Weatherford OBGYN</name>
+      <address>
+        <city>Weatherford</city>
+        <state>Texas</state>
+        <zip>76086</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah Hospital</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Group for Women- MAWC</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tidewater Physicians for Women- MAWC</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=C4591015</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>February 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 15, 2021</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+    <ipd_url>https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

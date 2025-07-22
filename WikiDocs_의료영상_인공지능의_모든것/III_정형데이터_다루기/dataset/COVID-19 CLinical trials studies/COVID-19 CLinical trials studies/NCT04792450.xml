@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5610">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04792450</url>
+  </required_header>
+  <id_info>
+    <org_study_id>287901</org_study_id>
+    <nct_id>NCT04792450</nct_id>
+  </id_info>
+  <brief_title>Thales Thermography Triage (3T) - Pilot Project</brief_title>
+  <official_title>Thales Thermography Triage (3T) - Pilot Project: Developing a Thermal Camera That Accurately Records Participants' Temperature From Images of Their Face</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NHS Greater Clyde and Glasgow</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Thales Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>NHS Greater Clyde and Glasgow</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID Related Study.&#xD;
+&#xD;
+      This study will compare the Thales High Temperature Detection (HTD) system with the two&#xD;
+      routinely used temperature measurement systems (tympanic and forehead) in patients and staff&#xD;
+      in the Emergency Department.&#xD;
+&#xD;
+      The aims of the study are:&#xD;
+&#xD;
+        -  To determine the diagnostic accuracy of HTD for the measurement of fever, using an&#xD;
+           equivalence comparison with the maximum temperature recorded with two routinely used&#xD;
+           temperature measurements (tympanic and forehead), margin ±0.2°C.&#xD;
+&#xD;
+        -  To determine if skin tone is an independent confounding factor in the measurement of&#xD;
+           fever using HTD&#xD;
+&#xD;
+        -  To establish performance of internal calibration of Thales device&#xD;
+&#xD;
+        -  To power for a definitive Clinical Investigation to determine clinical efficacy and&#xD;
+           safety cut off with HTD If results are encouraging the aim would then be to undertake a&#xD;
+           clinical investigation in order to get CE marking for use in a clinical setting.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In the fifty years since the emergence of thermal imaging technology, Thales in Glasgow has&#xD;
+      built up a world leading capability in the design, manufacture and supply of Thermal Imaging&#xD;
+      cameras. In addition to the cameras, Thales in Glasgow has a particular expertise in&#xD;
+      developing image processing algorithms (conventional and artificial intelligence based) to&#xD;
+      allow the cameras to perform critical user tasks beyond mere imaging.&#xD;
+&#xD;
+      COVID-19 [SARS-COV-2] has placed a huge challenge on the world. In response to the crisis,&#xD;
+      Thales is engaged in a number of initiatives, including one aimed at the possible application&#xD;
+      of thermal imaging cameras to detect people with a fever and hence those who may be suffering&#xD;
+      from COVID-19.Fever is a key symptom of covid-19. One of the major limitations of existing&#xD;
+      systems is thermographic accuracy. Most current thermographic camera systems offer an&#xD;
+      accuracy of ± 0.5°C. This can be reduced to ±0.3°C with the inclusion of a &quot;Black Body&quot;&#xD;
+      calibration source, although this limits the portability of the system. Using their unique&#xD;
+      knowledge and expertise in high resolution and precision thermal imaging and thermal image&#xD;
+      processing, Thales aims to develop a fever screening system with an accuracy of ± 0.1°C to&#xD;
+      enable more effective identification and triage of people with fever.&#xD;
+&#xD;
+      What Thales lacks is real world thermal images of patients suffering fever and access to&#xD;
+      clinicians who can advise on the medical aspects of the work. This research would fill these&#xD;
+      two voids.&#xD;
+&#xD;
+      In a pilot study conducted in the Emergency Department, Queen Elizabeth University Hospital&#xD;
+      (20/NS/0064), the Thales High Temperature Detection (HTD) system was found to be more&#xD;
+      accurate than a tympanic thermometer which captures Infrared radiation emitted by the&#xD;
+      tympanic membrane in the ear or forehead thermometer. Tympanic temperature measurements are&#xD;
+      typically used in the hospital setting in Scotland whereas forehead IR measurement is common&#xD;
+      in transportation and workplace settings.&#xD;
+&#xD;
+      The HTD has been redesigned in response to three key findings from the pilot study:&#xD;
+&#xD;
+        -  The relative temperature of some facial features correlated more strongly with tympanic&#xD;
+           temperature than others.&#xD;
+&#xD;
+        -  Having an external Black Body (BB) calibration source in the scene at all times was&#xD;
+           impractical in a clinical environment&#xD;
+&#xD;
+        -  Camera systems require to be compact and portable to be useful to clinical staff.&#xD;
+&#xD;
+      As a result, the HTD is now significantly reduced in size, including peripheral devices. A&#xD;
+      novel calibration solution has been designed (and patented) that not only removes the need&#xD;
+      for the black body source but allows for a more accurate temperature evaluation. In addition,&#xD;
+      facial feature detection has been integrated into the software to allow it to automatically&#xD;
+      locate the patient's head and in the near future, automatically determine the temperatures of&#xD;
+      individual facial features. This development will capture facial feature detection - not&#xD;
+      facial recognition.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">November 1, 2020</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Actual">December 15, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>To determine the diagnostic accuracy of HTD for the measurement of fever, using an equivalence comparison with the maximum temperature recorded with two routinely used temperature measurements (tympanic and forehead), margin ±0.2°C.</measure>
+    <time_frame>First 4 hours of hospitalisation.</time_frame>
+    <description>Measurement of temperature in celsius</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">200</enrollment>
+  <condition>Fever</condition>
+  <arm_group>
+    <arm_group_label>ED Patients</arm_group_label>
+    <description>Patients presenting in Emergency Department</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ED Staff</arm_group_label>
+    <description>Staff working within the Emergency Department</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Thermography</intervention_name>
+    <description>Measure Temperature using Thermal Camera</description>
+    <arm_group_label>ED Patients</arm_group_label>
+    <arm_group_label>ED Staff</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Tympanic Thermometer</intervention_name>
+    <description>Measure Temperature using Tympanic Thermometer</description>
+    <arm_group_label>ED Patients</arm_group_label>
+    <arm_group_label>ED Staff</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Forehead Thermometer</intervention_name>
+    <description>Measure Temperature using Forehead Temperature</description>
+    <arm_group_label>ED Patients</arm_group_label>
+    <arm_group_label>ED Staff</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>62 Max + Infra-red thermometer</intervention_name>
+    <description>Measure Temperature using 62 Max + Infra-red thermometer</description>
+    <arm_group_label>ED Patients</arm_group_label>
+    <arm_group_label>ED Staff</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients attending Queen Elizabeth University Hospital Emergency Department requiring&#xD;
+        triage. All staff members working within Queen Elizabeth University Hospital Emergency&#xD;
+        Department.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients ≥ 16 years old with no upper age limit&#xD;
+&#xD;
+          -  Patients able to read and understand English&#xD;
+&#xD;
+          -  Patients able to give informed consent&#xD;
+&#xD;
+          -  Patients being triaged through ED for any complaint, not necessarily COVID-19 QEUH ED&#xD;
+             staff&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients not meeting the inclusion criteria&#xD;
+&#xD;
+          -  Patients who do not have capacity to consent&#xD;
+&#xD;
+          -  Patients attending ED who are fast-tracked without triage&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Queen Elizabeth University Hospital</name>
+      <address>
+        <city>Glasgow</city>
+        <zip>G52 4TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>September 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 11, 2021</study_first_posted>
+  <last_update_submitted>March 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>NHS Greater Clyde and Glasgow</investigator_affiliation>
+    <investigator_full_name>David Lowe</investigator_full_name>
+    <investigator_title>Dr David J Lowe</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>September 9, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/50/NCT04792450/Prot_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3544">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04822025</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CT-COV-23</org_study_id>
+    <nct_id>NCT04822025</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate MVC-COV1901 Vaccine Against COVID-19 in Elderly Adults</brief_title>
+  <official_title>A Phase II, Prospective, Randomized, Double-Blind, Dose-Comparison, Multi-Center Study to Evaluate the Safety, Tolerability, and Immunogenicity of the SARS-CoV-2 Vaccine Candidate MVC-COV1901 in Elderly Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medigen Vaccine Biologics Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medigen Vaccine Biologics Corp.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the safety and immunogenicity of MVC-COV1901 vaccine&#xD;
+      in two different dose forms in participants who are generally healthy or with stable&#xD;
+      pre-existing health conditions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase II, prospective, randomized, double-blinded (investigator/site staff and&#xD;
+      participants; Sponsor open), dose-comparison, multi-center study. Participants who are&#xD;
+      generally healthy or with stable pre-existing health conditions will be randomized,&#xD;
+      stratified by comorbidity. All eligible participants will be randomized to receive 2 doses of&#xD;
+      either High-dose or Mid-dose of MVC-COV190 in a predefined ratio.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2021</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Adverse Events(AEs) [Safety and Tolerability]</measure>
+    <time_frame>Day 1 to 28 days after the second vaccination</time_frame>
+    <description>To evaluate the incidence of Adverse Events(AEs) of MVC-COV1901 from Visit 2 (Day 1) to Visit 6 (28 days after the second dose of study intervention) in terms of the number and percentage of participants with the occurrence of:&#xD;
+Solicited local AEs (up to 7 days after each dose of study intervention) Solicited systemic AEs (up to 7 days after each dose of study intervention) Unsolicited AEs (up to 28 days after each dose of study intervention) AE of Special Interest (AESI) Vaccine-Associated Enhanced Disease(VAED) Serious adverse events (SAEs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunogenicity of MVC-COV1901</measure>
+    <time_frame>Day 1 to 28 days after the second vaccination</time_frame>
+    <description>To evaluate the immunogenicity of High-dose MVC-COV1901, as compared to Mid-dose MVC-COV1901, in terms of neutralizing antibody titers.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adverse Events(AEs) [Safety and Tolerability]</measure>
+    <time_frame>Day 1 to 180 days after the second vaccination</time_frame>
+    <description>To evaluate the Incidence of Adverse Events(AEs) of MVC-COV1901 over the study period in terms of the number and percentage of participants with the occurrence of:&#xD;
+&gt;= Grade 3 AE AE of Special Interest (AESI) Vaccine-Associated Enhanced Disease(VAED) Serious adverse events (SAEs)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity of MVC-COV1901</measure>
+    <time_frame>Day 1 to 180 days after the second vaccination</time_frame>
+    <description>The antigen-specific immunoglobulin titers and neutralizing antibody titers at Visit 4 (28 days after the first dose of study intervention), Visit 6 (28 days after the second dose of study intervention), Visit 7 (90 days after the second dose of study intervention) and Visit 8 (180 days after the second dose of study intervention) in terms of antigen-specific immunoglobulin titers and neutralizing antibody titers</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19 Vaccine</condition>
+  <arm_group>
+    <arm_group_label>High Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High-Dose S-2P protein with CpG and Aluminum Hydroxide/0.5mL</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mid Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Mid-Dose S-2P protein with CpG and Aluminum Hydroxide/0.5mL</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MVC-COV1901 (High-Dose)</intervention_name>
+    <description>Approximately 300 participants will receive 2 doses of MVC-COV1901(S-2P protein with adjuvant) at Visit 2 (Day 1) and Visit 4 (Day 29) via intramuscular (IM) injection in the deltoid region</description>
+    <arm_group_label>High Dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MVC-COV1901(Mid-Dose)</intervention_name>
+    <description>Approximately 100 participants will receive 2 doses of MVC-COV1901(S-2P protein with adjuvant) at Visit 2 (Day 1) and Visit 4 (Day 29) via intramuscular (IM) injection in the deltoid region</description>
+    <arm_group_label>Mid Dose</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female participant ≥ 65 years of age at randomization.&#xD;
+&#xD;
+          2. Healthy adults or adults with pre-existing medical conditions who are in stable&#xD;
+             condition. A stable medical condition is defined as disease not requiring significant&#xD;
+             change in therapy or hospitalization for worsening disease 3 months before enrollment&#xD;
+             and expected to remain stable for the duration of the study.&#xD;
+&#xD;
+          3. Participant is willing and able to comply with all required study visits and follow-up&#xD;
+             required by this protocol.&#xD;
+&#xD;
+          4. Participant has not travelled overseas within 14 days of screening and will not have&#xD;
+             any oversea traveling throughout the study period.&#xD;
+&#xD;
+          5. Participant is able to understand and comply with study requirements/procedures (if&#xD;
+             applicable, with assistance by caregiver, surrogate, or legally authorized&#xD;
+             representative) based on the assessment of the investigator and must provide written&#xD;
+             informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Employees at the investigator's site, of the Sponsor or the contract research&#xD;
+             organization (CRO) who are directly involved in the conduct of the study.&#xD;
+&#xD;
+          2. Currently receiving or received any investigational intervention within 30 days prior&#xD;
+             to the first dose of study intervention.&#xD;
+&#xD;
+          3. Administered any licensed live-attenuated vaccines within 28 days or other licensed&#xD;
+             non-live-attenuated vaccines within 7 days prior to the first dose of study&#xD;
+             intervention.&#xD;
+&#xD;
+          4. Administered any blood product or intravenous (IV) immunoglobulin administration&#xD;
+             within 12 weeks prior to the first dose of study intervention.&#xD;
+&#xD;
+          5. Participant previously received any coronavirus vaccine.&#xD;
+&#xD;
+          6. Currently receiving or anticipate to receive concomitant immunosuppressive or&#xD;
+             immune-modifying therapy (excluding inhaled, topical skin and/or eye drop-containing&#xD;
+             corticosteroids, low-dose methotrexate, or &lt; 2 weeks of daily receipt of prednisone&#xD;
+             less than 20 mg or equivalent) within 12 weeks prior to the first dose of study&#xD;
+             intervention.&#xD;
+&#xD;
+          7. Currently receiving or anticipate to receive treatment with tumor necrosis factor&#xD;
+             (TNF)-α inhibitors, e.g. infliximab, adalimumab, etanercept within 12 weeks prior to&#xD;
+             the first dose of study intervention.&#xD;
+&#xD;
+          8. Major surgery or any radiation therapy within 12 weeks prior to the first dose of&#xD;
+             study intervention.&#xD;
+&#xD;
+          9. Immunosuppressive illness or immunodeficient state, including hematologic malignancy,&#xD;
+             history of solid organ, bone marrow transplantation, or asplenia.&#xD;
+&#xD;
+         10. A history of malignancy with potential risk for recurrence after curative treatment,&#xD;
+             or current diagnosis of or treatment for cancer (exceptions are squamous and basal&#xD;
+             cell carcinomas of the skin and treated uterine cervical carcinoma in situ, at the&#xD;
+             discretion of the investigator).&#xD;
+&#xD;
+         11. Bleeding disorder considered a contraindication to intramuscular injection or&#xD;
+             phlebotomy.&#xD;
+&#xD;
+         12. Participant with known human immunodeficiency virus (HIV) infection or who is HIV&#xD;
+             antibody positive, with CD4 count &lt; 350 cells/mm3 or a detectable HIV viral load&#xD;
+             within the past year (low level variations from 50-500 viral copies/mL or equivalent&#xD;
+             which do not lead to changes in antiretroviral therapy [ART] are permitted).&#xD;
+&#xD;
+         13. Participant who, in the investigator's judgement, is not in stable condition and by&#xD;
+             participating in the study could adversely affect the safety of the participant,&#xD;
+             interfere with adherence to study requirements or evaluation of any study endpoint.&#xD;
+             This may include aparticipant with ongoing acute diseases, severe infections,&#xD;
+             autoimmune disease, laboratory abnormality or serious medical conditions in the&#xD;
+             following systems: cardiovascular, pulmonary, hepatic, neurologic, metabolic, renal,&#xD;
+             or psychiatric.&#xD;
+&#xD;
+         14. Participant with previous known SARS-CoV-1 or 2 infection or potential exposure to&#xD;
+             SARS-CoV-1 or 2 viruses (EXCEPT for those who have been tested negative or completed&#xD;
+             the self-managements/ home quarantines/ home isolations)&#xD;
+&#xD;
+         15. Participant with a history of hypersensitivity to any vaccine or a history of allergic&#xD;
+             disease or reactions likely to be exacerbated by any component of the MVC-COV1901.&#xD;
+&#xD;
+         16. Body (oral, rectal, or ear) temperature ≥ 38.0°C or acute illness (not including minor&#xD;
+             illnesses such as diarrhea or mild upper respiratory tract infection at the discretion&#xD;
+             of the investigator) within 2 days before the first dose of study intervention.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Szu-Min Hsieh, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Taiwan University Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Tzou-Yien Lin, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Chang Gang Memorial Hospital, LinKou</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Heather Weng</last_name>
+    <phone>+886277450830</phone>
+    <phone_ext>602</phone_ext>
+    <email>HeatherWeng@medigenvac.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Howard Cheng</last_name>
+    <phone>+886277450830</phone>
+    <phone_ext>601</phone_ext>
+    <email>Howardcheng@medigenvac.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hualien Tzu Chi Hospital</name>
+      <address>
+        <city>Hualien City</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ji Hi Yeh, MD PhD</last_name>
+      <email>jihiyeh@gms.tcu.edu.tw</email>
+    </contact>
+    <investigator>
+      <last_name>Ji Hi Yeh, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Shuang H Hospital</name>
+      <address>
+        <city>New Taipei City</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Szu-Min Hsieh, MD</last_name>
+      <email>hsmaids@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Szu-Min Hsieh</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chang Gung Medical Hospital Linkou</name>
+      <address>
+        <city>Taoyuan</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Tzou-Yien Lin, MD</last_name>
+      <email>pidlin@cgmh.org.tw</email>
+    </contact>
+    <investigator>
+      <last_name>Tzou-Yien Lin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2021</study_first_posted>
+  <last_update_submitted>March 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid19 vaccine</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

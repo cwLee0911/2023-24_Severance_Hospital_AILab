@@ -1,0 +1,3236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4579">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04376684</url>
+  </required_header>
+  <id_info>
+    <org_study_id>214094</org_study_id>
+    <nct_id>NCT04376684</nct_id>
+  </id_info>
+  <brief_title>Investigating Otilimab in Patients With Severe Pulmonary COVID-19 Related Disease</brief_title>
+  <acronym>OSCAR</acronym>
+  <official_title>A Randomized, Double-blind, Placebo-controlled, Study Evaluating the Efficacy and Safety of Otilimab IV in Patients With Severe Pulmonary COVID-19 Related Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      OSCAR (Otilimab in Severe COVID-19 Related Disease) is a multi-center, double-blind,&#xD;
+      randomized, placebo-controlled trial to assess the efficacy and safety of otilimab for the&#xD;
+      treatment of severe pulmonary COVID-19 related disease. The study is being conducted in 2&#xD;
+      parts (Part 1 and Part 2). Otilimab is a human monoclonal anti-granulocyte macrophage colony&#xD;
+      stimulating factor (GM-CSF) antibody that has not previously been tested in participants with&#xD;
+      severe pulmonary COVID-19 related disease in Part 1. The aim of this study is to evaluate the&#xD;
+      benefit-risk of a single infusion of otilimab in the treatment of hospitalized participants&#xD;
+      with severe COVID-19 related pulmonary disease with new onset hypoxia requiring significant&#xD;
+      oxygen support or requiring early invasive mechanical ventilation (less than or equal to [&lt;=]&#xD;
+      48 hours before dosing). Participants will be randomized to receive a single intravenous (IV)&#xD;
+      infusion of otilimab or placebo, in addition to standard of care.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 28, 2020</start_date>
+  <completion_date type="Anticipated">August 23, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 23, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomized to receive either a blinded IV infusion of otilimab or placebo, in addition to standard of care.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>This is a double-blind study.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Parts 1 and 2: Proportion of participants alive and free of respiratory failure at Day 28</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Proportion of participants alive and free of respiratory failure at Day 28 (measured by an 8-point ordinal scale).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Parts 1 and 2: Number of deaths due to all causes at Day 60</measure>
+    <time_frame>Day 60</time_frame>
+    <description>Number of deaths due to all causes will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Number of deaths due to all causes at Day 28</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Number of deaths due to all causes will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts 1 and 2: Time to number of deaths due to all causes up to Day 60</measure>
+    <time_frame>Up to Day 60</time_frame>
+    <description>Time to death due to all causes will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts 1 and 2: Proportion of participants alive and free of respiratory failure at Days 7, 14, 42 and 60</measure>
+    <time_frame>Days 7, 14, 42, and 60</time_frame>
+    <description>Proportion of participants alive and free of respiratory failure at Days 7, 14, 42 and 60 (measured by an 8-point ordinal scale).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts 1 and 2: Time to recovery from respiratory failure</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Time to recovery from respiratory failure (measured by an 8-point ordinal scale).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts 1 and 2: Proportion of participants alive and independent of supplementary oxygen at Days 7, 14, 28, 42, and 60</measure>
+    <time_frame>Days 7, 14, 28, 42, and 60</time_frame>
+    <description>Proportion of participants alive and independent of supplementary oxygen (measured by an 8-point ordinal scale).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts 1 and 2: Time to last dependence on supplementary oxygen</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Time to last dependence on supplementary oxygen (measured by an 8-point ordinal scale).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 1: Proportion of participants admitted to Intensive Care Unit (ICU)</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>For participants not in ICU at time of dosing, the proportion of participants admitted to the ICU prior to Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts 1 and 2: Time to final ICU discharge</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Defined as the time from dosing to when the participant is discharged from the ICU.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 1: Time to final hospital discharge</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Time from dosing to when a participant is discharged from the hospital.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Time to first discharge from investigator site</measure>
+    <time_frame>Up to day 60</time_frame>
+    <description>Time from dosing to when a participant is first discharged from the investigator site.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Time to first discharge to non-hospitalized residence</measure>
+    <time_frame>Up to day 60</time_frame>
+    <description>Time from dosing to when a participant is first discharged to a non-hospitalized residence.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts 1 and 2: Number of participants with Adverse events (AEs) and Serious adverse events (SAEs)</measure>
+    <time_frame>Up to Day 60</time_frame>
+    <description>AEs and SAEs will be collected.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">1150</enrollment>
+  <condition>Severe Acute Respiratory Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Part 1: Participants receiving otilimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants (age &gt;=18 years and &lt;=79 years) will receive a single dose of otilimab administered as an IV infusion in addition to standard of care in Part 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: Participants receiving placebo 1</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants (age &gt;=18 years and &lt;=79 years) will receive a single dose of matching placebo administered as an IV infusion in addition to standard of care in Part 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Participants receiving otilimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants (age 70 years or above) will receive a single dose of otilimab administered as an IV infusion in addition to standard of care in Part 2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Participants receiving placebo 2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants (age 70 years or above) will receive a single dose of matching placebo administered as an IV infusion in addition to standard of care in Part 2.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Otilimab</intervention_name>
+    <description>Otilimab will be administered once via IV route.</description>
+    <arm_group_label>Part 1: Participants receiving otilimab</arm_group_label>
+    <arm_group_label>Part 2: Participants receiving otilimab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo 1</intervention_name>
+    <description>Placebo 1 will consist of sterile 0.9 percent (%) sodium chloride solution administered once via IV route.</description>
+    <arm_group_label>Part 1: Participants receiving placebo 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo 2</intervention_name>
+    <description>Placebo 2 will consist of sterile 5% dextrose or 5% glucose solution administered once via IV route.</description>
+    <arm_group_label>Part 2: Participants receiving placebo 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>All participants will receive standard of care as per institutional protocol.</description>
+    <arm_group_label>Part 1: Participants receiving otilimab</arm_group_label>
+    <arm_group_label>Part 1: Participants receiving placebo 1</arm_group_label>
+    <arm_group_label>Part 2: Participants receiving otilimab</arm_group_label>
+    <arm_group_label>Part 2: Participants receiving placebo 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria for Part 1:&#xD;
+&#xD;
+          -  Participants aged &gt;=18 years and &lt;=79 years at the time of obtaining informed consent.&#xD;
+&#xD;
+          -  Participants must:&#xD;
+&#xD;
+               1. have positive severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) result&#xD;
+                  (any validated test, for example. reverse transcription polymerase chain reaction&#xD;
+                  [RT-PCR] [performed on an appropriate specimen; for example: respiratory tract&#xD;
+                  sample])&#xD;
+&#xD;
+               2. and be hospitalized due to diagnosis of pneumonia (chest X-ray or computerized&#xD;
+                  tomography [CT] scan consistent with COVID-19)&#xD;
+&#xD;
+               3. and be developing new onset of oxygenation impairment requiring any of the&#xD;
+                  following:&#xD;
+&#xD;
+                    1. high-flow oxygen (&gt;=15L/min)&#xD;
+&#xD;
+                    2. non-invasive ventilation (for example. CPAP, BIPAP)&#xD;
+&#xD;
+                    3. mechanical ventilation &lt;=48 hours prior to dose&#xD;
+&#xD;
+               4. and have increased biological markers of systemic inflammation (either C-reactive&#xD;
+                  protein [CRP] &gt;upper limit of normal [ULN] or serum ferritin &gt;ULN).&#xD;
+&#xD;
+          -  No gender restriction.&#xD;
+&#xD;
+          -  Female participants must meet and agree to abide by the contraceptive criteria&#xD;
+             detailed in the protocol. Contraceptive use by women should be consistent with local&#xD;
+             regulations regarding the methods of contraception for those participating in clinical&#xD;
+             studies.&#xD;
+&#xD;
+          -  A female participant is eligible to participate if she is not pregnant or&#xD;
+             breastfeeding or if she is using highly effective contraceptive methods. Women of&#xD;
+             non-childbearing potential can also participate. A negative highly sensitive pregnancy&#xD;
+             test at hospital admission or before the first dose of study intervention.&#xD;
+&#xD;
+          -  Capable of giving written informed consent.&#xD;
+&#xD;
+        Inclusion Criteria for Part 2:&#xD;
+&#xD;
+          -  Participants aged 70 years or above at the time of obtaining informed consent.&#xD;
+&#xD;
+          -  Participants must:&#xD;
+&#xD;
+               1. have positive SARS-CoV-2 result (any validated test, for example. RT-PCR&#xD;
+                  [performed on an appropriate specimen; for example. respiratory tract sample])&#xD;
+&#xD;
+               2. and be hospitalized due to diagnosis of pneumonia (chest X-ray or CT scan&#xD;
+                  consistent with COVID-19).&#xD;
+&#xD;
+               3. and be developing new onset of oxygenation impairment requiring any of the&#xD;
+                  following:&#xD;
+&#xD;
+                    1. high-flow oxygen (&gt;=15L/min)&#xD;
+&#xD;
+                    2. non-invasive ventilation (for example. CPAP, BiPAP)&#xD;
+&#xD;
+                    3. mechanical ventilation &lt;=48 hours prior to dose&#xD;
+&#xD;
+               4. and have increased biological markers of systemic inflammation (either CRP &gt;ULN&#xD;
+                  or serum ferritin &gt;ULN.&#xD;
+&#xD;
+          -  No gender restriction.&#xD;
+&#xD;
+          -  Capable of giving written informed consent.&#xD;
+&#xD;
+        Exclusion Criteria for Part 1:&#xD;
+&#xD;
+          -  Progression to death is imminent and inevitable within the next 48 hours, irrespective&#xD;
+             of the provision of treatments, in the opinion of the investigator.&#xD;
+&#xD;
+          -  Multiple organ failure according to the investigator's judgement or a Sequential Organ&#xD;
+             Failure assessment (SOFA score) &gt;10 if in the ICU.&#xD;
+&#xD;
+          -  Extracorporeal membrane oxygenation (ECMO) hemofiltration/dialysis or high-dose (&gt;0.15&#xD;
+             micrograms [mcg]/kilograms [kg]/min) noradrenaline (or equivalent) or more than one&#xD;
+             vasopressor.&#xD;
+&#xD;
+          -  Current serious or uncontrolled medical condition (for example: significant pulmonary&#xD;
+             disease [such as severe chronic obstructive pulmonary disease (COPD) or pulmonary&#xD;
+             fibrosis], heart failure [New York Heart Association {NYHA} class III or higher],&#xD;
+             renal dysfunction, acute myocardial infarction or acute cerebrovascular accident&#xD;
+             within the last 3 months) or abnormality of clinical laboratory tests that, in the&#xD;
+             investigator's judgment, precludes the participant's safe participation in and&#xD;
+             completion of the study.&#xD;
+&#xD;
+          -  Untreated systemic bacterial, fungal, viral, or other infection (other than&#xD;
+             SARS-CoV-2).&#xD;
+&#xD;
+          -  Known active tuberculosis (TB), history of untreated or incompletely treated active or&#xD;
+             latent TB, suspected or known extrapulmonary TB.&#xD;
+&#xD;
+          -  Known Human Immunodeficiency Virus (HIV) regardless of immunological status.&#xD;
+&#xD;
+          -  Known hepatitis B surface antigen (HBsAg) and/or anti-hepatitis C virus (HCV)&#xD;
+             positive.&#xD;
+&#xD;
+          -  Currently receiving radiotherapy, chemotherapy or immunotherapy for malignancy.&#xD;
+&#xD;
+          -  Received monoclonal antibody therapy (for examplee. tocilizumab, sarilumab) within the&#xD;
+             past 3 months prior to randomization, including intravenous immunoglobulin, or planned&#xD;
+             to be received, during the study.&#xD;
+&#xD;
+          -  Received immunosuppressant therapy including but not limited to cyclosporin,&#xD;
+             azathioprine, tacrolimus, mycophenolate, Janus Kinase (JAK) inhibitors (for examplee.&#xD;
+             baricitinib, tofacitinib, upadacitinib) within the last 3 months prior to&#xD;
+             randomization or planned to be received during the study.&#xD;
+&#xD;
+          -  History of allergic reaction, including anaphylaxis to any previous treatment with an&#xD;
+             anti-GM-CSF therapy.&#xD;
+&#xD;
+          -  Received COVID-19 convalescent plasma within 48 hours of randomization.&#xD;
+&#xD;
+          -  Currently receiving chronic oral corticosteroids for a non-COVID-19 related condition&#xD;
+             in a dose higher than prednisone 10 milligrams (mg) or equivalent per day.&#xD;
+&#xD;
+          -  Treatment with an investigational drug within 30 days of randomization.&#xD;
+&#xD;
+          -  Participating in other drug clinical trials, including for COVID-19.&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) &gt;5 times ULN.&#xD;
+&#xD;
+          -  Platelets &lt;50,000/cubic millimeters (mm^3)&#xD;
+&#xD;
+          -  Hemoglobin &lt;=9 grams per deciliter (g/dL)&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) &lt;1.5 times 10^9/L (neutropenia &gt;= Grade 2)&#xD;
+&#xD;
+          -  Estimated glomerular filtration rate (GFR) &lt;=30 milliliters (mL)/min/1.73 meter square&#xD;
+             (/m^2).&#xD;
+&#xD;
+          -  Pregnant or breastfeeding females.&#xD;
+&#xD;
+        Exclusion Criteria for Part 2:&#xD;
+&#xD;
+          -  Progression to death is imminent and inevitable within the next 48 hours, irrespective&#xD;
+             of the provision of treatments, in the opinion of the investigator.&#xD;
+&#xD;
+          -  Multiple organ failure according to the investigator's judgement or a SOFA score &gt;10&#xD;
+             if intubated in the ICU.&#xD;
+&#xD;
+          -  ECMO hemofiltration/dialysis, or more than one inotrope/vasopressor of any class.&#xD;
+&#xD;
+          -  Current serious or uncontrolled medical condition (for example. significant pulmonary&#xD;
+             disease [such as severe COPD or pulmonary fibrosis], heart failure [NYHA class III or&#xD;
+             higher], severe renal dysfunction, acute myocardial infarction or acute&#xD;
+             cerebrovascular accident within the last 3 months), severe dementia, severe&#xD;
+             disability, or abnormality of clinical laboratory tests that, in the investigator's&#xD;
+             judgment, precludes the participant's safe participation in and completion of the&#xD;
+             study.&#xD;
+&#xD;
+          -  Untreated systemic bacterial, fungal, viral, or other infection (other than&#xD;
+             SARSCoV-2).&#xD;
+&#xD;
+          -  Known active TB, history of untreated or incompletely treated active or latent TB,&#xD;
+             suspected or known extrapulmonary TB.&#xD;
+&#xD;
+          -  Known HIV regardless of immunological status.&#xD;
+&#xD;
+          -  Known HBsAg and/or anti-HCV positive (participants demonstrating a sustained virologic&#xD;
+             response (SVR) are not excluded from participation).&#xD;
+&#xD;
+          -  Currently receiving radiotherapy, chemotherapy (hormone based therapies are permitted)&#xD;
+             or immunotherapy for malignancy.&#xD;
+&#xD;
+          -  Received monoclonal antibody therapy (for example. tocilizumab, sarilumab) within the&#xD;
+             past 3 months prior to randomization, including intravenous immunoglobulin, or planned&#xD;
+             to be received during the study.&#xD;
+&#xD;
+          -  Received immunosuppressant therapy including but not limited to cyclosporin,&#xD;
+             azathioprine, tacrolimus, mycophenolate, JAK inhibitors (for example. baricitinib,&#xD;
+             tofacitinib, upadacitinib), nintedanib, disease modifying antirheumatic drugs (DMARDs)&#xD;
+             (for example. methotrexate) within the last 3 months prior to randomization or planned&#xD;
+             to be received during the study.&#xD;
+&#xD;
+          -  History of allergic reaction, including anaphylaxis to any previous treatment with an&#xD;
+             anti-GM-CSF therapy.&#xD;
+&#xD;
+          -  Received COVID-19 convalescent plasma within 48 hours of randomization.&#xD;
+&#xD;
+          -  Currently receiving chronic oral corticosteroids for a non-COVID-19 related condition&#xD;
+             at a dose higher than prednisone 10 mg or equivalent per day.&#xD;
+&#xD;
+          -  Treatment with an investigational drug or substance within 30 days of randomization&#xD;
+             unless approved by the Medical Monitor.&#xD;
+&#xD;
+          -  Participating in other drug clinical trials, including for COVID-19.&#xD;
+&#xD;
+          -  AST or ALT &gt;5 times ULN.&#xD;
+&#xD;
+          -  Platelets &lt;50,000/mm^3.&#xD;
+&#xD;
+          -  Hemoglobin &lt;=9 g/dL&#xD;
+&#xD;
+          -  ANC &lt;1.0 x 10^9/L (neutropenia &gt;= Grade 3).&#xD;
+&#xD;
+          -  Estimated GFR &lt;=30 mL/min/1.73 m^2.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>US GSK Clinical Trials Call Center</last_name>
+    <phone>877-379-3718</phone>
+    <email>GSKClinicalSupportHD@gsk.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>EU GSK Clinical Trials Call Center</last_name>
+    <phone>+44 (0) 20 89904466</phone>
+    <email>GSKClinicalSupportHD@gsk.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Mobile</city>
+        <state>Alabama</state>
+        <zip>36608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Allan F Seibert</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nikhil K Meena</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95819</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Timothy Albertson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Torrance</city>
+        <state>California</state>
+        <zip>90502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33316</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Frank Hull</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Peruvemba S Sriram</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Winfield</city>
+        <state>Illinois</state>
+        <zip>60190</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Luis Manrique</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Portland</city>
+        <state>Maine</state>
+        <zip>04102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kathryn Brouillette</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Germantown</city>
+        <state>Maryland</state>
+        <zip>20876</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Lee Edward Schwab</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Silver Spring</city>
+        <state>Maryland</state>
+        <zip>20910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Lee Edward Schwab</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Saint Louis Park</city>
+        <state>Minnesota</state>
+        <zip>55426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Charlene E McEvoy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Charlene E McEvoy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Mary Jane Burton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Reno</city>
+        <state>Nevada</state>
+        <zip>89502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14215-1199</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Karin A Provost</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Zainab Shahid</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Doylestown</city>
+        <state>Pennsylvania</state>
+        <zip>18901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Les Szekely</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Gerard J Criner</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Bela Patel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Roanoke</city>
+        <state>Virginia</state>
+        <zip>24017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53295</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Munro</city>
+        <state>Buenos Aires</state>
+        <zip>1605</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Pablo A Doreski</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Cordoba</city>
+        <state>Córdova</state>
+        <zip>X5000</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>German Ambasch</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>1842</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Pedro Xavier Bocca Ruiz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1039AAO</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Javier Altclas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Cordoba</city>
+        <zip>5000</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Fernando Oscar Riera</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Cordoba</city>
+        <zip>X5002AOQ</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Hugo R. Colombo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Corrientes</city>
+        <zip>W3400AMZ</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Angel Esteban Piacenza</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Brussel</city>
+        <zip>1090</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Marc W. Diltoer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Yvoir</city>
+        <zip>5530</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>Minas Gerais</state>
+        <zip>30130-100</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90035-903</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Eduardo Sprinz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01246-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Luiz Carlos Pereira Junior</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01323903</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Victor Augusto Hamamoto Sato</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>04037-003</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>05403-010</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Esper Georges Kallas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V6Z 1Y6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>John Boyd</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Shane English</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <zip>H4J 1C5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Martin Albert</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>QC</city>
+        <state>Quebec</state>
+        <zip>J5R 6J5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Germain Poirier</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>St-Jerome</city>
+        <state>Quebec</state>
+        <zip>J7Z 5T3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sebastien Poulin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Talca</city>
+        <state>Región Del Maule</state>
+        <zip>3460001</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Absalón Rafael Sergio Silva Orellana</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Quillota</city>
+        <state>Valparaíso</state>
+        <zip>2260000</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Juana Pavie Gallegos</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Santiago</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Andrés Alberto Ferre Contreras</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Amiens Cedex 1</city>
+        <zip>80054</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Angers Cedex 9</city>
+        <zip>49933</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Argenteuil</city>
+        <zip>95100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Gaëtan Plantefeve</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ars-Laquenexy</city>
+        <zip>57530</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rostane Gaci</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>La Roche-Sur-Yon</city>
+        <zip>85925</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jean-Claude Lacherade</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>La Tronche</city>
+        <zip>38700</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nicolas Terzi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Limoges Cedex</city>
+        <zip>87042</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Bruno François</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Melun</city>
+        <zip>77000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Mehran Monchi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jean-Michel Constantin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Pierre-Bénite</city>
+        <zip>69495</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Bernard Allaouchiche</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Strasbourg cedex</city>
+        <zip>67098</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Francis Schneider</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ferhat Meziani</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Valenciennes Cedex</city>
+        <zip>59322</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Hatem Boughanmi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Aurangabad</city>
+        <zip>431001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Aurangabad</city>
+        <zip>431003</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Umar Quadri Syed</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Hyderabad</city>
+        <zip>500018</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kolkata</city>
+        <zip>700094</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rimita Dey</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kolkata</city>
+        <zip>700099</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Mumbai</city>
+        <zip>400034</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Nagpur</city>
+        <zip>440003</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>New Delhi</city>
+        <zip>110017</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ritesh Aggarwal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Pune</city>
+        <zip>411001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kapil Zirpe</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Pune</city>
+        <zip>411013</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Reema Kashiva</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Surat</city>
+        <zip>395001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Chirag Chhatwani</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Aichi</city>
+        <zip>470-1192</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kanagawa</city>
+        <zip>231-8682</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kanagawa</city>
+        <zip>251-0041</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Makoto Hibino</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Osaka</city>
+        <zip>534-0021</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Michinori Shirano</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Osaka</city>
+        <zip>574-0074</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Hidemitsu Nakagawa</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Saitama</city>
+        <zip>350-0495</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>113-8519</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Yasuhiro Otomo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>150-8935</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Takehiro Izumo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>162-8543</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>162-8655</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Shinyu Izumi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>196-0003</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Hirokazu Iijima</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Mexico City</city>
+        <state>Ciudad De Mexico</state>
+        <zip>14080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Amy-Bethel Peralta-Prado</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44280</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Pedro Martinez-Ayala</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Monterrey</city>
+        <state>Nuevo León</state>
+        <zip>64710</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>DF</city>
+        <zip>14000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Juan Gerardo Sierra-Madero</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Breda</city>
+        <zip>4818 CK</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Den Bosch</city>
+        <zip>5223 GZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Frans W. (Wim) Rozendaal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Enschede</city>
+        <zip>7512 KZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Albertus (Bert) Beishuizen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Nijmegen</city>
+        <zip>6532 SZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Oscar Hoiting</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Rotterdam</city>
+        <zip>3083 AN</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Fenna J. Schoonderbeek</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Lima</city>
+        <zip>Callao 2</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Luis Enrique Hercilla Vásquez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Lima</city>
+        <zip>Lima 11</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Lima</city>
+        <zip>Lima 1</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>José Luis Cabrera Rivero</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Lima</city>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Victoria Chavez Miñano</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bydgoszcz</city>
+        <zip>85-030</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Dorota Dybowska</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Krakow</city>
+        <zip>30-688</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Wojciech Serednicki</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Poznan</city>
+        <zip>61-285</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>02-507</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Andrzej Fal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Wroclaw</city>
+        <zip>51-149</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Krzysztof Simon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ekaterinburg</city>
+        <zip>620039</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Elena M Vishneva</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>111539</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ivan Gordeev</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Nizhniy Novgorod</city>
+        <zip>603011</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ekaterina Makarova</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Omsk</city>
+        <zip>644111</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Tatiana Kropotina</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Perm</city>
+        <zip>614990</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Yuliya Trefilova</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>St. Petersburg</city>
+        <zip>191104</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Aleksey G Mamonov</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ufa</city>
+        <zip>450083</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Voronezh</city>
+        <zip>394066</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Natalia E. Kostina</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Benoni</city>
+        <state>Gauteng</state>
+        <zip>1501</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Agatha C Wilhase</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>2193</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Safiyya Chohan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Durban</city>
+        <state>KwaZulu- Natal</state>
+        <zip>4052</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rosie Mngqibisa</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Muckleneuk Pretoria</city>
+        <zip>0002</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Johannes Breedt</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Panorama,</city>
+        <zip>7500</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tygerberg</city>
+        <zip>7505</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Worcester</city>
+        <zip>6850</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Louis J van Zyl</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rosana Muñoz Bermúdez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>L'Hospitalet de Llobregat</city>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Salud Santos Pérez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Logroño</city>
+        <zip>26006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Carlos Ruíz Martínez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Tamara Alonso Pérez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Javier de Miguel Díez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Germán Peces-Barba Romero</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>San Sebastián De Los Reyes/Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Llanos Soler Rangel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Manchester</city>
+        <state>Greater Manchester</state>
+        <zip>M13 9WL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bradford</city>
+        <zip>BD9 6RJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Tom Lawton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Liverpool</city>
+        <zip>L7 8XP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Middlesbrough</city>
+        <zip>TS4 3BW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Stephen Bonner</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Newcastle Upon Tyne</city>
+        <zip>NE1 4LP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Belgium</country>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>Chile</country>
+    <country>France</country>
+    <country>India</country>
+    <country>Japan</country>
+    <country>Mexico</country>
+    <country>Netherlands</country>
+    <country>Peru</country>
+    <country>Poland</country>
+    <country>Russian Federation</country>
+    <country>South Africa</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>May 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 6, 2020</study_first_posted>
+  <last_update_submitted>April 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Otilimab</keyword>
+  <keyword>Ordinal scale</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>GSK3196165</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>IPD for this study will be made available via the Clinical Study Data Request site.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>IPD will be made available within 6 months of publishing the results of the primary endpoints, key secondary endpoints and safety data of the study.</ipd_time_frame>
+    <ipd_access_criteria>Access is provided after a research proposal is submitted and has received approval from the Independent Review Panel and after a Data Sharing Agreement is in place. Access is provided for an initial period of 12 months but an extension can be granted, when justified, for up to another 12 months.</ipd_access_criteria>
+    <ipd_url>http://clinicalstudydatarequest.com</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

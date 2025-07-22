@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="48">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04799444</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LATE-COVID</org_study_id>
+    <nct_id>NCT04799444</nct_id>
+  </id_info>
+  <brief_title>LATE-COVID/LATE-COVID-Kids - Observational Study in Children and Adults</brief_title>
+  <acronym>LATE-COVID</acronym>
+  <official_title>Complications Post COVID-19 - Observational Study in Children and Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Polish Mother Memorial Hospital Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Polish Mother Memorial Hospital Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      All consecutive patients admitted to the Polish Mother Memorial Research Institute (PMMHRI)&#xD;
+      in Lodz, Poland between 1st October 2020 and 31st December 2021 due to symptoms, which might&#xD;
+      reflect complications following COVID-19, will be included in the observational cohort study.&#xD;
+      Data concerning clinical characteristics, results of laboratory tests, other studies, such&#xD;
+      as: echocardiography, 24 hours ambulatory ECG recording will be collected. The study is&#xD;
+      planned also to be extended with the genetic predisposition in children to COVID-19 late&#xD;
+      complications (within independent grant).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A wide range of complications have been linked to COVID-19 - the coronavirus disease caused&#xD;
+      by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It is well known that&#xD;
+      COVID-19 affects multiple organs. Most of the data however present the early complications&#xD;
+      during the acute phase of the infection, and there is still a lack of knowledge on the late&#xD;
+      complications that might appear after recovery. Additionally, the long-term complications in&#xD;
+      patients who were asymptomatic or had mild symptoms during the acute phase of infection, not&#xD;
+      requiring hospitalization, oxygen therapy or mechanical ventilation has not been fully&#xD;
+      studied. Therefore, our aim was to assess factors related to the severity of post-COVID&#xD;
+      complications among patients without severe symptoms in the acute phase of COVID-19. The&#xD;
+      study will include consecutive COVID-19 convalescents (the infection of coronavirus was&#xD;
+      confirmed with real-time polymerase chain reaction test or positive result of autoantibodies)&#xD;
+      admitted to the Departments of Polish Mother Memorial Research Institute (PMMHRI) in Lodz,&#xD;
+      Poland, for complications. Both children and adults will be included in the study. The&#xD;
+      patients will have laboratory testing and other studies due to the character of symptoms.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Year</target_duration>
+  <primary_outcome>
+    <measure>Number of participants with severe post-COVID-19 complications</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Data concerning clinical characteristics, results of laboratory tests, other studies, such as: echocardiography, 24 hours ambulatory ECG recording will be collected. According to the results patients will be qualified to severe or mild complication group</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Factors related to the severity of post-COVID-19 complications</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Data concerning clinical characteristics, results of laboratory tests, other studies, such as: echocardiography, 24 hours ambulatory ECG recording will be collected to verify which of them can be related to the severity of post-COVID-19 complications.</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Post-COVID SCORE</measure>
+    <time_frame>Baseline</time_frame>
+    <description>We aim to create a post-COVID SCORE that helps to predict the risk of late complications both in children and adults.</description>
+  </other_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Adult patients with complications post COVID-19</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Children with complications post COVID-19</arm_group_label>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      The study is planned also to be extended with the genetic predisposition in children to&#xD;
+      COVID-19 late complications (within independent grant).&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All consecutive COVID-19 convalescents admitted to the Departments of Polish Mother&#xD;
+        Memorial Research Institute (PMMHRI) in Lodz, Poland, for complications&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  consecutive COVID-19 convalescents (the infection of coronavirus was confirmed with&#xD;
+             real-time polymerase chain reaction test or positive result of autoantibodies)&#xD;
+             admitted to the Departments of Polish Mother Memorial Research Institute (PMMHRI) in&#xD;
+             Lodz, Poland, for complications&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  no history of COVID-19 infection,&#xD;
+&#xD;
+          -  lack of complications post COVID-19,&#xD;
+&#xD;
+          -  severe course of Sars-COV-2 infection,&#xD;
+&#xD;
+          -  lack pf patient's agreement to be included in the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Polish Mother Memorial Research Institute (PMMHRI) in Lodz, Poland</name>
+      <address>
+        <city>Lodz</city>
+        <zip>93-338</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maciej Banach, MD,PhD,FNLA,FAHA,FESC,FASA</last_name>
+      <phone>+48 42 2711124</phone>
+      <email>maciej.banach@icloud.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Joanna Lewek, MD, PhD</last_name>
+      <phone>+48 422721593</phone>
+      <email>joanna.lewek@umed.lodz.pl</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Maciej Banach, MD,PhD,FNLA,FAHA,FESC,FASA</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Joanna Lewek, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Izabela Jatczak-Pawlik, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Poland</country>
+  </location_countries>
+  <reference>
+    <citation>Parsamanesh N, Karami-Zarandi M, Banach M, Penson PE, Sahebkar A. Effects of statins on myocarditis: A review of underlying molecular mechanisms. Prog Cardiovasc Dis. 2021 Feb 20. pii: S0033-0620(21)00022-0. doi: 10.1016/j.pcad.2021.02.008. [Epub ahead of print] Review.</citation>
+    <PMID>33621589</PMID>
+  </reference>
+  <reference>
+    <citation>Petrovic V, Radenkovic D, Radenkovic G, Djordjevic V, Banach M. Pathophysiology of Cardiovascular Complications in COVID-19. Front Physiol. 2020 Oct 9;11:575600. doi: 10.3389/fphys.2020.575600. eCollection 2020. Review.</citation>
+    <PMID>33162899</PMID>
+  </reference>
+  <reference>
+    <citation>Bhaskar S, Sinha A, Banach M, Mittoo S, Weissert R, Kass JS, Rajagopal S, Pai AR, Kutty S. Cytokine Storm in COVID-19-Immunopathological Mechanisms, Clinical Considerations, and Therapeutic Approaches: The REPROGRAM Consortium Position Paper. Front Immunol. 2020 Jul 10;11:1648. doi: 10.3389/fimmu.2020.01648. eCollection 2020.</citation>
+    <PMID>32754159</PMID>
+  </reference>
+  <reference>
+    <citation>Radenkovic D, Chawla S, Pirro M, Sahebkar A, Banach M. Cholesterol in Relation to COVID-19: Should We Care about It? J Clin Med. 2020 Jun 18;9(6). pii: E1909. doi: 10.3390/jcm9061909.</citation>
+    <PMID>32570882</PMID>
+  </reference>
+  <results_reference>
+    <citation>Lewek J, Jatczak-Pawlik I, Maciejewski M, Jankowski P, Banach M. COVID-19 and cardiovascular complications -the preliminary results of the LATE- COVID study. Arch Med Sci 2021; 17(5); in press.</citation>
+  </results_reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 16, 2021</study_first_posted>
+  <last_update_submitted>March 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Polish Mother Memorial Hospital Research Institute</investigator_affiliation>
+    <investigator_full_name>Maciej Banach</investigator_full_name>
+    <investigator_title>MD,PhD,FNLA,FAHA,FESC,FASA</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>post-COVID-19</keyword>
+  <keyword>late-COVID-19 complications</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

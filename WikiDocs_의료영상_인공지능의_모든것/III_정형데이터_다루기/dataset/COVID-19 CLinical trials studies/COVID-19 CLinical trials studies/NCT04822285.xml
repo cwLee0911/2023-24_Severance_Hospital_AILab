@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5065">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04822285</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1522112020</org_study_id>
+    <nct_id>NCT04822285</nct_id>
+  </id_info>
+  <brief_title>Effect Psychological Triaging Intervention on Students' Psychological Distress and Resilience Capacity</brief_title>
+  <acronym>Triaging</acronym>
+  <official_title>Psychological Triaging Intervention: Rescue From Psychological Distress and Improving Senior Nursing Students' Resilience Capacity During COVID-19 Crisis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alexandria University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Alexandria University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aimed to investigate the effect of the psychological triaging intervention (PTI)&#xD;
+      on the psychological distress and resilience capacity levels among the intern-nursing&#xD;
+      students during the COVID-19 crisis.&#xD;
+&#xD;
+      Research Hypothesis&#xD;
+&#xD;
+      Intern-nursing students who attend PTI exhibit lower COVID-19 related psychological distress&#xD;
+      level and higher resilience capacity than those who receive routine psychological support.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The intern-nursing students' psychological well-being and resilience are of indispensable&#xD;
+      significance during these unprecedented days. 64 Intern-nursing students. Sixty-four&#xD;
+      intern-nursing students who completed a preliminary survey and demonstrated both high level&#xD;
+      of psychological distress and low resilience capacity as a result of their exposure to&#xD;
+      patients with COVID-19 during their internship period were randomly assigned to two equal&#xD;
+      groups and the study group were engaged in the PTI intervention which followed the path of&#xD;
+      RAPID Psychological First Aid model.&#xD;
+&#xD;
+      The PTI intervention followed the path of RAPID Psychological First Aid model of John Hopkins&#xD;
+      University (Everly&amp; Lating 2012). The content of the PTI represents a simple structure that&#xD;
+      is revolved around five core phases including (R: establishing rapport and reflective&#xD;
+      listening, A: assessment, P: prioritization, I: intervention and D: disposition&amp; follow up).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 22, 2020</start_date>
+  <completion_date type="Actual">March 21, 2021</completion_date>
+  <primary_completion_date type="Actual">April 22, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>severity of psychological distress</measure>
+    <time_frame>&quot; 2 weeks &quot;</time_frame>
+    <description>The General Health Questionnaire (GHQ-12) was developed by (Goldberg, 1972). The questionnaire comprises 12- self-report items to measure the severity of psychological distress. The presence the symptoms was rated on 4- points Likert-type scale; (0=&quot;not at all present&quot;, 1=&quot;same as usual present&quot;; 2=&quot;rather more than usual present&quot;; 3=&quot;much more than usual present&quot;). The tool demonstrated high reliability as Cronbach's alpha coefficient was 0.87. The total score ranged from 0-36. The higher score representing higher level of psychological distress.</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Resilience Capacity</measure>
+    <time_frame>&quot; 2 weeks &quot;</time_frame>
+    <description>It consists of 25-item to assess the resilience capacity. The CD-RISC was abridged to 10 items to reflect the individuals' ability to tolerate painful experience. Such as; ability to adapt to change, tendency to bounce back after hardship and ability to stay focused under pressure.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">64</enrollment>
+  <condition>Psychological Distress</condition>
+  <condition>Resilience</condition>
+  <arm_group>
+    <arm_group_label>Psychological Triaging Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The PTI intervention followed the path of RAPID Psychological First Aid model of John Hopkins University (Everly&amp; Lating 2012). The content of the PTI represents a simple structure that is revolved around five core phases including (R: establishing rapport and reflective listening, A: assessment, P: prioritization, I: intervention and D: disposition&amp; follow up).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Routine Psychological support</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>For the comparison group, the researchers provided them with routine psychological support that mainly revolved around enhancing their self-compassion, practicing mindfulness exercises, keeping them socially connected with their family and peers. Moreover, adopt a healthy lifestyle such as; engage in physical activity, eating a well-balanced diet, and sleeping well.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Psychological Triaging Intervention</intervention_name>
+    <description>The PTI intervention followed the path of RAPID Psychological First Aid model of John Hopkins University (Everly&amp; Lating 2012). The content of the PTI represents a simple structure that is revolved around five core phases including (R: establishing rapport and reflective listening, A: assessment, P: prioritization, I: intervention and D: disposition&amp; follow up).</description>
+    <arm_group_label>Psychological Triaging Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Routine psychological support</intervention_name>
+    <description>For the comparison group, the researchers provided them with routine psychological support that mainly revolved around enhancing their self-compassion, practicing mindfulness exercises, keeping them socially connected with their family and peers. Moreover, adopt a healthy lifestyle such as; engage in physical activity, eating a well-balanced diet, and sleeping well.</description>
+    <arm_group_label>Routine Psychological support</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Exposed to patients with COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Did not exposed to patients with COVID-19&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eman m Taha, professor</last_name>
+    <role>Study Chair</role>
+    <affiliation>Alexandria University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Faculty of Nursing</name>
+      <address>
+        <city>Alexandria</city>
+        <zip>56321</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <reference>
+    <citation>Bozdağ F, Ergün N. Psychological Resilience of Healthcare Professionals During COVID-19 Pandemic. Psychol Rep. 2020 Oct 13:33294120965477. doi: 10.1177/0033294120965477. [Epub ahead of print]</citation>
+    <PMID>33050800</PMID>
+  </reference>
+  <reference>
+    <citation>Eweida RS, Rashwan ZI, Desoky GM, Khonji LM. Mental strain and changes in psychological health hub among intern-nursing students at pediatric and medical-surgical units amid ambience of COVID-19 pandemic: A comprehensive survey. Nurse Educ Pract. 2020 Nov;49:102915. doi: 10.1016/j.nepr.2020.102915. Epub 2020 Nov 10.</citation>
+    <PMID>33227694</PMID>
+  </reference>
+  <reference>
+    <citation>Farkas D, Orosz G. Ego-resiliency reloaded: a three-component model of general resiliency. PLoS One. 2015 Mar 27;10(3):e0120883. doi: 10.1371/journal.pone.0120883. eCollection 2015.</citation>
+    <PMID>25815881</PMID>
+  </reference>
+  <reference>
+    <citation>Maben J, Bridges J. Covid-19: Supporting nurses' psychological and mental health. J Clin Nurs. 2020 Aug;29(15-16):2742-2750. doi: 10.1111/jocn.15307. Epub 2020 Jun 2.</citation>
+    <PMID>32320509</PMID>
+  </reference>
+  <reference>
+    <citation>Prime H, Wade M, Browne DT. Risk and resilience in family well-being during the COVID-19 pandemic. Am Psychol. 2020 Jul-Aug;75(5):631-643. doi: 10.1037/amp0000660. Epub 2020 May 21. Review.</citation>
+    <PMID>32437181</PMID>
+  </reference>
+  <reference>
+    <citation>Shultz JM, Forbes D. Psychological First Aid: Rapid proliferation and the search for evidence. Disaster Health. 2013 Aug 2;2(1):3-12. doi: 10.4161/dish.26006. eCollection 2014 Jan-Mar.</citation>
+    <PMID>28228996</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2021</study_first_posted>
+  <last_update_submitted>March 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Alexandria University</investigator_affiliation>
+    <investigator_full_name>Rasha salah elsayed eweida</investigator_full_name>
+    <investigator_title>Lecturer</investigator_title>
+  </responsible_party>
+  <keyword>Psychological Distress</keyword>
+  <keyword>Triage</keyword>
+  <keyword>Resilience</keyword>
+  <keyword>COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

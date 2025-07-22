@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2292">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04798001</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MV-101</org_study_id>
+    <nct_id>NCT04798001</nct_id>
+  </id_info>
+  <brief_title>Safety and Immunogenicity of an Intranasal RSV Vaccine Expressing SARS-CoV-2 Spike Protein (COVID-19 Vaccine) in Adults</brief_title>
+  <official_title>Phase 1, Open-Label, Dose-Escalation Study to Evaluate Tolerability, Safety, and Immunogenicity of an Intranasal Live Attenuated Respiratory Syncytial Virus Vaccine Expressing Spike Protein of SARS-CoV-2 in Healthy Adults Ages 18 - 69 Years</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Meissa Vaccines, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Meissa Vaccines, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study evaluates an investigational vaccine that is designed to protect humans against&#xD;
+      infection with SARS-CoV-2, the novel coronavirus causing COVID-19 disease. The&#xD;
+      investigational vaccine, MV-014-212, is a live attenuated vaccine against respiratory&#xD;
+      syncytial virus (RSV) that is expressing the spike (S) protein of SARS-CoV-2. MV-014-212 is&#xD;
+      administered as drops or a spray in the nose. Specifically, this study analyzes the safety&#xD;
+      of, and the immune response to, the vaccine when administered to healthy adults between the&#xD;
+      ages of 18 and 69 years who are seronegative to SARS-CoV-2 and have not received a prior&#xD;
+      vaccine against COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 12, 2021</start_date>
+  <completion_date type="Anticipated">October 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>This study evaluates 3 dosages of MV-014-212 in healthy adults.&#xD;
+Cohort A (18-55 years, inclusive) enrolls first. The first 10 participants (Group 1) receive Dosage 1. After Group 1 safety data review, 20 participants (Group 2) receive Dosage 2. After Group 2 safety data review, 50 participants (Group 3) receive Dosage 3: (i) 20 participants (Group 3a) receive a single dose; (ii) 10 participants (Group 3a) receive a 1st dose followed 2nd dose approx. 35 days after the 1st dose; (iii) 20 participants (Group 3b) receive a single dose by nasal atomizer (spray).&#xD;
+After review of Cohort A safety data, Cohort B (56-69 years, inclusive) enrolls. Sequential enrollment into Group 4 (10 participants; Dosage 1), Group 5 (20 participants; Dosage 2), then Group 6 (20 participants; Dosage 3) is based in each case on the preceding safety data review, as for Cohort A.&#xD;
+Within each group, a sentinel dosing approach is implemented as an added safety measure.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Solicited adverse events (AEs)</measure>
+    <time_frame>Immediate post-vaccination period</time_frame>
+    <description>Frequency of solicited AEs will be measured, categorized by severity. Solicited AEs are predefined AEs that may occur after investigational vaccine administration.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Unsolicited AEs</measure>
+    <time_frame>Immediate post-vaccination period</time_frame>
+    <description>Frequency of unsolicited AEs will be measured, categorized by severity. Unsolicited AEs are any untoward medical occurrences in a participant administered the investigational vaccine, regardless of causal relationship to the investigational vaccine. Unsolicited AEs can include unfavorable and unintended signs (including abnormal laboratory findings), symptoms, or diseases temporally associated with the use of the investigational vaccine.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serious adverse events (SAEs)</measure>
+    <time_frame>Full study duration, an average of 1 year</time_frame>
+    <description>Frequency of SAEs will be measured, categorized by vaccine-relatedness. SAEs are AEs, whether considered causally related to the investigational vaccine or not, that threaten life or result in any of the following: death, inpatient hospitalization or prolongation of existing hospitalization, persistent or significant incapacity or substantial disruption of the ability to conduct normal life functions, or congenital anomaly/birth defect.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Medically attended adverse events (MAEs)</measure>
+    <time_frame>Full study duration, an average of 1 year</time_frame>
+    <description>Frequency of MAEs will be measured, categorized by vaccine-relatedness. MAEs are AEs, whether considered causally related to the investigational vaccine or not, with unscheduled medically attended visits, such as urgent care visits, acute primary care visits, emergency department visits, or other previously unplanned visits to a medical provider. Scheduled medical visits such as routine physicals, wellness checks, 'check-ups', and vaccinations, are not considered MAEs.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in serum neutralizing antibody titers against vaccine-encoded SARS-CoV-2 S protein</measure>
+    <time_frame>Baseline through Day 29, an average of five (5) weeks</time_frame>
+    <description>Change in serum neutralizing antibody (nAb) titers against vaccine-encoded SARS-CoV-2 S protein will be measured per participant</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in serum binding antibody concentrations against vaccine-encoded SARS-CoV-2 S protein</measure>
+    <time_frame>Baseline through Day 29, an average of five (5) weeks</time_frame>
+    <description>Change in serum binding antibody concentrations against vaccine-encoded SARS-CoV-2 S protein will be measured per participant</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Potential vaccine virus shedding: frequency</measure>
+    <time_frame>Baseline through Day 29, an average of four (4) weeks</time_frame>
+    <description>Frequency of any post-vaccination shedding of vaccine virus (as detected by viral culture) will be measured per dosage group and overall</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Potential vaccine virus shedding: magnitude</measure>
+    <time_frame>Baseline through Day 29, an average of four (4) weeks</time_frame>
+    <description>If post-vaccination shedding of vaccine virus is detected by culture, peak viral titer (measured in plaque forming units, PFU) will be measured per dosage group and overall</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Potential vaccine virus shedding: duration</measure>
+    <time_frame>Baseline through Day 29, an average of four (4) weeks</time_frame>
+    <description>If post-vaccination shedding of vaccine virus is detected by culture, duration of shedding (in days) will be measured per dosage group and overall</description>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">130</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Cohort A / Dosage Group 1 (intranasal drops) / Single Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this arm (18-55 years) will receive a single intranasal dose of the MV-014-212 vaccine at Dosage 1 in the form of intranasal drops on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort A / Dosage Group 2 (intranasal drops) / Single Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this arm (18-55 years) will receive a single intranasal dose of the MV-014-212 vaccine at Dosage 2 in the form of intranasal drops on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort A / Dosage Group 3a (intranasal drops) / Single Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this arm (18-55 years) will receive a single intranasal dose of the MV-014-212 vaccine at Dosage 3 in the form of intranasal drops on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort A / Dosage Group 3a (intranasal drops) / Two Doses</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this arm (18-55 years) will receive an intranasal dose of the MV-014-212 vaccine at Dosage 3 in the form of intranasal drops on Day 1. These participants will receive a second, identical dose of the MV-014-212 vaccine at Dosage 3 in the form of intranasal drops on Day 36.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort A / Dosage Group 3b (intranasal spray) / Single Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this arm (18-55 years) will receive a single intranasal dose of the MV-014-212 vaccine at Dosage 3 in the form of a nasal spray on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B / Dosage Group 4 (intranasal drops) / Single Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this arm (56-69 years) will receive a single intranasal dose of the MV-014-212 vaccine at Dosage 1 in the form of intranasal drops on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B / Dosage Group 5 (intranasal drops) / Single Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this arm (56-69 years) will receive a single intranasal dose of the MV-014-212 vaccine at Dosage 2 in the form of intranasal drops on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B / Dosage Group 6 (intranasal drops) / Single Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this arm (56-69 years) will receive a single intranasal dose of the MV-014-212 vaccine at Dosage 3 in the form of intranasal drops on Day 1.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Investigational vaccine against SARS-CoV-2 [MV-014-212] Dosage 1, Single Dose, Intranasal Drops</intervention_name>
+    <description>Single intranasal dose on Day 1, by intranasal drops</description>
+    <arm_group_label>Cohort A / Dosage Group 1 (intranasal drops) / Single Dose</arm_group_label>
+    <arm_group_label>Cohort B / Dosage Group 4 (intranasal drops) / Single Dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Investigational vaccine against SARS-CoV-2 [MV-014-212] Dosage 2, Single Dose, Intranasal Drops</intervention_name>
+    <description>Single intranasal dose on Day 1, by intranasal drops</description>
+    <arm_group_label>Cohort A / Dosage Group 2 (intranasal drops) / Single Dose</arm_group_label>
+    <arm_group_label>Cohort B / Dosage Group 5 (intranasal drops) / Single Dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Investigational vaccine against SARS-CoV-2 [MV-014-212] Dosage 3, Single Dose, Intranasal Drops</intervention_name>
+    <description>Single intranasal dose on Day 1, by intranasal drops</description>
+    <arm_group_label>Cohort A / Dosage Group 3a (intranasal drops) / Single Dose</arm_group_label>
+    <arm_group_label>Cohort B / Dosage Group 6 (intranasal drops) / Single Dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Investigational vaccine against SARS-CoV-2 [MV-014-212] Dosage 3, Two Doses, Intranasal Drops</intervention_name>
+    <description>Intranasal dose on Day 1 by intranasal drops. Followed by a second, identical dose on Day 36 by intranasal drops</description>
+    <arm_group_label>Cohort A / Dosage Group 3a (intranasal drops) / Two Doses</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Investigational vaccine against SARS-CoV-2 [MV-014-212] Dosage 3, Single Dose, Intranasal Spray</intervention_name>
+    <description>Single intranasal dose on Day 1, by intranasal spray</description>
+    <arm_group_label>Cohort A / Dosage Group 3b (intranasal spray) / Single Dose</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy adults ≥18 and &lt;56 years (Cohort A) and ≥56 years and &lt;70 years (Cohort B) as&#xD;
+             determined at the day of signing informed consent&#xD;
+&#xD;
+          -  SARS-CoV-2 seronegative (both IgM and IgG) at Screening&#xD;
+&#xD;
+          -  SARS-CoV-2 RT-PCR (nasal swab) negative at Day 1 pre-dose&#xD;
+&#xD;
+          -  Women of childbearing potential (WOCBP) or male subjects with partners who are WOCBP&#xD;
+             must agree to practice contraception during their study participation from the signing&#xD;
+             of informed consent for at least 3 months after the final MV-014-212 administration.&#xD;
+&#xD;
+          -  Written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of chronic pulmonary disease (e.g. chronic obstructive pulmonary disease,&#xD;
+             asthma, pulmonary fibrosis, cystic fibrosis). Resolved childhood asthma is not&#xD;
+             exclusionary.&#xD;
+&#xD;
+          -  Immunocompromised state due to comorbidities or other conditions as detailed in the&#xD;
+             study protocol&#xD;
+&#xD;
+          -  Nasal obstruction (including due to anatomic/structural causes, acute or chronic&#xD;
+             rhinosinusitis, or other causes)&#xD;
+&#xD;
+          -  Receipt of any other SARS-CoV-2, other experimental coronavirus, or experimental RSV&#xD;
+             vaccine at any time prior to or during the study&#xD;
+&#xD;
+          -  Healthcare worker, long-term care or nursing home facility resident or employee,&#xD;
+             member of an emergency response team, or other occupation with high risk of exposure&#xD;
+             to SARS-CoV-2, and those working outside the home in customer facing occupations (e.g.&#xD;
+             waiter, cashier or store clerk, public transportation or taxi driver)&#xD;
+&#xD;
+          -  Positive serum pregnancy test during Screening and/or positive urine pregnancy test on&#xD;
+             Day 1&#xD;
+&#xD;
+          -  Breastfeeding during any period of study participation&#xD;
+&#xD;
+          -  Occupational or household exposure to children &lt;5 years of age or to immunocompromised&#xD;
+             persons&#xD;
+&#xD;
+          -  Any medical disease or condition that, in the opinion of the PI, precludes study&#xD;
+             participation. This includes acute, subacute, intermittent or chronic medical disease&#xD;
+             or condition that would place the subject at an unacceptable risk of injury, render&#xD;
+             the subject unable to meet the requirements of the protocol, or may interfere with the&#xD;
+             evaluation of responses or the subject's successful completion of this trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>69 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Oliver Medzihradsky, MD MPH MS</last_name>
+    <role>Study Director</role>
+    <affiliation>Meissa Vaccines, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Oliver Medzihradsky, MD MPH MS</last_name>
+    <phone>4153108063</phone>
+    <email>oliver.med@meissavaccines.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Johnson County Clin-Trials</name>
+      <address>
+        <city>Lenexa</city>
+        <state>Kansas</state>
+        <zip>66219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mazen Zari, MS.cs, RRT</last_name>
+      <phone>913-825-4400</phone>
+      <email>mzari@jcct.com</email>
+    </contact>
+    <investigator>
+      <last_name>Carlos Fierro, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research</name>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20854</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Juliana DeVito, CCRC</last_name>
+      <phone>240-698-2800</phone>
+      <phone_ext>504</phone_ext>
+      <email>jdevito@mcrmed.com</email>
+    </contact>
+    <investigator>
+      <last_name>Shishir K Khetan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Stobart CC, Rostad CA, Ke Z, Dillard RS, Hampton CM, Strauss JD, Yi H, Hotard AL, Meng J, Pickles RJ, Sakamoto K, Lee S, Currier MG, Moin SM, Graham BS, Boukhvalova MS, Gilbert BE, Blanco JC, Piedra PA, Wright ER, Moore ML. A live RSV vaccine with engineered thermostability is immunogenic in cotton rats despite high attenuation. Nat Commun. 2016 Dec 21;7:13916. doi: 10.1038/ncomms13916.</citation>
+    <PMID>28000669</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 15, 2021</study_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>live attenuated vaccine</keyword>
+  <keyword>safety</keyword>
+  <keyword>immunogenicity</keyword>
+  <keyword>Phase 1 clinical trial</keyword>
+  <keyword>adult</keyword>
+  <keyword>seronegative</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3180">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04818320</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Favirpiravir-A1</org_study_id>
+    <nct_id>NCT04818320</nct_id>
+  </id_info>
+  <brief_title>Favipiravir in High-risk COVID-19 Patients</brief_title>
+  <official_title>Efficacy of Favipiravir in High Risk COVID-19 Patients: A Randomised, Open-label, Multicenter Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Penang Hospital, Malaysia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Enche' Besar Hajjah Khalsom Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Jasin Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Kepala Batas Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Melaka Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Permai Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Queen Elizabeth Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Raja Perempuan Zainab II Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Raja Permaisuri Bainun Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sultanah Aminah Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sultanah Nur Zahirah Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sungai Buloh Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tampin Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tengku Ampuan Afzan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tuanku Fauziah Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tuanku Jaafar Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tumpat Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Institute for Clinical Research</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Penang Hospital, Malaysia</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aims to investigate the efficacy of favipiravir in high-risk COVID-19 patients. The&#xD;
+      study population includes symptomatic mild-to-moderate COVID-19 inpatients, within first 7&#xD;
+      days of illness, who are 50 years old and above, and have 1 or more comorbidities. The study&#xD;
+      is designed as a randomised, open-label, multicenter clinical trial where the patients are&#xD;
+      randomised 1:1 to groups receiving favipiravir (5 days) versus no favipiravir.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 16, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Need for oxygen supplement</measure>
+    <time_frame>Day of discharge/day 28 of treatment (if still hospitalized)</time_frame>
+    <description>Drop in SPO2 in room air to &lt;95% or requiring supplemental oxygen to maintain SPO2≥95%</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Difference in the number of patients admitted to ICU</measure>
+    <time_frame>Day of discharge/day 28 of treatment (if still hospitalized)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference in the number of patients requiring mechanical ventilation</measure>
+    <time_frame>Day of discharge/day 28 of treatment (if still hospitalized)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the length of ICU stay</measure>
+    <time_frame>Day of discharge/day 28 of treatment (if still hospitalized)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in in-hospital mortality rate</measure>
+    <time_frame>Day of discharge/day 28 of treatment (if still hospitalized)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Favipiravir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Favipiravir treatment group (with standard of care),</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No favipiravir given. Standard of care only</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Favipiravir</intervention_name>
+    <description>Day 1: 1800mg BD, day 2-5: 800mg BD</description>
+    <arm_group_label>Favipiravir</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients are eligible to be included in the study only if they fulfil ALL the&#xD;
+             following criteria:&#xD;
+&#xD;
+          -  RT-PCR confirmed COVID-19 cases&#xD;
+&#xD;
+          -  Aged 50 years and above, AND have one or more co-morbidities&#xD;
+&#xD;
+          -  Within the first 7 days of illness (from symptom onset)&#xD;
+&#xD;
+          -  Mild to moderate clinical severity&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Asymptomatic stage 1 patients&#xD;
+&#xD;
+          -  Patients with SpO2 less than 95% without oxygen therapy&#xD;
+&#xD;
+          -  Patients who needs oxygen supplements&#xD;
+&#xD;
+          -  Patients with concomitant bacterial or fungal infection (confirmed by culture) prior&#xD;
+             to initiation of study&#xD;
+&#xD;
+          -  Patients with congestive heart failure&#xD;
+&#xD;
+          -  Patients with severe hepatic impairment (&gt;Grade 3: ALT &gt;10 times of upper normal&#xD;
+             limit)&#xD;
+&#xD;
+          -  Impaired kidney function (creatinine clearance according to Cockcroft-Gault formula&#xD;
+             less than 30 ml/min) at the time of screening.&#xD;
+&#xD;
+          -  Malabsorption syndrome or other clinically significant gastrointestinal disease that&#xD;
+             may affect absorption of the study drug (non-correctable vomiting, diarrhea,&#xD;
+             ulcerative colitis, and others).&#xD;
+&#xD;
+          -  Pregnant or nursing women or women planning pregnancy.&#xD;
+&#xD;
+          -  Female patients who cannot consent to contraceptive use of oral contraceptives,&#xD;
+             mechanical contraceptives such as intrauterine devices or barrier devices (pessaries,&#xD;
+             condoms), or a combination of these devices from the start of favipiravir&#xD;
+             administration to 7 days after the end of favipiravir administration&#xD;
+&#xD;
+          -  Male patients whose partner cannot agree to use the contraception method described in&#xD;
+             (9)&#xD;
+&#xD;
+          -  Patients with a history of gout or on treatment for gout or hyperuricemia&#xD;
+&#xD;
+          -  Patients receiving immunosuppressants&#xD;
+&#xD;
+          -  Patients who received interferon or drugs with reported antiviral activity against&#xD;
+             COVID-19 (hydroxychloroquine sulfate, chloroquine phosphate, lopinavir-ritonavir&#xD;
+             combination) within 7 days of illness.&#xD;
+&#xD;
+          -  Patients in whom this episode of infection is a recurrence or reinfection of COVID-19&#xD;
+             infection&#xD;
+&#xD;
+          -  Patients who have previously received favipiravir&#xD;
+&#xD;
+          -  Patients who are not able to provide written consent by themselves&#xD;
+&#xD;
+          -  Other patients judged ineligible by the principal investigator or sub-investigator&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>wenyao Mak</last_name>
+    <phone>0103940428</phone>
+    <email>makwenyao@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Penang General Hospital</name>
+      <address>
+        <city>George Town</city>
+        <state>Pulau Pinang</state>
+        <zip>10450</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>wenyao Mak</last_name>
+      <phone>0103940428</phone>
+      <email>makwenyao@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Malaysia</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 26, 2021</study_first_posted>
+  <last_update_submitted>April 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

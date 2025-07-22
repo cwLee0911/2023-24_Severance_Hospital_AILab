@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1540">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04843917</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3913</org_study_id>
+    <nct_id>NCT04843917</nct_id>
+  </id_info>
+  <brief_title>Immunity Against Covid19 Vaccine in Healthcare Workers in Argentine</brief_title>
+  <official_title>Immunity Against the Covid19 Vaccine in Healthcare Workers of Buenos Aires, Argentine.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Italiano de Buenos Aires</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital Italiano de Buenos Aires</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Vaccination against coronavirus disease 19 (COVID-19) is an essential primary prevention tool&#xD;
+      to limit the health and economic effects of the pandemic. Objectives: To determine the&#xD;
+      variation in the levels of Immunoglobulin G (IgG) antibodies in health workers who received a&#xD;
+      COVID-19 vaccine.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Vaccination against coronavirus disease 19 (COVID-19) is an essential primary prevention tool&#xD;
+      to limit the health and economic effects of the pandemic. The Ministry of Health of the&#xD;
+      Nation, designed the &quot;Strategic Plan for vaccination&quot;, which the first line being the health&#xD;
+      workers &quot; The National Administration of Medicines, Food and Medical Technology authorized&#xD;
+      two emergency vaccines for administration, Sputnik V and Sinopharm vaccine. It is important&#xD;
+      to evaluate immunogenicity and its correlation with the long-term efficacy and safety profile&#xD;
+      of this vaccines.&#xD;
+&#xD;
+      Objectives: To determine the variation in the levels of Immunoglobulin G (IgG) antibodies in&#xD;
+      health workers who received a COVID-19 vaccine between the time before the first dose, and&#xD;
+      after 1 month, 6 months and 12 months after the completion of the immunization, depending on&#xD;
+      whether they have received the Sputnik V vaccine or the Sinopharm vaccine, and correlate the&#xD;
+      Immunoglobulin G levels with the presence of adverse events and infection with COVID-19&#xD;
+      Methodology: Design: observational and analytical study of a prospective cohort of healthcare&#xD;
+      workers immunized with some COVID-19 vaccine. The presence of IgG will be determined&#xD;
+      qualitatively and quantitatively. The immunoglobulin G titer in each period will be compared&#xD;
+      globally and according to the type of vaccine administered.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 9, 2021</start_date>
+  <completion_date type="Anticipated">August 9, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 9, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To determine the variation in the levels of Immunoglobulin G (IgG) antibodies in health workers who received a COVID-19 vaccine</measure>
+    <time_frame>1 year</time_frame>
+    <description>To determine the variation in the levels of Immunoglobulin G (IgG) antibodies in health workers who received a COVID-19 vaccine between the time before the first dose, and after 1 month, 6 months and 12 months after the completion of the immunization</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To correlate the Immunoglobulin G levels with the presence of adverse events and infection with COVID-19</measure>
+    <time_frame>1 year</time_frame>
+    <description>To correlate the Immunoglobulin G levels with the presence of adverse events and infection with COVID-19</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Coronavirus 2019</condition>
+  <condition>Healthcare Workers</condition>
+  <condition>Vaccine</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Immunoglobulin G detection</intervention_name>
+    <description>Detection of immunoglobulin G against Spike Receptor Binding Domain against severe acute respiratory syndrome coronavirus 2</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Health care workers who want to receive any COVID-19 vaccine&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects receiving any COVID-19 vaccine.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who do not agree to participate&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>vanina Pagotto, MSC</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Italiano de Buenos Aires</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Silvana Figar, MSC</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Italiano de Buenos Aires</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Hernán Garcia Rivello, Pharm</last_name>
+    <role>Study Director</role>
+    <affiliation>Hospital Italiano de Buenos Aires</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>vanina Pagotto, MSC</last_name>
+    <phone>54 1149590200</phone>
+    <phone_ext>9353</phone_ext>
+    <email>vanina.pagotto@hospitalitaliano.org.ar</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Silvana Figar, MSC</last_name>
+    <phone>54 11 49590200</phone>
+    <phone_ext>9353</phone_ext>
+    <email>silvana.figar@hospitalitaliano.org.ar</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital Italiano de Buenos Aires</name>
+      <address>
+        <city>Buenos Aires</city>
+        <state>Caba</state>
+        <zip>C1199ABB</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vanina L Pagotto, MD MG</last_name>
+      <phone>0054 49590200</phone>
+      <phone_ext>5398</phone_ext>
+      <email>vanina.pagotto@hospitalitaliano.or.ar</email>
+    </contact>
+    <contact_backup>
+      <last_name>Silvana Figar, MD MG</last_name>
+      <phone>0054 49590200</phone>
+      <phone_ext>5398</phone_ext>
+      <email>silvana.figar@hospitalitaliano.org.ar</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Hernán García Rivello</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Diego Arrigo</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Hernán Michelángelo</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>María Inés Staneloni</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Analía Ferloni</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Valeria Asprea</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Valeria Aliperti</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Victoria Ardiles</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Silvana Figar</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Diego Giunta</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Vanina Pagotto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Facundo Seoane</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+  </location_countries>
+  <link>
+    <url>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines</url>
+    <description>World Health Organization. COVID-19 vaccines</description>
+  </link>
+  <link>
+    <url>https://www.argentina.gob.ar/noticias/informe-de-la-anmat-sobre-la-vacuna-sputnik-v</url>
+    <description>National Drug, Food, and Medical Technology Administration report on the Sputnik V vaccine</description>
+  </link>
+  <link>
+    <url>https://www.argentina.gob.ar/coronavirus/vacuna</url>
+    <description>Ministry of Health, Argentina. COVID-19 vaccine</description>
+  </link>
+  <link>
+    <url>https://www.argentina.gob.ar/coronavirus/vacuna/plan-estrategico</url>
+    <description>Ministry of Health, Argentina. Strategic Plan for vaccination against COVID-19 in Argentina</description>
+  </link>
+  <link>
+    <url>https://www.buenosaires.gob.ar/coronavirus/vacunacion-covid-19</url>
+    <description>Ministry of Health of the Government of the City of Buenos Aires. COVID-19 vaccination</description>
+  </link>
+  <link>
+    <url>https://doi.org/10.1101/2021.02.03.21251071</url>
+    <description>Active surveillance of the sputnik v vaccine in health workers</description>
+  </link>
+  <link>
+    <url>https://bancos.salud.gob.ar/recurso/quinto-informe-de-seguridad-en-vacunas</url>
+    <description>Bank of Communication Resources of the Ministry of Health of the Nation. Fifth Vaccine Safety Report</description>
+  </link>
+  <results_reference>
+    <citation>Logunov DY, Dolzhikova IV, Zubkova OV, Tukhvatulin AI, Shcheblyakov DV, Dzharullaeva AS, Grousova DM, Erokhova AS, Kovyrshina AV, Botikov AG, Izhaeva FM, Popova O, Ozharovskaya TA, Esmagambetov IB, Favorskaya IA, Zrelkin DI, Voronina DV, Shcherbinin DN, Semikhin AS, Simakova YV, Tokarskaya EA, Lubenets NL, Egorova DA, Shmarov MM, Nikitenko NA, Morozova LF, Smolyarchuk EA, Kryukov EV, Babira VF, Borisevich SV, Naroditsky BS, Gintsburg AL. Safety and immunogenicity of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine in two formulations: two open, non-randomised phase 1/2 studies from Russia. Lancet. 2020 Sep 26;396(10255):887-897. doi: 10.1016/S0140-6736(20)31866-3. Epub 2020 Sep 4. Erratum in: Lancet. 2021 Jan 9;397(10269):98.</citation>
+    <PMID>32896291</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Logunov DY, Dolzhikova IV, Shcheblyakov DV, Tukhvatulin AI, Zubkova OV, Dzharullaeva AS, Kovyrshina AV, Lubenets NL, Grousova DM, Erokhova AS, Botikov AG, Izhaeva FM, Popova O, Ozharovskaya TA, Esmagambetov IB, Favorskaya IA, Zrelkin DI, Voronina DV, Shcherbinin DN, Semikhin AS, Simakova YV, Tokarskaya EA, Egorova DA, Shmarov MM, Nikitenko NA, Gushchin VA, Smolyarchuk EA, Zyryanov SK, Borisevich SV, Naroditsky BS, Gintsburg AL; Gam-COVID-Vac Vaccine Trial Group. Safety and efficacy of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine: an interim analysis of a randomised controlled phase 3 trial in Russia. Lancet. 2021 Feb 20;397(10275):671-681. doi: 10.1016/S0140-6736(21)00234-8. Epub 2021 Feb 2. Erratum in: Lancet. 2021 Feb 20;397(10275):670.</citation>
+    <PMID>33545094</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Polack FP, Thomas SJ, Kitchin N, Absalon J, Gurtman A, Lockhart S, Perez JL, Pérez Marc G, Moreira ED, Zerbini C, Bailey R, Swanson KA, Roychoudhury S, Koury K, Li P, Kalina WV, Cooper D, Frenck RW Jr, Hammitt LL, Türeci Ö, Nell H, Schaefer A, Ünal S, Tresnan DB, Mather S, Dormitzer PR, Şahin U, Jansen KU, Gruber WC; C4591001 Clinical Trial Group. Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine. N Engl J Med. 2020 Dec 31;383(27):2603-2615. doi: 10.1056/NEJMoa2034577. Epub 2020 Dec 10.</citation>
+    <PMID>33301246</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Di Pasquale A, Bonanni P, Garçon N, Stanberry LR, El-Hodhod M, Tavares Da Silva F. Vaccine safety evaluation: Practical aspects in assessing benefits and risks. Vaccine. 2016 Dec 20;34(52):6672-6680. doi: 10.1016/j.vaccine.2016.10.039. Epub 2016 Nov 8. Review.</citation>
+    <PMID>27836435</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hervé C, Laupèze B, Del Giudice G, Didierlaurent AM, Tavares Da Silva F. The how's and what's of vaccine reactogenicity. NPJ Vaccines. 2019 Sep 24;4:39. doi: 10.1038/s41541-019-0132-6. eCollection 2019. Review.</citation>
+    <PMID>31583123</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Virtanen M, Peltola H, Paunio M, Heinonen OP. Day-to-day reactogenicity and the healthy vaccinee effect of measles-mumps-rubella vaccination. Pediatrics. 2000 Nov;106(5):E62.</citation>
+    <PMID>11061799</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mitchell TC, Casella CR. No pain no gain? Adjuvant effects of alum and monophosphoryl lipid A in pertussis and HPV vaccines. Curr Opin Immunol. 2017 Aug;47:17-25. doi: 10.1016/j.coi.2017.06.009. Epub 2017 Jul 17. Review.</citation>
+    <PMID>28728074</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sadoff J, Le Gars M, Shukarev G, Heerwegh D, Truyers C, de Groot AM, Stoop J, Tete S, Van Damme W, Leroux-Roels I, Berghmans PJ, Kimmel M, Van Damme P, de Hoon J, Smith W, Stephenson KE, De Rosa SC, Cohen KW, McElrath MJ, Cormier E, Scheper G, Barouch DH, Hendriks J, Struyf F, Douoguih M, Van Hoof J, Schuitemaker H. Interim Results of a Phase 1-2a Trial of Ad26.COV2.S Covid-19 Vaccine. N Engl J Med. 2021 Jan 13. doi: 10.1056/NEJMoa2034201. [Epub ahead of print]</citation>
+    <PMID>33440088</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Voysey M, Clemens SAC, Madhi SA, Weckx LY, Folegatti PM, Aley PK, Angus B, Baillie VL, Barnabas SL, Bhorat QE, Bibi S, Briner C, Cicconi P, Collins AM, Colin-Jones R, Cutland CL, Darton TC, Dheda K, Duncan CJA, Emary KRW, Ewer KJ, Fairlie L, Faust SN, Feng S, Ferreira DM, Finn A, Goodman AL, Green CM, Green CA, Heath PT, Hill C, Hill H, Hirsch I, Hodgson SHC, Izu A, Jackson S, Jenkin D, Joe CCD, Kerridge S, Koen A, Kwatra G, Lazarus R, Lawrie AM, Lelliott A, Libri V, Lillie PJ, Mallory R, Mendes AVA, Milan EP, Minassian AM, McGregor A, Morrison H, Mujadidi YF, Nana A, O'Reilly PJ, Padayachee SD, Pittella A, Plested E, Pollock KM, Ramasamy MN, Rhead S, Schwarzbold AV, Singh N, Smith A, Song R, Snape MD, Sprinz E, Sutherland RK, Tarrant R, Thomson EC, Török ME, Toshner M, Turner DPJ, Vekemans J, Villafana TL, Watson MEE, Williams CJ, Douglas AD, Hill AVS, Lambe T, Gilbert SC, Pollard AJ; Oxford COVID Vaccine Trial Group. Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK. Lancet. 2021 Jan 9;397(10269):99-111. doi: 10.1016/S0140-6736(20)32661-1. Epub 2020 Dec 8. Erratum in: Lancet. 2021 Jan 9;397(10269):98.</citation>
+    <PMID>33306989</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hope JL, Bradley LM. Lessons in antiviral immunity. Science. 2021 Jan 29;371(6528):464-465. doi: 10.1126/science.abf6446.</citation>
+    <PMID>33510014</PMID>
+  </results_reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital Italiano de Buenos Aires</investigator_affiliation>
+    <investigator_full_name>VANINA LAURA PAGOTTO</investigator_full_name>
+    <investigator_title>MSC</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19 Vaccines</keyword>
+  <keyword>Health Personnel</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Immunoglobulins, Intravenous</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Immunoglobulin G</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

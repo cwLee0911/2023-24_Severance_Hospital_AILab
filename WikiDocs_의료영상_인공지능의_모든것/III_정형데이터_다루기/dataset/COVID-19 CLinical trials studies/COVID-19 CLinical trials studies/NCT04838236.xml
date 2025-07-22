@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5701">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04838236</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00000360</org_study_id>
+    <nct_id>NCT04838236</nct_id>
+  </id_info>
+  <brief_title>Smoking, Stress, and Mobile Technology</brief_title>
+  <official_title>Improving Access to Cigarette Cessation Treatment Among African American Smokers: Development and Evaluation of an Integrated mHealth Application</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Houston</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Oklahoma</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Houston</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We seek to refine and evaluate the novel, mobile intervention, which was initially developed&#xD;
+      and previously tested by our team, targeting sensitivity to interoceptive stress and to apply&#xD;
+      it among African American smokers. Our culturally adapted intervention is framed within a&#xD;
+      sociocultural context of interoceptive stress, which is supported by theory, empirical&#xD;
+      evidence, and characteristics of African American smokers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators have employed an experimental therapeutic paradigm to develop knowledge and&#xD;
+      inform a mechanistic-based approach for personalized smoking cessation for&#xD;
+      affective-vulnerable smokers.&#xD;
+&#xD;
+      AS (Target Identification). Anxiety sensitivity (AS) is a relatively stable individual&#xD;
+      difference factor that predisposes individuals to the development of anxiety/depressive&#xD;
+      problems9 by amplifying negative mood states (e.g., anxiety)10,11. Importantly, AS is related&#xD;
+      to, yet distinct from negative affectivity, distress intolerance, and experiential&#xD;
+      avoidance12, 13. To illustrate, when a person with high AS experiences physiological&#xD;
+      sensations (e.g., due to smoking abstinence), she/he is likely to misinterpret the symptoms&#xD;
+      as signs of impending personal threat (e.g., &quot;I'm going crazy&quot;) and experience them as&#xD;
+      emotionally toxic (e.g., &quot;I can't stand this discomfort anymore&quot;) 9. Thus, AS is an&#xD;
+      'amplifying factor,' enhancing the aversiveness and need to escape/avoid negative affective&#xD;
+      or somatic experiences9, 14. There is strong evidence of the AS model in terms of the latent&#xD;
+      structure and stability of the construct, including samples of smokers15-19. AS also is&#xD;
+      unique from, and demonstrates incremental validity to, trait anxiety20 and negative affect18;&#xD;
+      thus, AS is distinguishable from frequency of anxiety and negative mood symptoms21. That is,&#xD;
+      the predictive power of AS relies on the fact that it is not just negative affect/sensations&#xD;
+      that drives maladaptive or impulsive behavior, but the relative sensitivity of these&#xD;
+      experiences. Notably, high AS is observed in 20-33% of smokers27-29 (or, from&#xD;
+      9,200,0000-15,000,000 smokers in the U.S. alone), and therefore, is highly significant from a&#xD;
+      public health perspective.&#xD;
+&#xD;
+      AS-Mental Health Relation. AS is an optimal candidate for personalized medicine. First,&#xD;
+      research has found that AS levels are elevated among individuals with anxiety and related&#xD;
+      disorders compared to those without such disorders22. Second, longitudinal studies with&#xD;
+      healthy adults23, 24 and adolescents25 indicate elevated AS predicts the future occurrence of&#xD;
+      anxiety and depressive symptoms and emotional disorders26. Third, laboratory studies indicate&#xD;
+      that AS is a significant predictor of fear responses to bodily sensations and stressors more&#xD;
+      generally27-29; these effects are evident above and beyond the variance accounted for by&#xD;
+      trait anxiety30. Fourth, AS significantly relates to avoidance-based response styles for&#xD;
+      coping with aversive events31 and is reliably correlated with smoking and other substance use&#xD;
+      to reduce negative affect32, 33. Collectively, AS is a transdiagnostic vulnerability factor&#xD;
+      for negative affect symptoms/syndromes. Such information is relevant to the present proposal&#xD;
+      because theoretically-driven cognitive-behavioral therapies (CBT) that reduce AS have proven&#xD;
+      to be effective therapeutic tactics for the prevention and treatment of emotional&#xD;
+      disorders34-36.&#xD;
+&#xD;
+      AS-Smoking Relation. AS is a prominent and unique individual difference factor that is&#xD;
+      relevant to better understanding smoking maintenance and relapse processes37,38. There are&#xD;
+      numerous interrelated, but distinct, lines of independently replicated studies that document&#xD;
+      the role of AS in a multitude of smoking maintenance and relapse processes14, 38. This work&#xD;
+      is unique because the effects of AS for smoking processes is not explained by severity of&#xD;
+      tobacco dependence, gender, trait-like tendencies to experience negative affect states, or&#xD;
+      other types of substance use problems (e.g., alcohol)38. For example, prior work has found&#xD;
+      that AS is related to negative affect reduction motives and expectancies, and to a lesser&#xD;
+      extent, addictive as well as habitual motives39-43. These subjective expectations and motives&#xD;
+      may be linked to actual smoking effects, as high AS smokers also report greater&#xD;
+      smoking-induced reductions in subjective anxiety after stressful laboratory situations44, 45&#xD;
+      and more positive subjective benefits of smoking46, 47. More recent work suggests that AS is&#xD;
+      related to the tendency to smoke in an inflexible manner when one is confronted with&#xD;
+      interoceptive stress (e.g., bodily tension)48. Other work has shown that AS is associated&#xD;
+      with the tendency to perceive quitting as more difficult49, 50 and to expect periods of&#xD;
+      smoking deprivation to be personally threatening51, 52. In fact, AS is related to greater&#xD;
+      negative affect, craving, and nicotine withdrawal symptoms53, 54, shorter time to&#xD;
+      lapse/relapse, and lower overall abstinence; findings that have been found during aided&#xD;
+      (i.e., pharmacological and psychosocial treatment) and unaided quit attempts (i.e.,&#xD;
+      self-guided quit attempt)55. The effects of AS on lapse/relapse behavior operate through&#xD;
+      negative affect states and craving/withdrawal. Other studies demonstrate that AS mediates the&#xD;
+      relation between emotional disorders and severity of smoking behavior56-58. Overall, AS is an&#xD;
+      explanatory mechanism in smoking maintenance and relapse, thereby representing a therapeutic&#xD;
+      target for personalized medicine in the context of smoking cessation.&#xD;
+&#xD;
+      Tobacco Use among African Americans. African American smokers smoke fewer cigarettes per day7&#xD;
+      and tend to begin smoking later in life compared to non-Hispanic Whites.24,25 Yet, African&#xD;
+      Americans evince greater levels of nicotine dependence26 and serum cotinine.26-28 Although&#xD;
+      smoking fewer cigarettes per day should theoretically be associated with greater quit&#xD;
+      success,29 African American smoking prevalence continues to exceed that of non-Hispanic&#xD;
+      Whites24 regardless of socioeconomic status.10 African Americans suffer disproportionately&#xD;
+      from tobacco-related disease and death and have a higher incidence and mortality rate from&#xD;
+      lung cancer compared to non-Hispanic Whites.30,31 This issue is alarming, as the current&#xD;
+      prevalence rate of smoking among African Americans is 14.6%,32 which reflects approximately&#xD;
+      6,421,678 million persons. Notably, up to 90% of African American adult smokers use menthol&#xD;
+      cigarettes, compared to 26% of White smokers,33 and as few as 5% of African American smokers&#xD;
+      ever switch from menthol to non-menthol cigarettes.34 There are harmful effects of menthol in&#xD;
+      cigarette smoking, including increased absorption and potential for dependence.35 Further,&#xD;
+      menthol smokers experience more difficulty quitting36 and less cessation success,37 including&#xD;
+      among African American menthol smokers compared to non-menthol smokers.38&#xD;
+&#xD;
+      Interoceptive Stress and Smoking among African Americans. African Americans are a health&#xD;
+      disparity group for interoceptive problems, including somatic symptoms, anxiety, stress, and&#xD;
+      pain,39-44 and evince stronger relations between negative emotional states and somatic&#xD;
+      experiences compared to non-Hispanic Whites.45 African Americans diagnosed with anxiety&#xD;
+      disorders experience higher rates of hypertension, a condition for which African Americans&#xD;
+      are almost twice as likely to be diagnosed relative to European Americans.46 African&#xD;
+      Americans' increased awareness of the negative outcomes of physical illnesses may amplify&#xD;
+      somatic anxiety and interoceptive distress.47,48 Given that nicotine produces acute&#xD;
+      anxiolytic effects,49 smokers with interoceptive distress often cope with such distress by&#xD;
+      smoking.50 Smokers with greater interoceptive stress, including African Americans, who&#xD;
+      experience negative affect during a quit attempt may return to smoking, in part, to alleviate&#xD;
+      increased physical and cognitive-affective manifestations of the interoceptive stress&#xD;
+      experience.51 Among the most prominent, cross-cultural constructs related to interoceptive&#xD;
+      distress is anxiety sensitivity (AS). AS is a malleable, cognitive-affective factor&#xD;
+      reflecting the tendency to respond to interoceptive distress with anxiety.52,53 AS is related&#xD;
+      to, yet distinct from, negative affectivity and trait anxiety.54,55-59,60 AS has demonstrated&#xD;
+      racial/ethnic, gender, age, and time invariance.59,61-64&#xD;
+&#xD;
+      Malleability of AS (Target Engagement). Controlled trials have documented the efficacy of&#xD;
+      interventions targeting AS, and by extension, improved clinical outcomes resulting from&#xD;
+      modifying fears of arousal sensations associated with high AS59. Meta-analytic evidence&#xD;
+      suggests the pooled effect sizes are large for CBT in reducing AS34-36; and these effects are&#xD;
+      maintained over time34-36. Moreover, reduction in AS during CBT for anxiety psychopathology&#xD;
+      accounts for 31% of the variance in symptom reduction60. As a point of reference, trait&#xD;
+      anxiety accounts for only 1.5% of variance60. Changes in AS temporally precede and predict&#xD;
+      changes in anxiety disorder symptoms, even when controlling for other well-established&#xD;
+      mechanisms of change (e.g., self-efficacy61). The most robust evidence suggest AS is best&#xD;
+      reduced via interoceptive exposure (eliciting feared [internal] stimuli), which is evident in&#xD;
+      the emphasis on targeting the construct in recently developed transdiagnostic treatments for&#xD;
+      emotional disorders62,63. Targeting AS via interoceptive exposure and anxiety-related&#xD;
+      psychoeducation (in-person or mobile delivered formats) also can be an efficacious prevention&#xD;
+      strategy for affective symptoms compared to active control conditions (e.g., health&#xD;
+      information) among both nonclinical and high-risk individuals64-66.&#xD;
+&#xD;
+      AS can be reduced via interoceptive exposure to improve substance use behavior67,68. Here,&#xD;
+      the investigators have found a reduction in AS prior to quit day decreases the severity of&#xD;
+      craving and withdrawal symptoms during the first week of a quit attempt and enhances odds of&#xD;
+      abstinence for high AS smokers69, 70. The investigators have developed a theoretically-driven&#xD;
+      treatment for smoking cessation interventions that incorporates AS reduction methods71-73.&#xD;
+      Research suggests these treatments for high AS smokers increase the odds of quit success,&#xD;
+      reduce the amount smoked per day, and decrease time to relapse compared to standard smoking&#xD;
+      cessation treatments (pooled effect sizes being 2-5 times that of standard treatments)37,&#xD;
+      74-78. The investigators recently tested AS-reduction in a RCT that evaluated an aerobic&#xD;
+      exercise augmentation to standard group-based CBT for smoking cessation78. Exercise is a&#xD;
+      'community friendly' tactic for delivering interoceptive exposure79-81 because it elicits&#xD;
+      sensations of physiological arousal, and thereby, reduces AS82. Results indicated that at&#xD;
+      each of the major end points (1 week to 6-month follow-up), point prevalence abstinence (PPA)&#xD;
+      and prolonged abstinence (PA) rates were significantly higher for EX than for CTRL among high&#xD;
+      AS smokers. Our AS reduction model for smoking has been independently replicated to reduce&#xD;
+      the severity of substance use disorders83. Moreover, AS reduction in smoking cessation&#xD;
+      treatment mediates improvements in anxiety and depression when compared to nicotine&#xD;
+      replacement therapy and CBT relapse prevention84.&#xD;
+&#xD;
+      Next Steps in Treatment Development Enhancing Dissemination Potential. Portable, adaptable,&#xD;
+      and easy to implement mobile interventions, delivered via smartphone app, may offer a more&#xD;
+      cost-effective and less time-intensive approach, ensure high fidelity, and enable the rapid&#xD;
+      diffusion and widespread adoption of science-based interventions85. Mobile interventions also&#xD;
+      offer a dynamic and visually-engaging design, video and audio features, text messaging,&#xD;
+      access without internet connection, and the ability to track progress and receive feedback in&#xD;
+      'real time'85, 86. Given these features, smartphone apps have high potential to boost user&#xD;
+      engagement, which is a consistently robust predictor of successful smoking cessation87-90.&#xD;
+      Notably, more than 77% of US adults currently own smartphones 91, and ownership is projected&#xD;
+      to reach 90% by 202092, 93. Smartphones are used by adults from all socioeconomic strata,&#xD;
+      including 64% of low income adults 91. Such data highlight smartphone apps as a novel and&#xD;
+      highly accessible platform to deliver personalized smoking cessation treatment.&#xD;
+&#xD;
+      Promise of mHealth. Smartphone-based smoking cessation apps could have a significant position&#xD;
+      in helping current and future generations of smokers quit smoking. Approximately 779,000&#xD;
+      individuals download smoking cessation apps onto personal smartphones each month worldwide86.&#xD;
+      Versatile, fully automated, and always available smartphone apps could offer highly tailored,&#xD;
+      intensive, and low-burden treatments at a fraction of the cost of traditional smoking&#xD;
+      cessation counseling; thereby, overcoming many of the barriers that have hampered use of&#xD;
+      traditional empirically-supported smoking cessation treatments94, 95. However, such apps have&#xD;
+      not been evaluated among affective-vulnerable smokers.&#xD;
+&#xD;
+      Mechanisms of Action. A strategic next step is to better understand the mechanisms of such&#xD;
+      interventions. Indeed, mechanistic research will provide guidance on how to best optimize the&#xD;
+      intervention for affectively vulnerable smokers and guide smoking cessation research overall.&#xD;
+      In our integrative theoretical model, the investigators posit that AS exacerbates&#xD;
+      anxiety/depression, withdrawal/craving, and the desire to smoke to reduce aversive internal&#xD;
+      states (i.e., smoking-specific experiential avoidance).38 Accordingly, AS may be a primary&#xD;
+      mechanism in improvements in smoking cessation outcome for interventions that target this&#xD;
+      risk factor. Thus, the investigators hypothesize that the efficacy of the intervention on&#xD;
+      quit success will be mediated by: reductions in the primary mechanism (AS), and thereafter,&#xD;
+      secondary mechanisms (anxiety and depression symptoms, nicotine withdrawal/craving, and&#xD;
+      smoking-specific experiential avoidance).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2021</start_date>
+  <completion_date type="Anticipated">October 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>A qualitative interview will be used to evaluate the mobile app for style and presentation, perceived utility, ease of use, usefulness of features, and willingness to refer to a friend.</measure>
+    <time_frame>Week 6 follow-up</time_frame>
+    <description>the Qualitative Interview is a 15-item interview that aims to assess participant experiences with the smartphone applications. This interview will be conducted at the 6-week follow-up phone interview (end-of-treatment) and will be recorded for qualitative data analysis.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Levels of satisfaction and perceived treatment quality regarding the intervention, as assessed by the Treatment Quality and Satisfaction Survey</measure>
+    <time_frame>Week 6 follow-up</time_frame>
+    <description>The Treatment Quality and Satisfaction Survey was developed for the purposes of this study. This 19-item measure assesses participants' experiences during the treatment period and while using the smart phone application.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Carbon Monoxide levels at Baseline as measured by the Carbon Monoxide Analysis (Phone Bedfont iCO Smokerlyzer) at follow up appointments.</measure>
+    <time_frame>From Baseline to end of study, up to 54 weeks.</time_frame>
+    <description>The Bedfont iCO Smokerlyzer will be used to verify smoking status during the follow-up assessments. The monitors attach to the smartphone and will be used to remotely verify self-reported smoking abstinence during phone-based monitoring periods over the 52-week post-quit period. This will be used to verify smoking status, as well as change in smoking behaviors throughout the study.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Stage of ethnic identity attitudes expressed by participants as measured by the Black Racial Identity Attitude Scale</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The Black Racial Identity Attitude Scale a 12-item scale that aims to identify the stage of racial identity development a person is in. It consists of 3 subparts: Immersion/Emersion, Pre-encounter, and Encounter. It utilizes a 5-point scale ranging from 1 (strongly disagree) to 5 (strongly agree).Higher scores indicate more agreement with the items. It is expected that an individual will have one factor score that is higher than other factors, which will indicate their stage of racial identity development. The Black Racial Identity Attitude Scale will be utilized to explore whether perceived ethnic identity functions as a moderator of smoking outcomes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in depression related impairment on the 5-item Overall Depression Severity and Impairment Scale at subsequent follow-up appointments.</measure>
+    <time_frame>From Baseline to end of study, up to 54 weeks.</time_frame>
+    <description>The Overall Depression Severity and Impairment Scale is a brief, five-item measure for assessing the frequency and intensity of depressive symptoms, as well as functional impairments related to depressive symptoms. Items are assessed on a 4-point scale with 0 being the minimum value and 4 being the maximum value. Higher scores indicate higher levels of impairment related to depression symptoms. This scale will be used to evaluate the mechanisms underlying intervention effects, including depression symptoms, and the indirect effects of the intervention on smoking cessation via this mechanism of change.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in anxiety related impairment on the 5-item Overall Anxiety Severity and Impairment Scale at follow-up appointments.</measure>
+    <time_frame>From Baseline to end of study, up to 54 weeks.</time_frame>
+    <description>The Overall Anxiety Severity and Impairment Scale is a brief continuous measure of overall anxiety severity and impairment. Response items are coded from 0 to 4 and can be summed to obtain a total score range from 0 to 20. Higher scores indicate higher impairment as a result of anxiety. It will be used to evaluate the mechanisms underlying intervention effects, including anxiety symptoms, and the indirect effects of the intervention on smoking cessation via this mechanism of change.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Levels of acculturation expressed by participants as measured by the African American Acculturation Scale.</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The African American Acculturation scale is a 10-item scale that assesses cultural and media preferences, racial balance, and contexts of social interaction, and race-related attitudes and comfort with Whites versus Blacks. Total scores are created by adding scores from each of the 10 items, which ranged in response from 0 (strongly disagree) to 3 (strongly agree). Lower scores represent higher levels of acculturation towards the dominant culture.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Items assessing stress levels related to the COVID-19 pandemic will be utilized to explore whether COVID-19 associated stress functions as a moderator of smoking outcomes.</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Items will assess whether participants have received testing for the corona virus, whether they have been hospitalized because of COVID, and the severity of any symptoms they have experienced (6-point Likert scale ranging from &quot;Asymptomatic&quot; to &quot;Extremely Severe&quot;). Additionally, items will also assess fears and anxieties related to the COVID-19 pandemic these items will use either; a 5-point Likert scale with a minimum value of &quot;Not at all&quot; and a maximum value of &quot;Very much&quot;, or a 5-point Likert scale with a minimum value of &quot;Never&quot; and a maximum value of &quot;Almost always&quot;. Higher scores for both of these scales indicate greater stress due to the COVID-19 pandemic.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from week 1 follow up in withdrawal symptoms as assessed by the Minnesota Nicotine Withdrawal Scale at subsequent follow up appointments, up to 54 weeks.</measure>
+    <time_frame>From first follow-up at week 1 to end of study, up to 54 weeks.</time_frame>
+    <description>The Minnesota Nicotine Withdrawal Scale is a 10-item scale used to assess severity of nicotine withdrawal symptoms. Response items are listed on a 5-point Likert scale. The minimum value is &quot;None&quot; and the maximum value is &quot;Severe&quot;. Higher scores indicate levels of nicotine withdrawal. It will be used to evaluate the mechanisms underlying intervention effects, including nicotine withdrawal, and the indirect effects of the MASP intervention on smoking cessation via this mechanism of change.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Screener in levels of anxiety sensitivity on the 5-point Short Scale Anxiety Sensitivity Index at follow up appointments.</measure>
+    <time_frame>From screener appointment to end of study, up to 54 weeks.</time_frame>
+    <description>The Short Scale Anxiety Sensitivity Index utilizes a 5-item Likert scale to measure anxiety sensitivity. The minimum value is &quot;very little&quot; and the maximum value is &quot;Very much&quot;. Higher score indicate higher levels of anxiety sensitivity. This index will be used to evaluate the mechanisms underlying intervention effects, including the intervention effect on reductions in anxiety sensitivity, and the indirect effects of the intervention on smoking cessation via this mechanism of change.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in discrimination burden using the section of the Jackson Heart Study Discrimination Instrument will be used to assess whether our intervention has underlying effects on stress-based burden from racial/ethnic discrimination.</measure>
+    <time_frame>From Baseline appointment to end of study, up to 54 weeks.</time_frame>
+    <description>This measure contains 4-items that assess perceptions of discrimination. Higher scores indicate higher difficulty living a productive and full life because of perceived experience of discrimination. Participants will indicate perceived discrimination using; a 3-point Likert scale ranging from &quot;about the same&quot;, &quot;less frequent&quot;, and &quot;more frequent&quot;, a 3-point Likert scale ranging from &quot;Not stressful&quot; to &quot;Very stressful&quot;. A 4-point scale with a minimum value being &quot;not at all&quot; and the maximum value being &quot;A lot&quot;. The measure will be used to assess change in stressed based burden from racial discrimination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Levels of perceived discrimination as measured by the Everyday Discrimination Scale.</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The Everyday Discrimination Scale assesses perceptions of discrimination or unfair treatment. Questions are answered using a 5-point Likert scale ranging from &quot;never&quot; to &quot;At least once a week&quot;. Higher scores indicate higher perceived discrimination. The Everyday Discrimination Scale will be utilized to explore whether perceived racial discrimination functions as a moderator of smoking outcomes.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">225</enrollment>
+  <condition>Smoking, Tobacco</condition>
+  <arm_group>
+    <arm_group_label>MASP app</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>200 African American smokers with elevated AS will be enrolled and randomly assigned to either: (1) the smartphone-based National Cancer Institute (NCI) QuitGuide app for standard mobile smoking cessation treatment (2) the MASP smoking cessation app developed by our team targeting sensitivity to interoceptive stress.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>QuitGuide app</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>200 African American smokers with elevated AS will be enrolled and randomly assigned to either: (1) the smartphone-based National Cancer Institute (NCI) QuitGuide app for standard mobile smoking cessation treatment (2) the MASP smoking cessation app developed by our team targeting sensitivity to interoceptive stress.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>MASP app</intervention_name>
+    <description>mobile intervention that targets anxiety sensitivity among smokers (Mobile Anxiety Sensitivity Program for Smoking: MASP). Our intervention is framed within the cultural context of interoceptive stress among African American smokers, which is supported by theory, empirical evidence, and characteristics of this group.</description>
+    <arm_group_label>MASP app</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>QuitGuide app</intervention_name>
+    <description>the smartphone-based National Cancer Institute (NCI) QuitGuide app for standard mobile smoking cessation treatment</description>
+    <arm_group_label>QuitGuide app</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18-64 years of age&#xD;
+&#xD;
+          -  Self-identify as African American&#xD;
+&#xD;
+          -  High Anxiety sensitivity defined as a Short Scale Anxiety Sensitivity Index (SSASI)&#xD;
+             score of ≥ 5 assessed during phone intake via the SSASI measure (cut-off score to&#xD;
+             identify individuals with high anxiety sensitivity)&#xD;
+&#xD;
+          -  Daily smoking (minimum of 10 cigarettes per day) for &gt; 2 years and biochemically&#xD;
+             confirmed via Carbon Monoxide [CO] analysis at least 8 ppm at baseline&#xD;
+&#xD;
+          -  Motivated to quit smoking (&gt; 5 on a 10-point scale)&#xD;
+&#xD;
+          -  Willing and able to attend all study appointments, and willing to quit smoking 2 weeks&#xD;
+             after the baseline visit&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Use of other tobacco products (including e-cigarettes)&#xD;
+&#xD;
+          -  Report of current or intended participation in a concurrent substance abuse treatment&#xD;
+&#xD;
+          -  Ongoing psychotherapy of any duration directed specifically toward the treatment of&#xD;
+             anxiety or depression&#xD;
+&#xD;
+          -  Current non-nicotine substance dependence&#xD;
+&#xD;
+          -  Not being fluent in English&#xD;
+&#xD;
+          -  Current use of any pharmacotherapy or psychotherapy for smoking cessation not provided&#xD;
+             by the researchers (via self-report on the phone screen)&#xD;
+&#xD;
+          -  Legal status that will interfere with participation (provided via self-report on the&#xD;
+             phone screen) or current psychosis&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Cameron Matoska, B.S.</last_name>
+    <phone>713-743-8056</phone>
+    <email>ctmatosk@central.uh.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Pam Nizio, B.S.</last_name>
+    <phone>713-743-8056</phone>
+    <email>niziopam@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Anxiety and Health Research Lab / Substance Use Treatment Clinic</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Cameron Matoska, B.S.</last_name>
+      <phone>713-743-8056</phone>
+      <email>ctmatosk@central.uh.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Pam Nizio, B.S.</last_name>
+      <phone>713-743-8056</phone>
+      <email>Niziopam@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Michael Zvolensky, Ph.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 9, 2021</study_first_posted>
+  <last_update_submitted>April 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Houston</investigator_affiliation>
+    <investigator_full_name>Michael J. Zvolensky, Ph.D.</investigator_full_name>
+    <investigator_title>Hugh Roy and Lillie Cranz Cullen Distinguished University Professor</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

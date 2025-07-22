@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="15">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04842708</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Cov-2-SMC-V-2020</org_study_id>
+    <nct_id>NCT04842708</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Anti-COVID 19 Pfizer Vaccination Effect on COVID 19 Detection Using Breath Analysis</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>Evaluation of Anti-COVID 19 Pfizer Vaccination Effect on COVID 19 Detection Using Breath Analysis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Scentech Medical Technologies Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Scentech Medical Technologies Ltd</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study will be to evaluate the effect of vaccination on breath VOC&#xD;
+      content.&#xD;
+&#xD;
+      By capturing and analyzing the breath of anti-COVID-19 vaccinated subjects during the period&#xD;
+      of antibody production, the investigators will determine and quantify all the compounds&#xD;
+      associated with the body reaction to the COVID-19 antigen.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The objective of this study will be to evaluate the effect of vaccination on breath VOC&#xD;
+      content.&#xD;
+&#xD;
+      By capturing and analyzing the breath of anti-COVID-19 vaccinated subjects during the period&#xD;
+      of antibody production, the investigators will determine and quantify all the compounds&#xD;
+      associated with the body reaction to the COVID-19 antigen.&#xD;
+&#xD;
+      Rapidly growing serological evidence shows that IgM, IgG, and IgA antibodies against the S or&#xD;
+      N proteins evolve rapidly in the serum of asymptomatic as well as symptomatic COVID-19&#xD;
+      patients within a week of infection or symptom onset and stay elevated with progressing&#xD;
+      disease.&#xD;
+&#xD;
+      Since the standard serology testing at Shamir Medical center tracks the presence of IgG only,&#xD;
+      those serologic tests will be conducted before and 48 hours following the second vaccination&#xD;
+      dose.&#xD;
+&#xD;
+      Nevertheless, since IgM antibodies are known to be produced by four to seven days following&#xD;
+      the first dose of vaccination, although IgM serology testing cannot be performed, the&#xD;
+      investigators are interested in sampling breath at this time range, in order for them to&#xD;
+      correlate it with the changes in the subjects' physiologic condition.&#xD;
+&#xD;
+      Since this is an unknown metabolic volatile compound mixture, the goal will be to identify&#xD;
+      compounds and quantify them with a high level of precision and subsequently correlate them&#xD;
+      with the disease.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 24, 2020</start_date>
+  <completion_date type="Anticipated">October 24, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 24, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Association between breath VOCs and IgG in blood following second vaccination dose.</measure>
+    <time_frame>Through the study completion, up to 1 month.</time_frame>
+    <description>VOCs profile found in breath will be correlatated with IgG profile in blood.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Association between VOCs profile and participants' clinical or demographic characteristics</measure>
+    <time_frame>Through the study completion, up to 1 month.</time_frame>
+    <description>Identify potential exhaled biomarkers association with participants' characteristics (age, gender, symptoms-severity, etc.)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Healthy Volunteers that are not to be vaccinated against COVID19</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Healthy Volunteers that are not eligible to be vaccinated against COVID19</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Volunteers that are assigned to be vaccinated against COVID19</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Healthy Volunteers that are eligible to be vaccinated against COVID19</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>vaccination against COVID19</intervention_name>
+    <description>subjects will undergo breath biopsy sampling before, 4-7 days post-first vaccination dose, and 7-10 days post-second vaccination dose.</description>
+    <arm_group_label>Healthy Volunteers that are assigned to be vaccinated against COVID19</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 to 75 years at the time of consent&#xD;
+&#xD;
+          -  Capable of understanding written and/or spoken language&#xD;
+&#xD;
+          -  Able to provide informed consent&#xD;
+&#xD;
+          -  Assigned to undergo anti-COVID-19 vaccination&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age under 18 years old&#xD;
+&#xD;
+          -  Under guardianship or deprived of liberty&#xD;
+&#xD;
+          -  Pregnant or lactating woman&#xD;
+&#xD;
+          -  Not eligible for anti-COVID-19 vaccination&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Shai Efrati, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Shamir Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Natalie Dror, PhD</last_name>
+    <phone>+972-528-264282</phone>
+    <email>natalie@scentech-medical.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Shamir Medical Center</name>
+      <address>
+        <city>Be'er Ya'aqov</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yair Bechor, PhD</last_name>
+      <phone>+97253745624</phone>
+      <email>YairB@shamir.gov.il</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 13, 2021</study_first_posted>
+  <last_update_submitted>April 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>IPD is not to be shared with other researchers.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

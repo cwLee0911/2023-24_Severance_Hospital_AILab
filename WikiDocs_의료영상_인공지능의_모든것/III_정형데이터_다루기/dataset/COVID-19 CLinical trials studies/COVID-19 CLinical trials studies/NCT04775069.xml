@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2286">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04775069</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HHCTC_COVID-19_VACCINE_Ab</org_study_id>
+    <nct_id>NCT04775069</nct_id>
+  </id_info>
+  <brief_title>Antibody Response to COVID-19 Vaccines in Liver Disease Patients</brief_title>
+  <official_title>A Prospective Study Comparing the Antibody Response of Subjects With Chronic Liver Disease to mRNA, Inactivated Virus and Adenovirus Vector COVID-19 Vaccines</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Humanity &amp; Health Medical Group Limited</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Humanity &amp; Health Medical Group Limited</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Currently the Pfizer-Biontech (mRNA), Sinovac (inactivated virus) and Astrazeneca-Oxford&#xD;
+      (adenovirus-vector) COVID-19 vaccines are available for vaccination in HK. The American&#xD;
+      Association of Liver Disease has recently published consensus statements for COVID-19&#xD;
+      vaccination in subjects with chronic liver disease (CLD). Patients with CLD have dysregulated&#xD;
+      innate and adaptive immune response that may be associated with vaccine hypo-responsiveness&#xD;
+      and there are no data as to whether these patients may respond differently to the various&#xD;
+      vaccines. The Humanity and Health Medical Center (HHMC) is an active participant of the HK&#xD;
+      government COVID-19 vaccination programs and patients with CLD follow-up at HHMC will have&#xD;
+      access to the three different vaccines. The aim of this prospective study is to compare the&#xD;
+      antibody response of CLD subjects to the Pfizer-Biontech (mRNA), Sinovac (inactivated virus)&#xD;
+      and Astrazeneca-Oxford (adenovirus-vector) COVID-19 vaccines.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 15, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Antibody response</measure>
+    <time_frame>at 4 weeks after second dose</time_frame>
+    <description>Covid-19 Antibodies IgG titres at 4 weeks after second dose</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Antibody response</measure>
+    <time_frame>at one year after second dose</time_frame>
+    <description>Covid-19 Antibodies IgG titres at one year after second dose</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">900</enrollment>
+  <condition>Chronic Liver Disease</condition>
+  <arm_group>
+    <arm_group_label>mRNA Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The subjects will be vaccinated with the mRNA vaccine (Pfizer-Biontech).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Inactivated Virus Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The subjects will be vaccinated with inactivated SARS Cov-2 (Sinovac).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Adenovirus-vector Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The subjects will be vaccinated with adenovirus-vector COVID-19 vaccine (Astrazeneca-Oxford).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b2</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>mRNA Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CoronaVac</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Inactivated Virus Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>AZD1222</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Adenovirus-vector Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subjects with chronic liver disease (CLD) at the Humanity and Health Medical Group and&#xD;
+             eligible for the HK government vaccination programme;&#xD;
+&#xD;
+          2. Able to understand and sign informed consent.;&#xD;
+&#xD;
+          3. Underlying CLD- defined as patients with chronic hepatitis B or C infections, liver&#xD;
+             cirrhosis, metabolic associated liver disease, hepatocellular carcinoma, alcoholic&#xD;
+             liver disease, autoimmune hepatitis, hemochrombtosis.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients contraindicated for the COVID -19 Vaccination Program due to uncontrolled&#xD;
+             co-morbitities;&#xD;
+&#xD;
+          2. Past allergies to other vaccines;&#xD;
+&#xD;
+          3. Pregnant subjects.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Humanity &amp; Health Medical Group Limited</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <reference>
+    <citation>Fix OK, Blumberg EA, Chang KM, Chu J, Chung RT, Goacher EK, Hameed B, Kaul DR, Kulik LM, Kwok RM, McGuire BM, Mulligan DC, Price JC, Reau NS, Reddy KR, Reynolds A, Rosen HR, Russo MW, Schilsky ML, Verna EC, Ward JW, Fontana RJ; AASLD COVID-19 Vaccine Working Group. AASLD Expert Panel Consensus Statement: Vaccines to Prevent COVID-19 Infection in Patients with Liver Disease. Hepatology. 2021 Feb 12. doi: 10.1002/hep.31751. [Epub ahead of print]</citation>
+    <PMID>33577086</PMID>
+  </reference>
+  <reference>
+    <citation>Mulligan MJ, Lyke KE, Kitchin N, Absalon J, Gurtman A, Lockhart S, Neuzil K, Raabe V, Bailey R, Swanson KA, Li P, Koury K, Kalina W, Cooper D, Fontes-Garfias C, Shi PY, Türeci Ö, Tompkins KR, Walsh EE, Frenck R, Falsey AR, Dormitzer PR, Gruber WC, Şahin U, Jansen KU. Phase I/II study of COVID-19 RNA vaccine BNT162b1 in adults. Nature. 2020 Oct;586(7830):589-593. doi: 10.1038/s41586-020-2639-4. Epub 2020 Aug 12. Erratum in: Nature. 2021 Feb;590(7844):E26.</citation>
+    <PMID>32785213</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang Y, Zeng G, Pan H, Li C, Hu Y, Chu K, Han W, Chen Z, Tang R, Yin W, Chen X, Hu Y, Liu X, Jiang C, Li J, Yang M, Song Y, Wang X, Gao Q, Zhu F. Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine in healthy adults aged 18-59 years: a randomised, double-blind, placebo-controlled, phase 1/2 clinical trial. Lancet Infect Dis. 2021 Feb;21(2):181-192. doi: 10.1016/S1473-3099(20)30843-4. Epub 2020 Nov 17.</citation>
+    <PMID>33217362</PMID>
+  </reference>
+  <reference>
+    <citation>Folegatti PM, Ewer KJ, Aley PK, Angus B, Becker S, Belij-Rammerstorfer S, Bellamy D, Bibi S, Bittaye M, Clutterbuck EA, Dold C, Faust SN, Finn A, Flaxman AL, Hallis B, Heath P, Jenkin D, Lazarus R, Makinson R, Minassian AM, Pollock KM, Ramasamy M, Robinson H, Snape M, Tarrant R, Voysey M, Green C, Douglas AD, Hill AVS, Lambe T, Gilbert SC, Pollard AJ; Oxford COVID Vaccine Trial Group. Safety and immunogenicity of the ChAdOx1 nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2, single-blind, randomised controlled trial. Lancet. 2020 Aug 15;396(10249):467-478. doi: 10.1016/S0140-6736(20)31604-4. Epub 2020 Jul 20. Erratum in: Lancet. 2020 Aug 15;396(10249):466. Erratum in: Lancet. 2020 Dec 12;396(10266):1884.</citation>
+    <PMID>32702298</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 1, 2021</study_first_posted>
+  <last_update_submitted>February 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

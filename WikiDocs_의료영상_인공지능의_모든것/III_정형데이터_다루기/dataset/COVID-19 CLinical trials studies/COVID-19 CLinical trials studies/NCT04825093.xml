@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1621">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04825093</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SVD-COVID-2020</org_study_id>
+    <nct_id>NCT04825093</nct_id>
+  </id_info>
+  <brief_title>Vitamin D Supplementarion in Pregnant Women at Risk and COVID-19</brief_title>
+  <acronym>VID-WOMAN</acronym>
+  <official_title>Randomized Clinical Trial With Vitamin D Supplementation in Pregnant Women and Prevalence of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad de Granada</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universidad de Granada</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Vitamin D defiency during pregnancy is a major public health problem worldwide; In Spain, the&#xD;
+      average intake of vitamin D is lower than recommendations in an elevated percentage of the&#xD;
+      population, ranging from 50 to 95%, according to the Spanish Society of Community Nutrition&#xD;
+      (SENC). Recent research suggests that adverse pregnancy outcomes are associated to vitain D&#xD;
+      deficiency. Associated comorbidities are further complicated by the SARS-COV-2 Pandemic.&#xD;
+      Several reviews consider that vitamin D reduces the risk of viral infections and might play a&#xD;
+      role in preventing acute respiratory distress syndrome that is the most frequent cause of&#xD;
+      mortality due to COVID-19.&#xD;
+&#xD;
+      In the light of the effects of vitamin D deficiency during pregnancy, the researchers propose&#xD;
+      to use vitamin D supplementation as a therapeutic tool in the prevention of these adverse&#xD;
+      effects. The investigators aim at studying the role of vitamin D in reducing the risk of&#xD;
+      viral and respiratory tract infections such as COVID-19&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Researchers propose a randomized, non-blinded clinical trial in pregnant women recruited at&#xD;
+      the obstetrics and gynecology service of the Virgen de las Nieves University Hospital Granada&#xD;
+      during the appointment of the first gynecological control visit (weeks 10-12 of pregnancy).&#xD;
+      The woman participating in the study will be assigned to two randomized follow-up groups,&#xD;
+      intervention group that will be supplied with 2.000 IU of vitamin D and control group with&#xD;
+      400 IU of vitamin D, in turn they will be allocated to a risk group and healthy group.&#xD;
+      Participants will take the supplementation from 10-12 weeks of gestation to delivery. The&#xD;
+      frequency of gybecological visits will coincide with their routine prenatal visits: weeks&#xD;
+      10-12, weeks 20-24 and weeks 34-35 of gestation. During the entire duration of the study,&#xD;
+      pregnant women will be in touch with the health professionals through routine hospital&#xD;
+      controls.&#xD;
+&#xD;
+      The present study was approved by the Ethics Commitee CEIM/CEI of Granada, Spain.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2021</start_date>
+  <completion_date type="Anticipated">December 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, non-blinded controlled trial</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Serum concentration of 25-hydroxyvitamin D</measure>
+    <time_frame>10-12 weeks of gestation to postpartum.</time_frame>
+    <description>The research group aims at evaluating the efficacy of vitamin D supplementation at modying maternal levels of serum 25-hydroxyvitamin D during pregnancy</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevalence of preterm birth</measure>
+    <time_frame>Postpartum.</time_frame>
+    <description>Cases of preterm birth (&lt;37 weeks of gestation) will be evaluated in both groups of study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevalence of preeclampsia</measure>
+    <time_frame>20 weeks of gestation to postpartum.</time_frame>
+    <description>Cases of preeclampsia defined following the ISSHP recommendations will be evaluated in both groups of study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevalence of gestational diabetes mellitus</measure>
+    <time_frame>10-12 weeks of gestation to postpartum.</time_frame>
+    <description>Cases of Gestational diabetes mellitus defined based on criteria from the American Diabetes Association will be evaluated.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevalence of COVID-19</measure>
+    <time_frame>10-12 weeks of gestation to postpartum.</time_frame>
+    <description>Prevalence of COVID-19 in both groups of study will be assessed using a PCR test. Serological analysis will be conducted at recrutment to know base status.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Severity of COVID-19</measure>
+    <time_frame>10-12 Weeks of gestation to postpartum</time_frame>
+    <description>Severity of the disease based on respiratory symtoms, hospital admission rates and recovery/death rates</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Miscarriage</measure>
+    <time_frame>six months to 12 months post-partum.</time_frame>
+    <description>Cases of miscarriage, fetal death and stillbirths in the groups of study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neonatal immunity</measure>
+    <time_frame>Postpartum</time_frame>
+    <description>Serum levels of IgG and IgM against SARS-CoV-2 measured using ab rapid tests immunochromatography in immunized mothers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Birth Weight</measure>
+    <time_frame>Postpartum</time_frame>
+    <description>Cases of low birth weight (&lt;2,500 g) and small-for-gestational-age (based on specific population percentiles) will be evaluated.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Pregnancy Complications</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Women allocated to this group will be supplemented with 2,000 UI of vitamin D3.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The control group will consist of pregnant women supplemented with 400 UI of vitamin D3.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Vitamin D supplementation in pregnant women</intervention_name>
+    <description>Intervention group will be administered 2,000 UI of vitamin D and a control group will be administered 400 UI of vitamin D. Participants will take the supplementation from the enrollment to delivery.</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        The inclusion criteria corresponding to the risk group consist of:&#xD;
+&#xD;
+          -  Participants that present hypertension or diabetes mellitus before pregnancy&#xD;
+&#xD;
+          -  BMI &gt;35&#xD;
+&#xD;
+          -  Family history of preeclampsia or diabetes&#xD;
+&#xD;
+          -  Macrosomic previous baby&#xD;
+&#xD;
+          -  BMI&lt; 20&#xD;
+&#xD;
+          -  History of pretem delivery&#xD;
+&#xD;
+          -  Previous intrauterine growth restriction or gestational mellitus diabetes history&#xD;
+&#xD;
+          -  Maternal age &lt;16 years or &gt; 40 years&#xD;
+&#xD;
+          -  History maternal infection.&#xD;
+&#xD;
+        The inclusion criteria for healthy participants are:&#xD;
+&#xD;
+          -  Patients between 10-12 weeks of gestation&#xD;
+&#xD;
+          -  BMI between 20 to 30.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Exclusion criteria are:&#xD;
+&#xD;
+          -  Participants consuming multivitamin complexes&#xD;
+&#xD;
+          -  Unable to sign inform consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Maria Jose Aguilar Cordero</name>
+      <address>
+        <city>Granada</city>
+        <zip>18010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Maria Jose MJ Aguilar Cordero, PhD</last_name>
+      <phone>657841751</phone>
+      <email>mariajaguilar@telefonica.net</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>December 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidad de Granada</investigator_affiliation>
+    <investigator_full_name>María José Aguilar Cordero</investigator_full_name>
+    <investigator_title>Professor of Nursing</investigator_title>
+  </responsible_party>
+  <keyword>PREGNANCY</keyword>
+  <keyword>OUTCOMES</keyword>
+  <keyword>OFFSPRING</keyword>
+  <keyword>SUPPLEMENTATION</keyword>
+  <keyword>VITAMIN D</keyword>
+  <keyword>COVID19</keyword>
+  <keyword>SARS-COV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pregnancy Complications</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

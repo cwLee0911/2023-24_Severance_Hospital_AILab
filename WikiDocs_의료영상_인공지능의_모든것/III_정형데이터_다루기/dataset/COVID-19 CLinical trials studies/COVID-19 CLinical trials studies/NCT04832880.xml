@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3634">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04832880</url>
+  </required_header>
+  <id_info>
+    <org_study_id>The AMMURAVID trial</org_study_id>
+    <secondary_id>2020-001854-23</secondary_id>
+    <nct_id>NCT04832880</nct_id>
+  </id_info>
+  <brief_title>Factorial Randomized Trial of Rendesivir and Baricitinib Plus Dexamethasone for COVID-19 (the AMMURAVID Trial)</brief_title>
+  <acronym>AMMURAVID</acronym>
+  <official_title>Factorial, Multicentric, Randomized Clinical Trial of Remdesivir and Immunotherapy in Combination With Dexamethasone for Moderate COVID-19 (the AMMURAVID Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ASST Fatebenefratelli Sacco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>ASST Fatebenefratelli Sacco</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      In the current worldwide medical emergency, a rapid identification of effective therapeutic&#xD;
+      strategy is crucial. So far, therapy with dexamethasone, remdesivir and baricitinib have been&#xD;
+      associated with evidence of impact on the clinical impact on COVID-19, but the effect of&#xD;
+      baricitinib and remdesivir in combination with dexamethasone.&#xD;
+&#xD;
+      The AAMMURAVID trial is endorced and supported by the Italian Regulatory agency (AIFA-Agenzia&#xD;
+      Italiana del Farmaco)&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 6, 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Factorial design with four-stages (K=4). Three interim analyses are pre-planned. At each stage, the use of remdesivir and/or baricitinib might be suspended due to futility or ef-ficacy. Overall, we will accept a two-sided alpha error of alpha=0.05 and a beta error of β=0.10.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevention of very severe respiratory failure or mortality</measure>
+    <time_frame>Day1-Day 28</time_frame>
+    <description>Composite outcome: Development of very severe respiratory failure (PaO2/FiO2 &lt;150 mmHg) or mortality</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of mortality</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Proportion of dead patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of mortality</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Proportion of dead patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of mortality</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Proportion of dead patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of mortality</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Proportion of dead patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of mortality</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Survival analysis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of very severe respiratory failure</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Proportion of patients with PaO2/FiO2 &lt;150 mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of very severe respiratory failure</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Proportion of patients with PaO2/FiO2 &lt;150 mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of very severe respiratory failure</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Proportion of patients with PaO2/FiO2 &lt;150 mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of very severe respiratory failure</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Proportion of patients with PaO2/FiO2 &lt;150 mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of very severe respiratory failure</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Time to development very severe respiratory failure (PaO2/FiO2 &lt;150 mmHg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of very severe respiratory failure or mortality</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Composite outcome: Development of very severe respiratory failure (PaO2/FiO2 &lt;150 mmHg) or mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of very severe respiratory failure or mortality</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Composite outcome: Development of very severe respiratory failure (PaO2/FiO2 &lt;150 mmHg) or mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of very severe respiratory failure or mortality</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Composite outcome: Development of very severe respiratory failure (PaO2/FiO2 &lt;150 mmHg) or mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adeverse Events</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Proportion of number of AEs and SAEs (according to the Common Terminology Criteria for Adverse Events -CTCAE, Version 5.0)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adeverse Events</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Proportion of number of AEs and SAEs (according to the Common Terminology Criteria for Adverse Events -CTCAE, Version 5.0)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adeverse Events</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Proportion of number of AEs and SAEs (according to the Common Terminology Criteria for Adverse Events -CTCAE, Version 5.0)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adeverse Events</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Proportion of number of AEs and SAEs (according to the Common Terminology Criteria for Adverse Events -CTCAE, Version 5.0)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of bacterial/fungal infections</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Rate of bacterial/fungal infections</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of bacterial/fungal infections</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Rate of bacterial/fungal infections</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of bacterial/fungal infections</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Rate of bacterial/fungal infections</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of bacterial/fungal infections</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Rate of bacterial/fungal infections</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction of the requirements of orotracheal intubation/ECMO</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Proportion of patients requiring orotracheal intubation/ECMO</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction of the requirements of orotracheal intubation/ECMO</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Proportion of patients requiring orotracheal intubation/ECMO</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction of the requirements of orotracheal intubation/ECMO</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Proportion of patients requiring orotracheal intubation/ECMO</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction of the requirements of orotracheal intubation/ECMO</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Proportion of patients requiring orotracheal intubation/ECMO</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction of the requirements of orotracheal intubation/ECMO</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Days with orotracheal intubation/ECMO</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of the NEWS-2 score</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course in the National Early Warning Score-2 score (0-20, with higher scores worse)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of the MELD score</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course in the Model for End-Stage Liver Disease score (scores &gt;=6, higher scores worse)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Velocity in clinical improvement</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Time to clinical improvement (defined as one of the following: a) discharge, b) absent ventilator support with NEWS-2 score ≤3 and MELD ≤13)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Velocity in discharge</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Time to discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Velocity in discharge</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Proportion of discherged patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Velocity in discharge</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Proportion of discherged patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Velocity in discharge</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Proportion of discherged patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Velocity in discharge</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Proportion of discherged patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fever disappearance</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Proportion of patients on persistent defervescence (last day of T&lt;37.0°C, without recurrent T&gt;37.0° for at least 4 days)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fever disappearance</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Proportion of patients on persistent defervescence (last day of T&lt;37.0°C, without recurrent T&gt;37.0° for at least 4 days)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fever disappearance</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Proportion of patients on persistent defervescence (last day of T&lt;37.0°C, without recurrent T&gt;37.0° for at least 4 days)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fever disappearance</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Proportion of patients on persistent defervescence (last day of T&lt;37.0°C, without recurrent T&gt;37.0° for at least 4 days)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fever disappearance</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Time to persistent defervescence persistent defervescence (last day of T&lt;37.0°C, without recurrent T&gt;37.0° for at least 4 days)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in periperal blood leukocyte number</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of periperal blood leukocyte number</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in periperal blood neutrophils counts</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Comparison of the course of neutrophils counts at full blood counts among the treatment arm, as assessed by repeated measures analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in periperal blood lymphocytes</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Comparison of the course of lymphocytes counts at full blood counts among the treatment arm, as assessed by repeated measures analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in periperal blood platelets</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Comparison of the course of plateletscounts at full blood counts among the treatment arm, as assessed by repeated measures analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood hemoglobin levels</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood hemoglobin</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood creatinine levels</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood creatine levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood albumin</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood albumin levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood bilirubin</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood bilirubin levles</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood LDH</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood LDH levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood AST</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood AST levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood ALT</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood ALT levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood CK</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood CK levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood C-reactive protein</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood C-reactive protein levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood IL-6</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood IL-6 levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood protrombine time (INR)</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood protrombine time (INR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood ferritin</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood ferritin levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood troponin T</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood troponin T levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood triglycerides</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood triglycerides levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood HDL-colesterol</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood HDL-colesterol levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood total colesterol</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood total colesterol levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood D-Dimer</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of blood D-Dimer levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in PaO2 at arterial gas analysis</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of PaO2 at arterial gas analysis and PaO2/FiO2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in PaO2/FiO2</measure>
+    <time_frame>Day 1-28</time_frame>
+    <description>Course of PaO2/FiO2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of late complications</measure>
+    <time_frame>6 months</time_frame>
+    <description>Death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of late complications</measure>
+    <time_frame>6 months</time_frame>
+    <description>New Hospital admissions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of late complications</measure>
+    <time_frame>6 months</time_frame>
+    <description>Proportion of patients developing new medical conditions in each interventional arm as compared to the control arm. Specific focus to:&#xD;
+new-onset interstitial lung disease&#xD;
+new onset respiratory failure requiring O2 therapy or ventilation therapy at home&#xD;
+thromboembolic event&#xD;
+ischemic events (stroke, acute coronary syndromes, pe-ripheral ischemias)&#xD;
+arterial hypertension</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of late complications</measure>
+    <time_frame>6 months</time_frame>
+    <description>Proportion of patients with FVC &lt; 70% of predicted, FEV1 &lt; 70% predicted and DLCO &lt; 80% predicted</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">4000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Control arm (dexamethasone arm)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IV dexamethasone 6 mg for 10 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Remdesivir arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IV dexamethasone 6 mg for 10 days + remdesivir IV 200 mg on day 1, followed by 100 mg die until day 10</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Baricitinib arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IV dexamethasone 6 mg for 10 days + baricitinib 4 mg die for 10 days. For patients aged &gt; 75 years or estimated GFR &lt; 60 ml/min*1.73m2, baricitinib dose is reduced to 2 mg for 10 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Remdesivir + baricitinib arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IV dexamethasone 6 mg for 10 days + remdesivir IV 200 mg on day 1, followed by 100 mg die until day 10 + baricitinib 4 mg die for 10 days.&#xD;
+For patients aged &gt; 75 years or estimated GFR &lt; 60 ml/min*1.73m2, baricitinib dose is reduced to 2 mg for 10 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Baricitinib Oral Tablet [Olumiant]</intervention_name>
+    <description>Baricitinib 4 mg die (2 mg for patients aged &gt; 75 years) for 10 days.</description>
+    <arm_group_label>Baricitinib arm</arm_group_label>
+    <arm_group_label>Remdesivir + baricitinib arm</arm_group_label>
+    <other_name>Olumiant</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>Intravenous remdesivir 200 mg on day 1, followed by remdesivir 100 mg die until day 10</description>
+    <arm_group_label>Remdesivir + baricitinib arm</arm_group_label>
+    <arm_group_label>Remdesivir arm</arm_group_label>
+    <other_name>Veklury</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>Intravenous dexamethasone 6 mg for 10 days</description>
+    <arm_group_label>Baricitinib arm</arm_group_label>
+    <arm_group_label>Control arm (dexamethasone arm)</arm_group_label>
+    <arm_group_label>Remdesivir + baricitinib arm</arm_group_label>
+    <arm_group_label>Remdesivir arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults aged &gt; 18 years able to provide a valid informed consent to the study&#xD;
+&#xD;
+          -  Documented COVID-19 by direct testing (positive PCR), with lung infiltrates at imaging&#xD;
+             (Chest-X ray or CT) and requirement of oxygen supplementation&#xD;
+&#xD;
+          -  Less than 10 days form symptoms onset&#xD;
+&#xD;
+          -  Cytokine storm, using the criteria developed at Temple University (all of the three&#xD;
+             below criteria):&#xD;
+&#xD;
+               -  CRP &gt; 46 mg/l&#xD;
+&#xD;
+               -  Ferritin &gt; 250 ng/ml&#xD;
+&#xD;
+               -  One variable of each of the three clusters below&#xD;
+&#xD;
+                    -  Cluster 1&#xD;
+&#xD;
+                         -  Albumin &lt; 2.8 g/dl&#xD;
+&#xD;
+                         -  Lymphocytes &lt;10.2 % of WBC&#xD;
+&#xD;
+                         -  Absolute neutrophil count &gt; 11400/mm3&#xD;
+&#xD;
+                    -  Cluster 2&#xD;
+&#xD;
+                         -  ALT &gt; 60 U/L&#xD;
+&#xD;
+                         -  AST &gt; 87 U/L&#xD;
+&#xD;
+                         -  D-dimers &gt; 4930 µg/l fibrinogen-equivalent-units (FEU).&#xD;
+&#xD;
+                         -  LDH &gt;416 U/L&#xD;
+&#xD;
+                         -  High sensitivity troponin &gt; 1.09 ng/ml&#xD;
+&#xD;
+                    -  Cluster 3&#xD;
+&#xD;
+                         -  Anion Gap at arterial blood gas &lt; 6.8 mM&#xD;
+&#xD;
+                         -  Chloride &gt; 106 mM&#xD;
+&#xD;
+                         -  Potassium &gt; 4.9 mM&#xD;
+&#xD;
+                         -  BUN:creatinine ratio &gt; 29&#xD;
+&#xD;
+          -  PaO2/FiO2 200-400 mmHg, while in oxygen therapy or continuous positive airway pressure&#xD;
+             (C-PAP)&#xD;
+&#xD;
+          -  For women of childbearing potential and men: agreement to use contraception in the&#xD;
+             case of heterosexual intercourses before day 28 with a failure rate &lt; 1% per year&#xD;
+             (bilateral tubal ligation, male sterilisation, hormonal contraceptives inhibiting&#xD;
+             ovulation, hormone-release or copper intrauterine devices). For men enrolled in the&#xD;
+             study, condom use is allowed.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Orotracheal intubation or ECMO support&#xD;
+&#xD;
+          -  Active solid / hematologic cancer (including invasive non-melanoma skin cancer)&#xD;
+&#xD;
+          -  Hypersensitivity or contra-indications to one of the investigational agents (including&#xD;
+             history of deep vein thrombosis / pulmonary thromboembolism within 12 weeks prior to&#xD;
+             screening)&#xD;
+&#xD;
+          -  Other active concurrent viral, fungal or bacterial infections (including active&#xD;
+             tuberculosis/latent TB treated for less than 4 weeks, HIV and HCV/HBV infections)&#xD;
+&#xD;
+          -  Pregnancy/breastfeeding&#xD;
+&#xD;
+          -  Incapability to provide a valid informed consent (including age &lt; 18 years old)&#xD;
+&#xD;
+          -  Heart failure with NYHA &gt;= 2 or any acute cardiac or vascular event requiring therapy&#xD;
+             in the previous 12 months&#xD;
+&#xD;
+          -  Chronic renal failure (baseline GFR &lt; 45 ml/min*1.73m2)&#xD;
+&#xD;
+          -  Liver cirrhosis moderate / severe (Child-Pugh B or C)&#xD;
+&#xD;
+          -  Chronic respiratory failure requiring O2 therapy or ventilation therapy at home&#xD;
+&#xD;
+          -  Blood neutrophils &lt;1000/mcL, platelet &lt;50000/mcL, Hb levels &lt;80 g/l&#xD;
+&#xD;
+          -  ALT/AST &gt; 5 times UNL&#xD;
+&#xD;
+          -  Use of any biologic agent or small molecule inhibitor and other investigational drugs&#xD;
+             in the previous 4 weeks or 5 half-lives (whichever is longer). Specific cut-offs for&#xD;
+             wash-out are required for the following therapies:&#xD;
+&#xD;
+               -  B-cell targeted therapies: 24 weeks or 5 half-lives (whichever is longer)&#xD;
+&#xD;
+               -  TNF-inhibitors: 2 weeks or 5 half-lives (whichever is longer)&#xD;
+&#xD;
+               -  JAK-inhibitors: 1 week or 5 half-lives (whichever is longer)&#xD;
+&#xD;
+          -  Use of other immunosuppressive agents in the last 3 months (chronic use of topical&#xD;
+             steroids and systemic steroids with a dose ≤5 mg of prednisone equivalents is allowed)&#xD;
+&#xD;
+          -  Use of any other investigational therapy for COVID-19 (including IV immunoglobulins,&#xD;
+             convalescent COVID-19 plasma or monoclonal antibodies)&#xD;
+&#xD;
+          -  Impossibility to discontinue Strong inhibitors of OAT3 (such as probenecid) at study&#xD;
+             entry&#xD;
+&#xD;
+          -  Any other condition judged by the local investigator as a contra-indication to&#xD;
+             eligibility&#xD;
+&#xD;
+          -  Subjects who have received live vaccines within 4 weeks before the study or are&#xD;
+             planned to receive live vaccine in the first months after study enrolment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Massimo Galli, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>ASST Fatebenefratelli Sacco and Milan University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Enrico Tombetti, MD, PhD</last_name>
+    <phone>3289098793</phone>
+    <phone_ext>+39</phone_ext>
+    <email>enrico.tombetti@unimi.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Massimo Galli, Prof</last_name>
+    <phone>3358058990</phone>
+    <phone_ext>+39</phone_ext>
+    <email>massimo.galli@unimi.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ospedali Riuniti delle Marche</name>
+      <address>
+        <city>Ancona</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Marcello Tavio, Prof</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>marcello.tavio@ospedaliriuniti.marche.it</last_name>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Parini</name>
+      <address>
+        <city>Aosta</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Magnani Silvia Carla Maria</last_name>
+      <email>smagnani@ausl.vda.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale SS Annunziata -Chieti</name>
+      <address>
+        <city>Chieti</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jacopo Vecchiet, Prof</last_name>
+      <email>jacopo.vecchiet@unich.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale S Anna</name>
+      <address>
+        <city>Como</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Luigi Pusterla, MD</last_name>
+      <email>luigi.pusterla@asst-lariana.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale di Ferrara</name>
+      <address>
+        <city>Ferrara</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Carlo Contini, Prof</last_name>
+      <email>cnc@unife.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale di Firenze and Empoli</name>
+      <address>
+        <city>Firenze</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Massimo Di Pietro, MD</last_name>
+      <email>massimo.dipietro@uslcentro.toscana.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedali Galliera</name>
+      <address>
+        <city>Genova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Emanuele Pontali, MD</last_name>
+      <email>emanuele.pontali@galliera.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>H Goretti</name>
+      <address>
+        <city>Latina</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Miriam Lichtner, Prof</last_name>
+      <email>miriam.lichtner@uniroma1.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Manzoni</name>
+      <address>
+        <city>Lecco</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Stefania Piconi, MD</last_name>
+      <email>s.piconi@asst-lecco.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale di Legnago</name>
+      <address>
+        <city>Legnago</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Pierangelo Rovere, MD</last_name>
+      <email>pierangelo.rovere@aulss9.veneto.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale di Legnano</name>
+      <address>
+        <city>Legnano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Stefano Rusconi, Prof</last_name>
+      <email>stefano.rusconi@unimi.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Fatebenefratelli-Sacco</name>
+      <address>
+        <city>Milan</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Massimo Galli, Prof</last_name>
+      <email>massimo.galli@unimi.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Santi Paolo e Carlo</name>
+      <address>
+        <city>Milan</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Antonella D'arminio monforte, Prof</last_name>
+      <email>antonella.darminio@unimi.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS San Raffaele</name>
+      <address>
+        <city>Milan</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Antonella Castagna, Prof</last_name>
+      <email>castagna.antonella@hsr.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale di Perugia</name>
+      <address>
+        <city>Perugia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Andrea Tosti, MD</last_name>
+      <email>andrea.tosti@ospedale.perugia.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Salvatore</name>
+      <address>
+        <city>Pesaro</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Francesco, MD</last_name>
+      <email>francesco.barchiesi@ospedalimarchenord.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedali di Prato e Pistoia</name>
+      <address>
+        <city>Prato</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Pierluigi Blanc, MD</last_name>
+      <email>pierluigi.blanc@uslcentro.toscana.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico Tor Vergata</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Massimo Andreoni, Prof</last_name>
+      <email>andreoni@uniroma2.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Cattinara e Maggiore</name>
+      <address>
+        <city>Trieste</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Roberto Luzzati</last_name>
+      <email>roberto.luzzati@asugi.sanita.fvg.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale di Udine</name>
+      <address>
+        <city>Udine</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Carlo Tascini, Prof</last_name>
+      <email>carlo.tascini@asufc.sanita.fvg.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Integrata -Verona</name>
+      <address>
+        <city>Verona</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Evelina Tacconelli, Prof</last_name>
+      <phone>3497790711</phone>
+      <phone_ext>+39</phone_ext>
+      <email>evelina.tacconelli@univr.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>October 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 6, 2021</study_first_posted>
+  <last_update_submitted>April 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>ASST Fatebenefratelli Sacco</investigator_affiliation>
+    <investigator_full_name>Enrico Tombetti</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>remdesivir</keyword>
+  <keyword>baricitinib</keyword>
+  <keyword>dexamethasone</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>The e-CRF platform (Cloud-R) ensures data protection and satisties all quality requirements for data management and protection of patients confidentiality.&#xD;
+Confidential data will be available only for physicians in charge of individual patients.&#xD;
+Anonymized data will be made available to other research upon written request accompanied with a motivation and a scientific rationale</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

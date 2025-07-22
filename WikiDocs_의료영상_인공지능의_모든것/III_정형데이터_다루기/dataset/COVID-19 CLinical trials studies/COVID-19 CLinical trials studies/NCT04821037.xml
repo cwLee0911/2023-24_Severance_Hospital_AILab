@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4909">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04821037</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NHP</org_study_id>
+    <nct_id>NCT04821037</nct_id>
+  </id_info>
+  <brief_title>Nurse Health Pilot: Feasibility and Acceptability of a Virtual ACT-intervention in Frontline Nurses During COVID-19</brief_title>
+  <acronym>NHP</acronym>
+  <official_title>Feasibility and Acceptability of a Virtual ACT-intervention in Frontline Nurses Working During the COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Prof. Dr. Andrew Gloster</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>State Secretariat for Education Research and Innovation, Switzerland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ETH Zurich (Switzerland)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Basel</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Frontline nurses increasingly face challenges between executing their jobs to the best of&#xD;
+      their ability and caring for their own physical and mental health. Such a stressful and&#xD;
+      fast-changing work environment impacts the nurses' psychological wellbeing, resulting in high&#xD;
+      levels of stress and burnout, which in turn negatively affects patient care and outcomes.&#xD;
+&#xD;
+      The aim of this study is to investigate whether a short virtual intervention, based on&#xD;
+      Acceptance and Commitment Therapy (ACT) and adapted to caregivers, can lead to a reduction in&#xD;
+      psychological distress that may be associated with caregiving during the COVID-19 pandemic.&#xD;
+&#xD;
+      The intervention will be held online in a group setting during two half-day workshops using a&#xD;
+      conference application (e.g. Zoom).&#xD;
+&#xD;
+      Note: This study is part of an international joint research project &quot;Nurse Health&quot; between&#xD;
+      the Faculty of Psychology (University of Basel) and the Nethersole School of Nursing (Chinese&#xD;
+      University of Hong Kong), funded by the Swiss State Secretariat for Education, Research and&#xD;
+      Innovation (SERI), with the Leading House for the Bilateral Science and Technology&#xD;
+      Cooperation Programme with Asia at ETH Zürich (Project No. COV_09_062020).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2021</start_date>
+  <completion_date type="Anticipated">August 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Perceived Stress Scale (PSS-10)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Assessment of the perception of psychological stress (10 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>General Anxiety Disorder Scale (GAD-7)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Assessment of the severity of anxiety (7 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient Health Questionnaire (PHQ-9)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Assessment of the severity of depression (9 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maslach Burnout Inventory - Human Services Survey (MBI-HSS)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Assessment of the severity of burnout (22 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mental Health Continuum Short Form (MHC-SF)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Assessment of perceived emotional wellbeing (14 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Psychological Flexibility Questionnaire (PsyFlex)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Assessment of psychological flexibility (6 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Valued Living Questionnaire (VLQ)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Assessment of the extent of valued living (10 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mueller and McCloskey Satisfaction Scale (MMSS)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Assessment of nurses' job satisfaction (31 items)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Program Attendance/ Attrition Rate</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Percentage of program attendance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Homework Completion</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Percentage of completed homework</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Program Satisfaction</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Rate of nurses' satisfaction with the program</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Stress</condition>
+  <arm_group>
+    <arm_group_label>ACT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A digitally-based ACT program will be conducted in two half-day workshops via meeting software (e.g. Zoom) consisting of:&#xD;
+mindfulness exercises, for stress reduction and to guide nurses to observe their painful thoughts and feelings that they are attempting to avoid;&#xD;
+ACT-metaphors, to let nurses realize the cost of struggling with psychological distress often create more distress;&#xD;
+experiential exercises, to guide nurses to notice their own experiences in providing nursing care throughout their nursing career and explore any special qualities;&#xD;
+explore the nurses' values with respect to different areas in their lives.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>ACT</intervention_name>
+    <description>Acceptance and Commitment Therapy</description>
+    <arm_group_label>ACT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  at least 18 years of age&#xD;
+&#xD;
+          -  degree in nursing&#xD;
+&#xD;
+          -  working 40% or higher in a team of nurses in the somatic area&#xD;
+&#xD;
+          -  currently or previously in contact with COVID-19 patients&#xD;
+&#xD;
+          -  working in Switzerland&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  working in non-somatic areas (e.g. psychiatry)&#xD;
+&#xD;
+          -  working in non-hospital environments (e.g. home treatment)&#xD;
+&#xD;
+          -  not owning an electronic device&#xD;
+&#xD;
+          -  unable to understand and speak German&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrew T Gloster, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Division of Clinical Psychology &amp; Intervention Science, University of Basel</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Eveline Frey, M Sc.</last_name>
+    <phone>+41 78 741 41 19</phone>
+    <email>eveline.frey@unibas.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Fabio Coviello, B Sc.</last_name>
+    <email>fabio.coviello@unibas.ch</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://psychologie.unibas.ch/en/faculty/centers/clinical-psychology-and-intervention-science/research/research-projects/nurse-health/</url>
+    <description>Research Project Website: Nurse Health</description>
+  </link>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 29, 2021</study_first_posted>
+  <last_update_submitted>March 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Basel</investigator_affiliation>
+    <investigator_full_name>Prof. Dr. Andrew Gloster</investigator_full_name>
+    <investigator_title>Prof. Andrew Gloster</investigator_title>
+  </responsible_party>
+  <keyword>stress</keyword>
+  <keyword>resilience</keyword>
+  <keyword>wellbeing</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

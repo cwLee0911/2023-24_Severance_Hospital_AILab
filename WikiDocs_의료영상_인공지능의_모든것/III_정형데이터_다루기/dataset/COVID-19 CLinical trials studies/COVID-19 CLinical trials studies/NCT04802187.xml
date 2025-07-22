@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5087">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04802187</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020P003743</org_study_id>
+    <nct_id>NCT04802187</nct_id>
+  </id_info>
+  <brief_title>Implementation of SARS-CoV Testing Strategies in Community Health Centers</brief_title>
+  <official_title>Implementation of SARS-CoV Testing Strategies in Community Health Centers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Dana-Farber Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Harvard School of Public Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Massachusetts League of Community Health Centers</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project is part of a competitive revision to accelerate COVID-19 testing in underserved&#xD;
+      populations. The overall aim is to implement strategies to expand COVID testing in hotspot&#xD;
+      communities in MA, through 6 community health center (CHC)-community partnerships. A base&#xD;
+      strategy will be implemented at all sites. A tailored strategy unique to local populations&#xD;
+      will be added and tested in a stepped wedge design.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 1, 2020</start_date>
+  <completion_date type="Anticipated">August 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage increase in testing during the study compared to tests completed prior to study start</measure>
+    <time_frame>Months 1-9 post-implementation compared to 9 months pre-implementation</time_frame>
+    <description>Using a controlled interrupted time series design, comparing number of tests across the participating CHCs with matched control CHCs in MA</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">76300</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>RADx CHCs testing intervention strategy</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Six Massachusetts community health center partnerships implementing both a common testing expansion implementation strategy plus tailored strategies designed for community partner needs.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual care control</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>RADx CHCs testing intervention strategy</intervention_name>
+    <description>The study team will support partner CHCs to implement workflows with some combination of dedicated testing staff, off-site testing, outreach/communications to priority populations, and linkage with local contact tracing systems. Implementation support will take the form of practice facilitation, rapid cycle testing (by supporting CHCs to review their internal data to assess the impact of workflow changes), and expert consultation from the research team on testing technology and testing location design.</description>
+    <arm_group_label>RADx CHCs testing intervention strategy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Usual care control</intervention_name>
+    <description>CHCs implement testing strategies in accordance with their usual supports.</description>
+    <arm_group_label>Usual care control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants are patients at the intervention or control CHCs or members of the local&#xD;
+             community. The participating sites constitute one group; a set of matched control CHCs&#xD;
+             that will conduct testing as usual constitute the second group.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elsie Taveras, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Karen Emmons, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Harvard School of Public Health</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Susan Dargon-Hart, LICSW</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts League of Community Health Centers</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Madeline Davies, MPH</last_name>
+    <phone>617-726-6653</phone>
+    <email>medavies@mgh.harvard.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Gina Kruse, MD, MPH</last_name>
+    <phone>617-724-3157</phone>
+    <email>gkruse@mgh.harvard.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Massachusetts League of Community Health Centers</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susan Dargon-Hart</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elsie Taveras, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 17, 2021</study_first_posted>
+  <last_update_submitted>March 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Elsie Taveras, MD</investigator_full_name>
+    <investigator_title>Executive Director, Kraft Center for Community Health and Division Chief, General Academic Pediatrics</investigator_title>
+  </responsible_party>
+  <keyword>implementation science</keyword>
+  <keyword>community health center</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

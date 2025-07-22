@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5171">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04764422</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GPO NDV-HXP-S</org_study_id>
+    <nct_id>NCT04764422</nct_id>
+  </id_info>
+  <brief_title>Assess the Safety and Immunogenicity of NDV-HXP-S Vaccine in Thailand</brief_title>
+  <official_title>A Phase 1/2 Randomized, Placebo-controlled, Observer-blind Trial to Assess the Safety and Immunogenicity of NDV-HXP-S Vaccine in Thailand</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mahidol University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Government Pharmaceutical Organization</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mahidol University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will be conducted in 2 phases. Phase 1 designed to evaluate safety, tolerability&#xD;
+      and immunogenicity COVID-19 vaccine (NDV-HXP-S) administered at different doses levels (1, 3,&#xD;
+      and 10 µg) without adjuvant, and at two different dose levels (1 and 3 µg) with the adjuvant&#xD;
+      CpG 1018 among healthy adults, (age 18-59 years) (210 subjects). Subjects will receive 2&#xD;
+      doses of assigned investigational product (IP) on D1 and D29 (V1 and V3), and be assessed in&#xD;
+      clinic for safety and reactogenicity at 7 days after each vaccination (day 1 as day&#xD;
+      vaccination). An interim analysis of Phase 1 data will be conducted as the basis for&#xD;
+      decisions about advancement to Phase 2 of the study and about treatment group down selection.&#xD;
+      Phase 2 (250 subjects) will include approximately one-third subjects with age 60-75 years.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study (GPO NDV-HXP-S) will be conducted in 2 phases. Phase 1 will evaluate the safety,&#xD;
+      tolerability and immunogenicity COVID-19 vaccine (NDV-HXP-S) administered at different doses&#xD;
+      levels (1, 3, and 10 µg) without adjuvant, and at two different dose levels (1 and 3 µg) with&#xD;
+      the adjuvant CpG 1018 among healthy adults, (age 18-59 years, 210 subjects). NDV-HXP-S or&#xD;
+      placebo (0.9% normal saline for injection) will administered IM according to a repeat&#xD;
+      vaccination schedule (given 28 days apart). In addition, as exploratory objectives, a total&#xD;
+      of 36 subjects will be randomly selected (1:1:1 ratio) from placebo and two high-dose groups&#xD;
+      i.e. NDV-HXP-S 10 µg and NDV-HXP-S 3 µg + CpG 1018, to provide additional blood at V1, V5 and&#xD;
+      V7 for assessment of T-cell-mediated immunity (CMI). An interim analysis of Phase 1 data will&#xD;
+      be conducted as the basis for decisions about advancement to Phase 2 of the study and about&#xD;
+      treatment group down selection.&#xD;
+&#xD;
+      In the Phase 2 study, 250 subjects aged 18-75 years will be randomized (1:2:2) to placebo&#xD;
+      (0.9% normal saline for injection), or one of two selected formulations of NDV HXP S being&#xD;
+      evaluated in Phase 1 will be enrolled to Phase 2 study. Twelve subjects in each of the three&#xD;
+      Phase 2 groups (distributed among the two age strata) will be will be randomized to provide&#xD;
+      additional blood at V1, V5 and V7 for assessment of T-cell-mediated immunity (CMI).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 20, 2021</start_date>
+  <completion_date type="Anticipated">April 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Unblinded study staff, including the site pharmacist, will be responsible for preparing study products (in accordance with the randomly determined assignment), administering the study vaccine, and handling all drug accountability procedures. These personnel will not participate in the other aspects of the clinical trial, to help ensure the integrity of the blind at the site. Unblinded staff will retrieve a subject's randomization assignment after being informed by the PI or designee that a subject is eligible for randomization. They will prepare the 0.5 ml dose of study product based on the subject's randomization</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of solicited reportable local adverse event after first vaccination</measure>
+    <time_frame>Day 1 up to Day 7</time_frame>
+    <description>Frequency of solicited reportable local adverse events (pain or tenderness, erythema, swelling or induration) of first vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of solicited reportable local adverse event after second vaccination</measure>
+    <time_frame>Day 1 up to Day 7</time_frame>
+    <description>Frequency of solicited reportable local adverse events (pain or tenderness, erythema, swelling or induration) of second vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of solicited reportable systemic adverse event after first vaccination</measure>
+    <time_frame>Day 1 up to Day 7</time_frame>
+    <description>Frequency of solicited reportable systemic adverse events (fever, headache,fatigue or malaise, myalgia, arthralgia,nausea or vomitting) of first vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of solicited reportable systemic adverse event after second vaccination</measure>
+    <time_frame>Day 1 up to Day 7</time_frame>
+    <description>Frequency of solicited reportable systemic adverse events (fever, headache,fatigue or malaise, myalgia, arthralgia,nausea or vomitting) of second vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of hemoglobin changed from baseline at 7 days after first vaccination</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Measurement of hemoglobin (g/dl) changed from baseline at 7 days after first vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of hemoglobin changed from baseline at 7 days after second vaccination</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Measurement of hemoglobin (g/dl) changed from baseline at 7 days after the second vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of white blood cells changed from baseline at 7 days after first vaccination</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Measurement of white blood cells (10^3 cells/ul) changed from baseline at 7 days after first vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of white blood cells changed from baseline at 7 days after second vaccination</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Measurement of white blood cells (10^3 cells/ul) changed from baseline at 7 days after second vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of platelet count changed from baseline at 7 days after first vaccination</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Measurement of platelet count (10^3 cells/ul) changed from baseline at 7 days after first vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of platelet count changed from baseline at 7 days after second vaccination</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Measurement of platelet count (10^3 cells/ul) changed from baseline at 7 days after second vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of creatinine changed from baseline at 7 days after first vaccination</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Measurement of creatinine (mg/dl) changed from baseline at 7 days after first vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of creatinine changed from baseline at 7 days after second vaccination</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Measurement of creatinine (mg/dl) changed from baseline at 7 days after second vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of AST changed from baseline at 7 days after first vaccination</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Measurement of AST (U/L) changed from baseline at 7 days after first vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of AST changed from baseline at 7 days after second vaccination</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Measurement of AST (U/L) changed from baseline at 7 days after second vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of ALT change from baseline at 7 days after first vaccination</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Measurement of ALT (U/L) change from baseline at 7 days after first vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of ALT change from baseline at 7 days after second vaccination</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Measurement of ALT (U/L) change from baseline at 7 days after second vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of total bilirubin changed from baseline at 7 days after first vaccination</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Measurement of total bilirubin (mg/dl) change from baseline at 7 days after first vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of total bilirubin changed from baseline at 7 days after second vaccination</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Measurement of total bilirubin (mg/dl) change from baseline at 7 days after second vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of all unsolicited AEs</measure>
+    <time_frame>Day 56</time_frame>
+    <description>Frequency of all unsolicited AEs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of SAEs</measure>
+    <time_frame>Day 365</time_frame>
+    <description>Frequency of SAEs throughout the entire study period</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of medically-attended adverse event (MAAEs)</measure>
+    <time_frame>Day 365</time_frame>
+    <description>Frequency of medically-attended adverse event (MAAEs) throughout the entire study period</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of AESI</measure>
+    <time_frame>Day 365</time_frame>
+    <description>Frequency of AESI throughout the entire study period, including AESI relevant to COVID-19, and potential immune-mediated medical conditions (PIMMC) presented as number and percentage</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>GMT Neutralizing antibody titer 50 changed from baseline at 28 days after the first vaccination</measure>
+    <time_frame>Day 29</time_frame>
+    <description>GMT Neutralizing antibody titer 50 changed from baseline at 28 days after the first vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT Neutralizing antibody titer 50 changed from baseline at 14 days after the second vaccination</measure>
+    <time_frame>Day 43</time_frame>
+    <description>GMT Neutralizing antibody titer 50 changed from baseline at 14 days after the second vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT Neutralizing antibody titer 50 changed from baseline at 6 months after the second vaccination</measure>
+    <time_frame>Day 197</time_frame>
+    <description>GMT Neutralizing antibody titer 50 changed from baseline at 6 months after the second vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT Neutralizing antibody titer 50 changed from baseline at 12 months after the second vaccination</measure>
+    <time_frame>Day 365</time_frame>
+    <description>GMT Neutralizing antibody titer 50 changed from baseline at 12 months after the second vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT Neutralizing antibody titer 80 changed from baseline at 28 days after the first vaccination</measure>
+    <time_frame>Day 29</time_frame>
+    <description>GMT Neutralizing antibody titer 80 changed from baseline at 28 days after the first vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT Neutralizing antibody titer 80 changed from baseline at 14 days after the second vaccination</measure>
+    <time_frame>Day 43</time_frame>
+    <description>GMT Neutralizing antibody titer 80 changed from baseline at 14 days after the second vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT Neutralizing antibody titer 80 changed from baseline at 6 months after the second vaccination</measure>
+    <time_frame>Day 197</time_frame>
+    <description>GMT Neutralizing antibody titer 80 changed from baseline at 6 months after the second vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT Neutralizing antibody titer 80 changed from baseline at 12 months after the second vaccination</measure>
+    <time_frame>Day 365</time_frame>
+    <description>GMT Neutralizing antibody titer 80 changed from baseline at 12 months after the second vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NT50 seroresponses changed from baseline at 28 days after the first vacccination</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Frequency of subjects with NT50 seroresponses against SARS-CoV-2 pseudovirus as defined by (1) a ≥ 4-fold increase from baseline, and (2) a ≥ 10-fold increase from baseline at 28 days after the first vacccination compare to baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NT50 seroresponses changed from baseline at 14 days after the second vaccination</measure>
+    <time_frame>Day 43</time_frame>
+    <description>Frequency of subjects with NT50 seroresponses against SARS-CoV-2 pseudovirus as defined by (1) a ≥ 4-fold increase from baseline, and (2) a ≥ 10-fold increase from baseline at 14 days after the second vaccination compare to baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NT50 seroresponses changed from baseline at 6 months after the second vaccination</measure>
+    <time_frame>Day 197</time_frame>
+    <description>Frequency of subjects with NT50 seroresponses against SARS-CoV-2 pseudovirus as defined by (1) a ≥ 4-fold increase from baseline, and (2) a ≥ 10-fold increase from baseline at 6 months after the second vaccination compare to baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NT50 seroresponses changed from baseline at 12 months after the second vaccination</measure>
+    <time_frame>Day 365</time_frame>
+    <description>Frequency of subjects with NT50 seroresponses against SARS-CoV-2 pseudovirus as defined by (1) a ≥ 4-fold increase from baseline, and (2) a ≥ 10-fold increase from baseline at12 months after the second vaccination compare to baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NT80 seroresponses changed from baseline at 28 days after the first vaccination</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Frequency of subjects with NT80 seroresponses against SARS-CoV-2 pseudovirus as defined by (1) a ≥ 4-fold increase from baseline, and (2) a ≥ 10-fold increase from baseline at 28 days after first vaccination compare to baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NT80 seroresponses changed from baseline at 14 days after the second vaccination</measure>
+    <time_frame>Day 43</time_frame>
+    <description>Frequency of subjects with NT80 seroresponses against SARS-CoV-2 pseudovirus as defined by (1) a ≥ 4-fold increase from baseline, and (2) a ≥ 10-fold increase from baseline at 14 after the second vaccination compare to baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NT80 seroresponses changed from baseline at 6 months after the second vaccination</measure>
+    <time_frame>Day 197</time_frame>
+    <description>Frequency of subjects with NT80 seroresponses against SARS-CoV-2 pseudovirus as defined by (1) a ≥ 4-fold increase from baseline, and (2) a ≥ 10-fold increase from baseline at 6 months after the second vaccination compare to baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NT80 seroresponses changed from baseline at 12 months after the second vaccination</measure>
+    <time_frame>Day 365</time_frame>
+    <description>Frequency of subjects with NT80 seroresponses against SARS-CoV-2 pseudovirus as defined by (1) a ≥ 4-fold increase from baseline, and (2) a ≥ 10-fold increase from baseline at 12 months after the second vaccination compare to baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT Anti-S IgG at 28 days after the first vaccination</measure>
+    <time_frame>Day 29</time_frame>
+    <description>GMT Anti-S IgG at 28 days after the first vaccination in subjects who are anti-S IgG seronegative at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT Anti-S IgG at 14 days after the second vaccination</measure>
+    <time_frame>Day 43</time_frame>
+    <description>GMT Anti-S IgG at 14 days after the second vaccination in subjects who are anti-S IgG seronegative at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT Anti-S IgG at 6 months after the second vaccination</measure>
+    <time_frame>Day 197</time_frame>
+    <description>GMT Anti-S IgG at 6 months after the second vaccination in subjects who are anti-S IgG seronegative at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT Anti-S IgG at 12 months after the second vaccination</measure>
+    <time_frame>Day 365</time_frame>
+    <description>GMT Anti-S IgG at 12 months after the second vaccination in subjects who are anti-S IgG seronegative at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMFR changed from baseline in anti-S IgG GMT at 28 days after the first vaccination</measure>
+    <time_frame>Day 29</time_frame>
+    <description>GMFR changed from baseline in anti-S IgG GMT at 28 days after the first vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMFR changed from baseline in anti-S IgG GMT at 14 days after the second vaccination</measure>
+    <time_frame>Day 43</time_frame>
+    <description>GMFR changed from baseline in anti-S IgG GMT 14 days after second vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMFR changed from baseline in anti-S IgG GMT at 6 months after the second vaccination</measure>
+    <time_frame>Day 197</time_frame>
+    <description>GMFR changed from baseline in anti-S IgG GMT at 6 months after the second vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMFR changed from baseline in anti-S IgG GMT at 12 months after the second vaccination</measure>
+    <time_frame>Day 365</time_frame>
+    <description>GMFR changed from baseline in anti-S IgG GMT at 12 months after the second vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-S IgG Seroresponses changed from baseline at 28 days after the first vaccination</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Frequency of subjects with seroresponses in anti-S IgG titer as defined by (1) a ≥ 4-fold increase from baseline, and (2) a ≥ 10-fold increase from baseline, at 28 days after the first vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-S IgG Seroresponses changed from baseline at 14 days after the second vaccination</measure>
+    <time_frame>Day 43</time_frame>
+    <description>Frequency of subjects with seroresponses in anti-S IgG titer as defined by (1) a ≥ 4-fold increase from baseline, and (2) a ≥ 10-fold increase from baseline, at 14 days after the second vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-S IgG Seroresponses changed from baseline at 6 months after the second vaccination</measure>
+    <time_frame>Day 197</time_frame>
+    <description>Frequency of subjects with seroresponses in anti-S IgG titer as defined by (1) a ≥ 4-fold increase from baseline, and (2) a ≥ 10-fold increase from baseline, at 6 months after the second vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-S IgG Seroresponses changed from baseline at 12 months after the second vaccination</measure>
+    <time_frame>Day 365</time_frame>
+    <description>Frequency of subjects with seroresponses in anti-S IgG titer as defined by (1) a ≥ 4-fold increase from baseline, and (2) a ≥ 10-fold increase from baseline, at 12 months after the second vaccination</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>S protein-specific T cells response changed from baseline at 14 days after the second vaccination</measure>
+    <time_frame>Day 43</time_frame>
+    <description>Frequency of S protein-specific T cells relative to baseline at 14 days after the second vaccination</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>S protein-specific T cells response changed from baseline at 6 months after the second vaccination</measure>
+    <time_frame>Day 197</time_frame>
+    <description>Frequency of S protein-specific T cells relative to baseline at 6 months after the second vaccination</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Anti-NDV HN GMT changed from baseline at 28 days after the first vaccination</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Anti-NDV HN GMT changed from baseline at 28 days after the first vaccination</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Anti-NDV HN IgG GMT changed from baseline at 14 days after the second vaccination</measure>
+    <time_frame>Day 43</time_frame>
+    <description>Anti-NDV HN IgG GMT changed from baseline at 14 days after the second vaccination</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Anti-NDV HN IgG GMT changed from baseline at 6 months after the second vaccination</measure>
+    <time_frame>Day 197</time_frame>
+    <description>Anti-NDV HN IgG GMT changed from baseline at 6 months after the second vaccination</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Anti-NDV HN IgG GMT changed from baseline at 12 months after the second vaccination</measure>
+    <time_frame>Day 365</time_frame>
+    <description>Anti-NDV HN IgG GMT changed from baseline at 12 months after the second vaccination</description>
+  </other_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">460</enrollment>
+  <condition>Covid-19</condition>
+  <condition>SARS Pneumonia</condition>
+  <condition>Pneumonia, Viral</condition>
+  <condition>Covid-19 Vaccine</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>0.9% Normal Saline for injection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NDV-HXP-S 1 µg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>35 subjects age 18-59 will receive NDV-HXP-S 1 µg study vacine administered 0.5 mL IM</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NDV-HXP-S 3 µg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>35 subjects age 18-59 will receive NDV-HXP-S 3 µg study vacine administered 0.5 mL IM</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NDV-HXP-S 10 µg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>35 subjects age 18-59 will receive NDV-HXP-S 10 µg study vacine administered 0.5 mL IM</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NDV-HXP-S 1 µg + CpG1018 1.5 mg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>35 subjects age 18-59 will receive NDV-HXP-S 1 µg + CpG1018 1.5 mg study vacine administered 0.5 mL IM</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NDV-HXP-S 3 µg + CpG1018 1.5 mg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>35 subjects age 18-59 will receive NDV-HXP-S 3 µg + CpG1018 1.5 mg study vacine administered 0.5 mL IM</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Normal Saline</intervention_name>
+    <description>0.9% normal saline for injection</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>NDV-HXP-S vaccine</intervention_name>
+    <description>Vaccine NDV-HXP-S, manufactured by GPO with or without adjuvant CpG1018.</description>
+    <arm_group_label>NDV-HXP-S 1 µg</arm_group_label>
+    <arm_group_label>NDV-HXP-S 1 µg + CpG1018 1.5 mg</arm_group_label>
+    <arm_group_label>NDV-HXP-S 10 µg</arm_group_label>
+    <arm_group_label>NDV-HXP-S 3 µg</arm_group_label>
+    <arm_group_label>NDV-HXP-S 3 µg + CpG1018 1.5 mg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Phase 1 Only:&#xD;
+&#xD;
+          1. Adult 18 through 59 years of age, inclusive, at screening&#xD;
+&#xD;
+          2. Healthy, as defined by absence of clinically significant medical condition, either&#xD;
+             acute or chronic, as determined by medical history, physical examination, screening&#xD;
+             laboratory test results, and clinical assessment of the investigator.&#xD;
+&#xD;
+        Phase 2 Only:&#xD;
+&#xD;
+          1. Adult 18 through 75 years of age, inclusive, at screening.&#xD;
+&#xD;
+          2. Having no clinically significant acute medical condition, and no chronic medical&#xD;
+             condition that has not been controlled within 90 days of randomization, as determined&#xD;
+             by medical history, physical examination, screening laboratory test results, and&#xD;
+             clinical assessment of the investigator.&#xD;
+&#xD;
+        Both Phase 1 and Phase 2:&#xD;
+&#xD;
+          1. Has provided written informed consent prior to performance of any study-specific&#xD;
+             procedure.&#xD;
+&#xD;
+          2. Has a body mass index (BMI) of 17 to 40 kg/m2, inclusive, at screening.&#xD;
+&#xD;
+          3. Resides in study site area and is able and willing to adhere to all protocol visits&#xD;
+             and procedures.&#xD;
+&#xD;
+          4. If a woman is of childbearing potential, must not be breastfeeding or be pregnant&#xD;
+             (based on a negative serum pregnancy test at screening and a negative urine pregnancy&#xD;
+             test during the 24 hours prior to receipt of the first dose of IP), must plan to avoid&#xD;
+             pregnancy for at least 28 days after the last dose of IP, and be willing to use an&#xD;
+             adequate method of contraception consistently and have a repeated pregnancy test prior&#xD;
+             to the second (last) dose of IP.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Phase 1 Only:&#xD;
+&#xD;
+        1. A positive serologic test for SARS-CoV-2 IgG test.&#xD;
+&#xD;
+        Both Phase 1 and Phase 2:&#xD;
+&#xD;
+          1. Use of any investigational medicinal product within 90 days prior to randomization or&#xD;
+             planned use of such a product during the period of study participation.&#xD;
+&#xD;
+          2. History of administration of any non-study vaccine within 28 days prior to&#xD;
+             administration of study vaccine or planned vaccination during the course of study&#xD;
+             participation Note: receipt of any COVID-19 vaccine that is licensed or granted&#xD;
+             Emergency Use Authorization in Thailand during the course of study participation is&#xD;
+             not exclusionary if administered after Visit 5&#xD;
+&#xD;
+          3. Previous receipt of investigational vaccine for SARS or MERS, or any investigational&#xD;
+             or licensed vaccine that may have an impact on interpretation of the trial results&#xD;
+&#xD;
+          4. History of hypersensitivity reaction to any prior vaccination or known&#xD;
+             hypersensitivity to any component of the study vaccine&#xD;
+&#xD;
+          5. History of egg or chicken allergy&#xD;
+&#xD;
+          6. History of angioedema&#xD;
+&#xD;
+          7. History of anaphylaxis&#xD;
+&#xD;
+          8. Acute illness (moderate or severe) and/or fever (body temperature measured orally&#xD;
+             ≥38°C)&#xD;
+&#xD;
+          9. Any abnormal vital sign deemed clinically relevant by the PI.&#xD;
+&#xD;
+         10. Abnormality in screening laboratory test deemed exclusionary by the PI.&#xD;
+&#xD;
+         11. A positive serologic test for SARS-CoV-2 IgM test, human immunodeficiency virus (HIV&#xD;
+             1/2 Ab), hepatitis B (HBsAg) or hepatitis C (HCV Ab)&#xD;
+&#xD;
+         12. History of laboratory-confirmed COVID-19 (RT-PCR positive to SAR-CoV-2)&#xD;
+&#xD;
+         13. History of malignancy, excluding non-melanoma skin and cervical carcinoma in situ&#xD;
+&#xD;
+         14. Any confirmed or suspected immunosuppressive or immunodeficient state&#xD;
+&#xD;
+         15. Administration of immunoglobulin or any blood product within 90 days prior to first&#xD;
+             study injection or planned administration during the study period.&#xD;
+&#xD;
+         16. Administration of any long-acting immune-modifying drugs (e.g., infliximab or&#xD;
+             rituximab) or the chronic administration (defined as more than 14 days) of&#xD;
+             immunosuppressants within six months prior to first study injection, or planned&#xD;
+             administration during the study period (includes systemic corticosteroids at doses&#xD;
+             equivalent to ≥ 0.5 mg/kg/day of prednisone; the use of topical steroids including&#xD;
+             inhaled and intranasal steroids is permitted).&#xD;
+&#xD;
+         17. History of known disturbance of coagulation or blood disorder that could cause anemia&#xD;
+             or excess bleeding. (e.g, thalassemia, coagulation factor deficiencies).&#xD;
+&#xD;
+         18. Recent history (within the past year) or signs of alcohol or substance abuse.&#xD;
+&#xD;
+         19. Any medical, psychiatric or behavior condition that in the opinion of the PI may&#xD;
+             interfere with the study objectives, pose a risk to the subject, or prevent the&#xD;
+             subject from completing the study follow-up.&#xD;
+&#xD;
+         20. Employee of any person employed by the Sponsor, the contract research organization&#xD;
+             (CRO), the PI, study site personnel, or site.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Punnee Pitisutthithum</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vaccine Trial Centre, Faculty of Tropical Medicine, Mahidol University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Punnee Pitisuttithum, M.D</last_name>
+    <phone>081- 829 4906</phone>
+    <email>punnee.pit@mahidol.ac.th</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Weerapong Phumrataprapin, M.D</last_name>
+    <phone>081-646 6326</phone>
+    <email>weerapong.phu@mahidol.ac.th</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Vaccine Trial Centre, Faculty of Tropical Medicine, Mahidol University</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Punnee Pitisuttithum, MD</last_name>
+      <phone>662-643-5599</phone>
+      <email>punnee.pit@mahidol.ac.th</email>
+    </contact>
+    <contact_backup>
+      <last_name>Weerapong Phumratanaprapin, MD</last_name>
+      <phone>662-643-5599</phone>
+      <email>weerapong.phu@mahidol.ac.th</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Punnee Pitisuttithum, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Weerapong Phumratanaprapin, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Viravarn Luvira, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sant Muangnoicharoen, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Chaisith Sivakorn, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Arom Pitisuthitham, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Supitcha Kamolratanakul, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Benjaluck Phonrat, M.Sc.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Thailand</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>March 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mahidol University</investigator_affiliation>
+    <investigator_full_name>Punnee Pitisuttithum</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>COVID-19 VACCINE</keyword>
+  <keyword>ADULT</keyword>
+  <keyword>THAILAND</keyword>
+  <keyword>GPO</keyword>
+  <keyword>The Government Pharmaceutical Organization</keyword>
+  <keyword>SAFETY</keyword>
+  <keyword>TOLERABILITY</keyword>
+  <keyword>IMMUNOGENICITY</keyword>
+  <keyword>NDV-HXP-S Vaccine</keyword>
+  <keyword>CpG1018</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>data or left over specimen will be shared for future study ONLY subject who consent allow using their data/specimens. Sharing will be done without personnel identification</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>2 years after vaccine marketing</ipd_time_frame>
+    <ipd_access_criteria>as document attach when completed study in NCT clinicaltrials.gov</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

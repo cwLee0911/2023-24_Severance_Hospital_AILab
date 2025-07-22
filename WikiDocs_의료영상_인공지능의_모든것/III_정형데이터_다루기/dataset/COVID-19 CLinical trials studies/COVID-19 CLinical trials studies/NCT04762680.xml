@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1347">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04762680</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VAT00002</org_study_id>
+    <secondary_id>U1111-1251-4616</secondary_id>
+    <nct_id>NCT04762680</nct_id>
+  </id_info>
+  <brief_title>Study of Recombinant Protein Vaccine With Adjuvant Against COVID-19 in Adults 18 Years of Age and Older</brief_title>
+  <acronym>VAT00002</acronym>
+  <official_title>Immunogenicity and Safety of SARS-CoV-2 Recombinant Protein Vaccine With AS03 Adjuvant in Adults 18 Years of Age and Older</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sanofi Pasteur, a Sanofi Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sanofi</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objectives of the study are:&#xD;
+&#xD;
+        -  To assess the safety profile of all participants in each age group and in each study&#xD;
+           intervention group.&#xD;
+&#xD;
+        -  To assess the neutralizing antibody profile 14 days after the last vaccination in severe&#xD;
+           acute respiratory syndrome coronavirus 2 (SARS-CoV-2)-naïve adults in each study&#xD;
+           intervention group.&#xD;
+&#xD;
+      The secondary objectives of the study are:&#xD;
+&#xD;
+        -  To assess the neutralizing antibody profile in SARS-CoV-2 naïve participants at&#xD;
+           pre-defined time points during the study.&#xD;
+&#xD;
+        -  To assess the neutralizing antibody profile in SARS-CoV-2 non-naïve participants at&#xD;
+           pre-defined time points during the study.&#xD;
+&#xD;
+        -  To assess the binding antibody profile in SARS-CoV-2 naïve and non-naïve participants at&#xD;
+           pre-defined time points during the study.&#xD;
+&#xD;
+        -  To describe the occurrences of laboratory-confirmed symptomatic COVID-19 in all&#xD;
+           participants in each study intervention group.&#xD;
+&#xD;
+        -  To describe the occurrences of serologically-confirmed SARS-CoV-2 infection in each&#xD;
+           study intervention group.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The duration of each participant's participation in the trial will be approximately 365 days&#xD;
+      post-injection 2 (ie, 386 days total).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">February 24, 2021</start_date>
+  <completion_date type="Anticipated">April 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Participants, outcome assessors, Investigators, laboratory personnel, and sponsor trial staff are blinded to intervention group; and those preparing the study interventions are unblinded to vaccine assignment group.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Presence of immediate adverse events</measure>
+    <time_frame>Within 30 minutes after vaccination</time_frame>
+    <description>Immediate adverse events include unsolicited adverse events occurring within 30 minutes after injection.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Presence of solicited injection site or systemic reactions</measure>
+    <time_frame>Within 7 days after injection</time_frame>
+    <description>Injection site reactions: injection site pain, erythema and swelling. Systemic reactions: fever, headache, malaise and myalgia.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Presence of unsolicited adverse events</measure>
+    <time_frame>Within 21 days after injection</time_frame>
+    <description>Adverse events other than solicited reactions.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Presence of serious adverse events</measure>
+    <time_frame>From Day 1 to Day 387</time_frame>
+    <description>Serious adverse events are reported throughout the study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Presence of adverse events of special interest</measure>
+    <time_frame>From Day 1 to Day 387</time_frame>
+    <description>Adverse events of special interest are reported throughout the study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Presence of medically-attended adverse events</measure>
+    <time_frame>From Day 1 to Day 387</time_frame>
+    <description>Medically-attended adverse events are new onset or a worsening of a condition that prompts the participant or participant's parent/guardian to seek unplanned medical advice at a physician's office or Emergency Department.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neutralizing antibody titer at Day 1</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Neutralizing antibody titers are expressed as geometric mean titers.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neutralizing antibody titer at Day 36</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Neutralizing antibody titers are expressed as geometric mean titers.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neutralizing antibody titer fold-rise post-vaccination</measure>
+    <time_frame>From Day 1 to Day 36</time_frame>
+    <description>Neutralizing antibody titer fold-rise post-vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>2-fold rise and 4-fold-rise in neutralization antibody titer</measure>
+    <time_frame>From Day 1 to Day 36</time_frame>
+    <description>Fold-rise in antibody neutralization titer post-vaccination relative to Day 1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Responders, as determined by neutralizing antibody titers at Day 36</measure>
+    <time_frame>From Day 1 to Day 36</time_frame>
+    <description>Responders, defined as participants who had baseline values below lower limit of quantification (LLOQ) with detectable neutralization titer above assay LLOQ at each pre-defined time point and participants with baseline values above LLOQ with a 4-fold increase in neutralizing antibody titer at Day 36</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibody titer at all pre-defined time points</measure>
+    <time_frame>Day 1, Day 22, Day 36, Day 78, Day 134, Day 202, Day 292 and Day 387</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibody titer fold-rise post-vaccination at all pre-defined time points</measure>
+    <time_frame>Day 1, Day 22, Day 36, Day 78, Day 134, Day 202, Day 292 and Day 387</time_frame>
+    <description>Fold-rise in antibody neutralization titer post-vaccination relative to Day 1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>2-fold rise and 4-fold-rise in neutralization antibody titer at all pre-defined time points</measure>
+    <time_frame>Day 1, Day 22, Day 36, Day 78, Day 134, Day 202, Day 292 and Day 387</time_frame>
+    <description>Fold-rise in antibody neutralization titer post-vaccination relative to Day 1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Responders, as determined by neutralizing antibody titers at each pre-defined time point</measure>
+    <time_frame>Day 1, Day 22, Day 36, Day 78, Day 134, Day 202, Day 292 and Day 387</time_frame>
+    <description>Responders, defined as participants who had baseline values below LLOQ with detectable neutralization titer above assay LLOQ at each pre-defined time point and participants with baseline values above LLOQ with a 4-fold increase in neutralizing antibody titer at each pre-defined timepoint</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Binding antibody concentrations</measure>
+    <time_frame>Day 1, Day 22, Day 36, Day 78, Day 134, Day 202, Day 292 and Day 387</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Binding antibody fold-rise</measure>
+    <time_frame>Day 1, Day 22, Day 36, Day 78, Day 134, Day 202, Day 292 and Day 387</time_frame>
+    <description>Fold-rise in concentration relative to Day 1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>2-fold-rise and 4-fold rise in binding antibody concentration</measure>
+    <time_frame>Day 1, Day 22, Day 36, Day 78, Day 134, Day 202, Day 292 and Day 387</time_frame>
+    <description>Fold-rise in concentration relative to Day 1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Responders, as determined by binding antibody concentrations</measure>
+    <time_frame>Day 1, Day 22, Day 36, Day 78, Day 134, Day 202, Day 292 and Day 387</time_frame>
+    <description>Responders are defined as participants who had baseline values below LLOQ with detectable anti-S antibody concentration above assay LLOQ at each pre-defined time point and participants with baseline values above LLOQ with a 4-fold increase in anti-S antibody concentration at each pre-defined time point.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrences of laboratory-confirmed symptomatic COVID-19</measure>
+    <time_frame>From Day 1 to Day 387</time_frame>
+    <description>Symptomatic COVID-19 is defined as laboratory-confirmed SARS-CoV-2 infection accompanied by protocol-defined COVID-19-like illness. Laboratory-confirmed SARS-CoV-2 infection is defined as a positive result for SARS CoV-2 by nucleic acid amplification test (NAAT), done by the central laboratory or locally, on at least one respiratory sample.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrences of symptomatic COVID-19 episodes associated with hospitalization</measure>
+    <time_frame>From Day 1 to Day 387</time_frame>
+    <description>Symptomatic COVID-19 is defined as laboratory-confirmed SARS-CoV-2 infection accompanied by protocol-defined COVID-19-like illness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrences of severe symptomatic COVID-19</measure>
+    <time_frame>From Day 1 to Day 387</time_frame>
+    <description>Symptomatic COVID-19 is defined as laboratory-confirmed SARS-CoV-2 infection accompanied by protocol-defined COVID-19-like illness with pre-defined criteria of severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrences of death associated with symptomatic COVID-19</measure>
+    <time_frame>From Day 1 to Day 387</time_frame>
+    <description>Symptomatic COVID-19 is defined as laboratory-confirmed SARS-CoV-2 infection accompanied by protocol-defined COVID-19-like illness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrences of serologically-confirmed SARS-CoV-2 infection</measure>
+    <time_frame>From Day 1 to Day 387</time_frame>
+    <description>Serologically-confirmed SARS-CoV-2 infection is defined as a positive result in a serum sample for antibodies against SARS-CoV-2.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">722</enrollment>
+  <condition>COVID-19 (Healthy Volunteers)</condition>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 vaccine Formulation 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 injections of SARS-CoV-2 vaccine Formulation 1 at Day 1 and Day 22</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 vaccine Formulation 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 injections of SARS-CoV-2 vaccine Formulation 2 at Day 1 and Day 22</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 vaccine Formulation 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 injections of SARS-CoV-2 vaccine Formulation 3 at Day 1 and Day 22</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 recombinant protein vaccine Formulation 1</intervention_name>
+    <description>Pharmaceutical form: Emulsion for injection. Route of administration: Intramuscular injection</description>
+    <arm_group_label>SARS-CoV-2 vaccine Formulation 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 recombinant protein vaccine Formulation 2</intervention_name>
+    <description>Pharmaceutical form: Emulsion for injection. Route of administration: Intramuscular injection</description>
+    <arm_group_label>SARS-CoV-2 vaccine Formulation 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 recombinant protein vaccine Formulation 3</intervention_name>
+    <description>Pharmaceutical form: Emulsion for injection. Route of administration: Intramuscular injection</description>
+    <arm_group_label>SARS-CoV-2 vaccine Formulation 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria :&#xD;
+&#xD;
+          -  Aged 18 years or older on the day of inclusion.&#xD;
+&#xD;
+          -  A female participant is eligible to participate if she is not pregnant or&#xD;
+             breastfeeding and one of the following conditions applies:&#xD;
+&#xD;
+          -  Is of non-childbearing potential. To be considered of non-childbearing potential, a&#xD;
+             female mut be post-menopausal for at least 1 year or surgically sterile.&#xD;
+&#xD;
+        OR&#xD;
+&#xD;
+          -  Is of childbearing potential and agrees to use an effective contraceptive method or&#xD;
+             abstinence from at least 4 weeks prior to the first vaccination until at least 12&#xD;
+             weeks after the second vaccination. A subject of childbearing potential must have a&#xD;
+             negative highly sensitive pregnancy test (urine or serum as required by local&#xD;
+             regulation) within 4 hours before any dose of study intervention.&#xD;
+&#xD;
+          -  Informed consent form has been signed and dated.&#xD;
+&#xD;
+          -  Able to attend all scheduled visits and to comply with all trial procedures.&#xD;
+&#xD;
+          -  SARS-CoV-2 rapid serodiagnostic test performed at the time of enrollment to detect&#xD;
+             presence of SARS-CoV-2 antibodies.&#xD;
+&#xD;
+          -  For persons living with human immunodeficiency virus (HIV), stable HIV infection&#xD;
+             determined by participant currently on antiretrovirals with CD4 count &gt; 200/mm3.&#xD;
+&#xD;
+          -  Does not intend to receive an authorized/approved COVID-19 vaccine from first&#xD;
+             vaccination to 3 weeks after the second vaccination despite encouragement by the&#xD;
+             investigator to receive the authorized vaccine available to them at the time of&#xD;
+             enrollment&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Known systemic hypersensitivity to any of the vaccine components, or history of a&#xD;
+             life-threatening reaction to a vaccine containing any of the same substances.&#xD;
+&#xD;
+          -  Dementia or any other cognitive condition at a stage that could interfere with&#xD;
+             following the trial procedures based on Investigator or designee's judgment.&#xD;
+&#xD;
+          -  Self-reported thrombocytopenia, contraindicating intramuscular (IM) vaccination based&#xD;
+             on Investigator or designee's judgment.&#xD;
+&#xD;
+          -  Bleeding disorder, or receipt of anticoagulants in the past 21 days preceding&#xD;
+             inclusion, contraindicating IM vaccination based on Investigator or designee's&#xD;
+             judgment.&#xD;
+&#xD;
+          -  Unstable acute or chronic illness that in the opinion of the Investigator or designee&#xD;
+             poses additional risk as a result of participation or that could interfere with the&#xD;
+             trial procedures.&#xD;
+&#xD;
+          -  Receipt of solid-organ or bone marrow transplants in the past 180 days.&#xD;
+&#xD;
+          -  Receipt of anti-cancer chemotherapy in the last 90 days.&#xD;
+&#xD;
+          -  Moderate or severe acute illness/infection (according to investigator judgment) on the&#xD;
+             day of vaccination or febrile illness (temperature ≥ 38.0°C [≥ 100.4°F]). A&#xD;
+             prospective participant should not be included in the trial until the condition has&#xD;
+             resolved or the febrile event has subsided.&#xD;
+&#xD;
+          -  Receipt of any vaccine in the 30 days preceding or on the day of the first trial&#xD;
+             vaccination or planned receipt of any vaccine in the 30 days following the second&#xD;
+             trial vaccination except for influenza vaccination, which may be received at any time&#xD;
+             in relation to trial intervention.&#xD;
+&#xD;
+          -  Prior administration of a coronavirus vaccine (SARS-CoV-2, SARS-CoV, Middle East&#xD;
+             Respiratory Syndrome [MERS-CoV]).&#xD;
+&#xD;
+          -  Participation at the time of trial enrollment (or in the 30 days preceding the first&#xD;
+             trial vaccination) or planned participation during the present trial period in another&#xD;
+             clinical trial investigating a vaccine, drug, medical device, or medical procedure.&#xD;
+&#xD;
+        The above information is not intended to contain all considerations relevant to a&#xD;
+        participant's potential participation in a clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Sciences &amp; Operations</last_name>
+    <role>Study Director</role>
+    <affiliation>Sanofi</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400251</name>
+      <address>
+        <city>Chandler</city>
+        <state>Arizona</state>
+        <zip>85225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400220</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90059</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400094</name>
+      <address>
+        <city>Rolling Hills Estates</city>
+        <state>California</state>
+        <zip>90274</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400173</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400239</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400212</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400089</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400057</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Florida</state>
+        <zip>32934</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400179</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400201</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400187</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <zip>61614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400048</name>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400199</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400030</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400230</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400203</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400207</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400233</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400097</name>
+      <address>
+        <city>North Charleston</city>
+        <state>South Carolina</state>
+        <zip>29405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400191</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 3400002</name>
+      <address>
+        <city>Municipio Del Distrito Central</city>
+        <zip>11101</zip>
+        <country>Honduras</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 3400001</name>
+      <address>
+        <city>San Pedro Sula</city>
+        <zip>21101</zip>
+        <country>Honduras</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Honduras</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>February 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>April 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to patient level data and related study documents including the clinical study report, study protocol with any amendments, blank case report form, statistical analysis plan, and dataset specifications. Patient level data will be anonymized and study documents will be redacted to protect the privacy of trial participants. Further details on Sanofi's data sharing criteria, eligible studies, and process for requesting access can be found at: https://www.clinicalstudydatarequest.com/</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

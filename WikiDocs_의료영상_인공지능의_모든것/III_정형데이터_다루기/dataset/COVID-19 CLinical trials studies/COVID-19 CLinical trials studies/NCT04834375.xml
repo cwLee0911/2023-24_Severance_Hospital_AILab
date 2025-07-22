@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4611">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04834375</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-0171</org_study_id>
+    <nct_id>NCT04834375</nct_id>
+  </id_info>
+  <brief_title>Randomized Open Investigation Determining Steroid Dose</brief_title>
+  <acronym>ROIDS-Dose</acronym>
+  <official_title>Randomized Open Investigation Determining Steroid Dose (ROIDS-Dose)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwell Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Northwell Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Dexamethasone has been approved for the treatment of severe COVID-19, but higher doses of&#xD;
+      steroids may be more effective. The purpose of this research study is to compare the current&#xD;
+      standard dose of dexamethasone 6 mg to a higher, weight-based dosing (0.2 mg/kg with maximum&#xD;
+      dose of 20 mg) to determine if it would be more effective against COVID-19 pneumonia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Treatment for COVID-19 patients with respiratory failure has been vexing, but the use of&#xD;
+      steroids has shown promise. In a recent randomized control trial, dexamethasone 6 mg once&#xD;
+      daily showed a modest decrease in mortality among hospitalized COVID-19 patients who require&#xD;
+      oxygen supplementation or invasive mechanical ventilation. Other trials have shown that the&#xD;
+      inflammatory response to COVID-19 can be further attenuated at higher dosages of&#xD;
+      dexamethasone. These higher dosages have not been well studied and have not been directly&#xD;
+      compared to the current standard dose of dexamethasone 6 mg daily. We propose that a higher&#xD;
+      dexamethasone dose, equivalent to methylprednisolone 1 mg/kg/day which is routinely used to&#xD;
+      treat other inflammatory conditions of the lungs, may be more effective than the current&#xD;
+      standard dose in reducing mortality in COVID-19 patients with respiratory failure.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 19, 2021</start_date>
+  <completion_date type="Anticipated">April 19, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 19, 2022</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients will be randomized in a parallel fashion into either the standard dexamethasone dose of 6 mg or weight-based dexamethasone of 0.2 mg/kg (maximum dose of 20 mg)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All cause mortality at 28 days</measure>
+    <time_frame>28 days</time_frame>
+    <description>All cause mortality at 28 days</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ICU admission</measure>
+    <time_frame>28 days</time_frame>
+    <description>Need for ICU admission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU length of stay</measure>
+    <time_frame>28 days</time_frame>
+    <description>Days of ICU stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay</measure>
+    <time_frame>28 days</time_frame>
+    <description>Days of hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for higher oxygen supplementation</measure>
+    <time_frame>28 days</time_frame>
+    <description>Venturi mask, Non-rebreather mask, High-flow nasal cannula, Non-invasive ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Invasive mechanical ventilation</measure>
+    <time_frame>28 days</time_frame>
+    <description>Need for invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of invasive mechanical ventilation</measure>
+    <time_frame>28 days</time_frame>
+    <description>Total days requiring invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ECMO</measure>
+    <time_frame>28 days</time_frame>
+    <description>Refractory hypoxemia requiring ECMO</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for tracheostomy</measure>
+    <time_frame>28 days</time_frame>
+    <description>Need for tracheostomy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of secondary bacterial or fungal infections</measure>
+    <time_frame>28 days</time_frame>
+    <description>Culture positive evidence of secondary bacterial or fungal infections</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of clinically significant hyperglycemia</measure>
+    <time_frame>28 days</time_frame>
+    <description>Defined as need for insulin drip or ICU admission to control hyperglycemia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen supplementation upon discharge from the hospital</measure>
+    <time_frame>28 days</time_frame>
+    <description>Need for oxygen supplementation upon discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subjective symptoms at 28 days</measure>
+    <time_frame>28 days</time_frame>
+    <description>Subjective symptoms questionnaire at 28 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disposition upon discharge</measure>
+    <time_frame>28 days</time_frame>
+    <description>Home, home with physical therapy, skilled nursing facility, long-term acute care facility, long-term care facility / nursing home, acute rehabilitation facility, hospice care, death</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">142</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Standard dexamethasone dose</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Dexamethasone 6 mg IV daily for 10 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Weight-based dexamethasone dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dexamethasone 0.2 mg/kg/day IV (maximum 20 mg daily) for 10 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Weight-based dexamethasone dose</intervention_name>
+    <description>Weight-based dexamethasone dose in COVID-19 patients with hypoxic respiratory failure</description>
+    <arm_group_label>Weight-based dexamethasone dose</arm_group_label>
+    <other_name>Higher dexamethasone dose</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults greater or equal than 18 years old&#xD;
+&#xD;
+          -  COVID-19 infection confirmed by positive PCR test&#xD;
+&#xD;
+          -  Hypoxemia defined by an oxygen saturation &lt; 94% or the need for supplemental oxygen&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Corticosteroid use for &gt; 48h within the past 15 days prior to enrollment&#xD;
+&#xD;
+          -  Use of steroids with doses higher than the equivalent to dexamethasone 6 mg&#xD;
+&#xD;
+          -  Use of immunosuppressive drugs&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+&#xD;
+          -  Chronic oxygen use&#xD;
+&#xD;
+          -  Known history of dexamethasone allergy&#xD;
+&#xD;
+          -  DNR / DNI&#xD;
+&#xD;
+          -  Patient or proxy cannot consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mangala Narasimhan, DO</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Northwell Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Carlos X Rabascall, MD</last_name>
+    <phone>5164655400</phone>
+    <email>crabascallay@northwell.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Stella S Hahn, MD</last_name>
+    <phone>5164655400</phone>
+    <email>sthahn@northwell.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Northwell Health</name>
+      <address>
+        <city>New Hyde Park</city>
+        <state>New York</state>
+        <zip>11042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carlos X Rabascall, MD</last_name>
+      <phone>516-465-5400</phone>
+      <email>crabascallay@northwell.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Stella S Hahn, MD</last_name>
+      <phone>5164655400</phone>
+      <email>sthahn@northwell.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>RECOVERY Collaborative Group, Horby P, Lim WS, Emberson JR, Mafham M, Bell JL, Linsell L, Staplin N, Brightling C, Ustianowski A, Elmahi E, Prudon B, Green C, Felton T, Chadwick D, Rege K, Fegan C, Chappell LC, Faust SN, Jaki T, Jeffery K, Montgomery A, Rowan K, Juszczak E, Baillie JK, Haynes R, Landray MJ. Dexamethasone in Hospitalized Patients with Covid-19. N Engl J Med. 2021 Feb 25;384(8):693-704. doi: 10.1056/NEJMoa2021436. Epub 2020 Jul 17.</citation>
+    <PMID>32678530</PMID>
+  </reference>
+  <reference>
+    <citation>WHO Rapid Evidence Appraisal for COVID-19 Therapies (REACT) Working Group, Sterne JAC, Murthy S, Diaz JV, Slutsky AS, Villar J, Angus DC, Annane D, Azevedo LCP, Berwanger O, Cavalcanti AB, Dequin PF, Du B, Emberson J, Fisher D, Giraudeau B, Gordon AC, Granholm A, Green C, Haynes R, Heming N, Higgins JPT, Horby P, Jüni P, Landray MJ, Le Gouge A, Leclerc M, Lim WS, Machado FR, McArthur C, Meziani F, Møller MH, Perner A, Petersen MW, Savovic J, Tomazini B, Veiga VC, Webb S, Marshall JC. Association Between Administration of Systemic Corticosteroids and Mortality Among Critically Ill Patients With COVID-19: A Meta-analysis. JAMA. 2020 Oct 6;324(13):1330-1341. doi: 10.1001/jama.2020.17023.</citation>
+    <PMID>32876694</PMID>
+  </reference>
+  <reference>
+    <citation>Tomazini BM, Maia IS, Cavalcanti AB, Berwanger O, Rosa RG, Veiga VC, Avezum A, Lopes RD, Bueno FR, Silva MVAO, Baldassare FP, Costa ELV, Moura RAB, Honorato MO, Costa AN, Damiani LP, Lisboa T, Kawano-Dourado L, Zampieri FG, Olivato GB, Righy C, Amendola CP, Roepke RML, Freitas DHM, Forte DN, Freitas FGR, Fernandes CCF, Melro LMG, Junior GFS, Morais DC, Zung S, Machado FR, Azevedo LCP; COALITION COVID-19 Brazil III Investigators. Effect of Dexamethasone on Days Alive and Ventilator-Free in Patients With Moderate or Severe Acute Respiratory Distress Syndrome and COVID-19: The CoDEX Randomized Clinical Trial. JAMA. 2020 Oct 6;324(13):1307-1316. doi: 10.1001/jama.2020.17021.</citation>
+    <PMID>32876695</PMID>
+  </reference>
+  <reference>
+    <citation>Villar J, Ferrando C, Martínez D, Ambrós A, Muñoz T, Soler JA, Aguilar G, Alba F, González-Higueras E, Conesa LA, Martín-Rodríguez C, Díaz-Domínguez FJ, Serna-Grande P, Rivas R, Ferreres J, Belda J, Capilla L, Tallet A, Añón JM, Fernández RL, González-Martín JM; dexamethasone in ARDS network. Dexamethasone treatment for the acute respiratory distress syndrome: a multicentre, randomised controlled trial. Lancet Respir Med. 2020 Mar;8(3):267-276. doi: 10.1016/S2213-2600(19)30417-5. Epub 2020 Feb 7.</citation>
+    <PMID>32043986</PMID>
+  </reference>
+  <reference>
+    <citation>Edalatifard M, Akhtari M, Salehi M, Naderi Z, Jamshidi A, Mostafaei S, Najafizadeh SR, Farhadi E, Jalili N, Esfahani M, Rahimi B, Kazemzadeh H, Mahmoodi Aliabadi M, Ghazanfari T, Sattarian M, Ebrahimi Louyeh H, Raeeskarami SR, Jamalimoghadamsiahkali S, Khajavirad N, Mahmoudi M, Rostamian A. Intravenous methylprednisolone pulse as a treatment for hospitalised severe COVID-19 patients: results from a randomised controlled clinical trial. Eur Respir J. 2020 Dec 24;56(6). pii: 2002808. doi: 10.1183/13993003.02808-2020. Print 2020 Dec.</citation>
+    <PMID>32943404</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2021</study_first_posted>
+  <last_update_submitted>April 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Northwell Health</investigator_affiliation>
+    <investigator_full_name>Mangala Narasimhan</investigator_full_name>
+    <investigator_title>Director of Critical Care Services</investigator_title>
+  </responsible_party>
+  <keyword>dexamethasone</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>COVID pneumonia</keyword>
+  <keyword>respiratory failure</keyword>
+  <keyword>steroids</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Dexamethasone acetate</mesh_term>
+    <mesh_term>BB 1101</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

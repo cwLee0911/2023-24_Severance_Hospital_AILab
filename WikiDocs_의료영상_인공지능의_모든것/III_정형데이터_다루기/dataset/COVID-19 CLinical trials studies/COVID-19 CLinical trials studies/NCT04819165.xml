@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="458">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04819165</url>
+  </required_header>
+  <id_info>
+    <org_study_id>5/2021</org_study_id>
+    <nct_id>NCT04819165</nct_id>
+  </id_info>
+  <brief_title>Healthcare-associated Infections in Severe COVID-19 During 2020</brief_title>
+  <acronym>COVIACS</acronym>
+  <official_title>Healthcare-associated Infections in Severe COVID-19 Patients Whit Mechanical Ventilation During 2020</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sanatorio Anchorena San Martin</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sanatorio Anchorena San Martin</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In patients who develop ARDS due to SARS-CoV-2 (CARDS), a longer duration of invasive&#xD;
+      mechanical ventilation (IMV) and ICU stay has been reported compared to ARDS not associated&#xD;
+      with SARS-CoV-2. Consequently, the days of stay in ICU increase Identifying the risk factors&#xD;
+      associated with the development of this complication and developing measures aimed at its&#xD;
+      prevention could have a favorable impact on the clinical course of seriously ill patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The rate of catheter-associated bacteremia is 3.78 / 1000 days central venous catheters in&#xD;
+      polyvalent ICUs.&#xD;
+&#xD;
+      Some studies suggest that in the context of this pandemic, infections associated with health&#xD;
+      care have increased, although there are few data referring to Latin America.&#xD;
+&#xD;
+      The objective of this study is to analyze the incidence of health care associated infections&#xD;
+      in adult patients on invasive mechanical ventilation with confirmed COVID-19 diagnosis and&#xD;
+      negative COVID-19 admitted to the Intensive Care Unit of the Anchorena San Martín Clinic, San&#xD;
+      Martín, Buenos Aires.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Actual">January 31, 2021</completion_date>
+  <primary_completion_date type="Actual">December 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of health care associated infections in each group.</measure>
+    <time_frame>March to December 2020</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The most frequent pathogens in this population associated with Incidence of health care associated infections.</measure>
+    <time_frame>March to December 2020</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Possible factors associated with Incidence of health care associated infections.</measure>
+    <time_frame>March to December 2020</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>mortality in UCI</measure>
+    <time_frame>March to December 2020</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days of ICU stay</measure>
+    <time_frame>March to December 2020</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days of mechanical ventilation</measure>
+    <time_frame>March to December 2020</time_frame>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">252</enrollment>
+  <condition>Respiration, Artificial</condition>
+  <condition>COVID-19</condition>
+  <condition>Health Care Associated Infection</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 patients</arm_group_label>
+    <description>Patients with invasive mechanical ventilation admitted to the Intensive Care Unit (UCI) of the Anchorena San Martín Clinic, San Martín, Buenos Aires with confirmed COVID-19 diagnosis (positive polymerase chain reaction in nasopharyngeal swab).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>non COVID-19 patients</arm_group_label>
+    <description>Patients with invasive mechanical ventilation admitted to the Intensive Care Unit (UCI) of the Anchorena San Martín Clinic, San Martín, Buenos Aires with negative COVID-19 diagnosis (positive polymerase chain reaction in nasopharyngeal swab).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID-19</intervention_name>
+    <description>Impact of covid-19 on infections associated with health care devices.</description>
+    <arm_group_label>COVID-19 patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients admitted to ICU who required invasive mechanical ventilation during the COVID-19&#xD;
+        pandemic from March to December 2020.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All patients older than 18 years admitted to the intensive care unit of the Anchorena&#xD;
+             San Martín Clinic who required invasive mechanical ventilation for more than 24 hours&#xD;
+             in a period between March 2020 and December 2020 were included in the analysis.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  All patients who presented incomplete data in the follow-up sheets were excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>matias accoce</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>SAnchorena San Martin</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Sanatorio Anchorena de San Martin</name>
+      <address>
+        <city>San Martín</city>
+        <state>Buenos Aires</state>
+        <zip>B1650CQU</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+  </location_countries>
+  <results_reference>
+    <citation>Tufan A, Avanoğlu Güler A, Matucci-Cerinic M. COVID-19, immune system response, hyperinflammation and repurposing antirheumatic drugs. Turk J Med Sci. 2020 Apr 21;50(SI-1):620-632. doi: 10.3906/sag-2004-168. Review.</citation>
+    <PMID>32299202</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ripa M, Galli L, Poli A, Oltolini C, Spagnuolo V, Mastrangelo A, Muccini C, Monti G, De Luca G, Landoni G, Dagna L, Clementi M, Rovere Querini P, Ciceri F, Tresoldi M, Lazzarin A, Zangrillo A, Scarpellini P, Castagna A; COVID-BioB study group. Secondary infections in patients hospitalized with COVID-19: incidence and predictive factors. Clin Microbiol Infect. 2021 Mar;27(3):451-457. doi: 10.1016/j.cmi.2020.10.021. Epub 2020 Oct 24.</citation>
+    <PMID>33223114</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bellani G, Laffey JG, Pham T, Fan E, Brochard L, Esteban A, Gattinoni L, van Haren F, Larsson A, McAuley DF, Ranieri M, Rubenfeld G, Thompson BT, Wrigge H, Slutsky AS, Pesenti A; LUNG SAFE Investigators; ESICM Trials Group. Epidemiology, Patterns of Care, and Mortality for Patients With Acute Respiratory Distress Syndrome in Intensive Care Units in 50 Countries. JAMA. 2016 Feb 23;315(8):788-800. doi: 10.1001/jama.2016.0291. Erratum in: JAMA. 2016 Jul 19;316(3):350. JAMA. 2016 Jul 19;316(3):350.</citation>
+    <PMID>26903337</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kalanuria AA, Ziai W, Mirski M. Ventilator-associated pneumonia in the ICU. Crit Care. 2014 Mar 18;18(2):208. doi: 10.1186/cc13775. Review. Erratum in: Crit Care. 2016;20:29. Zai, Wendy [corrected to Ziai, Wendy].</citation>
+    <PMID>25029020</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Rouzé A, Nseir S. Continuous control of tracheal cuff pressure for the prevention of ventilator-associated pneumonia in critically ill patients: where is the evidence? Curr Opin Crit Care. 2013 Oct;19(5):440-7. doi: 10.1097/MCC.0b013e3283636b71. Review.</citation>
+    <PMID>23856895</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Duszyńska W, Rosenthal VD, Szczęsny A, Woźnica E, Ulfik K, Ostrowska E, Litwin A, Kübler A. Urinary tract infections in intensive care unit patients - a single-centre, 3-year observational study according to the INICC project. Anaesthesiol Intensive Ther. 2016;48(1):1-6. doi: 10.5603/AIT.2016.0001.</citation>
+    <PMID>26966105</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Rosenthal VD, Dwivedy A, Calderón ME, Esen S, Hernández HT, Abouqal R, Medeiros EA, Espinoza TA, Kanj SS, Gikas A, Barnett AG, Graves N; International Nosocomial Infection Control Consortium (INICC) Members. Time-dependent analysis of length of stay and mortality due to urinary tract infections in ten developing countries: INICC findings. J Infect. 2011 Feb;62(2):136-41. doi: 10.1016/j.jinf.2010.12.004. Epub 2010 Dec 17.</citation>
+    <PMID>21168440</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Rouzé A, Martin-Loeches I, Povoa P, Makris D, Artigas A, Bouchereau M, Lambiotte F, Metzelard M, Cuchet P, Boulle Geronimi C, Labruyere M, Tamion F, Nyunga M, Luyt CE, Labreuche J, Pouly O, Bardin J, Saade A, Asfar P, Baudel JL, Beurton A, Garot D, Ioannidou I, Kreitmann L, Llitjos JF, Magira E, Mégarbane B, Meguerditchian D, Moglia E, Mekontso-Dessap A, Reignier J, Turpin M, Pierre A, Plantefeve G, Vinsonneau C, Floch PE, Weiss N, Ceccato A, Torres A, Duhamel A, Nseir S; coVAPid study Group. Relationship between SARS-CoV-2 infection and the incidence of ventilator-associated lower respiratory tract infections: a European multicenter cohort study. Intensive Care Med. 2021 Feb;47(2):188-198. doi: 10.1007/s00134-020-06323-9. Epub 2021 Jan 3.</citation>
+    <PMID>33388794</PMID>
+  </results_reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 26, 2021</study_first_posted>
+  <last_update_submitted>March 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sanatorio Anchorena San Martin</investigator_affiliation>
+    <investigator_full_name>Matias Accoce</investigator_full_name>
+    <investigator_title>RT</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Cross Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

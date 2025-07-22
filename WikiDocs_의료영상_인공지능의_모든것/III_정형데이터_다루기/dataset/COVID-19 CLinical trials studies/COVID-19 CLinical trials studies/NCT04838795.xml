@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1526">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04838795</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Sisonke (Together): OPEN LABEL</org_study_id>
+    <nct_id>NCT04838795</nct_id>
+  </id_info>
+  <brief_title>Sisonke (Together): OPEN LABEL TRIAL COVID-19</brief_title>
+  <acronym>Sisonke</acronym>
+  <official_title>Open-label, Single-arm Phase 3B Implementation Study to Monitor the Effectiveness of the Single-dose Ad26.COV2.S COVID-19 Vaccine Among Health Care Workers in South Africa (VAC31518COV3012)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wits Health Consortium (Pty) Ltd</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Department of Health of South Africa</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute for Communicable Diseases, South Africa</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>KwaZulu-Natal Research Innovation and Sequencing Platform - KRISP</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fred Hutchinson Cancer Research Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hutchinson Center Research Institute of South Africa (HCRISA)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Janssen Vaccines &amp; Prevention B.V.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Bio Analytical Research Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Dis-Chem Pharmacy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Wits Health Consortium (Pty) Ltd</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To monitor the effectiveness of the single-dose Ad26.COV2.S COVID-19 vaccine among health&#xD;
+      care workers (HCW) in South Africa&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Purpose To monitor the effectiveness of the single dose Ad26.COV2.S COVID-19 vaccine among&#xD;
+      health care workers (HCW) as compared to the general unvaccinated population in South Africa&#xD;
+&#xD;
+      Study design Open-label, single-arm phase 3B vaccine implementation study&#xD;
+&#xD;
+      Rationale South Africa is severely affected by the global COVID-19 epidemic, but currently no&#xD;
+      vaccine has been rolled out. The recent promising results of the 'ENSEMBLE' trial conducted&#xD;
+      by Janssen in South Africa, and the availability of a limited amount of vaccine doses,&#xD;
+      provide the rationale for a cohort study of vaccinated HCWs to inform the larger vaccine&#xD;
+      rollout.&#xD;
+&#xD;
+      Study participants Health Care workers age 18 and above working in the South African public&#xD;
+      and private health care sector (N=500 000) Study sites Department of Health Vaccine&#xD;
+      administration sites across South Africa supported by the Sisonke (Together)&#xD;
+      (VAC31518COV3012) trial Research Site Investigators and Study Staff&#xD;
+&#xD;
+      Study duration Participants will receive a single dose of vaccine at enrolment; to monitor&#xD;
+      outcomes the DATCOV surveillance system and NICD line list will be reviewed for up to 2 years&#xD;
+      post-vaccination.&#xD;
+&#xD;
+      A sub-cohort will be followed up at Months 3 and Month 6. This group will also have outcomes&#xD;
+      monitored for up to a further 18 months, bringing their total follow-up duration to 2 years&#xD;
+      post-vaccination.&#xD;
+&#xD;
+      Study products Ad26.COV2.S by Janssen administered as a single injection&#xD;
+&#xD;
+      Primary objectives • To assess the effectiveness of Ad26.COV2.S vaccine on severe COVID,&#xD;
+      hospitalizations and deaths in HCWs as compared with the general unvaccinated population in&#xD;
+      South Africa.&#xD;
+&#xD;
+      Secondary objectives • To estimate the incidence of symptomatic SARS CoV-2 infections in HCW&#xD;
+&#xD;
+        -  To estimate vaccine uptake among HCWs in South Africa&#xD;
+&#xD;
+        -  To monitor the genetic diversity of breakthrough SARS CoV-2 infections&#xD;
+&#xD;
+        -  In a subgroup of participants:&#xD;
+&#xD;
+             -  To compare serum neutralization and immune responses before and after vaccination&#xD;
+&#xD;
+             -  To monitor for asymptomatic infection Exploratory objectives • To establish a link&#xD;
+                between the national pharmacovigilance system to assist with monitoring safety and&#xD;
+                any unexpected adverse effects&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 18, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Open-label, single-arm phase 3B vaccine implementation study</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of severe COVID, hospitalizations and deaths in HCWs as compared with the general unvaccinated population in South Africa</measure>
+    <time_frame>24 Months</time_frame>
+    <description>Rates of hospitalizations and deaths among vaccinated HCWs versus general unvaccinated population</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The number of symptomatic SARSCoV-2 infections among vaccinated HCWs</measure>
+    <time_frame>24 Months</time_frame>
+    <description>Incidence rate of SARS CoV-2 infection as indicated by self-report and validation in national laboratory records.&#xD;
+Rates of severe disease in HCW who are found to be RT-PCR positive at anytime up to 2 years post vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The measure of genetic diversity of breakthrough SARSCoV-2 infections</measure>
+    <time_frame>24 months</time_frame>
+    <description>Genetic diversity of breakthrough infection virus as determined by whole genome sequencing. This will be recovered from national laboratories.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Monitoring for asymptomatic infection in a sub-set (10 000) of HCWs</measure>
+    <time_frame>24 Months</time_frame>
+    <description>Rates of asymptomatic infection at baseline and follow up using SARS CoV-2 virus and antibody testing.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Monitor for safety and any unexpected adverse effects of the vaccine administration -pharmacovigilance</measure>
+    <time_frame>24 Months</time_frame>
+    <description>Conduct Pharmacovigilance to monitor for safety and adverse events Numbers of safety events and/or unexpected adverse effects reported to the study team Monitor pregnancies and pregnancy outcomes reported to safety desk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The vaccine uptake among HCWs in South Africa</measure>
+    <time_frame>12 Months</time_frame>
+    <description>Proportion of HCWs approached for study participation taking part in the study and receiving the vaccine</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">500000</enrollment>
+  <condition>SARS (Severe Acute Respiratory Syndrome)</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>To monitor the effectiveness of the single dose Ad26.COV2.S COVID-19 vaccine</intervention_name>
+    <description>To monitor the effectiveness of the single dose Ad26.COV2.S COVID-19 vaccine among health care workers (HCW) as compared to the general unvaccinated population in South Africa</description>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria&#xD;
+&#xD;
+          -  Age 18 and older&#xD;
+&#xD;
+          -  Health care worker in the private or public service&#xD;
+&#xD;
+          -  The President and Deputy President of South Africa*&#xD;
+&#xD;
+          -  Willingness and ability to comply vaccination plan and other study procedures.&#xD;
+&#xD;
+          -  Capable of giving electronic or personal signed informed consent as described in&#xD;
+             Appendix 5, which includes compliance with the requirements in this protocol.&#xD;
+&#xD;
+        Inclusion criteria for the sub-cohort&#xD;
+&#xD;
+          -  Age 18 and older&#xD;
+&#xD;
+          -  Health care worker in the private or public service&#xD;
+&#xD;
+          -  Willingness and ability to comply with all scheduled visits, vaccination plan,&#xD;
+             laboratory tests, and other study procedures, with follow-up at an ENSEMBLE site.&#xD;
+&#xD;
+          -  Capable of giving electronic or personal signed informed consent as described in&#xD;
+             Appendix 5, which includes compliance with the requirements in this protocol.&#xD;
+&#xD;
+        Exclusion criteria&#xD;
+&#xD;
+          -  Any significant acute or chronic medical condition, situation or circumstance that in&#xD;
+             the opinion of the PI/designee makes the participant unsuitable for participation in&#xD;
+             the study, or jeopardises the safety or rights of the participant&#xD;
+&#xD;
+          -  Participant reports being being pregnant at time of enrolment or planning within 3&#xD;
+             months.&#xD;
+&#xD;
+          -  Current participation in any other research studies that would interfere with the&#xD;
+             objectives of this study. The determination of whether participation in another study&#xD;
+             would be exclusionary for a given participant will be made by the PI/designee&#xD;
+&#xD;
+          -  History of severe adverse reaction associated with a vaccine and/or severe allergic&#xD;
+             reaction (e.g., anaphylaxis) to any component of the vaccine.&#xD;
+&#xD;
+               -  The President and Deputy President of South Africa have been included in the&#xD;
+                  protocol to address the issue of vaccine hesitancy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>105 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Glenda E Gray, MBChB</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Non-Executive Director</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ravindre Panchia, MBChB</last_name>
+    <phone>0119890700</phone>
+    <email>panchiar@phru.co.za</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Fatima Mayat, BPharm</last_name>
+    <phone>0119899798</phone>
+    <email>mayatf@phru.co.za</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Nelson Mandela Academic Clinical Research Unit (NeMACRU)</name>
+      <address>
+        <city>Mthatha</city>
+        <state>Eastern Cape</state>
+        <zip>5100</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dube Thozama, MBBCH</last_name>
+    </contact>
+    <investigator>
+      <last_name>Thozama Dube, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>PHOENIX Pharma Pty Ltd</name>
+      <address>
+        <city>Port Elizabeth</city>
+        <state>Eastern Cape</state>
+        <zip>6001</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel R Dr Malan, MBCHB</last_name>
+      <phone>+27 41 373 3832</phone>
+      <email>iel.malan@phoenixpharma.co.za</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel R Malan, MbCHB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Josha Research</name>
+      <address>
+        <city>Bloemfontein</city>
+        <state>Free State</state>
+        <zip>9300</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Johannes J Lombaard, MBBCH</last_name>
+      <phone>+27(0) 514 128 160</phone>
+    </contact>
+    <investigator>
+      <last_name>Johannes j Lombaard, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Aurum Institute: Tembisa Clinical Research Centre</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng - South</state>
+        <zip>1632</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kathryn T Mngadi, MBBCH</last_name>
+      <phone>+27(0) 60 503 1870</phone>
+      <email>kmngadi@auruminstitute.org</email>
+    </contact>
+    <investigator>
+      <last_name>Kathryn Mngadi, mbbch</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Perinatal HIV Research Unit Kliptown</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng - South</state>
+        <zip>1809</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Erica m Lazarus, MBBCh</last_name>
+      <phone>27(0) 11 342 4075</phone>
+      <email>lazaruse@phru.co.za</email>
+    </contact>
+    <contact_backup>
+      <last_name>Anusha Nana, BPharm</last_name>
+      <phone>27(0) 11 342 4075</phone>
+      <email>nanaa@phru.co.za</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Erica lazarus, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CRISMO Research Centre, Dr Bhekithemba</name>
+      <address>
+        <city>Germiston</city>
+        <state>Gauteng</state>
+        <zip>1401</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mamba B Musawenkosi</last_name>
+      <phone>+27(0) 11 038 6814</phone>
+    </contact>
+    <investigator>
+      <last_name>Mamba B Musawenkosi, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Perinatal HIV Research Unit (PHRU), SOWETO</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>1862</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fatima Laher, MBBCH</last_name>
+      <phone>+27(0) 11 989 9720</phone>
+      <email>laherf@phru.co.za</email>
+    </contact>
+    <investigator>
+      <last_name>Fatima Laher, MBCHB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wits RHI: Shandukani Research Centre</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>2001</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fairlie Lee, MBBCH</last_name>
+      <email>lfairlie@wrhi.ac.za</email>
+    </contact>
+    <investigator>
+      <last_name>Lee Fairlie, mbbch</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Themba Lethu HIV Research Unit (CHRU), Dr</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sharlaa Badal-Faesen</last_name>
+      <phone>+27(0) 11 276 8800</phone>
+      <email>sfaesen@witshealth.co.za</email>
+    </contact>
+    <investigator>
+      <last_name>Sharlaa Badal-Faesen, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus SA - Stanza Clinical Research Centre</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <zip>0122</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sheena Kotze</last_name>
+      <phone>+27(0) 12 942 7357</phone>
+      <email>sheena.kotze@synexus.com</email>
+    </contact>
+    <investigator>
+      <last_name>Sheena Kotze, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Setshaba Research Centre,</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <zip>0152</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mookho m Malahleha, MBBCH</last_name>
+      <phone>27(0) 12 799 2422</phone>
+      <email>MMalahleha@setshaba.org.za</email>
+    </contact>
+    <investigator>
+      <last_name>Mookho Malahleha, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Watermeyer Clinical Research Centre,</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <zip>0184</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elane van Nieuwenhuizen, MBBCH</last_name>
+      <phone>+27(0) 12 803 7733</phone>
+      <email>elane.vannieuwenhuizen@synexus.com</email>
+    </contact>
+    <investigator>
+      <last_name>Elane van Nieuwenhuizen, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ndlovu Research Centre</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rebone Maboa, MBBCH</last_name>
+      <phone>+2713 9838700</phone>
+    </contact>
+    <investigator>
+      <last_name>Rebone Maboa, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Botha's Hill Clinical Research Site</name>
+      <address>
+        <city>Bothas Hill</city>
+        <state>KWA ZULU Natal</state>
+        <zip>3660</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mammekwa M Mokgoro, MBCHB</last_name>
+      <phone>+27(0) 31 777 1585</phone>
+      <email>mammekwa.mokgoro@mrc.ac.za</email>
+    </contact>
+    <investigator>
+      <last_name>Mammekwa M Mokgoro, MBCHB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CAPRISA eThekwini Clinical Research Site, Dr</name>
+      <address>
+        <city>Durban</city>
+        <state>KWA ZULU Natal</state>
+        <zip>4001</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nivashnee Naicker</last_name>
+      <phone>+27(0) 31 655 0618</phone>
+      <email>Nivashnee.naicker@caprisa.org</email>
+    </contact>
+    <investigator>
+      <last_name>Nivashnee Naicker, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chatsworth Clinical Research Site</name>
+      <address>
+        <city>Durban</city>
+        <state>Kwa Zulu Natal</state>
+        <zip>4030</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Logashvari Naidoo, MBBCH</last_name>
+      <phone>27(0) 31 401 4150</phone>
+    </contact>
+    <contact_backup>
+      <email>logashvari.naidoo@mrc.ac.za</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Logashvari Naidoo, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CAPRISA Vulindlela Clinical Research Site, Dr</name>
+      <address>
+        <city>Durban</city>
+        <state>KWA ZULU Natal</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Disebo Makhaza, MBCHB</last_name>
+      <phone>+27(0) 31 655 0687</phone>
+      <email>disebo.makhaza@caprisa.org</email>
+    </contact>
+    <investigator>
+      <last_name>Disebo Makhaza, MBCHB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Qhakaza Mbokodo Research Clinic</name>
+      <address>
+        <city>Ladysmith</city>
+        <state>KWA ZULU Natal</state>
+        <zip>3370</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Philippus L Kotze, MBBCH</last_name>
+      <phone>27(0) 36 631 2372</phone>
+      <email>plkotze@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Philippus L Kotze, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tongaat Clinical Research Site, Dr</name>
+      <address>
+        <city>Tongaat</city>
+        <state>Kwa Zulu Natal</state>
+        <zip>4400</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vimla Naicker, MBCHB</last_name>
+      <phone>+27(0) 32 944 2208</phone>
+      <email>vimla.naicker@mrc.ac.za</email>
+    </contact>
+    <investigator>
+      <last_name>Vimla Naicker, MBCHB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mzansi Ethical Research Centre</name>
+      <address>
+        <city>Middleburg</city>
+        <state>Mpumalanga</state>
+        <zip>1050</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Friedrich Petrick, MBBCH</last_name>
+      <phone>(013) 282 5218</phone>
+    </contact>
+    <investigator>
+      <last_name>Friedrich Petrich, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Aurum Institute Klerksdorp Clinical Research Centre</name>
+      <address>
+        <city>Klerksdorp</city>
+        <state>North WEST Province</state>
+        <zip>2571</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>James C Innes, MBBCH</last_name>
+      <phone>+27(0) 87 135 1616</phone>
+      <email>cinnes@auruminstitute.org</email>
+    </contact>
+    <investigator>
+      <last_name>James C Innes, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>FAMCRU (Family Clinical Research Unit),</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7505</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shaun L Barnabas, MBBCH</last_name>
+      <phone>27(0) 21 938 4292</phone>
+      <email>barnabas@sun.ac.za</email>
+    </contact>
+    <investigator>
+      <last_name>S L Barnabas, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>TASK Central</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7530</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ramonde F Patientia, MBChB,</last_name>
+    </contact>
+    <investigator>
+      <last_name>Ramonde Patienta, MBChB,</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>TASK Clinical Research Centre</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7530</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ramonde f Patientia, MBBCH</last_name>
+      <phone>+27 21 917 1044</phone>
+      <email>dr.ramonde@task.org.za</email>
+    </contact>
+    <investigator>
+      <last_name>Ramonde f Patientia, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Emavundleni Research Centre</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western CAPE</state>
+        <zip>7781</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gonasgrie Nair</last_name>
+      <phone>+27(0) 21 650 5851</phone>
+      <email>lulu.nair@hiv-reserach.org.za</email>
+    </contact>
+    <investigator>
+      <last_name>Gonasgrie Nair, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Khayelitsha CRS, Dr Amy Ward / Dr Graeme Meintjes</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western CAPE</state>
+        <zip>7784</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amy Ward, MBCHB</last_name>
+      <phone>27(0) 21 650 5530</phone>
+      <email>amyward41@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Graeme Meintjes, MBCHB</last_name>
+      <phone>+21 406 6075</phone>
+      <email>graemein@mweb.co.za</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Amy Ward, MBCHB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Desmond Tutu Health Foundation CTU J52 Old Main Building Groote SchuurHospital</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7925</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Catherine Orrell, MBCHB</last_name>
+      <phone>+27(0) 21 406 6958</phone>
+      <email>Catherine.Orrell@hiv-research.org.za</email>
+    </contact>
+    <investigator>
+      <last_name>Catherine Orrell, MBChB,</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Helderberg Clinical Research Centre, Dr Vera</name>
+      <address>
+        <city>Somerset West</city>
+        <state>Western CAPE</state>
+        <zip>7130</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dorothea V Urbach, MBBCH</last_name>
+      <phone>+27(0) 21 850 1039</phone>
+      <email>dorothea.urbach@svnexus.com</email>
+    </contact>
+    <investigator>
+      <last_name>Dorothea V Urbach, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>South African Vaccine Initiative (SATVI), Dr Angelique Kany Kany</name>
+      <address>
+        <city>Worcester</city>
+        <state>Western Cape</state>
+        <zip>6850</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Angelique KK Luabeya</last_name>
+      <phone>+27(0) 23 346 5400</phone>
+      <email>Angelique.luabeya@uct.ac.za</email>
+    </contact>
+    <investigator>
+      <last_name>Angelique KK Luabeya, MBCHB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Desmond Tutu Health Foundation - Masiphumelele Research Office</name>
+      <address>
+        <city>Cape Town</city>
+        <zip>7975</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katherine M Gill, MBBCH</last_name>
+      <phone>+27(0) 21 785 3121</phone>
+      <email>katherine.gill@hiv-research.org.za</email>
+    </contact>
+    <investigator>
+      <last_name>KATHERINE M Gill, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Aurum Institute: Rustenburg Clinical Research Centre, Dr Lawrence</name>
+      <address>
+        <city>Rustenburg</city>
+        <zip>0299</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William L Brumskine, MBBCH</last_name>
+      <phone>+27(0) 87 135 1575</phone>
+    </contact>
+    <investigator>
+      <last_name>William L Brumskine, MBBCH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>South Africa</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>February 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 9, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Wits Health Consortium (Pty) Ltd</investigator_affiliation>
+    <investigator_full_name>Fatima Mayat</investigator_full_name>
+    <investigator_title>Implementation &amp; Oversight Support</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

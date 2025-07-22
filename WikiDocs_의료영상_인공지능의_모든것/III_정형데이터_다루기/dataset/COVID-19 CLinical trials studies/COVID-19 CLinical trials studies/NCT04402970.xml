@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4880">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04402970</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022206</org_study_id>
+    <nct_id>NCT04402970</nct_id>
+  </id_info>
+  <brief_title>Dornase Alfa for ARDS in Patients With Severe Acute Respiratory Syndrome-Coronavirus-2 (SARS-CoV-2)</brief_title>
+  <acronym>DORNASESARS2</acronym>
+  <official_title>Inhaled Dornase Alfa for Treatment of ARDS in Patients With SARS-CoV-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Missouri-Columbia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Missouri-Columbia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to evaluate a potential mechanism by which a hyperactive immune&#xD;
+      response may contribute to death from SARS-CoV-2; by an excessive neutrophil-mediated&#xD;
+      deposition of cell-free DNA in neutrophil extracellular traps (NET). Excessive amounts of&#xD;
+      NETs can increase rigidity of mucus, clog airways, and be agents for the development of acute&#xD;
+      respiratory distress (Narasaraju et al., Am J Pathol. 2011). Many aspects of this pathway&#xD;
+      have been observed in severe SARS-CoV-2 (Zhang et al., Respiratory research. 2020). Dornase&#xD;
+      alfa (DNAse I; Pulmozyme (Genentech) is a nebulized drug that works by degrading cell-free&#xD;
+      DNA and thus promoting airway clearance and recovery. The investigators hypothesize that by&#xD;
+      thinning mucus and degrading these NETs further lung damage may be prevented and a reduction&#xD;
+      in time to recovery may occur. The two aims of the study are to see if inhaled/nebulized&#xD;
+      dornase alfa will improve clinical outcome measures in SARS-CoV-2 related acute respiratory&#xD;
+      distress syndrome (ARDS) and to see if dornase alfa reduces the amount of bronchoalveolar&#xD;
+      lavage and blood markers of NET activity.&#xD;
+&#xD;
+      The study will recruit patients who are on mechanical ventilation for respiratory failure&#xD;
+      related to SARS-CoV-2 positive infection and have ARDS based upon Berlin criteria.&#xD;
+&#xD;
+      The investigators aim to recruit 10-20 patients for this study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Severe cases of SARS-CoV-2 infection have shown an inflammatory neutrophil and mucus-mediated&#xD;
+      airway exclusion pathway similar to previously described acute respiratory distress syndrome&#xD;
+      (ARDS) in other viral syndromes (Narasaraju et al., Am J Pathol. 2011). Lung neutrophilia in&#xD;
+      ARDS is related to significant neutrophil extracellular trap (NET) production and formation.&#xD;
+      Thus, NET production is likely contributing to the severe lung pathology in SARS-CoV-2 (Yu&#xD;
+      Zuo et al. Journal of Clinical Investigation Insight. 2020). Recent connections have been&#xD;
+      made between NET formation in SARS-CoV-2 patients and excessive thrombosis and the&#xD;
+      development of cytokine storm further warranting evaluation as a potential site for&#xD;
+      consideration of treatment (Barnes, Betsy et al. J exp Med. 2020). Dornase alfa (Pulmozyme)&#xD;
+      is a recombinant human deoxyribonuclease I, that acts as a mucolytic by cleaving&#xD;
+      extracellular chromosomal DNA from NETs and other cell-free DNA. Unknown are the effects of&#xD;
+      dornase alfa therapy on SARS-CoV-2 related ARDS and if therapy with dornase alfa truly&#xD;
+      reduces the amount of NETs in the severely damaged lungs.&#xD;
+&#xD;
+      This study is a non-randomized, single-center, open-label clinical trial to evaluate the&#xD;
+      potential benefit and cellular mechanism of nebulized dornase alfa administration in&#xD;
+      mechanically ventilated patients with SARS-CoV-2 related ARDS. Evaluation of dornase alfa&#xD;
+      effects at a cellular level will be measured by analysis of blood samples before and after&#xD;
+      the 3 days of therapy for cell-free DNA, quantification of citrullinated histone H3,&#xD;
+      quantification of Myeloperoxidase-DNA complexes and analysis of bronchoalveolar lavage&#xD;
+      samples for quantification of NETs and cell count and differential.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 19, 2020</start_date>
+  <completion_date type="Actual">December 31, 2020</completion_date>
+  <primary_completion_date type="Actual">December 31, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Nebulized dornase alfa will be administered through the ventilator circuit at a dose of 2.5 mg, 12 hours apart, for 3 consecutive days. Patients will also receive lung protective ventilation (VC 6-8 ml/kg predicted body weight), plateau pressure &lt; 30 centimeters of water pressure (cmH2O), targeted driving pressure &lt; 15, neuromuscular blockade if indicated, and prone positioning based upon arterial blood content to fraction of inspired oxygen ratio (PaO2/FiO2) &lt; 150 or upon treating physician decision; along with all other ICU care based upon best practice standards and evidence based medicine.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Arterial Blood Oxygen Content to Fraction of Inspired Oxygen Ratio (PaO2/FiO2)</measure>
+    <time_frame>14 days</time_frame>
+    <description>Daily evaluation of PaO2/FiO2 ratio at baseline prior to starting therapy and on days 1,2,3,4,5 and 14 if applicable</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Static Lung Compliance</measure>
+    <time_frame>14 days</time_frame>
+    <description>Daily evaluation of static lung compliance, measured by change in driving pressure over volume delivered, at baseline prior to starting therapy and on days 1,2,3,4,5 and 14 if applicable</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Mechanical Ventilation</measure>
+    <time_frame>From start of mechanical ventilation until extubation or date of death from any cause, whichever came first, assessed up to 6 months</time_frame>
+    <description>Number of days on mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of ICU Stay</measure>
+    <time_frame>From date of first admission to intensive care unit until discharge/transfer out of the ICU or date of death from any cause, whichever came first, assessed up to 6 months</time_frame>
+    <description>Number of days in the medical intensive care unit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of Hospitalization</measure>
+    <time_frame>From date of hospital admission until discharge from acute care hospital or date of death from any cause, whichever came first, assessed up to 6 months</time_frame>
+    <description>Number of days as an inpatient at the University of Missouri</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Secondary Bacterial Infections</measure>
+    <time_frame>From date of randomization until first positive culture or clinical diagnosis of infection if occurs, assessed up to 3 months</time_frame>
+    <description>Determination of secondary bacterial infections based upon positive culture results and clinical diagnosis by treating physician.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>28 and 90 day evaluation</time_frame>
+    <description>All cause mortality</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>SARS-CoV 2</condition>
+  <condition>ARDS</condition>
+  <arm_group>
+    <arm_group_label>Inhaled/nebulized dornase alfa</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patient to receive inhaled/nebulized dornase alfa (Pulmozyme) 2.5 mg twice daily in the ventilator circuit for 3 days, along with standard of care for ARDS.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard of care provided for ARDS.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dornase Alfa Inhalation Solution</intervention_name>
+    <description>Nebulized dornase alfa</description>
+    <arm_group_label>Inhaled/nebulized dornase alfa</arm_group_label>
+    <other_name>Pulmozyme</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt; 18 years&#xD;
+&#xD;
+          -  Hospitalized and mechanically ventilated for illness related to SARS-CoV-2&#xD;
+&#xD;
+          -  Confirmed positive SARS-CoV-2 infection by Polymerase chain reaction (PCR)&#xD;
+&#xD;
+          -  individual or surrogate ability to sign informed consent&#xD;
+&#xD;
+          -  negative, urine-based pregnancy test in females&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  contraindication or intolerance to dornase alfa&#xD;
+&#xD;
+          -  mechanical ventilation expected to be less than 48 hours&#xD;
+&#xD;
+          -  life expectancy less than 24 hours based upon judgement of treating physician&#xD;
+&#xD;
+          -  pregnant&#xD;
+&#xD;
+          -  inability to obtain informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zachary M Holliday, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Missouri-Columbia</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Adam Schrum, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Missouri-Columbia</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Missouri Hospital and Clinics</name>
+      <address>
+        <city>Columbia</city>
+        <state>Missouri</state>
+        <zip>65212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Barnes BJ, Adrover JM, Baxter-Stoltzfus A, Borczuk A, Cools-Lartigue J, Crawford JM, Daßler-Plenker J, Guerci P, Huynh C, Knight JS, Loda M, Looney MR, McAllister F, Rayes R, Renaud S, Rousseau S, Salvatore S, Schwartz RE, Spicer JD, Yost CC, Weber A, Zuo Y, Egeblad M. Targeting potential drivers of COVID-19: Neutrophil extracellular traps. J Exp Med. 2020 Jun 1;217(6). pii: e20200652. doi: 10.1084/jem.20200652.</citation>
+    <PMID>32302401</PMID>
+  </reference>
+  <reference>
+    <citation>Narasaraju T, Yang E, Samy RP, Ng HH, Poh WP, Liew AA, Phoon MC, van Rooijen N, Chow VT. Excessive neutrophils and neutrophil extracellular traps contribute to acute lung injury of influenza pneumonitis. Am J Pathol. 2011 Jul;179(1):199-210. doi: 10.1016/j.ajpath.2011.03.013. Epub 2011 May 7.</citation>
+    <PMID>21703402</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang G, Zhang J, Wang B, Zhu X, Wang Q, Qiu S. Analysis of clinical characteristics and laboratory findings of 95 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a retrospective analysis. Respir Res. 2020 Mar 26;21(1):74. doi: 10.1186/s12931-020-01338-8.</citation>
+    <PMID>32216803</PMID>
+  </reference>
+  <reference>
+    <citation>Earhart AP, Holliday ZM, Hofmann HV, Schrum AG. Consideration of dornase alfa for the treatment of severe COVID-19 acute respiratory distress syndrome. New Microbes New Infect. 2020 Apr 30;35:100689. doi: 10.1016/j.nmni.2020.100689. eCollection 2020 May.</citation>
+    <PMID>32355564</PMID>
+  </reference>
+  <reference>
+    <citation>Zuo Y, Yalavarthi S, Shi H, Gockman K, Zuo M, Madison JA, Blair C, Weber A, Barnes BJ, Egeblad M, Woods RJ, Kanthi Y, Knight JS. Neutrophil extracellular traps in COVID-19. JCI Insight. 2020 Jun 4;5(11). pii: 138999. doi: 10.1172/jci.insight.138999.</citation>
+    <PMID>32329756</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>May 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 27, 2020</study_first_posted>
+  <results_first_submitted>March 12, 2021</results_first_submitted>
+  <results_first_submitted_qc>April 12, 2021</results_first_submitted_qc>
+  <results_first_posted type="Estimate">April 14, 2021</results_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Missouri-Columbia</investigator_affiliation>
+    <investigator_full_name>Zach Holliday</investigator_full_name>
+    <investigator_title>Assistant Professor of Clinical Medicine</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 8, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/70/NCT04402970/Prot_SAP_002.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 30, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/70/NCT04402970/ICF_004.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Non-randomized 10 patients in inhaled dornase alfa arm and 20 patients in case-control (standard of care) arm</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Inhaled/Nebulized Dornase Alfa</title>
+          <description>Patient to receive inhaled/nebulized dornase alfa (Pulmozyme) 2.5 mg twice daily in the ventilator circuit for 3 days, along with standard of care for ARDS.&#xD;
+Dornase Alfa Inhalation Solution: Nebulized dornase alfa</description>
+        </group>
+        <group group_id="P2">
+          <title>Standard of Care</title>
+          <description>Standard of care provided for Acute Respiratory Distress Syndrome (ARDS)</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Inhaled/Nebulized Dornase Alfa</title>
+          <description>Patient to receive inhaled/nebulized dornase alfa (Pulmozyme) 2.5 mg twice daily in the ventilator circuit for 3 days, along with standard of care for ARDS.&#xD;
+Dornase Alfa Inhalation Solution: Nebulized dornase alfa</description>
+        </group>
+        <group group_id="B2">
+          <title>Standard of Care</title>
+          <description>Standard of care provided for ARDS.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="10"/>
+            <count group_id="B2" value="20"/>
+            <count group_id="B3" value="30"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="62" lower_limit="47" upper_limit="79"/>
+                    <measurement group_id="B2" value="58" lower_limit="24" upper_limit="84"/>
+                    <measurement group_id="B3" value="60" lower_limit="24" upper_limit="84"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>White, non-Hispanic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black or African American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hispanic or Latino</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Diabetes mellitus</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hypertension</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Coronary artery disease</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Chronic lung disease (COPD, asthma, ILD)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Obesity</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Remdesivir</title>
+          <description>Received Remdesivir as therapy for Coronavirus disease 2019 (COVID-19)</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Corticosteroids</title>
+          <description>Received oral or intravenous corticosteroids as therapy for COVID-19</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Antibiotics</title>
+          <description>Received oral or intravenous antibiotics during hospital admission</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Convalescent Plasma</title>
+          <description>Received Convalescent Plasma therapy for COVID-19</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Anticoagulation</title>
+          <description>Received therapeutic dosing of anticoagulation during hospital admission</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Paralytics</title>
+          <description>Received paralytics during hospital admission</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Prone positioning</title>
+          <description>Treatment included prone positioning during hospital admission</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Arterial Blood Oxygen Content to Fraction of Inspired Oxygen Ratio (PaO2/FiO2)</title>
+        <description>Daily evaluation of PaO2/FiO2 ratio at baseline prior to starting therapy and on days 1,2,3,4,5 and 14 if applicable</description>
+        <time_frame>14 days</time_frame>
+        <population>Number of patients still on mechanical ventilation and who underwent arterial blood gas monitoring to determine PaO2/FiO2 ratio</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Inhaled/Nebulized Dornase Alfa</title>
+            <description>Patient to receive inhaled/nebulized dornase alfa (Pulmozyme) 2.5 mg twice daily in the ventilator circuit for 3 days, along with standard of care for ARDS.&#xD;
+Dornase Alfa Inhalation Solution: Nebulized dornase alfa</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Standard of care provided for ARDS.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Arterial Blood Oxygen Content to Fraction of Inspired Oxygen Ratio (PaO2/FiO2)</title>
+          <description>Daily evaluation of PaO2/FiO2 ratio at baseline prior to starting therapy and on days 1,2,3,4,5 and 14 if applicable</description>
+          <population>Number of patients still on mechanical ventilation and who underwent arterial blood gas monitoring to determine PaO2/FiO2 ratio</population>
+          <units>mmHg</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10.7" lower_limit="-29.7" upper_limit="51.1"/>
+                    <measurement group_id="O2" value="21.4" lower_limit="-0.8" upper_limit="43.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="61.1" lower_limit="5.2" upper_limit="117"/>
+                    <measurement group_id="O2" value="11.8" lower_limit="-9.6" upper_limit="33.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.5" lower_limit="-21" upper_limit="68"/>
+                    <measurement group_id="O2" value="12.5" lower_limit="-9.7" upper_limit="34.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24.1" lower_limit="-21.8" upper_limit="70.1"/>
+                    <measurement group_id="O2" value="3.5" lower_limit="-24.8" upper_limit="31.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37.6" lower_limit="-35.9" upper_limit="111"/>
+                    <measurement group_id="O2" value="5" lower_limit="-28.8" upper_limit="38.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                    <count group_id="O2" value="11"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="55" lower_limit="-150.8" upper_limit="260.8"/>
+                    <measurement group_id="O2" value="-11.2" lower_limit="-92.6" upper_limit="70.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Static Lung Compliance</title>
+        <description>Daily evaluation of static lung compliance, measured by change in driving pressure over volume delivered, at baseline prior to starting therapy and on days 1,2,3,4,5 and 14 if applicable</description>
+        <time_frame>14 days</time_frame>
+        <population>Patients on mechanical ventilation with acute respiratory distress syndrome secondary to COVID-19</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Inhaled/Nebulized Dornase Alfa</title>
+            <description>Patient to receive inhaled/nebulized dornase alfa (Pulmozyme) 2.5 mg twice daily in the ventilator circuit for 3 days, along with standard of care for ARDS.&#xD;
+Dornase Alfa Inhalation Solution: Nebulized dornase alfa</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Standard of care provided for ARDS.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Static Lung Compliance</title>
+          <description>Daily evaluation of static lung compliance, measured by change in driving pressure over volume delivered, at baseline prior to starting therapy and on days 1,2,3,4,5 and 14 if applicable</description>
+          <population>Patients on mechanical ventilation with acute respiratory distress syndrome secondary to COVID-19</population>
+          <units>mL/cmH20</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.1" lower_limit="-1.7" upper_limit="7.9"/>
+                    <measurement group_id="O2" value="-0.1" lower_limit="-4.2" upper_limit="3.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="15"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4" lower_limit="-1" upper_limit="9"/>
+                    <measurement group_id="O2" value="-0.4" lower_limit="-3.1" upper_limit="2.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                    <count group_id="O2" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.3" lower_limit="-0.8" upper_limit="13.3"/>
+                    <measurement group_id="O2" value="-5.7" lower_limit="-9.8" upper_limit="-1.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                    <count group_id="O2" value="15"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4" lower_limit="-3.2" upper_limit="11.3"/>
+                    <measurement group_id="O2" value="-5.6" lower_limit="-9.4" upper_limit="-1.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                    <count group_id="O2" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.4" lower_limit="-1.8" upper_limit="16.6"/>
+                    <measurement group_id="O2" value="-4.8" lower_limit="-8.4" upper_limit="-1.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 14</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                    <count group_id="O2" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.8" lower_limit="-16.3" upper_limit="17.8"/>
+                    <measurement group_id="O2" value="-10.2" lower_limit="-17.9" upper_limit="-2.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Mechanical Ventilation</title>
+        <description>Number of days on mechanical ventilation</description>
+        <time_frame>From start of mechanical ventilation until extubation or date of death from any cause, whichever came first, assessed up to 6 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Inhaled/Nebulized Dornase Alfa</title>
+            <description>Patient to receive inhaled/nebulized dornase alfa (Pulmozyme) 2.5 mg twice daily in the ventilator circuit for 3 days, along with standard of care for ARDS.&#xD;
+Dornase Alfa Inhalation Solution: Nebulized dornase alfa</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Standard of care provided for ARDS.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Mechanical Ventilation</title>
+          <description>Number of days on mechanical ventilation</description>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15.2" lower_limit="5" upper_limit="29"/>
+                    <measurement group_id="O2" value="18.2" lower_limit="8" upper_limit="38"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Length of ICU Stay</title>
+        <description>Number of days in the medical intensive care unit</description>
+        <time_frame>From date of first admission to intensive care unit until discharge/transfer out of the ICU or date of death from any cause, whichever came first, assessed up to 6 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Inhaled/Nebulized Dornase Alfa</title>
+            <description>Patient to receive inhaled/nebulized dornase alfa (Pulmozyme) 2.5 mg twice daily in the ventilator circuit for 3 days, along with standard of care for ARDS.&#xD;
+Dornase Alfa Inhalation Solution: Nebulized dornase alfa</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Standard of care provided for ARDS.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Length of ICU Stay</title>
+          <description>Number of days in the medical intensive care unit</description>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16.5" lower_limit="7" upper_limit="30"/>
+                    <measurement group_id="O2" value="22.1" lower_limit="11" upper_limit="47"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Length of Hospitalization</title>
+        <description>Number of days as an inpatient at the University of Missouri</description>
+        <time_frame>From date of hospital admission until discharge from acute care hospital or date of death from any cause, whichever came first, assessed up to 6 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Inhaled/Nebulized Dornase Alfa</title>
+            <description>Patient to receive inhaled/nebulized dornase alfa (Pulmozyme) 2.5 mg twice daily in the ventilator circuit for 3 days, along with standard of care for ARDS.&#xD;
+Dornase Alfa Inhalation Solution: Nebulized dornase alfa</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Standard of care provided for ARDS.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Length of Hospitalization</title>
+          <description>Number of days as an inpatient at the University of Missouri</description>
+          <units>Days</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22.5" lower_limit="8" upper_limit="52"/>
+                    <measurement group_id="O2" value="28.7" lower_limit="15" upper_limit="60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Secondary Bacterial Infections</title>
+        <description>Determination of secondary bacterial infections based upon positive culture results and clinical diagnosis by treating physician.</description>
+        <time_frame>From date of randomization until first positive culture or clinical diagnosis of infection if occurs, assessed up to 3 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Inhaled/Nebulized Dornase Alfa</title>
+            <description>Patient to receive inhaled/nebulized dornase alfa (Pulmozyme) 2.5 mg twice daily in the ventilator circuit for 3 days, along with standard of care for ARDS.&#xD;
+Dornase Alfa Inhalation Solution: Nebulized dornase alfa</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Standard of care provided for ARDS.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Secondary Bacterial Infections</title>
+          <description>Determination of secondary bacterial infections based upon positive culture results and clinical diagnosis by treating physician.</description>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="30" lower_limit="-5" upper_limit="65"/>
+                    <measurement group_id="O2" value="25" lower_limit="4" upper_limit="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Mortality</title>
+        <description>All cause mortality</description>
+        <time_frame>28 and 90 day evaluation</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Inhaled/Nebulized Dornase Alfa</title>
+            <description>Patient to receive inhaled/nebulized dornase alfa (Pulmozyme) 2.5 mg twice daily in the ventilator circuit for 3 days, along with standard of care for ARDS.&#xD;
+Dornase Alfa Inhalation Solution: Nebulized dornase alfa</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Standard of care provided for ARDS.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mortality</title>
+          <description>All cause mortality</description>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>28 days</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="40" lower_limit="4" upper_limit="77"/>
+                    <measurement group_id="O2" value="45" lower_limit="21" upper_limit="69"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>90 days</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="40" lower_limit="4" upper_limit="77"/>
+                    <measurement group_id="O2" value="55" lower_limit="31" upper_limit="79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data was collected until end of hospitalization, death or up to 120 days whichever came first.</time_frame>
+      <desc>Secondary pulmonary infections after the start of mechanical ventilation was the main adverse event data collected. Additional adverse events collected included development of blood stream infections or escalation of oxygenation support by need of extracorporeal membrane oxygenation therapy.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Inhaled/Nebulized Dornase Alfa</title>
+          <description>Patient to receive inhaled/nebulized dornase alfa (Pulmozyme) 2.5 mg twice daily in the ventilator circuit for 3 days, along with standard of care for ARDS.&#xD;
+Dornase Alfa Inhalation Solution: Nebulized dornase alfa</description>
+        </group>
+        <group group_id="E2">
+          <title>Standard of Care</title>
+          <description>Standard of care provided for ARDS.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>SNOMED CT</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Bacteremia</sub_title>
+                <description>Development of blood stream infection after the start of mechanical ventilation</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Ventilator associated pneumonia</sub_title>
+                <description>Development of ventilator associated pneumonia as determined by treating clinical physician</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="10"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Venovenous extracorporeal membrane oxygenation</sub_title>
+                <description>Need for escalation of respiratory support to venovenous extracorporeal membrane oxygenation support</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>SNOMED CT</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Allergic reaction to drug</sub_title>
+                <description>Adverse reaction to inhaled dornase alfa including allergic reaction or acute need for escalation of oxygen therapy</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Study was performed in non-randomized trial as there were initial concerns for low recruitment and difficulty with randomization. Study was also not powered for most secondary outcome analyses as it was designed in a pilot/feasibility status to determine drug effects.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Zach Holliday</name_or_title>
+      <organization>University of Missouri</organization>
+      <phone>5738829072</phone>
+      <email>hollidayz@health.missouri.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

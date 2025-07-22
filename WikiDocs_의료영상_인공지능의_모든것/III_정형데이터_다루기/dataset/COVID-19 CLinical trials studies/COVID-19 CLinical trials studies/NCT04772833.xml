@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="711">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04772833</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NECROVID</org_study_id>
+    <nct_id>NCT04772833</nct_id>
+  </id_info>
+  <brief_title>Spanish Study to Analyze the Histopathological, Ultrastructural and Microbiological Findings Obtained in Autopsies of Patients Who Died Due to COVID-19</brief_title>
+  <official_title>Observational, Multicenter, Cross-sectional Study at National Level to Analyze the Histopathological, Ultrastructural and Microbiological Findings Obtained in Autopsies of Patients Who Died Due to COVID-19 in Spain</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Maimónides Biomedical Research Institute of Córdoba</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Spanish Society of Infectious Diseases and Clinical Microbiology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Spanish Society of Pathological Anatomy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Maimónides Biomedical Research Institute of Córdoba</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is prospectively analyzing the histopathological, ultrastructural and&#xD;
+      microbiological findings from autopsies performed on patients with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The aim of this study is to increase the knowledge of the pathogenic mechanisms of the&#xD;
+      COVID-19 disease, that will allow us to improve the design of clinical and therapeutic&#xD;
+      strategies against the disease. This is the tool to improve the prognosis of patients with&#xD;
+      COVID-19.&#xD;
+&#xD;
+      The performance of systematic and regulated autopsies can help to manage it. However, despite&#xD;
+      the need to generate this knowledge and the strong impact on mortality caused by the COVID-19&#xD;
+      pandemic, the evidence from post-mortem studies is very limited.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 5, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Histopathological and ultra-structural findings</measure>
+    <time_frame>End of autopsy</time_frame>
+    <description>To analyze the histopathological and ultra-structural findings obtained in complete and systematic autopsies of patients who died due to COVID-19.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Molecular characterization</measure>
+    <time_frame>End of autopsy</time_frame>
+    <description>To analyze the presence and molecular characterization of COVID-19 in the different organs obtained in autopsies of patients deceased by COVID-19.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hidden pulmonary superinfections</measure>
+    <time_frame>End of autopsy</time_frame>
+    <description>To evaluate the frequency of hidden pulmonary superinfections (bacterial and fungal disease) in patients who died due to COVID-19.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Histopathological / ultra-structural findings and clinical / biological expression correlation</measure>
+    <time_frame>End of autopsy</time_frame>
+    <description>To correlate the histopathological and ultra-structural findings obtained in autopsies with the clinical and biological expression of patients who died due to COVID-19.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Autopsy group</arm_group_label>
+    <description>Patients with COVID-19 infection confirmed by PCR, whose death is related to active COVID-19 infection or its complications.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Autopsy</intervention_name>
+    <description>The subjects deceased will undergo an autopsy to analyze the histopathological, ultrastructural and microbiological findings, related to the COVID-19 disease.</description>
+    <arm_group_label>Autopsy group</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      The following samples will be collected:&#xD;
+&#xD;
+        -  Laboratory of Pathology:&#xD;
+&#xD;
+             1. Histopathological study: the samples collected from all the organs and tissues will&#xD;
+                be fixed in 10% formaldehyde.&#xD;
+&#xD;
+             2. Electron Microscopy study: lung, myocardium, kidney and muscle samples they will be&#xD;
+                fixed in Glutaraldehyde for study by Electron Microscopy.&#xD;
+&#xD;
+        -  Biobank: 2 samples will be collected - the first sample will be in fresh and the second&#xD;
+           one will be preserved with RNAlater.&#xD;
+&#xD;
+        -  Microbiology Laboratory: respiratory secretions and tissue sample will be collected for&#xD;
+           bacterial and fungal cultures.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with COVID-19 infection confirmed by PCR, whose death is related to active&#xD;
+        COVID-19 infection or its complications.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with COVID-19 infection confirmed by PCR.&#xD;
+&#xD;
+          -  Death related to active infection by COVID-19 or its complications.&#xD;
+&#xD;
+          -  Informed consent given by the subject's relatives to perform an autopsy according to&#xD;
+             the autonomous community requirements.&#xD;
+&#xD;
+          -  Informed consent given by the subject's relatives for the inclusion of samples in the&#xD;
+             Biobank.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  COVID-19 infection diagnosed exclusively by serological methods.&#xD;
+&#xD;
+          -  Advanced or terminal chronic disease.&#xD;
+&#xD;
+          -  Inadequate security level of the autopsy room.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Antonio Rivero Román, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Spanish Society of Infectious Diseases and Clinical Microbiology. Reina Sofía University Hospital.</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Teresa Hermida Romero, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Spanish Society of Pathological Anatomy. A Coruña University Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Xavier Matias--Guiu Guia, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Spanish Society of Pathological Anatomy. Bellvitge University Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jordi Vila Estapé, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Spanish Society of Infectious Diseases and Clinical Microbiology. Barcelona Clinic University Hospital.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Antonio Rivero Román, MD</last_name>
+    <phone>0034671596070</phone>
+    <email>ariveror@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>María C Romero</last_name>
+    <phone>0034671596070</phone>
+    <email>mcarmen.romero@imibic.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Marqués de Valdecilla University Hospital</name>
+      <address>
+        <city>Santander</city>
+        <state>Cantabria</state>
+        <zip>39008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Javier Gómez Román, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Javier Gómez Román, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Carmen Fariña, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Puerta de Hierro University Hospital</name>
+      <address>
+        <city>Majadahonda</city>
+        <state>Madrid</state>
+        <zip>28222</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clara Salas Antón, MD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Antonio Ramos, MD</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Clara Salas Antón, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Antonio Ramos, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Navarra University Hospital</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alicia Córdoba Iturriagagoitia, MD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Carlos Ibero Esparza, MD</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Alicia Córdoba Iturriagagoitia, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Carlos Ibero Esparza, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Barcelona Clinic University Hospital</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jordi Vila Estapé, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Antonio Martínez Martínez, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>José M Mir, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Reina Sofía University Hospital</name>
+      <address>
+        <city>Córdoba</city>
+        <zip>14004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antonio Rivero Román, MD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Rosa Ortega Salas, MD</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Rosa Ortega Salas, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Julián De la Torre Cisneros, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Antonio Rivero Román, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ramón y Cajal University Hospital</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>José Palacios Calvo, MD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Santiago Moreno, MD</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>José Palacios Calvo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Santiago Moreno, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fundación Jiménez Díaz University Hospital</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Federico Rojo, MD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Laura Prieto, MD</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Federico Rojo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Laura Prieto, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>12 de Octubre University Hospital</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>José L Rodríguez Peralto, MD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Rafael Rubio, MD</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>José L Rodríguez Peralto, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rafael Rubio, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Virgen del Rocío University Hospital</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Enrique De Álava, MD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>José M Cisneros, MD</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Enrique De Álava, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>José Cisneros, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Araba University Hospital</name>
+      <address>
+        <city>Vitoria</city>
+        <state>Álava</state>
+        <zip>01009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Isabel Guerra Merino, MD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Joseba Portu, MD</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Isabel Guerra Merino, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Joseba Portu, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 26, 2021</study_first_posted>
+  <last_update_submitted>February 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Autopsy</keyword>
+  <keyword>Histopathological findings</keyword>
+  <keyword>Ultrastructural findings</keyword>
+  <keyword>Microbiological findings</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All the information collected will be shared with other researchers under request.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>The information will be shared after the results are published in the concerning papers.</ipd_time_frame>
+    <ipd_access_criteria>The information will be shared upon request, contacting uicec@imibic.org.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

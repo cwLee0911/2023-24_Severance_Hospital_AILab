@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5745">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04781504</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20200732-01H</org_study_id>
+    <nct_id>NCT04781504</nct_id>
+  </id_info>
+  <brief_title>Exercise Training in Women With Heart Disease</brief_title>
+  <acronym>EXCEED</acronym>
+  <official_title>Exercise Training in Women With Heart Disease: A Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ottawa Heart Institute Research Corporation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ottawa Heart Institute Research Corporation</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronary heart disease (CHD) is a leading cause of premature death in Canadian women. Women&#xD;
+      who suffer an acute coronary event are more likely than men to be physically inactive, have&#xD;
+      lower exercise capacity, and die in the next year. The standard cardiac rehabilitation (CR)&#xD;
+      programs do not meet women's needs. There is a need to address these issues to increase&#xD;
+      participation in CR. The main purpose of this project is to evaluate the effects of&#xD;
+      high-intensity interval training (HIIT) compared to moderate-intensity continuous exercise&#xD;
+      training (MICE) on exercise capacity and quality of life in women with CHD. Positive results&#xD;
+      of this study will fill the gap in knowledge in exercise training, levels of motivation,&#xD;
+      self-efficacy and enjoyment following HIIT vs. MICE in women with CHD.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 5, 2021</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Exercise capacity</measure>
+    <time_frame>from baseline to week-6 and from baseline to week-12</time_frame>
+    <description>will be measured using a gold standard symptom-limited, cardiopulmonary exercise test (CPET) on an electronically braked cycle ergometer. Gas exchange will be monitored continuously; the highest rate of oxygen uptake achieved (i.e. peak VO2 in mL/kg/min) during the last minute of the CPET will represent exercise capacity.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>physical and mental health</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>physical and mental health will be measured using the Mental Health Composite Scale (MCS) and Physical Composite Scale (PCS) of the Short Form-36 questionnaire. It consists of 36 items that contribute to eight subscales summarized into a physical component summary scale (PCS) and a mental component summary scale (MCS). A higher score on a 0-100 scale indicates a better quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease-specific Quality of Life, global health, physical and emotional health</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>measured using the HeartQoL, a validated 14-item questionnaire that assesses patients' feelings on how heart disease affects daily functioning, providing a global-health related QoL score and physical and emotional subscales. Higher score means better quality of life. Score range from 0-3, where higher scores represents better heart quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>measured using the General Anxiety and Depression-7 (GAD-7). Score ranges from 0-21 where higher scores means a more severe level of anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Depression</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>measured using the Patient Health Questionnaire (PHQ-9). Scores range from 1-27 where higher scores means higher depression severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>body composition</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>body mass (kg) and height (cm) will be measured to calculate body mass index (kg/m^2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>body composition</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>Changes in body composition from baseline to 12 weeks and baseline to 26 weeks are measured by the waist circumference (cm).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>body composition</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>Changes in body composition from baseline to 12 weeks and baseline to 26 weeks are measured by bioelectrical impedance (%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vital Signs</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>changes in vital signs will be measured using resting blood pressure (mmHg) in a seated position after a 5-minute rest period on the right arm using an automated monitor (BPTru) that measures 6 times (the first will be discarded and an average of the last 5 measurements will be used for statistical analyses) at 2-minute intervals.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vital Signs</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>changes in vital signs will be measured using resting heart rate (bpm)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-determined motivation for exercise</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>the 24-item Behavioural Regulation in Exercise questionnaire (BREQ-3) yields an overall Relative Autonomy Index (RAI) score, representing overall self-determined motivation. The scale ranges from -3 &quot;amotivation to +3 &quot;intrinsic regulation&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall self-efficacy for exercise</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>the 9-item Multidimensional Self-Efficacy for Exercise Scale (MSES-R) yields an overall self-efficacy for exercise score reflecting scheduling, task and coping self-efficacy. The MSES consists of nine items on a 100% confidence scale ranging from 0 = &quot;no confidence&quot; to 100 = &quot;completely confident.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical activity enjoyment</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>the 18-item Physical Activity Enjoyment Scale (PACES) measures the extent (on a 7-point Likert scale) to which participants enjoy doing physical activity. Overall enjoyment for physical activity score is determined by summing the items, with a range of 18-126 being possible. Higher scores indicate higher enjoyment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gender</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>using the Traditional Masculinity and Femininity scale (TMF). A score close to 4 refers to be moderately feminine and masculine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gender</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>using the Genesis-Praxy questionnaire.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Signs and Symptoms, Complications and Treatments</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>using a self-reported questionnaire. No score reported with this questionnaire</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Physical activity levels</measure>
+    <time_frame>from baseline to 12 weeks and baseline to 26 weeks</time_frame>
+    <description>will be measured objectively. The ActiGraph wGT3X-BT accelerometer (ActiGraph, Pensacola, Florida) will be worn over the right hip for 7 days</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">172</enrollment>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Heart Disease</condition>
+  <arm_group>
+    <arm_group_label>standard care + moderate-intensity continuous exercise training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 days/week Warm-up: 60-70% peak HR - 10min Training: 70-85% peak HR - 35min Cool-down: 60-70% peak HR - 15min</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>standard care + high-intensity interval training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 days/week Warm-up: 60-70% peak HR - 10min Training: 85-95% peak HR - 25 minutes (4x4-minutes of high-intensity intervals interspersed with 3 minutes of low-intensity intervals) Cool-down: 60-70% peak HR - 10min</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Exercise</intervention_name>
+    <description>intervention groups will complete supervised virtual exercise sessions for 12 weeks using the platform preferred by the patient (Zoom care, Zoom business, Google duo, google meet, FaceTime, join.me, WhatsApp Call, etc). The appointment will be scheduled and conducted 2 days per week. The first class will be conducted on-site to teach the patient how to take vitals and to do an in-person exercise session</description>
+    <arm_group_label>standard care + high-intensity interval training</arm_group_label>
+    <arm_group_label>standard care + moderate-intensity continuous exercise training</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Women with CHD (e.g. CABG or PCI at least 4 weeks but less than 12 weeks post event or&#xD;
+             procedure; acute myocardial infarction; or, stable angina with corroborating evidence&#xD;
+             of CHD);&#xD;
+&#xD;
+          -  Patient is able to perform a symptom-limited CPET (this is needed to determine peak HR&#xD;
+             for the exercise training prescription); and,&#xD;
+&#xD;
+          -  Patient is able to read and understand English or French.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient is currently participating in routine exercise training (&gt;2x/week) (this may&#xD;
+             reduce the impact of the program on outcomes);&#xD;
+&#xD;
+          -  Patient has: a ventricular ejection fraction &lt;45%; unstable angina; or established&#xD;
+             diagnosis of chronic obstructive pulmonary disease, severe mitral or aortic stenosis,&#xD;
+             or hypertrophic obstructive cardiomyopathy (this may interfere with the ability to&#xD;
+             engage in MICE or HIIT);&#xD;
+&#xD;
+          -  Patient has unmanaged psychiatric illness (e.g. active psychosis, suicidal ideation)&#xD;
+             or cognitive impairment (this may confound improvements in physical and health&#xD;
+             outcomes);&#xD;
+&#xD;
+          -  Patient does not have internet connection;&#xD;
+&#xD;
+          -  Patient is unable to provide written informed consent; or&#xD;
+&#xD;
+          -  Patient is unwilling or unable to return for follow-up visits at 12 and 26 weeks.&#xD;
+&#xD;
+          -  Patient is unwilling to be randomized to HIIT or MICE&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of Ottawa Heart Institute</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1Y4W7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer L Reed, PhD</last_name>
+      <phone>6136967392</phone>
+      <phone_ext>67392</phone_ext>
+      <email>jreed@ottawaheart.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Matheus Mistura, MSc, BSc</last_name>
+      <phone>6136967000</phone>
+      <phone_ext>15944</phone_ext>
+      <email>mmistura@ottawaheart.ca</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>October 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 4, 2021</study_first_posted>
+  <last_update_submitted>March 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ottawa Heart Institute Research Corporation</investigator_affiliation>
+    <investigator_full_name>Jennifer Reed</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>it is not yet known if there will be a plan to make IPD available.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

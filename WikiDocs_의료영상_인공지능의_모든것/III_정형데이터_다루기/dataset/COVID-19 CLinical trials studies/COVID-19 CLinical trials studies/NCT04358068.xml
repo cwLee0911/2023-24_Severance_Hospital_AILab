@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2396">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04358068</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG A5395</org_study_id>
+    <secondary_id>38720</secondary_id>
+    <nct_id>NCT04358068</nct_id>
+  </id_info>
+  <brief_title>Evaluating the Efficacy of Hydroxychloroquine and Azithromycin to Prevent Hospitalization or Death in Persons With COVID-19</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo-controlled Trial to Evaluate the Efficacy of Hydroxychloroquine and Azithromycin to Prevent Hospitalization or Death in Persons With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Teva Pharmaceuticals Industries LTD</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study was to evaluate the efficacy of hydroxychloroquine (HCQ) and&#xD;
+      azithromycin (Azithro) to prevent hospitalization or death in symptomatic adult outpatients&#xD;
+      with COVID-19 caused by SARS-CoV-2 infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This Phase IIB study was designed to evaluate the efficacy of hydroxychloroquine (HCQ) and&#xD;
+      azithromycin (Azithro) to prevent hospitalization or death in symptomatic adult outpatients&#xD;
+      with COVID-19 caused by SARS-CoV-2 infection.&#xD;
+&#xD;
+      Participants were randomized 1:1 to receive active or placebo study treatment. The target&#xD;
+      sample size was 2000 participants, with approximately 1000 in each arm. Stratification was by&#xD;
+      &quot;high&quot; versus &quot;low&quot; risk of progression to severe COVID-19, where &quot;high risk&quot; was defined as&#xD;
+      a person age ≥60 years or having at least one of several specified comorbidities.&#xD;
+&#xD;
+      Participants were prescribed study treatment for 7 days and were to be followed for an&#xD;
+      additional 24 weeks. Assessments on a subset of participants were planned to include blood&#xD;
+      collection, self-collected nasal swabs, and nasopharyngeal swabs.&#xD;
+&#xD;
+      On June 23, 2020, sites were informed that the study was closing to follow-up due to slow&#xD;
+      enrollment and lack of community enthusiasm. Follow-up through week 24 was not completed for&#xD;
+      any participant. Participants were asked to complete the Day 20 visit and then were&#xD;
+      discontinued from the study. Due to the early termination, enrollment into the specimen&#xD;
+      collection subset did not occur, and results associated with those specimens are not&#xD;
+      available. Due to the small number of participants enrolled, some statistical tests were not&#xD;
+      able to be performed and only descriptive results are provided.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Slow enrollment and lack of community enthusiasm&#xD;
+  </why_stopped>
+  <start_date type="Actual">May 13, 2020</start_date>
+  <completion_date type="Actual">July 7, 2020</completion_date>
+  <primary_completion_date type="Actual">July 7, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Who Died From Any Cause or Were Hospitalized</measure>
+    <time_frame>The 20-day period from and including the day of the first dose of study treatment</time_frame>
+    <description>Hospitalization was defined as requiring at least 24 hours of acute care in a hospital or similar acute care facility, including Emergency Rooms or temporary facilities instituted to address needs during the COVID-19 pandemic. Evaluation at a hospital or similar facility with less than 24 hours of acute care was not considered a hospitalization. Formal statistical testing was not conducted due to the small number of participants and events.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Died From Any Cause</measure>
+    <time_frame>The 20-day period from and including the day of the first dose of study treatment</time_frame>
+    <description>Deaths reported due to any cause (COVID-related or not)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Died From Any Cause, or Were Hospitalized, or Had an Urgent Visit to Emergency Room or Clinic</measure>
+    <time_frame>The 20-day period from and including the day of the first dose of study treatment</time_frame>
+    <description>Hospitalization was defined as requiring at least 24 hours of acute care in a hospital or similar acute care facility, including Emergency Rooms or temporary facilities instituted to address needs during the COVID-19 pandemic. Evaluation at a hospital or similar facility with less than 24 hours of acute care was not considered a hospitalization, but was included for this outcome measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Died From Any Cause or Were Hospitalized Through the End of Follow-up</measure>
+    <time_frame>From day of the first dose of study treatment to Week 24</time_frame>
+    <description>Hospitalization was defined as requiring at least 24 hours of acute care in a hospital or similar acute care facility, including Emergency Rooms or temporary facilities instituted to address needs during the COVID-19 pandemic. Evaluation at a hospital or similar facility with less than 24 hours of acute care was not considered a hospitalization. Due to the early termination of the study, participant followup was discontinued at Day 20. Refer to the primary outcome above for results based on the time frame out to Day 20.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Prematurely Discontinue Study Treatment Due to an Adverse Event</measure>
+    <time_frame>From start of study treatment through Day 7</time_frame>
+    <description>Premature discontinuation of study treatment is defined as a permanent discontinuation of either study treatment (HCQ/Placebo and/or Azithro/Placebo)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Had Any Cardiac Adverse Events</measure>
+    <time_frame>From start of study treatment through Day 20</time_frame>
+    <description>Cardiac adverse events included in the analysis were chosen a priori by the study chairs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Fever</measure>
+    <time_frame>Day 0 to Day 20, 21 days total</time_frame>
+    <description>Defined as the time from study treatment initiation to the last day in the participant's daily diary card on which a temperature greater than 100.4°F was recorded or a potentially antipyretic drug, such as acetaminophen or ibuprofen, was taken. Participants with at least one temperature who never reported fever or use of anti-pyretic medications were assigned a duration of zero days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Symptoms Associated With COVID-19 Disease</measure>
+    <time_frame>Day 0 to Day 20, 21 days total</time_frame>
+    <description>Defined as the time from start of study treatment to the last day in the participant's daily diary card on which a moderate or worse targeted symptom was recorded. The set of target symptoms were cough, shortness of breath, feeling feverish, fatigue, muscle aches, diarrhea, vomiting, nausea, headache, sore throat, nasal obstruction (stuffy nose), nasal discharge (runny nose), loss of smell, and loss of taste. Participants who had missing diary records due to hospitalization were assumed to have moderate symptoms during the period of hospitalization in the analysis. Missing diary card records not due to hospitalization were assumed to have absent symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participant-specific Area Under the Curve (AUC) of the Symptom Score Associated With COVID-19 Disease Over Time</measure>
+    <time_frame>Day 0 to Day 20, 21 days total</time_frame>
+    <description>Defined as the sum of scores for the targeted symptoms (defined in the protocol) in the participant's daily diary record (each symptom was scored from 0-best to 3-worst). Participant-specific areas under the curve (AUC) over time were calculated using the trapezoidal rule and defined as the area below the line formed by joining total symptom scores on each daily diary card from the pre-treatment score on Day 0 through to Day 20. AUCs were rescaled by time by dividing by 21 (corresponding to the number of daily diary cards during follow-up between pre-treatment Day 0 and Day 20), in order to provide results on a symptom scale from 0-best to 42-worst (for non-hospitalized participants). Participants who were hospitalized were assigned a value equal to the sum of the maximum possible scaled AUC (42) and the duration of hospitalization, and thus values &gt;42 were possible. Missing scores between pre-treatment and Day 20 were linearly interpolated. Higher AUCs indicate worse outcomes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Self-reported Return to Usual (Pre-COVID) Health.</measure>
+    <time_frame>Day 0 to Day 20, 21 days total</time_frame>
+    <description>Time to self-reported return to (pre-COVID) usual health was defined as the time from the start of study treatment to the first day in the participant's daily diary card on which they responded 'Yes' with no subsequent reports of 'No' to the question &quot;Have you returned to your usual (pre-COVID) health today?&quot; Participants who never reported a 'Yes' response were assigned a duration of 22 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 RNA Detection Status From Self-collected Nasal and Site-collected NP Swabs Among Subset</measure>
+    <time_frame>Measured at entry, Day 6, and Day 20</time_frame>
+    <description>The virology substudy did not open to enrollment and thus no data on virologic outcomes are available to report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 RNA Level (Continuous) From Self-collected Nasal and Site-collected NP Swabs Among Subset</measure>
+    <time_frame>Measured at entry, Day 6, and Day 20</time_frame>
+    <description>The virology substudy did not open to enrollment and thus no data on virologic outcomes are available to report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With an Occurrence of Fainting</measure>
+    <time_frame>From start of study treatment through Day 20</time_frame>
+    <description>Fainting was self-reported on the study diary card as absent (score 0), mild (1), moderate (2), or severe (3); scores of &gt; 0 are defined as an occurrence of fainting</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">20</enrollment>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV 2</condition>
+  <arm_group>
+    <arm_group_label>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: Placebo for Hydroxychloroquine and Azithromycin</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine (HCQ)</intervention_name>
+    <description>Administered orally</description>
+    <arm_group_label>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Azithromycin (Azithro)</intervention_name>
+    <description>Administered orally</description>
+    <arm_group_label>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo for Hydroxychloroquine</intervention_name>
+    <description>Administered orally</description>
+    <arm_group_label>Arm B: Placebo for Hydroxychloroquine and Azithromycin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo for Azithromycin</intervention_name>
+    <description>Administered orally</description>
+    <arm_group_label>Arm B: Placebo for Hydroxychloroquine and Azithromycin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Documentation of confirmed active severe acute respiratory syndrome coronavirus&#xD;
+             (SARS-CoV-2) infection from any respiratory specimen collected ≤7 days from when the&#xD;
+             first dose of study treatment was expected to be taken.&#xD;
+&#xD;
+          -  Experienced at least one of the following SARS-CoV-2 infection symptoms within 24&#xD;
+             hours of screening (symptom(s) must be new or worse compared to pre-COVID-19 health&#xD;
+             status):&#xD;
+&#xD;
+               -  Fever (can be subjective) or feeling feverish&#xD;
+&#xD;
+               -  Cough&#xD;
+&#xD;
+               -  Shortness of breath or difficulty breathing at rest or with exertion&#xD;
+&#xD;
+               -  Sore throat&#xD;
+&#xD;
+               -  Body pain or muscle pain&#xD;
+&#xD;
+               -  Fatigue&#xD;
+&#xD;
+               -  Headache&#xD;
+&#xD;
+          -  Agreed to not participate in another clinical trial for the treatment of COVID-19 or&#xD;
+             SARS-CoV-2 during the study period up until reaching hospitalization or 20 days,&#xD;
+             whichever is earliest.&#xD;
+&#xD;
+          -  Agreed to not obtain study medications outside of the A5395 study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Need for hospitalization or immediate medical attention in the clinical opinion of the&#xD;
+             study investigator.&#xD;
+&#xD;
+          -  History of or current hospitalization for COVID-19.&#xD;
+&#xD;
+          -  History of ventricular arrhythmia or use of antiarrhythmics within 30 days prior to&#xD;
+             entry.&#xD;
+&#xD;
+          -  Personal or family history of Long QT syndrome.&#xD;
+&#xD;
+          -  History of kidney disease.&#xD;
+&#xD;
+          -  History of ischemic or structural heart disease.&#xD;
+&#xD;
+          -  History of hypokalemia or hypomagnesemia or taking potassium supplementation or&#xD;
+             magnesium supplementation&#xD;
+&#xD;
+          -  Personal medical history of porphyria, retinopathy, severe hepatic impairment, or&#xD;
+             glucose-6-phosphate dehydrogenase (G6PD) deficiency.&#xD;
+&#xD;
+          -  Used drugs with possible anti-SARS-CoV-2 activity within 30 days prior to study entry,&#xD;
+             e.g., remdesivir, lopinavir/ritonavir fixed dose combination, ribavirin, chloroquine,&#xD;
+             hydroxychloroquine, and azithromycin, or participation in a clinical trial involving&#xD;
+             any of these drugs whether for treatment or prophylaxis.&#xD;
+&#xD;
+          -  Requirement or expected requirement for a medication that significantly prolongs QT&#xD;
+             intervals or increases risk for QT prolongation.&#xD;
+&#xD;
+          -  Loop diuretics are exceptions to above exclusion criterion but these cannot be used&#xD;
+             within 30 days prior to study entry.&#xD;
+&#xD;
+          -  Participated in a study where co-enrollment was not allowed.&#xD;
+&#xD;
+          -  Receipt of a SARS-CoV-2 vaccination prior to study entry.&#xD;
+&#xD;
+          -  Known allergy/sensitivity or any hypersensitivity to components of HCQ, azithromycin,&#xD;
+             or their formulation.&#xD;
+&#xD;
+          -  More than 10 days of any of the following symptoms attributed to the SARS-CoV-2&#xD;
+             infection at study entry:&#xD;
+&#xD;
+               -  Fever (can be subjective) or feeling feverish&#xD;
+&#xD;
+               -  Cough&#xD;
+&#xD;
+               -  Shortness of breath or difficulty breathing at rest or with exertion&#xD;
+&#xD;
+               -  Sore throat&#xD;
+&#xD;
+               -  Body pain or muscle pain&#xD;
+&#xD;
+               -  Fatigue&#xD;
+&#xD;
+               -  Headache&#xD;
+&#xD;
+               -  Chills&#xD;
+&#xD;
+               -  Nasal obstruction or congestion&#xD;
+&#xD;
+               -  Loss of taste or smell&#xD;
+&#xD;
+               -  Nausea or vomiting&#xD;
+&#xD;
+               -  Diarrhea&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Davey Smith, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of California, San Diego</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Alabama CRS</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSD Antiviral Research Center CRS</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harbor-UCLA CRS</name>
+      <address>
+        <city>Torrance</city>
+        <state>California</state>
+        <zip>90502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Whitman-Walker Health CRS</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University CRS</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University CRS</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greensboro CRS</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Clinical Research Site</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh CRS</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Trinity Health and Wellness Center CRS</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington AIDS CRS</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104-9929</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Puerto Rico</country>
+  </removed_countries>
+  <link>
+    <url>https://rsc.niaid.nih.gov/clinical-research-sites/daids-adverse-event-grading-tables</url>
+    <description>Division of AIDS (DAIDS) Table for Grading the Severity of Adult and Pediatric Adverse Events (Corrected Version 2.1 - July 2017)</description>
+  </link>
+  <link>
+    <url>https://rsc.niaid.nih.gov/clinical-research-sites/manual-expedited-reporting-adverse-events-daids</url>
+    <description>Manual for Expedited Reporting of Adverse Events to DAIDS (DAIDS EAE Manual), Version 2.0, January 2010</description>
+  </link>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 22, 2020</study_first_posted>
+  <results_first_submitted>February 24, 2021</results_first_submitted>
+  <results_first_submitted_qc>March 24, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 1, 2021</results_first_posted>
+  <last_update_submitted>April 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Azithromycin</mesh_term>
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie results in the publication, after deidentification.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Beginning 3 months following publication and available throughout period of funding of the AIDS Clinical Trials Group by NIH.</ipd_time_frame>
+    <ipd_access_criteria>With whom?&#xD;
+Researchers who provide a methodologically sound proposal for use of the data that is approved by the AIDS Clinical Trials Group.&#xD;
+For what types of analyses?&#xD;
+To achieve aims in the proposal approved by the AIDS Clinical Trials Group.&#xD;
+By what mechanism will data be made available?&#xD;
+Researchers may submit a request for access to data using the AIDS Clinical Trials Group &quot;Data Request&quot; form at: https://submit.mis.s-3.net/ Researchers of approved proposals will need to sign an AIDS Clinical Trials Group Data Use Agreement before receiving the data.</ipd_access_criteria>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 24, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/68/NCT04358068/Prot_002.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 13, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/68/NCT04358068/SAP_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>May 1, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/68/NCT04358068/ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Participants were enrolled between 13MAY2020 and 15JUN2020 at US based clinical research sites</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+          <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+        </group>
+        <group group_id="P2">
+          <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+          <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="11"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="9"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Did not initiate study treatment</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Participants who initiated study treatment</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+          <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+        </group>
+        <group group_id="B2">
+          <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+          <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="7"/>
+            <count group_id="B2" value="9"/>
+            <count group_id="B3" value="16"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44" lower_limit="30" upper_limit="61"/>
+                    <measurement group_id="B2" value="35" lower_limit="30" upper_limit="49"/>
+                    <measurement group_id="B3" value="39" lower_limit="30" upper_limit="61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>&lt; 60 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>&gt;= 60 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Risk of progression to severe disease</title>
+          <description>&quot;High&quot; risk is defined by any of the following: Aged 60 years and older; Chronic lung disease or moderate to severe asthma; Immunocompromised status due to disease (ex. those living with HIV with a CD4+ T-cell count of &lt;200/mm^3); Immunocompromised status due to medication (ex. persons taking 20 mg or more of prednisone equivalents a day, anti-inflammatory monoclonal antibody therapies, or cancer therapies); Severe obesity (body mass index [BMI] &gt;40 kg/m^2); Hypertension; Cardiovascular disease; Diabetes; Chronic kidney disease; Chronic liver disease</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>High risk</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Low risk</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Time from symptom onset to treatment start</title>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5" lower_limit="4" upper_limit="8"/>
+                    <measurement group_id="B2" value="4" lower_limit="3" upper_limit="20"/>
+                    <measurement group_id="B3" value="5" lower_limit="3" upper_limit="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Who Died From Any Cause or Were Hospitalized</title>
+        <description>Hospitalization was defined as requiring at least 24 hours of acute care in a hospital or similar acute care facility, including Emergency Rooms or temporary facilities instituted to address needs during the COVID-19 pandemic. Evaluation at a hospital or similar facility with less than 24 hours of acute care was not considered a hospitalization. Formal statistical testing was not conducted due to the small number of participants and events.</description>
+        <time_frame>The 20-day period from and including the day of the first dose of study treatment</time_frame>
+        <population>Participants who initiated study treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+            <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+            <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Died From Any Cause or Were Hospitalized</title>
+          <description>Hospitalization was defined as requiring at least 24 hours of acute care in a hospital or similar acute care facility, including Emergency Rooms or temporary facilities instituted to address needs during the COVID-19 pandemic. Evaluation at a hospital or similar facility with less than 24 hours of acute care was not considered a hospitalization. Formal statistical testing was not conducted due to the small number of participants and events.</description>
+          <population>Participants who initiated study treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Who Died From Any Cause</title>
+        <description>Deaths reported due to any cause (COVID-related or not)</description>
+        <time_frame>The 20-day period from and including the day of the first dose of study treatment</time_frame>
+        <population>Participants who initiated study treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+            <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+            <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Died From Any Cause</title>
+          <description>Deaths reported due to any cause (COVID-related or not)</description>
+          <population>Participants who initiated study treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Who Died From Any Cause, or Were Hospitalized, or Had an Urgent Visit to Emergency Room or Clinic</title>
+        <description>Hospitalization was defined as requiring at least 24 hours of acute care in a hospital or similar acute care facility, including Emergency Rooms or temporary facilities instituted to address needs during the COVID-19 pandemic. Evaluation at a hospital or similar facility with less than 24 hours of acute care was not considered a hospitalization, but was included for this outcome measure.</description>
+        <time_frame>The 20-day period from and including the day of the first dose of study treatment</time_frame>
+        <population>Participants who initiated study treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+            <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+            <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Died From Any Cause, or Were Hospitalized, or Had an Urgent Visit to Emergency Room or Clinic</title>
+          <description>Hospitalization was defined as requiring at least 24 hours of acute care in a hospital or similar acute care facility, including Emergency Rooms or temporary facilities instituted to address needs during the COVID-19 pandemic. Evaluation at a hospital or similar facility with less than 24 hours of acute care was not considered a hospitalization, but was included for this outcome measure.</description>
+          <population>Participants who initiated study treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Who Died From Any Cause or Were Hospitalized Through the End of Follow-up</title>
+        <description>Hospitalization was defined as requiring at least 24 hours of acute care in a hospital or similar acute care facility, including Emergency Rooms or temporary facilities instituted to address needs during the COVID-19 pandemic. Evaluation at a hospital or similar facility with less than 24 hours of acute care was not considered a hospitalization. Due to the early termination of the study, participant followup was discontinued at Day 20. Refer to the primary outcome above for results based on the time frame out to Day 20.</description>
+        <time_frame>From day of the first dose of study treatment to Week 24</time_frame>
+        <population>Due to the early termination of the study, the data were not collected</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+            <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+            <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Died From Any Cause or Were Hospitalized Through the End of Follow-up</title>
+          <description>Hospitalization was defined as requiring at least 24 hours of acute care in a hospital or similar acute care facility, including Emergency Rooms or temporary facilities instituted to address needs during the COVID-19 pandemic. Evaluation at a hospital or similar facility with less than 24 hours of acute care was not considered a hospitalization. Due to the early termination of the study, participant followup was discontinued at Day 20. Refer to the primary outcome above for results based on the time frame out to Day 20.</description>
+          <population>Due to the early termination of the study, the data were not collected</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Who Prematurely Discontinue Study Treatment Due to an Adverse Event</title>
+        <description>Premature discontinuation of study treatment is defined as a permanent discontinuation of either study treatment (HCQ/Placebo and/or Azithro/Placebo)</description>
+        <time_frame>From start of study treatment through Day 7</time_frame>
+        <population>Participants who initiated study treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+            <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+            <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Prematurely Discontinue Study Treatment Due to an Adverse Event</title>
+          <description>Premature discontinuation of study treatment is defined as a permanent discontinuation of either study treatment (HCQ/Placebo and/or Azithro/Placebo)</description>
+          <population>Participants who initiated study treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Who Had Any Cardiac Adverse Events</title>
+        <description>Cardiac adverse events included in the analysis were chosen a priori by the study chairs</description>
+        <time_frame>From start of study treatment through Day 20</time_frame>
+        <population>Participants who initiated study treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+            <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+            <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Had Any Cardiac Adverse Events</title>
+          <description>Cardiac adverse events included in the analysis were chosen a priori by the study chairs</description>
+          <population>Participants who initiated study treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Fever</title>
+        <description>Defined as the time from study treatment initiation to the last day in the participant's daily diary card on which a temperature greater than 100.4°F was recorded or a potentially antipyretic drug, such as acetaminophen or ibuprofen, was taken. Participants with at least one temperature who never reported fever or use of anti-pyretic medications were assigned a duration of zero days</description>
+        <time_frame>Day 0 to Day 20, 21 days total</time_frame>
+        <population>Participants who initiated study treatment and reported at least one temperature on the diary card</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+            <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+            <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Fever</title>
+          <description>Defined as the time from study treatment initiation to the last day in the participant's daily diary card on which a temperature greater than 100.4°F was recorded or a potentially antipyretic drug, such as acetaminophen or ibuprofen, was taken. Participants with at least one temperature who never reported fever or use of anti-pyretic medications were assigned a duration of zero days</description>
+          <population>Participants who initiated study treatment and reported at least one temperature on the diary card</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0" lower_limit="0" upper_limit="7"/>
+                    <measurement group_id="O2" value="0" lower_limit="0" upper_limit="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <non_inferiority_desc>Participant specific durations were compared between randomized arms using a two-sided Wilcoxon test with a two-sided 5% type I error rate</non_inferiority_desc>
+            <p_value>0.51</p_value>
+            <p_value_desc>Wilcoxon Test was not stratified by high/low risk because of the small number enrolled</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Symptoms Associated With COVID-19 Disease</title>
+        <description>Defined as the time from start of study treatment to the last day in the participant's daily diary card on which a moderate or worse targeted symptom was recorded. The set of target symptoms were cough, shortness of breath, feeling feverish, fatigue, muscle aches, diarrhea, vomiting, nausea, headache, sore throat, nasal obstruction (stuffy nose), nasal discharge (runny nose), loss of smell, and loss of taste. Participants who had missing diary records due to hospitalization were assumed to have moderate symptoms during the period of hospitalization in the analysis. Missing diary card records not due to hospitalization were assumed to have absent symptoms.</description>
+        <time_frame>Day 0 to Day 20, 21 days total</time_frame>
+        <population>Participants who initiated study treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+            <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+            <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Symptoms Associated With COVID-19 Disease</title>
+          <description>Defined as the time from start of study treatment to the last day in the participant's daily diary card on which a moderate or worse targeted symptom was recorded. The set of target symptoms were cough, shortness of breath, feeling feverish, fatigue, muscle aches, diarrhea, vomiting, nausea, headache, sore throat, nasal obstruction (stuffy nose), nasal discharge (runny nose), loss of smell, and loss of taste. Participants who had missing diary records due to hospitalization were assumed to have moderate symptoms during the period of hospitalization in the analysis. Missing diary card records not due to hospitalization were assumed to have absent symptoms.</description>
+          <population>Participants who initiated study treatment</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11.0" lower_limit="5.0" upper_limit="17.0"/>
+                    <measurement group_id="O2" value="10.0" lower_limit="5.0" upper_limit="21.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <non_inferiority_desc>Participant specific durations were compared between randomized arms using a two-sided Wilcoxon test with a two-sided 5% type I error rate</non_inferiority_desc>
+            <p_value>0.79</p_value>
+            <p_value_desc>Wilcoxon Test was not stratified by high/low risk because of the small number enrolled</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Participant-specific Area Under the Curve (AUC) of the Symptom Score Associated With COVID-19 Disease Over Time</title>
+        <description>Defined as the sum of scores for the targeted symptoms (defined in the protocol) in the participant's daily diary record (each symptom was scored from 0-best to 3-worst). Participant-specific areas under the curve (AUC) over time were calculated using the trapezoidal rule and defined as the area below the line formed by joining total symptom scores on each daily diary card from the pre-treatment score on Day 0 through to Day 20. AUCs were rescaled by time by dividing by 21 (corresponding to the number of daily diary cards during follow-up between pre-treatment Day 0 and Day 20), in order to provide results on a symptom scale from 0-best to 42-worst (for non-hospitalized participants). Participants who were hospitalized were assigned a value equal to the sum of the maximum possible scaled AUC (42) and the duration of hospitalization, and thus values &gt;42 were possible. Missing scores between pre-treatment and Day 20 were linearly interpolated. Higher AUCs indicate worse outcomes.</description>
+        <time_frame>Day 0 to Day 20, 21 days total</time_frame>
+        <population>Participants who initiated study treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+            <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+            <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Participant-specific Area Under the Curve (AUC) of the Symptom Score Associated With COVID-19 Disease Over Time</title>
+          <description>Defined as the sum of scores for the targeted symptoms (defined in the protocol) in the participant's daily diary record (each symptom was scored from 0-best to 3-worst). Participant-specific areas under the curve (AUC) over time were calculated using the trapezoidal rule and defined as the area below the line formed by joining total symptom scores on each daily diary card from the pre-treatment score on Day 0 through to Day 20. AUCs were rescaled by time by dividing by 21 (corresponding to the number of daily diary cards during follow-up between pre-treatment Day 0 and Day 20), in order to provide results on a symptom scale from 0-best to 42-worst (for non-hospitalized participants). Participants who were hospitalized were assigned a value equal to the sum of the maximum possible scaled AUC (42) and the duration of hospitalization, and thus values &gt;42 were possible. Missing scores between pre-treatment and Day 20 were linearly interpolated. Higher AUCs indicate worse outcomes.</description>
+          <population>Participants who initiated study treatment</population>
+          <units>score on a scale</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.0" lower_limit="0.9" upper_limit="18.0"/>
+                    <measurement group_id="O2" value="2.8" lower_limit="0.5" upper_limit="46.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <non_inferiority_desc>Participant specific AUCs were compared between randomized arms using a two-sided Wilcoxon test with a two-sided 5% type I error rate</non_inferiority_desc>
+            <p_value>0.53</p_value>
+            <p_value_desc>Wilcoxon Test was not stratified by high/low risk because of the small number enrolled</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Self-reported Return to Usual (Pre-COVID) Health.</title>
+        <description>Time to self-reported return to (pre-COVID) usual health was defined as the time from the start of study treatment to the first day in the participant's daily diary card on which they responded 'Yes' with no subsequent reports of 'No' to the question &quot;Have you returned to your usual (pre-COVID) health today?&quot; Participants who never reported a 'Yes' response were assigned a duration of 22 days.</description>
+        <time_frame>Day 0 to Day 20, 21 days total</time_frame>
+        <population>Participants who initiated study treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+            <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+            <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Self-reported Return to Usual (Pre-COVID) Health.</title>
+          <description>Time to self-reported return to (pre-COVID) usual health was defined as the time from the start of study treatment to the first day in the participant's daily diary card on which they responded 'Yes' with no subsequent reports of 'No' to the question &quot;Have you returned to your usual (pre-COVID) health today?&quot; Participants who never reported a 'Yes' response were assigned a duration of 22 days.</description>
+          <population>Participants who initiated study treatment</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17.0" lower_limit="6.0" upper_limit="22.0"/>
+                    <measurement group_id="O2" value="10.0" lower_limit="6.0" upper_limit="22.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <non_inferiority_desc>Participant specific durations were compared between randomized arms using a two-sided Wilcoxon test with a two-sided 5% type I error rate</non_inferiority_desc>
+            <p_value>0.83</p_value>
+            <p_value_desc>Wilcoxon Test was not stratified by high/low risk because of the small number enrolled</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>SARS-CoV-2 RNA Detection Status From Self-collected Nasal and Site-collected NP Swabs Among Subset</title>
+        <description>The virology substudy did not open to enrollment and thus no data on virologic outcomes are available to report</description>
+        <time_frame>Measured at entry, Day 6, and Day 20</time_frame>
+        <population>The virology substudy did not open to enrollment and thus no data on virologic outcomes are available</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+            <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+            <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SARS-CoV-2 RNA Detection Status From Self-collected Nasal and Site-collected NP Swabs Among Subset</title>
+          <description>The virology substudy did not open to enrollment and thus no data on virologic outcomes are available to report</description>
+          <population>The virology substudy did not open to enrollment and thus no data on virologic outcomes are available</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>SARS-CoV-2 RNA Level (Continuous) From Self-collected Nasal and Site-collected NP Swabs Among Subset</title>
+        <description>The virology substudy did not open to enrollment and thus no data on virologic outcomes are available to report</description>
+        <time_frame>Measured at entry, Day 6, and Day 20</time_frame>
+        <population>The virology substudy did not open to enrollment and thus no data on virologic outcomes are available to report</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+            <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+            <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SARS-CoV-2 RNA Level (Continuous) From Self-collected Nasal and Site-collected NP Swabs Among Subset</title>
+          <description>The virology substudy did not open to enrollment and thus no data on virologic outcomes are available to report</description>
+          <population>The virology substudy did not open to enrollment and thus no data on virologic outcomes are available to report</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With an Occurrence of Fainting</title>
+        <description>Fainting was self-reported on the study diary card as absent (score 0), mild (1), moderate (2), or severe (3); scores of &gt; 0 are defined as an occurrence of fainting</description>
+        <time_frame>From start of study treatment through Day 20</time_frame>
+        <population>Participants who initiated study treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+            <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+            <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With an Occurrence of Fainting</title>
+          <description>Fainting was self-reported on the study diary card as absent (score 0), mild (1), moderate (2), or severe (3); scores of &gt; 0 are defined as an occurrence of fainting</description>
+          <population>Participants who initiated study treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From enrollment to the end of follow up (Participants were asked to complete the Day 20 visit and then were discontinued from the study)</time_frame>
+      <desc>Post-entry adverse event (AE) reporting requirements were: All Grade ≥3 AEs; All cardiac AEs regardless of grade; All AEs that led to a change in study treatment/intervention regardless of grade; All AEs meeting SAE definition or EAE reporting requirement. DAIDS AE Grading Table, Version 2.1 and DAIDS EAE Manual Version 2.0 were used for this study.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</title>
+          <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).&#xD;
+Hydroxychloroquine (HCQ): Administered orally&#xD;
+Azithromycin (Azithro): Administered orally</description>
+        </group>
+        <group group_id="E2">
+          <title>Arm B: Placebo for Hydroxychloroquine and Azithromycin</title>
+          <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:&#xD;
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).&#xD;
+Placebo for Hydroxychloroquine: Administered orally&#xD;
+Placebo for Azithromycin: Administered orally</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 23.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>COVID-19</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA 23.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Tinnitus</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ageusia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Anosmia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Confusional state</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Nasal obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="9"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The study was terminated early due to slow enrollment and lack of community enthusiasm. Follow-up through week 24 was not completed for any participant. Participants were asked to complete the Day 20 visit and then were discontinued from the study.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>ACTG Clinicaltrials.gov Coordinator</name_or_title>
+      <organization>ACTG Network Coordinating Center, Social and Scientific Systems, a DLH Holdings Company</organization>
+      <phone>(301) 628-3348</phone>
+      <email>ACTGCT.gov@fstrf.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

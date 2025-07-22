@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1466">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04828161</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MP0420-CP302</org_study_id>
+    <secondary_id>2021-000890-10</secondary_id>
+    <nct_id>NCT04828161</nct_id>
+  </id_info>
+  <brief_title>A Dose Finding, Efficacy and Safety Study of Ensovibep (MP0420) in Ambulatory Adult Patients With Symptomatic COVID-19</brief_title>
+  <acronym>EMPATHY</acronym>
+  <official_title>A Randomized, Double-blind, Placebo-controlled, Multicenter Study of Ensovibep (MP0420) in Ambulatory Adult Patients With Symptomatic COVID-19 - The &quot;EMPATHY&quot; Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Molecular Partners AG</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Iqvia Pty Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Datamap</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>SYNLAB Analytics &amp; Services Switzerland AG</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Q2 Solutions</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Molecular Partners AG</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to establish the antiviral efficacy of ensovibep against severe&#xD;
+      acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in humans, identify the optimal dose,&#xD;
+      and demonstrate its clinical value for treating COVID-19 in adult ambulatory patients&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary objectives:&#xD;
+&#xD;
+      Part A The primary objective of this Part is to demonstrate superiority of ensovibep,&#xD;
+      compared to placebo, in reducing SARS-CoV-2 viral load through Day 8.&#xD;
+&#xD;
+      Part B The primary objective of this Part is to demonstrate superiority of ensovibep,&#xD;
+      compared to placebo, in reducing the occurrence of hospitalizations (≥ 24 hours of acute&#xD;
+      care) and/or emergency room visits related to COVID-19 or death from any cause up to Day 29.&#xD;
+&#xD;
+      Secondary objectives:&#xD;
+&#xD;
+      Part A&#xD;
+&#xD;
+      The secondary objectives of this Part are:&#xD;
+&#xD;
+        -  To assess the effect of ensovibep, compared to placebo, in reducing the occurrence of&#xD;
+           hospitalizations (≥ 24 hours of acute care) and/or emergency room visits related to&#xD;
+           COVID-19 or death from any cause up to Day 29&#xD;
+&#xD;
+        -  To assess the effect of ensovibep, compared to placebo, in reducing COVID-19 symptoms&#xD;
+           through Day 29&#xD;
+&#xD;
+        -  To evaluate safety and tolerability of ensovibep&#xD;
+&#xD;
+        -  To characterize the pharmacokinetics (PK) of ensovibep&#xD;
+&#xD;
+      Part B&#xD;
+&#xD;
+      The secondary objectives of this Part are:&#xD;
+&#xD;
+        -  To assess the effect of ensovibep, compared to placebo, in reducing SARS-CoV-2 viral&#xD;
+           load through Day 8&#xD;
+&#xD;
+        -  To assess the effect of ensovibep, compared to placebo, in reducing COVID-19 symptoms up&#xD;
+           to Day 29&#xD;
+&#xD;
+        -  To evaluate the immunogenicity of ensovibep and its clinical relevance (pharmacokinetic,&#xD;
+           efficacy, and safety).&#xD;
+&#xD;
+        -  To evaluate safety and tolerability of ensovibep&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 15, 2021</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 2022</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part A - SARS-CoV-2 viral load</measure>
+    <time_frame>8 days (days 0, 3, 5 and 8)</time_frame>
+    <description>Time-weighted change from baseline (measured at Day 3, Day 5, and Day 8) in SARS-CoV-2 viral load in nasopharyngeal swabs through Day 8</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part B - Occurrence of hospitalizations, emergency room visits or death</measure>
+    <time_frame>up to day 29</time_frame>
+    <description>Proportion of patients experiencing hospitalizations (≥ 24 hours of acute care) and/or emergency room visits related to COVID-19 or death from any cause up to Day 29.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Occurrence of hospitalizations, emergency room visits or death</measure>
+    <time_frame>up to day 29</time_frame>
+    <description>Proportion of patients experiencing hospitalizations (≥ 24 hours of acute care) and/or emergency room visits related to COVID-19 or death from any cause up to Day 29.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Time to sustained clinical recovery</measure>
+    <time_frame>up to day 29</time_frame>
+    <description>Time to sustained clinical recovery, defined as (a) all symptoms from the modified FDA COVID-19 symptom list scored as moderate or severe at baseline are subsequently scored as mild or absent, AND (b) all symptoms from the modified FDA COVID-19 symptom list scored as mild or absent at baseline are subsequently scored as absent, with no subsequent worsening up to Day 29.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Serious adverse events (SAEs) and AEs of Special Interest (AESIs)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+    <description>In order to evaluate the safety and tolerability of ensovibep, the proportion of patients up to end of study with: (a) SAEs, including death from any cause and (b) AESIs, including infusion-related reactions (IRRs) CTCAE grade 2 or higher, will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Vital Signs: Heart Rate (bpm)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Vital Signs: Blood Pressure Systolic and Diastolic (mmHg)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Vital Signs: Body Temperature (°C)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Vital Signs: Respiratory Rate (breaths per minute)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Vital Signs: Oxygen Saturation (SpO2)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Number of Participants with Laboratory Abnormalities</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Free and total ensovibep concentration in serum (mass per volume units)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Observed maximum concentration (Cmax)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+    <description>The maximum observed concentration (Cmax) is estimated based on the serum concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Time to Cmax (Tmax)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - The area under the concentration-time curve from time zero to the time of the last quantifiable concentration (AUClast)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - The area under the concentration-time curve from time zero extrapolated to infinity time (AUCinf)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Terminal Elimination Half-Life (T½)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Terminal Elimination rate constant (λz)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - The apparent volume of distribution during terminal phase associated with λz (Vz)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A - Apparent total body clearance of the drug from plasma (CL)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B - SARS-CoV-2 viral load</measure>
+    <time_frame>8 days (days 1, 3, 5 and 8)</time_frame>
+    <description>Time-weighted change from baseline (measured at Day 3, Day 5, and Day 8) in SARS-CoV-2 viral load in nasopharyngeal swabs through Day 8</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B - Time to sustained clinical recovery</measure>
+    <time_frame>up to day 29</time_frame>
+    <description>Time to sustained clinical recovery, defined as (a) all symptoms from the modified FDA COVID-19 symptom list scored as moderate or severe at baseline are subsequently scored as mild or absent, AND (b) all symptoms from the modified FDA COVID-19 symptom list scored as mild or absent at baseline are subsequently scored as absent, with no subsequent worsening up to Day 29.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B - Proportion of patients with treatment-emergent ADAs (TE-ADA)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+    <description>To evaluate the immunogenicity of ensovibep during the study and its clinical relevance (pharmacokinetic, efficacy and safety), proportion of patients exhibiting TE-ADA over time will be determined.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B - SAEs and AESIs</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+    <description>In order to evaluate the safety and tolerability of ensovibep, the proportion of patients up to end of study with: (a) SAEs, including death from any cause and (b) AESIs, including IRRs CTCAE grade 2 or higher, will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B - Vital Signs: Heart Rate (bpm)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B - Vital Signs: Blood Pressure Systolic and Diastolic (mmHg)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B - Vital Signs: Body Temperature (°C)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B - Vital Signs: Respiratory Rate (breaths per minute)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B - Vital Signs: Oxygen Saturation (SpO2)</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B - Number of Participants with Laboratory Abnormalities</measure>
+    <time_frame>up to day 91 (EOS)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">2100</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>ensovibep active treatment arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ensovibep active treatment arm 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ensovibep active treatment arm 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ensovibep</intervention_name>
+    <description>Phase 2/ Part A : 3 active treatment arms vs placebo, IV on day 1 only Phase 3/ Part B: 1 active treatment arm (selected dose from Part A) vs placebo, IV on day 1 only</description>
+    <arm_group_label>ensovibep active treatment arm 1</arm_group_label>
+    <arm_group_label>ensovibep active treatment arm 2</arm_group_label>
+    <arm_group_label>ensovibep active treatment arm 3</arm_group_label>
+    <other_name>MP0420</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Phase 2/ Part A : 3 active treatment arms vs placebo, IV on day 1 only Phase 3/ Part B: 1 active treatment arm (selected dose from Part A) vs placebo, IV on day 1 only</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Men or women ≥ 18 years of age on the day of inclusion (no upper limit).&#xD;
+&#xD;
+          2. Presence of two or more COVID-19 symptoms and onset within 7 days prior to dosing:&#xD;
+             Feeling hot or feverish, cough, sore throat, low energy or tiredness, headache, muscle&#xD;
+             or body aches, chills or shivering, and shortness of breath.&#xD;
+&#xD;
+          3. Positive test for SARS-CoV-2 in upper respiratory swab on the day of dosing (rapid&#xD;
+             antigen test).&#xD;
+&#xD;
+          4. Understand and agree to comply with the planned study procedures.&#xD;
+&#xD;
+          5. The patient or legally authorized representative give signed informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Requiring hospitalization at time of screening, or at time of study drug&#xD;
+             administration.&#xD;
+&#xD;
+          2. Oxygen saturation (SpO2) ≤ 93% on room air at sea level or ratio of arterial oxygen&#xD;
+             partial pressure (PaO2 in mmHg) to fractional inspired oxygen (FiO2) &lt; 300,&#xD;
+             respiratory rate ≥ 30 per minute, and heart rate ≥ 125 per minute.&#xD;
+&#xD;
+          3. Known allergies to any of the components used in the formulation of the ensovibep or&#xD;
+             placebo.&#xD;
+&#xD;
+          4. Suspected or proven serious, active bacterial, fungal, viral, or other infection&#xD;
+             (besides SARS-CoV-2) that in the opinion of the investigator could constitute a risk&#xD;
+             when taking intervention.&#xD;
+&#xD;
+          5. Any serious concomitant systemic disease, condition, or disorder that, in the opinion&#xD;
+             of the investigator, should preclude participation in this study.&#xD;
+&#xD;
+          6. Any co-morbidity requiring surgery within 7 days of dosing, or that is considered&#xD;
+             life-threatening within 29 days of dosing.&#xD;
+&#xD;
+          7. Prior or concurrent use of any medication for treatment of COVID-19, including&#xD;
+             antiviral agents, convalescent serum, or anti-viral antibodies. Purely symptomatic&#xD;
+             therapies (e.g., over-the-counter [OTC] cough medications, acetaminophen, and&#xD;
+             nonsteroidal anti-inflammatories [NSAIDs]) are permitted. Prior vaccination for&#xD;
+             COVID-19 is permitted.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Medical Director MPAG</last_name>
+    <phone>+41 44 755 7700</phone>
+    <email>info@molecularpartners.com</email>
+  </overall_contact>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ensovibep</keyword>
+  <keyword>COVID-19 treatment, symptom reduction, viral load reduction,</keyword>
+  <keyword>EMPATHY</keyword>
+  <keyword>SARS-COV-2</keyword>
+  <keyword>designed ankyrin repeat protein (DARPin®)</keyword>
+  <keyword>angiotensin-converting enzyme 2 (ACE2)</keyword>
+  <keyword>Symptomatic COVID-19 infected patients</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

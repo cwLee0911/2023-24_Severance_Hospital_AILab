@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2863">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04773899</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-A00330-41</org_study_id>
+    <nct_id>NCT04773899</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Associated Endothelial Dysfunction Study</brief_title>
+  <acronym>CAUSED</acronym>
+  <official_title>L'Étude de la Dysfonction endothéliale Dans la Maladie à COVID-19 Chez Des Patients en Soins Critiques.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Angers</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Angers</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      SARS-CoV-2 enters human cells through the binding of the spike protein with angiotensin&#xD;
+      converting enzyme-2 (ACE2), a membrane receptor highly expressed in immune or non-immune&#xD;
+      cells, and in many organs, including lungs and endothelial cells.&#xD;
+&#xD;
+      In COVID-19 disease, the infection of endothelial might cause an acute endothelial&#xD;
+      dysfunction.&#xD;
+&#xD;
+      The objective of this study is to demonstrate that patients COVID19 (+) hospitalized in ICU&#xD;
+      present an acute endothelial dysfunction (compared with COVID19 (-) also hospitalized in&#xD;
+      ICU).&#xD;
+&#xD;
+      This acute endothelial dysfunction could lead to organ failure, systemic immune dysregulation&#xD;
+      and thrombosis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This cohort study compares 3 exposure cohorts :&#xD;
+&#xD;
+      Cohort C1 includes COVID19 (+) patients admitted in ICU in whom the diagnosis of COVID19&#xD;
+      pneumonia was confirmed.&#xD;
+&#xD;
+      Cohort C2 includes COVID 19 (-) matched patients also admitted in ICU.&#xD;
+&#xD;
+      Cohort C3 is a control group. Patients with few comorbidities, ASA 1, recruited during&#xD;
+      preoperative assessment for elective surgery.&#xD;
+&#xD;
+      Eligible patients are included within 72 hours of ICU admission (C1, C2) or during the&#xD;
+      preoperative assessment (C3). Oral consent is needed after complete explanation of the&#xD;
+      protocol.&#xD;
+&#xD;
+      During inclusion visit (V0), patient characteristics as treatments, medical history, clinical&#xD;
+      and biological data are registered.&#xD;
+&#xD;
+      Microcirculation is assessed for each patient directly after inclusion.&#xD;
+&#xD;
+      For patients in C1 and C2 a follow-up is planned. This visit (V1) occurs when the patient is&#xD;
+      discharged from ICU or the day of his death if it occurs in ICU. In case of prolonged stay in&#xD;
+      ICU, V1 is carried out 2 months after inclusion. During V1, arterial and/or venous&#xD;
+      thromboembolic events and mortality in ICU is registered.&#xD;
+&#xD;
+      For Patients in C3, no follow-up is planned.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 9, 2021</start_date>
+  <completion_date type="Anticipated">June 9, 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 9, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Endothelial function measured by Near-infrared spectroscopy (NIRS)</measure>
+    <time_frame>within 72 hours of admission in Intensive Care Unit (ICU)</time_frame>
+    <description>Measure : Saturation Tissue (StO2) after a vascular occlusion test (VOT)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Endothelial function measured by perfusion index</measure>
+    <time_frame>within 72 hours of admission in ICU</time_frame>
+    <description>measure : Perfusion index after a vascular occlusion test (VOT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Microvascular reactivity measured laser speckle contrast imaging</measure>
+    <time_frame>within 72 hours of admission in ICU</time_frame>
+    <description>measure : Vasodilation after iontophoresis of Acetylcholine and Nitroprusside</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Morphological analysis by Sublingual videomicroscopy</measure>
+    <time_frame>within 72 hours of admission in ICU</time_frame>
+    <description>measure : Microvascular flow index (MFI)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Morphological analysis by Sublingual videomicroscopy</measure>
+    <time_frame>within 72 hours of admission in ICU</time_frame>
+    <description>measure : Perfused vessel density (PVD)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inflammatory status</measure>
+    <time_frame>Inclusion</time_frame>
+    <description>measure : C-reactive protein level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inflammatory status</measure>
+    <time_frame>Inclusion</time_frame>
+    <description>measure : neutrophil to lymphocyte ratio</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prothrombotic condition</measure>
+    <time_frame>Inclusion</time_frame>
+    <description>measure : D-Dimer Level and</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Thrombotic events</measure>
+    <time_frame>Inclusion (V0) up to 8 weeks maximum</time_frame>
+    <description>measure : All arterial and/or venous thromboembolic events since acute episode</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of lung disease</measure>
+    <time_frame>Inclusion</time_frame>
+    <description>measure : PaO2/FiO2 ratio</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of lung disease</measure>
+    <time_frame>Inclusion</time_frame>
+    <description>measure : percentage of pulmonary lesions assessed by CT scan at the ICU admission.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Up to 8 weeks after inclusion</time_frame>
+    <description>measure : Mortality in ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Organ failure</measure>
+    <time_frame>Inclusion</time_frame>
+    <description>measure : Sequential Organ Failure Assessment (SOFA) Score, minimum value 0 and maximum value 24. The higher score means a worse outcome.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Covid19</condition>
+  <condition>Microcirculation</condition>
+  <arm_group>
+    <arm_group_label>Cohort C1</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>COVID19 (+) ICU patients with COVID19 pneumonia.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort C2</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>COVID19 (-) matched ICU patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort C3</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>COVID19 (-) ASA 1 non-hospitalized patients</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Procedure : Multimodal microvascular assessment at study inclusion</intervention_name>
+    <description>Vascular occlusion test (VOT) performed on the arm. Measurement of the quality of tissue reperfusion by NIRS on the thenar eminence and the digital perfusion index.&#xD;
+Microcirculation reactivity is measured for each patient with a laser speckle contrast imaging (LSCI) placed on the forearm. Tests will be performed for evaluation of microvascular reactivity: Acetylcholine and Nitroprusside Iontophoresis.&#xD;
+Morphological analysis of the microcirculation by sublingual videomicroscopy.</description>
+    <arm_group_label>Cohort C1</arm_group_label>
+    <arm_group_label>Cohort C2</arm_group_label>
+    <arm_group_label>Cohort C3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria :&#xD;
+&#xD;
+          -  Adult patient (≥ 18 ans)&#xD;
+&#xD;
+          -  Affiliation to the French National Healthcare System&#xD;
+&#xD;
+          -  Voluntary patient who have given oral consent&#xD;
+&#xD;
+        Cohort C1, COVID19 (+) patients hospitalized in ICU :&#xD;
+&#xD;
+          -  Patient admitted to ICU within 72 hours before inclusion&#xD;
+&#xD;
+          -  Patient presenting SARS-COV2 pneumonia diagnosed by CT scan or by COVID-19 PCR test.&#xD;
+&#xD;
+        Cohort C2, COVID19 (-) patients hospitalized in ICU :&#xD;
+&#xD;
+          -  Patient admitted to ICU within 72 hours before inclusion&#xD;
+&#xD;
+          -  All COVID19 PCR tests carried out in the 15 days prior inclusion are negative&#xD;
+&#xD;
+          -  All the CT scans possibly performed since the acute event do not show COVID19&#xD;
+             pulmonary lesions&#xD;
+&#xD;
+          -  Matching with the cases C1 COVID 19 (+) patients on sex, age (threshold at 65 years),&#xD;
+             treated hypertension, treated diabetes mellitus.&#xD;
+&#xD;
+        Cohort C3, elective surgery patients who are not hospitalized in ICU :&#xD;
+&#xD;
+          -  ASA 1 classification (no major comorbidity, a normaly healthy patient)&#xD;
+&#xD;
+          -  Asymptomatic to COVID19 according to French Anesthesiology Society 2020 :&#xD;
+&#xD;
+               -  No major symptoms among : measured fever &gt; 38°C, dry cough, shortness of breath&#xD;
+                  or high respiratory rate (&gt;20/min), anosmia, ageusia&#xD;
+&#xD;
+               -  No more than one minor symptom among : sore throat, rhinorrhea, chest pain,&#xD;
+                  myalgia, general alteration or severe tiredness, confusion, disorientation,&#xD;
+                  headache, diarrhea, nausea or/and vomiting, rash/ frostbite/cracking on fingers&#xD;
+                  or hand&#xD;
+&#xD;
+          -  No positive COVID19 PCR test within 15 days prior to inclusion&#xD;
+&#xD;
+        Non-inclusion criteria :&#xD;
+&#xD;
+          -  Proven sepsis (Procalcitonin &gt;1.0 µg/l) in the 24 hours prior to inclusion&#xD;
+&#xD;
+          -  End-stage kidney disease with dialysis&#xD;
+&#xD;
+          -  Patient with haemodynamic failure treated by norepinephrine&#xD;
+&#xD;
+          -  Patient with traumatic brain injury&#xD;
+&#xD;
+          -  Intubated patient and/or sedated&#xD;
+&#xD;
+          -  Pregnant woman, parturient and nursing mother&#xD;
+&#xD;
+          -  Person restricted in liberty by an administrative or judicial decision&#xD;
+&#xD;
+          -  Patient concerned with admission for psychiatric care&#xD;
+&#xD;
+          -  Adult person subject to a legal protection measure or unable to express consent&#xD;
+&#xD;
+        Exclusion criteria :&#xD;
+&#xD;
+        • Cohorts C2 and C3 : positive COVID-19 PCR test within 5 days after inclusion&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Samir HENNI, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UH Angers</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stanislas ABRARD, MD</last_name>
+    <phone>0(33)472116944</phone>
+    <email>stanislas.abrard@chu-lyon.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Samir HENNI, MD PhD</last_name>
+    <phone>0(33)241354617</phone>
+    <email>samir.henni@chu-angers.fr</email>
+  </overall_contact_backup>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 26, 2021</study_first_posted>
+  <last_update_submitted>February 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

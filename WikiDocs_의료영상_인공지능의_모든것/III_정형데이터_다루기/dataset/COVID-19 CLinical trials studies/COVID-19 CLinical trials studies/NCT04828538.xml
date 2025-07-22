@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1636">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04828538</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NUTROVID</org_study_id>
+    <nct_id>NCT04828538</nct_id>
+  </id_info>
+  <brief_title>Vitamin D, Omega-3, and Combination Vitamins B, C and Zinc Supplementation for the Treatment and Prevention of COVID-19</brief_title>
+  <official_title>A Double-Blind, Multifactorial, 2x2x2 Randomized Trial of Daily Oral Vitamin D, Omega 3, and Combination Vitamins B, C and Zinc Supplementation for the Treatment and Prevention of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital de la Soledad</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Microclinic International</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital de la Soledad</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We will conduct randomized, double-blind, placebo-controlled, 2x2x2 factorial trials of a&#xD;
+      vitamin D supplement vs. placebo, a combination of vitamin C + vitamin B complex + zinc vs.&#xD;
+      placebo, and an Omega-3 supplement (comprised of DHA/EPA fatty acids) vs. placebo, to&#xD;
+      investigate the effects on mortality risk, severe outcomes and complications in ~1,500 adults&#xD;
+      aged ≥18 years recently diagnosed with COVID-19. The proposed interventions have already&#xD;
+      shown favorable results in past studies, and are well-tolerated, safe and relatively&#xD;
+      inexpensive. However, randomized trial evidence for their effectiveness in COVID-19 patients&#xD;
+      is limited or does not exist to date. Large, early-illness-focused randomized trials such as&#xD;
+      these could have major clinical and public health implications on management of COVID-19,&#xD;
+      especially in low-income, non- white communities.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 induced by SARS-CoV-2 infection is associated with multiple organ failure. The&#xD;
+      result, especially in older populations with underlying conditions, is a devastating cytokine&#xD;
+      storm. While a vaccine or effective therapies are being developed, low-cost, simple solutions&#xD;
+      are needed, especially in developing countries. This trial harnesses the power of supplements&#xD;
+      that are considered safe but which offer the following possibilities of reducing the burden&#xD;
+      of COVID-19 complications:&#xD;
+&#xD;
+      Vitamin D has been hypothesized to be important in the regulation of the inflammatory&#xD;
+      cytokine response, i.e. the cytokine storm, and reducing associated complications.&#xD;
+&#xD;
+      Vitamin C may help reduce the cytokine storm and supports the immune system. Although IV&#xD;
+      Vitamin C offers the possibility of injecting the bloodstream with much higher doses, we aim&#xD;
+      to develop a low-cost, over-the-counter protocol that can be implemented at scale.&#xD;
+&#xD;
+      Vitamin B Complex has been proposed as a non-pharmacological addition to the standard of care&#xD;
+      treatments for COVID-19. Vitamin B reduces pro-inflammatory cytokine levels, helps improve&#xD;
+      respiratory function, reduces hypercoagulability, and promotes endothelial structural&#xD;
+      integrity.&#xD;
+&#xD;
+      Resolvins - a type of SPM (specialized pro-resolving lipid autacoid mediators) are&#xD;
+      hypothesized to prevent cytokine storms. These SPMs are derived from Omega-3s.&#xD;
+&#xD;
+      Elemental Zinc is hypothesized to inhibit the replication of viruses. While there are a&#xD;
+      number of other trials that have been registered, which integrate the use of nutritional&#xD;
+      supplements, no other trial is testing the synergistic effects of Omega 3s, Vitamins D, C, B,&#xD;
+      and Zinc using a factorial design in low-income Latin American context.&#xD;
+&#xD;
+      The trial utilizes an innovative and cost- efficient approach leveraging the existing&#xD;
+      infrastructure of the hospital system in San Luis Potosí province of Mexico. We aim to enroll&#xD;
+      ~1,800 adults who have recently tested positive for SARS-Cov-2, the virus that causes&#xD;
+      COVID-19, and arrived at hospital or clinic within 5 days of symptom onset. These ~1,800&#xD;
+      adult women and men age 18 or older will be enrolled and randomized into the NUTROVID Treat&#xD;
+      trial's 2x2x2 arms, in which 50% of the population will have a chance to receive any&#xD;
+      combination of the 3 supplement formulations, and the other 50% will receive the respective&#xD;
+      placebos. Those who test negative will be randomized into the NUTROVID-Prevent.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2021</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>Double-blind randomized, placebo-controlled double blinded 2x2x2 factorial trial (includes 2 cohorts, treatment cohort and prevention cohort) of the following oral supplementation treatments for up to 60 days per person:&#xD;
+Factorial 1 (F1): 4000 IU Vitamin D vs placebo&#xD;
+Factorial 2 (F2): 1000mg Omega DHA/EPA vs. placebo&#xD;
+Factorial 3 (F3): Combination 1000 mg Vitamin C, Vitamin B complex** and Zinc Acetate, 100 mg/day vs. placebo&#xD;
+**(Vitamin B complex components: B12=1 mg; B6=50 mg; B9=2.5 mg; B1=100 mg; B2=100 mg; B3=14 mg; B7=50 mg)</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Efficacy for COVID infection prevention</measure>
+    <time_frame>30 days</time_frame>
+    <description>COVID infection rate</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Efficacy for treatment of severe COVID disease</measure>
+    <time_frame>30 days</time_frame>
+    <description>mortality or ICU admission or intubation or mechanical ventilation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to resolution of illness</measure>
+    <time_frame>1-30 days</time_frame>
+    <description>Hospital length of stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovascular events incidence</measure>
+    <time_frame>60 days</time_frame>
+    <description>stroke, heart attack, thrombotic event, arrhythmia or heart failure report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in metabolic factors</measure>
+    <time_frame>60 days</time_frame>
+    <description>hypertension or hyperglycemia</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">3600</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Vitamin D</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Oral 4000 IU Vitamin D</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Omega DHA / EPA</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Oral 1000mg Omega DHA/EPA vs. placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vitamin C, Vitamin B complex and Zinc Acetate</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Combination of oral 1000 mg Vitamin C, Vitamin B complex and Zinc Acetate, 100 mg/day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Vitamin D</intervention_name>
+    <description>PO daily 4000 IU Vitamin D</description>
+    <arm_group_label>Vitamin D</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Omega DHA / EPA</intervention_name>
+    <description>Po Daily 1000mg Omega DHA/EPA</description>
+    <arm_group_label>Omega DHA / EPA</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Vitamin C, Vitamin B complex and Zinc Acetate</intervention_name>
+    <description>Combination 1000 mg Vitamin C, Vitamin B complex** and Zinc Acetate, 100 mg/day&#xD;
+**(Vitamin B complex components: B12=1 mg; B6=50 mg; B9=2.5 mg; B1=100 mg; B2=100 mg; B3=14 mg; B7=50 mg)</description>
+    <arm_group_label>Vitamin C, Vitamin B complex and Zinc Acetate</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Positive SARS-CoV-2 Test group (Target enrollment: N=1,800) Treatment Trial: Adult&#xD;
+             men/women recently diagnosed with COVID-19 (positive PCR test for SARS-CoV-2&#xD;
+             coronavirus) within &lt;=5 days of symptom onset; and satisfying one of these risk&#xD;
+             factors: &gt;=50 years old; or Diabetic &amp; &gt;=40 years old; or Obese &amp; &gt;=40 years old.&#xD;
+&#xD;
+          -  Negative SARS-CoV-2 Test group (Target enrollment: N=1,800) Prevention Trial: Adult&#xD;
+             men/women recently tested negative for COVID-19 (negative PCR test for SARS-CoV-2&#xD;
+             coronavirus); and satisfying one of these risk factors: &gt;=50 years old; or Diabetic &amp;&#xD;
+             &gt;=40 years old; or Obese &amp; &gt;=40 years old.&#xD;
+&#xD;
+        Signed Informed Consent Form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients requiring immediate intubation or deemed likely to die within 48 hours.&#xD;
+&#xD;
+          -  Patients deemed likely for transfer to an ICU within 48 hours.&#xD;
+&#xD;
+          -  Patients currently taking oral corticosteroids for any reason at the time of&#xD;
+             presentation for care.&#xD;
+&#xD;
+          -  Patients included in any other interventional trial.&#xD;
+&#xD;
+          -  Uncontrolled bacterial superinfection.&#xD;
+&#xD;
+          -  Severe chronic kidney disease (stage 4) or requiring dialysis (i.e. eGFR &lt; 30).&#xD;
+&#xD;
+          -  Pregnant women or women who are breastfeeding.&#xD;
+&#xD;
+          -  Immunocompromised patients.&#xD;
+&#xD;
+          -  Any patient with recent treatment (past 30 days) of immunosuppressive agents including&#xD;
+             (but not restricted to) DMARDs, corticosteroids, antibody therapy, intravenous&#xD;
+             immunoglobulins etc.&#xD;
+&#xD;
+          -  Patients with acute myocardial infarction.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eric Ding, ScD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Federation of American Scientists</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Daniel E Zoughbie, DPhil</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Microclinic Social Network Research Group</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Diego Sanchez, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ministry of Health, Mexico</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>José A Yañez, MD</last_name>
+    <phone>(52)8260100</phone>
+    <phone_ext>24322</phone_ext>
+    <email>drjosearturoyanez@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital de Soledad</name>
+      <address>
+        <city>San Luis Potosí</city>
+        <state>SLP</state>
+        <zip>78435</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Diego Sánchez</last_name>
+      <phone>5528550821</phone>
+      <email>dsanchezm@microclinics.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <reference>
+    <citation>Laird E, Rhodes J, Kenny RA. Vitamin D and Inflammation: Potential Implications for Severity of Covid-19. Ir Med J. 2020 May 7;113(5):81.</citation>
+    <PMID>32603576</PMID>
+  </reference>
+  <reference>
+    <citation>Boretti A, Banik BK. Intravenous vitamin C for reduction of cytokines storm in acute respiratory distress syndrome. PharmaNutrition. 2020 Jun;12:100190. doi: 10.1016/j.phanu.2020.100190. Epub 2020 Apr 21. Review.</citation>
+    <PMID>32322486</PMID>
+  </reference>
+  <reference>
+    <citation>Panigrahy D, Gilligan MM, Huang S, Gartung A, Cortés-Puch I, Sime PJ, Phipps RP, Serhan CN, Hammock BD. Inflammation resolution: a dual-pronged approach to averting cytokine storms in COVID-19? Cancer Metastasis Rev. 2020 Jun;39(2):337-340. doi: 10.1007/s10555-020-09889-4.</citation>
+    <PMID>32385712</PMID>
+  </reference>
+  <reference>
+    <citation>Shakoor H, Feehan J, Mikkelsen K, Al Dhaheri AS, Ali HI, Platat C, Ismail LC, Stojanovska L, Apostolopoulos V. Be well: A potential role for vitamin B in COVID-19. Maturitas. 2021 Feb;144:108-111. doi: 10.1016/j.maturitas.2020.08.007. Epub 2020 Aug 15.</citation>
+    <PMID>32829981</PMID>
+  </reference>
+  <reference>
+    <citation>Entrenas Castillo M, Entrenas Costa LM, Vaquero Barrios JM, Alcalá Díaz JF, López Miranda J, Bouillon R, Quesada Gomez JM. &quot;Effect of calcifediol treatment and best available therapy versus best available therapy on intensive care unit admission and mortality among patients hospitalized for COVID-19: A pilot randomized clinical study&quot;. J Steroid Biochem Mol Biol. 2020 Oct;203:105751. doi: 10.1016/j.jsbmb.2020.105751. Epub 2020 Aug 29.</citation>
+    <PMID>32871238</PMID>
+  </reference>
+  <reference>
+    <citation>Singh M, Das RR. Zinc for the common cold. Cochrane Database Syst Rev. 2013 Jun 18;(6):CD001364. doi: 10.1002/14651858.CD001364.pub4. Review. Update in: Cochrane Database Syst Rev. 2015;(4):CD001364.</citation>
+    <PMID>23775705</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 31, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 2, 2021</study_first_posted>
+  <last_update_submitted>March 31, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital de la Soledad</investigator_affiliation>
+    <investigator_full_name>Dr. Arturo Yanez</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>nutritional supplements</keyword>
+  <keyword>Vitamin B</keyword>
+  <keyword>Vitamin C</keyword>
+  <keyword>Zinc</keyword>
+  <keyword>cytokine storm</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D</mesh_term>
+    <mesh_term>Vitamins</mesh_term>
+    <mesh_term>Ascorbic Acid</mesh_term>
+    <mesh_term>Folic Acid</mesh_term>
+    <mesh_term>Vitamin B Complex</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

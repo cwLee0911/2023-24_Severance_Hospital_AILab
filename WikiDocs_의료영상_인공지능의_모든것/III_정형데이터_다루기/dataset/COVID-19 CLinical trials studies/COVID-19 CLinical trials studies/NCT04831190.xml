@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5595">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04831190</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HREBA.CC-20-0322</org_study_id>
+    <nct_id>NCT04831190</nct_id>
+  </id_info>
+  <brief_title>A Tailored Exercise Oncology Program for Neuro-Oncology Patients</brief_title>
+  <acronym>ACE-Neuro</acronym>
+  <official_title>ACE-Neuro: A Tailored Exercise Oncology Program for Neuro-Oncology Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Calgary</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Alberta Cancer Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Alberta</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tom Baker Cancer Centre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cross Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Calgary</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: Exercise, or physical activity, is beneficial for all cancer survivors. Despite&#xD;
+      this knowledge, there is generally a gap between the evidence and practice. And this gap is&#xD;
+      widened with (a) underserved tumour groups in exercise oncology, such as neuro-oncology&#xD;
+      patients, or (b) underutilized timelines across the cancer treatment phases to deliver&#xD;
+      exercise oncology education or programming. Thus, our current work is building a hybrid&#xD;
+      implementation effectiveness study into the clinical care pathway across Alberta in&#xD;
+      neuro-oncology - ACE-Neuro.&#xD;
+&#xD;
+      Objectives: The purpose of this study is to assess the impact of an online, tailored exercise&#xD;
+      oncology program for neuro-oncology patients using a participant-oriented research (POR)&#xD;
+      approach as well as both quantitative and qualitative research methods. Specifically, the&#xD;
+      primary outcome of this study is to determine the feasibility of recruitment, referral,&#xD;
+      triage, adherence, and adverse events. The secondary outcome is to examine the preliminary&#xD;
+      effectiveness of the neuro-oncology exercise program on patient-reported outcomes and&#xD;
+      physical function.&#xD;
+&#xD;
+      Methods: Neuro-oncology patients &gt;18 years and able to consent in English will be referred to&#xD;
+      a study-based Rehabilitation Triage Clinic, where a Physician-Researcher will assess patients&#xD;
+      on their overall health and functional status, and next triage them to either ACE-Neuro,&#xD;
+      rehabilitation oncology, or cancer physiatry. Once referred to ACE-Neuro, participants will&#xD;
+      partake in a 12-week online exercise program, delivered by a Clinical Exercise Physiologist.&#xD;
+      Participants will complete online assessments of physical function, patient-reported&#xD;
+      outcomes, and objective physical activity at baseline (pre-program), 12-weeks (post-program&#xD;
+      completion), 6-months, and 12-months. The exercise program includes weekly one-on-one online&#xD;
+      exercise delivery, health coaching to support behaviour change, and access to an online group&#xD;
+      exercise session. Participants will also be invited to a post-program qualitative interview&#xD;
+      to get perspectives on their experiences participating in ACE-Neuro.&#xD;
+&#xD;
+      Relevance: By working directly with patients, healthcare providers, and community partners,&#xD;
+      this implementation project will develop a framework that streamlines patient triage, and&#xD;
+      provides a tailored online exercise program for neuro-oncology patients, thereby advancing&#xD;
+      exercise oncology research and clinical practice.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND &amp; RATIONALE&#xD;
+&#xD;
+      Exercise, or physical activity, is beneficial for all cancer survivors. Despite this&#xD;
+      knowledge, there is generally a gap between the evidence and practice. And this gap is&#xD;
+      widened with (a) underserved tumour groups in exercise oncology, such as neuro-oncology&#xD;
+      patients, or (b) underutilized timelines across the cancer treatment phases to deliver&#xD;
+      exercise oncology education or programming.&#xD;
+&#xD;
+      Within Alberta (AB), the investigators have been able to very successfully implement the&#xD;
+      Alberta Cancer Exercise (ACE) program to start to address the gap between research and&#xD;
+      practice. As a hybrid implementation effectiveness study, ACE is building a model for&#xD;
+      exercise oncology delivery within standard cancer care. With over 2500 participants across&#xD;
+      AB, the investigators have substantial evidence supporting the feasibility of ACE, as well as&#xD;
+      the potential benefits. Despite these successes, ACE remains primarily represented by&#xD;
+      participants from breast, prostate, and colorectal tumour groups. This represents a lack of&#xD;
+      connection between smaller and more high risk tumour groups within referral pathways for the&#xD;
+      ACE program, both at TBCC and CCI, but also within the regional community cancer clinics&#xD;
+      (Grande Prairie, Red Deer, Medicine Hat, Lethbridge).&#xD;
+&#xD;
+      RESEARCH QUESTION &amp; OBJECTIVES&#xD;
+&#xD;
+      The purpose of this feasibility-implementation study is to build exercise into the clinical&#xD;
+      care pathway in neuro-oncology clinics at the two major cancer centres in AB, where all&#xD;
+      neuro-oncology patients provincially are treated (Tom Baker Cancer Centre, TBCC; and the&#xD;
+      Cross Cancer Institute, CCI). Specifically, the objectives of the proposed work are: (1) to&#xD;
+      tailor the ACE exercise program for all neuro- oncology patients, to ACE-Neuro; this includes&#xD;
+      considering additional tailoring to address needs earlier in the care pathway, from diagnosis&#xD;
+      through treatment (i.e., prehabilitation phases) and into longer term survivorship (wellness&#xD;
+      cancer survivorship care plans), (2) to provide models of delivery of exercise oncology&#xD;
+      programs to enhance access (i.e., remote delivery, home support, individual vs group), and&#xD;
+      (3) to build this systematically within the neuro-oncology clinics at the TBCC and CCI, to&#xD;
+      ensure that all patients diagnosed with brain tumours can access wellness during their cancer&#xD;
+      care journey. The investigators hypothesize that there will be improvements in patients'&#xD;
+      physical and psychosocial well-being (individual level outcomes), as well as a more&#xD;
+      integrated workflow in the clinical cancer care setting that includes exercise as part of&#xD;
+      standard clinical practice (systems level outcome). Specifically, the primary outcome of this&#xD;
+      study is to determine the feasibility of recruitment, referral, triage, adherence, and&#xD;
+      adverse events. The secondary outcome is to examine the preliminary effectiveness of the&#xD;
+      neuro-oncology exercise program on patient-reported outcomes and physical function.&#xD;
+&#xD;
+      METHODS&#xD;
+&#xD;
+      Using the successful implementation model developed in ACE, the proposed work will build a&#xD;
+      neuro-oncology cohort within a mixed methods study design. There will be multiple phases to&#xD;
+      the implementation of ACE-Neuro, including:&#xD;
+&#xD;
+        1. Building awareness within the clinical teams, identifying site champions, and providing&#xD;
+           educational and referral resources specific to neuro-oncology and exercise;&#xD;
+&#xD;
+        2. Working with neuro-oncology patients and families to develop the unique aspects of&#xD;
+           exercise programming (from &quot;move more&quot; programs to &quot;exercise&quot;) to address identified&#xD;
+           needs. This co-creation process will also include the cancer physiatry team (Dr. George&#xD;
+           Francis, Dr. Lauren Capozzi) and the clinical neuro-oncology teams (Dr. Gloria Roldan&#xD;
+           Urgoiti at TBCC and Dr. Jay Easaw at CCI) to address medical clinical needs that can be&#xD;
+           addressed within the ACE-Neuro program, and clinical workflow logistics with physiatry&#xD;
+           and physiotherapy to address specific treatment-related side effects (such as limb&#xD;
+           weakness, balance, or cognitive function);&#xD;
+&#xD;
+        3. implementation of the ACE-Neuro tailored program, including referral, screening,&#xD;
+           assessments, intervention delivery, and follow-ups. Details of the ACE-Neuro procedures&#xD;
+           are detailed below.&#xD;
+&#xD;
+      REFERRAL AND RECRUITMENT&#xD;
+&#xD;
+      Because the main outcome of this study is feasibility, and the ultimate goal is to build&#xD;
+      ACE-Neuro into standard neuro-oncology care, no a priori sample size has been calculated.&#xD;
+      Based on current clinical numbers, and previous work done with neuro-oncology patients at&#xD;
+      CCI, the investigators anticipate approximately 25-30 eligible patients per year, per site.&#xD;
+      Our aim is to referral of all eligible neuro-oncology patients from TBCC. For recruitment,&#xD;
+      patients can:&#xD;
+&#xD;
+        1. self-refer (i.e. patient contacts the study team from a poster or brochure received in&#xD;
+           clinic, through word of mouth);&#xD;
+&#xD;
+           OR study team can refer:&#xD;
+&#xD;
+        2. clinical team sends referral to rehab oncology via Putting Patients First Questionnaire&#xD;
+           (via ARIA).&#xD;
+&#xD;
+      The clinical team, based on their judgment, may not refer patients they deem to be&#xD;
+      ineligible. This may include for the following reasons:&#xD;
+&#xD;
+        1. Patient is not interested when exercise idea is brought up.&#xD;
+&#xD;
+        2. Health care provider deems patient clinically ineligible, due to disease progression,&#xD;
+           end-of-life care, or other health factor&#xD;
+&#xD;
+        3. Patient does not speak English&#xD;
+&#xD;
+        4. Other&#xD;
+&#xD;
+      As a feasibility study, reasons for non-referral will be tracked, with no identifying patient&#xD;
+      information, across the recruitment period. After consenting to the study, all patients will&#xD;
+      undergo a two-part screening procedure prior to beginning the exercise program:&#xD;
+&#xD;
+        1. Patients will complete health and medical history screening using the Health History&#xD;
+           Questionnaire, Identifying Information Questionnaire, and the Physical Activity&#xD;
+           Readiness Questionnaire; PAR-Q.&#xD;
+&#xD;
+        2. Patients will attend a Neuro Oncology Rehabilitation Triage Clinic, led by a Resident&#xD;
+           Physician (Dr. Lauren Capozzi; supervised by Dr. George Francis) and the ACE-Neuro Study&#xD;
+           Coordinator (Julia Daun). During this 30-minute appointment, patients will complete the&#xD;
+           Short Physical Performance Battery screening test6, and a full neurological exam,&#xD;
+           including Karnofsky performance and Eastern Cooperative Oncology Group (ECOG) scores.&#xD;
+           This appointment will assess the patients' readiness for participating in ACE-Neuro.&#xD;
+&#xD;
+      As part of this study, the investigators will be tracking the referral pathway, and which&#xD;
+      method of referral is most feasible as part of standard clinical workflow.&#xD;
+&#xD;
+      ASSESSMENTS&#xD;
+&#xD;
+        1. Patient-Reported Outcomes (PROs) - will include symptom burden (Edmonton Symptom&#xD;
+           Assessment Scale-Revised; ESAS-r), PA levels (Godin Leisure Time Exercise&#xD;
+           Questionnaire-Modified; GLTEQ), quality of life (Functional Assessment of Cancer&#xD;
+           Therapy-Brain; FACT-Br), cognitive function (Functional Assessment of Cancer&#xD;
+           Therapy-Cognitive Scale; FACT-Cog), and fatigue (Functional Assessment of Chronic&#xD;
+           Illness Therapy-Fatigue; FACIT-F).&#xD;
+&#xD;
+        2. Functional Fitness Assessments - will follow the set protocols within ACE (HREBA-CC-16-&#xD;
+           0905_MOD12), and are designed to be able to be completed in-person or via remote&#xD;
+           delivery (online assessment). All fitness assessments will be completed by a Clinical&#xD;
+           Exercise Physiologist and will include the assessment of lower body strength and&#xD;
+           endurance (30-second sit-to-stand), static balance (single leg stance), flexibility&#xD;
+           (sit-and-reach and active shoulder flexion), and cardiorespiratory fitness (2-minute&#xD;
+           step test or 6MWT).&#xD;
+&#xD;
+        3. Objective Physical Activity - will be measured via the use of a wrist-worn activity&#xD;
+           tracker (WAT; i.e., Garmin vivosmart® 4). Garmin wearable PA trackers are widely used&#xD;
+           across health research, and will be provided to all participants to objectively track PA&#xD;
+           habits throughout the intervention.&#xD;
+&#xD;
+        4. Qualitative Interviews and Photo Elicitation: Qualitative data will be gathered across&#xD;
+           the co-creation process via interviews and photo elicitation, to inform the feasibility&#xD;
+           of ACE-Neuro, as well as to assess outcomes associated with participation in the&#xD;
+           ACE-Neuro program (benefits, barriers, satisfaction, impact on well-being). Qualitative&#xD;
+           data will be stored on a secure server.&#xD;
+&#xD;
+      HEALTH COACHING&#xD;
+&#xD;
+      In addition to exercise delivery and assessments, all participants will have the choice to&#xD;
+      participate in evidence-based health coaching calls, provided by a trained Health Coach.&#xD;
+      Health coaching is an evidence-based tool that supports positive health behaviour change&#xD;
+      across cancer populations. Health coaching calls will take place weekly for 15-30 minutes&#xD;
+      following an individualized exercise training session, and include topics surrounding goal&#xD;
+      setting, social support, stress management, maintaining motivation, and overcoming barriers.&#xD;
+      Health coaching calls will be delivered remotely (e.g., via end-to-end encrypted Zoom or&#xD;
+      phone call) at the participants' preferred date and time.&#xD;
+&#xD;
+      TIMELINE&#xD;
+&#xD;
+      The described exercise program and data collection of PROs and functional fitness assessments&#xD;
+      are in addition to standard practices. The timeline for these assessments include: baseline&#xD;
+      (at recruitment into ACE-Neuro), 12-weeks (post-intervention), 6-months, and 12-months.&#xD;
+&#xD;
+      ANALYSIS Quantitative analysis will include descriptive statistics (means, medians, standard&#xD;
+      deviations), and change scores to measure changes in outcomes over time. Qualitative data&#xD;
+      will be analyzed by verbatim transcription (in NVivo), using an interpretive description&#xD;
+      methodology. Both quantitative and qualitative data will be analyzed to provide a deeper&#xD;
+      understanding of the feasibility and impact of ACE-Neuro.&#xD;
+&#xD;
+      RELEVANCE By working directly with patients, healthcare providers, and community partners,&#xD;
+      this implementation project will develop a framework that streamlines patient triage, and&#xD;
+      provides a tailored online exercise program for neuro-oncology patients, thereby advancing&#xD;
+      exercise oncology research and clinical practice.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 15, 2021</start_date>
+  <completion_date type="Anticipated">April 15, 2024</completion_date>
+  <primary_completion_date type="Anticipated">April 15, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Feasibility-Implementation Study</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of Referral: Referral Rate</measure>
+    <time_frame>From start of study recruitment to end of study (2 years).</time_frame>
+    <description>The percentage of patient referrals to the study team from the clinical team from patients eligible.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of Enrolment: Enrolment Rate</measure>
+    <time_frame>From start of study recruitment to end of study (2 years).</time_frame>
+    <description>The percentage of patients that enrol in the study once they hear the full study introduction.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of Triage: Triage Completion Rate</measure>
+    <time_frame>From start of study recruitment to end of study (2 years).</time_frame>
+    <description>The percentage of participants that attend, from those that are referred, to the Neuro-Oncology Rehabilitation Triage Clinic.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of Program Attendance: Program Attendance Rate</measure>
+    <time_frame>Baseline to 12 weeks.</time_frame>
+    <description>Percentage of classes attended by enrolled participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of Measurement Completion: Measurement Completion Rate (Baseline)</measure>
+    <time_frame>At baseline (0 weeks).</time_frame>
+    <description>Percentage of measures (i.e., patient-reported outcomes and physical function) completed by enrolled participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of Measurement Completion: Measurement Completion Rate (12 Weeks)</measure>
+    <time_frame>Post-program completion (12 weeks).</time_frame>
+    <description>Percentage of measures (i.e., patient-reported outcomes and physical function) completed by enrolled participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of Measurement Completion: Measurement Completion Rate (6 Months)</measure>
+    <time_frame>At 6 months post study enrolment.</time_frame>
+    <description>Percentage of measures (i.e., patient-reported outcomes and physical function) completed by enrolled participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of Measurement Completion: Measurement Completion Rate (12 Months)</measure>
+    <time_frame>At 12 months post study enrolment.</time_frame>
+    <description>Percentage of measures (i.e., patient-reported outcomes and physical function) completed by enrolled participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety of Intervention</measure>
+    <time_frame>Baseline to 12 weeks.</time_frame>
+    <description>Record of any adverse events related to the intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Attrition Rate</measure>
+    <time_frame>Baseline to 12 weeks.</time_frame>
+    <description>Number of participants who consent but do not complete the intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Qualitative Feasibility: Qualitative Semi-Structured One-on-One Interviews</measure>
+    <time_frame>Conducted between weeks 12-14.</time_frame>
+    <description>Participant perception of intervention feasibility via semi-structured one-on-one interviews (qualitative data, not reported on a scale).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Physical Activity Minutes Per Week</measure>
+    <time_frame>Baseline to 12 weeks.</time_frame>
+    <description>Change in number of participants meeting Guidelines for Physical Activity of 90 minutes per week of moderate intensity exercise, based on accelerometer data from commercially-available activity tracker (Garmin vivosmart® 4).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Weekly Step Count</measure>
+    <time_frame>Baseline to 12 weeks.</time_frame>
+    <description>Total weekly step count based on data from commercially-available activity tracker (Garmin vivosmart® 4).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Body Composition</measure>
+    <time_frame>Baseline to post 12-week exercise intervention.</time_frame>
+    <description>Measure of change in body mass index (BMI) over time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiorespiratory Fitness</measure>
+    <time_frame>Baseline to post 12-week exercise intervention and maintenance of change from 12-weeks to 6-months; and from 12 weeks to 12 months.</time_frame>
+    <description>Change in 6-minute walk test (m) or 2-minute step test (steps) results.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Muscular Strength</measure>
+    <time_frame>Baseline to post 12-week exercise intervention and maintenance of change from 12-weeks to 6-months; and from 12 weeks to 12 months.</time_frame>
+    <description>Change in hand-grip dynamometry (kg).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Muscular Endurance</measure>
+    <time_frame>Baseline to post 12-week exercise intervention and maintenance of change from 12-weeks to 6-months; and from 12 weeks to 12 months.</time_frame>
+    <description>Change in sit-to-stand (number of repetitions in 30 seconds).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Upper Extremity Flexibility</measure>
+    <time_frame>Baseline to post 12-week exercise intervention and maintenance of change from 12-weeks to 6-months; and from 12 weeks to 12 months.</time_frame>
+    <description>Change in active shoulder flexion range of motion (degrees).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lower Extremity Flexibility</measure>
+    <time_frame>Baseline to post 12-week exercise intervention and maintenance of change from 12-weeks to 6-months; and from 12 weeks to 12 months.</time_frame>
+    <description>Change in sit-and-reach test (cm).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Static Balance</measure>
+    <time_frame>Baseline to post 12-week exercise intervention and maintenance of change from 12-weeks to 6-months; and from 12 weeks to 12 months.</time_frame>
+    <description>Change in one single-leg-stance test (seconds).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptom Burden</measure>
+    <time_frame>Baseline to post 12-week exercise intervention and maintenance of change from 12-weeks to 6-months; and from 12 weeks to 12 months.</time_frame>
+    <description>Change in Edmonton Symptom Assessment Scale. Scale includes 10 questions total and is from 0-10, where 0 means the symptom is absent and 10 means the worst possible severity of the symptom is being experienced. Total score 0-100, higher is worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subjective Reporting of Average Weekly Physical Activity</measure>
+    <time_frame>Baseline to post 12-week exercise intervention and maintenance of change from 12-weeks to 6-months; and from 12 weeks to 12 months.</time_frame>
+    <description>Change in Godin Leisure Time Exercise Questionnaire (GLTEQ). Self-reported as total minutes of physical activity in the past week. Calculated as [mild frequency per week x 3] + [moderate frequency per week x 5] + [strenuous frequency per week x 9]. Minimum score is 0, the maximum is dependent on the participant's frequency of physical activity. Higher score indicates more physical activity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fatigue</measure>
+    <time_frame>Baseline to post 12-week exercise intervention and maintenance of change from 12-weeks to 6-months; and from 12 weeks to 12 months.</time_frame>
+    <description>Change in Functional Assessment of Chronic Illness Therapy - Fatigue subscale Scale is from 0-4, where 0 means &quot;not at all&quot; and 4 means &quot;very much&quot;. Total score 0-52, higher score is lower fatigue severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life - Brain Subscale</measure>
+    <time_frame>Baseline to post 12-week exercise intervention and maintenance of change from 12-weeks to 6-months; and from 12 weeks to 12 months.</time_frame>
+    <description>Change in Functional Assessment of Cancer Therapy - Brain Subscale. Scale is from 0-4, where 0 means &quot;not at all&quot; and 4 means &quot;very much&quot;. Total score ranges from 0-200. A higher score indicates a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognition</measure>
+    <time_frame>Baseline to post 12-week exercise intervention and maintenance of change from 12-weeks to 6-months; and from 12 weeks to 12 months.</time_frame>
+    <description>Change in Functional Assessment of Cancer Therapy - Cognitive Subscale. Scale is from 0-4, where 0 means &quot;never&quot; and 4 means &quot;several times a day&quot; (experiencing symptoms). Total score ranges from 0-80. A higher score indicates a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Program Implementation and Evaluation</measure>
+    <time_frame>Baseline to 2 years.</time_frame>
+    <description>The RE-AIM Framework: program reach, effectiveness, adoption, implementation and maintenance.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Cancer</condition>
+  <condition>Brain Tumor, Primary</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All participants will be involved in a tailored exercise intervention for 12 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Tailored Exercise Intervention</intervention_name>
+    <description>The exercise program to be implemented for neuro-oncology patients will combine aerobic, resistance, balance, and flexibility exercises delivered in one-to-one setting (i.e., personal training) twice per week, for 12 weeks. Based on needs and preferences, participants will have the option to join a circuit-type group class once per week in place of one of their personal training sessions. During COVID-19, all sessions will be delivered remotely. If facilities are open and deemed safe for cancer patients, participants will have the option to attend an in-person session, integrated in the community. Whether delivered in-class or remotely, the intervention will follow exercise progression principles (i.e., frequency, intensity, time, type, overload, and progression) over the 12-weeks, with tailoring of any exercise to meet individual participant needs, with aims of promoting wellness and physical function. The exercise intervention is based on the Alberta Cancer Exercise (ACE) program.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  are a neuro-oncology patient with primary brain tumour (malignant or benign)&#xD;
+&#xD;
+          -  are pre-, on, or completed treatment&#xD;
+&#xD;
+          -  are over the age of 18 years&#xD;
+&#xD;
+          -  are able to read/write in English&#xD;
+&#xD;
+          -  are able to participate in mild levels of exercise&#xD;
+&#xD;
+          -  are able to access remote programming (i.e., has internet access and a computer or&#xD;
+             tablet)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  diagnosis is not primary brain&#xD;
+&#xD;
+          -  unable to read/write in English&#xD;
+&#xD;
+          -  are unable to participate in light exercise&#xD;
+&#xD;
+          -  for online programs, do not have internet or computer access&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>S. Nicole Culos-Reed, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Calgary, Calgary, AB, Canada</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gloria Roldan Urgoiti, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Medical Oncology, Tom Baker Cancer Centre, Calgary, AB, Canada</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jay Easaw, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Oncology, Cross Cancer Institute, Edmonton, AB, Canada</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Margaret McNeely, PT, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Alberta, Edmonton, AB, Canada</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>S. Nicole Culos-Reed, PhD</last_name>
+    <phone>+1 (403) 220-7540</phone>
+    <email>nculosre@ucalgary.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Julia T. Daun, BKin, MSc</last_name>
+    <phone>+1 (403) 210-8482</phone>
+    <email>jtdaun@ucalgary.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Health and Wellness Lab, University of Calgary</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 1N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tom Baker Cancer Centre</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 4N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cross Cancer Institute, University of Alberta</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 1Z2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Rehabilitation Clinic, Faculty of Rehabilitation Medicine, University of Alberta</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 2G4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>April 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2021</study_first_posted>
+  <last_update_submitted>April 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Neuro-Oncology</keyword>
+  <keyword>Cancer</keyword>
+  <keyword>Exercise</keyword>
+  <keyword>Quality of Life</keyword>
+  <keyword>Feasibility</keyword>
+  <keyword>Implementation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>No plan at this time to share IPD outside of the research team.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

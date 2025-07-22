@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2981">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04799977</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21IUFCcovid01</org_study_id>
+    <nct_id>NCT04799977</nct_id>
+  </id_info>
+  <brief_title>COVID-19: Post-covid Olfactory Disorders Assessment</brief_title>
+  <official_title>Persistent Olfactory Loss After COVID-19 : Olfactive Disorder, Psychiatric and/or Cognitive Assessments With and Without a Treatment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Nice</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Nice</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Covid 19 cause an olfactory loss in more than 80% of cases. This loss most often regresses&#xD;
+      but leaves 20% of patients with an olfactory complaint, particularly with regard to the&#xD;
+      quality of daily life. The neuro-cognitive implications involved with COVID19 and the&#xD;
+      consequences of persistent olfactory loss remain unknown. The effectiveness of therapeutic&#xD;
+      management, in particular olfactory re-education, has not yet been clarified. Objectives are&#xD;
+      the assessment of patients olfactory disorders, psychiatrics and neurocognitives&#xD;
+      specificities after a COVID, before and after treatment or specific cares.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Actual">February 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sniffin Stick Tests (score TDI)</measure>
+    <time_frame>12 months : Evalation at the beginning and the end. Minimal clinically important difference = 5,5.</time_frame>
+    <description>The subjective olfactory losses and recoveries are most often evaluated using the &quot;Sniffin 'Sticks Test®&quot;, the current gold standard of objective olfactory tests allowing in a single examination to group together: the definition of an olfactory threshold, olfactory discrimination and olfactory identification in the form of an overall TDI score. Olfactory function using psychophysical tests before and after treatment or specific cares : Sniffin Stick Tests (score TDI). Results can classified patients in Anosmic (TDI&lt;16,25), Hyposmic (16,25&lt;TDI&lt;30,75) and Normosmic (TDI&gt;30,75). Higher score = better results. Minimal clinically important difference = 5,5.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hamilton Depression Rating Scale (HDRS)</measure>
+    <time_frame>12 months : Evaluation at the beginning and the end.</time_frame>
+    <description>The HDRS is used to assess the severity and progression of a patient's depressive state during a structured interview. This is a hetero-questionnaire consisting of 21 items completed in a few minutes by the examiner after an interview of at least 30 minutes. Before and after treatment or specific cares. Min-Max = 10-21. 10 &lt; score &lt; 13 = lights depression symptoms; 14&lt;score&lt;17 = mild deppression symptoms; &gt;18 = severe deppression symptoms ; Interrelationships assessment between psychophysical tests and theses results</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Situational anxiety and anxiety trait inventory (STAI-Y)</measure>
+    <time_frame>12 months : Evaluation at the beginning and the end.</time_frame>
+    <description>The STAI is a self-administered questionnaire comprising 40 items. This scale consists of 2 parts: one evaluating the anxiety-state (AE) which reflects the current emotional state and the other evaluating trait anxiety (AT) which reflects the usual emotional state. Before and after treatment or specific cares. Each score can vary from 20 to 80 with a &quot;very high&quot; (&gt; 65), &quot;high&quot; (56-65), &quot;average&quot; (46-55), &quot;low&quot; (36-45) and &quot;very low&quot; (&lt;or = 35). Interrelationships assessment between psychophysical tests and theses results</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PTSD checklist for DSM-5 (PCL-5)</measure>
+    <time_frame>12 months : Evaluation at the beginning and the end.</time_frame>
+    <description>The PCL-5 is a 20-item self-report that measures the 20 PTSD symptoms of DSM-5. The goals of PCL-5 are many, such as monitoring changes in symptoms during and after treatment, identifying individuals with PTSD, and making a provisional diagnosis of PTSD. Before and after treatment or specific cares. This self-rated scale scores each symptom from 0 to 4. Min-Max (better)=0-20. Interrelationships assessment between psychophysical tests and theses results.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GREMOTS</measure>
+    <time_frame>12 months : Evaluation at the beginning and the end.</time_frame>
+    <description>GREMOTS is a speech assessment test for neurological pathologies. This battery of tests takes into account the latest scientific development in the field and evaluates the different psycholinguistic variables of language. It also aims to detect disorders from the early stage of the disease. It componed of differents subtypes. We used the denomination and verification tasks. Semantic verification task: Min-Max=0-18. The cut-off score is between 5 and 25 percentil (inferior to 10-14). Denomination task: Min-Max=0-36. The cut-off score is between 5 and 25 percentil (inferior to 31-34).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PPT</measure>
+    <time_frame>12 months : Evaluation at the beginning and the end.</time_frame>
+    <description>The Pyramids and Palm Trees Test is a commonly used test of associative semanticknowledge comprising 52 items. In this test, participants are shown a stimulus (e.g., a pyramid) and asked to match it toeither of two images: A target (e.g., a palm tree) or a distracter (e.g., a fir tree). Subjects are required to use explicit semantic information of encyclopedic (e.g., pyramid: Palm tree vs. fir tree) or functional (e.g., wood: Saw vs. hammer) nature to select the correct match. Min-Max: 0-52. The 5% cut-off score corresponds to a Z-score of -1.65.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GROBER BUSCHKE</measure>
+    <time_frame>12 months : Evaluation at the beginning and the end.</time_frame>
+    <description>Grober and Buschke's is a commonly used test assesses verbal memory and is made up of 16 items belonging to 16 different semantic categories. The indexed reminder makes it possible to check the efficiency of the encoding and to dissociate memory disorders according to their type. Min-Max: 0-48. The cut-off score is inferior to 25 percentil.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TAP (Test of Attentional Performance)</measure>
+    <time_frame>12 months : Evaluation at the beginning and the end.</time_frame>
+    <description>The investigators used two tasks: the alertness task and the sustained attention task. In the alertness's task, reaction time is examined under two conditions. In the sustained attention task, a sequence of stimuli is presented on the monitor. The stimuli vary in a range of feature dimensions: colour, shape, size and filling. In order to adapt the difficulty of the task to the performance level of a subject, different levels of difficulty, that is, reactions to &quot;shape&quot; only or to &quot;colour or shape&quot;, may be selected. Norms are betwaeen 19 and 89 for the alertness task and between 19 and 72 in sustained attention task.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TODA2 Olfactive Identification</measure>
+    <time_frame>12 months : Evaluation at the beginning and the end.</time_frame>
+    <description>The olfactory test was developed by the CoBTeK laboratory. It's an electronic test with mobile application which is componed of two tasks: a treshold task and an identification task. This task assess more precisely odor identification disorders by presenting semantic distractors at the higer treshold level. Min-Max treshold score: 1-4. Min-Max identification score: 0-24</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Snaith-HAmilton Pleasure Scale (SHAPS)</measure>
+    <time_frame>12 months : Evaluation at the beginning and the end.</time_frame>
+    <description>The SHAPS is a 14-item self-administered questionnaire designed to assess a patient's hedonic capacity under different circumstances of daily life. Before and after treatment or specific cares. Min-Max = 0-14. Score &gt;3 Anhédonic symptom; Interrelationships assessment between psychophysical tests and theses results</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inventory/Apathy Scale</measure>
+    <time_frame>12 months : Evaluation at the beginning and the end.</time_frame>
+    <description>The principle of the Apathy Inventory (IA) is to obtain information on the presence of apathy in patients with neurological disorders. The investigators used the clinical version of the Apathy Inventory. It assess the 4 clinical dimensions: - Emotional blunting - Lack of initiative - Lack of interest- Social interactions. Score for each dimension: 0= no problem; 2= moderate problem; 4= major problem. Min-Max total score= 0-16..</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Olfactory Quality of life assessment - Short Version of questionnaire of olfactory disorders</measure>
+    <time_frame>12 months : Evaluation at the beginning and the end.</time_frame>
+    <description>Specific quality of life related to olfaction disorders concerning Social, eating, anxiety and daily annoyance related behaviors. Min-Max = 0-21, the higher is the score, the better is olfactory quality of life</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>General quality of life assessment (SF-36)</measure>
+    <time_frame>12 months : Evaluation at the beginning and the end.</time_frame>
+    <description>General quality of life score. Two scores related to an aggregated physical score and a mental score. Normatives values are near 50 for both. Less than 45 is worst subdomain quality of life, better than 55 is better subdomain quality of life. MCID = 5</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The French quality of life and diet scale (QV-AF)</measure>
+    <time_frame>12 months : Evaluation at the beginning and the end.</time_frame>
+    <description>The QV-AF is a scale developed and validated in French to assess the quality of life in adults and in particular the relationship to diet. 4 subscales: diet / pleasure dimension, diet / relationship dimension, diet / psychology dimension, diet and physical condition dimension. Before and after treatment or specific cares. Min-Max (better)=0-400. Interrelationships assessment between psychophysical tests and theses results.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Olfaction Disorders</condition>
+  <arm_group>
+    <arm_group_label>COVID19 infection with olfaction disorder</arm_group_label>
+    <description>Patients, ≥18 ans, who suffered from an olfaction disorder while going through a COVID19 infection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID19 infection without olfaction disorder</arm_group_label>
+    <description>Patients, ≥18 ans, who suffered from a COVID19 infection without any olfaction disorders</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All adult patients who presented with anosmia during their COVID19 infection (proven by a&#xD;
+        PCR+ test) and presenting at the ENT department consultation in university hospital more&#xD;
+        than 6 weeks after the end of symptoms,&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults patient,&#xD;
+&#xD;
+          -  anosmia during a COVID19 acute infection (PCR+) and persistant olfactive disoders at&#xD;
+             least 6 weeks after symptoms disappeared.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  preexisting smell loss.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Clair VANDERSTEEN</last_name>
+    <phone>334 92 03 17 05</phone>
+    <email>vandersteen.c@chu-nice.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Auriane GROS</last_name>
+    <email>gros.a2@chu-nice.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>IUFC</name>
+      <address>
+        <city>Nice</city>
+        <zip>06100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clair VANDERSTEEN</last_name>
+      <phone>33 4 92 03 17 05</phone>
+      <email>vandersteen.c@chu-nice.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 16, 2021</study_first_posted>
+  <last_update_submitted>March 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Olfaction Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

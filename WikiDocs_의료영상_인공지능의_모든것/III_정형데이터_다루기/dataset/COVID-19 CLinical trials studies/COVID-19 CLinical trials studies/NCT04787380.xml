@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5590">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04787380</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BTH01.1</org_study_id>
+    <nct_id>NCT04787380</nct_id>
+  </id_info>
+  <brief_title>Lancashire Objective Volume Evaluation of Leg Oedema in Heart Failure</brief_title>
+  <acronym>LOVE-HF</acronym>
+  <official_title>Lancashire Objective Volume Evaluation of Leg Oedema in Heart Failure (LOVE-HF) Double Blinded Pilot Randomised Controlled Cross-over Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Heartfelt Technologies</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Blackpool Teaching Hospitals NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Heartfelt Technologies</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients with heart failure (HF) who recently received treatment with IV diuretics for&#xD;
+      worsening congestion or outpatients with HF and peripheral oedema treated with at least 80 mg&#xD;
+      furosemide (or equivalent)/day will be recruited for the LOVE-HF trial at Blackpool Victoria&#xD;
+      Hospital.&#xD;
+&#xD;
+      Eligible participants will be randomized to use the Heartfelt Device alongside standard care&#xD;
+      (weighing + symptom reporting), or standard care alone. Participants and clinicians will be&#xD;
+      blinded (double blind) as to which arm participants are in, and after 30 days, participants&#xD;
+      will be crossed over to the other arm. This can be done without disrupting patients as the&#xD;
+      Heartfelt device can be switched remotely from a 'technical checks only' mode to a 'full data&#xD;
+      analysis' mode and vice versa. The investigators aim to recruit 30 participants for the pilot&#xD;
+      study. The study will also run in parallel with its sister pilot trial, LOVE-HF-2.&#xD;
+&#xD;
+      Through this study, we are testing the capability to get the answers from patients,&#xD;
+      healthcare systems, and devices, in order to inform future clinical trial design.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Heart Failure is the final common pathway of most forms of cardiovascular disease. In the&#xD;
+      United Kingdom (UK), it affects around 900 000 people, causes or complicates around 5% of&#xD;
+      adult emergency hospital admissions and consumes up to 2% of total National Health Service&#xD;
+      (NHS) expenditure. An important part of discharge planning includes measures such as early&#xD;
+      follow up in order to prevent readmissions. The hallmark of heart failure is fluid retention&#xD;
+      and between 2009 and 2016, 43% to 50% of hospital admissions were associated with peripheral&#xD;
+      oedema. Therefore, early recognition of this and treatment of the congestion may prevent&#xD;
+      hospital admissions. In clinical trials, management strategies have included patient&#xD;
+      education, telemedicine and remote monitoring. The main non-invasive method for detecting&#xD;
+      fluid retention has been the use of weight as a surrogate marker.&#xD;
+&#xD;
+      The Heartfelt device is an invention that uses a system of cameras in a compact device in&#xD;
+      order to generate 3 dimensional images of the feet and lower legs. The volumes can then be&#xD;
+      calculated and thus, changes in amount of peripheral oedema can be estimated. In a clinical&#xD;
+      trial (NCT02993601) performed by the Heart Failure team at the Royal Brompton Hospital, there&#xD;
+      was good correlation between measurements made by Heartfelt and a water displacement method.&#xD;
+      The resolution was as good as 20mls.&#xD;
+&#xD;
+      By positioning the Heartfelt device in the bedroom, automatic measurements can be made&#xD;
+      whenever the subject gets in and out of bed. Images are only taken of the specified subject.&#xD;
+      Data is censored so that the part of the body which is 50cm above the floor is not stored.&#xD;
+      Encrypted, anonymised data is transmitted over the internet to the company's secure servers.&#xD;
+      Personal identifiable data (participant name, address, age…) is stored on an encrypted hard&#xD;
+      drive, along with linkage information (device serial numbers) to associate the participant&#xD;
+      identifiable data with the data captured in the home. Therefore, data collection is not only&#xD;
+      secure but entirely passive, which is a major advantage compared with previous non-invasive&#xD;
+      methods and it is applicable to a very wide range of compliant and non-compliant patients.&#xD;
+&#xD;
+      Our hypothesis is that the Heartfelt device can directly detect the increase in peripheral&#xD;
+      oedema associated with heart failure decompensation and that, on average, the number of days&#xD;
+      with missing data collected by the Heartfelt device will be lower than that of the weighing&#xD;
+      scales.&#xD;
+&#xD;
+      Blackpool Victoria Hospital provides acute heart failure service both for in-patients and&#xD;
+      out-patients, including capacity to administer parenteral furosemide in hospital cardiac day&#xD;
+      case unit, community or home settings.&#xD;
+&#xD;
+      Participants with chronic heart failure will be monitored in their home using the Heartfelt&#xD;
+      device (experimental arm only). Participants in both arms will also receive standard care.&#xD;
+      &quot;Standard care&quot; means that participants will be encouraged to report symptoms and weigh&#xD;
+      themselves on a regular basis (as per the recommendation of their doctor or heart failure&#xD;
+      nurse) reporting them without delay. This will be done in line with current advice given to&#xD;
+      heart failure patients locally, which is that patients should record their weight in a diary&#xD;
+      and seek urgent medical attention if their weight goes up by at least 2 to 3 pounds in 24&#xD;
+      hours, or 5 pounds or more in one week, or if they notice an increase in leg swelling and/or&#xD;
+      an increase in breathlessness.&#xD;
+&#xD;
+      Participants will be provided with electronic, internet connected weighing scales that can&#xD;
+      transmit weight data. These weighing scales will be used as per the usual advice given to&#xD;
+      patients, thus taking part in the study should not change their behaviour. Temporal changes&#xD;
+      in weight and volume will be compared. Research questionnaires will also be used to estimate&#xD;
+      the quality of life, mental wellbeing and hope status of participants and collect feedback on&#xD;
+      the device and study design.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 5, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Participants in both arms of the study will have the Heartfelt device installed. The Heartfelt device will be able to operate in two modes: &quot;technical checks only&quot; mode and &quot;full data analysis&quot; mode. Only participants in Arm A (Heartfelt device + weight + symptom reporting) will have the device in &quot;full data analysis&quot; mode. Participants in Arm B (weight + symptom reporting) will have the device in &quot;technical checks only&quot; mode where the data analysis pipeline will be blocked and therefore will not be detecting changes in foot volume.&#xD;
+Only members of staff at Heartfelt Technologies not otherwise involved in the study will pre-set the devices in the relevant mode. The mode of the device will not be known by anyone in contact with the participants or the participants themselves. The switch between the two modes can be done remotely, to maintain blinding. The team will also receive alerts at random in the &quot;technical checks only&quot; mode to maintain blinding.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants we can establish number of days alive out of hospital</measure>
+    <time_frame>60 days</time_frame>
+    <description>The proportion of participants for whom we can collect data to establish the number of days alive and out of hospital.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants we can establish number of days alive and well out of hospital</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of participants for whom we can safely collect data using the study protocol to establish number of days alive out of hospital in which the participant reports feeling well.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who complete study questionnaires</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of participants who complete the questionnaires to assess Mental Wellbeing Score, hopelessness, and satisfaction to service provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>True alerts - oedema</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of &quot;true alerts&quot; corresponding to &quot;increase in oedema&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>True alerts - diuretics</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of &quot;true alerts&quot; corresponding to &quot;increase in diuretics&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants we can establish date of emergency hospital admission which is HF related</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of participants for whom we can safely collect data using the study protocol to establish the date of emergency hospital admissions related to HF</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants we can establish date of emergency hospital admission due to any cause</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of participants for whom we can safely collect data using the study protocol to establish the date of emergency hospital admission due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants we can establish date of planned hospital admission which is HF related</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of participants for whom we can safely collect data using the study protocol to establish the date of planned hospital admissions related to HF</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants we can establish date of planned hospital admission due to any cause</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of participants for whom we can safely collect data using the study protocol to establish the date of planned hospital admission due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants we can establish date of death</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of participants in the study for whom the date of death can be established.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants we can establish cause of death</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of participants in the study for whom the cause of death can be established.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants we can establish their quality of life</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of participants for whom we can safely collect data using the study protocol to establish participant quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants we can establish symptom reporting</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of participants for whom we can safely collect data using the study protocol to establish symptom reporting.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Proportion of participants we can establish the number of days alive out of hospital in which the participant had significant weight gain</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of participants for whom we can collect data using the study protocol to establish the number of days alive out of hospital in which the participant had a significant increase of weight (including both paper diary records and the provided Bluetooth scales).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of participants we can establish the number of days alive out of hospital in which the device did not capture adequate images of the foot to generate a volume</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of participants for whom we can safely collect data using the study protocol to establish the number of days alive out of hospital in which the Heartfelt device did not capture high enough quality images of the participant's foot to generate a volume.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>LOVE-HF Arm A (Full data analysis mode of Heartfelt + weight + symptoms reporting)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in LOVE-HF Arm A (Full data analysis mode of Heartfelt + weight + symptoms reporting) will not know if they are assigned to LOVE-HF Arm A or LOVE-HF Arm B. The Heartfelt device will be in 'full data analysis' mode and participants will follow standard care recommendations for weighing themselves and reporting their symptoms. 'Full data analysis' mode means that the device will be fully operational and will be detecting and reporting changes in foot volume over time. The device will have been allocated to the 'full data analysis' mode prior to shipping. Participants will be provided with electronic, internet connected weighing scales that can transmit weight data. These weighing scales will be used as per usual advice given to patients, thus taking part in the study should not change their behaviour.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LOVE-HF Arm B (Technical checks only mode of Heartfelt + weight + symptoms reporting)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants in LOVE-HF Arm B (Technical checks mode of Heartfelt + weight + Symptoms reporting) will not know if they are assigned to LOVE-HF Arm A or LOVE-HF Arm B. The Heartfelt device will be in 'technical checks only' mode where the data analysis pipeline is blocked and changes in foot volume over time will not be processed or reported. However, technical checks on device functioning and image quality (e.g. camera being blocked) will be made as usual. The device will have been allocated to the 'technical checks only' mode prior to shipping. Participants will follow standard care recommendations for weighing themselves and reporting their symptoms. Participants will be provided with electronic, internet connected weighing scales that can transmit weight data. These weighing scales will be used as per usual advice given to patients, thus taking part in the study should not change their behaviour.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Heartfelt device</intervention_name>
+    <description>The Heartfelt device uses a system of cameras in a compact device to generate 3D images of the feet and lower legs with a view to detecting early volume changes. The device can be installed on the wall or as a free standing unit; however, given the COVID-19 pandemic, only the free standing option will be available to participants, so as to avoid the necessity of an installer visiting the patient. For the measurements to take place, the participant walks in the field of view of the device. Participants are not expected to change anything to their routine. The device can also take measurements in the dark.&#xD;
+The switch between 'full data analysis' and 'technical checks only' modes can be done remotely, making the cross-over seamless.&#xD;
+In the event that an alert is generated by the device, a medical assessment will take place either by phone or face to face appointment to evaluate the participant's condition.</description>
+    <arm_group_label>LOVE-HF Arm A (Full data analysis mode of Heartfelt + weight + symptoms reporting)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with HF who recently (&lt;6 months) received treatment with IV diuretics for&#xD;
+             worsening congestion or outpatients with HF and peripheral oedema (any degree) treated&#xD;
+             with at least 80 mg furosemide (or equivalent)/day.&#xD;
+&#xD;
+          -  Patients with HF ≥18 years.&#xD;
+&#xD;
+               -  Note that the research team will try to include as many patients as possible in&#xD;
+                  the month following discharge, however we will not exclude consideration of a&#xD;
+                  small proportion of patients within 6 months of decompensation. This has the&#xD;
+                  extra advantage of demonstrating value of the device beyond 1-2 months of&#xD;
+                  decompensation.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Inability to provide informed consent *&#xD;
+&#xD;
+          2. Participant has bandages to lower limbs everyday&#xD;
+&#xD;
+          3. Participant has an amputation of the foot&#xD;
+&#xD;
+          4. Participant is a regular wheelchair user&#xD;
+&#xD;
+          5. Participant is of no fixed abode&#xD;
+&#xD;
+          6. Participant has potentially reversible cause of decompensated heart failure and is&#xD;
+             awaiting urgent intervention (revascularisation/ valvular heart disease), which means&#xD;
+             the patient cannot be discharged for home-based care.&#xD;
+&#xD;
+          7. Participant is taking part in a conflicting evaluation/study that could confound the&#xD;
+             results of this evaluation by and/or impact clinical interventions and participant&#xD;
+             outcomes.&#xD;
+&#xD;
+          8. Participant must not be pregnant, and is taking relevant birth control if of&#xD;
+             child-bearing potential*&#xD;
+&#xD;
+               -  Note that a participant not able to comply with weighing is NOT an exclusion&#xD;
+                  criteria as the Heartfelt Device should provide data for these participants&#xD;
+                  despite their lack of ability to adhere to the usual monitoring protocol, and&#xD;
+                  this is seen as one of the long term benefits that the device can provide.&#xD;
+&#xD;
+               -  Note that the exclusion criteria (a) has been added as participants would need to&#xD;
+                  be able to give individual responses to questionnaires, communicate directly with&#xD;
+                  the Heartfelt team, etc.&#xD;
+&#xD;
+               -  Note that the exclusion criteria (h) has been requested by the insurance for&#xD;
+                  clinical trial cover.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kenneth Wong, MA, DM, FRCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Blackpool Teaching Hospitals NHS Foundation Trust</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kenneth Wong</last_name>
+    <phone>01253957783</phone>
+    <email>dr.wong@nhs.net</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Cardiology, Lancashire Cardiac Centre, Blackpool Teaching Hospitals NHS Foundation Trust (Blackpool Victoria Hospital), Whinney Heys Road.</name>
+      <address>
+        <city>Blackpool</city>
+        <state>Lancashire</state>
+        <zip>FY3 9NR</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kenneth Wong</last_name>
+      <phone>0125395778</phone>
+      <email>dr.wong@nhs.net</email>
+    </contact>
+    <investigator>
+      <last_name>Reham Awad, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Alison Seed, MD, MRCP</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christopher Cassidy, FRCP</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rebecca Taylor, BSc, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Suzanne Wong, MA,MBBS,FRCP</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Lesley Howard, DipAdultNurs</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 8, 2021</study_first_posted>
+  <last_update_submitted>March 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Heart Failure</keyword>
+  <keyword>Edema Leg</keyword>
+  <keyword>Quality of life</keyword>
+  <keyword>Hospital Admissions</keyword>
+  <keyword>Days alive out of hospital</keyword>
+  <keyword>Heartfelt Device</keyword>
+  <keyword>Artificial Intelligence</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

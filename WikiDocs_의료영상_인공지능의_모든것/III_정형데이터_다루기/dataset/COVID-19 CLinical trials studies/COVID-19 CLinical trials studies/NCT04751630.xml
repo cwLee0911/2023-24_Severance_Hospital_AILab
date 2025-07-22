@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3786">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04751630</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CBAS-21-22</org_study_id>
+    <nct_id>NCT04751630</nct_id>
+  </id_info>
+  <brief_title>Effects of COVID-19 Hospitalization on Physical Performance</brief_title>
+  <official_title>Effects of a Structured Online Therapeutic Exercise Program on Physical Performance in COVID-19 Patients at Discharge Time.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universitat Internacional de Catalunya</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universitat Internacional de Catalunya</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus disease (COVID-19) has resulted in millions of hospital admissions. The physical&#xD;
+      consequences caused by COVID-19 hospitalization could jeopardize the overall health status of&#xD;
+      patients through a decrease in functional capacity. A therapeutic exercise program may reduce&#xD;
+      the adverse effects of COVID-19 on functional capacity and thereby improve the overall health&#xD;
+      status of these patients.&#xD;
+&#xD;
+      The objectives of this project are 1) to analyze the effect of a therapeutic exercise program&#xD;
+      in patients who have been hospitalized in Intensive Care Unit (ICU) for COVID-19.&#xD;
+&#xD;
+      Single-blind randomized clinical trial. 118 patients post-ICU for COVID-19 will be randomized&#xD;
+      into an intervention group and a control group. The intervention group will perform a&#xD;
+      therapeutic exercise program for eight weeks in telematic modality. Functional capacity will&#xD;
+      be analyzed using the grip strength, Short Physical Performance Battery, gait speed, lower&#xD;
+      extremity strength and the FRAIL scale at baseline, eight and twelve weeks. The main&#xD;
+      statistical analysis will be a comparison of means for independent samples assessing the&#xD;
+      effect of the intervention.&#xD;
+&#xD;
+      Given the high prevalence of patients hospitalized for COVID-19, establishing strategies to&#xD;
+      minimize the adverse effects of the virus on patients is a must for the healthcare setting.&#xD;
+      Assessing physical condition after COVID-19 will allow the magnitude of the problem to be&#xD;
+      established. Physiotherapy, through therapeutic exercise, could improve physical fitness in&#xD;
+      these patients and thus improve the overall health status after COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2021</start_date>
+  <completion_date type="Anticipated">February 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Upper limb strength change</measure>
+    <time_frame>Change from Baseline upper limb strength at 6 weeks</time_frame>
+    <description>handgrip strength test</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Physical Performance change</measure>
+    <time_frame>Change from Baseline physical performance at 6 weeks</time_frame>
+    <description>Short Physical Performance Battery test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Walking speed change</measure>
+    <time_frame>Change from Baseline walking speed at 6 weeks</time_frame>
+    <description>4 meters walking speed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>lower limb strength change</measure>
+    <time_frame>Change from Baseline lower limb strength at 6 weeks</time_frame>
+    <description>5 times sit and reach test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fraility change</measure>
+    <time_frame>Change from Baseline fraility at 6 weeks</time_frame>
+    <description>FRAIL scale</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">78</enrollment>
+  <condition>Covid19</condition>
+  <condition>Physical Disability</condition>
+  <arm_group>
+    <arm_group_label>Therapeutic Exercise group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The study participants corresponding to the Therapeutic Exercise (ET) intervention group will follow the prescriptions given to them by their primary care physician. In addition, and as the main part of the intervention, they will undergo a six-week ET program with two sessions per week, for a total of 12 sessions. Full participation in 10 sessions will be necessary to be included in the ET group during the statistical analysis. Each session will be one hour long. The sessions will be given and supervised by a physiotherapist expert in therapeutic exercise prescription through the online modality.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Study participants in the control group will follow the prescriptions given to them by their primary care physician and will receive a weekly call to assess their recovery. At the end of the study follow-up, when their participation in the study as a control group ends, participants in this group will be offered to participate in the structured ET program to be carried out by the ET group. The reason for this is to ensure that the entire sample ends up receiving a treatment that, a priori, should improve their functional capacities, thus guaranteeing one of the ethical principles of the research.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Therapeutic Exercise</intervention_name>
+    <description>Online and structured exercise therapeutic program based on flexibility, strength, balance and aerobic exercises. The program have been supervised by an expert on the field and it participants will perform it under the supervision of an expert physiotherapist.</description>
+    <arm_group_label>Therapeutic Exercise group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 years or older.&#xD;
+&#xD;
+          -  Have been diagnosed COVID-19 positive at the time of hospital admission.&#xD;
+&#xD;
+          -  Have been in the intensive care unit due to COVID-19.&#xD;
+&#xD;
+          -  Be able to use an online platform to conduct &quot;meetings&quot; with the healthcare&#xD;
+             professional or have the necessary personal assistance to do so.&#xD;
+&#xD;
+          -  Be able to read the informed consent form and understand the objectives and conduct of&#xD;
+             the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosed neurological or psychiatric disease.&#xD;
+&#xD;
+          -  Contraindications to physical exercise.&#xD;
+&#xD;
+          -  Failure to give informed consent for the study.&#xD;
+&#xD;
+          -  Unavailability to perform the ET program twice a week.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Luis Llurda-Almuzara, MSc</last_name>
+    <phone>695156515</phone>
+    <email>lllurda@uic.es</email>
+  </overall_contact>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 12, 2021</study_first_posted>
+  <last_update_submitted>February 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universitat Internacional de Catalunya</investigator_affiliation>
+    <investigator_full_name>Albert Pérez Bellmunt</investigator_full_name>
+    <investigator_title>Doctor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

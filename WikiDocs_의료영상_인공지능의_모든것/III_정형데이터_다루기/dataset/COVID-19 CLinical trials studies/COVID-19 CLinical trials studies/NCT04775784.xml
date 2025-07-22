@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1896">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04775784</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCH08-2020</org_study_id>
+    <nct_id>NCT04775784</nct_id>
+  </id_info>
+  <brief_title>Determination of COVID-19 Related Virus in Central Nervous System</brief_title>
+  <official_title>Determination of SARS-Cov-2 Virus in Central Nervous System</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>IRCCS San Raffaele</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>IRCCS San Raffaele</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19) is a highly infectious pandemic disease caused by&#xD;
+      SARS-CoV-2 virus. Central Nervous System (CNS) complications associated with COVID-19 might&#xD;
+      be secondary sequelae due to exuberant systemic innate-mediated hyper-inflammation, which may&#xD;
+      impair neurovascular endothelial function, disrupt blood brain barrier (BBB), activates CNS&#xD;
+      innate immune signaling pathways, and induces parainfectious autoimmunity, potentially&#xD;
+      contributing to the CNS manifestations. Although the predominant clinical manifestation of&#xD;
+      SARS-CoV-2 is characterized by dyspnea, unremitting fever and hypoxemic respiratory failure,&#xD;
+      neurologic manifestations do occur in most hospitalized SARS-CoV-2 patients and include&#xD;
+      non-specific encephalopathy, psychosis, meningitis/encephalitis, myelitis, cerebrovascular&#xD;
+      events, Guillain-Barre' syndrome, and cranial or peripheral neuropathies, such as anosmia and&#xD;
+      ageusia. To date, data about primary CNS involvement due to neurotropism and direct&#xD;
+      neuroinvasion are still lacking.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Determination of SARS-CoV-2 presence in central nervous system&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 17, 2020</start_date>
+  <completion_date type="Anticipated">December 20, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 20, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Determination of SARS-CoV-2 presence in the CNS</measure>
+    <time_frame>Surgery</time_frame>
+    <description>Brain tissue sampling analysis</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>COVID-19 Testing</condition>
+  <condition>CNS Disease</condition>
+  <condition>CNS Infection</condition>
+  <arm_group>
+    <arm_group_label>Adult neurosurgical patients</arm_group_label>
+    <description>Adult, both sex, neurosurgical patients candidate for intracranial surgery, able to sign informed consent.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Determination of SARS-CoV2 presence in CNS</intervention_name>
+    <description>Brain tissue sampling</description>
+    <arm_group_label>Adult neurosurgical patients</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Brain tissue samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult patients eligible to CNS surgery&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients&#xD;
+&#xD;
+          -  Patients candidate for CNS surgery&#xD;
+&#xD;
+          -  Patients who have been tested for nasopharyngeal swab for SARS-CoV-2&#xD;
+&#xD;
+          -  Patients who have been tested for serology test for anti SARS-CoV-2 immunoglobulinG&#xD;
+             (IgG) and immunoglobulinM (IgM) antibodies&#xD;
+&#xD;
+          -  Patients able to sign informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients not meeting inclusion criteria&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pietro Mortini, MD, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>IRCCS San Raffaele Scientific Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Laura Sincinelli</last_name>
+    <phone>00390226435568</phone>
+    <email>sincinelli.laura@hsr.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>IRCCS San Raffaele Scientific Institute</name>
+      <address>
+        <city>Milan</city>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laura Sincinelli</last_name>
+      <phone>003926435568</phone>
+      <email>sincinelli.laura@hsr.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Noorwali AA, Turkistani AM, Asiri SI, Trabulsi FA, Alwafi OM, Alzahrani SH, Rashid MM, Hegazy SA, Alzaydi MD, Bawakid KO. Descriptive epidemiology and characteristics of confirmed cases of Middle East respiratory syndrome coronavirus infection in the Makkah Region of Saudi Arabia, March to June 2014. Ann Saudi Med. 2015 May-Jun;35(3):203-9. doi: 10.5144/0256-4947.2015.203.</citation>
+    <PMID>26409794</PMID>
+  </reference>
+  <reference>
+    <citation>Montalvan V, Lee J, Bueso T, De Toledo J, Rivas K. Neurological manifestations of COVID-19 and other coronavirus infections: A systematic review. Clin Neurol Neurosurg. 2020 Jul;194:105921. doi: 10.1016/j.clineuro.2020.105921. Epub 2020 May 15.</citation>
+    <PMID>32422545</PMID>
+  </reference>
+  <reference>
+    <citation>Liotta EM, Batra A, Clark JR, Shlobin NA, Hoffman SC, Orban ZS, Koralnik IJ. Frequent neurologic manifestations and encephalopathy-associated morbidity in Covid-19 patients. Ann Clin Transl Neurol. 2020 Nov;7(11):2221-2230. doi: 10.1002/acn3.51210. Epub 2020 Oct 5.</citation>
+    <PMID>33016619</PMID>
+  </reference>
+  <reference>
+    <citation>Berger JR. COVID-19 and the nervous system. J Neurovirol. 2020 Apr;26(2):143-148. doi: 10.1007/s13365-020-00840-5. Epub 2020 May 23. Review.</citation>
+    <PMID>32447630</PMID>
+  </reference>
+  <reference>
+    <citation>Najjar S, Najjar A, Chong DJ, Pramanik BK, Kirsch C, Kuzniecky RI, Pacia SV, Azhar S. Central nervous system complications associated with SARS-CoV-2 infection: integrative concepts of pathophysiology and case reports. J Neuroinflammation. 2020 Aug 6;17(1):231. doi: 10.1186/s12974-020-01896-0. Review.</citation>
+    <PMID>32758257</PMID>
+  </reference>
+  <reference>
+    <citation>Liu J, Xie W, Wang Y, Xiong Y, Chen S, Han J, Wu Q. A comparative overview of COVID-19, MERS and SARS: Review article. Int J Surg. 2020 Sep;81:1-8. doi: 10.1016/j.ijsu.2020.07.032. Epub 2020 Jul 26. Review.</citation>
+    <PMID>32730205</PMID>
+  </reference>
+  <reference>
+    <citation>Kumar A, Pareek V, Prasoon P, Faiq MA, Kumar P, Kumari C, Narayan RK. Possible routes of SARS-CoV-2 invasion in brain: In context of neurological symptoms in COVID-19 patients. J Neurosci Res. 2020 Dec;98(12):2376-2383. doi: 10.1002/jnr.24717. Epub 2020 Aug 31. Review.</citation>
+    <PMID>32869376</PMID>
+  </reference>
+  <reference>
+    <citation>Song E, Zhang C, Israelow B, Lu-Culligan A, Prado AV, Skriabine S, Lu P, Weizman OE, Liu F, Dai Y, Szigeti-Buck K, Yasumoto Y, Wang G, Castaldi C, Heltke J, Ng E, Wheeler J, Alfajaro MM, Levavasseur E, Fontes B, Ravindra NG, Van Dijk D, Mane S, Gunel M, Ring A, Kazmi SAJ, Zhang K, Wilen CB, Horvath TL, Plu I, Haik S, Thomas JL, Louvi A, Farhadian SF, Huttner A, Seilhean D, Renier N, Bilguvar K, Iwasaki A. Neuroinvasion of SARS-CoV-2 in human and mouse brain. bioRxiv. 2020 Sep 8. pii: 2020.06.25.169946. doi: 10.1101/2020.06.25.169946. Update in: J Exp Med. 2021 Mar 1;218(3):.</citation>
+    <PMID>32935108</PMID>
+  </reference>
+  <reference>
+    <citation>Virhammar J, Kumlien E, Fällmar D, Frithiof R, Jackmann S, Sköld MK, Kadir M, Frick J, Lindeberg J, Olivero-Reinius H, Ryttlefors M, Cunningham JL, Wikström J, Grabowska A, Bondeson K, Bergquist J, Zetterberg H, Rostami E. Acute necrotizing encephalopathy with SARS-CoV-2 RNA confirmed in cerebrospinal fluid. Neurology. 2020 Sep 8;95(10):445-449. doi: 10.1212/WNL.0000000000010250. Epub 2020 Jun 25.</citation>
+    <PMID>32586897</PMID>
+  </reference>
+  <reference>
+    <citation>Espíndola OM, Brandão CO, Gomes YCP, Siqueira M, Soares CN, Lima MASD, Leite ACCB, Torezani G, Araujo AQC, Silva MTT. Cerebrospinal fluid findings in neurological diseases associated with COVID-19 and insights into mechanisms of disease development. Int J Infect Dis. 2021 Jan;102:155-162. doi: 10.1016/j.ijid.2020.10.044. Epub 2020 Oct 28.</citation>
+    <PMID>33127503</PMID>
+  </reference>
+  <reference>
+    <citation>Bernard-Valnet R, Pizzarotti B, Anichini A, Demars Y, Russo E, Schmidhauser M, Cerutti-Sola J, Rossetti AO, Du Pasquier R. Two patients with acute meningoencephalitis concomitant with SARS-CoV-2 infection. Eur J Neurol. 2020 Sep;27(9):e43-e44. doi: 10.1111/ene.14298. Epub 2020 May 30.</citation>
+    <PMID>32383343</PMID>
+  </reference>
+  <reference>
+    <citation>Paniz-Mondolfi A, Bryce C, Grimes Z, Gordon RE, Reidy J, Lednicky J, Sordillo EM, Fowkes M. Central nervous system involvement by severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2). J Med Virol. 2020 Jul;92(7):699-702. doi: 10.1002/jmv.25915.</citation>
+    <PMID>32314810</PMID>
+  </reference>
+  <reference>
+    <citation>Solomon IH, Normandin E, Bhattacharyya S, Mukerji SS, Keller K, Ali AS, Adams G, Hornick JL, Padera RF Jr, Sabeti P. Neuropathological Features of Covid-19. N Engl J Med. 2020 Sep 3;383(10):989-992. doi: 10.1056/NEJMc2019373. Epub 2020 Jun 12.</citation>
+    <PMID>32530583</PMID>
+  </reference>
+  <reference>
+    <citation>Pereira A. Long-Term Neurological Threats of COVID-19: A Call to Update the Thinking About the Outcomes of the Coronavirus Pandemic. Front Neurol. 2020 Apr 17;11:308. doi: 10.3389/fneur.2020.00308. eCollection 2020.</citation>
+    <PMID>32362868</PMID>
+  </reference>
+  <reference>
+    <citation>Yachou Y, El Idrissi A, Belapasov V, Ait Benali S. Neuroinvasion, neurotropic, and neuroinflammatory events of SARS-CoV-2: understanding the neurological manifestations in COVID-19 patients. Neurol Sci. 2020 Oct;41(10):2657-2669. doi: 10.1007/s10072-020-04575-3. Epub 2020 Jul 28. Review.</citation>
+    <PMID>32725449</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 1, 2021</study_first_posted>
+  <last_update_submitted>February 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>IRCCS San Raffaele</investigator_affiliation>
+    <investigator_full_name>Pietro Mortini, MD, Prof.</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>SARS-Cov-2</keyword>
+  <keyword>CNS infection</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Brain</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Central Nervous System Diseases</mesh_term>
+    <mesh_term>Central Nervous System Infections</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

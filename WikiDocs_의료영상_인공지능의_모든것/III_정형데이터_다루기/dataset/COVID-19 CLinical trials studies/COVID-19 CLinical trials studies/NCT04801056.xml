@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2783">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04801056</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TB006C1101</org_study_id>
+    <nct_id>NCT04801056</nct_id>
+  </id_info>
+  <brief_title>Study of TB006 in Outpatient Patients With Mild to Moderate COVID-19</brief_title>
+  <official_title>A Phase I, First-In-Human, Randomized, Single Ascending Dose Study of TB006 in Outpatient Patients With Mild to Moderate COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>TrueBinding, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>TrueBinding, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      TB006, a monoclonal antibody, is an anti-inflammatory and anti-fibrotic agent that reduces&#xD;
+      the severity of underlying diseases in COVID-19 patients. The primary objective of TB006&#xD;
+      treatment is to decrease the potential acute severe deterioration in outpatient COVID-19&#xD;
+      patients with underlying diseases, such as diabetes, hypertension, and cancer. TB006 has been&#xD;
+      developed to treat the ambulatory patients with diagnosed mild to moderate COVID-19 who are&#xD;
+      considered at high risk for severe disease or hospitalization. The preferred population&#xD;
+      includes patients with elevated cytokines (e.g., IL-6) at baseline and patients with&#xD;
+      underlying diseases at baseline including diabetes mellitus, cardiovascular diseases (such as&#xD;
+      hypertension), and cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      TB006, a monoclonal antibody, is an anti-inflammatory and anti-fibrotic agent that reduces&#xD;
+      the severity of underlying diseases in COVID-19 patients. The primary objective of TB006&#xD;
+      treatment is to decrease the potential acute severe deterioration in outpatient COVID-19&#xD;
+      patients with underlying diseases, such as diabetes, hypertension, and cancer. TB006 has been&#xD;
+      developed to treat the ambulatory patients with diagnosed mild to moderate COVID-19 who are&#xD;
+      considered at high risk for severe disease or hospitalization. The preferred population&#xD;
+      includes patients with elevated cytokines (e.g., IL-6) at baseline and patients with&#xD;
+      underlying diseases at baseline including diabetes mellitus, cardiovascular diseases (such as&#xD;
+      hypertension), and cancer.&#xD;
+&#xD;
+      In the single ascending dose study, the dosages of 10 mg/kg ~ 50 mg/kg will be investigated&#xD;
+      in patients with mild to moderate COVID-19, and will be administered to patients over 60&#xD;
+      minutes after dilution in 0.9% Sodium Chloride Injection, USP (normal saline) to a final&#xD;
+      volume of 250 mL. The primary objective of the SAD study is to evaluate the safety and&#xD;
+      tolerability of single ascending doses of TB006 vs placebo administered via i.v. infusion in&#xD;
+      outpatient patients with mild-to-moderate COVID-19 and to determine the dose recommended for&#xD;
+      Phase Ib study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Single Ascending Dose</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Treatment emergent adverse events</measure>
+    <time_frame>Baseline to Day 85</time_frame>
+    <description>Evaluated as per DAIDS v2.1</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameters of TB006: AUC(0-last)</measure>
+    <time_frame>Day 1 to Day 85</time_frame>
+    <description>- Area under the plasma concentration curve over time (hr*µg/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameters of TB006: Cmax</measure>
+    <time_frame>Day 1 to Day 85</time_frame>
+    <description>- Maximum concentration of TB006 (µg/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameters of TB006: Tmax</measure>
+    <time_frame>Day 1 to Day 85</time_frame>
+    <description>- The amount of time that TB006 is present at the maximum concentration (hours)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameters of TB006: T1/2</measure>
+    <time_frame>Day 1 to Day 85</time_frame>
+    <description>- Half life of TB006 (hours)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity</measure>
+    <time_frame>Day 1 to Day 85</time_frame>
+    <description>- Anti-drug antibodies (ADA)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Preliminary Efficacy: Viral shedding change</measure>
+    <time_frame>Day 1 to Day 28</time_frame>
+    <description>Change from baseline in viral shedding from Day 1 to Day 28, as measured by RT-qPCR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Preliminary Efficacy: Viral shedding change at each visit</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Change from baseline in viral shedding at each visit through Day 28, as measured by RT-qPCR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Preliminary Efficacy: Time to viral shedding clearance</measure>
+    <time_frame>Baseline to Day 85</time_frame>
+    <description>Measure the time to viral shedding clearance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Preliminary Efficacy: Proportion of treated patients with ≥ 1 COVID-19 related medically-attended visit through Day 28</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Proportion of treated patients with ≥ 1 COVID-19 related medically-attended visit through Day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Preliminary Efficacy: Total number of COVID-19 related medically-attended visits</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Number of COVID-19 related medically-attended visits during study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Preliminary Efficacy: Proportion of treated patients admitted to a hospital due to COVID-19</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Proportion of patients admitted to a hospital by Day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Preliminary Efficacy: Time to sustained clinical recovery from baseline</measure>
+    <time_frame>Baseline to Day 85</time_frame>
+    <description>Time to sustained clinical recovery from baseline to end of follow-up visits</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Preliminary Efficacy: Clinical improvement from baseline at each visit through Day 28 (in patients with or without underlying comorbidities</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Measured by change in score according to the World Health Organization (WHO) ordinal scale, ranging from 0 (uninfected) to 8 (dead)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: Troponins</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Change in cardiac biomarkers (ng/mL)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: N-terminal pro B-type natriuretic peptide (NT-proBNP)</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Change in cardiac biomarkers (pg/mL)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: Creatine kinase-MB (CK-MB)</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Change in cardiac biomarkers (ng/mL)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: Change in neutrophil-lymphocyte ratio (NLR)</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Monitor potential inflammation activity</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: IL-6</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>- Change in cytokine measurement (pg/mL)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: IL-2</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>- Change in cytokine measurement (pg/mL)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: IL-7</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>- Change in cytokine measurement (pg/mL)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: IL-8</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>- Change in cytokine measurement (pg/mL)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: IL-1β</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>- Change in cytokine measurement (pg/mL)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: IFNgamma</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>- Change in cytokine measurement (pg/mL)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: TNFα</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>- Change in cytokine measurement (pg/mL)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: IL-10</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>- Change in cytokine measurement (pg/mL)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: MIP-1α/β</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>- Change in cytokine measurement (pg/mL)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: C-reactive protein (CRP)</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>- Change in serum and plasma biomarkers (mg/L)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: Ferritin</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>- Change in serum and plasma biomarkers (mg/L)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics biomarkers: D-dimer</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>- Change in serum and plasma biomarkers (mg/L)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Virology</measure>
+    <time_frame>Baseline to Day 85</time_frame>
+    <description>- Change in viral sequencing, resistance, infectivity using RT-qPCR</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Patient Report Outcomes (PRO): Sponsor developed patient self-report COVID-19 symptom survey (PSRSS-C19)</measure>
+    <time_frame>Baseline to Day 85</time_frame>
+    <description>- Change from baseline to Day 28 and safety follow-up visit in score ranging from 0 (none) to 3 (severe)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Patient Report Outcomes (PRO): Patient Global Impression of Severity (PGI-S) survey</measure>
+    <time_frame>Baseline to Day 85</time_frame>
+    <description>- Change from baseline to Day 28 and safety follow-up visit in score ranging from 0 (non) to 4 (very severe)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Patient Report Outcomes (PRO): Patient Global Impression of Change (PGI-C) survey</measure>
+    <time_frame>Baseline to Day 85</time_frame>
+    <description>- Change from baseline to Day 28 and safety follow-up visit in score ranging from 0 (much better) and 4 (much worse)</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">27</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>TB006</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>During the SAD study, subjects will receive a single dose of TB006 (at the dosage level of 10 ~ 50 mg/kg) administered via i.v. infusion for 60 mins.&#xD;
+In addition, a sentinel cohort of 5 mg/kg will be open for enrollment and double-blinded randomization first, with 2 patients randomized to active/TB006 arm, to assess preliminary safety and tolerability of study drug, and to determine cohort expansion and dose escalation. Upon the completion of sentinel cohort and all subjects are safe and well tolerate study treatment, regular dose escalation will start.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>During the SAD study, subjects will receive a single dose of the placebo administered via i.v. infusion for 60 mins.&#xD;
+In addition, the corresponding sentinel placebo group will include 1 patient to placebo arm. Upon the completion of sentinel cohort and all subjects are safe and well tolerate study treatment, regular dose escalation will start.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TB006</intervention_name>
+    <description>TB006 monoclonal antibody</description>
+    <arm_group_label>TB006</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo i.v. infusion</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Willing and able to provide written informed consent prior to performing study&#xD;
+             procedures (or legally authorized representative able to provide consent on the&#xD;
+             patient's behalf).&#xD;
+&#xD;
+          2. Age ≥ 18 years&#xD;
+&#xD;
+          3. A positive Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV-2) infection&#xD;
+             confirmed by polymerase chain reaction (PCR) test or an equivalent test ≤ 3 days&#xD;
+             before randomization&#xD;
+&#xD;
+          4. Patients with mild to moderate COVID-19 experiencing any of the following symptoms:&#xD;
+&#xD;
+               -  Mild (without shortness of breath or dyspnea): Fever, cough, sore throat,&#xD;
+                  malaise, headache, muscle pain, gastrointestinal symptoms&#xD;
+&#xD;
+               -  Moderate: Any symptom of mild illness, shortness of breath with excursion,&#xD;
+                  clinically suggestive of moderate illness with COVID-19, such as respiratory rate&#xD;
+                  ≥ 20 breaths per minute, saturation of oxygen (SpO2) &gt; 93% on room air at sea&#xD;
+                  level, heart rate ≥ 90 beats per minute&#xD;
+&#xD;
+          5. At high risk for progressing to severe COVID-19 and/or hospitalization. High risk&#xD;
+             patients are defined as meeting at least one of the following criteria:&#xD;
+&#xD;
+               -  Have diabetes&#xD;
+&#xD;
+               -  Have hypertension&#xD;
+&#xD;
+               -  Have cancer&#xD;
+&#xD;
+               -  Body Mass Index (BMI) ≥ 35&#xD;
+&#xD;
+               -  Have chronic kidney disease&#xD;
+&#xD;
+               -  Are ≥ 65 years of age&#xD;
+&#xD;
+               -  Are ≥ 55 years of age AND have&#xD;
+&#xD;
+               -  Cardiovascular disease such as hypertension, or&#xD;
+&#xD;
+               -  Chronic obstructive pulmonary disease/other chronic respiratory disease&#xD;
+&#xD;
+          6. Adequate organ function at screening as evidenced by:&#xD;
+&#xD;
+               -  Hemoglobin &gt; 10.9 g/dL&#xD;
+&#xD;
+               -  Absolute neutrophil count (ANC) &gt; 1.0 × 10^9/L&#xD;
+&#xD;
+               -  Platelets &gt; 125 × 10^9/L&#xD;
+&#xD;
+               -  Alanine Aminotransferase (ALT) or aspartate aminotransferase (AST) &lt; 1.25 × upper&#xD;
+                  limit of normal (ULN)&#xD;
+&#xD;
+               -  Creatinine clearance &gt; 90 mL/min using the Cockcroft-Gault formula for patients ≥&#xD;
+                  18 years of age [Cockcroft 1976]&#xD;
+&#xD;
+          7. Normal electrocardiogram with QTcF of ≤ 450 ms&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participation in any other clinical trial of an experimental treatment for COVID-19&#xD;
+&#xD;
+          2. Clinical signs indicative of Severe or Critical Illness Severity&#xD;
+&#xD;
+               -  SEVERE:&#xD;
+&#xD;
+               -  Any symptom of severe, systematic illness, including moderate illness, shortness&#xD;
+                  of breath, or respiratory distress&#xD;
+&#xD;
+               -  Clinically suggestive of severe illness with COVID-19, such as respiratory rate ≥&#xD;
+                  30 breaths per minute, heart rate ≥ 125 per minute, saturation of oxygen (SpO2) ≤&#xD;
+                  93% on room air at sea level, or PaO2/FiO2 &lt; 300&#xD;
+&#xD;
+               -  CRITICAL ILLNESS (one of the following):&#xD;
+&#xD;
+               -  Respiratory failure defined based on resource utilization requiring at least one&#xD;
+                  of the following:&#xD;
+&#xD;
+                    1. Endotracheal intubation and mechanical ventilation, oxygen delivered by&#xD;
+                       high483 flow nasal cannula (heated, humidified, oxygen delivered via&#xD;
+                       reinforced nasal cannula at flow rates &gt; 20 L/min with fraction of delivered&#xD;
+                       oxygen ≥ 0.5)&#xD;
+&#xD;
+                    2. Noninvasive positive pressure ventilation, ECMO, or clinical diagnosis of&#xD;
+                       respiratory failure (i.e., clinical need for one of the preceding therapies,&#xD;
+                       but preceding therapies not able to be administered in setting of resource&#xD;
+                       limitation)&#xD;
+&#xD;
+               -  Shock (defined by systolic blood pressure &lt; 90 mm Hg, or diastolic blood pressure&#xD;
+                  &lt; 60 mm Hg or requiring vasopressors)&#xD;
+&#xD;
+               -  Multi-organ dysfunction/failure&#xD;
+&#xD;
+          3. Have a history of a positive SARS-CoV-2 serology test&#xD;
+&#xD;
+          4. Evidence of shock (defined by systolic blood pressure &lt; 90 mm Hg, or diastolic blood&#xD;
+             pressure &lt; 60 mm Hg or requiring vasopressors)&#xD;
+&#xD;
+          5. Patients who are hospitalized due to COVID-19&#xD;
+&#xD;
+          6. Patients who required oxygen therapy due to COVID-19&#xD;
+&#xD;
+          7. Patients who required mechanical ventilation or anticipated impending need for&#xD;
+             mechanical ventilation&#xD;
+&#xD;
+          8. Receiving V-V ECMO ≥ 5 days, or any duration of V-A ECMO&#xD;
+&#xD;
+          9. Have a history of convalescent COVID-19 plasma treatment&#xD;
+&#xD;
+         10. Women who are pregnant or breastfeeding&#xD;
+&#xD;
+         11. Male or female of childbearing potential who has plans to become pregnant during the&#xD;
+             study period and for six months after the clinical study or who is not willing to take&#xD;
+             appropriate contraceptive measures (e.g., concomitant use of a spermicidal agent,&#xD;
+             barrier contraceptive, or/and intrauterine contraceptive)&#xD;
+&#xD;
+         12. Viral disease (HIV, HBV, HCV, etc.) other than COVID-19 that are not adequately&#xD;
+             controlled or require administration of other antiviral agents or medications that&#xD;
+             could potentially interact with TB006&#xD;
+&#xD;
+         13. Patients with a history or current evidence of any concomitant condition, therapy, or&#xD;
+             laboratory abnormality that, in the opinion of the investigator, might confound the&#xD;
+             results of the trial, interfere with the patient's participation and compliance&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Dongxu Sun, PhD</last_name>
+    <phone>(650) 785-0225</phone>
+    <phone_ext>1</phone_ext>
+    <email>dsun@truebinding.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Gabrail Cancer Center</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Carrie Smith, RN</last_name>
+    </contact>
+    <investigator>
+      <last_name>Nashat Gabrail, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 16, 2021</study_first_posted>
+  <last_update_submitted>March 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

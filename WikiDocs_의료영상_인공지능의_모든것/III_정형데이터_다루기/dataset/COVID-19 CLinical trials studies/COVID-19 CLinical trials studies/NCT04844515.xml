@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2018">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04844515</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP210173.1</org_study_id>
+    <nct_id>NCT04844515</nct_id>
+  </id_info>
+  <brief_title>The ESPERES Prospective Cohort of Healthcare Workers in France: Study on COVID-19 Vaccine and the COVID-19 Pandemic (ESPERES_COVID19)</brief_title>
+  <official_title>The ESPERES Prospective Cohort of Healthcare Workers in France: Study on COVID-19 Vaccine and the COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is the first study performed within the ESPERES cohort, related to prevention against&#xD;
+      COVID-19, in particular vaccination against COVID-19 and more broadly on the COVID-19&#xD;
+      pandemic.&#xD;
+&#xD;
+      ESPERES is a national prospective e-cohort study providing a resource for collecting&#xD;
+      information on healthcare workers (HCWs) currently working in France. The overall goal of&#xD;
+      ESPERES is to develop the infrastructure necessary to create and engage a community of HCWs&#xD;
+      who may be eligible for participation in future research studies. ESPERES is set up to answer&#xD;
+      research questions, in the field of prevention for HCWs, prevention for their own health,&#xD;
+      that of their relatives, their colleagues, and users of the hospital. These research&#xD;
+      questions will be carried out in the context of specific subsequent studies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Most countries face the issue of vaccine hesitancy, with sizeable fractions, or sometimes the&#xD;
+      majority, of the public opposing some vaccines. The problem is particularly acute in the case&#xD;
+      of COVID-19 vaccination: first, a high uptake of COVID-19 vaccines is necessary to reach and&#xD;
+      sustain herd immunity; second, and to the best of our knowledge, no country is currently&#xD;
+      planning on making COVID-19 vaccination mandatory, making public approval essential.&#xD;
+      Unfortunately, hesitancy towards COVID-19 vaccines is high in many countries.&#xD;
+&#xD;
+      Vaccine hesitancy also concerns healthcare workers (HCWs) who are at the frontline of the&#xD;
+      COVID-19 pandemic and identified as a priority target group for COVID-19 vaccines.&#xD;
+      Furthermore, HCWs can be relays of information concerning vaccination and thus play a key&#xD;
+      role as mediator in the promotion (or not) of this vaccination. However, vaccine intentions&#xD;
+      against COVID-19 are not fully known among different categories of HCWs and are likely to&#xD;
+      evolve with knowledge about the safety and efficacy of vaccines as well as the evolution of&#xD;
+      the epidemic. Consequently, it is crucial to understand the evolution of these vaccine&#xD;
+      intentions and their determinants in HCWs in order to better target interventions to promote&#xD;
+      this vaccination, in a context where scientific data are themselves evolving quickly.&#xD;
+&#xD;
+      The study population will be made up of HCWs. For the purposes of this study, a &quot;healthcare&#xD;
+      worker&quot; is defined as an individual who currently works in a setting where individuals&#xD;
+      receive healthcare (i.e. individuals do not have to work directly with patients, but may have&#xD;
+      any role within a setting where individuals receive healthcare, such as administrative&#xD;
+      office, housekeeping, food service, etc.). ESPERES_COVID-19 will be offered to all the HCWs&#xD;
+      of the Assistance Publique - Hôpitaux de Paris (AP-HP) establishments and to other public or&#xD;
+      private health establishments (lucrative or not) in the Ile-De-France region and to&#xD;
+      establishments in other French regions, in order to diversify the contexts.&#xD;
+&#xD;
+      Each participant is self-included and collects his own data via a web interface. This cohort&#xD;
+      is open, meaning that eligible people can be included until the end of the study (no limited&#xD;
+      inclusion period). This cohort will start in 2021 and is scheduled for an initial duration of&#xD;
+      24 months but may be extended as part of amendments.&#xD;
+&#xD;
+      Participants will be regularly asked to answer online questionnaires lasting at most 20&#xD;
+      minutes. The frequency of these questionnaires will not exceed one questionnaire every 2&#xD;
+      weeks (and will generally be more spaced out). During their follow-up in the cohort,&#xD;
+      participants may be asked, depending on their characteristics, to participate in studies&#xD;
+      nested in the cohort.&#xD;
+&#xD;
+      All data from ESPERES_COVID-19 will be gathered in a health data repository. The statistical&#xD;
+      analyses planned in the research protocol will be performed by the pharmaco-epidemiology&#xD;
+      center (CEPHEPI), under the responsibility of Dr Candice ESTELLAT and Pr Florence TUBACH. The&#xD;
+      CEPHEPI is backed by the public health department of the hospital group Pitié-Salpêtrière -&#xD;
+      Charles Foix, AP-HP.&#xD;
+&#xD;
+      A calculation of the sample size is not justified for this study as it aims to answer several&#xD;
+      research questions in a cohort. However, a number about 15,000 participants in&#xD;
+      ESPERES_COVID-19 are expected.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 9, 2021</start_date>
+  <completion_date type="Anticipated">April 23, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 23, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>24 Months</target_duration>
+  <primary_outcome>
+    <measure>The COVID-19 vaccine intention with the question: &quot;Do you intend to get vaccinated against COVID-19?&quot; : I am already vaccinated / Yes, as soon as possible / Yes, but I prefer to wait before getting vaccinated / No, I don't think I'm gonna get vaccinated</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The COVID-19 vaccine intention in HCWs participants according to the characteristics of the vaccines (country of the manufacturer, technology used, number of doses, etc.) and of the HCWs</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Potential individual sociocognitive factors in the acceptance of COVID-19 vaccination, based on models developed for vaccine hesitation (5C psychological antecedents of vaccination adapted for COVID-19 vaccination and HCWs). (eleven points-Likert scales)</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The perceptions of participants regarding the strategies for managing the pandemic and the progress of the health crisis and the pandemic (eleven points-Likert scales)</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The perceptions in general and in relation to specific strategies such as the lockdown, the mandatory vaccination for caregivers, the vaccination passport, the gradual arrival of vaccine doses, the organization of vaccination campaign</measure>
+    <time_frame>Up to 24 months</time_frame>
+    <description>The perceptions in general and in relation to specific strategies such as the lockdown, the mandatory vaccination for caregivers, the vaccination passport, the gradual arrival of vaccine doses, the organization of vaccination campaign and in particular prioritization strategies, etc.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The healthy behaviors in other contexts (especially influenza vaccination over the last years)</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The methods and sources of information concerning questions relating to health: media (website, social networks, television, radio or written press), nature (mainstream, classic or alternative media), etc.</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of searches for information on COVID-19 or COVID-19 vaccines</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Socio-demographic and professional characteristics, lifestyles: age, gender, profession and place of practice</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percentages of participants with history of COVID-19 and risk factors for severe forms of COVID-19 (perception of being at risk for severe forms)</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The impact of the epidemic on the participants in their professional and personal life (closed-ended questions)</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Contextual determinants: characteristic of living (density and constitution of the household) and work (type of hospital, working hours, time and mode of travel to workplace) places</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Other health behaviors related to the COVID-19 pandemic: adherence to protective measures in professionnal and personal life during the last 14 days (eleven points-Likert scale)</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The self-reported COVID-19 vaccine rate (dates, number of doses, type of vaccine, satisfaction)</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of SARS-COV-2 infection (date, severity, mode of diagnosis, etc.)</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The attitude of HCWs participants regarding the advice they give or not to patients, relatives and colleagues regarding the vaccination against COVID-19 (closed-ended questions)</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Behavioral risk factors during the last 14 days before the SARS-COV-2 infection (closed-ended questions)</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Other health behaviors related to the COVID-19 pandemic: the frequency of carrying out diagnostic tests for the infection to SARS-COV-2</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <enrollment type="Anticipated">15000</enrollment>
+  <condition>Healthcare Workers</condition>
+  <condition>COVID-19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will be made up of HCWs. For the purposes of this study, a &quot;healthcare&#xD;
+        worker&quot; is defined as an individual who currently works in a setting where individuals&#xD;
+        receive healthcare (i.e. individuals do not have to work directly with patients, but may&#xD;
+        have any role within a setting where individuals receive healthcare, such as administrative&#xD;
+        office, housekeeping, food service, etc.). ESPERES_COVID-19 will be offered to all the HCWs&#xD;
+        of the Assistance Publique - Hôpitaux de Paris (AP-HP) establishments and to other public&#xD;
+        or private health establishments (lucrative or not) in the Ile-De-France region and to&#xD;
+        establishments in other French regions, in order to diversify the contexts.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Legal age&#xD;
+&#xD;
+          -  Healthcare workers defined as individuals who currently work in a setting where&#xD;
+             individuals receive healthcare (i.e. individuals do not have to work directly with&#xD;
+             patients, but may have any role within a setting where individuals receive healthcare,&#xD;
+             such as administrative office, housekeeping, food service, etc.)&#xD;
+&#xD;
+          -  Agreeing to participate (digital consent)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - No internet access&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Florence Tubach, MD, PHD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistance Publique - Hôpitaux de Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Florence Tubach, MD, PHD</last_name>
+    <phone>01 42 16 05 88</phone>
+    <email>florence.tubach@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sandra Fournier, MD</last_name>
+    <email>sandra.fournier@aphp.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Pitié-Salpêtrière - Charles Foix, AP-HP</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Emmanuelle Liegey, Clinical projects manager</last_name>
+      <phone>01 44 84 17 63</phone>
+      <email>emmanuelle.liegey@aphp.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sarra Pochon, Clinical projects manager</last_name>
+      <phone>01 42 16 75 74</phone>
+      <email>sarra.pochon@aphp.fr</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Healthcare workers</keyword>
+  <keyword>Preventive measures</keyword>
+  <keyword>Attitudes</keyword>
+  <keyword>COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

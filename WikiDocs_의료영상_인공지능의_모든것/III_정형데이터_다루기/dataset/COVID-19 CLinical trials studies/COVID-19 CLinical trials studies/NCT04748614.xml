@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2213">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04748614</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Ilke-ICU</org_study_id>
+    <nct_id>NCT04748614</nct_id>
+  </id_info>
+  <brief_title>Analysis Before and After COVID 19</brief_title>
+  <official_title>Comparative ICU Cost, Hospital Stay and Mortality Analysis Before and After COVID 19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kocaeli Derince Education and Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Kocaeli Derince Education and Research Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In our study, we aimed to compare the average length of stay, death rates and costs of&#xD;
+      intensive care patients in October-November-December 2019 (before COVID 19) and&#xD;
+      October-November-December 2020 (during COVID 19).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 15, 2021</start_date>
+  <completion_date type="Anticipated">March 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 15, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cost of ICU</measure>
+    <time_frame>1 month</time_frame>
+    <description>Cost of ICU</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Cost of ICU</condition>
+  <arm_group>
+    <arm_group_label>Before SARS-Cov2</arm_group_label>
+    <description>Before SARS-Cov2</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>After SARS-Cov2</arm_group_label>
+    <description>After SARS-Cov2</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Cost</intervention_name>
+    <description>ICU cost</description>
+    <arm_group_label>After SARS-Cov2</arm_group_label>
+    <arm_group_label>Before SARS-Cov2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients hospitalized in intensive care in the last 3 months of 2019 and all SARS-Cov2&#xD;
+        patients hospitalized in intensive care in the last 3 months of 2020.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Above 18 years old&#xD;
+&#xD;
+          -  All patients in intensive care unit in last three months of 2019&#xD;
+&#xD;
+          -  All SARS-Cov2 patients in intensive care unit in last three months of 2020&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Under 18 years old&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ilke Kupeli</last_name>
+    <phone>+90 555 548 5632</phone>
+    <email>ilkeser2004@gmail.com</email>
+  </overall_contact>
+  <link>
+    <url>http://covid19.who.int/</url>
+    <description>WHO Coronavirus Disease (COVID-19) Dashboard</description>
+  </link>
+  <results_reference>
+    <citation>Khan AA, AlRuthia Y, Balkhi B, Alghadeer SM, Temsah MH, Althunayyan SM, Alsofayan YM. Erratum: Khan, A.A., et al. Survival and Estimation of Direct Medical Costs of Hospitalized COVID-19 Patients in the Kingdom of Saudi Arabia (Short Title: COVID-19 Survival and Cost in Saudi Arabia). Int. J. Environ. Res. Public Health 2020, 17, 7458. Int J Environ Res Public Health. 2020 Dec 17;17(24). pii: E9458. doi: 10.3390/ijerph17249458.</citation>
+    <PMID>33348933</PMID>
+  </results_reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 10, 2021</study_first_posted>
+  <last_update_submitted>February 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Kocaeli Derince Education and Research Hospital</investigator_affiliation>
+    <investigator_full_name>Merve Yazici Kara</investigator_full_name>
+    <investigator_title>MD</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

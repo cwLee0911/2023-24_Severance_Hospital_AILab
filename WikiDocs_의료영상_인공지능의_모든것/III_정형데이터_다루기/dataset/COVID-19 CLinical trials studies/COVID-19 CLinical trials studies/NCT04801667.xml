@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5064">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04801667</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TxR Coronavac - Hrim</org_study_id>
+    <nct_id>NCT04801667</nct_id>
+  </id_info>
+  <brief_title>Evaluate the Impact, Safety, Tolerability and Immunogenicity of the Coronavac Vaccine in Kidney Transplant Recipients</brief_title>
+  <acronym>TXCoronavac</acronym>
+  <official_title>Prospective Study in a Single Center to Evaluate the Impact, Safety, Tolerability and Immunogenicity of the Coronavac Vaccine in Kidney Transplant Recipients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital do Rim e Hipertensão</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital do Rim e Hipertensão</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Since the beginning of the SARS-CoV-2 pandemic, 1031 (8.7%) of the 11875 kidney transplant&#xD;
+      recipients being followed up at Hospital do Rim have been infected. The overall lethality&#xD;
+      rate was 24%, reaching 53% among those over 70 years old. Among the survivors, there is also&#xD;
+      a high incidence of renal dysfunction with loss of the renal graft and definitive return to&#xD;
+      dialysis. Patients receiving pharmacological immunosuppression, including transplant&#xD;
+      recipients, have not been included in the studies carried out to date. In addition, kidney&#xD;
+      transplant recipients may have reduced vaccine responses compared to the general population.&#xD;
+      The severity, the high incidence of renal dysfunction and loss of renal graft, and the high&#xD;
+      lethality associated with COVD-19 justify the investigation of the epidemiological impact and&#xD;
+      immunogenicity of the vaccine against SARS-CoV-2 infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 20, 2021</start_date>
+  <completion_date type="Anticipated">March 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 1, 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluate the incidence of hospitalization or death in 28 days associated with COVID-19 (symptomatic cases confirmed virologically by COVID -19 with positive CRP) 14 ± 2 days after the second dose of the vaccine.</measure>
+    <time_frame>45 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the impact of the vaccine on the incidence of COVID-19 according to the severity criterion of the World Health Organization.</measure>
+    <time_frame>6 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the impact of the vaccine on the incidence of COVID-19 and hospitalization for COVID-19 disease, confirmed by PCR, for a period of 6 months after the final vaccination.</measure>
+    <time_frame>6 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the vaccine's safety, tolerability, and reactogenicity profile: occurrence of signs and symptoms of local and systemic reactogenicity requested seven days after vaccination.</measure>
+    <time_frame>7 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the incidence of serious adverse events for a period of 6 months after the final vaccination.</measure>
+    <time_frame>6 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate immunogenicity by detecting antibodies against SARS-CoV-2 for a period of 6 months after the final vaccination.</measure>
+    <time_frame>6 months</time_frame>
+    <description>IgG antibody levels will be used to assess immunogenicity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Analysis of the genetic sequencing of SARS-CoV-2 in patients who test positive for SARS-CoV-2 PCR.</measure>
+    <time_frame>6 months</time_frame>
+    <description>Genetic sequencing of the virus will be carried out, that is, reading the genome of Sars-Cov-2, to evaluate possible new variants.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">3780</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Coronavirus Infection</condition>
+  <condition>Vaccine Adverse Reaction</condition>
+  <arm_group>
+    <arm_group_label>Coronavac vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Kidney transplant recipients receiving the coronavac vaccine</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Coronavac</intervention_name>
+    <description>The CoronaVac is manufactured by Sinovac Life Sciences Co., Ltd. This vaccine contains the inactivated SARS-CoV-2 virus antigen and is administered intramuscularly.</description>
+    <arm_group_label>Coronavac vaccine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adults over 18 years old;&#xD;
+&#xD;
+          2. Time after transplantation greater than 3 months;&#xD;
+&#xD;
+          3. Time after treatment with anti-thymocyte globulin longer than 4 weeks;&#xD;
+&#xD;
+          4. Able and willing (in the investigator's opinion) to comply with all study&#xD;
+             requirements;&#xD;
+&#xD;
+          5. Provide written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Planned receipt of any vaccine (authorized or experimental), within 30 days before and&#xD;
+             after vaccination;&#xD;
+&#xD;
+          2. Prior receipt of an experimental or authorized vaccine with the possibility of&#xD;
+             impacting the interpretation of the study data (for example, vectorized vaccines by&#xD;
+             Adenovirus, any vaccines against coronavirus);&#xD;
+&#xD;
+          3. Administration of immunoglobulins and / or any blood products in the three months&#xD;
+             prior to the planned administration of the candidate vaccine;&#xD;
+&#xD;
+          4. Any history of angioedema or anaphylaxis;&#xD;
+&#xD;
+          5. Pregnancy, lactation or willingness / intention to become pregnant during the study;&#xD;
+&#xD;
+          6. Diagnosis or current treatment for cancer (except basal cell carcinoma of the skin and&#xD;
+             cervical carcinoma in situ);&#xD;
+&#xD;
+          7. History of severe psychiatric illness that possibly affects your participation in the&#xD;
+             study;&#xD;
+&#xD;
+          8. Hemorrhagic disorder (eg, factor deficiency, coagulopathy or platelet disorder) or a&#xD;
+             previous history of significant bleeding or hematoma after IM injections or&#xD;
+             venipuncture;&#xD;
+&#xD;
+          9. Continued use of anticoagulants, such as coumarins and related anticoagulants (for&#xD;
+             example, warfarin) or new oral anticoagulants (for example, apixaban, rivaroxaban,&#xD;
+             dabigatran and edoxaban);&#xD;
+&#xD;
+         10. Current suspected or known addiction to alcohol or drugs.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Helio Tedesco</last_name>
+    <phone>+55 11 5087 8113</phone>
+    <email>heliotedesco@medfarm.com.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jose Medina</last_name>
+    <phone>+55 11 5087 8000</phone>
+    <email>medina@hrim.com.br</email>
+  </overall_contact_backup>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 17, 2021</study_first_posted>
+  <last_update_submitted>March 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital do Rim e Hipertensão</investigator_affiliation>
+    <investigator_full_name>Helio Tedesco Silva Junior</investigator_full_name>
+    <investigator_title>Affiliate teacher</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

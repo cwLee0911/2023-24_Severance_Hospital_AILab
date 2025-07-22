@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2024">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04802278</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021/00095</org_study_id>
+    <nct_id>NCT04802278</nct_id>
+  </id_info>
+  <brief_title>Gestational Immunity for Transfer</brief_title>
+  <acronym>GIFT</acronym>
+  <official_title>Gestational Immunity for Transfer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National University Hospital, Singapore</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National University, Singapore</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Agency for Science, Technology and Research</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National University Hospital, Singapore</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a study prospective cohort study at an urban academic centre, with two parts:&#xD;
+&#xD;
+        1. Health outcomes, and maternally transferred antibodies, in babies born to mothers who&#xD;
+           had antenatal COVID-19 and convalesced before delivery, followed up until 12 months of&#xD;
+           age&#xD;
+&#xD;
+        2. Safety and protective properties of breast milk after lactating women are vaccinated&#xD;
+           against COVID-19&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This proposal aims to provide a multi-faceted approach to study how immunity may be&#xD;
+      transferred - both transplacentally and through breastfeeding, from mother to child, in the&#xD;
+      context of COVID-19.&#xD;
+&#xD;
+      We first recruit all babies delivered to mothers convalescent from antenatal COVID-19, to 1)&#xD;
+      follow up their growth and development, and 2) study the protective effects of antibodies&#xD;
+      transferred from mother to child transplacentally during pregnancy, as well as postnatally&#xD;
+      through breastfeeding. We compare these to a cohort of healthy controls whose mothers did not&#xD;
+      have COVID-19 during pregnancy.&#xD;
+&#xD;
+      Next, we compare the protective effects of antibodies transferred during breastfeeding from&#xD;
+      mother to child after lactating mothers are vaccinated against COVID-19, to that of natural&#xD;
+      infection. We also study the safety of breastfeeding after vaccination by looking for vaccine&#xD;
+      components in the breast milk.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Transplacentally transferred antibodies</measure>
+    <time_frame>From birth to 12 months of age</time_frame>
+    <description>Binding and neutralising immunoglobulin G specific to SARS-CoV-2 spike and receptor-binding domain</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Antibodies transferred through breast milk (convalescent mothers)</measure>
+    <time_frame>From birth to 6 months of age</time_frame>
+    <description>Binding and neutralising immunoglobulin A specific to SARS-CoV-2 spike and receptor-binding domain</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Antibodies transferred through breast milk (vaccinated mothers)</measure>
+    <time_frame>From just before vaccination, to 6 weeks after vaccination</time_frame>
+    <description>Binding and neutralising immunoglobulin A specific to SARS-CoV-2 spike and receptor-binding domain</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>General health</measure>
+    <time_frame>From birth to 12 months of age</time_frame>
+    <description>Growth and development of infants</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Covid19</condition>
+  <condition>Breastfeeding</condition>
+  <condition>Vaccine Exposure Via Breast Milk</condition>
+  <arm_group>
+    <arm_group_label>Babies born to mothers convalescent from antenatal COVID-19</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Babies born to healthy mothers</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vaccinated mothers</arm_group_label>
+    <description>Lactating mothers who received COVID-19 vaccination</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVID-19 vaccine</intervention_name>
+    <description>Any COVID-19 vaccine</description>
+    <arm_group_label>Vaccinated mothers</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Part 1 of study - infants Part 2 of study - lactating women&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Lives in Singapore&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Prematurity Congenital abnormalities Primary immunodeficiencies Autoimmune disorders&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>For group 3; only lactating women recruited</gender_description>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jia Ming Low, MBBS, MCI</last_name>
+    <phone>+65 6779 5555</phone>
+    <email>jia_ming_low@nuhs.edu.sg</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Youjia Zhong, MBChB, MCI</last_name>
+    <phone>+65 6779 5555</phone>
+    <email>youjia_zhong@nuhs.edu.sg</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>National University Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jia Ming Low, MBBS, MCI</last_name>
+      <email>jia_ming_low@nuhs.edu.sg</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Singapore</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 17, 2021</study_first_posted>
+  <last_update_submitted>March 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

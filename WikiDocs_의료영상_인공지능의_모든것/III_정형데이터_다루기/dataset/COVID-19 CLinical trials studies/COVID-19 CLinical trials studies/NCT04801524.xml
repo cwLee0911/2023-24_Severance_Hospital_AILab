@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="671">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04801524</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB#21-000268 (2)</org_study_id>
+    <nct_id>NCT04801524</nct_id>
+  </id_info>
+  <brief_title>Text-based Reminders to Promote COVID-19 Vaccinations</brief_title>
+  <official_title>Text-based Reminders to Promote COVID-19 Vaccinations</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Carnegie Mellon University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, Los Angeles</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study investigates whether and which type of text-based reminders affect the take-up of&#xD;
+      the COVID-19 vaccine.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Our primary research question is whether vaccine takeup can be boosted by a text-message&#xD;
+      reminder encouraging eligible patients to schedule a vaccination appointment. Patients, when&#xD;
+      becoming eligible for receiving the COVID-19 vaccine at UCLA Health, will be first notified&#xD;
+      about their eligibility and encouraged to schedule a vaccination appointment via one of the&#xD;
+      channels (email, voice call, or snail mail) depending on the contact information available to&#xD;
+      UCLA Health. Eligible patients will also receive a text-message reminder after the initial&#xD;
+      invitation. Eight days after the first text reminder, patients eligible for our study will be&#xD;
+      randomized at a 1:6 ratio into a holdout control arm that does not receive a second text&#xD;
+      message vs. a text-message arm that receives a second text message.&#xD;
+&#xD;
+      Our secondary research question concerns which type of text reminder is more effective. To&#xD;
+      study this question, we will nest a 2x3 factorial design within the text-message arm. The&#xD;
+      first factor has two levels and is whether the text message focuses on patients' personal&#xD;
+      benefits or prosocial benefits. The second factor has three levels and is whether the text&#xD;
+      message highlights the early access patients have to the vaccine, whether it highlights that&#xD;
+      the vaccine offers the promise of a fresh start, or neither.&#xD;
+&#xD;
+        -  In the Holdout arm: patients will not receive a second text message about COVID-vaccine.&#xD;
+&#xD;
+        -  In the text-message arm, all participants will receive a text message that invites them&#xD;
+           to schedule their vaccination appointment and includes a link to the appointment website&#xD;
+&#xD;
+             -  In the Self-benefit sub-arm, participants will be reminded that the vaccine helps&#xD;
+                protect themselves from COVID.&#xD;
+&#xD;
+             -  In the Prosocial-benefit sub-arm, participants will be reminded that the vaccine&#xD;
+                helps protect their family, friends, and community from COVID.&#xD;
+&#xD;
+             -  In the Early access + self-benefit sub-arm, participants will be reminded that they&#xD;
+                have early access to COVID-19 vaccine and should take the opportunity to protect&#xD;
+                themselves from COVID.&#xD;
+&#xD;
+             -  In the Early access + prosocial-benefit sub-arm, participants will be reminded that&#xD;
+                they have early access to COVID-19 vaccine and should take the opportunity to&#xD;
+                protect their family, friends, community from COVID.&#xD;
+&#xD;
+             -  In the Fresh start + self-benefit sub-arm, participants will be reminded that the&#xD;
+                vaccine offers the promise of a fresh start and they should take the opportunity to&#xD;
+                protect themselves from COVID and chart a new path forward.&#xD;
+&#xD;
+             -  In the Early access + prosocial-benefit sub-arm, participants will be reminded that&#xD;
+                the vaccine offers the promise of a fresh start and they should take the&#xD;
+                opportunity to protect their family, friends, community from COVID and help our&#xD;
+                nation chart a new path forward.&#xD;
+&#xD;
+      Patients will enter our study on a rolling basis, as they become eligible to get the vaccine&#xD;
+      (and if they fit our inclusion criteria for receiving the second text message). Those in the&#xD;
+      text-message arm will receive the second text message on the workday on or closest to the 8th&#xD;
+      day following the first text message. Specifically, if t denotes the date of the first text&#xD;
+      message, then t+8 is the 8th day following the first text message.If t+8 is Saturday, the&#xD;
+      second text message will be sent on Friday; if t+8 is Sunday, the second text message will be&#xD;
+      sent on Monday. We will measure a) whether patients schedule a COVID-19 vaccination&#xD;
+      appointment for the first dose and b) whether and when patients get the first dose of&#xD;
+      COVID-19 vaccine.&#xD;
+&#xD;
+      The study will stop assigning patients to the early access + self-benefit sub-arm OR the&#xD;
+      early access + prosocial-benefit sub-arm when UCLA health opens appointments to everyone&#xD;
+      regardless of priority status related to age, health conditions or occupations. This will be&#xD;
+      done because at this point the concept of early access is likely no longer credible. At that&#xD;
+      point, we will randomize future patients eligible for our study at a 1:4 ratio into the&#xD;
+      holdout control arm and a text-message arm that receives a second text message. Within the&#xD;
+      text-message arm, we will nest a 2x2 factorial design, where the two factors will be a)&#xD;
+      whether the text message will focus on patients' personal benefits or prosocial benefits and&#xD;
+      b) whether or not the text message highlights that the vaccine offers the promise of a fresh&#xD;
+      start.&#xD;
+&#xD;
+      Analysis:&#xD;
+&#xD;
+      For the main analysis, we will run ordinary least squares regressions (OLS) with robust&#xD;
+      standard errors to predict the aforementioned outcome variables, except that we will use a&#xD;
+      Cox proportional hazards model with administrative censoring to predict time of obtaining the&#xD;
+      first COVID-19 vaccine. The significance level will be 0.05. Our primary hypothesis is that&#xD;
+      the text-message arm is significantly better than the holdout arm, so our primary analysis&#xD;
+      will compare the six text-message sub-arms altogether with the holdout group.&#xD;
+&#xD;
+      Our secondary analysis will investigate whether (1) the three sub-arms highlighting&#xD;
+      self-benefits, (2) the three sub-arms highlighting prosocial benefits, (3) the two sub-arms&#xD;
+      highlighting early access, and (4) the two sub-arms highlighting fresh start are better than&#xD;
+      the holdout arm.&#xD;
+&#xD;
+      Furthermore, we will test (1) the effect of highlighting prosocial benefits (vs.&#xD;
+      self-benefits), (2) the effect of highlighting early access, (3) the effect of highlighting&#xD;
+      the promise of a fresh start, (4) whether the combination of early access and prosocial&#xD;
+      benefits will outperform early access alone or prosocial benefits alone, and (5) whether the&#xD;
+      combination of fresh start and prosocial benefits will outperform fresh start alone or&#xD;
+      prosocial benefits alone.&#xD;
+&#xD;
+      Our regressions will include the following control variables:&#xD;
+&#xD;
+        -  Participant age&#xD;
+&#xD;
+        -  Indicators for participant race/ethnicity (Black non-Hispanic, Hispanic, Asian&#xD;
+           non-Hispanic, white non-Hispanic, other/mixed, unknown; white non-Hispanic omitted)&#xD;
+&#xD;
+        -  Whether the patient's preferred language is Spanish (which affects the language of text)&#xD;
+&#xD;
+        -  Indicators for participant gender (male, female, other/unknown)&#xD;
+&#xD;
+        -  Social vulnerability index score&#xD;
+&#xD;
+        -  COVID19 Risk Factors Model&#xD;
+&#xD;
+        -  Indicators for the batches of patients (patients will become eligible and receive&#xD;
+           initial communications in batches)&#xD;
+&#xD;
+      As a robustness check, we will re-run the analysis as a logit regression (instead of an OLS&#xD;
+      regression) for binary outcome variables.&#xD;
+&#xD;
+      We will explore the following moderators:&#xD;
+&#xD;
+        -  Whether the patient is female or male&#xD;
+&#xD;
+        -  Whether the patient is Black, Caucasian, Hispanic, or other&#xD;
+&#xD;
+        -  Whether the patient's preferred language is Spanish&#xD;
+&#xD;
+        -  Whether the patient is 65+ (including 65) or below 65&#xD;
+&#xD;
+        -  Patient's Social vulnerability index score&#xD;
+&#xD;
+        -  Patient's COVID risk score&#xD;
+&#xD;
+        -  Patient's population risk score&#xD;
+&#xD;
+        -  Whether the patient is married (which is a proxy for whether they live together with&#xD;
+           family members)&#xD;
+&#xD;
+        -  Whether or not the patient received a flu shot in either the 2019-2020 season or the&#xD;
+           2020-2021 flu season prior to receiving our text message according to the patient's&#xD;
+           medical record&#xD;
+&#xD;
+        -  The day of the week when the text message is sent to a patient. We will compare each day&#xD;
+           of the week.&#xD;
+&#xD;
+        -  How strongly the participant's neighborhood is in favor of the Republican (vs.&#xD;
+           Democratic) Party if UCLA Health eventually agrees to provide de-identified address&#xD;
+           (e.g., zipcode)&#xD;
+&#xD;
+        -  The arm that patients were assigned to for the first text message (see our&#xD;
+           pre-registration for the RCT related to the first text message at NCT04800965)&#xD;
+&#xD;
+        -  Number of days between the date the first batch of patients received the initial&#xD;
+           invitation to get COVID vaccine at UCLA Health and the date a patient in question&#xD;
+           received the initial invitation&#xD;
+&#xD;
+        -  The number of patients who have received the initial invitation to get COVID vaccine at&#xD;
+           UCLA Health before a patient in question received the initial invitation.&#xD;
+&#xD;
+      Plan for Early and Subsequent Analyses&#xD;
+&#xD;
+      To inform policy as soon as possible, we plan to first assess the effects of our&#xD;
+      interventions in the early phase of vaccination outreach at UCLA Health. For this purpose, we&#xD;
+      plan to first analyze the data from the start of this RCT to the end of February. Given that&#xD;
+      we are using a 6-day time window for our primary dependent variable, we will examine data&#xD;
+      from patients who are randomized to either the holdout or text-message arm in this RCT before&#xD;
+      or on Feb 23, 2021. For this population, we will test:&#xD;
+&#xD;
+        1. whether the text-message arm is significantly better than the holdout arm;&#xD;
+&#xD;
+        2. whether the three sub-arms highlighting self-benefits, the three sub-arms highlighting&#xD;
+           prosocial benefits, the two sub-arms highlighting early access, and the two sub-arms&#xD;
+           highlighting fresh start are better than the holdout arm.&#xD;
+&#xD;
+        3. we will report the raw data for each sub-arm without conducting hypothesis testing&#xD;
+           across conditions that are not pre-registered in (1)-(4).&#xD;
+&#xD;
+      In our early analysis, we will include controls that are available to us (it is possible that&#xD;
+      we do not have all of the controls described above at the time of early report).&#xD;
+&#xD;
+      However, if by Feb 23, we do not reach 40K (which gives us 80% power to detect a 2pp&#xD;
+      difference between the holdout arm and the text message arm, assuming that holdout arm has a&#xD;
+      50% baseline) for this RCT, we will only report estimated treatment effects and 95%&#xD;
+      confidence intervals but we will not perform any hypothesis testing.&#xD;
+&#xD;
+      After all UCLA patients have been invited (or if vaccine distribution plan changes and UCLA&#xD;
+      Health no longer sends out text messages to patients at some point), we will do the following&#xD;
+      additional analyses:&#xD;
+&#xD;
+        -  If the additional data collected afterward exceeds 40K (which gives us 80% power to&#xD;
+           detect a 2pp difference between the holdout arm and the text message arm), then we will&#xD;
+           analyze the main effect of sending a text message (vs. holdout) and report the raw data&#xD;
+           for each sub-arm (to see if the patterns are qualitatively comparable with those in the&#xD;
+           early data).&#xD;
+&#xD;
+        -  If we do not reach the sample size for the early analysis, then we will use all the data&#xD;
+           (including the early data and subsequent data) to analyze the aforementioned questions&#xD;
+           for the early data.&#xD;
+&#xD;
+        -  We will use the full sample (including the early data and subsequent data) to analyze&#xD;
+           (1) the effect of highlighting prosocial benefits (vs. self-benefits), (2) the effect of&#xD;
+           highlighting early access, (3) the effect of highlighting the promise of a fresh start,&#xD;
+           (4) whether the combination of early access and prosocial benefits will outperform early&#xD;
+           access alone or prosocial benefits alone, and (5) whether the combination of fresh start&#xD;
+           and prosocial benefits will outperform fresh start alone or prosocial benefits alone,&#xD;
+           and (6) the aforementioned heterogeneous treatment effects.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">February 7, 2021</start_date>
+  <completion_date type="Anticipated">January 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>First COVID-19 Vaccine Appointment Scheduled at UCLA Health</measure>
+    <time_frame>6 days</time_frame>
+    <description>Whether patients schedule their vaccination appointment at UCLA Health within 6 days of receiving the second text message (including the day of text message). Specifically, if t=the date of the second text message (for the holdout arm, this refers to the date they would have received the text message had they not been assigned to the holdout arm), we will track vaccination appointments made by the end of t+5. While most people just make one appointment, a small percentage update their appointment time. We will have access to the latest few first-dose appointments people schedule by the time of data extraction.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>First COVID-19 Vaccine obtained at UCLA Health</measure>
+    <time_frame>1 months from text message</time_frame>
+    <description>Whether patients get the first dose of COVID-19 vaccine at UCLA Health [time frame: 1 months from text message]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time of obtaining the first COVID-19 vaccine at UCLA Health</measure>
+    <time_frame>1 months from text message</time_frame>
+    <description>The date when patients obtain the first dose of COVID-19 vaccine at UCLA Health [time frame: 1 months from text message]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>First COVID-19 Vaccine obtained at UCLA Health or any organization reporting to CAIR</measure>
+    <time_frame>2 months from text message</time_frame>
+    <description>Whether patients obtain the first dose of COVID-19 vaccine at UCLA Health or another location reporting to the California Immunization Registry (CAIR). [time frame: 2 months from text message]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time of obtaining the first COVID-19 at UCLA Health or another location reporting to CAIR</measure>
+    <time_frame>2 months from text message</time_frame>
+    <description>The date when patients obtain the first dose of COVID-19 vaccine at UCLA Health or another location reporting to the California Immunization Registry (CAIR) [time frame: 2 months from text message]</description>
+  </secondary_outcome>
+  <number_of_arms>7</number_of_arms>
+  <enrollment type="Anticipated">250000</enrollment>
+  <condition>Covid19, Vaccines</condition>
+  <arm_group>
+    <arm_group_label>Holdout Arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>In the Holdout arm: patients will not receive a second text message about COVID-vaccine.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Self-benefit sub-arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In the Self-benefit sub-arm, participants will be reminded that the vaccine helps protect themselves from COVID.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Prosocial-benefit sub-arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In the Prosocial-benefit sub-arm, participants will be reminded that the vaccine helps protect their family, friends, and community from COVID.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Early-access and self-benefit sub-arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In the Early access + self-benefit sub-arm, participants will be reminded that they have early access to COVID-19 vaccine and should take the opportunity to protect themselves from COVID.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Early-access and prosocial-benefit sub-arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In the Early access + prosocial-benefit sub-arm, participants will be reminded that they have early access to COVID-19 vaccine and should take the opportunity to protect their family, friends, community from COVID.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fresh start and self-benefit sub-arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In the Fresh start + self-benefit sub-arm, participants will be reminded that the vaccine offers the promise of a fresh start and they should take the opportunity to protect themselves from COVID and chart a new path forward.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fresh start and prosocial-benefit sub-arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In the Early access + prosocial-benefit sub-arm, participants will be reminded that the vaccine offers the promise of a fresh start and they should take the opportunity to protect their family, friends, community from COVID and help our nation chart a new path forward.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Self-benefit</intervention_name>
+    <description>Participants will be reminded that the vaccine helps protect themselves from COVID.</description>
+    <arm_group_label>Early-access and self-benefit sub-arm</arm_group_label>
+    <arm_group_label>Fresh start and self-benefit sub-arm</arm_group_label>
+    <arm_group_label>Self-benefit sub-arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Prosocial-benefit</intervention_name>
+    <description>Participants will be reminded that the vaccine helps protect their family, friends, and community from COVID</description>
+    <arm_group_label>Early-access and prosocial-benefit sub-arm</arm_group_label>
+    <arm_group_label>Fresh start and prosocial-benefit sub-arm</arm_group_label>
+    <arm_group_label>Prosocial-benefit sub-arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Early access</intervention_name>
+    <description>Participants will be reminded that they have early access to COVID-19 vaccine.</description>
+    <arm_group_label>Early-access and prosocial-benefit sub-arm</arm_group_label>
+    <arm_group_label>Early-access and self-benefit sub-arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Fresh start</intervention_name>
+    <description>Participants will be reminded that the vaccine offers the promise of a fresh start and chart a new path forward.</description>
+    <arm_group_label>Fresh start and prosocial-benefit sub-arm</arm_group_label>
+    <arm_group_label>Fresh start and self-benefit sub-arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+        All patients who satisfy the following criteria will be eligible to be included in our&#xD;
+        study:&#xD;
+&#xD;
+          -  They have a mobile phone number or SMS capable phone number in UCLA Health's database&#xD;
+&#xD;
+          -  They are eligible for receiving the COVID-19 vaccine at UCLA Health&#xD;
+&#xD;
+          -  They have not already scheduled an appointment the day before the scheduled time of&#xD;
+             the text message&#xD;
+&#xD;
+          -  They are at or above 18 years old&#xD;
+&#xD;
+        Exclusion Criteria: Patients who already scheduled an appointment or obtained a COVID&#xD;
+        vaccine (at our collaborating health system or as documented in the California Immunization&#xD;
+        Registry (CAIR) https://cairweb.org) by the time our text message is sent will be excluded&#xD;
+        from the analysis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>UCLA Health Department of Medicine, Quality Office</name>
+      <address>
+        <city>Westwood</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Brewer NT, Chapman GB, Rothman AJ, Leask J, Kempe A. Increasing Vaccination: Putting Psychological Science Into Action. Psychol Sci Public Interest. 2017 Dec;18(3):149-207. doi: 10.1177/1529100618760521.</citation>
+    <PMID>29611455</PMID>
+  </reference>
+  <reference>
+    <citation>Volpp KG, Loewenstein G, Buttenheim AM. Behaviorally Informed Strategies for a National COVID-19 Vaccine Promotion Program. JAMA. 2021 Jan 12;325(2):125-126. doi: 10.1001/jama.2020.24036.</citation>
+    <PMID>33315079</PMID>
+  </reference>
+  <reference>
+    <citation>Dai, H., Milkman, K. L., &amp; Riis, J. (2014). The fresh start effect: Temporal landmarks motivate aspirational behavior. Management Science, 60(10), 2563-2582.</citation>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 17, 2021</study_first_posted>
+  <last_update_submitted>March 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, Los Angeles</investigator_affiliation>
+    <investigator_full_name>Daniel M. Croymans, MD, MBA, MS</investigator_full_name>
+    <investigator_title>Medical Director of Quality, Dept of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>COVID19</keyword>
+  <keyword>Vaccines</keyword>
+  <keyword>Text-messages</keyword>
+  <keyword>Patient Outreach</keyword>
+  <keyword>Behavioral Science</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

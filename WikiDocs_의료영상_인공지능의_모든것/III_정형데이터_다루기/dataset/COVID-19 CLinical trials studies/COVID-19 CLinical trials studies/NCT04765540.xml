@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5210">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04765540</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020091</org_study_id>
+    <nct_id>NCT04765540</nct_id>
+  </id_info>
+  <brief_title>The Effect of Behaviour Change Interventions on Use of Public Handwashing Stations in Bangladesh</brief_title>
+  <official_title>The Effect of Behaviour Change Interventions on Use of Public Handwashing Stations in Bangladesh</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Behavioural Insights Team</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Brac</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>BRAC Institute of Governance and Development</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Unilever U.K. Central Resources Limited</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>D2 Technologies Ltd, Bangladesh</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Foreign, Commonwealth and Development Office, U.K.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Behavioural Insights Team</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      As part of the COVID-19 response, BRAC has built 1000 public handwashing stations in several&#xD;
+      hundred villages in 20 sub-districts of Bangladesh. The investigators investigate the effects&#xD;
+      of two sets of behavioural interventions on use of the handwashing stations, compared to no&#xD;
+      additional interventions. The first set comprises passive nudges installed on and around the&#xD;
+      handwashing station, aimed at attracting people to the station. The second set comprises&#xD;
+      actively delivered higher-intensity interventions, including free soap offered as an&#xD;
+      incentive for using the handwashing station and a community board used to display social&#xD;
+      proof. This set of interventions aims to increase motivation to use the station.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      As part of the COVID-19 response, BRAC, an international development organisation based in&#xD;
+      Bangladesh, has built 1000 public handwashing stations in several hundred villages in Dhaka,&#xD;
+      Khulna and Mymensingh divisions. The investigators investigate the effects of two sets of&#xD;
+      behavioural interventions on use of the handwashing stations, compared to no additional&#xD;
+      interventions.&#xD;
+&#xD;
+      The first set of interventions, which do not require ongoing labour (hence termed 'low&#xD;
+      intensity'), involve the installation of various 'nudges' (e.g. mirrors and signposts) on the&#xD;
+      station and in the surrounding area; these interventions are designed to attract attention&#xD;
+      and guide people to the stations. The second set of interventions, which do require ongoing&#xD;
+      labour ('high intensity'), involve 'promoters' visiting the stations a few times a week for&#xD;
+      three weeks to hand out free bars of soap to station users, update a community board next to&#xD;
+      the station with cumulative usage numbers, and to encourage users to place comments or marks&#xD;
+      on the board as a form of social proof. Stations will be assigned to receive either the low&#xD;
+      intensity nudges, the high intensity intervention, or no additional intervention beyond&#xD;
+      BRAC's standard programming using a covariate adaptive randomisation process (with&#xD;
+      randomisation occurring at the village level to reduce spillover risk).&#xD;
+&#xD;
+      The Investigators will measure use of the stations for one week prior to the implementation&#xD;
+      of the behavioural interventions, and then for a further six weeks. Station usage will be&#xD;
+      measured by a combination of structured observations and tally counters attached to the foot&#xD;
+      pedals that operate the station.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 3, 2021</start_date>
+  <completion_date type="Anticipated">May 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Handwashing stations will be assigned, at the village level, to one of three conditions (including one control condition) using a covariate-adaptive randomisation procedure. The investigators will measure usage of the handwashing stations for one week before the treatments are installed, and then for another six weeks, and compare usage between the conditions. A linear regression model will be used to estimate the effects of the treatments relative to the control condition.&#xD;
+Note that residents of a village are free to avoid the stations or use stations outside their village, and primary outcome measurement will be at the handwashing station level, rather than at the individual or household level. Hence the investigators have not 'enrolled' participants into the trial. The number of 'participants' reported below refers to the number of handwashing stations across which treatment will be varied.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Primary outcomes will be measured using mechanical tally counters attached to the handwashing station foot pedals. The individuals involved in recording these counters will be exposed to the treatment but will not be aware of the alternative treatments occurring at other handwashing stations.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Average handwashing station soap pedal presses per day (in weeks 1 to 3)</measure>
+    <time_frame>At the end of 3 weeks post-implementation</time_frame>
+    <description>The investigators will use the number of times the soap pedals on the handwashing stations are pressed as a proxy measure of the frequency of use of the handwashing station for handwashing with soap. This data will be collected via mechanical tally counters ('clickers') connected to the soap pedals such that their count increments when the soap pedal is pressed. The clicker counts will be recorded at 4 points each day for 5 days per week. The investigators will use this information to infer the average number of soap pedal presses per day in the three weeks after the T2 and T3 interventions are first installed or delivered.&#xD;
+The investigators will also attempt to translate this outcome to an estimate of the number of times the handwashing station was used per day, by correlating soap pedal presses with counts of handwashing station users gathered via structured observations in 3 half-hour periods each day.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Average handwashing station soap pedal presses per day (in weeks 4 to 6)</measure>
+    <time_frame>At the end of 6 weeks post-intervention</time_frame>
+    <description>This outcome will be measured identically to the primary outcome, but measures usage over the slightly longer term (the second three-week period after the T2 and T3 interventions are first installed or delivered).&#xD;
+The investigators will also attempt to translate this outcome to an estimate of the number of times the handwashing station was used per day, by correlating soap pedal presses with counts of handwashing station users gathered via structured observations in 3 half-hour periods each day.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Average number of people nearby handwashing station per hour (subsample of handwashing stations and villages)</measure>
+    <time_frame>2 weeks post-intervention (exact timing will vary by station)</time_frame>
+    <description>Enumerators will count the number of people within a 10 meter radius of handwashing stations in pre-specified periods during the day.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Percent of people nearby handwashing station observed to use handwashing station (subsample of handwashing stations and villages)</measure>
+    <time_frame>2 weeks post-intervention (exact timing will vary by station)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Percent of people nearby handwashing station observed to be wearing face masks and coverings (subsample of handwashing stations and villages)</measure>
+    <time_frame>2 weeks post-intervention (exact timing will vary by station)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of handwashing station users who are repeat users (subsample of handwashing stations and villages)</measure>
+    <time_frame>4 weeks post-intervention (exact timing will vary by station)</time_frame>
+    <description>This will be measured by surveying members of the public who pass by the handwashing stations or are observed to use them. The investigators will record participant's reported past use of the handwashing station as well as their observed use during the survey session.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Average use of handwashing stations in the past seven days among village households (subsample of villages)</measure>
+    <time_frame>7-12 weeks post-intervention (exact timing will vary by station)</time_frame>
+    <description>This will be measured via self-report in a household survey</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">860</enrollment>
+  <condition>Hand Washing</condition>
+  <condition>Handwashing</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>T1: Business as Usual (BAU)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Handwashing station plus standard BRAC programming, i.e. in-person community WASH (water, sanitation and hygiene) demonstrations conducted in households/communal areas, roving community audio messages delivered through 'miking', and sticker signs placed on walls in the 'catchment area' of the handwashing station, alerting people to the stations and roughly pointing the way.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>T2: BAU + Low Intensity Nudges</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>T1 plus a bundle of 'low-intensity' passive interventions, including:&#xD;
+Large mirrors installed above handwashing station sinks to attract more people to the station&#xD;
+7 to 8 large hand-shaped signposts pointing to the station and leading up to the station, placed on the ground in the vicinity of the station, starting from the nearest 'busy spot'&#xD;
+Where the ground is concrete, spray paint hand signs or footsteps on the ground leading to the station</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>T3: BAU + High Intensity Activities</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>T1 plus an additional bundle of 'high-intensity' active interventions delivered for three weeks, including:&#xD;
+Free soap and free facemasks provided to handwashing station users in regular giveaways at key times, along with encouragement to return to the station and to spread the word.&#xD;
+A 'community message board' along with encouragement to make a mark on a &quot;scoreboard&quot; at the top of the board before/after use of the station to increase commitment and as an additional social cue. This will also visually show cumulative number of uses as a persistent cue of the social norm.&#xD;
+General encouragement to use the stations, provided by the intervention delivery team while they are at the station. Intervention team members are equipped with a loudhailer to assist this.&#xD;
+In addition, village handwashing station committees will be encouraged to try out their own ideas for encouraging more people to use the stations.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Low Intensity Nudges</intervention_name>
+    <description>A bundle of 'low-intensity' passive interventions, including:&#xD;
+Large Mirrors &amp; hand-shaped sign posts pointing to the station</description>
+    <arm_group_label>T2: BAU + Low Intensity Nudges</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>High Intensity Activities</intervention_name>
+    <description>A bundle of 'high-intensity' active interventions delivered for three weeks, including:&#xD;
+Free soap and free facemasks for handwashing station users, a community message board &amp; general encouragement</description>
+    <arm_group_label>T3: BAU + High Intensity Activities</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>BRAC's business-as-usual</intervention_name>
+    <description>A set of community activities to increase awareness of public handwashing stations and the need to use them. This includes in-person group sessions demonstrating hand hygiene, stickers and posters placed in the community, and roving audio messages delivered through 'miking'.</description>
+    <arm_group_label>T1: Business as Usual (BAU)</arm_group_label>
+    <arm_group_label>T2: BAU + Low Intensity Nudges</arm_group_label>
+    <arm_group_label>T3: BAU + High Intensity Activities</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Note: the sample consists of villages that have received at least one public handwashing&#xD;
+        station from BRAC, rather than human participants, though the investigators are measuring&#xD;
+        the use of the stations by human participants.&#xD;
+&#xD;
+        The initial sample of villages has been chosen from a set of 1,899 villages identified by&#xD;
+        BRAC as being eligible for this project based on criteria related to COVID-19 cases,&#xD;
+        existing BRAC programs and village characteristics. The villages are spread across 3 of&#xD;
+        Bangladesh's 8 divisions, 8 of its 64 districts, and 20 of its 492 subdistricts&#xD;
+        ('upazilas'). While most of the 'villages' are located in rural parts of Bangladesh,&#xD;
+        roughly 15 percent are better characterised as wards or towns within urban and peri-urban&#xD;
+        municipalities.&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+        Villages identified by BRAC as being eligible for this based on:&#xD;
+&#xD;
+          -  COVID-19 cases&#xD;
+&#xD;
+          -  Existing BRAC programs&#xD;
+&#xD;
+          -  village characteristics&#xD;
+&#xD;
+          -  viable location for a handwashing station (space/water source)&#xD;
+&#xD;
+          -  local community members willing to 'sponsor' and maintain handwashing station&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Lack of viable location for a handwashing station.&#xD;
+&#xD;
+          -  Villages that received handwashing stations as part of the pilot phase&#xD;
+&#xD;
+          -  Villages randomly selected in a related impact evaluation measuring the impact of the&#xD;
+             stations themselves&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stewart Kettle, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Behavioural Insights Team</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>BRAC</name>
+      <address>
+        <city>Dhaka</city>
+        <zip>Dhaka-1212</zip>
+        <country>Bangladesh</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>BRAC Khulna</name>
+      <address>
+        <city>Khulna</city>
+        <country>Bangladesh</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>BRAC Mymensingh</name>
+      <address>
+        <city>Mymensingh</city>
+        <country>Bangladesh</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Bangladesh</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The Behavioural Insights Team</investigator_affiliation>
+    <investigator_full_name>Stewart Kettle</investigator_full_name>
+    <investigator_title>Co-Head of International Programmes</investigator_title>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Handwashing</keyword>
+  <keyword>Hand Washing</keyword>
+  <keyword>COVID-19 Virus Prevention</keyword>
+  <keyword>COVID-19 Virus Infection</keyword>
+  <keyword>Behavioural Science</keyword>
+  <keyword>Nudges</keyword>
+  <keyword>Incentives</keyword>
+  <keyword>Social proof</keyword>
+  <keyword>Randomised controlled trial</keyword>
+  <keyword>Public handwashing stations</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

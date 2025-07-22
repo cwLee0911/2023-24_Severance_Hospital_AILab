@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2782">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04773665</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VBI-2902a-CT01</org_study_id>
+    <nct_id>NCT04773665</nct_id>
+  </id_info>
+  <brief_title>Safety, Tolerability, and Immunogenicity of the COVID-19 Vaccine Candidate (VBI-2902a)</brief_title>
+  <official_title>A Phase 1/2, Randomized, Observer-Blind, Dose-Escalation, Placebo-Controlled Study to Evaluate the Safety, Tolerability, and Immunogenicity of the COVID-19 (SARS-CoV-2) Vaccine Candidate (VBI-2902a) in Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VBI Vaccines Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>VBI Vaccines Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      VBI-2902a is an investigational vaccine candidate that uses enveloped virus-like particle&#xD;
+      (eVLP) expression of a modified version of the SARS-CoV-2 spike (S) glycoprotein and is&#xD;
+      designed to induce neutralizing antibody and cell-mediated immune responses against the&#xD;
+      SARS-CoV-2 spike protein. VBI-2902a with up to 10μg spike (S) protein content and aluminum&#xD;
+      phosphate adjuvant is delivered by intramuscular (IM) injection. The Phase 1 / 2 study will&#xD;
+      evaluate the safety, tolerability and immunogenicity of VBI-2902a at one- and two-dose&#xD;
+      regimens and two dose levels (5 μg and 10 μg of S protein) as compared to placebo (saline&#xD;
+      solution) in healthy adults 18 years of age and above.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Phase 1:&#xD;
+&#xD;
+      The primary objective is to evaluate the safety and tolerability of VBI-2902a containing 5 μg&#xD;
+      of S protein in one- or two-dose regimens in healthy adults of 18-54 years of age.&#xD;
+&#xD;
+      The secondary objective is to evaluate the immunogenicity of VBI-2902a containing 5 μg of S&#xD;
+      protein in one- or two-dose regimens in healthy adults 18-54 years of age.&#xD;
+&#xD;
+        -  Group G1 - 20 participants will receive VBI-2902a at a dose of 5 μg of S protein at Day&#xD;
+           1 and placebo at Day 28.&#xD;
+&#xD;
+        -  Group G2 - 20 participants will receive VBI-2902a at a dose of 5 μg of S protein at Days&#xD;
+           1 and 28.&#xD;
+&#xD;
+        -  Group G3 - 20 participants will receive placebo at Days 1 and 28.&#xD;
+&#xD;
+      An Independent Data Safety Monitoring Board (DSMB) will review safety data through Study Day&#xD;
+      7, 35 and 56. Enrollment in the Phase 2 will commence once the DSMB confirms that safety data&#xD;
+      through Study Day 56 is acceptable and that stopping rules were not met.&#xD;
+&#xD;
+      Phase 2:&#xD;
+&#xD;
+      The two co-primary objectives are to evaluate the safety and immunogenicity of one- and&#xD;
+      two-dose regimens at two dose levels (5 μg and 10 μg of S protein) of VBI-2902a as compared&#xD;
+      to placebo in healthy adults stratified by age group (18-54, 55-65 and &gt;65 years). The&#xD;
+      optimal dose level and regimen will be selected based on the safety and immunogenicity data&#xD;
+      from Phase 1 and Phase 2, Part 2.1 of the study.&#xD;
+&#xD;
+      Phase 2, Part 2.1 of the study will evaluate the safety, tolerability and immunogenicity of a&#xD;
+      one-dose or two-dose regimen of VBI-2902a at the high dose level (10 μg of S protein) in&#xD;
+      healthy adults aged 18 to 54 years and at low and high dose levels (5 and 10 μg of S protein)&#xD;
+      in healthy adults age 55 to 65 years.&#xD;
+&#xD;
+      Enrollment will be initiated in a staggered fashion with DSMB confirmation that safety is&#xD;
+      acceptable and that stopping rules were not met before the participants in the higher dose&#xD;
+      and higher age groups start enrollment.&#xD;
+&#xD;
+      The lower age cohort will include 60 healthy adults 18 to 54 years randomized at a 2:1 ratio&#xD;
+      to VBI-2902a or placebo:&#xD;
+&#xD;
+        -  Group G4 - 20 participants will receive VBI-2902a at a dose of 10 μg of S protein at Day&#xD;
+           1 and placebo at Day 28&#xD;
+&#xD;
+        -  Group G5 - 20 participants will receive VBI-2902a at a dose of 10 μg of S protein at&#xD;
+           Days 1 and 28.&#xD;
+&#xD;
+        -  Group G6 - 20 participants will receive placebo at Days 1 and 28.&#xD;
+&#xD;
+      The higher age cohort will include 60 healthy adults 55 to 65 years randomized at a 2:1 ratio&#xD;
+      to VBI-2902a or placebo:&#xD;
+&#xD;
+        -  Group G7 - 20 participants will receive VBI-2902a at a dose of 5 μg of S protein at Days&#xD;
+           1 and 28.&#xD;
+&#xD;
+        -  Group G8 - 20 participants will receive VBI-2902a at a dose of 10 μg of S protein at&#xD;
+           Days 1 and 28.&#xD;
+&#xD;
+        -  Group G9 - 20 participants will receive placebo at Days 1 and 28.&#xD;
+&#xD;
+      Phase 2, Part 2.2 Based on the pre-specified criteria for primary and secondary safety and&#xD;
+      immunogenicity endpoints, the optimal dose and regimen of VBI-2902a will be selected to be&#xD;
+      tested in Phase 2, Part 2.2. In Part 2.2, a two-dose regimen of VBI-2902a at the selected&#xD;
+      dose level (5 or 10 μg of spike protein) will be evaluated in 600 healthy adults, including&#xD;
+      200 participants in each of the three age cohorts 18-54, 55-65 and &gt;65 years. Within each age&#xD;
+      cohort, participants will be randomized at a 1:1 ratio to VBI-2902a or placebo:&#xD;
+&#xD;
+        -  Group G10 - 100 participants age 18-54 years will receive the selected dose of VBI-2902a&#xD;
+           at Days 1 and 28&#xD;
+&#xD;
+        -  Group G11 - 100 participants age 55-65 years will receive the selected dose of VBI-2902a&#xD;
+           at Days 1 and 28&#xD;
+&#xD;
+        -  Group G12 - 100 participants age &gt;65 years will receive the selected dose of VBI-2902a&#xD;
+           at Days 1 and 28&#xD;
+&#xD;
+        -  Group G13 - 100 participants age 18-54 years will receive placebo at Days 1 and 28&#xD;
+&#xD;
+        -  Group G14 - 100 participants age 55-65 years will receive placebo at Days 1 and 28&#xD;
+&#xD;
+        -  Group G15 - 100 participants age &gt;65 years will receive placebo at Days 1 and 28&#xD;
+&#xD;
+      Enrollment in the oldest age (&gt;65 years) groups (G12, G15) will be paused after the first 20&#xD;
+      participants are randomized. The DSMB will perform early review of post-vaccination safety&#xD;
+      data before continuation of randomization.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>This is an observer-blinded study. Both participants and the study center staff performing outcome measurement are blinded; vaccines will be administered by qualified unblinded study personnel who have no other role in the study.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate and severity of local and systemic solicited adverse events</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate and severity of unsolicited adverse events</measure>
+    <time_frame>During 28 days after each study vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate and severity of medically attended adverse events</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of serious adverse events</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse events leading to discontinuation of study vaccination</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse events leading to study discontinuation</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate and severity of laboratory abnormalities (hematology, biochemistry, urinalysis)</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Titer (GMT) and the geometric mean fold increase in serum virus-neutralizing activity in a subset of participants post-vaccination over baseline</measure>
+    <time_frame>Study Day 56</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT and the geometric mean fold increase in serum receptor binding domain (RBD) antibody titers measured by ELISA post-vaccination over baseline</measure>
+    <time_frame>Study Day 56</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT and the geometric mean fold increase in serum virus-neutralizing activity in a subset of participants post-vaccination over baseline</measure>
+    <time_frame>Days 7, 28, 35, 56</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT and the geometric mean fold increase in serum RBD antibody titers measured by ELISA post-vaccination over baseline</measure>
+    <time_frame>Days 7, 28, 35, 56</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT and the geometric mean fold increase in serum spike protein antibody binding titers measured by ELISA post-vaccination over baseline</measure>
+    <time_frame>Days 7, 28, 35, 56</time_frame>
+  </secondary_outcome>
+  <number_of_arms>15</number_of_arms>
+  <enrollment type="Anticipated">780</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Phase 1 -Group G1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 participants age 18-54 will receive VBI-2902a at a dose of 5 μg of S protein at Day 1 and placebo at Day 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1 -Group G2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 participants age 18-54 will receive VBI-2902a at a dose of 5 μg of S protein at Days 1 and 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1 -Group G3</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>20 participants age 18-54 will receive placebo at Days 1 and 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Part 2.1-Group G4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 participants age 18-54 will receive VBI-2902a at a dose of 10 μg of S protein at Day 1 and placebo at Day 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Part 2.1-Group G5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 participants age 18-54 will receive VBI-2902a at a dose of 10 μg of S protein at Days 1 and 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Part 2.1-Group G6</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>20 participants age 18-54 will receive placebo at Days 1 and 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Part 2.1-Group G7</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 participants age 55-65 will receive VBI-2902a at a dose of 5 μg of S protein at Days 1 and 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Part 2.1-Group G8</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 participants age 55-65 will receive VBI-2902a at a dose of 10 μg of S protein at Days 1 and 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Part 2.1-Group G9</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>20 participants age 55-65 will receive placebo at Days 1 and 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Part 2.2-Group G10</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 participants age 18-54 will receive the selected dose of VBI-2902a at Days 1 and 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Part 2.2-Group G11</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 participants age 55-65 will receive the selected dose of VBI-2902a at Days 1 and 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Part 2.2-Group G12</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 participants age &gt;65 will receive the selected dose of VBI-2902a at Days 1 and 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Part 2.2-Group G13</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>100 participants age 18-54 will receive placebo at Days 1 and 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Part 2.2-Group G14</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>100 participants age 55-65 will receive placebo at Days 1 and 28</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Part 2.2-Group G15</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>100 participants age &gt;65 will receive placebo at Days 1 and 28</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>VBI-2902a</intervention_name>
+    <description>VBI-2902a is an intramuscular injection of VBI-2902a investigational enveloped virus-like particle COVID-19 vaccine with aluminum phosphate adjuvant</description>
+    <arm_group_label>Phase 1 -Group G1</arm_group_label>
+    <arm_group_label>Phase 1 -Group G2</arm_group_label>
+    <arm_group_label>Phase 2, Part 2.1-Group G4</arm_group_label>
+    <arm_group_label>Phase 2, Part 2.1-Group G5</arm_group_label>
+    <arm_group_label>Phase 2, Part 2.1-Group G7</arm_group_label>
+    <arm_group_label>Phase 2, Part 2.1-Group G8</arm_group_label>
+    <arm_group_label>Phase 2, Part 2.2-Group G10</arm_group_label>
+    <arm_group_label>Phase 2, Part 2.2-Group G11</arm_group_label>
+    <arm_group_label>Phase 2, Part 2.2-Group G12</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>0.9% sodium chloride</description>
+    <arm_group_label>Phase 1 -Group G3</arm_group_label>
+    <arm_group_label>Phase 2, Part 2.1-Group G6</arm_group_label>
+    <arm_group_label>Phase 2, Part 2.1-Group G9</arm_group_label>
+    <arm_group_label>Phase 2, Part 2.2-Group G13</arm_group_label>
+    <arm_group_label>Phase 2, Part 2.2-Group G14</arm_group_label>
+    <arm_group_label>Phase 2, Part 2.2-Group G15</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        To be eligible for the study, each participant must satisfy all of the following criteria:&#xD;
+&#xD;
+          1. Healthy female and male participants 18 years of age and older&#xD;
+&#xD;
+          2. If female:&#xD;
+&#xD;
+               1. is of childbearing potential and must have a negative pregnancy test prior to&#xD;
+                  study vaccinations and agree to use an effective method of birth control as&#xD;
+                  deemed appropriate by the investigator (e.g., hormonal contraceptive, barrier&#xD;
+                  contraceptive with additional spermicide, or an intrauterine device) beginning&#xD;
+                  &gt;30 days prior to the first study vaccine administration and continuing until the&#xD;
+                  end of the study. OR&#xD;
+&#xD;
+               2. is not of childbearing potential, defined as postmenopausal (12 months with no&#xD;
+                  menses without an alternative medical cause) or surgically sterile (bilateral&#xD;
+                  tubal ligation, bilateral oophorectomy or hysterectomy).&#xD;
+&#xD;
+          3. Sign an informed consent document indicating understanding of the purpose of and&#xD;
+             procedures required for the study and willingness to participate in the study.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Participants with any of the following criteria will be excluded:&#xD;
+&#xD;
+          1. Previous clinical or laboratory diagnosis of COVID19 or SARS-CoV-2 infection or&#xD;
+             positive nucleic acid amplification test (NAAT) / reverse transcriptase-PCR (RT-PCR)&#xD;
+             or Rapid Antigen test for SARS-CoV-2 at screening.&#xD;
+&#xD;
+          2. Previous receipt of an experimental SARS-CoV-2 (COVID-19) vaccine.&#xD;
+&#xD;
+          3. Individuals with chronic medical conditions, including any of the following:&#xD;
+&#xD;
+               1. Diabetes mellitus Type 1 or Type 2&#xD;
+&#xD;
+               2. Chronic pulmonary disease (e.g., COPD or Asthma)&#xD;
+&#xD;
+               3. Hypertension (e.g., systolic blood pressure &gt;140 mmHg or diastolic blood pressure&#xD;
+                  &gt;90 mmHg)&#xD;
+&#xD;
+               4. Chronic kidney disease (e.g., glomerular filtration rate (GFR) &lt;60 mL/min/1.73&#xD;
+                  m2)&#xD;
+&#xD;
+               5. Chronic liver disease&#xD;
+&#xD;
+               6. Obesity (e.g., BMI &gt;30 kg/m2)&#xD;
+&#xD;
+          4. Any history of cancer requiring chemotherapy or radiation within 5 years.&#xD;
+&#xD;
+          5. Other medical or psychiatric condition including recent (within the past year) or&#xD;
+             active suicidal ideation/behavior or laboratory abnormality that may increase the risk&#xD;
+             of study participation or, in the investigator's judgment, make the participant&#xD;
+             inappropriate for the study.&#xD;
+&#xD;
+          6. Known or suspected impairment of immunological function, including but not limited to&#xD;
+             autoimmune diseases:&#xD;
+&#xD;
+               1. autoimmune diseases (e.g. multiple sclerosis, type 1 diabetes, myasthenia gravis,&#xD;
+                  Crohn disease and other inflammatory bowel diseases, celiac disease, systemic&#xD;
+                  lupus erythematosus, scleroderma, including diffuse systemic form and CREST&#xD;
+                  syndrome, systemic sclerosis, dermatomyositis polymyositis, rheumatoid arthritis,&#xD;
+                  juvenile idiopathic arthritis, autoimmune thyroiditis -including Hashimoto&#xD;
+                  thyroiditis, Grave's or Basedow's disease, immune thrombocytopenic purpura,&#xD;
+                  autoimmune hemolytic anemia, autoimmune hepatitis, psoriasis, vitiligo,&#xD;
+                  vasculitis, Guillain-Barré syndrome, Transverse myelitis, Addison's disease,&#xD;
+                  Bell's Palsy and Alopecia Areata);&#xD;
+&#xD;
+               2. secondary immunodeficiency disorders (e.g., Acquired Immunodeficiency Syndrome&#xD;
+                  caused by Human Immunodeficiency Virus infection (HIV/AIDS), solid organ&#xD;
+                  transplant, splenectomy);&#xD;
+&#xD;
+               3. primary immunodeficiency disorders (e.g., common variable immune deficiency&#xD;
+                  (CVID), Defective phagocytic cell function and neutropenia syndromes, complement&#xD;
+                  deficiency).&#xD;
+&#xD;
+          7. History of allergic reactions or anaphylactic reaction to any vaccine component.&#xD;
+&#xD;
+          8. Known infection with human immunodeficiency virus (HIV), hepatitis C virus (HCV), or&#xD;
+             hepatitis B virus (HBV).&#xD;
+&#xD;
+          9. Pregnant or breastfeeding or plans to conceive from 2 weeks before the study until the&#xD;
+             end of study.&#xD;
+&#xD;
+         10. Clinically significant abnormal physical examination, vital signs, or clinically&#xD;
+             significant abnormal values for hematology, serum chemistry or urinalysis at screening&#xD;
+             as determined by the investigator.&#xD;
+&#xD;
+         11. Any laboratory test abnormality that would be considered of Grade 1 severity or above&#xD;
+             (as per FDA grading guidelines) and is considered as clinically significant by the&#xD;
+             investigator. Grade 2 severity or above is exclusionary, regardless of clinical&#xD;
+             assessment.&#xD;
+&#xD;
+         12. Has received blood products or immunoglobulin within 90 days of enrollment or is&#xD;
+             likely to require blood products during the study period.&#xD;
+&#xD;
+         13. Chronic administration (defined as more than 14 days in total) of immune suppressive&#xD;
+             or other immune-modifying drug within six months prior to the product dose (for&#xD;
+             corticosteroids, this is defined as prednisone ≥20 mg/day or equivalent). Inhaled and&#xD;
+             topical steroids are allowed.&#xD;
+&#xD;
+         14. Immunization with attenuated vaccines (e.g., MMR) within 4 weeks prior to enrollment.&#xD;
+&#xD;
+         15. Immunization with inactivated vaccines (e.g., influenza) within 2 weeks prior to&#xD;
+             enrollment.&#xD;
+&#xD;
+         16. Participation in another clinical study within 30 days.&#xD;
+&#xD;
+         17. Any skin abnormality or tattoo that would limit post-vaccination injection site&#xD;
+             assessment.&#xD;
+&#xD;
+         18. Family members of study site personnel.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joanne M Langley, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Canadian Center for Vaccinology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Francisco Diaz-Mitoma, MD, PhD</last_name>
+    <phone>6137294200</phone>
+    <email>fdiazmitoma@vbivaccines.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Bebi Yassin-Rajkumar, MSc</last_name>
+    <phone>613-889-0687 Ext. 151</phone>
+    <email>byassin-rajkumar@vbivaccines.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Canadian Center for Vaccinology</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Joanne M Langley</last_name>
+      <phone>902-470-8498</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ottawa Hospital</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Bill Cameron, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>LMC Manna - Bayview CPU</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4G 3E8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alexander Abitbol, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Manna Toronto</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Manna Montreal</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H9R 4S3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Naveen Garg</last_name>
+      <phone>514-694-9940</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Manna Research Quebec</name>
+      <address>
+        <city>Quebec City</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 26, 2021</study_first_posted>
+  <last_update_submitted>February 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>enveloped virus-like particle (eVLP)</keyword>
+  <keyword>SARS-CoV-2 spike</keyword>
+  <keyword>neutralizing antibody</keyword>
+  <keyword>cell-mediated immune responses</keyword>
+  <keyword>receptor binding domain</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2848">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04793997</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B3002021000018</org_study_id>
+    <nct_id>NCT04793997</nct_id>
+  </id_info>
+  <brief_title>Microbiome Therapy in Covid-19 Primary Care Support</brief_title>
+  <acronym>MiCel</acronym>
+  <official_title>Covid-19 Primary Care Support With Microbiome Therapy.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Antwerp</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Antwerp</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This double-blind, randomized, placebo-controlled study aims to investigate whether a throat&#xD;
+      spray containing probiotic bacteria (i.e. microbiome spray) can reduce the symptoms and&#xD;
+      complaints of the SARS-CoV-2 virus in patients with mild to moderate symptoms. In addition,&#xD;
+      the aim is to investigate whether the microbiome spray can prevent transmission of the&#xD;
+      SARS-CoV-2 virus to household members.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 1, 2021</start_date>
+  <completion_date type="Anticipated">February 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Double blind, randomized, placebo controlled</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in severity of COVID-19 infection symptoms after using microbiome spray</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Change in severity of COVID-19 infection symptoms as assessed by a symptom score (min 0 - max 65) based on the presence and absence of fever and ten COVID-19 related symptoms and, if present, the four and five severity categories, respectively.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in duration of COVID-19 infection symptoms after using microbiome spray</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Change in duration of COVID-19 infection symptoms as assessed by a symptom score (min 0 - max 65) based on the presence and absence of fever and ten COVID-19 related symptoms and, if present, the four and five severity categories, respectively.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in absolute numbers of SARS-CoV-2 after using microbiome spray</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Quantification via qPCR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in absolute numbers of specific bacterial pathogens after using microbiome spray</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Quantification via qPCR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in microbiome of nose/throat region after using microbiome spray.</measure>
+    <time_frame>3 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of antibodies against SARS-CoV-2 in the index patients' household members</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>The investigators will assess the prevalence of antibodies against SARS-CoV-2 in the index patients' household members based on the analysis of a capillary (fingerprick) blood sample stored on Whatman903 protein saver card</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of COVID-19 in the index patients' household members</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>The investigators will assess the prevalence of COVID-19 in the index patients' household members based on the presence of symptoms reported in a symptom diary.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>Verum Microbiome spray group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Daily use of microbiome spray for two weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo spray group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Daily use of placebo spray for two weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Household member group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No use of spray</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Microbiome spray</intervention_name>
+    <description>Throat spray containing 3 beneficial lactobacilli strains</description>
+    <arm_group_label>Verum Microbiome spray group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo spray</intervention_name>
+    <description>Throat spray</description>
+    <arm_group_label>Placebo spray group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients in primary care with a positive SARS-CoV-2 test based on PCR&#xD;
+&#xD;
+          -  Instructed during screening and agreed not to use other probiotic nutritional&#xD;
+             supplements outside of the study during the study period&#xD;
+&#xD;
+          -  Sign the consent form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Antibiotic use at baseline and during the study&#xD;
+&#xD;
+          -  Vaccinated against SARS-CoV-2 at start of the study (both for index patients and&#xD;
+             household members that participate)&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+&#xD;
+          -  History of use of probiotic supplements in the past two weeks&#xD;
+&#xD;
+          -  Current diagnosis of cancer or immunosuppressive therapy within the past 6 months&#xD;
+&#xD;
+          -  Acute and chronic infectious and inflammatory upper airway diseases (eg acute /&#xD;
+             chronic rhinosinusitis)&#xD;
+&#xD;
+          -  Clinically significant bleeding disorder&#xD;
+&#xD;
+          -  Any other medical condition that, in the principal investigator's opinion, warrants&#xD;
+             exclusion from the trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Veronique Verhoeven, Prof.</last_name>
+    <phone>+3232652518</phone>
+    <email>veronique.verhoeven@uantwerpen.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sarah o Lebeer, Prof.</last_name>
+    <phone>+3232653285</phone>
+    <email>sarah.lebeer@uantwerpen.be</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Veronique Verhoeven</name>
+      <address>
+        <city>Antwerp</city>
+        <zip>2020</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Veronique Verhoeven, Prof.</last_name>
+      <phone>+3232652518</phone>
+      <email>veronique.verhoeven@uantwerpen.be</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sarah o Lebeer, Prof.</last_name>
+      <phone>+3232653285</phone>
+      <email>sarah.lebeer@uantwerpen.be</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sarah Lebeer, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Veronique Verhoeven, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Samuel Coenen, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 11, 2021</study_first_posted>
+  <last_update_submitted>March 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universiteit Antwerpen</investigator_affiliation>
+    <investigator_full_name>Sarah Lebeer</investigator_full_name>
+    <investigator_title>Prof. dr.ir.</investigator_title>
+  </responsible_party>
+  <keyword>lactobacilli</keyword>
+  <keyword>Probiotics</keyword>
+  <keyword>Throat spray</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

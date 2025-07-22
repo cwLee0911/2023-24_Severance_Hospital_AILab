@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4169">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04760821</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SDC5100/20/129</org_study_id>
+    <nct_id>NCT04760821</nct_id>
+  </id_info>
+  <brief_title>Prevention of Acute Myocardial Injury by Trimetazidine in Patients Hospitalized for COVID-19</brief_title>
+  <acronym>PREMIER</acronym>
+  <official_title>Prevention of Acute Myocardial Injury by Trimetazidine in Patients Hospitalized for Moderate to Severe Acute Respiratory Syndrome Caused by SARS-CoV-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ministry of Health, Brazil</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>InCor Heart Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ministry of Health, Brazil</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Acute myocardial injury has been a finding of variable frequency among patients diagnosed&#xD;
+      with COVID-19. It is now recognized that cTnI levels are strongly associated with increased&#xD;
+      mortality. The mechanisms underlying the myocardial injury remain unknown, and it is not&#xD;
+      clear whether they reflect local/systemic inflammatory process and/or cellular ischemia.&#xD;
+&#xD;
+      Both myocardial ischemia and ventricular dysfunction result in dramatic changes in&#xD;
+      mitochondrial oxidative metabolism. These changes involve an increase in the rate of&#xD;
+      cytoplasmic anaerobic glycolysis to compensate for the decrease in mitochondrial adenosine&#xD;
+      triphosphate (ATP) production. The rest of the mitochondrial oxidative metabolism originates&#xD;
+      mainly from the β-oxidation of free fatty acids, which occurs at the expense of glucose&#xD;
+      oxidation.&#xD;
+&#xD;
+      Trimetazidine is a competitive inhibitor of the enzyme 3-ketoacyl coenzyme A (CoA) long-chain&#xD;
+      thiolase (3-KAT), the last enzyme involved in the oxidation of fatty acids. Stimulation of&#xD;
+      glucose oxidation by trimetazidine results in a better coupling between glycolysis and&#xD;
+      glucose oxidation, with a consequent decrease in lactate production and intracellular&#xD;
+      acidosis, present in situations of myocardial ischemia or heart failure.&#xD;
+&#xD;
+      Thus, the PREMIER-COVID-19 study was designed to test the hypothesis that the use of&#xD;
+      trimetazidine associated with usual therapy in patients admitted with a diagnosis of moderate&#xD;
+      to severe acute respiratory syndrome by SARS-CoV2 infection reduces the extent of acute&#xD;
+      myocardial injury assessed by the peak release of ultra-sensitive troponin compared to usual&#xD;
+      therapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Acute myocardial injury, defined by increased levels of high-sensitivity cardiac troponin I&#xD;
+      (cTnI), has been a finding of variable frequency among patients diagnosed with COVID-19. This&#xD;
+      myocardial impairment can occur in the form of acute myocarditis or an injury secondary to&#xD;
+      the imbalance between oxygen supply and demand (type 2 myocardial infarction). It is now&#xD;
+      recognized that cTnI levels are strongly associated with increased mortality. The mechanisms&#xD;
+      underlying the myocardial injury remain unknown, and it is not clear whether they reflect&#xD;
+      local/systemic inflammatory process and/or cellular ischemia.&#xD;
+&#xD;
+      Both myocardial ischemia and ventricular dysfunction result in dramatic changes in&#xD;
+      mitochondrial oxidative metabolism. These changes involve an increase in cytoplasmic&#xD;
+      anaerobic glycolysis rate to compensate for the decrease in mitochondrial ATP production.&#xD;
+      Unfortunately, the increase in glycolysis exceeds the subsequent mitochondrial oxidation&#xD;
+      capacity of pyruvate (glucose oxidation) derived from glycolysis, resulting in the&#xD;
+      intracellular accumulation of lactate and protons. The protons produced from this decoupling&#xD;
+      between glycolysis and glucose oxidation contribute to a rupture in ionic homeostasis and&#xD;
+      myocardial cells, resulting in lower cardiac efficiency. In both the ischemic heart and the&#xD;
+      insufficient heart, the rest of the mitochondrial oxidative metabolism originates mainly from&#xD;
+      the β-oxidation of free fatty acids, which occurs at the expense of glucose oxidation.&#xD;
+&#xD;
+      Trimetazidine is a competitive inhibitor of the enzyme 3-ketoacyl CoA long-chain thiolase&#xD;
+      (3-KAT), the last enzyme involved in the oxidation of fatty acids. Stimulation of glucose&#xD;
+      oxidation by trimetazidine results in a better coupling between glycolysis and glucose&#xD;
+      oxidation, with a consequent decrease in lactate production and intracellular acidosis&#xD;
+      present in situations of myocardial ischemia or heart failure.&#xD;
+&#xD;
+      Thus, the PREMIER-COVID-19 study (open and randomized) was designed to test the hypothesis&#xD;
+      that the use of trimetazidine associated with usual therapy in patients admitted with a&#xD;
+      diagnosis of moderate to severe acute respiratory syndrome by SARS-CoV2 infection reduces the&#xD;
+      extent of acute myocardial injury assessed by the peak release of ultra-sensitive troponin&#xD;
+      compared to usual therapy. Investigators will also assess, as secondary outcomes, the impact&#xD;
+      on clinical evolution to more severe forms (admission to the intensive care unit or the need&#xD;
+      for mechanical ventilatory support, length of stay in hospital and in-hospital mortality).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 10, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients admitted for moderate to severe acute respiratory distress syndrome caused by the SARS-CoV2 will be randomized to usual care or usual care + trimetazidine.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>High-sensitivity cardiac troponin</measure>
+    <time_frame>From enrollment until at least ten days (moderate cases) or twenty days (severe cases) after the beginning of symptoms AND 24 hours without fever AND with improvement in symptoms.</time_frame>
+    <description>Concentration levels of plasma high-sensitivity cardiac troponin</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality assessed at 30 days following randomization</measure>
+    <time_frame>From the first 30 days after randomization</time_frame>
+    <description>Percentage of patients who died from all causes during hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Admission in ICU assessed at 30 days following randomization</measure>
+    <time_frame>From the first 30 days after randomization</time_frame>
+    <description>Percentage of patients admitted to the Intensive Care Unit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical respiratory support assessed at 30 days following randomization</measure>
+    <time_frame>From the first 30 days after randomization</time_frame>
+    <description>Percentage of patients admitted to the Intensive Care Unit who needed mechanical respiratory support</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU-free days assessed at 30 days following randomization</measure>
+    <time_frame>From the first 30 days after randomization</time_frame>
+    <description>Time (in days) out of the ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital-free days assessed at 30 days following randomization</measure>
+    <time_frame>From the first 30 days after randomization</time_frame>
+    <description>Time (in days) out of the hospital</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>Covid19</condition>
+  <condition>Myocardial Injury</condition>
+  <arm_group>
+    <arm_group_label>Usual Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients ascribed to the Usual Care group will receive the standard of care for the management of patients admitted with moderate to severe acute respiratory distress syndrome due to SARS-CoV2. Usual Care means the clinical protocol approved by the enrolling center.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Trimetazidine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients ascribed to the Usual Care group will receive the standard of care for the management of patients admitted with moderate to severe acute respiratory distress syndrome due to SARS-CoV2 plus trimetazidine.Usual Care means the clinical protocol approved by the enrolling center.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Trimetazidine</intervention_name>
+    <description>Trimetazidine 35mg bid in patients with GFR above 60mL/min. Trimetazidine 35mg od in patients with GFR between 30 and 60mL/min.</description>
+    <arm_group_label>Trimetazidine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        A. Inclusion Criteria:&#xD;
+&#xD;
+          1. Clinical diagnosis of moderate to severe acute respiratory syndrome due to SARS-CoV2&#xD;
+             defined as:&#xD;
+&#xD;
+             1.1. Tachypnea: &gt; 24 breaths per minute 1.2. Hypoxemia: arterial oxygen saturation&#xD;
+             &lt;94% in room air by pulse oximetry 1.3. Presumptive (or confirmed) diagnosis of&#xD;
+             SARS-Cov2 infection by at least one of the following criteria:&#xD;
+&#xD;
+               1. Polymerase chain reaction assay (+) for SARS-CoV2&#xD;
+&#xD;
+               2. Serology (+) for SARS-CoV2&#xD;
+&#xD;
+               3. SARS-CoV2 antigen diagnostic tests (+)&#xD;
+&#xD;
+               4. Chest CT with findings suggestive of the diagnosis of COVID-19 in the presence of&#xD;
+                  medical history or clinical signs compatible with the diagnosis of COVID-19&#xD;
+&#xD;
+          2. Signature of the Informed Consent Form&#xD;
+&#xD;
+        B. Exclusion Criteria:&#xD;
+&#xD;
+          1. Chronic renal dysfunction stage 4 (GFR &lt;30mL / min / 1.73m2 calculated by the Chronic&#xD;
+             Kidney Disease Epidemiology Collaboration (CKD-EPI) equation&#xD;
+&#xD;
+          2. Patient on renal replacement therapy by dialysis&#xD;
+&#xD;
+          3. Pregnant and lactating women&#xD;
+&#xD;
+          4. Previous use of trimetazidine less than two weeks before hospital admission&#xD;
+&#xD;
+          5. Any clinical condition at the investigator´s discretion likely to be associated with&#xD;
+             elevation of baseline hs-troponin &gt;99th percentile&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Luis Henrique Wolff Gowdak, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>InCor (HC-FMUSP)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Felipe Gallego Lima, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>InCor (HC-FMUSP)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Luis Henrique Wolff Gowdak, MD, PhD</last_name>
+    <phone>+55-11-2661-5000</phone>
+    <phone_ext>5929</phone_ext>
+    <email>luis.gowdak@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Felipe Gallego Lima, MD</last_name>
+    <phone>+55-11-2661-5000</phone>
+    <email>felipeglima@yahoo.com.br</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Heart Institute (InCor-HCFMUSP)</name>
+      <address>
+        <city>Sao Paulo</city>
+        <state>SP</state>
+        <zip>05403-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Felipe Gallego Lima, MD</last_name>
+      <phone>+55-11-26615000</phone>
+      <phone_ext>5810</phone_ext>
+      <email>felipeglima@yahoo.com.br</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 18, 2021</study_first_posted>
+  <last_update_submitted>February 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>InCor Heart Institute</investigator_affiliation>
+    <investigator_full_name>Luis Henrique W Gowdak, MD, PhD</investigator_full_name>
+    <investigator_title>Clinical Scientist</investigator_title>
+  </responsible_party>
+  <keyword>Acute Respiratory Distress Syndrome</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Myocardial Injury</keyword>
+  <keyword>Troponin</keyword>
+  <keyword>Trimetazidine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Trimetazidine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

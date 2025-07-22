@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4984">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04781218</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00107036</org_study_id>
+    <nct_id>NCT04781218</nct_id>
+  </id_info>
+  <brief_title>ABC Science Collaborative Registry Study</brief_title>
+  <official_title>ABC Science Collaborative Registry Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The ABC Registry is associated with Pro00107943 and provides a resource for collecting&#xD;
+      information on members of school communities both regionally in North and South Carolina, as&#xD;
+      well as nationally in the United States (U.S.) through the National Program, including&#xD;
+      children, parents, teachers, superintendents, and other staff; and children identified&#xD;
+      through clinical practice. The overall goals of the Registry are to collect data relevant to&#xD;
+      public health during the coronavirus 2019 (COVID-19) pandemic and to establish and engage&#xD;
+      school communities that may be eligible for participation in future research studies,&#xD;
+      including observational studies, as well as prospective COVID-19 trials.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 15, 2021</start_date>
+  <completion_date type="Anticipated">March 15, 2026</completion_date>
+  <primary_completion_date type="Anticipated">March 15, 2026</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>5 Years</target_duration>
+  <primary_outcome>
+    <measure>Participants who enroll in the ABC Registry</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Number of participants who enroll in the ABC Registry (e.g. are interested in participating in upcoming research studies, including those related to COVID-19).</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1000000</enrollment>
+  <condition>COVID19</condition>
+  <arm_group>
+    <arm_group_label>Participants enrolled in the registry</arm_group_label>
+    <description>Participants enrolled in the registry will include school community members including students, parents, staff, etc.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        School community members, including students, parents, staff, etc.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participant currently attends, is the parent of a student, works in, or works with a&#xD;
+             school that is participating in the ABC Science Collaborative, or participant is an&#xD;
+             adult or child who learned of the registry through clinical practice and is interested&#xD;
+             in participating in COVID-19 related research,&#xD;
+&#xD;
+          -  Participant or their parent/guardian has provided informed consent or assent, as&#xD;
+             applicable&#xD;
+&#xD;
+          -  Participant or their parent/guardian has downloaded the &quot;ABC Science&quot; App from the App&#xD;
+             store as a part of the ABC Science Collaborative and has agreed to the App's Terms of&#xD;
+             Use&#xD;
+&#xD;
+          -  Participant or their parent/guardian is able to speak and read English or Spanish&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  There are no specific exclusion criteria for this registry. Participants must meet&#xD;
+             inclusion criteria.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kanecia Zimmerman, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Helen Bristow, MPH</last_name>
+    <phone>919-668-3687</phone>
+    <email>abcscienceregistry@duke.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tara Mann, PhD, RN</last_name>
+    <email>abcscienceregistry@duke.edu</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://abcsciencecollaborative.org/</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 4, 2021</study_first_posted>
+  <last_update_submitted>April 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

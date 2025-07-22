@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3269">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04780061</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20210072-01H</org_study_id>
+    <nct_id>NCT04780061</nct_id>
+  </id_info>
+  <brief_title>Dietary Supplements for COVID-19</brief_title>
+  <official_title>Dietary Supplements to Reduce Symptom Severity and Duration in People With SARS-CoV-2: A Randomized, Double Blind, Placebo Controlled Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Canadian College of Naturopathic Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ottawa Hospital Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Canadian College of Naturopathic Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a double blind, placebo controlled, phase III randomized controlled trial evaluating&#xD;
+      the effects of the dietary supplements vitamin C, vitamin D, vitamin K, and zinc versus&#xD;
+      placebo on the overall health, symptom severity, and symptom duration of outpatients&#xD;
+      diagnosed with SARS-CoV-2.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study proposed is a double-blind, placebo-controlled, phase III randomized controlled&#xD;
+      trial powered to detect meaningful differences in the overall health and symptom severity of&#xD;
+      people with COVID-19 between the treatment and control arms. Eligible participants will be&#xD;
+      randomly assigned, using a web randomization system, in a ratio of 1:1 to one of the&#xD;
+      following groups: (1) nutrient therapy with vitamin D, vitamin C, vitamin K2, and zinc or (2)&#xD;
+      placebo. Total trial duration will be 12 weeks. Nutrients or placebo will be given for a&#xD;
+      period of 21 days following enrolment and randomization. Total trial duration will be 12&#xD;
+      weeks. Adverse events will be collected during the treatment phase plus one additional week&#xD;
+      (maximum 4 weeks).&#xD;
+&#xD;
+      With respect to the primary outcome of participant-reported overall health, power&#xD;
+      calculations were conducted based on between-group differences at a single time point (21&#xD;
+      days) and Cohen's guideline for a small effect size of 0.3. A sample size of 176 (88 per arm)&#xD;
+      provides 80% power to detect a difference at an α of 0.05. To account for an approximate&#xD;
+      10-15% lost to follow-up we will enrol 200 participants (100 per arm).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Participant-reported overall health</measure>
+    <time_frame>During the intervention period (Daily for 21 days)</time_frame>
+    <description>Measured using the EuroQol Visual Assessment Scale (EQ-VAS). Scores each day range from 0 (worst health imaginable) and 100 (best health imaginable).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Effect of COVID-19 on the health status of participants</measure>
+    <time_frame>Baseline plus weeks 1, 2, 3, 4, 8, and 12</time_frame>
+    <description>Measured using the EuroQol 5-Dimension 5-Level (EQ-5D-5L) questionnaire. Scores are converted into a unique health state. Health states are converted to an index value between 0 and 1, where 1 is considered the best possible health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptom Severity of common COVID-19 symptoms</measure>
+    <time_frame>During the intervention period (Daily for 21 days)</time_frame>
+    <description>Measured using an internally-developed questionnaire. Includes fever, cough, shortness of breath, fatigue, headache, myalgia/arthralgia, nausea, vomiting, diarrhea, congestion, loss of taste, and loss of smell. Scores range from 0-3 for each symptom, totaling 0-42 for each day. 0 = no symptom, 1 = mild symptom, 2 = moderate symptom, 3 = severe symptom.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total symptom duration</measure>
+    <time_frame>During the intervention period (21 days)</time_frame>
+    <description>Measured as the time to a complete reduction of symptoms with no relapses (i.e., a 0 in all categories on the symptom questionnaire).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of delayed return to usual health</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Measured by the number of people experiencing &quot;ongoing symptomatic COVID-19&quot; (symptoms persisting between 4 and 12 weeks) and the number of people experiencing &quot;post-COVID-19 syndrome&quot; (symptoms persisting longer than 12 weeks)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Hospitalizations</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Includes ER visits, acute care admissions, and ICU admissions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Length of Stay</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Number of days in acute care or ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Specific Product: Vitamin D3 50,000 IU&#xD;
+Formulation: Capsule. Each capsule will contain 500 mg (50,000 units) cholecalciferol (vitamin D3) Dose: One capsule on day 1 of the intervention period&#xD;
+Specific Product: Vitamin K2/D&#xD;
+Formulation: Liquid. Each 0.0285 mL drop contains 30 mcg menaquinone-7 (MK-7, vitamin K2) and 3.125 mcg (125 units) cholecalciferol (vitamin D3).&#xD;
+Dose: 0.114 mL (four drops) twice daily for 21 days totalling 240mcg MK-7 and 1,000 units cholecalciferol per day.&#xD;
+Specific Product: Vitamin C/Zinc&#xD;
+Formulation: Capsule. Each capsule will contain 666 mg ascorbic acid (vitamin C) and 8.3 mg of zinc acetate Dose: Three capsules three times daily for 21 days totalling 6 g ascorbic acid and 75 mg zinc acetate per day.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Specific Product: Vitamin D3 50,000 IU&#xD;
+Placebo Equivalent: microcrystalline cellulose capsule, 350 mg&#xD;
+Specific Product: Vitamin K2/D&#xD;
+Placebo Equivalent: Medium chain triglyceride oil&#xD;
+Specific Product: Vitamin C/Zinc&#xD;
+Placebo Equivalent: microcrystalline cellulose capsule, 350 mg</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vitamin D3 50,000 IU</intervention_name>
+    <description>This is a loading dose of Vitamin D. Vitamin D (cholecalciferol [vitamin D3]) is a fat-soluble vitamin that is synthesized following ultraviolet radiation to the skin, naturally occurs in a few dietary sources and is available as a dietary supplement.</description>
+    <arm_group_label>Treatment</arm_group_label>
+    <other_name>Cholecalciferol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Vitamin C/Zinc</intervention_name>
+    <description>This is a combination of Vitamin C and Zinc. Vitamin C (ascorbic acid, ascorbate) is a water-soluble vitamin that naturally occurs in many foods and is sold as a dietary supplement. It is required for the functioning of several enzymes and is important for the immune system. Zinc is one of the most abundant essential trace elements in the human body and is required for the function of several hundred enzymes and transcription factors.</description>
+    <arm_group_label>Treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Vitamin K2/D</intervention_name>
+    <description>This is a combination of Vitamin K2 (menaquinone-7) and vitamin D. Vitamin K (menaquinone-7 [vitamin K2]) is a fat-soluble vitamin found in foods and sold as a dietary supplement. Vitamin K plays a large role in synthesizing coagulation factors in the blood, and vitamin K deficiency has been associated with uncontrolled bleeding. Vitamin K1 (phylloquinone) is an alternate form of vitamin K found in foods and supplements; however, vitamin K2 has a better absorption profile50 and additionally plays a role in bone metabolism controlling the binding of calcium, especially in older adults, where it attenuates the rate of bone loss</description>
+    <arm_group_label>Treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Microcrystalline Cellulose Capsule</intervention_name>
+    <description>Placebo equivalent of Vitamin C/Zinc and Vitamin D3.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Medium Chain Triglyceride Oil</intervention_name>
+    <description>Placebo equivalent of Vitamin K2/D</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adults (≥18) who test positive for SARS-CoV-2 in an outpatient setting&#xD;
+&#xD;
+          2. Access to internet&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Symptom onset greater than 4 days prior to enrolment&#xD;
+&#xD;
+          2. Supplementing regularly with &gt;500 mg vitamin C, &gt;1000 units vitamin D, &gt;120 mcg&#xD;
+             vitamin K (any form), or &gt;15 mg zinc taken daily within the past month&#xD;
+&#xD;
+          3. Currently taking warfarin or an equivalent vitamin K antagonist anticoagulant&#xD;
+&#xD;
+          4. End stage chronic kidney disease&#xD;
+&#xD;
+          5. History of calcium oxalate kidney stones&#xD;
+&#xD;
+          6. Active granulomatosis (sarcoidosis, tuberculosis, lymphoma)&#xD;
+&#xD;
+          7. Known hypercalcemia or hypervitaminosis D&#xD;
+&#xD;
+          8. Currently taking either of the following antibiotics: cephalexin, tetracyclines&#xD;
+&#xD;
+          9. Participating in an investigational study or participation in an investigational study&#xD;
+             within the past 30 days&#xD;
+&#xD;
+         10. Any reason which, under the discretion of the qualified investigator or delegate,&#xD;
+             would preclude the patient from participating.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dugald Seely, ND, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Canadian College of Naturopathic Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kumanan Wilson, MD, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Ottawa Hospital Research Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mark Legacy, BSc</last_name>
+    <phone>6137921222</phone>
+    <phone_ext>1</phone_ext>
+    <email>mlegacy@thechi.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Centre for Health Innovation</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K2P0M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mark Legacy, BSc</last_name>
+      <phone>6137921222</phone>
+      <phone_ext>1</phone_ext>
+      <email>mlegacy@thechi.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Ellen Conte, ND</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Athanasios Psihogios, ND (Inactive)</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dean Fergusson, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Tim Ramsay, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Salmaan Kanji, BSc, PharmD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Graydon Simmons, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mark Legacy, BSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>March 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Natural Health Products</keyword>
+  <keyword>NHP</keyword>
+  <keyword>Dietary Supplements</keyword>
+  <keyword>Vitamin C</keyword>
+  <keyword>Vitamin D</keyword>
+  <keyword>Vitamin K</keyword>
+  <keyword>Zinc</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D</mesh_term>
+    <mesh_term>Cholecalciferol</mesh_term>
+    <mesh_term>Vitamins</mesh_term>
+    <mesh_term>Vitamin K</mesh_term>
+    <mesh_term>Vitamin K 2</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

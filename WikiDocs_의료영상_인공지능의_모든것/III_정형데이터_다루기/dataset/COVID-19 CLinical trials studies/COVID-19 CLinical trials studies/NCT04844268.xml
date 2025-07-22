@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4574">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04844268</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CIMATEC01</org_study_id>
+    <nct_id>NCT04844268</nct_id>
+  </id_info>
+  <brief_title>Phase 1 Study to Assess Safety, Reactogenicity and Immunogenicity of the HDT-301 Vaccine Against COVID-19</brief_title>
+  <official_title>Title of Study: A Phase 1, Randomized, Open-Label, Dose-Escalation Study to Evaluate the Safety, Reactogenicity and Immunogenicity of Nanoparticle Carrier-Formulated Self-Replicating Replicon RNA (repRNA) Vaccine in Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>SENAI CIMATEC</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>SENAI CIMATEC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase I, open label, dose ranging clinical trial in healthy males and non-pregnant&#xD;
+      females, 18 to 55 years of age, inclusive, who are SARS-CoV-2 seronegative at screening. The&#xD;
+      trial is designed to assess the safety, reactogenicity and immunogenicity of HDT-301, which&#xD;
+      is a novel Lipid-Inorganic Nanoparticle (LION™) formulated replicating RNA-based vaccine that&#xD;
+      encodes for a full-length spike (S) protein of the SARS-CoV-2 virus. As a replicating mRNA&#xD;
+      vaccine, HDT-301 has the potential to allow the advantages of dose sparing, and possibly&#xD;
+      administration as a single dose, compared with other mRNA platforms.&#xD;
+&#xD;
+      Enrollment will occur at one domestic site. 78 subjects will receive two intramuscular (IM)&#xD;
+      injections of HDT-301 at a dose of 1 µg, 5 µg and 25 µg on either Days 1 and 29 or on Days 1&#xD;
+      and 57. ELISA IgG responses will be the primary endpoint assessed for dose-response and, for&#xD;
+      post dose one responses, as an initial exploration of feasibility of a one-dose strategy.&#xD;
+      Scheduled interim immunogenicity evaluations will be conducted for pre-specified timepoints.&#xD;
+      Subjects will be followed for safety and immunogenicity through 12 months after the second&#xD;
+      vaccination. The primary objective is to evaluate the safety and reactogenicity of a 2-dose&#xD;
+      vaccination schedule of HDT-301, with the second dose given at a 28 or 56 day interval,&#xD;
+      across 3 dosages in healthy adults.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this phase 1 dose ranging study, four dose cohorts (1 µg, 5 µg and 25 µg) of 26 subjects&#xD;
+      will be sequentially enrolled, of which: 16 subjects without previous exposure to SARS-CoV-2,&#xD;
+      confirmed through the absence of anti-SARS-CoV-2 IgG; 5 subjects previously positive for&#xD;
+      SARS-CoV-2 confirmed by RT-PCR, with mandatory presence of antibodies against SARS-CoV-2; and&#xD;
+      5 subjects with previous positive diagnosis for SARS-CoV-2 by RT- PCR, asymptomatic, and with&#xD;
+      persistent negative result for anti-SARS-CoV-2 IgG.&#xD;
+&#xD;
+      The study will begin with the 16 subjects without previous exposure to SARS-CoV-2 (naïve&#xD;
+      subjects). Each dose cohort subjects will be randomized with equal probability to receive the&#xD;
+      second dose, of the same dosage, at either 28 days or 56 days after the first dose. For each&#xD;
+      of the three dose groups, a sentinel group of 4 subjects will be initially enrolled and&#xD;
+      followed through Day 8 post dose one for safety. If no halting rules are met by Day 8&#xD;
+      enrollment will proceed to the remaining 12 subjects. Following enrollment of the first&#xD;
+      cohort, the second dose cohort will be enrolled in a similar fashion, with the sentinel group&#xD;
+      enrolled after a 7-day safety observation period has elapsed following vaccination of the&#xD;
+      last subject in the first cohort. Cohort 3 will be enrolled in a similar fashion following&#xD;
+      cohort 2. The 10 subjects with previous positive RT-PCR history for SARS-CoV-2 will be&#xD;
+      enrolled in the study only after the end of doses of each cohort they are inserted in.&#xD;
+&#xD;
+      There is no placebo group in order to more easily perform important interim analyses and to&#xD;
+      avoid the time and expense of recruitment and enrollment of subjects, and collection of data&#xD;
+      and samples, including PBMC samples, from those not exposed to the vaccine. Inclusion of a&#xD;
+      small number of placebo subjects would likely not meaningfully improve assessment of&#xD;
+      causality of adverse events. At the screening visit, serum specimens will be obtained for&#xD;
+      testing by IgG ELISA to identify persons seropositive to SARS-CoV-2 S protein, who will be&#xD;
+      excluded from enrollment in order to perform this first assessment of safety and&#xD;
+      immunogenicity in a homogenous cohort of naïve subjects. Subjects that present IgG&#xD;
+      anti-SARS-CoV-2 in serum samples may be excluded of the study as long as they present&#xD;
+      positive history of RT-PCR for (5 subjects of each cohort) and the enrollment and&#xD;
+      investigation of these subjects in the study will only begin after the end of the&#xD;
+      immunization of the naïve subjects.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2021</start_date>
+  <completion_date type="Anticipated">July 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety and tolerability of two doses of HDT-1 vaccine</measure>
+    <time_frame>Day 1</time_frame>
+    <description>To evaluate the safety and tolerability of a 2-dose schedule of SARS-CoV-2 repRNA with LION™ formulation administered IM at three dose levels (1 µg, 5 µg or 25 µg)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and tolerability of two doses of HDT-1 vaccine</measure>
+    <time_frame>Day 29</time_frame>
+    <description>o evaluate the safety and tolerability of a 2-dose schedule of SARS-CoV-2 repRNA with LION™ formulation administered IM at three dose levels (1 µg, 5 µg or 25 µg)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and tolerability of two doses of HDT-1 vaccine</measure>
+    <time_frame>Day 57</time_frame>
+    <description>To evaluate the safety and tolerability of a 2-dose schedule of SARS-CoV-2 repRNA with LION™ formulation administered IM at three dose levels (1 µg, 5 µg or 25 µg)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity of two doses of HDT-1 vaccine</measure>
+    <time_frame>28 days after the second vaccination.</time_frame>
+    <description>To evaluate the immunogenicity as measured by IgG ELISA to the SARS-CoV-2 S protein at 28 days after the second vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity of two doses of HDT-1 vaccine</measure>
+    <time_frame>Days 29 or 57</time_frame>
+    <description>To evaluate the immunogenicity as measured by IgG ELISA to the SARS-CoV-2 S protein on the day of and prior to the second vaccination (Day 29 or 57).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity of two doses of HDT-1 vaccine</measure>
+    <time_frame>During 12 months of follow up</time_frame>
+    <description>To determine TH bias by evaluating antibody subclasses as measured by IgG1, IgG2, IgG3, and IgG4 ELISA to the SARS-CoV-2 S protein at all timepoints.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Immunogenicity of two doses of HDT-1 vaccine (IgG)</measure>
+    <time_frame>During 12 months of follow up</time_frame>
+    <description>To evaluate the immunogenicity as measured by IgG ELISA to the SARS-CoV-2 S protein at other time points</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Immunogenicity of two doses of HDT-1 vaccine (IgM and IgA)</measure>
+    <time_frame>During 12 months of follow up</time_frame>
+    <description>To evaluate the immunogenicity as measured by IgM and IgA ELISA to the SARS-CoV-2 S protein at various time points</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Immunogenicity of two doses of HDT-1 vaccine</measure>
+    <time_frame>During 12 months of follow up</time_frame>
+    <description>To evaluate the immunogenicity as measured by neutralization assays at various time points</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Immunogenicity of two doses of HDT-1 vaccine (B and T cells)</measure>
+    <time_frame>During 12 months of follow up</time_frame>
+    <description>To evaluate B cell and T cell responses to the vaccine.</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">78</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two intramuscular (IM) injections of HDT-301 at a dose of 1 µg, on either Days 1 and 29 or on Days 1 and 57</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two intramuscular (IM) injections of HDT-301 at a dose of 5 µg, on either Days 1 and 29 or on Days 1 and 57</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two intramuscular (IM) injections of HDT-301 at a dose of 25 µg, on either Days 1 and 29 or on Days 1 and 57</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Cohort 1 HDT 301 vaccine</intervention_name>
+    <description>Two Intramuscular injections of 1 µg of novel Lipid-Inorganic Nanoparticle (LION™) formulated replicating RNA-based vaccine</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Cohort 2 HDT 301 vaccine</intervention_name>
+    <description>Two Intramuscular injections of 5 µg of novel Lipid-Inorganic Nanoparticle (LION™) formulated replicating RNA-based vaccine</description>
+    <arm_group_label>Cohort 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Cohort 3 HDT 301 vaccine</intervention_name>
+    <description>Two Intramuscular injections of 25 µg of novel Lipid-Inorganic Nanoparticle (LION™) formulated replicating RNA-based vaccine</description>
+    <arm_group_label>Cohort 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Males and females between 18 years and 55 years of age.&#xD;
+&#xD;
+          2. Must be in good general health as confirmed by a medical history and physical exam.&#xD;
+&#xD;
+          3. Female subjects of childbearing potential must have a negative serum pregnancy test at&#xD;
+             screening and a negative urine pregnancy test on the day of each study vaccination,&#xD;
+             must not be breast-feeding, and are required to use one of the following methods of&#xD;
+             contraception from enrollment in study until 30 days after last injection (only if in&#xD;
+             sexual relationships with men): hormonal (e.g. oral, transdermal, intravaginal,&#xD;
+             implant, or injection); double barrier (i.e., condom, diaphragm, or cervical cap with&#xD;
+             spermicide); intrauterine device (IUD) or system (IUS); vasectomized partner (6 months&#xD;
+             minimum); or abstinence; bilateral tubal ligation (if no conception post-procedure);&#xD;
+             tubal occlusion; or bilateral salpingectomy. These precautions are necessary due to&#xD;
+             unknown effects that HDT-301 might cause in a fetus or newborn infant. Women are&#xD;
+             considered non-child-bearing potential if they are post-menopausal (defined as at&#xD;
+             least 12 months spontaneous amenorrhea and confirmed with FSH &gt; 40 mIU/ml) or have had&#xD;
+             documented hysterectomy and/or oophorectomy.&#xD;
+&#xD;
+          4. The following screening laboratory values must be within the normal ranges or not&#xD;
+             clinically significant as determined by the Investigator and approved by the Medical&#xD;
+             Monitor: sodium, potassium, BUN, ALT, AST, total bilirubin, alkaline phosphatase,&#xD;
+             creatinine, fasting glucose, total WBC count, hemoglobin, and platelet count. Abnormal&#xD;
+             results may be repeated once for confirmation at Investigator discretion.&#xD;
+&#xD;
+          5. The following serology tests must be negative: SARS-CoV-2 antibody, HIV 1/2 antibody,&#xD;
+             hepatitis B surface antigen (HBsAg), and hepatitis C virus (HCV) antibody.&#xD;
+&#xD;
+          6. Negative test for recreational drugs and alcohol per Clinical Research Unit standards.&#xD;
+&#xD;
+          7. Normal or not clinically significant urinalysis as determined by the study clinician&#xD;
+             or designee. Abnormal results may be repeated at Investigator discretion.&#xD;
+&#xD;
+          8. Normal blood count within 10 days before the administration of the first dose of the&#xD;
+             HDT-301 vaccine.&#xD;
+&#xD;
+          9. Must be capable of completing a study memory aid in English.&#xD;
+&#xD;
+         10. Must give informed consent, be able and willing to make all evaluation visits, be&#xD;
+             reachable by telephone or personal contact by the study site personnel, and have a&#xD;
+             permanent address.&#xD;
+&#xD;
+             -&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participation in another experimental protocol and/or receipt of any investigational&#xD;
+             products within the past 3 months prior to Screening.&#xD;
+&#xD;
+          2. Treatment with immunosuppressive drugs (e.g., oral or injected steroids, such as&#xD;
+             prednisone; high dose inhaled steroids) or cytotoxic therapies (e.g., chemotherapy&#xD;
+             drugs or radiation) in the past 6 months prior to Screening (except for participants&#xD;
+             who were diagnosed with COVID-19 and received corticosteroids as an anti-inflammatory&#xD;
+             for more than 3 weeks).&#xD;
+&#xD;
+          3. Received a blood transfusion within past 3 months prior to Screening.&#xD;
+&#xD;
+          4. Donated blood products (platelets, whole blood, plasma, etc.) within past one month&#xD;
+             prior to Screening.&#xD;
+&#xD;
+          5. Received any vaccine within past 1 month prior to Screening or have any planned&#xD;
+             immunizations while on study, with the exception of seasonal influenza vaccine which&#xD;
+             can be given after 1 month post the second study injection.&#xD;
+&#xD;
+          6. History of autoimmune disease or other causes of immunosuppressive states.&#xD;
+&#xD;
+          7. History of any other acute or chronic illness (including cardiovascular, pulmonary,&#xD;
+             neurological, hepatic, rheumatic, hematological, metabolic or renal disorders,&#xD;
+             uncontrolled hypertension), or use of medication that, in the opinion of the Principal&#xD;
+             Investigator, may interfere with the evaluation of the safety or immunogenicity of the&#xD;
+             vaccine.&#xD;
+&#xD;
+          8. Rash, tattoos, or any other dermatological condition that could adversely affect the&#xD;
+             vaccine injection site or interfere with its evaluation.&#xD;
+&#xD;
+          9. BMI ≥ 32.&#xD;
+&#xD;
+         10. Hypertension (systolic &gt; 150 or diastolic &gt; 95).&#xD;
+&#xD;
+         11. History of significant psychiatric illness with current use of medication.&#xD;
+&#xD;
+         12. Known or suspected alcohol or drug abuse within the past 6 months prior to Screening.&#xD;
+&#xD;
+         13. Chronic tobacco user (&gt; 20 pack years).&#xD;
+&#xD;
+         14. Subjects with a history of previous anaphylaxis or severe allergic reaction to&#xD;
+             vaccines or unknown allergens.&#xD;
+&#xD;
+         15. Subjects who are unlikely to cooperate with the requirements of the study protocol.&#xD;
+&#xD;
+             -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Roberto Badaró, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Principal Investigator</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bruna Machado, PhD</last_name>
+    <phone>55 (71) 3879.5624 / 5267</phone>
+    <email>brunam@fieb.org.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Carolina Macedo, PhD</last_name>
+    <phone>55 (71) 3879.5624 / 5267</phone>
+    <email>carolthemacedo@gmail.com</email>
+  </overall_contact_backup>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

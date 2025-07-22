@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1511">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04803227</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EMR-COV-PR001</org_study_id>
+    <nct_id>NCT04803227</nct_id>
+  </id_info>
+  <brief_title>Safety and Tolerability of Emricasan in Symptomatic Outpatients Diagnosed With Mild-COVID-19</brief_title>
+  <official_title>Safety and Tolerability of Emricasan in Symptomatic Outpatients Diagnosed With Mild-COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Histogen</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Histogen</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Treatments for COVID-19 are urgently needed. Emricasan (EMR) is a pan caspase inhibitor.&#xD;
+      Caspase-1 plays a role in a form of cell death called pyroptosis. EMR inhibits pyroptosis.&#xD;
+      The Investigators have shown that peripheral blood lymphocytes of COVID-19 patients&#xD;
+      overexpress caspase-1, providing evidence for pyroptosis. A recent European study corroborate&#xD;
+      the Investigators finding as they have shown evidence for the activation of the inflammasome&#xD;
+      in COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A safety and tolerability study will be performed in 50 symptomatic outpatient mild-COVID-19&#xD;
+      patients using Emricasan at 25mg BID dosing for 14 days with a 1:1 active: placebo of&#xD;
+      mild-COVID-19 patients receiving standard of care therapy. Although EMR has been extensively&#xD;
+      studied in humans in a total of 18 Phase 1 and Phase 2 studies, with an excellent safety and&#xD;
+      tolerance profile, it has not been used in the setting of COVID-19, therefore necessitating&#xD;
+      an initial safety and tolerability study looking at a no difference between AEs/SAEs for&#xD;
+      comparison between active and placebo group. The pharmacokinetics of EMR has been extensively&#xD;
+      studied; therefore, the Investigators will opportunistically sample patients at the end of&#xD;
+      the study to confirm that the Emricasan PK is not altered in COVID-19 patients. The primary&#xD;
+      endpoint will be cumulative incidence of AE/SAEs through day 14. Secondary endpoints will&#xD;
+      include various clinical and laboratory measures and patient reported outcomes (PROs) using a&#xD;
+      COVID-19-related assessment tool, SARS-CoV-2 viral PCR, titers of anti-SARS-CoV-2&#xD;
+      neutralizing and quantitative antibodies and immunological studies as described in the&#xD;
+      protocol.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 11, 2021</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Double-blind, Placebo-controlled, Randomized, 1:1 active: placebo.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with treatment-related adverse events as assessed by CTCAE v4.0</measure>
+    <time_frame>14 Days</time_frame>
+    <description>Incidence rate of related treatment-emergent adverse events</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Patient reported outcomes as assessed by COVID-19 assessment tool</measure>
+    <time_frame>At screening/randomization, daily televisits (Day 2 - Day 13), Day 14, Day 30 and Day 45</time_frame>
+    <description>The 2020 FDA Guidance for Industry Assessing COVID-19-Related Symptoms in Outpatient Adult and Adolescent Subjects in Clinical Trials of Drugs and Biological Products for COVID-19 Prevention or Treatment is the PRO that will be used for the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants that experience death during the study.</measure>
+    <time_frame>45 Days</time_frame>
+    <description>Rate of mortality events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants the experience a related serious adverse event as assessed by CTCAE v5.0.</measure>
+    <time_frame>45 Days</time_frame>
+    <description>Cumulative incidence rate of related serious adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants that experiences a Grade 3 and 4 adverse event as assessed by CTCAE v5.0</measure>
+    <time_frame>45 Days</time_frame>
+    <description>Cumulative incidence rate of Grade 3 and 4 adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with a discontinuation or temporary suspension of study drug</measure>
+    <time_frame>45 days</time_frame>
+    <description>Each participant that discontinues or temporarily suspends study drug for any reason.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with treatment-related adverse events as assessed by CTCAE v4.0</measure>
+    <time_frame>Day 1, Day 14, Day 30 and Day 45</time_frame>
+    <description>Each participant will be assessed via performance of standard of care hematology and biochemistry labs. The results of the labs will be assessed against a set of normal ranges for the CLIA certified laboratory.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Each participant will be tested for SARS-CoV-2 viral eradication via a sample from the nasopharynx and the sample will be tested via RT- PCR.</measure>
+    <time_frame>Days 14, 30 and 45</time_frame>
+    <description>SARS-CoV-2 viral eradication from nasopharynx at end of treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Each participant will perform a 6 minute walk test (6MWD) for distance (400-700m) walked.</measure>
+    <time_frame>Days 14, 30 and 45</time_frame>
+    <description>Perform 6 Minute Walk Test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Each participant will be assessed for COVID-19 severity via an 8-point ordinal scale</measure>
+    <time_frame>Days 14, 30 and 45</time_frame>
+    <description>COVID-19 severity score on the 8-point COVID-19 Severity Scale. Scores are from 1 to 8, where 1 = uninfected and 8 = death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Each participant will be tested for anti-SARS-CoV-2 neutralizing antibodies via standard histogram, 2D plots, tSNE, and viSNE analysis.</measure>
+    <time_frame>Days 14, 30 and 45</time_frame>
+    <description>The following cell populations will be examined- NK, CD4 and CD8 T-cells, Tfh, Treg, CD4 and CD8 memory, B-cell memory, monocytes and dendritic cells.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Each participant will be tested for anti-SARS-CoV-2 quantitative antibodies via cytokine test panel.</measure>
+    <time_frame>Days 14, 30 and 45</time_frame>
+    <description>Immune test for titers of serum anti-SARS-CoV-2 quantitative antibodies</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Each participant will be assessed for resolution of COVID19 symptoms via performance of hematology and biochemistry labs, SARS-COV-2 nasopharyngeal swab and tested via RT-PCR and immunology testing for cytokines and cell populations.</measure>
+    <time_frame>Days 14, 30 and 45</time_frame>
+    <description>Percentage of Participants with Resolution of COVID19 symptoms</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Emricasan</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Emricasan</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Emricasan</intervention_name>
+    <description>Emricasan 25 mg BID (days 1-14). Oral (capsule) administration.</description>
+    <arm_group_label>Emricasan</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo BID *days 1-14). Oral (capsule) administration.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Informed consent form signed and dated by participant.&#xD;
+&#xD;
+          2. Men or women &gt;/=18 years of age at the time of signing the informed consent.&#xD;
+&#xD;
+          3. Access to device and internet for Televisits.&#xD;
+&#xD;
+          4. Laboratory confirmed SARS-CoV-2 infection via viral RT-PCR test. The SARS-CoV-2&#xD;
+             diagnostic test will be conducted using, if possible, an FDA acceptable product under&#xD;
+             Emergency use Authorization (EUA) or as cleared by the Center for Device and&#xD;
+             Radiological Health (CDRH). We will have confirmation of the SARS-CoV-2 testing prior&#xD;
+             to enrollment.&#xD;
+&#xD;
+          5. COVID-19 patients in generally healthy status without significant medical&#xD;
+             comorbidities.&#xD;
+&#xD;
+          6. A treatment window for first dose of up to 10 days from onset of symptoms.&#xD;
+&#xD;
+          7. Outpatients with symptoms of respiratory illness caused by coronavirus 2019 infection&#xD;
+             as defined below:&#xD;
+&#xD;
+               -  Symptoms of mild illness with COVID-19 as defined by the W.H.O. in Table 1of the&#xD;
+                  Clinical Management of COVID-19 interim Guidance document, May 27, 2020, meeting&#xD;
+                  the case definition for mild COVID-19 without evidence of viral pneumonia or&#xD;
+                  hypoxia&#xD;
+&#xD;
+               -  COVID-19 severity score on an 8-point ordinal score =/&lt; 2 as defined by the WHO&#xD;
+&#xD;
+        2020. 8. Clinically normal resting 12-lead ECG at Screening Visit or, if abnormal,&#xD;
+        considered not clinically significant by the Principal Investigator. 9. Normal or&#xD;
+        clinically insignificant change in the liver (ALT, AST) and kidney function (blood&#xD;
+        creatinine), CBC with differential and clotting factors (PT and PTT).&#xD;
+&#xD;
+        10. Understands and agrees to comply with planned study procedures. 11. Women of&#xD;
+        childbearing potential must agree to use at least one medically accepted method of&#xD;
+        contraception (e.g., barrier contraceptives [condom, or diaphragm with a spermicidal gel],&#xD;
+        hormonal contraceptives [implants, injectables, combination oral contraceptives,&#xD;
+        transdermal patches, or contraceptive rings], or intrauterine devices) for the duration of&#xD;
+        the study.&#xD;
+&#xD;
+        12. Background standard of care will be maintained in all treatment arms. Off-label use of&#xD;
+        any other drugs, devices, or interventions that might be used to manage COVID-19 need to be&#xD;
+        discussed with the study medical director.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subjects showing signs of acute respiratory distress syndrome (ARDS) or respiratory&#xD;
+             failure necessitating mechanical ventilation at the time of screening and ICU&#xD;
+             patients.&#xD;
+&#xD;
+          2. Patients with established COVID-19 co-morbidities, other than controlled hypertension,&#xD;
+             as established by current CDC-guidelines.&#xD;
+&#xD;
+          3. Unable to take oral medications.&#xD;
+&#xD;
+          4. Hospitalized patients at screening.&#xD;
+&#xD;
+          5. Moderate and severe hepatic impairment (Child-Pugh B and C) for phase 1 protocol.&#xD;
+&#xD;
+          6. History of severe chronic respiratory disease and requirement for oxygen therapy&#xD;
+&#xD;
+          7. Any uncontrolled active systemic infection (e.g. cellulitis or abscess) or infections&#xD;
+             requiring admission to an intensive care unit (ICU). Note: Subjects infected with&#xD;
+             HIV-1 will be eligible for the study with undetectable viral load and are on a stable&#xD;
+             ART regimen. Investigators are required to review the subjects' medical records to&#xD;
+             confirm HIV-1 RNA suppression within the previous 3 months.&#xD;
+&#xD;
+             Note: Empirical antibiotic treatment for secondary bacterial infections is allowed&#xD;
+             during the course of study.&#xD;
+&#xD;
+          8. Patients with elevated baseline LFT's, such as an ALT / AST &gt; 2 X ULN determined by&#xD;
+             the hospital lab.&#xD;
+&#xD;
+          9. Patients with diagnosed liver cirrhosis or clinical evidence suggestive of advanced&#xD;
+             liver disease.&#xD;
+&#xD;
+         10. Patients with malignant tumor(s), or other serious systemic diseases.&#xD;
+&#xD;
+         11. Patients who are participating in any other clinical studies.&#xD;
+&#xD;
+         12. Patients who have a history of allergic reactions attributed to compounds of similar&#xD;
+             chemical or biologic composition to leronlimab (PRO 140) are not eligible.&#xD;
+&#xD;
+         13. Current use of the following medications that are considered significant inhibitors of&#xD;
+             OATP1B1 and OATP1B3 transporters: atazanavir, cyclosporine, eltrombopag, gemfibrozil,&#xD;
+             indinavir, lopinavir, ritonavir, rifampin, saquinavir, simeprevir, telaprevir,&#xD;
+             tipranovir, or some combination of these medications&#xD;
+&#xD;
+         14. History or presence of clinically concerning cardiac arrhythmias, or prolongation of&#xD;
+             Screening (pre-treatment) QTcF interval &gt;480 milliseconds (msec)&#xD;
+&#xD;
+         15. Inability to provide informed consent or to comply with test requirements&#xD;
+&#xD;
+         16. Moderate or higher level of severity of COVID-19. Moderate COVID-19 defined as:&#xD;
+             Symptoms of moderate illness with COVID-19, which could include any symptom of mild&#xD;
+             illness or shortness of breath with exertion, but clinical signs suggestive of&#xD;
+             moderate illness with COVID-19 including, respiratory rate ≥ 25 breaths per minute, or&#xD;
+             saturation of oxygen (SpO2) &lt; 93% on room air at sea level, or resting heart rate ≥ 90&#xD;
+             beats per minute (unless related to fever). In elderly patient population normal&#xD;
+             resting respiratory rate is 16-25 [24].&#xD;
+&#xD;
+         17. Immunocompromised patients and/or patients on immunomodulators or immune suppressants&#xD;
+             other than systemic or inhaled steroids, including transplant recipients.&#xD;
+&#xD;
+         18. Evidence of any new or uncontrolled concomitant disease that, in the investigator's&#xD;
+             judgment, would preclude patient participation, including but not limited to&#xD;
+             cardiovascular, pulmonary, nervous system, renal, hepatic, endocrine, malignant, or&#xD;
+             gastrointestinal disorders&#xD;
+&#xD;
+         19. If female, planned or known pregnancy - positive urine or serum pregnancy test&#xD;
+&#xD;
+         20. Lactating or breastfeeding women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Raavi Gupta, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>SUNY Downstate</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mark Hubka, MD</last_name>
+    <phone>858 526 3109</phone>
+    <email>mhubka@histogen.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Moya M Daniels, MS</last_name>
+    <phone>858 334 9290</phone>
+    <email>mdaniels@histogen.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>SUNY Downstate Health Sciences University</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raavi Gupta, MD</last_name>
+      <email>Raavi.Gupta@downstate.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 17, 2021</study_first_posted>
+  <last_update_submitted>March 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>mild, symptomatic, COVID19</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

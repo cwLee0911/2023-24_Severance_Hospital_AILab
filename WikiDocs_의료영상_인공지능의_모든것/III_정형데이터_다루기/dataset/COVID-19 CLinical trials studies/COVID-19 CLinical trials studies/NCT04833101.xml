@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="342">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04833101</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JSVCT115</org_study_id>
+    <nct_id>NCT04833101</nct_id>
+  </id_info>
+  <brief_title>Study on Sequential Immunization of Recombinant COVID-19 Vaccine (Ad5 Vector) and RBD-based Protein Subunit Vaccine</brief_title>
+  <official_title>Safety and Immunogenicity of Sequential Immunization of Recombinant COVID-19 Vaccine (Ad5 Vector) and RBD-based Protein Subunit Vaccine Against COVID-19 in Chinese Healthy Population: Randomized, Observer-blind, Placebo-controlled Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jiangsu Province Centers for Disease Control and Prevention</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Jiangsu Province Centers for Disease Control and Prevention</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, observer-blind, placebo-controlled study, for evaluation of safety and&#xD;
+      immunogenicity of sequential immunization of recombinant COVID-19 vaccine (adenovirus type-5&#xD;
+      vector) and RBD-based protein subunit vaccine (ZF2001) against COVID-19 in Chinese healthy&#xD;
+      population. 120 healthy subjects aged over 18 years of age who have been vaccinated with&#xD;
+      recombinant adenovirus type-5 vectored vaccine will be recruited in this study. Of them, 60&#xD;
+      subjects will be enrolled in the &quot;0-28 days&quot; regimen and other 60 will be enrolled in &quot;0-56&#xD;
+      days&quot; regimen. Subjects in each regimen will be randomly vaccinated with the boost dose of&#xD;
+      subunit vaccine(ZF2001) against COVID-19 or a commercial influenza vaccine in a ratio of 2:1.&#xD;
+      The occurrence of adverse events within 28 days and serious adverse events within 6 months&#xD;
+      after vaccination will be observed. In addition, blood samples will be collected on the day 0&#xD;
+      before and after the boost vaccination on day 14, 28 and 6 months after second vaccination to&#xD;
+      test serum antibody levels and to profile the immune cells' subgroups and germlines. Each&#xD;
+      subject will remain in this study for approximately 6 months.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 7, 2021</start_date>
+  <completion_date type="Anticipated">December 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 15, 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of solicited adverse events within 7 days after vaccination.</measure>
+    <time_frame>Within 7 days after vaccination</time_frame>
+    <description>Incidence of solicited adverse events within 7 days after vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GMT of neutralizing antibodies against live SARS-CoV-2 virus at Day 14 after the booster vaccination.</measure>
+    <time_frame>At Day 14 after the booster vaccination</time_frame>
+    <description>GMT of neutralizing antibodies against live SARS-CoV-2 virus at Day 14 after the booster vaccination.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse reactions within 28 days after vaccination.</measure>
+    <time_frame>Within 28 days after vaccination</time_frame>
+    <description>Incidence of adverse reactions within 28 days after vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events within 28 days after vaccination.</measure>
+    <time_frame>Within 28 days after vaccination.</time_frame>
+    <description>Incidence of adverse events within 28 days after vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of unsolicited AE within 28 days after vaccination.</measure>
+    <time_frame>Within 28 days after vaccination.</time_frame>
+    <description>Incidence of unsolicited adverse events within 28 days after vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of serious adverse events(SAE) from the first dose to the 6 months after completing the last dose of vaccination.</measure>
+    <time_frame>From the first dose to the 6 months after completing the last dose of vaccination.</time_frame>
+    <description>Incidence of serious adverse events(SAE) from the first dose to the 6 months after completing the last dose of vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT of binding antibodies against SARS-CoV-2 S and RBD protein measured by ELISA at Day 14, Day 28 and Month 6 after the booster vaccination.</measure>
+    <time_frame>At Day 14, Day 28 and Month 6 after the booster vaccination.</time_frame>
+    <description>GMT of binding antibodies against SARS-CoV-2 S and RBD protein measured by ELISA at Day 14, Day 28 and Month 6 after the booster vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of the participants with at least a four-fold increase of the binding antibodies against SARS-CoV-2 S and RBD protein at Day 14, Day 28 and Month 6 after the booster vaccination.</measure>
+    <time_frame>At Day 14, Day 28 and Month 6 after the booster vaccination.</time_frame>
+    <description>Proportion of the participants with at least a four-fold increase of the binding antibodies against SARS-CoV-2 S and RBD protein at Day 14, Day 28 and Month 6 after the booster vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fold increase of binding antibodies against SARS-CoV-2 S and RBD protein at Day 14, Day 28 and Month 6 after the booster vaccination.</measure>
+    <time_frame>At Day 14, Day 28 and Month 6 after the booster vaccination.</time_frame>
+    <description>Fold increase of binding antibodies against SARS-CoV-2 S and RBD protein measured by ELISA, as compared to baseline, at Day 14, Day 28 and Month 6 after the booster vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT of neutralizing antibodies against live SARS-CoV-2 virus at Day 28 and Month 6 after the booster vaccination.</measure>
+    <time_frame>At Day 28 and Month 6 after the booster vaccination.</time_frame>
+    <description>GMT of neutralizing antibodies against live SARS-CoV-2 virus at Day 28 and Month 6 after the booster vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of the participants with at least a four-fold increase of neutralizing antibodies against live SARS-CoV-2 virus at Day 14, Day 28, Month 6 after the booster vaccination.</measure>
+    <time_frame>At Day 14, Day 28, Month 6 after the booster vaccination.</time_frame>
+    <description>Proportion of the participants with at least a four-fold increase of neutralizing antibodies against live SARS-CoV-2 virus, as compared to baseline, at Day 14, Day 28 and Month 6 after the booster vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fold increase of neutralizing antibodies against live SARS-CoV-2 virus at Day 14, Day 28 and Month 6 after the booster vaccination.</measure>
+    <time_frame>At Day 14, Day 28 and Month 6 after the booster vaccination.</time_frame>
+    <description>Fold increase of neutralizing antibodies against live SARS-CoV-2 virus, as compared to baseline, at Day 14, Day 28 and Month 6 after the booster vaccination.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Types of binding antibodies IgG against SARS-CoV-2 S protein at Day 14, Day 28 and Month 6 after the booster vaccination.</measure>
+    <time_frame>At Day 14, Day 28 and Month 6 after the booster vaccination.</time_frame>
+    <description>Types of binding antibodies IgG against SARS-CoV-2 S protein at Day 14, Day 28 and Month 6 after the booster vaccination.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Cross neutralizing of the antibodies to variants of SARS-CoV-2 measured by pseudovirus neutralization test at Day 28 after the booster vaccination.</measure>
+    <time_frame>At Day 28 after the booster vaccination.</time_frame>
+    <description>Cross neutralizing of the antibodies to variants of SARS-CoV-2 measured by pseudovirus neutralization test at Day 28 after the booster vaccination.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>The immune cells' subgroups and germlines at Day 28 after vaccination.</measure>
+    <time_frame>At Day 28 after vaccination.</time_frame>
+    <description>The immune cells', such as B cells and T cells, subgroups and germlines at Day 28 after vaccination.</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>&quot;0-28 days&quot; vaccine group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>One dose of recombinant Ad5 vectored COVID-19 vaccine on day 0, the boost dose of subunit vaccine(ZF2001) against COVID-19 on day 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>&quot;0-28 days&quot; placebo group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>One dose of recombinant Ad5 vectored COVID-19 vaccine on day 0, the boost dose of a commercial influenza vaccine on day 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>&quot;0-56 days&quot; vaccine group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>One dose of recombinant Ad5 vectored COVID-19 vaccine on day 0, the boost dose of subunit vaccine(ZF2001) against COVID-19 on day 56.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>&quot;0-56 days&quot; placebo group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>One dose of recombinant Ad5 vectored COVID-19 vaccine on day 0, the boost dose of a commercial influenza vaccine on day 56.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>recombinant Ad5 vectored COVID-19 vaccine</intervention_name>
+    <description>This vaccine contains 5×10^10 virus particles of recombinant replication defective human type-5 adenovirus expressing SARS-CoV-2 S protein, which is produced by CanSino Biologics Inc. It is a liquid dosage form, 0.5 ml / bottle.</description>
+    <arm_group_label>&quot;0-28 days&quot; placebo group</arm_group_label>
+    <arm_group_label>&quot;0-28 days&quot; vaccine group</arm_group_label>
+    <arm_group_label>&quot;0-56 days&quot; placebo group</arm_group_label>
+    <arm_group_label>&quot;0-56 days&quot; vaccine group</arm_group_label>
+    <other_name>Ad5-nCoV</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>RBD-based protein subunit vaccine (ZF2001) against COVID-19</intervention_name>
+    <description>This is a recombinant tandem-repeat dimeric RBD-based protein subunit vaccine (ZF2001) against COVID-19, made by using CHO cell, 25μg/dose, produced by Anhui Zhifei Longcom Biopharmaceutical Co.,Ltd.</description>
+    <arm_group_label>&quot;0-28 days&quot; vaccine group</arm_group_label>
+    <arm_group_label>&quot;0-56 days&quot; vaccine group</arm_group_label>
+    <other_name>ZF2001 vaccine</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>trivalent split influenza vaccine</intervention_name>
+    <description>This vaccine contains 15 μ g H1NI, 15 μ g H3N2 and 15 μ g B-series hemagglutinin, produced by Dalian Aleph Biomedical Co., Ltd.It is a liquid dosage form, 0.5 ml / bottle.</description>
+    <arm_group_label>&quot;0-28 days&quot; placebo group</arm_group_label>
+    <arm_group_label>&quot;0-56 days&quot; placebo group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects over 18 years old who has completed one dose of recombinant Ad5 vectored&#xD;
+             COVID-19 vaccine.&#xD;
+&#xD;
+          -  The subject can provide with informed consent and sign informed consent form (ICF).&#xD;
+&#xD;
+          -  The subjects were able to and willing to comply with the requirements of the clinical&#xD;
+             trial program and could complete the 6-month follow-up of the study.&#xD;
+&#xD;
+          -  Axillary temperature ≤ 37.0 ℃&#xD;
+&#xD;
+          -  Individuals who are in good health condition at the time of entry into the trial as&#xD;
+             determined by medical history, physical examination and clinical judgment of the&#xD;
+             investigator and meet the requirements of these products immunization.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  have the medical history or family history of convulsion, epilepsy, encephalopathy and&#xD;
+             psychosis.&#xD;
+&#xD;
+          -  be allergic to any component of the research vaccines, or used to have a history of&#xD;
+             hypersensitivity or serious reactions to vaccination.&#xD;
+&#xD;
+          -  Women with positive urine pregnancy test, pregnant or breast-feeding, or have a&#xD;
+             pregnancy plan within six months.&#xD;
+&#xD;
+          -  have acute febrile diseases and infectious diseases.&#xD;
+&#xD;
+          -  have severe chronic diseases or condition in progress cannot be smoothly controlled,&#xD;
+             such as asthma, diabetes, thyroid disease&#xD;
+&#xD;
+          -  Congenital or acquired angioedema / neuroedema.&#xD;
+&#xD;
+          -  have the history of urticaria 1 year before receiving the trial vaccine.&#xD;
+&#xD;
+          -  have asplenia or functional asplenia.&#xD;
+&#xD;
+          -  have thrombocytopenia or other coagulation disorders (which may cause&#xD;
+             contraindications for intramuscular injection).&#xD;
+&#xD;
+          -  have needle sickness.&#xD;
+&#xD;
+          -  have the history of immunosuppressive therapy, anti allergy therapy, cytotoxic therapy&#xD;
+             or inhaled corticosteroids (excluding corticosteroid spray therapy for allergic&#xD;
+             rhinitis, and acute corticosteroid therapy without dermatitis) over the past 6 months.&#xD;
+&#xD;
+          -  have received blood products within 4 months before injection of trial vaccines.&#xD;
+&#xD;
+          -  have received another investigational product within one month before injection of&#xD;
+             trial vaccine.&#xD;
+&#xD;
+          -  have received attenuated vaccine within 1 month before injection of trial vaccine&#xD;
+             except the recombinant Ad5 vectored COVID-19 vaccine.&#xD;
+&#xD;
+          -  have received subunit or inactivated vaccine within 14 days before the vaccination&#xD;
+             with trial vaccine.&#xD;
+&#xD;
+          -  under anti tuberculosis treatment.&#xD;
+&#xD;
+          -  not be able to follow the protocol, or not be able to understand the informed consent&#xD;
+             according to the researcher's judgment, due to various medical, psychological, social&#xD;
+             or other conditions.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jing-Xin Li, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Jiangsu Provincial Center for Diseases Control and Prevention</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jing-Xin Li, PhD</last_name>
+    <phone>#86-25-83759913</phone>
+    <email>jingxin42102209@126.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Jiangsu Provincial Center for Diseases Control and Prevention</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jing-Xin Li, PhD</last_name>
+      <phone>#86-25-83759913</phone>
+      <email>jingxin42102209@126.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 6, 2021</study_first_posted>
+  <last_update_submitted>April 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2 Vaccine</keyword>
+  <keyword>Recombinant Ad5 Vector</keyword>
+  <keyword>Subunit Vaccine</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Immunogenicity</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

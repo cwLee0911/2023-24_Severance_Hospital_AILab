@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3738">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04784624</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HS24424(H2020:495)</org_study_id>
+    <nct_id>NCT04784624</nct_id>
+  </id_info>
+  <brief_title>Virtual Lifestyle Program Evaluation During Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)</brief_title>
+  <official_title>Virtual Lifestyle Programming to Limit Collateral Health Damage From COVID 19 Pandemic: an Evaluation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Manitoba</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Chronic Disease Innovation Centre, Seven Oaks Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Manitoba</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a pilot study evaluating an online cardiometabolic and weight loss program which is&#xD;
+      offered by The Wellness Institute. The program is 16 weeks and is developed by a&#xD;
+      multidisciplinary team and delivered by a degreed health professional (health coach) to&#xD;
+      assist participants in achieving their personal wellness goals. This study will also&#xD;
+      investigate the impact of Coronavirus Disease (COVID-19) on participants lifestyles and&#xD;
+      access to lifestyle programs and supports.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Wellness Institute is offering a new cardiometabolic and weight loss program. It is a&#xD;
+      digital behavior change program designed to help clients achieve healthy weight reduction,&#xD;
+      thereby improving cardiometabolic risk. The target population is overweight or obese&#xD;
+      individuals at risk for or living with health conditions such as pre-diabetes, diabetes,&#xD;
+      hypertension and high cholesterol. The purpose of this study is to evaluate the program&#xD;
+      following a mixed methods quasi-experimental approach using focus groups, questionnaires, and&#xD;
+      data collected over the 16 week duration of the program. Participants will be asked to fill&#xD;
+      in a set of questionnaires to measure physical activity, diet, sleep and stress at the start&#xD;
+      and end of the program. Other outcomes include changes in body weight, body mass index (BMI),&#xD;
+      blood pressure, clinical chemistry, and medication intake over the 16 week program. At the&#xD;
+      end of the program, adherence will be measured though attendance and platform usage and&#xD;
+      acceptability will be measured by an exit questionnaire and virtual focus groups. This study&#xD;
+      will investigate the impact of COVID-19 on participants lifestyles and access to lifestyle&#xD;
+      programs and support. The impact of COVID-19 will be assessed through a Covid-19&#xD;
+      questionnaire and virtual focus groups.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>16 Weeks</target_duration>
+  <primary_outcome>
+    <measure>Impact of COVID-19 survey</measure>
+    <time_frame>Start of the program - first week of enrollment</time_frame>
+    <description>A COVID-19 wellbeing survey will be used to understand the impact of COVID-19 pandemic on lifestyle behaviours and programs and services have changed in response to COVID-19</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Program adherence</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Program adherence will be measured by counting daily check-ins and attendance of appointments/visits.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Physical activity level - International Physical Activity Questionnaire-Long (IPAQ-L)</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>International Physical Activity Questionnaire-Long (IPAQ-L) will be used to evaluate participant's physical activity level for the last 7 days at the start and end of program. It comprises a set of 4 questionnaires and 5 activity domains asked independently. This questionnaire assesses the types of intensity of physical activity and the amount of sitting time that people do as part of their daily lives. These are used to estimate total physical activity in MET-min/week and time spent sitting.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical activity level - International Physical Activity Questionnaire-Short (IPAQ-S)</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>International Physical Activity Questionnaire-Short (IPAQ-S) will be used to evaluate participant's physical activity level for the last 7 days at the start and end of program. It comprises a set of 4 questionnaires and 4 generic items. This questionnaire assesses the types of intensity of physical activity and sitting time that people do as part of their daily lives. These are used to estimate total physical activity in MET-min/week and time spent sitting.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dietary intake</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Automated Self-Administered Recall System (ASA24) 3-day food recall will be used as tool to recall 3 days of dietary intake at the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dietary behavior</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Three factor questionnaire will evaluate changes in participant's dietary habits at the start and end of program. It measures 3 dimensions of human eating behavior: cognitive restraint of eating, disinhibition and hunger.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dietary habits</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Mindful eating questionnaire will evaluate changes in participant's dietary behaviors at the start and end of program. It evaluates emotional and behavioral eating habits in designated populations. A higher score may indicate better outcome in long term body weight maintenance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Pittsburgh sleep quality index (PSQI) questionnaire will be used to evaluate changes in sleep at the start and end of program. The PSQI is used to measure the quality and patterns of sleep in adults. It includes seven components: subjective sleep quality, sleep latency, sleep duration, habitual sleep efficiency, sleep disturbances, use of sleeping medications and daytime dysfunction. A score of 5 or less is indicated as good sleep quality where a score of 6 or more is indicated as poor sleep quality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stress</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Perceived stress questionnaire (PSQ) will be used to evaluate changes in stress at the start and end of program. The PSQ is developed as an instrument for assessing the stressful life events and circumstances that tend to trigger or exacerbate disease symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>High-density lipoprotein Cholesterol (HDL-C)</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>HDL-C will be measured at the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total cholesterol</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Total cholesterol will be measured at the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Low-density lipoprotein cholesterol (LDL-C)</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>LDL-C will be measured at the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Triglycerides</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Triglycerides will be measured at the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total cholesterol/HDL ratio</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Total cholesterol/HDL ratio will be measured at the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fasting blood glucose</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Fasting blood glucose will be measured at the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insulin</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Insulin will be measured at the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemoglobin A1C</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Hemoglobin A1C will be measured at the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Body weight</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Body weight will be measured at the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>BMI</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>BMI will be measured at the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Systolic blood pressure</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Systolic blood pressure will be measured in triplicate the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diastolic blood pressure</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Diastolic blood pressure will be measured in triplicate the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medication intake</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Participant's medication intake will be tracked and assessed the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovascular assessment</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Framingham score will be used to assess participant's 10-year risk of cardiovascular disease the start and end of program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impact of COVID-19-focus groups</measure>
+    <time_frame>First 3 months of program initiation</time_frame>
+    <description>Focus groups will be conducted with a subset of participants to understand the impact of the COVID-19 pandemic on lifestyle behaviors and on how individuals' needs and perspectives on lifestyle programs and services have changed in response to COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Program acceptability - exit survey</measure>
+    <time_frame>Program completion at 16 weeks</time_frame>
+    <description>A study exit survey will be used to evaluate the program acceptability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Program acceptability - focus groups</measure>
+    <time_frame>Within 3 months of completing the program</time_frame>
+    <description>Focus groups will be conducted with a subset of participants after completion of the program to obtain feedback.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Cardiometabolic Syndrome</condition>
+  <condition>Weight Loss</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Lifestyle program</intervention_name>
+    <description>The cardiometabolic and weight loss program is based on The Wellness Institute clinically validated lifestyle medicine program and will be delivered virtually using a digital platform and artificial intelligence that is supported by a health coach. The program focuses on building individual's self-efficacy, motivation and importance to make and sustain healthy choices. The 16-week program begins with a health risk assessment and a personalized wellness plan. The plan includes a personalized exercise plan and nutrition strategy. Each user will regularly check-in with their personal health coach whose role is to provide expert advice and also empower, support and help make the user accountable as they build a healthy lifestyle. Coaching includes identifying obstacles to changing behaviors and how to develop new behaviors that will become the norm.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants will be recruited from individuals enrolled in the online program and willing&#xD;
+        and able to give informed consent for participation in the evaluation&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Program inclusion criteria:&#xD;
+&#xD;
+        • Male or female, aged 18 years or above, have one or more of the following conditions:&#xD;
+        pre-diabetes, diabetes, high blood pressure, high triglycerides, low HDL, abdominal&#xD;
+        obesity, and BMI &gt;25 kg/m2.&#xD;
+&#xD;
+        Program exclusion criteria:&#xD;
+&#xD;
+          -  Female participant who is pregnant, lactating or planning pregnancy during the course&#xD;
+             of the program.&#xD;
+&#xD;
+          -  Recent heart attack, stroke, heart surgery, and congestive heart failure.&#xD;
+&#xD;
+          -  Participants who have unmanaged diabetes, chest pain or difficulty breathing.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Claudio Rigatto, MD</last_name>
+    <phone>2046313834</phone>
+    <email>CRIGATTO@sbgh.mb.ca</email>
+  </overall_contact>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 5, 2021</study_first_posted>
+  <last_update_submitted>March 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Manitoba</investigator_affiliation>
+    <investigator_full_name>Claudio Rigatto</investigator_full_name>
+    <investigator_title>Associate professor</investigator_title>
+  </responsible_party>
+  <keyword>virtual platform</keyword>
+  <keyword>evaluation</keyword>
+  <keyword>diet</keyword>
+  <keyword>physical activity</keyword>
+  <keyword>behavior change</keyword>
+  <keyword>sleep</keyword>
+  <keyword>stress</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Metabolic Syndrome</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Weight Loss</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

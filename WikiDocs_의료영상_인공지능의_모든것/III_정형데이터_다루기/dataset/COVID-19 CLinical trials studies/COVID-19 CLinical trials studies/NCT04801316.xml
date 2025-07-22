@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5527">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04801316</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SFPOV2021</org_study_id>
+    <nct_id>NCT04801316</nct_id>
+  </id_info>
+  <brief_title>Steady Feet: Proof of Value</brief_title>
+  <official_title>Steady Feet: Proof of Value</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Changi General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Changi General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It is well established that poorer functional performance is associated with falls in older&#xD;
+      adults. Exercise is shown to be an effective evidence-based intervention in improving&#xD;
+      functional performance. However, there is a lack of a specially tailored structured exercise&#xD;
+      intervention in Singapore to address this. In response, a 6-months community-based structured&#xD;
+      exercise programme, called &quot;Steady Feet&quot; (SF) was developed. It aimed to improve physical&#xD;
+      strength and balance among older adults (aged 60 years and above) who are at high risk of&#xD;
+      falls.&#xD;
+&#xD;
+      Concurrently, COVID-19 led to reduced training and exercise opportunities. There is now a&#xD;
+      need for alternatives to aid in the training of community instructors, and to carry out&#xD;
+      exercise programmes for community-dwelling older adults.&#xD;
+&#xD;
+      Thus, the objectives of this study are to examine (1) evaluate the feasibility of using&#xD;
+      videos as a facilitation tool for training community instructors and the implementation of&#xD;
+      the SF classes. (2) Evaluate the effects of the SF programme (intervention group) on&#xD;
+      functional status among older adults (aged 60 years and above), compared with a group of&#xD;
+      older adults that did not participate in the SF programme (control group).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There will be two parts to this study, part 1: a feasibility study, and part 2: a randomised&#xD;
+      controlled trial (RCT).&#xD;
+&#xD;
+      The aim of part 1 is to evaluate the feasibility of using videos as a facilitation tool for&#xD;
+      training community instructors and the implementation of the Steady Feet (SF) classes.&#xD;
+&#xD;
+      Part 1 comprises a pre-post design and qualitative methods. Community instructors' competency&#xD;
+      levels of class execution will be compared before and after the video-facilitated training.&#xD;
+      Interviews or focus group discussions will be conducted for community providers, instructors,&#xD;
+      and community-dwelling older adults to explore the acceptability, appropriateness,&#xD;
+      feasibility of the exercise video, and to obtain feedback and any recommendations for&#xD;
+      improvements. This part of the study aims to recruit 30 participants.&#xD;
+&#xD;
+      The aim of part 2 is to examine the effectiveness of the SF Programme on improving functional&#xD;
+      outcomes in older adults (aged 60 years and above) with a high risk of falls.&#xD;
+&#xD;
+      Part 2 comprises an open-label, parallel randomized controlled trial. At least 260&#xD;
+      participants (130 intervention and 130 control) with a Short Physical Performance Battery&#xD;
+      (SPPB) score of 7 to 10, no significant cognitive impairment and vision issues will be&#xD;
+      recruited to be part of the study. Participants will be randomized to the intervention or&#xD;
+      control group before the baseline visit and will be followed-up prospectively at the 3rd&#xD;
+      month, 6th month, and 12th month. Repeated measures will be performed at the pre-defined time&#xD;
+      points. The primary outcome of interest is the difference in Short Performance Physical&#xD;
+      Battery (SPPB) scores between the intervention and control groups at 6 months. Intention to&#xD;
+      treat analysis will be used. Other outcomes, such as functional assessments, balance&#xD;
+      confidence, fear of falling, quality of life, healthcare utilisation, and cost, and fall&#xD;
+      history will also be examined.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Part 1 of the study is a pre-post non-randomised study with qualitative methods. Part 2 is an open-label, parallel randomized controlled trial.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part 1: Changes from pre-competency checklist scores</measure>
+    <time_frame>Pre (prior to the video training), post (immediately after the video training)</time_frame>
+    <description>The competency checklist covers 25 different exercise steps during class execution. Trainers (physiotherapists and exercise physiologists) will indicate a &quot;tick&quot; if the trainee has accurately demonstrated the steps as taught during the video-facilitated training.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 2: Changes from baseline Short Performance Physical Battery (SPPB) scores</measure>
+    <time_frame>Baseline, 3rd month, 6th month and 12th month</time_frame>
+    <description>The SPPB is a series of assessments used to evaluate lower extremity function. It consists of 3 types of balance tests (side-by-side stand, semi-tandem stand, tandem stand), a 4 metres gait speed test, and a chair stand test. Scores of each component are summed to form a total SPPB score.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Changes from baseline ConfBAL scale scores</measure>
+    <time_frame>Baseline, 3rd month, 6th month and 12th month</time_frame>
+    <description>A scale that consists of 10 activities. Participants will rate their confidence level in completing each activity without losing their balance. There are 3 ratings available: &quot;not confident = 3 points&quot;, &quot;slightly confident = 2 points&quot;, and &quot;confident = 1 point&quot;. Ratings are summed to form a total score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Changes from baseline Fear of Falling scores</measure>
+    <time_frame>Baseline, 3rd month, 6th month and 12th month</time_frame>
+    <description>A visual analogue scale, ranging from 0 to 10 that measures the participant's fear of falling, with 0 indicating &quot;not afraid&quot; of falling, and 10 indicating &quot;Extremely&quot; afraid of falling.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Changes from baseline EQ-5D-5L scores</measure>
+    <time_frame>Baseline, 3rd month, 6th month and 12th month</time_frame>
+    <description>A measure of quality of life. It comprises of five dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has 5 levels: no problems, slight problems, moderate problems, severe problems and extreme problems.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Changes from baseline injurious falls</measure>
+    <time_frame>Baseline, 6th month and 12th month</time_frame>
+    <description>Participants will be asked questions on their history of falls within the last 6 months, location of falls, and any injuries associated with the falls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Incremental healthcare utilisation and costs over the study period</measure>
+    <time_frame>3rd month, 6th month and 12th month</time_frame>
+    <description>Participants will be asked questions on their healthcare utilisation, the associated costs, and whether it was fall-related.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Part 2: Changes from baseline Single Leg Stance (SLS) timing</measure>
+    <time_frame>Baseline, 3rd month, 6th month and 12th month</time_frame>
+    <description>Time measured in participants while standing without using support, and with one foot off the ground.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Part 2: Changes from baseline Four Square Step Test (FSST) timing</measure>
+    <time_frame>Baseline, 3rd month, 6th month and 12th month</time_frame>
+    <description>Time taken to move in a pre-determined sequence through four squares.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Part 2: Changes from baseline Timed Up and Go (TUG) timing</measure>
+    <time_frame>Baseline, 3rd month, 6th month and 12th month</time_frame>
+    <description>Time taken to rise from a seated position, walk 3 metres forth and back, and return to a seated position.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Part 2: Changes from baseline 30 second chair stand test (30CST)</measure>
+    <time_frame>Baseline, 3rd month, 6th month and 12th month</time_frame>
+    <description>Number of stands from a seated position within 30 seconds</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Part 2: Changes from baseline 6-minute walk test (6MWT) distance</measure>
+    <time_frame>Baseline, 3rd month, 6th month and 12th month</time_frame>
+    <description>Distance covered while walking back and forth along a 10 metres course in 6 minutes.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes from baseline Borg Rate of Perceived Exertion (RPE) scores</measure>
+    <time_frame>Baseline, 3rd month, 6th month and 12th month</time_frame>
+    <description>The RPE is used to measure a participant's effort and exertion, breathlessness, and fatigue before and after the 6MWT.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Part 2: Changes from baseline Global Physical Activity Questionnaire (GPAQ) scores</measure>
+    <time_frame>Baseline, 3rd month, 6th month and 12th month</time_frame>
+    <description>A measure of physical activity levels developed by the World Health Organisation (WHO). It captures physical activity levels in 3 domains (at work, travelling between places, recreational activities), and sedentary behaviours.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Part 2: Participant's satisfaction survey (3rd month)</measure>
+    <time_frame>3rd month</time_frame>
+    <description>A self-developed survey to obtain participants' feedback on the exercise programme. It captures participants satisfaction ratings on the instructor, exercises, exercise venue, and effect felt after the class.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Part 2: Participant's satisfaction survey (6th month)</measure>
+    <time_frame>6th month</time_frame>
+    <description>A self-developed survey to obtain participants' feedback on the exercise programme. It captures information on whether participants are still exercising, and feedback on the programme as a whole.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Part 2: Participant's satisfaction survey (12th month)</measure>
+    <time_frame>12th month</time_frame>
+    <description>A self-developed survey to obtain participants' feedback on the exercise programme. It captures information on whether participants are still exercising, and feedback on the programme as a whole.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Part 2: Provider satisfaction survey</measure>
+    <time_frame>3rd month</time_frame>
+    <description>A self-developed survey to obtain providers' feedback (individuals who are responsible for the implementation and execution of the programme) on the programme.</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">290</enrollment>
+  <condition>Community-dwelling Older Adults</condition>
+  <condition>Fall Risk</condition>
+  <arm_group>
+    <arm_group_label>Part 1: Video training</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Participants will undergo the following procedures:&#xD;
+Community instructors (involved in the training itself):&#xD;
+Attend a video-facilitated training&#xD;
+Be assessed for competency level of class execution before and after the video-facilitated training&#xD;
+Might need to conduct or observe 2 video-facilitated SF exercise classes (about 1 hour each time) over the course of 2 weeks (1 class per week)&#xD;
+Might need to participate in one interview/discussion which will last up to 2 hours&#xD;
+Community-dwelling older adult or community providers (individuals involved in the programme implementation but not the training itself):&#xD;
+Attend or observe 2 video-facilitated SF exercise classes (about 1 hour each time) over the course of 2 weeks (1 class per week)&#xD;
+Participate in one interview/discussion which will last up to 2 hours</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Exercise Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will participate in 6 months of exercises, and be provided with education and advice on how to reduce their risk of falls.&#xD;
+The exercises are divided into 2 phases:&#xD;
+The Steady Feet (SF) exercise programme phase. A twice-weekly tailored structured group exercise class will be conducted for 3 months with community instructors and exercise video.&#xD;
+A 3 months maintenance exercise phase. A once-weekly structured community group exercise class.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants will be provided with the usual education and advice on how to reduce their risk of falls.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Steady Feet exercise programme</intervention_name>
+    <description>Steady Feet (SF) is a 6-month community-based structured exercise programme aimed at improving physical strength and balance among older adults (aged 60 years and above) who are at high risk of falls.&#xD;
+This exercise programme was developed by Changi General Hospital's physiotherapists and exercise physiologist from evidence found in the literature.</description>
+    <arm_group_label>Part 2: Exercise Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Steady Feet Video</intervention_name>
+    <description>About an hour-long video showcasing the exercise steps of the Steady Feet exercise programme</description>
+    <arm_group_label>Part 1: Video training</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Part 1:&#xD;
+&#xD;
+        Community providers or instructors will be eligible if they meet all the following&#xD;
+        inclusion criteria:&#xD;
+&#xD;
+          -  Male or female aged 21 years and older&#xD;
+&#xD;
+          -  Are involved in the planning or implementation of the exercise programme&#xD;
+&#xD;
+        Community-dwelling participants will be eligible if they meet all the following inclusion&#xD;
+        criteria during screening:&#xD;
+&#xD;
+          -  Aged 60 years and older&#xD;
+&#xD;
+          -  SPPB score: 7 to 10&#xD;
+&#xD;
+          -  Passes at least 2 out of 3 Vision Function Test(s) (LogMar vision, Stereoscopic&#xD;
+             vision, MET)&#xD;
+&#xD;
+          -  Does not possess significant cognitive impairment (AMT ≥ 5)&#xD;
+&#xD;
+        Part 2:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged 60 years and older&#xD;
+&#xD;
+          -  SPPB score: 7 to 10&#xD;
+&#xD;
+          -  Passes at least 2 out of 3 Vision Function Test(s) (LogMar vision, Stereoscopic&#xD;
+             vision, MET)&#xD;
+&#xD;
+          -  Does not possess significant cognitive impairment (AMT ≥ 5)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Male or female aged &lt; 60 years old&#xD;
+&#xD;
+          -  SPPB score of ≥ 11 or ≤ 6&#xD;
+&#xD;
+          -  Did not pass at least 2 out of 3 Vision Function Test(s) (LogMar vision, Stereoscopic&#xD;
+             vision, MET)&#xD;
+&#xD;
+          -  Possess significant cognitive impairment (AMT &lt; 5)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dr. Low Shou Lin</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Changi General Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ms. Karen Kan Lai Ming</last_name>
+    <phone>(+65) 64267459</phone>
+    <email>karen.kan.l.m@singhealth.com.sg</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ms Josephine Lee Sze Ching</last_name>
+    <phone>(+65) 87982375</phone>
+    <email>josephine.lee.s.c@singhealth.com.sg</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Changi General Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ms Karen Kan Lai Ming</last_name>
+      <phone>(+65) 64267459</phone>
+      <email>karen.kan.l.m@singhealth.com.sg</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ms Josephine Lee Sze Ching</last_name>
+      <phone>(+65) 87982375</phone>
+      <email>josephine.lee.s.c@singhealth.com.sg</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Singapore</country>
+  </location_countries>
+  <reference>
+    <citation>Veronese N, Bolzetta F, Toffanello ED, Zambon S, De Rui M, Perissinotto E, Coin A, Corti MC, Baggio G, Crepaldi G, Sergi G, Manzato E. Association between Short Physical Performance Battery and falls in older people: the Progetto Veneto Anziani Study. Rejuvenation Res. 2014 Jun;17(3):276-84. doi: 10.1089/rej.2013.1491. Epub 2014 Jun 11.</citation>
+    <PMID>24387140</PMID>
+  </reference>
+  <reference>
+    <citation>Sherrington C, Tiedemann A, Fairhall N, Close JC, Lord SR. Exercise to prevent falls in older adults: an updated meta-analysis and best practice recommendations. N S W Public Health Bull. 2011 Jun;22(3-4):78-83. doi: 10.1071/NB10056. Review.</citation>
+    <PMID>21632004</PMID>
+  </reference>
+  <reference>
+    <citation>Matchar DB, Duncan PW, Lien CT, Ong MEH, Lee M, Gao F, Sim R, Eom K. Randomized Controlled Trial of Screening, Risk Modification, and Physical Therapy to Prevent Falls Among the Elderly Recently Discharged From the Emergency Department to the Community: The Steps to Avoid Falls in the Elderly Study. Arch Phys Med Rehabil. 2017 Jun;98(6):1086-1096. doi: 10.1016/j.apmr.2017.01.014. Epub 2017 Feb 12.</citation>
+    <PMID>28202383</PMID>
+  </reference>
+  <reference>
+    <citation>Gillespie LD, Robertson MC, Gillespie WJ, Sherrington C, Gates S, Clemson LM, Lamb SE. Interventions for preventing falls in older people living in the community. Cochrane Database Syst Rev. 2012 Sep 12;(9):CD007146. doi: 10.1002/14651858.CD007146.pub3. Review.</citation>
+    <PMID>22972103</PMID>
+  </reference>
+  <reference>
+    <citation>Lauretani F, Ticinesi A, Gionti L, Prati B, Nouvenne A, Tana C, Meschi T, Maggio M. Short-Physical Performance Battery (SPPB) score is associated with falls in older outpatients. Aging Clin Exp Res. 2019 Oct;31(10):1435-1442. doi: 10.1007/s40520-018-1082-y. Epub 2018 Dec 4.</citation>
+    <PMID>30515724</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 17, 2021</study_first_posted>
+  <last_update_submitted>March 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Changi General Hospital</investigator_affiliation>
+    <investigator_full_name>Low Shou Lin</investigator_full_name>
+    <investigator_title>Senior Consultant</investigator_title>
+  </responsible_party>
+  <keyword>Exercise</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Research data is not readily available for sharing and may be disclosed on request, at the discretion of the PI and the institution.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

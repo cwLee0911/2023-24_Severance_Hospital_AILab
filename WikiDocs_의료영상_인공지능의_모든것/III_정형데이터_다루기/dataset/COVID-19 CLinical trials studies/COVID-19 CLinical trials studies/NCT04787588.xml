@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2110">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04787588</url>
+  </required_header>
+  <id_info>
+    <org_study_id>11033-T</org_study_id>
+    <nct_id>NCT04787588</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Infection and Epithelial Cell Markers</brief_title>
+  <official_title>COVID-19 Infection and Epithelial Cell Markers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McMaster University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>McMaster University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess if TSLP expression by airway epithelial cells following COVID-19 infection&#xD;
+      regulates viral load and disease severity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study aim is to determine the relationship between COVID-19 infection and epithelial cell&#xD;
+      expression of TSLP. Two cohorts will be used. Cohort One will include 100 hospitalized&#xD;
+      patients with Covid-19, and 100 hospitalized patients without Covid-19. Cohort 2 will include&#xD;
+      mild/moderate asthmatics and healthy controls with bio-banked biopsy material used from&#xD;
+      donors who have previously consented for samples to be used for future research.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 14, 2021</start_date>
+  <completion_date type="Anticipated">February 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>TSLP expression in nasal epithelium</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Compare the level of TSLP expression in nasal epithelium in patients with and without COVID-19 infection</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>TSLP expression in endobronchial biopsies</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Epithelial cell expression (protein staining) of TSLP in endobronchial biopsy tissue of asthmatic patients versus normal controls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>IL-33 expression in endobronchial biopsies</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Epithelial cell expression (protein staining) of IL-33 in endobronchial biopsy tissue of asthmatic patients versus normal controls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACE-2 receptor expression in endobronchial biopsies</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Epithelial cell expression (protein staining) of ACE-2 receptor in endobronchial biopsy tissue of asthmatic patients versus normal controls.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">235</enrollment>
+  <condition>Asthma</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Hospitalized patients</arm_group_label>
+    <description>100 patients hospitalized with Covid-19, and 100 hospitalized controls without Covid-19</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild/Moderate asthma and health controls</arm_group_label>
+    <description>20 asthmatic patients, 10 patients with asthma and allergic rhinitis, and 5 healthy controls.</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood TSLP levels will be measured and SNP genotyping for alarmins will be performed from&#xD;
+      Cohort 1 patients&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Hospitalized patients&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 years and above;&#xD;
+&#xD;
+          -  Able to give informed consent;&#xD;
+&#xD;
+          -  Clinically tested for SARS-CoV-2 (as completed by standard laboratory testing e.g.&#xD;
+             RT-PCR) and with a positive result and clinical features in keeping with COVID-19&#xD;
+             illness. The control group will be patients with a negative RT-PCR COVID-19 test and&#xD;
+             without any clinical features to suggest COVID-19 illness. In addition, the control&#xD;
+             group should have NO known or current features of respiratory infection, COPD, asthma,&#xD;
+             interstitial lung disease, other respiratory inflammatory conditions or lung cancer.&#xD;
+&#xD;
+          -  Able to provide a breath sample (as based on clinical judgement).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - none&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gail Gauvreau, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McMaster University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gail Gauvreau, PhD</last_name>
+    <phone>9055259140</phone>
+    <phone_ext>22791</phone_ext>
+    <email>gauvreau@mcmaster.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>McMaster Cardio-Respiratory Research Lab</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8N 3Z5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gail Gauvreau, PhD</last_name>
+      <phone>9055259140</phone>
+      <phone_ext>22600</phone_ext>
+      <email>gauvreau@mcmaster.ca</email>
+    </contact>
+    <contact_backup>
+      <phone>9055259140</phone>
+      <phone_ext>22791</phone_ext>
+    </contact_backup>
+    <investigator>
+      <last_name>Gail Gauvreau, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 8, 2021</study_first_posted>
+  <last_update_submitted>March 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>McMaster University</investigator_affiliation>
+    <investigator_full_name>Gail Gauvreau</investigator_full_name>
+    <investigator_title>Professor Department of MEdicine</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

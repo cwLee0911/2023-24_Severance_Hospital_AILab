@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="686">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04768179</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IVCOM PROTOCOL VERSION 03</org_study_id>
+    <nct_id>NCT04768179</nct_id>
+  </id_info>
+  <brief_title>Safety &amp; Efficacy of Low Dose Aspirin / Ivermectin Combination Therapy for Treatment of Covid-19 Patients</brief_title>
+  <acronym>IVCOM</acronym>
+  <official_title>A Randomized Clinical Trial to Investigate Safety &amp; Efficacy of Low-dose Aspirin / Ivermectin Combination Therapy in Management of COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Makerere University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ministry of Health, Uganda</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Mbarara University of Science and Technology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Joint Clinical Research Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Makerere University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19, caused by the novel Severe Acute Respiratory Syndrome Corona Virus 2 (SARSCoV-2),&#xD;
+      has become a global pandemic. Fortunately, most of the COVID-19 cases confirmed are&#xD;
+      categorized as mild for whom home- based symptomatic management with monitoring of clinical&#xD;
+      deterioration is recommended. Despite providing symptomatic management, a therapeutic drug&#xD;
+      that would limit the course of infection is greatly needed to stop COVID-19 disease&#xD;
+      progression. Considering the current SARS-CoV-2 epidemiology and the legitimate rash towards&#xD;
+      appropriate therapies, our study seeks to evaluate the safety and efficacy of low dose&#xD;
+      aspirin and ivermectin combination therapy in COVID-19 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Micro clotting is to date reported as a major cause of death among COVID-19 patients.&#xD;
+      SARS-CoV-2 associated micro clotting results into acute respiratory distress syndrome (ARDS)&#xD;
+      and death. This micro-clotting cascade supports the potential role of anticoagulants like&#xD;
+      aspirin, heparin in the clinical management of COVID-19 patients. Other areas that could be&#xD;
+      considered for potential treatment of COVID-19 include drugs and analogues of drugs that have&#xD;
+      demonstrated potential in-vitro and or in-vivo activity against SARS-CoV-2 like&#xD;
+      hydroxychloroquine, azithromycin, lopinavir/ritonavir and remdesivir and ivermectin.&#xD;
+      Ivermectin has demonstrated broad-spectrum anti-viral activity and inhibition of the&#xD;
+      causative virus (SARS-CoV-2) with ability to cause a 5000-fold reduction in viral RNA within&#xD;
+      48hrs.&#xD;
+&#xD;
+      Although aspirin and ivermectin do not exhibit any synergistic or potentiation at cellular&#xD;
+      level, a clinical additive effect resulting from combination therapy with low dose aspirin&#xD;
+      and ivermectin is plausible. There is no documented drug-drug interactions or other&#xD;
+      biological basis that contra-indicate co-administration of low dose aspirin and ivermectin.&#xD;
+&#xD;
+      We therefore propose, to explore the clinical use of combination anticoagulant: lower dose&#xD;
+      aspirin and the FDA-approved anti-parasitic drug: ivermectin, in treatment of COVID-19&#xD;
+      patients in an exploratory randomized trial.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 19, 2021</start_date>
+  <completion_date type="Anticipated">September 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SARS COV 2 Viral clearance</measure>
+    <time_frame>Day 14</time_frame>
+    <description>SARS COV 2 Viral load</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>World Health Organization COVID-19 ordinal improvement score</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Minimum score is 0 (un infected, no clinical or virological evidence of infection) Maximum sore is 8 (death) Higher scores mean a worse outcome, low scores mean a better outcome</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical recovery</measure>
+    <time_frame>Day 14</time_frame>
+    <description>disappearance or cessation of COVID-19 associated symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Spectrum and severity of adverse events</measure>
+    <time_frame>Days one to day 14</time_frame>
+    <description>Adverse drug reactions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Plasma concentration</measure>
+    <time_frame>Days one to six</time_frame>
+    <description>average maximum ivermectin drug concentrations</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Minimum Plasma concentration</measure>
+    <time_frame>Days one to six</time_frame>
+    <description>average minimum drug concentrations</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve</measure>
+    <time_frame>Days one to six</time_frame>
+    <description>Population drug concentrations from time of the first drug administration to the time when the last dose is eliminated</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">490</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Arm1 (Control group)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>standard of care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Drug: 3-dayIVM 200 mcg/kg/day/14-day 75mgASA/day + standard of care (intervention 1)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3-day Ivermectin 600 mcg/kg/day/14-day 75mgASA/day + standard of care (Intervention 2)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>3-dayIVM 200 mcg/kg/day/14-day 75mgASA/day + standard of care (intervention 1)</intervention_name>
+    <description>Low dose aspirin for 14 days plus ivermectin at 200 mcg/kg/day or 600 mcg/kg/day for 3 days</description>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_label>Arm 3</arm_group_label>
+    <other_name>3-dayIVM 600 mcg/kg/day/14-day 75mgASA/day + standard of care (intervention 2)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Provision of signed and dated informed consent form&#xD;
+&#xD;
+          -  Willingness to comply with all study procedures and availability over the study&#xD;
+             duration *Patients aged above 18years to 64 years&#xD;
+&#xD;
+          -  PCR positive for SARS-Cov-2 (COVID-19) from any of the MOH COVID-19 accredited testing&#xD;
+             laboratories&#xD;
+&#xD;
+          -  Moderately ill COVID-19 patients score 3(Hospitalized with no oxygen therapy) to 4&#xD;
+             (Hospitalized with oxygen by mask or nasal prongs) according to the WHO ordinal scale&#xD;
+             for clinical improvement which translates to moderate to severe COVID-19 patients&#xD;
+             according to the Ministry of Health Uganda COVID-19 disease category.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Participants with known hypersensitivity to Ivermectin&#xD;
+&#xD;
+          -  Clinical diagnosis of severe renal and hepatic impairment.&#xD;
+&#xD;
+          -  Pregnancy or breast feeding.&#xD;
+&#xD;
+          -  Co-treatment with either strong cytochrome p-450 inducers including: rifampicin,&#xD;
+             carbamazepine and barbiturates or inhibitors: isoniazid, clofazimine that might&#xD;
+             potentially affected ivermectin disposition and clinical outcomes&#xD;
+&#xD;
+          -  Co-morbidities including asthma&#xD;
+&#xD;
+          -  Loa loa as assessed by travel history to Angola, Cameroon, Chad, Central African&#xD;
+             Republic, Congo, DR Congo, Equatorial Guinea, Ethiopia, Gabon, Nigeria and Sudan in&#xD;
+             the last 4 years&#xD;
+&#xD;
+          -  Persons clinically diagnosed with and receiving treatment for any diathesis and PUD&#xD;
+&#xD;
+          -  Active participation in another clinical trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jackson Mukonzo, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Makerere University, college of Health Sciences</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jackson Mukonzo, PhD</last_name>
+    <phone>256758113468</phone>
+    <email>mukojack@yahoo.co.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rita Nakato, MSc</last_name>
+    <email>nakato.ritah@gmail.com</email>
+  </overall_contact_backup>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 24, 2021</study_first_posted>
+  <last_update_submitted>February 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Makerere University</investigator_affiliation>
+    <investigator_full_name>College of Health Sciences</investigator_full_name>
+    <investigator_title>Chair and Associate professor Department of Pharmacology and Therapeutics</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19 Therapies</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

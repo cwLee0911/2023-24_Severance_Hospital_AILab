@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="327">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04800133</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVA01</org_study_id>
+    <nct_id>NCT04800133</nct_id>
+  </id_info>
+  <brief_title>Covid-19 Vaccination in Adolescents</brief_title>
+  <acronym>COVA</acronym>
+  <official_title>To Compare the Reactogenicity and Immunogenicity of the 3 Recommended COVID-19 Vaccines in Young Adolescents in Hong Kong</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The University of Hong Kong</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Objectives To assess the reactogenicity, measure the adaptive immune responses and track the&#xD;
+      long-term immune memory in 11-16-year-old young adolescents and their parents receiving the 3&#xD;
+      COVID-19 vaccines-BNT162b2, CoronaVac and AZD1222-chosen by the Hong Kong Government; to&#xD;
+      compare the reactogenicity and immunogenicity across the 3 vaccines used for these children&#xD;
+      and their respective parents, and between the children and their parents.&#xD;
+&#xD;
+      Hypothesis to be tested The safety profile and the magnitude and durability of immune&#xD;
+      responses to the 3 COVID-19 vaccines in young adolescents are non-inferior to those in&#xD;
+      middle-aged adults.&#xD;
+&#xD;
+      Design and subjects A single-site, comparative nonrandomised clinical trial for 300 healthy&#xD;
+      individuals between 11-16 years old paired with one or both healthy parents to receive one of&#xD;
+      3 COVID-19 vaccines-100 student-parent pairs for each vaccine.&#xD;
+&#xD;
+      Instruments Mobile app for subjects to record adverse effects, enzyme-linked immunosorbent&#xD;
+      assay, plaque reduction neutralization assay, luciferase immunoprecipitation system assay and&#xD;
+      flow cytometry.&#xD;
+&#xD;
+      Interventions BNT162b2, CoronaVac and AZD1222.&#xD;
+&#xD;
+      Main outcome measures Types and frequencies of adverse effects within 7 days, and changes and&#xD;
+      peaks of antibody levels and antigen-specific memory T cell responses for 3 years.&#xD;
+&#xD;
+      Data analysis Comparison of rates of each type of adverse effects, immune responses at each&#xD;
+      timepoint across the 3 vaccines and age groups by ANOVA and multivariate longitudinal&#xD;
+      statistical models, decay of immune response modelled by regression analysis.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adverse reactions/events</measure>
+    <time_frame>7 days post-doses 1 and 2</time_frame>
+    <description>Percentage of occurence, types, duration and severity of adverse events occurring within 7 days post-doses 1 and 2</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Binding antibody response on ELISA</measure>
+    <time_frame>1 month post-dose 1, and 1, 6, 18, and 36 months post-dose 2</time_frame>
+    <description>Geometric mean concentration of SARS-CoV2 S-specific binding antibody as determined by Enzyme-linked Immunosorbent Assay at 1 month post-dose 1, and 1, 6, 18, and 36 months post-dose 2</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neutralizing antibody response on PRNA</measure>
+    <time_frame>1 month post-dose 1, and 1, 6, 18, and 36 months post-dose 2</time_frame>
+    <description>Geometric mean titre and geometric mean fold rise of SARS-CoV2 neutralizing antibodies as determined by plaque reduction neutralization assay at 1 month post-dose 1, and 1, 6, 18, and 36 months post-dose 2</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>T cell response on flow cytometry</measure>
+    <time_frame>1 month post-dose 1, and 1, 6, 18, and 36 months post-dose 2</time_frame>
+    <description>Geometric mean percentage of CD4 and CD8 T cells specific to SARS-CoV2 S protein peptide pool at 1 month post-dose 1, and 1, 6, 18, and 36 months post-dose 2</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Vaccine breakthrough</measure>
+    <time_frame>Throughout the study period, until 36 months post-dose 2</time_frame>
+    <description>Incidence of COVID-19 in participants throughout study period as self-reported or as determined by Luciferase Immunoprecipitation Systems assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>Throughout the study period, until 36 months post-dose 2</time_frame>
+    <description>Percentage of occurrence, types, duration and severity of adverse events and severe adverse events throughout study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Binding anti-N antibody response on ELISA</measure>
+    <time_frame>1 month post-dose 1, and 1, 6, 18, and 36 months post-dose 2</time_frame>
+    <description>Geometric mean titre and geometric mean fold rise of SARS-CoV2 N-specific binding antibody as determined by Enzyme-linked Immunosorbent Assay in Arm C participants receiving CoronaVac at 1 month post-dose 1, and 1, 6, 18, and 36 months post-dose 2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-N and anti-M T cell response on flow cytometry</measure>
+    <time_frame>1 month post-dose 1, and 1, 6, 18, and 36 months post-dose 2</time_frame>
+    <description>Geometric mean percentage of CD4 and CD8 T cells specific to SARS-CoV2 M and N protein peptide pools in Arm C participants receiving CoronaVac at 1 month post-dose 1, and 1, 6, 18, and 36 months post-dose 2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Th2 cell response on flow cytometry</measure>
+    <time_frame>1 month post-dose 1, and 1, 6, 18, and 36 months post-dose 2</time_frame>
+    <description>Geometric mean percentage of Th2 cells specific to SARS-CoV2 peptide pools at 1 month post-dose 1, and 1, 6, 18, and 36 months post-dose 2</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">900</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>AZD1222</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Oxford-AstraZeneca COVID-19 vaccine, AZD1222 by Oxford/AstraZeneca Intramuscular injection 5x10^10 viral particles/0.5ml per dose 2 doses given 28 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BNT162b2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BNT162b2, tozinameran by Fosun/BioNTech Intramuscular injection 30ug/0.3ml per dose 2 doses given 21 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CoronaVac</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CoronaVac by SinoVac Intramuscular injection 3ug/0.5ml per dose 2 doses given 28 days apart</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Tozinameran</intervention_name>
+    <description>mRNA vaccine developed by BioNTech against COVID-19</description>
+    <arm_group_label>BNT162b2</arm_group_label>
+    <other_name>BNT162b2</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Oxford-AstraZeneca COVID-19 vaccine</intervention_name>
+    <description>modified chimpanzee adenovirus vector vaccine developed by Oxford University against COVID-19</description>
+    <arm_group_label>AZD1222</arm_group_label>
+    <other_name>AZD1222</other_name>
+    <other_name>COVID-19 vaccine AstraZeneca</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CoronaVac</intervention_name>
+    <description>Inactivated virus vaccine developed by SinoVac against COVID-19</description>
+    <arm_group_label>CoronaVac</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. informed consent from the parents or a legally acceptable representative for an&#xD;
+             underage participant&#xD;
+&#xD;
+          2. for students, aged 11-16 years, inclusive&#xD;
+&#xD;
+          3. biological parents of students enrolled in the trial&#xD;
+&#xD;
+          4. ability to adhere to the follow-up schedules&#xD;
+&#xD;
+          5. willingness to report reactogenicity daily for 7 days post dose 1 and 2 proactively&#xD;
+&#xD;
+          6. willingness to receive that vaccine available for that particular recruitment period&#xD;
+             as student-parent pair&#xD;
+&#xD;
+          7. good past health, including pre-existing clinically stable disease&#xD;
+&#xD;
+             Exclusion Criteria:&#xD;
+&#xD;
+          8. known history of COVID-19&#xD;
+&#xD;
+          9. history of severe allergy, such as angioedema, bronchospasm and/or hypotension to&#xD;
+             food, drug, vaccine, or unknown trigger&#xD;
+&#xD;
+         10. history of Steven-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug rash&#xD;
+             with eosinophilia and systemic syndrome (DRESS)/drug-induced hypersensitivity syndrome&#xD;
+             (DIHS)&#xD;
+&#xD;
+         11. any significant medical or psychiatric condition including laboratory abnormalities or&#xD;
+             suicidal ideation and behaviour within past 12 months that may increase risk of&#xD;
+             vaccination&#xD;
+&#xD;
+         12. severe immunocompromise, including present or planned use of cytotoxic agents or&#xD;
+             systemic immunosuppressives, known primary or secondary immunodeficiency diseases.&#xD;
+             Short-term systemic steroids use (&lt;14 days) for an acute condition precludes the&#xD;
+             participant from receiving study vaccines until 28 days after the termination of said&#xD;
+             therapy&#xD;
+&#xD;
+         13. receipt of blood or plasma products or immunoglobulin within 60 days prior to&#xD;
+             vaccination to conclusion of the study&#xD;
+&#xD;
+         14. any haematological diseases (that preclude intramuscular injection)&#xD;
+&#xD;
+         15. reported pregnancy or breastfeeding&#xD;
+&#xD;
+         16. receipt of coronavirus vaccines in the past&#xD;
+&#xD;
+         17. history of severe neurological conditions, e.g. transverse myelitis, Guillain-Barre&#xD;
+             Syndrome (GBS), demyelinating diseases&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>11 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yu Lung Lau, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Hong Kong</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sau Man Chan, MNurs</last_name>
+    <phone>+85222554635</phone>
+    <email>chansm13@hku.hk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Queen Mary Hospital</name>
+      <address>
+        <city>Hong Kong</city>
+        <state>Hong Kong</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yu-lung LAU, MD</last_name>
+      <phone>852-28553838</phone>
+      <phone_ext>4481</phone_ext>
+      <email>lauylung@hku.hk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 16, 2021</study_first_posted>
+  <last_update_submitted>April 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

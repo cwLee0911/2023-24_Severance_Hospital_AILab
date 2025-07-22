@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="289">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04836351</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WesternNorwayUAS</org_study_id>
+    <nct_id>NCT04836351</nct_id>
+  </id_info>
+  <brief_title>Rehabilitation for Patients With Persistent Symptoms Post COVID-19</brief_title>
+  <official_title>Feasibility, Usefulness and Evaluation of a Concentrated Rehabilitation for Patients With Persistent Symptoms Post COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Western Norway University of Applied Sciences</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Helse-Bergen HF</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Western Norway University of Applied Sciences</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A large proportion of persons who have had COVID-19 have reported persisted symptoms as&#xD;
+      fatigue and dyspnea months post infection which affect activities of daily living.&#xD;
+&#xD;
+      The aim of the study is to examine the feasibility and safety of a concentrated&#xD;
+      rehabilitation program with a mobile application follow-up for persons with persistent&#xD;
+      symptoms post COVID-19 infection. We will examine recruitment availability, adherence to the&#xD;
+      program, goal achievement, and resources requirements.&#xD;
+&#xD;
+      Methods: A feasibility study with one group pre-post test design with 10-20 persons between&#xD;
+      18-67 years, with persistent symptoms post COVID-19 will be included. The intervention is 3+&#xD;
+      1-2 days concentrated rehabilitation with a mobile application follow-up for 3 months.&#xD;
+&#xD;
+      Following assessments wil be used: Cardiopulmonary exercise testing, lung function,&#xD;
+      functional performance tests, questionnaires regarding dyspnea, fatigue, anxiety, depression,&#xD;
+      work-status, health status, sleep behavior, physical activity level.&#xD;
+&#xD;
+      Demographic data before and after the intervention will be presented. Focus group interview&#xD;
+      will be done with the participants. The interview will be analysed using systematic text&#xD;
+      condensation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In March 2020, the World Health Organization (WHO) declared the COVID-19 outbreak to be a&#xD;
+      pandemic, and a year later more than 120 000 000 people are confirmed with the disease. The&#xD;
+      disease has caused more than 2 700 000 deaths globally. Norway has a low mortality rate&#xD;
+      compared to rest of the world. However, a large proportion (10-33%) of the patients worldwide&#xD;
+      have reported persistent symptoms, such as dyspnea, reduced exercise capacity, loss of&#xD;
+      taste/smell and fatigue months after the infection. Persistent symptoms are also found in&#xD;
+      younger populations and in persons with an initially mild disease.&#xD;
+&#xD;
+      The intervention will take place at &quot;Helse i Hardanger&quot; (HiH)(Health center in Hardanger,&#xD;
+      Norway). The participants will stay for a 3 -day rehabilitation intervention, if needed,&#xD;
+      another 1 or 2-day stay will be offered about a month later. The concentrated treatment will&#xD;
+      be given by an interdisciplinary team, including doctors, physiotherapists, nutritionists,&#xD;
+      pharmacists, psychologists/psychiatrists, and nurses. The intervention is an individualized&#xD;
+      group treatment based on behavioural change.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2021</start_date>
+  <completion_date type="Anticipated">December 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Feasibility study, one group pre-post design</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cardiopulmonary exercise test (CPET)</measure>
+    <time_frame>4 months</time_frame>
+    <description>CPET performed at treadmill</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Chalder Fatigue Questionnaire (CFQ)</measure>
+    <time_frame>4 months</time_frame>
+    <description>Assessing fatigue</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>International Physical Activity Questionnaire (IPAQ)</measure>
+    <time_frame>4 months</time_frame>
+    <description>Assessing physical activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Generalized Anxiety Disorder (GAD-7)</measure>
+    <time_frame>4 months</time_frame>
+    <description>Evaluation of mental disorders</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Health Questionnaire (PHQ-9)</measure>
+    <time_frame>4 months</time_frame>
+    <description>Assessing health status</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bergen Insomnia Scale (BIS)</measure>
+    <time_frame>4 months</time_frame>
+    <description>Assessing sleep behavior</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Client Satisfaction Questionnaire (CSQ-8)</measure>
+    <time_frame>3 months</time_frame>
+    <description>Assessing client satisfaction with the treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Work and Social Adjustment Scale (WSAS)</measure>
+    <time_frame>4 months</time_frame>
+    <description>Assessing ability to work and leisure activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Brief Illness Perception Questionnaire (BIPQ)</measure>
+    <time_frame>4 months</time_frame>
+    <description>Assessing the cognitive and emotional representations of illness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Medical Research Council Dyspnea Scale (mMRC)</measure>
+    <time_frame>4 months</time_frame>
+    <description>Assessing dyspnea</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dyspnea-12</measure>
+    <time_frame>4 months</time_frame>
+    <description>Assessing dyspnea</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stair Climbing Test (SCT)</measure>
+    <time_frame>4 months</time_frame>
+    <description>Evaluation of functional exercise capacity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>30 second sit to stand test (30STST)</measure>
+    <time_frame>4 months</time_frame>
+    <description>Evaluation of functional exercise capacity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Spirometry, plethysmography and maximal voluntary ventilation</measure>
+    <time_frame>4 months</time_frame>
+    <description>Evaluation of lung function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bioimpedance measurement</measure>
+    <time_frame>4 months</time_frame>
+    <description>Assessment of body composition</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Concentrated rehabilitation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3+ 1-2 day concentrated rehabilitation for patients with persistent symptoms post COVID-19.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Concentrated rehabilitation for patients with persistent symptoms post COVID-19</intervention_name>
+    <description>3+ 1-2 days concentrated rehabilitation for patients with persistent symptoms post COVID-19 with a mobile application follow-up and physical consultations at 3 months post intervention.</description>
+    <arm_group_label>Concentrated rehabilitation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  persistent symptoms minimum 2 months post COVID-19 infection&#xD;
+&#xD;
+          -  reduced exercise capacity level&#xD;
+&#xD;
+          -  symptoms of dyspnea and/or fatigue&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  diseases where exercise is contraindicated (e.g. unstable angina pectoris)&#xD;
+&#xD;
+          -  drug abuse, severe mental illness where treatment in groups are contraindicated.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>67 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gerd Kvale, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Bergen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bente Frisk, PhD</last_name>
+    <phone>+4797003111</phone>
+    <email>bente.frisk@hvl.no</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kiri L Njøten, MSc</last_name>
+    <phone>+4797519412</phone>
+    <email>kilon@hvl.no</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Helse i Hardanger</name>
+      <address>
+        <city>Øystese</city>
+        <state>Kvam Herad</state>
+        <zip>5610</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Western Norway University of Applied Sciences</investigator_affiliation>
+    <investigator_full_name>Kiri Lovise Njøten</investigator_full_name>
+    <investigator_title>Ph.d student</investigator_title>
+  </responsible_party>
+  <keyword>long COVID</keyword>
+  <keyword>post-acute COVID syndrome</keyword>
+  <keyword>persistent symptoms post COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>In accordance with the approvals granted for this study by The Regional Committee on Medical Research Ethics and The Norwegian Data Inspectorate, the data files are stored securely and in accordance with the Norwegian Law of Privacy Protection. A subset of the data file with anonymized data can be made available to interested researchers upon reasonable request to Bente Frisk providing Norwegian privacy legislation and General Data Protection Regulation (GDPR) are respected, and that permission is granted from The Norwegian Data Inspectorate and the data protection officer Western Norway University og Applied Sciences</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

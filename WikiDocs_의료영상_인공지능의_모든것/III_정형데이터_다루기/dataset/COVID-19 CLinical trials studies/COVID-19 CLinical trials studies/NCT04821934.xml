@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2169">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04821934</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ICS Maugeri 2514 CE</org_study_id>
+    <nct_id>NCT04821934</nct_id>
+  </id_info>
+  <brief_title>Tele-rehabilitation Program After Hospitalization for COVID-19</brief_title>
+  <official_title>Efficacy of a Tele-rehabilitation Program After Hospitalization for COVID-19 Pneumonia: a Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istituti Clinici Scientifici Maugeri SpA</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Istituto Auxologico Italiano</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Istituti Clinici Scientifici Maugeri SpA</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Given the number of hospitalized subjects for COVID-19, the difficulties linked to the&#xD;
+      infectious risk, and the high cost of managing departments for COVID-19 subjects, the&#xD;
+      execution of home rehabilitation programs, in the form of telerehabilitation, was suggested&#xD;
+      as a viable option.&#xD;
+&#xD;
+      The aim of our study will be to investigate the effectiveness of a structured&#xD;
+      telerehabilitation program with a specific rehabilitation intervention on exercise tolerance&#xD;
+      at home in the subject discharged after hospitalization for COVID-19 pneumonia, in comparison&#xD;
+      to a traditional remote monitoring program (without any rehabilitation intervention).&#xD;
+&#xD;
+      Other secondary objectives will be the evaluation of safety, feasibility, clinical impact on&#xD;
+      symptom status (asthenia, dyspnea), gas exchange (day, night and under exertion), lung&#xD;
+      function, muscle strength, functional capacity and quality of life.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The rapid spread of Covid-19 has produced a large number of hospitalized patients, even for&#xD;
+      relatively long problems and with the need for intensive or sub-intensive care.&#xD;
+&#xD;
+      Upon discharge from the hospital, some studies have shown that the majority of subjects with&#xD;
+      COVID-19 present a reduction in functional capacity, exercise tolerance and muscle strength,&#xD;
+      regardless of previous health status and pre-existing disabilities. Furthermore, some works&#xD;
+      on patients suffering from similar respiratory infections, such as SARS or MERS, have&#xD;
+      described how a functional deficit can persist even in the long term. An early rehabilitation&#xD;
+      intervention, which included aerobic reconditioning, was tested in some pilot observational&#xD;
+      studies in hospitalized subjects for COVID-19, and proved feasible and safe. A single&#xD;
+      randomized controlled Chinese study has documented the efficacy of an acute respiratory&#xD;
+      rehabilitation intervention. Given the number of hospitalized subjects for COVID-19, the&#xD;
+      difficulties linked to the infectious risk, and the high cost of managing departments for&#xD;
+      COVID-19 subjects, the execution of home rehabilitation programs, in the form of&#xD;
+      telerehabilitation, was suggested as a viable option. Telerehabilitation programs that&#xD;
+      included effort re-conditioning, intended for subjects with reduced functional capacity, have&#xD;
+      already been successfully proposed in cardiac, respiratory, orthopedic, and neurological&#xD;
+      patients. No studies until now have described the feasibility, safety and efficacy of early&#xD;
+      exercise reconditioning treatment to improve disability in the subject discharged after&#xD;
+      hospitalization for COVID-19 pneumonia.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 26, 2021</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in 6 Minute Walking Test</measure>
+    <time_frame>baseline and 1 month and 3 months</time_frame>
+    <description>The 6MWT is a self-paced test of walking capacity. Patients will be asked to walk as far as possible in 6 min along a flat corridor. The distance in metres is recorded. Standardised instructions and encouragement are given during the test.&#xD;
+Predicted 6MW Distance follows this calculation: 361-(age in yrs x 4) + (height in cm x 2) + (HRmax/HRmax % pred x 3) - (weight in kg x 1.5) - 30 (if females).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory evaluations</measure>
+    <time_frame>baseline and 1 month</time_frame>
+    <description>Measures of FiO2 (%), PaO2 (mmHg), PaCO2 (mmHg), pH</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory muscle strength</measure>
+    <time_frame>baseline and 1 month</time_frame>
+    <description>Maximal inspiratory pressure (MIP) and maximal expiratory pressure (MEP) measurements may aid in evaluating respiratory muscle weakness. Patient needs to inspire and exhale into a rigid mouthpiece that does not allow the dispersion of the air blown by him. The mouthpiece is connected to a blood pressure monitor and is equipped with a valve that is closed before the patient breathes in or out with maximum force.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional evaluations - 1 Minute Sit To Stand</measure>
+    <time_frame>baseline and 1 month</time_frame>
+    <description>The therapists will ask the participants to sit down on a chair without arm rests and then up from the chair. The assisted use of the arms is not allowed during the STS test. The therapists will instruct the participants to complete as many sit-to-stand cycles as possible within 60 seconds at self-paced speed and count the number of fully-completed STS cycles. The median number of repetitions ranged from 50/min (25-75th percentile 41-57/min) in young men and 47/min (39-55/min) in young women aged 20-24 years to 30/min (25-37/min) in older men and 27/min (22-30/min) in older women aged 75-79 years.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional capacity with Short Physical Performance Battery (SPPB)</measure>
+    <time_frame>baseline and 1 month</time_frame>
+    <description>This is a test to evaluate lower limbs' function. The SPPB represents the sum of results from three functional tests: standing balance, 4-meter gait speed (4-MGS) and five-repetition sit-to-stand (5-STS) manoeuvre. Each component is scored based on a subscale, and the three sub-scores are added to obtain a summary score. Scores between 0-3 denote severe physical function disability, 4-6 low function, 7-9 intermediate function, and 10-12 normal function. Predicted values for the SPPB were calculated using normative values for total SPPB score and a European population aged ≥40 years, stratified for age and sex.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical symptoms with Barthel Dyspnea Index</measure>
+    <time_frame>baseline and 1 month</time_frame>
+    <description>The Barthel Dyspnea Index is a scale used to measure patients' dyspnea during activity of daily living (ADL). It's composed by 10 items; the best score is 100 and higher is the score, less is the dyspnea.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fatigue Severity Scale</measure>
+    <time_frame>baseline and 1 month</time_frame>
+    <description>The Fatigue Severity Scale is a 9-item scale which measures the severity of fatigue and its effect on a person's activities and lifestyle in patients. Answers are scored on a seven point scale where 1 = strongly disagree and 7 = strongly agree. This means the minimum score possible is nine and the highest is 63. The higher the score, the more severe the fatigue is and the more it affects the person's activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SF-12</measure>
+    <time_frame>baseline and 1 month</time_frame>
+    <description>The SF-12 is a questionnaire with 12 questions to measure functional health and well-being (QoL) from the patient's perspective. It measures 8 health domains: physical functioning, role physical, bodily pain, general health, vitality, social functioning, role emotional, and mental health. Two summary scores are reported from the SF-12: a mental component score (MCS-12) and a physical component score (PCS-12). An algorithm establishes the score; lower values correspond to a worse quality of life, while higher values correspond to a better quality of life.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">74</enrollment>
+  <condition>COVID-19 Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Telerehabilitation (TR) at home + Telesurveillance program (TSu)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>These COVID-19 patients will enter the usual telesurveillance program together with a specific remote rehabilitation program on exercise activity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Telesurveillance (TSu) alone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>These COVID-19 patients will enter the usual remote telesurveillance program</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>TR</intervention_name>
+    <description>TR is a specific remote tele rehabilitation program on exercise activity managed by the physiotherapist (PT) at home, this is the experimental group. PT will explain the rehabilitation program at hospital discharge by the use of a brochure and videos. TR will include an early exercise re-conditioning program [aerobic exercise at the free body (with or without tools), cyclette and walking with a pedometer] comprising 20 sessions of 60 minutes/day, 6 out of 7 days to be performed at home, for one month after discharge. The sessions will be self-managed by the patients 4 times a week and an expert PT will remotely supervise 2 times a week through a dedicated platform. The program will be progressively incremental and divided into 4 different levels of intensity (0- 3).&#xD;
+In addition to this specific rehabilitation program, the patients will be followed by a nurse tutor once a day for two weeks and once a week for a further two weeks in a program of Telesurveillance.</description>
+    <arm_group_label>Telerehabilitation (TR) at home + Telesurveillance program (TSu)</arm_group_label>
+    <other_name>Telerehabilitation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>TSu</intervention_name>
+    <description>The patients of this group will perform a usual Telesurveillance and will be considered as control group.&#xD;
+All patients, at discharge from the hospital, will be provided with a finger pulse oximeter and a dedicated application (app) on their personal smartphone and will be advised on free physical activity to be performed at home. The nurse will check through scheduled calls (once a day for two weeks and once a week for a further two weeks) the patient's health condition, vital parameters and drugs administration. Patients will be able to contact the nurse at each time, in case of specific need, out of the scheduled call, 7/7 days.&#xD;
+A follow up by phone will be planned by nurse tutor at 2 months from the end of the study.</description>
+    <arm_group_label>Telesurveillance (TSu) alone</arm_group_label>
+    <other_name>Telesurveillance</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  One or both the following points:&#xD;
+&#xD;
+               1. need for 24-hour oxygen therapy to have a resting SpO2 of at least 94% or&#xD;
+                  exercise-induced desaturation, defined as a reduction of at least 3% of SpO2 mean&#xD;
+                  measured during the 6-minute test (6MWT) compared to SpO2 measured at rest&#xD;
+&#xD;
+               2. reduced tolerance to effort highlighted by the 6MWT with a value of the meters&#xD;
+                  travelled less than 70 percent of the predicted one&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Hemodynamic instability and the presence of uncontrolled cardiac arrhythmias&#xD;
+&#xD;
+          -  Any clinical condition that contraindicates aerobic exercise&#xD;
+&#xD;
+          -  Presence of motor disability before hospitalization which made it impossible to walk&#xD;
+             independently (Rankin scale&gt; 3) (10)&#xD;
+&#xD;
+          -  Impaired cognitive status (Mini Mental State Examination test &lt;24)&#xD;
+&#xD;
+          -  Inability to use (by the patient or a caregiver) the technological means sufficient to&#xD;
+             follow the program (mobile phone with internet connection)&#xD;
+&#xD;
+          -  Lack of supervision by a caregiver in case of walking and standing instability&#xD;
+             Contacts/Locations&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Mara Paneroni, PT</last_name>
+    <phone>+39 030 8253122</phone>
+    <email>mara.paneroni@icsmaugeri.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Paola Baiardi, Math</last_name>
+    <phone>+39 0382 592</phone>
+    <phone_ext>599</phone_ext>
+    <email>paola.baiardi@icsmaugeri.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>S Maugeri IRCCS, U.O. Emergenza Coronavirus di Lumezzane</name>
+      <address>
+        <city>Brescia</city>
+        <zip>25065</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mara Paneroni, PT</last_name>
+      <phone>+39 030 8253122</phone>
+      <email>mara.paneroni@icsmaugeri.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ICS Maugeri IRCCS, U.O. Emergenza Coronavirus di Tradate</name>
+      <address>
+        <city>Varese</city>
+        <zip>21100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Elisabetta Zampogna, PT</last_name>
+      <email>elisabetta.zampogna@icsmaugeri.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Vitacca M, Lazzeri M, Guffanti E, Frigerio P, D'Abrosca F, Gianola S, Carone M, Paneroni M, Ceriana P, Pasqua F, Banfi P, Gigliotti F, Simonelli C, Cirio S, Rossi V, Beccaluva CG, Retucci M, Santambrogio M, Lanza A, Gallo F, Fumagalli A, Mantero M, Castellini G, Calabrese M, Castellana G, Volpato E, Ciriello M, Garofano M, Clini E, Ambrosino N, Arir Associazione Riabilitatori dell'Insufficienza Respiratoria Sip Società Italiana di Pneumologia Aifi Associazione Italiana Fisioterapisti And Sifir Società Italiana di Fisioterapia E Riabilitazione OBOAAIPO. Italian suggestions for pulmonary rehabilitation in COVID-19 patients recovering from acute respiratory failure: results of a Delphi process. Monaldi Arch Chest Dis. 2020 Jun 23;90(2). doi: 10.4081/monaldi.2020.1444.</citation>
+    <PMID>32573175</PMID>
+  </reference>
+  <reference>
+    <citation>Belli S, Balbi B, Prince I, Cattaneo D, Masocco F, Zaccaria S, Bertalli L, Cattini F, Lomazzo A, Dal Negro F, Giardini M, Franssen FME, Janssen DJA, Spruit MA. Low physical functioning and impaired performance of activities of daily life in COVID-19 patients who survived hospitalisation. Eur Respir J. 2020 Oct 15;56(4). pii: 2002096. doi: 10.1183/13993003.02096-2020. Print 2020 Oct.</citation>
+    <PMID>32764112</PMID>
+  </reference>
+  <reference>
+    <citation>Van Aerde N, Van den Berghe G, Wilmer A, Gosselink R, Hermans G; COVID-19 Consortium. Intensive care unit acquired muscle weakness in COVID-19 patients. Intensive Care Med. 2020 Nov;46(11):2083-2085. doi: 10.1007/s00134-020-06244-7. Epub 2020 Sep 28.</citation>
+    <PMID>32986233</PMID>
+  </reference>
+  <reference>
+    <citation>Paneroni M, Simonelli C, Saleri M, Bertacchini L, Venturelli M, Troosters T, Ambrosino N, Vitacca M. Muscle Strength and Physical Performance in Patients Without Previous Disabilities Recovering From COVID-19 Pneumonia. Am J Phys Med Rehabil. 2021 Feb 1;100(2):105-109. doi: 10.1097/PHM.0000000000001641.</citation>
+    <PMID>33181531</PMID>
+  </reference>
+  <reference>
+    <citation>Hui DS, Wong KT, Ko FW, Tam LS, Chan DP, Woo J, Sung JJ. The 1-year impact of severe acute respiratory syndrome on pulmonary function, exercise capacity, and quality of life in a cohort of survivors. Chest. 2005 Oct;128(4):2247-61.</citation>
+    <PMID>16236881</PMID>
+  </reference>
+  <reference>
+    <citation>Simonelli C, Paneroni M, Fokom AG, Saleri M, Speltoni I, Favero I, Garofali F, Scalvini S, Vitacca M. How the COVID-19 infection tsunami revolutionized the work of respiratory physiotherapists: an experience from Northern Italy. Monaldi Arch Chest Dis. 2020 May 19;90(2). doi: 10.4081/monaldi.2020.1085.</citation>
+    <PMID>32431134</PMID>
+  </reference>
+  <reference>
+    <citation>Liu K, Zhang W, Yang Y, Zhang J, Li Y, Chen Y. Respiratory rehabilitation in elderly patients with COVID-19: A randomized controlled study. Complement Ther Clin Pract. 2020 May;39:101166. doi: 10.1016/j.ctcp.2020.101166. Epub 2020 Apr 1.</citation>
+    <PMID>32379637</PMID>
+  </reference>
+  <reference>
+    <citation>Chirra M, Marsili L, Wattley L, Sokol LL, Keeling E, Maule S, Sobrero G, Artusi CA, Romagnolo A, Zibetti M, Lopiano L, Espay AJ, Obeidat AZ, Merola A. Telemedicine in Neurological Disorders: Opportunities and Challenges. Telemed J E Health. 2019 Jul;25(7):541-550. doi: 10.1089/tmj.2018.0101. Epub 2018 Aug 23. Review.</citation>
+    <PMID>30136898</PMID>
+  </reference>
+  <reference>
+    <citation>Holland AE, Spruit MA, Troosters T, Puhan MA, Pepin V, Saey D, McCormack MC, Carlin BW, Sciurba FC, Pitta F, Wanger J, MacIntyre N, Kaminsky DA, Culver BH, Revill SM, Hernandes NA, Andrianopoulos V, Camillo CA, Mitchell KE, Lee AL, Hill CJ, Singh SJ. An official European Respiratory Society/American Thoracic Society technical standard: field walking tests in chronic respiratory disease. Eur Respir J. 2014 Dec;44(6):1428-46. doi: 10.1183/09031936.00150314. Epub 2014 Oct 30. Review.</citation>
+    <PMID>25359355</PMID>
+  </reference>
+  <reference>
+    <citation>Vaidya T, de Bisschop C, Beaumont M, Ouksel H, Jean V, Dessables F, Chambellan A. Is the 1-minute sit-to-stand test a good tool for the evaluation of the impact of pulmonary rehabilitation? Determination of the minimal important difference in COPD. Int J Chron Obstruct Pulmon Dis. 2016 Oct 19;11:2609-2616. eCollection 2016.</citation>
+    <PMID>27799759</PMID>
+  </reference>
+  <reference>
+    <citation>Strassmann A, Steurer-Stey C, Lana KD, Zoller M, Turk AJ, Suter P, Puhan MA. Population-based reference values for the 1-min sit-to-stand test. Int J Public Health. 2013 Dec;58(6):949-53. doi: 10.1007/s00038-013-0504-z. Epub 2013 Aug 24.</citation>
+    <PMID>23974352</PMID>
+  </reference>
+  <reference>
+    <citation>Pavasini R, Guralnik J, Brown JC, di Bari M, Cesari M, Landi F, Vaes B, Legrand D, Verghese J, Wang C, Stenholm S, Ferrucci L, Lai JC, Bartes AA, Espaulella J, Ferrer M, Lim JY, Ensrud KE, Cawthon P, Turusheva A, Frolova E, Rolland Y, Lauwers V, Corsonello A, Kirk GD, Ferrari R, Volpato S, Campo G. Short Physical Performance Battery and all-cause mortality: systematic review and meta-analysis. BMC Med. 2016 Dec 22;14(1):215. doi: 10.1186/s12916-016-0763-7. Review.</citation>
+    <PMID>28003033</PMID>
+  </reference>
+  <reference>
+    <citation>Vitacca M, Paneroni M, Baiardi P, De Carolis V, Zampogna E, Belli S, Carone M, Spanevello A, Balbi B, Bertolotti G. Development of a Barthel Index based on dyspnea for patients with respiratory diseases. Int J Chron Obstruct Pulmon Dis. 2016 Jun 7;11:1199-206. doi: 10.2147/COPD.S104376. eCollection 2016.</citation>
+    <PMID>27354778</PMID>
+  </reference>
+  <reference>
+    <citation>Ottonello M, Pellicciari L, Giordano A, Foti C. Rasch analysis of the Fatigue Severity Scale in Italian subjects with multiple sclerosis. J Rehabil Med. 2016 Jul 18;48(7):597-603. doi: 10.2340/16501977-2116.</citation>
+    <PMID>27344968</PMID>
+  </reference>
+  <reference>
+    <citation>Gandek B, Ware JE, Aaronson NK, Apolone G, Bjorner JB, Brazier JE, Bullinger M, Kaasa S, Leplege A, Prieto L, Sullivan M. Cross-validation of item selection and scoring for the SF-12 Health Survey in nine countries: results from the IQOLA Project. International Quality of Life Assessment. J Clin Epidemiol. 1998 Nov;51(11):1171-8.</citation>
+    <PMID>9817135</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2021</study_first_posted>
+  <last_update_submitted>March 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Istituti Clinici Scientifici Maugeri SpA</investigator_affiliation>
+    <investigator_full_name>Mara Paneroni</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Covid-19</keyword>
+  <keyword>covid</keyword>
+  <keyword>pulmonary rehabilitation</keyword>
+  <keyword>physiotherapist</keyword>
+  <keyword>telerehabilitation</keyword>
+  <keyword>telemedicine</keyword>
+  <keyword>exercise</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="569">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04818736</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-RCT</org_study_id>
+    <nct_id>NCT04818736</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Vaccine For Indirect Protection</brief_title>
+  <official_title>COVID Vaccine for Indirect Protection: A Cluster Randomized Controlled Trial in Hutterite Colonies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McMaster University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Alberta</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Saskatchewan</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Manitoba</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>McMaster University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to test whether vaccinating adults ≥18 years in&#xD;
+      Hutterite colonies with mRNA-1273 (Moderna COVID-19) vaccine as compared to control (usual&#xD;
+      care) can prevent RT-PCR confirmed COVID-19 in non-vaccinated Hutterite members.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Despite the efficacy that has been demonstrated in Phase III randomized controls trials of&#xD;
+      mRNA COVID-19 vaccines, a critical question that remains unanswered is whether mRNA vaccines&#xD;
+      lead to herd immunity. The rationale for conducting this study is to learn whether&#xD;
+      vaccinating adults with a COVID-19 vaccine will prevent COVID-19 infections in non-vaccinated&#xD;
+      community members. Hutterite communities are unique since they are isolated from towns and&#xD;
+      cities and also share a number of communal activities, such as eating meals and attending&#xD;
+      church. Because of their location and practices, the Hutterite colonies give an opportunity&#xD;
+      to see whether vaccinating some Hutterite members with the COVID vaccine provides protection&#xD;
+      to the whole group. If the study shows that immunizing some of the population reduces the&#xD;
+      level of COVID-19 infection for other members of the population, this may be very important&#xD;
+      in stopping the COVID-19 pandemic and future pandemics.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 15, 2021</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized Controlled Trial</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>RT-PCR confirmed COVID-19 among non-vaccinated Hutterite colony members</measure>
+    <time_frame>12 week period starting after first dose</time_frame>
+    <description>RT-PCR confirmed from nasal swabs</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>RT-PCR confirmed COVID-19 among all Hutterite colony members</measure>
+    <time_frame>12 week period starting after first dose</time_frame>
+    <description>RT-PCR confirmed from nasal swabs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>RT-PCR confirmed COVID-19 in high-risk participants</measure>
+    <time_frame>12 week period starting after first dose</time_frame>
+    <description>RT-PCR confirmed from nasal swabs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 antibody testing</measure>
+    <time_frame>Baseline and through study completion, estimated at 4 months</time_frame>
+    <description>Blood spot testing of COVID-19 antibodies</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute respiratory illness</measure>
+    <time_frame>12 week period starting after first dose</time_frame>
+    <description>Participant self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>School or work-related absenteeism</measure>
+    <time_frame>12 week period starting after first dose</time_frame>
+    <description>Participant self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physician visits for respiratory illness</measure>
+    <time_frame>12 week period starting after first dose</time_frame>
+    <description>Participant self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Signs and symptoms of lower respiratory infection and pneumonia</measure>
+    <time_frame>12 week period starting after first dose</time_frame>
+    <description>Participant self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensive care admission</measure>
+    <time_frame>12 week period starting after first dose</time_frame>
+    <description>Participant self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation</measure>
+    <time_frame>12 week period starting after first dose</time_frame>
+    <description>Participant self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Death</measure>
+    <time_frame>12 week period starting after first dose</time_frame>
+    <description>Participant self-report</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">4000</enrollment>
+  <condition>Vaccine Preventable Disease</condition>
+  <arm_group>
+    <arm_group_label>COVID-19</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>mRNA-1273 vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Usual care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVID-19 Vaccination</intervention_name>
+    <description>Dose 1: 0.5 mL at Day 0 Dose 2: 0.5 mL at Day 28</description>
+    <arm_group_label>COVID-19</arm_group_label>
+    <other_name>Moderna mRNA-1273 vaccine</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Usual care</intervention_name>
+    <description>Participants can receive the COVID-19 whenever they are eligible according to local provincial guidelines.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Group A: Anyone other than the adults aged ≥18 years who are vaccinated&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Individuals under the age of 18&#xD;
+&#xD;
+          -  Individuals with a contraindication to study vaccines&#xD;
+&#xD;
+          -  Those not willing to be vaccinated but consent to follow up&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - There are no exclusion criteria for this category of participants:&#xD;
+&#xD;
+        Group B: Adults aged 18 years or older, who will be vaccinated as part of the intervention.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Anaphylactic reaction to any component of the study vaccine or to a previous dose of&#xD;
+             the study vaccines&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark Loeb</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McMaster University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>McMaster University</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8S 4K1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>March 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 26, 2021</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>vaccination</keyword>
+  <keyword>herd immunity</keyword>
+  <keyword>COVID-19</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

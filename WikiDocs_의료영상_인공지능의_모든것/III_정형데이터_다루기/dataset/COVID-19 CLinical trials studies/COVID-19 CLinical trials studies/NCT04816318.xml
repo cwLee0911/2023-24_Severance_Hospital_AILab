@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="84">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04816318</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ANID-COVID 0960</org_study_id>
+    <nct_id>NCT04816318</nct_id>
+  </id_info>
+  <brief_title>Policy Responses Against the COVID-19 Pandemic in Latin America</brief_title>
+  <official_title>Policy Responses Against the COVID-19 Pandemic in Latin America: Interrupted Series Analyses of Local Governments</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Chile</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Chile</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Latin America is one of the worst-hit areas from the COVID-19 pandemic worldwide. Policy&#xD;
+      responses to COVID-19 in Latin America have sought to reduce viral spread, increase the&#xD;
+      capacity of the health system response, mitigate negative consequences, and strengthen&#xD;
+      governance. Few studies have examined the effectiveness of COVID-19 policies in Latin America&#xD;
+      or explored subnational variation in their effectiveness.&#xD;
+&#xD;
+      In this observational study, the investigators will use a two-stage interrupted time series&#xD;
+      to estimate the effectiveness of nonpharmaceutical interventions in third-tier subnational&#xD;
+      units on SARS-COV2 transmission and COVID-19 mortality in Latin America. The investigators&#xD;
+      will estimate the effects in each local government, and then run a random-effects&#xD;
+      meta-analysis to obtain pooled effects for each intervention (and combinations of) and&#xD;
+      heterogeneity estimates. Finally, the investigators will explore potential explanations for&#xD;
+      the heterogeneity at the local level.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The COVID-19 pandemic is spreading rapidly worldwide. Latin America, the region with the&#xD;
+      highest income inequality, remains as one of the worst-hit areas worldwide. Despite&#xD;
+      accounting for 8.4% of the global population, Latin America has witnessed 20.3% of the total&#xD;
+      SARS-COV-2 cases and 30.2% of the COVID-19 deaths to date. Several countries in the region&#xD;
+      are among the worst-hit worldwide. Brazil has had more than 11 million SARS-COV-2 cases and&#xD;
+      Mexico, Argentina and Colombia have exceeded the 2 million cases each. Similarly, the five&#xD;
+      most populated countries in the region (Brazil, Argentina, Mexico, Colombia and Peru) exceed&#xD;
+      600,000 SARS-COV-2-related deaths. The pandemic reached Latin America later than other&#xD;
+      continents, and the first case of COVID-19 in the region was reported in Brazil on February&#xD;
+      26, followed by a case in Mexico on February 28, 2020 and subsequently spreading throughout&#xD;
+      the region during March 2020.&#xD;
+&#xD;
+      Policy responses to COVID-19 in Latin America have sought to reduce viral spread, increase&#xD;
+      the capacity of the health system response, mitigate negative consequences, and strengthen&#xD;
+      governance. Effectiveness studies of social distancing policies in China, India, European&#xD;
+      countries, the United States and worldwide have shown that these appear to be effective to&#xD;
+      reduce viral transmission.&#xD;
+&#xD;
+      Despite the heavy burden of the COVID-19 in Latin American countries, there have been few&#xD;
+      studies examining the effectiveness of COVID-19 policies. Likewise, few studies have explored&#xD;
+      variation at the local level in the effectiveness of COVID-19 policies. Inequalities in&#xD;
+      policy effectiveness can arise due to within-country differences at the local level due to&#xD;
+      their geographical, sociodemographic, mobility patterns, and governance differences. In Latin&#xD;
+      America, high levels of poverty, urban density, household crowding, lack of safety nets,&#xD;
+      unemployment and precarious work cluster geographically and coexist with structural&#xD;
+      inequities in governance and built environments, thus creating barriers for effective&#xD;
+      compliance with preventive recommendations and for the implementation of well-functioning&#xD;
+      contact tracing and isolation mechanisms. Understanding the effectiveness of policies at the&#xD;
+      local level and exploring potential explanations for effect heterogeneity is essential to&#xD;
+      reduce the burden of the ongoing COVID-19 pandemic and inform the preparedness for future&#xD;
+      pandemics.&#xD;
+&#xD;
+      In this study, the investigators aim, first, to estimate the effectiveness of&#xD;
+      nonpharmaceutical interventions on SARS-COV2 transmission and COVID-19 mortality in Latin&#xD;
+      America; second, to examine the effect heterogeneity of transmission and mortality at the&#xD;
+      local level. Third, assuming there is evidence of moderate to substantial heterogeneity at&#xD;
+      the local level, the investigators aim to explore potential explanations for this&#xD;
+      heterogeneity. The study will use an interrupted time series method to estimate their effects&#xD;
+      in each local government, and random effects meta-analysis and meta-regression to obtain&#xD;
+      pooled effects, heterogeneity estimates and potential explanations.&#xD;
+&#xD;
+      Methods Design and setting: Natural experiment exploiting the variation in the temporal and&#xD;
+      spatial implementation of policy interventions, aimed to reduce the spread and mortality of&#xD;
+      COVID-19 in Latin America. The unit of analysis are local governments, i.e. third-tier&#xD;
+      administrative levels such as municipalities, districts or cantons.&#xD;
+&#xD;
+      Eligibility criteria: See below. To date, eligible countries are Argentina, Brazil, Chile,&#xD;
+      Colombia, Costa Rica, Guatemala, Mexico, Paraguay, and Peru. These countries represent 80.9%&#xD;
+      of the population in Latin America, and the vast majority of SARS-CoV-2 cases and COVID-19&#xD;
+      deaths.&#xD;
+&#xD;
+      Interventions: Interventions include (i) policies aimed at reducing viral transmission, (ii)&#xD;
+      policies aimed at increasing the capacity of the health system's response, and (iii) policies&#xD;
+      aimed at mitigating the negative consequences of the epidemic and potential adverse effects&#xD;
+      of interventions. We will use the PoliMap taxonomy to categorise the examined policies.&#xD;
+&#xD;
+      Comparator: Counterfactual outcome defined as the projection of the pre-intervention trend to&#xD;
+      simulate what would have happened if the policy had not occurred.&#xD;
+&#xD;
+      Data sources: COVID-19 cases and deaths data, as well as the covariates, from official&#xD;
+      government sources, such as the Ministry of Health and Ministry of Science and Technology.&#xD;
+      The intervention information will come from legal documents, official statements, and&#xD;
+      quantitative accounts from trustable sources.&#xD;
+&#xD;
+      Covariates: First model at the local level does not include covariates (see below). Second&#xD;
+      model (i.e. the meta-analysis), we will examine the change in heterogeneity after adjusting&#xD;
+      for several covariates at the local level. Local level covariates include projected&#xD;
+      population size in 2020, demographic density, age-structure of the population, household&#xD;
+      density and socioeconomic status. We will use data from official sources of information,&#xD;
+      primarily the latest national population census in each included country.&#xD;
+&#xD;
+      Statistical analysis: See the Statistical Analysis Plan for details on the modelling&#xD;
+      assumptions. The study will use an interrupted time series design, where each local&#xD;
+      government acts as its own control. The main strength of this design is its capacity to&#xD;
+      distinguish the effect of the intervention from secular change. The study will use a Poisson&#xD;
+      regression to model the count data (for both outcomes) and accounting for overdispersion and&#xD;
+      secular trends. A full discussion on potential biases and violations of assumptions can be&#xD;
+      found in the Statistical Analysis Plan.&#xD;
+&#xD;
+      In a second stage, the investigators will use random effects meta analysis to pool the effect&#xD;
+      estimates for each intervention or combination of interventions. This analysis informs&#xD;
+      whether any implemented intervention was effective to reduce COVID-19 cases and deaths and&#xD;
+      the degree of heterogeneity between the effects at the local level. If there is evidence of&#xD;
+      moderate to high levels of heterogeneity (defined as higher than 50%), the investigators will&#xD;
+      also use standard meta-regression techniques to assess whether local level determinants (see&#xD;
+      Covariates) can explain the observed heterogeneity. The investigators will build the models&#xD;
+      and test the analytical strategy using publicly available data on COVID-19 cases and deaths&#xD;
+      from Finland and Sweden from January 1 to March 31.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 22, 2021</start_date>
+  <completion_date type="Anticipated">May 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Ecologic or Community</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>7-day moving average of daily confirmed cases of COVID-19/SARS-CoV-2</measure>
+    <time_frame>Intervention period of up to 30 days (intervention periods lower than 7 days will be considered as a combined set of interventions)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time-varying reproductive number of confirmed cases of COVID-19/SARS-CoV-2</measure>
+    <time_frame>Intervention period of up to 30 days (intervention periods lower than 7 days will be considered as a combined set of interventions)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>7-day moving average of daily confirmed deaths of COVID-19/SARS-CoV-2</measure>
+    <time_frame>Intervention period of up to 30 days (intervention periods lower than 7 days will be considered as a combined set of interventions)</time_frame>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Infectious Disease</condition>
+  <condition>Death</condition>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Social and public health measures against COVID-19</arm_group_label>
+    <description>Public Health and Social measures against COVID-19. This group refers to the population exposed to public health and social measures against COVID-19</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <description>The comparator is the pre-intervention period</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Social and public health measures against COVID-19</intervention_name>
+    <description>Viral spread (for both outcomes) 1.1. Total lockdown 1.2 Partial lockdown (geographical, step-wise/graduated response) 1.3 Curfew 1.4 School closure 1.5 Closure of shopping malls, gyms, churches, parks 1.6 Remote work 1.7 Restrictions to national/subnational mobility 1.8 Prohibition of mass gatherings&#xD;
+Health systems response (for COVID-19 deaths outcome) 2.1 Interventions to increase testing capacity 2.2 Interventions to increase the number of ICU/critical beds&#xD;
+Mitigation strategies (for both outcomes) 3.1 Direct social assistance (in-kind/cash) 3.2 Cash transfer 3.3 Withdrawal of pension funds</description>
+    <arm_group_label>Social and public health measures against COVID-19</arm_group_label>
+    <other_name>Non-pharmaceutical interventions against COVID-19</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Control</intervention_name>
+    <description>The comparator is a counterfactual outcome defined as the projection of the pre-intervention trend to simulate what would have happened if the policy had not occurred (see Statistical Analysis Plan for definitions)</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study covers the population of included countries in Latin America. Preliminarily this&#xD;
+        represents nine countries, covering 80.9% of the total population in Latin America&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Country will be eligible if they are (1) Spanish or Portuguese speaking countries in&#xD;
+             Latin America, (2) availability of open data at the subnational level for any of the&#xD;
+             outcomes&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sebastián Peña, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Escuela de Salud Pública</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Cristóbal Cuadrado, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Escuela de Salud Pública</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sebastián Peña, MD, PhD</last_name>
+    <phone>+358452451360</phone>
+    <email>sebastian.penafajuri@thl.fi</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Escuela de Salud Pública</name>
+      <address>
+        <city>Santiago</city>
+        <state>Región Metropolitana</state>
+        <zip>8380453</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Helena Morais, MEcon</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maria José Monsalves, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Chile</country>
+  </location_countries>
+  <link>
+    <url>http://www.polimap.org</url>
+    <description>PoliMap mapping visualisation tool and database</description>
+  </link>
+  <reference>
+    <citation>United Nations Department of Economic and Social Affairs. World Social Report 2020: Inequality in a rapidly changing world. New York, United States: United Nations; 2020</citation>
+  </reference>
+  <reference>
+    <citation>Dong E, Du H, Gardner L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Infect Dis. 2020 May;20(5):533-534. doi: 10.1016/S1473-3099(20)30120-1. Epub 2020 Feb 19. Erratum in: Lancet Infect Dis. 2020 Sep;20(9):e215.</citation>
+    <PMID>32087114</PMID>
+  </reference>
+  <reference>
+    <citation>The Lancet. COVID-19 in Brazil: &quot;So what?&quot; Lancet. 2020 May 9;395(10235):1461. doi: 10.1016/S0140-6736(20)31095-3.</citation>
+    <PMID>32386576</PMID>
+  </reference>
+  <reference>
+    <citation>Martinez-Gutierrez S., Cuadrado C., Peña S. Chile's response to the coronavirus pandemic. 2020. Available at: https://www.cambridge.org/core/blog/2020/04/11/chiles-response-to-the-coronavirus-pandemic/ (accessed April 12, 2020)</citation>
+  </reference>
+  <reference>
+    <citation>Ali ST, Wang L, Lau EHY, Xu XK, Du Z, Wu Y, Leung GM, Cowling BJ. Serial interval of SARS-CoV-2 was shortened over time by nonpharmaceutical interventions. Science. 2020 Aug 28;369(6507):1106-1109. doi: 10.1126/science.abc9004. Epub 2020 Jul 21.</citation>
+    <PMID>32694200</PMID>
+  </reference>
+  <reference>
+    <citation>Pan A, Liu L, Wang C, Guo H, Hao X, Wang Q, Huang J, He N, Yu H, Lin X, Wei S, Wu T. Association of Public Health Interventions With the Epidemiology of the COVID-19 Outbreak in Wuhan, China. JAMA. 2020 May 19;323(19):1915-1923. doi: 10.1001/jama.2020.6130.</citation>
+    <PMID>32275295</PMID>
+  </reference>
+  <reference>
+    <citation>Salvatore M, Basu D, Ray D, Kleinsasser M, Purkayastha S, Bhattacharyya R, Mukherjee B. Comprehensive public health evaluation of lockdown as a non-pharmaceutical intervention on COVID-19 spread in India: national trends masking state-level variations. BMJ Open. 2020 Dec 10;10(12):e041778. doi: 10.1136/bmjopen-2020-041778.</citation>
+    <PMID>33303462</PMID>
+  </reference>
+  <reference>
+    <citation>Flaxman S, Mishra S, Gandy A, Unwin HJT, Mellan TA, Coupland H, Whittaker C, Zhu H, Berah T, Eaton JW, Monod M; Imperial College COVID-19 Response Team, Ghani AC, Donnelly CA, Riley S, Vollmer MAC, Ferguson NM, Okell LC, Bhatt S. Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe. Nature. 2020 Aug;584(7820):257-261. doi: 10.1038/s41586-020-2405-7. Epub 2020 Jun 8.</citation>
+    <PMID>32512579</PMID>
+  </reference>
+  <reference>
+    <citation>Hyafil A, Moriña D. Analysis of the impact of lockdown on the reproduction number of the SARS-Cov-2 in Spain. Gac Sanit. 2020 May 23. pii: S0213-9111(20)30098-4. doi: 10.1016/j.gaceta.2020.05.003. [Epub ahead of print]</citation>
+    <PMID>32571528</PMID>
+  </reference>
+  <reference>
+    <citation>Siedner MJ, Harling G, Reynolds Z, Gilbert RF, Haneuse S, Venkataramani AS, Tsai AC. Correction: Social distancing to slow the US COVID-19 epidemic: Longitudinal pretest-posttest comparison group study. PLoS Med. 2020 Oct 6;17(10):e1003376. doi: 10.1371/journal.pmed.1003376. eCollection 2020 Oct.</citation>
+    <PMID>33022016</PMID>
+  </reference>
+  <reference>
+    <citation>Islam N, Sharp SJ, Chowell G, Shabnam S, Kawachi I, Lacey B, Massaro JM, D'Agostino RB Sr, White M. Physical distancing interventions and incidence of coronavirus disease 2019: natural experiment in 149 countries. BMJ. 2020 Jul 15;370:m2743. doi: 10.1136/bmj.m2743.</citation>
+    <PMID>32669358</PMID>
+  </reference>
+  <reference>
+    <citation>Candido DS, Claro IM, de Jesus JG, Souza WM, Moreira FRR, Dellicour S, Mellan TA, du Plessis L, Pereira RHM, Sales FCS, Manuli ER, Thézé J, Almeida L, Menezes MT, Voloch CM, Fumagalli MJ, Coletti TM, da Silva CAM, Ramundo MS, Amorim MR, Hoeltgebaum HH, Mishra S, Gill MS, Carvalho LM, Buss LF, Prete CA Jr, Ashworth J, Nakaya HI, Peixoto PS, Brady OJ, Nicholls SM, Tanuri A, Rossi ÁD, Braga CKV, Gerber AL, de C Guimarães AP, Gaburo N Jr, Alencar CS, Ferreira ACS, Lima CX, Levi JE, Granato C, Ferreira GM, Francisco RS Jr, Granja F, Garcia MT, Moretti ML, Perroud MW Jr, Castiñeiras TMPP, Lazari CS, Hill SC, de Souza Santos AA, Simeoni CL, Forato J, Sposito AC, Schreiber AZ, Santos MNN, de Sá CZ, Souza RP, Resende-Moreira LC, Teixeira MM, Hubner J, Leme PAF, Moreira RG, Nogueira ML; Brazil-UK Centre for Arbovirus Discovery, Diagnosis, Genomics and Epidemiology (CADDE) Genomic Network, Ferguson NM, Costa SF, Proenca-Modena JL, Vasconcelos ATR, Bhatt S, Lemey P, Wu CH, Rambaut A, Loman NJ, Aguiar RS, Pybus OG, Sabino EC, Faria NR. Evolution and epidemic spread of SARS-CoV-2 in Brazil. Science. 2020 Sep 4;369(6508):1255-1260. doi: 10.1126/science.abd2161. Epub 2020 Jul 23.</citation>
+    <PMID>32703910</PMID>
+  </reference>
+  <reference>
+    <citation>Bennett M. All things equal? Heterogeneity in policy effectiveness against COVID-19 spread in chile. World Dev. 2021 Jan;137:105208. doi: 10.1016/j.worlddev.2020.105208. Epub 2020 Sep 24.</citation>
+    <PMID>32994662</PMID>
+  </reference>
+  <reference>
+    <citation>Silva L, Figueiredo Filho D, Fernandes A. The effect of lockdown on the COVID-19 epidemic in Brazil: evidence from an interrupted time series design. Cad Saude Publica. 2020 Oct 19;36(10):e00213920. doi: 10.1590/0102-311X00213920. eCollection 2020.</citation>
+    <PMID>33084836</PMID>
+  </reference>
+  <reference>
+    <citation>Peña S., Cuadrado C., Rivera-Aguirre A., Hasdell R., Nazif-Munoz J., Yusuf M. et al. PoliMap: A taxonomy proposal for mapping and understanding the global policy response to COVID-19. OSF Preprint. 2020. Available at: https://osf.io/h6mvs (accessed March 22, 2021)</citation>
+  </reference>
+  <reference>
+    <citation>Li Y, Campbell H, Kulkarni D, Harpur A, Nundy M, Wang X, Nair H; Usher Network for COVID-19 Evidence Reviews (UNCOVER) group. The temporal association of introducing and lifting non-pharmaceutical interventions with the time-varying reproduction number (R) of SARS-CoV-2: a modelling study across 131 countries. Lancet Infect Dis. 2021 Feb;21(2):193-202. doi: 10.1016/S1473-3099(20)30785-4. Epub 2020 Oct 22.</citation>
+    <PMID>33729915</PMID>
+  </reference>
+  <reference>
+    <citation>Gebski V, Ellingson K, Edwards J, Jernigan J, Kleinbaum D. Modelling interrupted time series to evaluate prevention and control of infection in healthcare. Epidemiol Infect. 2012 Dec;140(12):2131-41. doi: 10.1017/S0950268812000179. Epub 2012 Feb 16.</citation>
+    <PMID>22335933</PMID>
+  </reference>
+  <reference>
+    <citation>Kontopantelis E, Doran T, Springate DA, Buchan I, Reeves D. Regression based quasi-experimental approach when randomisation is not an option: interrupted time series analysis. BMJ. 2015 Jun 9;350:h2750. doi: 10.1136/bmj.h2750.</citation>
+    <PMID>26058820</PMID>
+  </reference>
+  <reference>
+    <citation>Taljaard M, McKenzie JE, Ramsay CR, Grimshaw JM. The use of segmented regression in analysing interrupted time series studies: an example in pre-hospital ambulance care. Implement Sci. 2014 Jun 19;9:77. doi: 10.1186/1748-5908-9-77.</citation>
+    <PMID>24943919</PMID>
+  </reference>
+  <reference>
+    <citation>Bernal JL, Cummins S, Gasparrini A. Interrupted time series regression for the evaluation of public health interventions: a tutorial. Int J Epidemiol. 2017 Feb 1;46(1):348-355. doi: 10.1093/ije/dyw098.</citation>
+    <PMID>27283160</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 25, 2021</study_first_posted>
+  <last_update_submitted>March 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Chile</investigator_affiliation>
+    <investigator_full_name>Sebastián Peña</investigator_full_name>
+    <investigator_title>Co-investigator</investigator_title>
+  </responsible_party>
+  <keyword>Effectiveness</keyword>
+  <keyword>Health policy</keyword>
+  <keyword>Heterogeneity</keyword>
+  <keyword>Latin America</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The study uses open access data available at the municipal/district/canton level. The investigators will include the data and statistical code as a Supplementary Appendix in the published papers.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>The Study Protocol and SAP will be available in the project OSF repository upon publication of the registration in ClinicalTrials.gov. The Statistical code will be published as a Supplementary Appendix with the publish paper or preprint.</ipd_time_frame>
+    <ipd_access_criteria>Any interested party can access the data and documents</ipd_access_criteria>
+    <ipd_url>https://osf.io/8ne7g/</ipd_url>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 10, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/18/NCT04816318/SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>March 23, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/18/NCT04816318/Prot_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

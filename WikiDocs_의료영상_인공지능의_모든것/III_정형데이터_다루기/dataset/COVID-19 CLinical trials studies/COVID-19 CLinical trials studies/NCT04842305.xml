@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="276">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04842305</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P-2021-224</org_study_id>
+    <nct_id>NCT04842305</nct_id>
+  </id_info>
+  <brief_title>Mucosal Immunity in Terms of SARS-CoV-2 Antibodies in Saliva After COVID-19 Infection and Vaccination</brief_title>
+  <official_title>Induction of SARS-CoV-2 Spike Glycoprotein Antibodies in Saliva and Plasma in Response to a COVID-19 Infection, Systemic COVID-19 Vaccination, and the Combination of COVID-19 and Vaccination</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lenanrt Friis-Hansen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital Bispebjerg and Frederiksberg</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Primary Objective of This Single-center Study is to Investigate the SARS-CoV-2 Spike&#xD;
+      Glycoprotein RBD Antibody Concentration in Saliva and Serum in Healthy Non Vaccinated and&#xD;
+      Non-SARS-CoV-2 Infected, COVID-19 Convalescents, Persons Vaccinated With Pfizer-BioNTech&#xD;
+      BNT162b2, Moderna mRNA-1273 or AstraZeneca ChAdOx1 nCov-19 AZD1222 Vaccines, and Convalescent&#xD;
+      COVID-19 Patients That Have Subsequently Been Vaccinated. A Potential Difference in the&#xD;
+      Immunoglobulin Concentrations of the Pfizer-BioNTech BNT162b2 Vaccine, Moderna mRNA-1273&#xD;
+      vaccine and the AstraZeneca ChAdOx1-S Vaccine Will be Uncovered. This Knowledge About the&#xD;
+      Mucosal Immunity Will be Important for Further Designing of Vaccine Strategies.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">March 15, 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Titer of SARS-CoV-2 spike glycoprotein RBD antibodies in saliva and plasma</measure>
+    <time_frame>Between 21 and 200 days after infection/vaccination</time_frame>
+    <description>Detection of SARS-CoV-2 spike glycoprotein RBD antibodies in saliva and plasma in participants who have been infected with COVID-19, vaccinated with Pfizer-BioNTech/Moderna mRNA-1273/AstraZeneca or infected and vaccinated</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Titer of SARS-CoV-2 spike glycoprotein RBD antibodies in saliva and plasma</measure>
+    <time_frame>Between 21 and 200 days after vaccination</time_frame>
+    <description>Comparison of SARS-CoV-2 spike glycoprotein RBD antibodies (in saliva and plasma) between participants vaccinated with Pfizer-BioNTech, Moderna mRNA-1273 and AstraZeneca</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>G1: Control group</arm_group_label>
+    <description>SARS-CoV-2 naïve persons who have neither been vaccinated nor have had COVID-19 (controls)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>G2: COVID-19 infected</arm_group_label>
+    <description>Persons who have had COVID-19</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>G3: COVID-19 vaccinated</arm_group_label>
+    <description>Persons who have been vaccinated with Pfizer-BioNTech BNT162b2, Moderna mRNA-1273 or AstraZeneca ChAdOx1-S</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>G4: COVID-19 infected and vaccinated</arm_group_label>
+    <description>Individuals who have been infected with COVID-19 and subsequently been vaccinated</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Blood- and saliva tests</intervention_name>
+    <description>Measurement of SARS-CoV-2 spike glycoprotein RBD antibodies in plasma and saliva</description>
+    <arm_group_label>G1: Control group</arm_group_label>
+    <arm_group_label>G2: COVID-19 infected</arm_group_label>
+    <arm_group_label>G3: COVID-19 vaccinated</arm_group_label>
+    <arm_group_label>G4: COVID-19 infected and vaccinated</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood and saliva&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Individuals who belong to one of the following four groups will be included G1=SARS-COV-2&#xD;
+        Naïve (=Not SARS-CoV-2 vaccinated and COVID-19 negative), G2=COVID-19 convalescents,&#xD;
+        G3=Vaccinated with Pfizer-BioNTech BNT162b2, Moderna mRNA-1273 or AstraZeneca ChAdOx1-S&#xD;
+        vaccine, G4=COVID-19 positive and vaccinated with Pfizer-BioNTech BNT162b2, Moderna&#xD;
+        mRNA-1273 or AstraZeneca ChAdOx1-S vaccine&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Written informed consent&#xD;
+&#xD;
+          -  Both Hospital staff as well as non-health care workers will be invited to participate&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individuals not fulfilling the inclusion criteria or declining blood or saliva&#xD;
+             collection.&#xD;
+&#xD;
+          -  Exclusion criteria are neck breathers (tracheostomy/laryngectomy patients) or other&#xD;
+             nasopharyngeal or oropharyngeal anomalies that do not allow for sampling using&#xD;
+             Salivette.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Lennart Friis-Hansen, Dr.med.</last_name>
+    <phone>61145916</phone>
+    <email>lennart.jan.friis-hansen@regionh.dk</email>
+  </overall_contact>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 13, 2021</study_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital Bispebjerg and Frederiksberg</investigator_affiliation>
+    <investigator_full_name>Lenanrt Friis-Hansen</investigator_full_name>
+    <investigator_title>Department of Clinical Biochemistry MD, DMSc, Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>sars-cov-2 antibodies</keyword>
+  <keyword>saliva</keyword>
+  <keyword>mucosal immunity</keyword>
+  <keyword>vaccination</keyword>
+  <keyword>covid19</keyword>
+  <keyword>spike glycoprotein</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

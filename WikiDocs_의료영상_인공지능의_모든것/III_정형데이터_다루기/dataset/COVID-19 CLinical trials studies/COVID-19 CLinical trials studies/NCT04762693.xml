@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5022">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04762693</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DASRD</org_study_id>
+    <nct_id>NCT04762693</nct_id>
+  </id_info>
+  <brief_title>Digital Acoustic Surveillance for Early Detection of Respiratory Disease Outbreaks</brief_title>
+  <official_title>Digital Acoustic Surveillance for Early Detection of Respiratory Disease Outbreaks: An Exploratory Observational Study in Navarra, Spain</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Clinica Universidad de Navarra, Universidad de Navarra</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centre de Recherche du Centre Hospitalier de l'Université de Montréal</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Clinica Universidad de Navarra, Universidad de Navarra</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      An observational study to evaluate the accuracy of a digital cough monitoring tool to reflect&#xD;
+      the incidence of COVID-19 and other respiratory infections at the community level in the city&#xD;
+      of Pamplona, Spain.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single-center prospective observational study that pretends to evaluate the&#xD;
+      accuracy of an acoustic surveillance mobile app to detect individual episodes of cough among&#xD;
+      a monitored population, as well as the barriers and facilitators that might affect uptake of&#xD;
+      similar platforms at a population level.&#xD;
+&#xD;
+      The app in question, Hyfe cough tracker, runs in the background of smartphones, and records&#xD;
+      short snippets (&lt;0.5 seconds) of explosive, putative cough sounds. These are then classified&#xD;
+      as cough or non-cough, using a convolutional neural network (CNN) model, and matched to GPS&#xD;
+      and time data collected by the smartphone.&#xD;
+&#xD;
+      The night-time cough of participants will be monitored for a 30-day period, and their&#xD;
+      clinical records will be reviewed regularly, specifically looking for diagnoses of&#xD;
+      cough-producing diseases, and with special emphasis on COVID-19.&#xD;
+&#xD;
+      Cough data will be used to create a heatmap of cough density and geographic distribution.&#xD;
+      Aggregated cough registries will be used to calculate the coughs per person-hour registered&#xD;
+      in the cohort. These data will be used to carry out an ARIMA analysis on three parallel time&#xD;
+      series at the community level: The incidence of respiratory disease in the monitored cohort,&#xD;
+      in the entire study area (including the Universidad de Navarra, and the neighbouring Cendea&#xD;
+      de Cizur), and the cough frequency per monitored hours.&#xD;
+&#xD;
+      Changes in cough frequency will also be compared to other environmental variables such as&#xD;
+      temperature and pollution level registered in the study area.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 11, 2020</start_date>
+  <completion_date type="Anticipated">November 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Correlation between registered coughs per person-hour and incidence of respiratory diseases</measure>
+    <time_frame>1 year</time_frame>
+    <description>The investigators will run an ARIMA analysis with three parallel time series: aggregated incidence of respiratory diseases in the observed cohort, in the entire study area, and aggregated cough data.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Uptake of the surveillance system</measure>
+    <time_frame>1 year</time_frame>
+    <description>The investigators will calculate the proportion of the total reached, eligible population that installs the app and regularly uses it in the requested way.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Barriers and facilitators affecting uptake of the surveillance system</measure>
+    <time_frame>1 month</time_frame>
+    <description>A sub-sample of 25 participants will be randomly recruited for focus group discussions. In the focus groups, researchers will ask participants the following general questions: (1) What do you like about the app, (2) what do you think of this app relative to other health apps, (3) what doesn't work well, (4) what keeps you committed (or not) to using the app, (5) what do you think the purpose of the app is, (6) do you think the app has commercial value, and (7) what advice do you have for the developers?</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Covid19</condition>
+  <condition>Cough</condition>
+  <arm_group>
+    <arm_group_label>Cough monitoring</arm_group_label>
+    <description>All enrolled participants will be asked to install the acoustic surveillance software in their smartphones and use it to record night-time coughs for a minimum 30-day period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Hyfe cough tracker</intervention_name>
+    <description>A mobile app that runs in the background of smartphones and detects putative cough sounds.</description>
+    <arm_group_label>Cough monitoring</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants will be recruited in the Cendea de Cizur, a municipality composed by a cluster&#xD;
+        of villages south of the city of Pamplona, and the neighbouring town of Cizur Mayor, in the&#xD;
+        Comunidad Foral de Navarra (Spain), as well as in the different campuses of the University&#xD;
+        of Navarra. The 4,000 people living in the Cendea de Cizur are served by a public health&#xD;
+        center which receives 45,000 outpatients visits per year. Of these, approximately 12% are&#xD;
+        associated with respiratory diseases. The University of Navarra has over 11,000 registered&#xD;
+        students, 900 professors and over 600 other employees. Both the Cendea de Cizur and the&#xD;
+        University are served by the Clínica Universidad de Navarra, the largest private health&#xD;
+        center in the region, which provides medical care to an estimated population of over&#xD;
+        100,000 people.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Be aged 13 or above,&#xD;
+&#xD;
+          -  Own and regularly use a smartphone able to run the cough-tracking system,&#xD;
+&#xD;
+          -  Be willing to install and regularly use it,&#xD;
+&#xD;
+          -  Be current residents of Navarra, and&#xD;
+&#xD;
+          -  Have an active relationship with the university (having interest in the study, or&#xD;
+             being a student or worker, be a patient with a cough-related diagnosis at the Clínica&#xD;
+             Universidad de Navarra, or Cizur's health centre).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to accept the privacy policy and terms of use of the cough-tracking system.&#xD;
+&#xD;
+          -  Inability to grant access to medical records.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carlos Chaccour</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Clínica Universidad de Navarra</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Carlos Chaccour</last_name>
+    <phone>+34948255400</phone>
+    <email>cchaccour@unav.es</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Universidad de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carlos Chaccour</last_name>
+      <phone>+34666293112</phone>
+      <email>cchaccour@unav.es</email>
+    </contact>
+    <investigator>
+      <last_name>Juan Gabaldón</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </reference>
+  <reference>
+    <citation>Kim GU, Kim MJ, Ra SH, Lee J, Bae S, Jung J, Kim SH. Clinical characteristics of asymptomatic and symptomatic patients with mild COVID-19. Clin Microbiol Infect. 2020 Jul;26(7):948.e1-948.e3. doi: 10.1016/j.cmi.2020.04.040. Epub 2020 May 1.</citation>
+    <PMID>32360780</PMID>
+  </reference>
+  <reference>
+    <citation>Peeling RW, Wedderburn CJ, Garcia PJ, Boeras D, Fongwen N, Nkengasong J, Sall A, Tanuri A, Heymann DL. Serology testing in the COVID-19 pandemic response. Lancet Infect Dis. 2020 Sep;20(9):e245-e249. doi: 10.1016/S1473-3099(20)30517-X. Epub 2020 Jul 17. Review.</citation>
+    <PMID>32687805</PMID>
+  </reference>
+  <reference>
+    <citation>Chowdhury R, Luhar S, Khan N, Choudhury SR, Matin I, Franco OH. Long-term strategies to control COVID-19 in low and middle-income countries: an options overview of community-based, non-pharmacological interventions. Eur J Epidemiol. 2020 Aug;35(8):743-748. doi: 10.1007/s10654-020-00660-1. Epub 2020 Jul 13.</citation>
+    <PMID>32656618</PMID>
+  </reference>
+  <reference>
+    <citation>Rasheed J, Jamil A, Hameed AA, Aftab U, Aftab J, Shah SA, Draheim D. A survey on artificial intelligence approaches in supporting frontline workers and decision makers for the COVID-19 pandemic. Chaos Solitons Fractals. 2020 Dec;141:110337. doi: 10.1016/j.chaos.2020.110337. Epub 2020 Oct 10. Review.</citation>
+    <PMID>33071481</PMID>
+  </reference>
+  <reference>
+    <citation>Porter P, Abeyratne U, Swarnkar V, Tan J, Ng TW, Brisbane JM, Speldewinde D, Choveaux J, Sharan R, Kosasih K, Della P. A prospective multicentre study testing the diagnostic accuracy of an automated cough sound centred analytic system for the identification of common respiratory disorders in children. Respir Res. 2019 Jun 6;20(1):81. doi: 10.1186/s12931-019-1046-6.</citation>
+    <PMID>31167662</PMID>
+  </reference>
+  <reference>
+    <citation>Sharan RV, Abeyratne UR, Swarnkar VR, Claxton S, Hukins C, Porter P. Predicting spirometry readings using cough sound features and regression. Physiol Meas. 2018 Sep 5;39(9):095001. doi: 10.1088/1361-6579/aad948.</citation>
+    <PMID>30091716</PMID>
+  </reference>
+  <reference>
+    <citation>Santillana M, Nguyen AT, Louie T, Zink A, Gray J, Sung I, Brownstein JS. Cloud-based Electronic Health Records for Real-time, Region-specific Influenza Surveillance. Sci Rep. 2016 May 11;6:25732. doi: 10.1038/srep25732.</citation>
+    <PMID>27165494</PMID>
+  </reference>
+  <reference>
+    <citation>Mukundarajan H, Hol FJH, Castillo EA, Newby C, Prakash M. Using mobile phones as acoustic sensors for high-throughput mosquito surveillance. Elife. 2017 Oct 31;6. pii: e27854. doi: 10.7554/eLife.27854.</citation>
+    <PMID>29087296</PMID>
+  </reference>
+  <reference>
+    <citation>Naseem M, Akhund R, Arshad H, Ibrahim MT. Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review. J Prim Care Community Health. 2020 Jan-Dec;11:2150132720963634. doi: 10.1177/2150132720963634. Review.</citation>
+    <PMID>32996368</PMID>
+  </reference>
+  <reference>
+    <citation>Liss DT, Serrano E, Wakeman J, Nowicki C, Buchanan DR, Cesan A, Brown T. &quot;The Doctor Needs to Know&quot;: Acceptability of Smartphone Location Tracking for Care Coordination. JMIR Mhealth Uhealth. 2018 May 4;6(5):e112. doi: 10.2196/mhealth.9726.</citation>
+    <PMID>29728349</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>chronic cough</keyword>
+  <keyword>Covid19</keyword>
+  <keyword>Acoustic surveillance</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiration Disorders</mesh_term>
+    <mesh_term>Respiratory Tract Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

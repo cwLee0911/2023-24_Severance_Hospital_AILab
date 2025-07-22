@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2039">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04824391</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IDEAL00620-EU02-PK537-3</org_study_id>
+    <nct_id>NCT04824391</nct_id>
+  </id_info>
+  <brief_title>Efficacy, Immunogenicity and Safety of Inactivated ERUCOV-VAC Compared With Placebo in COVID-19</brief_title>
+  <official_title>Phase 2 Study for the Determination of Efficacy, Immunogenicity and Safety of Two Different Strengths of the Inactivated COVID-19 Vaccine ERUCOV-VAC, in a Placebo Controlled, Randomized, Double Blind Study Design.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Health Institutes of Turkey</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Erciyes University Scientific Research Projects Coordination</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Health Institutes of Turkey</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective is to determine the efficacy, immunogenicity and safety of two different&#xD;
+      strengths (3 µg and 6 µg) of an inactivated COVID 19 Vaccine compared to placebo so that to&#xD;
+      demonstrate the efficacy and safety in prophylaxis of COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 10, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Serum IgG antibody levels specific for the SARS-CoV- 2 rS protein antigen(s)</measure>
+    <time_frame>12 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neutralizing antibodies from microneutralization assay</measure>
+    <time_frame>12 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood levels of cytokines: TNF-α, IFN-γ, IL-2, IL-4, IL-5 and IL-6</measure>
+    <time_frame>12 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>12 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>3 mcg/0.5 ml Vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Low dose vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>6 mcg/0.5 ml Vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Medium dose vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ERUCOV-VAC 3 µg/0.5 ml Vaccine</intervention_name>
+    <description>Two IM applications on Days 1 and 28</description>
+    <arm_group_label>3 mcg/0.5 ml Vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ERUCOV-VAC 6 µg/0.5 ml Vaccine</intervention_name>
+    <description>Two IM applications on Days 1 and 28</description>
+    <arm_group_label>6 mcg/0.5 ml Vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Two IM applications on Days 1 and 28</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  healthy Caucasian origin&#xD;
+&#xD;
+          -  accepting not to participate in another COVID-19 vaccine study until the end of the&#xD;
+             study&#xD;
+&#xD;
+          -  volunteers who do not plan to get a child in the next one year; the volunteer and the&#xD;
+             partner should use a reliable form of contraception (abstinence, condom, birth control&#xD;
+             implant, birth control pills used or IUD used by the partner) during the study for at&#xD;
+             least 1 year&#xD;
+&#xD;
+          -  female participants of childbearing potential (defined as any female who has&#xD;
+             experienced menarche and who is NOT surgically sterile [ie, hysterectomy, bilateral&#xD;
+             tubal ligation, or bilateral oophorectomy] or postmenopausal [defined as amenorrhea at&#xD;
+             least 12 consecutive months) must agree to be heterosexually inactive through 12&#xD;
+             months after the first vaccination OR agree to consistently use any of the described&#xD;
+             methods of contraception from through 12 months after the first vaccination.&#xD;
+&#xD;
+          -  male subjects agree to refrain from sperm donation from the time of first vaccination&#xD;
+             until 3 months after last vaccination&#xD;
+&#xD;
+          -  participants must refrain from blood or plasma donation from the time of first&#xD;
+             vaccination until 3 months after last vaccination&#xD;
+&#xD;
+          -  the outcome of the following examinations should be clinically insignificant: medical&#xD;
+             and surgical history (hypo-, hypertension, allergy, other diseases, major surgery,&#xD;
+             micturition, defecation, sleep, illness within the last 4 weeks prior to the start of&#xD;
+             the trial);&#xD;
+&#xD;
+          -  life style and habits (consumption of alcohol, nicotine, coffee, tea, coke, special&#xD;
+             diet, drug abuse) should be normal/acceptable&#xD;
+&#xD;
+          -  body temperature, pulse rate, blood pressure and respiratory rate should be&#xD;
+             normal/acceptable.&#xD;
+&#xD;
+          -  laboratory examination (blood/serum examination: sodium, potassium, calcium, total&#xD;
+             protein, albumin, glucose, creatinine, BUN, total bilirubin, AST, ALT, GGT, ALP,&#xD;
+             haemoglobin, haematocrit, erythrocytes, Ieukocytes, platelet count; HBsAg, HIV-Ab,&#xD;
+             HCV-Ab should be normal/acceptable.&#xD;
+&#xD;
+          -  antiSARS CoV 2 total antibody (including COVID-19 IgG and/or IgM) negative in serum.&#xD;
+&#xD;
+          -  body weight in relation to height and age accepted BMI range 18.5 and 32 kg/m2 - both&#xD;
+             inclusive&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  women with a positive blood (β-HCG) pregnancy test&#xD;
+&#xD;
+          -  lactating women&#xD;
+&#xD;
+          -  history of COVID-19 infection or showing COVID-19 infection symptoms&#xD;
+&#xD;
+          -  having had contact to people with known COVID-19 infection in the last 14 days&#xD;
+&#xD;
+          -  having fever (&gt; 37.4oC in the last 24 hours), dry cough or feeling tired and having&#xD;
+             aches and pains, nasal congestion, runny nose, sore throat and diarrhea.&#xD;
+&#xD;
+          -  positive real time RT-PCR COVID-19 test.&#xD;
+&#xD;
+          -  leukemia or neoplasm in history.&#xD;
+&#xD;
+          -  persons with autoimmune diseases&#xD;
+&#xD;
+          -  allergic diathesis or any clinically significant allergic disease (i.e. asthma)&#xD;
+&#xD;
+          -  any condition that might impair the immune response&#xD;
+&#xD;
+          -  recent or current immunosuppressive medication&#xD;
+&#xD;
+          -  any other vaccine application 30 days before the first dose&#xD;
+&#xD;
+          -  presence or a history of clinically significant cardiovascular, renal, hepatic,&#xD;
+             pulmonary, metabolic, endocrine, haematological, gastrointestinal, neurological,&#xD;
+             psychiatric or other major diseases;&#xD;
+&#xD;
+          -  disruption of platelets or other blood clotting disorders, which may cause&#xD;
+             contraindications to intramuscular administration&#xD;
+&#xD;
+          -  clinically significant illness within 4 weeks before the start of the study.&#xD;
+             Especially any acute or chronic illness seizures.&#xD;
+&#xD;
+          -  any regular intake or administration of any prescribed systemic or topical medication&#xD;
+             within 2 weeks prior to the start of the study; in the case of intake or&#xD;
+             administration of any prescribed systemic or topical medication within 4 weeks before&#xD;
+             the start of the study because of an insignificant illness, this should be stated in&#xD;
+             the CRF.&#xD;
+&#xD;
+          -  intake or administration of OTC medication (including herbal remedies) which may have&#xD;
+             an effect on the study according to the investigator within 2 weeks prior to the start&#xD;
+             of the study&#xD;
+&#xD;
+          -  volunteers who received antiviral drugs, immunoglobulins or blood transfusions or any&#xD;
+             other investigational drug within 4 weeks prior to the first study product&#xD;
+             administration&#xD;
+&#xD;
+          -  concomitant intake or administration of any systemic or topical drugs (including&#xD;
+             herbal remedies) on the application days&#xD;
+&#xD;
+          -  treatment with any investigational drug (i.e., drug not yet approved) in the last 4&#xD;
+             weeks before beginning of the trial&#xD;
+&#xD;
+          -  medication with drugs known to alter organs or systems such as barbiturates,&#xD;
+             phenothiazines, cimetidine, omeprazole etc. within the last 1 month (4 weeks)&#xD;
+&#xD;
+          -  donation of blood or plasma more than 450 ml within the last 2 months (8 weeks) or any&#xD;
+             amount within the last month (4 weeks)&#xD;
+&#xD;
+          -  supine blood pressure, after resting for 5 min, higher than 140/90 or lower than&#xD;
+             100/60 mmHg&#xD;
+&#xD;
+          -  supine pulse rate, after resting for 5 min, outside the range of 50 - 100 beats/min&#xD;
+&#xD;
+          -  supine respiratory rate, after resting for 5 min, outside the range of 15 - 18&#xD;
+             breathings / min&#xD;
+&#xD;
+          -  laboratory values (appendix 5) outside normal range with clinical relevance at entry&#xD;
+             examination&#xD;
+&#xD;
+          -  alcohol abuse i.e. regular use of more than 2 units of alcohol per day or a history of&#xD;
+             alcoholism or drug/chemical abuse (one unit of alcohol equals ½ l of beer, 200 ml wine&#xD;
+             or 50 ml of spirits) or recovered alcoholics&#xD;
+&#xD;
+          -  caffeine abuse i.e. regular use of more than 750 mg/day caffeine&#xD;
+&#xD;
+          -  alcoholic or methylxanthine-containing beverages or foods (coffee, tea, coke,&#xD;
+             chocolate) and fruit-juice from 24 hours prior to each application&#xD;
+&#xD;
+          -  smoking of more than 10 cigarettes or equivalent per day, no smoking before&#xD;
+             application&#xD;
+&#xD;
+          -  vegetarian or any special diet due to any reason&#xD;
+&#xD;
+          -  knowledge to have any type of parenterally transmitted hepatitis or carrier of the&#xD;
+             HBsAg (HBsAg test positive)&#xD;
+&#xD;
+          -  HIV-Ab test positive&#xD;
+&#xD;
+          -  Test on anti-HCV antibodies positive&#xD;
+&#xD;
+          -  legal incapacity and/or other circumstances rendering the subject unable to understand&#xD;
+             the nature, scope and possible consequences of the study&#xD;
+&#xD;
+          -  evidence of an uncooperative attitude.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Non-pregnant women</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zafer Sezer, Assoc.Prof.</last_name>
+    <role>Study Director</role>
+    <affiliation>Co-Investigator</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gamze Kalin Unuvar, Assist.Prof.</last_name>
+    <phone>00905359872894</phone>
+    <email>gamzekalinunuvar@erciyes.edu.tr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Erciyes University</name>
+      <address>
+        <city>Kayseri</city>
+        <zip>38039</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zafer Sezer, Assoc.Prof.</last_name>
+      <phone>00903524374429</phone>
+      <email>drzafersezer@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Ahmet Inal, Assist.Prof.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mumtaz Mazicioglu, Prof.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Adnan Bayram, Prof.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Zeynep Ture Yuce, Assist.Prof.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Vaccine</keyword>
+  <keyword>Inactive</keyword>
+  <keyword>Phase 2</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

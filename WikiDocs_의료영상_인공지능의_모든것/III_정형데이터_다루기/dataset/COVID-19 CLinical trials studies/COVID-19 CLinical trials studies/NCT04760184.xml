@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="439">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04760184</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-03433</org_study_id>
+    <nct_id>NCT04760184</nct_id>
+  </id_info>
+  <brief_title>Impact of COVID-19 After Autologous Hematopoietic Stem Cell Transplantation in Sweden</brief_title>
+  <acronym>AutoCOVID-19</acronym>
+  <official_title>Impact of COVID-19 on Patients Treated With Autologous Hematopoietic Stem Cell Transplantation in Sweden - a Retrospective Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Uppsala University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Karolinska University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sahlgrenska University Hospital, Sweden</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Lund University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Hospital, Linkoeping</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Hospital, Umeå</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Region Örebro County</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Uppsala University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Uppsala University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This retrospective observational cohort study aims to describe the impact of COVID-19 in&#xD;
+      patients treated with autologous stem cell transplantation (ASCT) for malignant disease in&#xD;
+      terms of risk factors, morbidity, need for supportive care and mortality. All patients&#xD;
+      treated with ASCT in Sweden from 1st January 2020 until 31st December 2020 are eligible for&#xD;
+      this study. Patients who also has tested positive for SARS-CoV-2 from start of conditioning&#xD;
+      or later will be identified through the national registry of the Public Health Agency of&#xD;
+      Sweden and a systematic analysis of their medical records will be performed.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Research question How does infection with SARS-CoV-2 affect patients with hematological&#xD;
+      malignancies who are treated with autologous hematopoietic stem cell transplantation?&#xD;
+&#xD;
+      Study population All Swedish citizens treated with ASCT for malignant disease in Sweden from&#xD;
+      1st January 2020 until 31st December 2020 are eligible for this study. There will be a&#xD;
+      minimum follow-up time of one month for all patients.&#xD;
+&#xD;
+      Data collection and storage Patients will be identified using local ASCT registers at the&#xD;
+      seven university hospitals, as there is no national register for ASCT-patients in Sweden.&#xD;
+      These seven university hospitals are the only sights to perform ASCT in Sweden. The Public&#xD;
+      Health Agency of Sweden (Folkhälsomyndigheten - FHM) has the national responsibility to&#xD;
+      surveil and control communicable disease. The FHM uses several different surveillance systems&#xD;
+      to monitor the spread of COVID-19. Since COVID-19 is subject to mandatory reporting under the&#xD;
+      Communicable Diseases Act, physicians and laboratories continuously supply data to be&#xD;
+      analyzed daily by the FHM. The coverage of this database is estimated to be very high, close&#xD;
+      to 100%. For this study the investigators will link the patients identified through the&#xD;
+      ASCT-centers with the register of SARS-Cov-2 positive patients (SmiNet) held by the FHM.&#xD;
+      Patients who has tested positive for SARS-CoV-2 on the day of start of conditioning or at any&#xD;
+      given time thereafter will be included in the study. Inclusion of positive SARS-CoV-2 tests&#xD;
+      will start from 1st January 2020 until 31st March 2021 to allow for 3 months of follow-up&#xD;
+      after transplantation. For every ASCT-patient that has tested positive for COVID-19 after&#xD;
+      ASCT a systematic analysis of their medical records will be performed to describe the&#xD;
+      circumstances, impact and outcome of the COVID-19.&#xD;
+&#xD;
+      All data collected will be stored in a deidentified data set on a secure server held by&#xD;
+      Dalarna Country Council where name and social security number have been erased and given a&#xD;
+      coded study number. Each patient will only be identified using a separately stored code key.&#xD;
+      All storage, correspondence and analysis with the code key and pseudonymized data set will&#xD;
+      adhere to current European General Data Protection Regulation (GDPR) guidelines. The code key&#xD;
+      will be destroyed as soon as data collection is completed, data quality is secured and the&#xD;
+      final report is published. The data set will be stored for 10 years and then be destroyed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>30 days</time_frame>
+    <description>Overall survival after infection with COVID-19</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>90 days</time_frame>
+    <description>Overall survival after infection with COVID-19</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID-19 related mortality</measure>
+    <time_frame>within 6 months after infection</time_frame>
+    <description>As classified by the WHO; a death resulting from a clinically compatible illness in a confirmed COVID-19 case, unless there is a clear alternative cause of death that cannot be related to COVID disease (e.g., trauma). There should be no period of complete recovery between the illness and death</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time of COVID-19 infection</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Time of SARS-CoV-2 infection in relation to autologous stem cell transplantation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Duration of hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen treatment</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Duration of oxygen treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>High-flow oxygen therapy</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Duration of high-flow oxygen therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Non-invasive ventilation</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Duration of non-invasive ventilation (NIV)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensive care</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Duration of care in intensive care unit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Invasive mechanical ventilation</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Duration of Invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ECMO</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Duration of extracorporeal membrane oxygenation (ECMO)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurence of ARDS</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Diagnosis of Acute respiratory distress syndrome (ARDS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurence of arterial thrombosis</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Event of arterial thrombosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurence of venous thrombosis</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Event of venous thrombosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurence of arrhythmias</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Event of recorded arrhythmias</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurence of acute cardiac injury</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Event of acute cardiac injury</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurence of secondary infection</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Event of any secondary infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurence of cytokine release syndrome</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Event of cytokine release syndrome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comorbidities</measure>
+    <time_frame>Prior to autologous stem cell transplantation</time_frame>
+    <description>Description of comorbidities prior to autologous stem cell transplantation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease status</measure>
+    <time_frame>Prior to autologous stem cell transplantation</time_frame>
+    <description>Description of disease status prior to autologous stem cell transplantation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Previous disease modifying treatment</measure>
+    <time_frame>Prior to autologous stem cell transplantation</time_frame>
+    <description>Description of previous disease modifying treatment prior to autologous stem cell transplantation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Conditioning treatment</measure>
+    <time_frame>At autologous stem cell transplantation</time_frame>
+    <description>Description of conditioning treatment prior to autologous stem cell transplantation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time of infection</measure>
+    <time_frame>At autologous stem cell transplantation or up to 15 months</time_frame>
+    <description>Time of COVID-19 in relation to autologous stem cell transplantation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutropenia</measure>
+    <time_frame>At autologous stem cell transplantation or up to 15 months</time_frame>
+    <description>Event of neutropenia at diagnosis of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elevated CRP</measure>
+    <time_frame>At autologous stem cell transplantation or up to 15 months</time_frame>
+    <description>Event of elevated C-reactive protein (CRP) at diagnosis of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elevated leukocyte count</measure>
+    <time_frame>At autologous stem cell transplantation or up to 15 months</time_frame>
+    <description>Event of elevated leukocyte count at diagnosis of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lymphocytopenia</measure>
+    <time_frame>At autologous stem cell transplantation or up to 15 months</time_frame>
+    <description>Event of lymphocytopenia at diagnosis of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elevated liver enzymes</measure>
+    <time_frame>At autologous stem cell transplantation or up to 15 months</time_frame>
+    <description>Event of elevated liver enzymes at diagnosis of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elevated lactate dehydrogenase</measure>
+    <time_frame>At autologous stem cell transplantation or up to 15 months</time_frame>
+    <description>Event of elevated lactate dehydrogenase at diagnosis of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elevated ferritin</measure>
+    <time_frame>At autologous stem cell transplantation or up to 15 months</time_frame>
+    <description>Event of elevated ferritin at diagnosis of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elevated d-dimer</measure>
+    <time_frame>At autologous stem cell transplantation or up to 15 months</time_frame>
+    <description>Event of elevated d-dimer at diagnosis of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prolonged aPTT</measure>
+    <time_frame>At autologous stem cell transplantation or up to 15 months</time_frame>
+    <description>Event of prolonged activated partial thromboplastin time (aPTT) at diagnosis of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elevated troponin</measure>
+    <time_frame>At autologous stem cell transplantation or up to 15 months</time_frame>
+    <description>Event of elevated troponin at diagnosis of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elevated creatinine</measure>
+    <time_frame>At autologous stem cell transplantation or up to 15 months</time_frame>
+    <description>Event of elevated creatinine at diagnosis of COVID-19</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Covid19</condition>
+  <condition>Myeloma Multiple</condition>
+  <condition>Malignant Lymphoma</condition>
+  <condition>Hematologic Neoplasms</condition>
+  <condition>Stem Cell Transplant Complications</condition>
+  <arm_group>
+    <arm_group_label>COVID19 positives after autologous stem cell transplantation</arm_group_label>
+    <description>All Swedish citizens treated with ASCT for malignant disease in Sweden from 1st January 2020 until 31st December 2020 who has tested positive for SARS-CoV-2 from start of conditioning until the end of the study period 31st March 2021.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Autologous stem cell transplantation</intervention_name>
+    <description>The study will describe the implications of COVID-19 infection following autologous stem cell transplantation</description>
+    <arm_group_label>COVID19 positives after autologous stem cell transplantation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All Swedish citizens treated with ASCT for malignant disease in Sweden from 1st January&#xD;
+        2020 until 31st December 2020 are eligible for this study. There will be a minimum&#xD;
+        follow-up time of one month for all patients.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of hematological cancer (C81-C96 according to the International&#xD;
+             Classification of Diseases 10th revision (ICD-10).&#xD;
+&#xD;
+          -  Autologous hematopoietic stem cell transplantation performed 1 January 2020 until 31st&#xD;
+             December 2020 at a Swedish transplantation center.&#xD;
+&#xD;
+          -  Positive RT-PCR test for SARS-CoV-2 performed in Sweden&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - Age below 18 years and 0 months at the time of transplantation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Honar Cherif, MD, Ass prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Medical Sciences, Uppsala University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Thomas Silfverberg, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Center for Clinical Research Dalarna and Department of Medical Sciences-Uppsala University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kristina Carlson, MD, Ass Prof</last_name>
+    <role>Study Chair</role>
+    <affiliation>Department of Medical Sciences, Uppsala University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Thomas Silfverberg, MD</last_name>
+    <phone>+4623492000</phone>
+    <email>thomas.silfverberg@regiondalarna.se</email>
+  </overall_contact>
+  <reference>
+    <citation>Phelan AL, Katz R, Gostin LO. The Novel Coronavirus Originating in Wuhan, China: Challenges for Global Health Governance. JAMA. 2020 Feb 25;323(8):709-710. doi: 10.1001/jama.2020.1097.</citation>
+    <PMID>31999307</PMID>
+  </reference>
+  <reference>
+    <citation>Mossad SB, Longworth DL, Goormastic M, Serkey JM, Keys TF, Bolwell BJ. Early infectious complications in autologous bone marrow transplantation: a review of 219 patients. Bone Marrow Transplant. 1996 Aug;18(2):265-71.</citation>
+    <PMID>8864433</PMID>
+  </reference>
+  <reference>
+    <citation>Ljungman P, Ward KN, Crooks BN, Parker A, Martino R, Shaw PJ, Brinch L, Brune M, De La Camara R, Dekker A, Pauksen K, Russell N, Schwarer AP, Cordonnier C. Respiratory virus infections after stem cell transplantation: a prospective study from the Infectious Diseases Working Party of the European Group for Blood and Marrow Transplantation. Bone Marrow Transplant. 2001 Sep;28(5):479-84.</citation>
+    <PMID>11593321</PMID>
+  </reference>
+  <reference>
+    <citation>Hutspardol S, Essa M, Richardson S, Schechter T, Ali M, Krueger J, Fujii H, Egeler RM, Gassas A. Significant Transplantation-Related Mortality from Respiratory Virus Infections within the First One Hundred Days in Children after Hematopoietic Stem Cell Transplantation. Biol Blood Marrow Transplant. 2015 Oct;21(10):1802-7. doi: 10.1016/j.bbmt.2015.06.015. Epub 2015 Jun 25.</citation>
+    <PMID>26117558</PMID>
+  </reference>
+  <reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </reference>
+  <reference>
+    <citation>Eichenberger EM, Soave R, Zappetti D, Small CB, Shore T, van Besien K, Douglass C, Westblade LF, Satlin MJ. Incidence, significance, and persistence of human coronavirus infection in hematopoietic stem cell transplant recipients. Bone Marrow Transplant. 2019 Jul;54(7):1058-1066. doi: 10.1038/s41409-018-0386-z. Epub 2018 Nov 1.</citation>
+    <PMID>30385869</PMID>
+  </reference>
+  <reference>
+    <citation>He W, Chen L, Chen L, Yuan G, Fang Y, Chen W, Wu D, Liang B, Lu X, Ma Y, Li L, Wang H, Chen Z, Li Q, Gale RP. COVID-19 in persons with haematological cancers. Leukemia. 2020 Jun;34(6):1637-1645. doi: 10.1038/s41375-020-0836-7. Epub 2020 Apr 24.</citation>
+    <PMID>32332856</PMID>
+  </reference>
+  <reference>
+    <citation>Ljungman P, Mikulska M, de la Camara R, Basak GW, Chabannon C, Corbacioglu S, Duarte R, Dolstra H, Lankester AC, Mohty M, Montoto S, Murray J, Peffault de Latour R, Snowden JA, Yakoub-Agha I, Verhoeven B, Kröger N, Styczynski J; European Society for Blood and Marrow Transplantation. The challenge of COVID-19 and hematopoietic cell transplantation; EBMT recommendations for management of hematopoietic cell transplant recipients, their donors, and patients undergoing CAR T-cell therapy. Bone Marrow Transplant. 2020 Nov;55(11):2071-2076. doi: 10.1038/s41409-020-0919-0. Epub 2020 May 13. Review. Erratum in: Bone Marrow Transplant. 2020 Jun 8;:.</citation>
+    <PMID>32404975</PMID>
+  </reference>
+  <reference>
+    <citation>Terpos E, Engelhardt M, Cook G, Gay F, Mateos MV, Ntanasis-Stathopoulos I, van de Donk NWCJ, Avet-Loiseau H, Hajek R, Vangsted AJ, Ludwig H, Zweegman S, Moreau P, Einsele H, Boccadoro M, San Miguel J, Dimopoulos MA, Sonneveld P. Management of patients with multiple myeloma in the era of COVID-19 pandemic: a consensus paper from the European Myeloma Network (EMN). Leukemia. 2020 Aug;34(8):2000-2011. doi: 10.1038/s41375-020-0876-z. Epub 2020 May 22. Review.</citation>
+    <PMID>32444866</PMID>
+  </reference>
+  <reference>
+    <citation>Dai M, Liu D, Liu M, Zhou F, Li G, Chen Z, Zhang Z, You H, Wu M, Zheng Q, Xiong Y, Xiong H, Wang C, Chen C, Xiong F, Zhang Y, Peng Y, Ge S, Zhen B, Yu T, Wang L, Wang H, Liu Y, Chen Y, Mei J, Gao X, Li Z, Gan L, He C, Li Z, Shi Y, Qi Y, Yang J, Tenen DG, Chai L, Mucci LA, Santillana M, Cai H. Patients with Cancer Appear More Vulnerable to SARS-CoV-2: A Multicenter Study during the COVID-19 Outbreak. Cancer Discov. 2020 Jun;10(6):783-791. doi: 10.1158/2159-8290.CD-20-0422. Epub 2020 Apr 28.</citation>
+    <PMID>32345594</PMID>
+  </reference>
+  <reference>
+    <citation>Piñana JL, Martino R, García-García I, Parody R, Morales MD, Benzo G, Gómez-Catalan I, Coll R, De La Fuente I, Luna A, Merchán B, Chinea A, de Miguel D, Serrano A, Pérez C, Diaz C, Lopez JL, Saez AJ, Bailen R, Zudaire T, Martínez D, Jurado M, Calbacho M, Vázquez L, Garcia-Cadenas I, Fox L, Pimentel AI, Bautista G, Nieto A, Fernandez P, Vallejo JC, Solano C, Valero M, Espigado I, Saldaña R, Sisinni L, Ribera JM, Jimenez MJ, Trabazo M, Gonzalez-Vicent M, Fernández N, Talarn C, Montoya MC, Cedillo A, Sureda A; Infectious Complications Subcommittee of the Spanish Hematopoietic Stem Cell Transplantation and Cell Therapy Group (GETH). Risk factors and outcome of COVID-19 in patients with hematological malignancies. Exp Hematol Oncol. 2020 Aug 25;9:21. doi: 10.1186/s40164-020-00177-z. eCollection 2020.</citation>
+    <PMID>32864192</PMID>
+  </reference>
+  <reference>
+    <citation>Passamonti F, Cattaneo C, Arcaini L, Bruna R, Cavo M, Merli F, Angelucci E, Krampera M, Cairoli R, Della Porta MG, Fracchiolla N, Ladetto M, Gambacorti Passerini C, Salvini M, Marchetti M, Lemoli R, Molteni A, Busca A, Cuneo A, Romano A, Giuliani N, Galimberti S, Corso A, Morotti A, Falini B, Billio A, Gherlinzoni F, Visani G, Tisi MC, Tafuri A, Tosi P, Lanza F, Massaia M, Turrini M, Ferrara F, Gurrieri C, Vallisa D, Martelli M, Derenzini E, Guarini A, Conconi A, Cuccaro A, Cudillo L, Russo D, Ciambelli F, Scattolin AM, Luppi M, Selleri C, Ortu La Barbera E, Ferrandina C, Di Renzo N, Olivieri A, Bocchia M, Gentile M, Marchesi F, Musto P, Federici AB, Candoni A, Venditti A, Fava C, Pinto A, Galieni P, Rigacci L, Armiento D, Pane F, Oberti M, Zappasodi P, Visco C, Franchi M, Grossi PA, Bertù L, Corrao G, Pagano L, Corradini P; ITA-HEMA-COV Investigators. Clinical characteristics and risk factors associated with COVID-19 severity in patients with haematological malignancies in Italy: a retrospective, multicentre, cohort study. Lancet Haematol. 2020 Oct;7(10):e737-e745. doi: 10.1016/S2352-3026(20)30251-9. Epub 2020 Aug 13.</citation>
+    <PMID>32798473</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>December 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>February 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 18, 2021</study_first_posted>
+  <last_update_submitted>February 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Autologous stem cell transplantation</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hematologic Neoplasms</mesh_term>
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Upon request the pseudonymized data sheet will be made available for other researchers depending on purpose of the request.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

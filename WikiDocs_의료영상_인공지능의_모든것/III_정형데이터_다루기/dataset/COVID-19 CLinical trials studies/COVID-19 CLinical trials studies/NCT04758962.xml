@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5115">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04758962</url>
+  </required_header>
+  <id_info>
+    <org_study_id>214525</org_study_id>
+    <nct_id>NCT04758962</nct_id>
+  </id_info>
+  <brief_title>A Study of the Safety of and Immune Response to Varying Doses of a Vaccine Against COVID-19 in Healthy Adults</brief_title>
+  <official_title>A Phase I, First-Time-in Human (FTiH), Open-label, Dose Escalation, Non-randomized Study to Assess Safety, Reactogenicity and Immune Response of a CoV-2 SAM (LNP) Vaccine When Administered Intramuscularly on a 0, 1 Month Schedule in Healthy Adults 18 to 50 Years of Age</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the safety, reactogenicity and immune response of a&#xD;
+      self-amplifying mRNA (SAM) lipid nanoparticle (LNP) platform with severe acute respiratory&#xD;
+      syndrome coronavirus 2 (SARS-CoV-2) Spike antigen (CoV-2 SAM [LNP] vaccine) in ascending&#xD;
+      doses when administered intramuscularly (IM) on a 0,1-month schedule to healthy adults 18 to&#xD;
+      50 years of age.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 15, 2021</start_date>
+  <completion_date type="Anticipated">May 9, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 11, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with at least 1 solicited administration site event during 7-day follow-up period after first vaccination (first vaccination occurs on Day 1)</measure>
+    <time_frame>7-day follow-up period after first vaccination (from Day 1 to Day 7)</time_frame>
+    <description>The solicited administration site events are pain, redness and swelling.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with at least 1 solicited administration site event during 7-day follow-up period after second vaccination (second vaccination occurs on Day 31)</measure>
+    <time_frame>7-day follow-up period after second vaccination (from Day 31 to Day 37)</time_frame>
+    <description>The solicited administration site events are pain, redness and swelling.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with at least 1 solicited systemic event during 7-day follow-up period after first vaccination (first vaccination occurs on Day 1)</measure>
+    <time_frame>7-day follow-up period after first vaccination (from Day 1 to Day 7)</time_frame>
+    <description>The solicited systemic events are fatigue, fever, nausea, vomiting, diarrhea, abdominal pain, headache, myalgia and arthralgia.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with at least 1 solicited systemic event during 7-day follow-up period after second vaccination (second vaccination occurs on Day 31)</measure>
+    <time_frame>7-day follow-up period after second vaccination (from Day 31 to Day 37)</time_frame>
+    <description>The solicited systemic events are fatigue, fever, nausea, vomiting, diarrhea, abdominal pain, headache, myalgia and arthralgia.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with any unsolicited adverse event (AE) during 30-day follow-up period after first vaccination (first vaccination occurs on Day 1)</measure>
+    <time_frame>30-day follow-up period after first vaccination (from Day 1 to Day 30)</time_frame>
+    <description>An unsolicited AE is an AE that was not included in a list of solicited events using a Participant Diary. Unsolicited events must have been spontaneously communicated by a participant who has signed the informed consent. Unsolicited AEs include both serious and non-serious AEs.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with any unsolicited AE during 30-day follow-up period after second vaccination (second vaccination occurs on Day 31)</measure>
+    <time_frame>30-day follow-up period after second vaccination (from Day 31 to Day 60)</time_frame>
+    <description>An unsolicited AE is an AE that was not included in a list of solicited events using a Participant Diary. Unsolicited events must have been spontaneously communicated by a participant who has signed the informed consent. Unsolicited AEs include both serious and non-serious AEs.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with any hematological and biochemical laboratory abnormality at screening</measure>
+    <time_frame>At Screening</time_frame>
+    <description>Clinically significant abnormal laboratory findings are those which are not associated with an underlying disease, unless judged by the investigator to be more severe than expected for the participant's condition. Hematology and biochemistry results below or above the laboratory normal ranges were evaluated for the following parameters: Hematology: platelet count, red blood cell (RBC) count, hemoglobin, white blood cell (WBC) count with differential neutrophils, lymphocytes and eosinophils. Biochemistry: blood urea nitrogen (BUN), creatinine, liver function tests - alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase and bilirubin.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with any hematological and biochemical laboratory abnormality at Day 1</measure>
+    <time_frame>At Day 1</time_frame>
+    <description>Clinically significant abnormal laboratory findings are those which are not associated with an underlying disease, unless judged by the investigator to be more severe than expected for the participant's condition. Hematology and biochemistry results below or above the laboratory normal ranges were evaluated for the following parameters: Hematology: platelet count, red blood cell (RBC) count, hemoglobin, white blood cell (WBC) count with differential neutrophils, lymphocytes and eosinophils. Biochemistry: blood urea nitrogen (BUN), creatinine, liver function tests - alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase and bilirubin.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with any hematological and biochemical laboratory abnormality at Day 2</measure>
+    <time_frame>At Day 2</time_frame>
+    <description>Clinically significant abnormal laboratory findings are those which are not associated with an underlying disease, unless judged by the investigator to be more severe than expected for the participant's condition. Hematology and biochemistry results below or above the laboratory normal ranges were evaluated for the following parameters: Hematology: platelet count, red blood cell (RBC) count, hemoglobin, white blood cell (WBC) count with differential neutrophils, lymphocytes and eosinophils. Biochemistry: blood urea nitrogen (BUN), creatinine, liver function tests - alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase and bilirubin.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with any hematological and biochemical laboratory abnormality at Day 8</measure>
+    <time_frame>At Day 8</time_frame>
+    <description>Clinically significant abnormal laboratory findings are those which are not associated with an underlying disease, unless judged by the investigator to be more severe than expected for the participant's condition. Hematology and biochemistry results below or above the laboratory normal ranges were evaluated for the following parameters: Hematology: platelet count, red blood cell (RBC) count, hemoglobin, white blood cell (WBC) count with differential neutrophils, lymphocytes and eosinophils. Biochemistry: blood urea nitrogen (BUN), creatinine, liver function tests - alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase and bilirubin.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with any hematological and biochemical laboratory abnormality at Day 31</measure>
+    <time_frame>At Day 31</time_frame>
+    <description>Clinically significant abnormal laboratory findings are those which are not associated with an underlying disease, unless judged by the investigator to be more severe than expected for the participant's condition. Hematology and biochemistry results below or above the laboratory normal ranges were evaluated for the following parameters: Hematology: platelet count, red blood cell (RBC) count, hemoglobin, white blood cell (WBC) count with differential neutrophils, lymphocytes and eosinophils. Biochemistry: blood urea nitrogen (BUN), creatinine, liver function tests - alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase and bilirubin.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with any hematological and biochemical laboratory abnormality at Day 32</measure>
+    <time_frame>At Day 32</time_frame>
+    <description>Clinically significant abnormal laboratory findings are those which are not associated with an underlying disease, unless judged by the investigator to be more severe than expected for the participant's condition. Hematology and biochemistry results below or above the laboratory normal ranges were evaluated for the following parameters: Hematology: platelet count, red blood cell (RBC) count, hemoglobin, white blood cell (WBC) count with differential neutrophils, lymphocytes and eosinophils. Biochemistry: blood urea nitrogen (BUN), creatinine, liver function tests - alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase and bilirubin.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with any hematological and biochemical laboratory abnormality at Day 38</measure>
+    <time_frame>At Day 38</time_frame>
+    <description>Clinically significant abnormal laboratory findings are those which are not associated with an underlying disease, unless judged by the investigator to be more severe than expected for the participant's condition. Hematology and biochemistry results below or above the laboratory normal ranges were evaluated for the following parameters: Hematology: platelet count, red blood cell (RBC) count, hemoglobin, white blood cell (WBC) count with differential neutrophils, lymphocytes and eosinophils. Biochemistry: blood urea nitrogen (BUN), creatinine, liver function tests - alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase and bilirubin.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with at least 1 medically attended AE (MAE) from first administered dose up to 30 days after last dose (second vaccination occurs on Day 31)</measure>
+    <time_frame>From Day 1 to Day 60</time_frame>
+    <description>A MAE is an AE for which the participants received medical attention defined as hospitalization, or an otherwise unscheduled visit to or from medical personnel for any reason, including emergency room visits.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with at least 1 serious adverse event (SAE) from first administered dose up to 30 days after last dose (second vaccination occurs on Day 31)</measure>
+    <time_frame>From Day 1 to Day 60</time_frame>
+    <description>An SAE is any untoward medical occurrence that results in death, is life-threatening, requires hospitalization or prolongation of existing hospitalization, results in disability/incapacity or is a congenital anomaly/birth defect in the offspring of a study patient.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with at least 1 adverse event of special interest (AESI) from first administered dose up to 30 days after last dose (second vaccination occurs on Day 31)</measure>
+    <time_frame>From Day 1 to Day 60</time_frame>
+    <description>Potential immune-mediated diseases (pIMDs) are a subset of AESIs that include autoimmune diseases and other inflammatory and/or neurologic disorders of interest which may or may not have an autoimmune etiology. Other AESIs are COVID-19 cases (any suspected, probable or confirmed case of COVID-19 should be reported by the principal investigator as AESI, as defined by World Health Organization).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with at least 1 MAE from first administered dose up to study conclusion</measure>
+    <time_frame>From Day 1 to Day 391</time_frame>
+    <description>A MAE is an AE for which the participants received medical attention defined as hospitalization, or an otherwise unscheduled visit to or from medical personnel for any reason, including emergency room visits.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with at least 1 SAE from first administered dose up to study conclusion</measure>
+    <time_frame>From Day 1 to Day 391</time_frame>
+    <description>An SAE is any untoward medical occurrence that results in death, is life-threatening, requires hospitalization or prolongation of existing hospitalization, results in disability/incapacity or is a congenital anomaly/birth defect in the offspring of a study patient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with at least 1 AESI from first administered dose up to study conclusion</measure>
+    <time_frame>From Day 1 to Day 391</time_frame>
+    <description>pIMDs are a subset of AESIs that include autoimmune diseases and other inflammatory and/or neurologic disorders of interest which may or may not have an autoimmune etiology. Other AESIs are COVID-19 cases (any suspected, probable or confirmed case of COVID-19 should be reported by the principal investigator as AESI, as defined by World Health Organization).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Spike immunoglobulin G (IgG) antibody geometric mean concentrations (GMCs) at pre-vaccination, first dose (first vaccination occurs on Day 1)</measure>
+    <time_frame>At Day 1</time_frame>
+    <description>Anti-Spike IgG antibodies GMCs are performed by enzyme-linked immunosorbent assay (ELISA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Spike IgG antibody GMCs at pre-vaccination, second dose (second vaccination occurs on Day 31)</measure>
+    <time_frame>At Day 31</time_frame>
+    <description>Anti-Spike IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Spike IgG antibody GMCs at 1 month after last dose (second vaccination occurs on Day 31)</measure>
+    <time_frame>At Day 61</time_frame>
+    <description>Anti-Spike IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Nucleocapsid IgG antibody GMCs at pre-vaccination, first dose (first vaccination occurs on Day 1)</measure>
+    <time_frame>At Day 1</time_frame>
+    <description>Anti-Nucleocapsid IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Nucleocapsid IgG antibody GMCs at pre-vaccination, second dose (second vaccination occurs on Day 31)</measure>
+    <time_frame>At Day 31</time_frame>
+    <description>Anti-Nucleocapsid IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of Anti-Nucleocapsid IgG antibody GMCs at 1 month after last dose (second vaccination occurs on Day 31)</measure>
+    <time_frame>At Day 61</time_frame>
+    <description>Anti-Nucleocapsid IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 neutralizing antibody Geometric Mean Titers (GMTs) at pre-vaccination, first dose (first vaccination occurs on Day 1)</measure>
+    <time_frame>At Day 1</time_frame>
+    <description>SARS-CoV-2 neutralizing antibody GMTs are performed by neutralization assay.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 neutralizing antibody GMTs at pre-vaccination, second dose (second vaccination occurs on Day 31)</measure>
+    <time_frame>At Day 31</time_frame>
+    <description>SARS-CoV-2 neutralizing antibody GMTs are performed by neutralization assay.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 neutralizing antibody GMTs at 1 month after last dose (second vaccination occurs on Day 31)</measure>
+    <time_frame>At Day 61</time_frame>
+    <description>SARS-CoV-2 neutralizing antibody GMTs are performed by neutralization assay.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Spike IgG antibody GMCs at Day 8</measure>
+    <time_frame>At Day 8</time_frame>
+    <description>Anti-Spike IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Spike IgG antibody GMCs at Day 15</measure>
+    <time_frame>At Day 15</time_frame>
+    <description>Anti-Spike IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Spike IgG antibody GMCs at Day 38</measure>
+    <time_frame>At Day 38</time_frame>
+    <description>Anti-Spike IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Spike IgG antibody GMCs at Day 45</measure>
+    <time_frame>At Day 45</time_frame>
+    <description>Anti-Spike IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Nucleocapsid IgG antibody GMCs at Day 8</measure>
+    <time_frame>At Day 8</time_frame>
+    <description>Anti-Nucleocapsid IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Nucleocapsid IgG antibody GMCs at Day 15</measure>
+    <time_frame>At Day 15</time_frame>
+    <description>Anti-Nucleocapsid IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Nucleocapsid IgG antibody GMCs at Day 38</measure>
+    <time_frame>At Day 38</time_frame>
+    <description>Anti-Nucleocapsid IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Nucleocapsid IgG antibody GMCs at Day 45</measure>
+    <time_frame>At Day 45</time_frame>
+    <description>Anti-Nucleocapsid IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Spike IgG antibody GMCs at Month 4</measure>
+    <time_frame>At Month 4</time_frame>
+    <description>Anti-Spike IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Spike IgG antibody GMCs at Month 7</measure>
+    <time_frame>At Month 7</time_frame>
+    <description>Anti-Spike IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Spike IgG antibody GMCs at Month 10</measure>
+    <time_frame>At Month 10</time_frame>
+    <description>Anti-Spike IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Spike IgG antibody GMCs at Month 13</measure>
+    <time_frame>At Month 13</time_frame>
+    <description>Anti-Spike IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Nucleocapsid IgG antibody GMCs at Month 4</measure>
+    <time_frame>At Month 4</time_frame>
+    <description>Anti-Nucleocapsid IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Nucleocapsid IgG antibody GMCs at Month 7</measure>
+    <time_frame>At Month 7</time_frame>
+    <description>Anti-Nucleocapsid IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Nucleocapsid IgG antibody GMCs at Month 10</measure>
+    <time_frame>At Month 10</time_frame>
+    <description>Anti-Nucleocapsid IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 Anti-Nucleocapsid IgG antibody GMCs at Month 13</measure>
+    <time_frame>At Month 13</time_frame>
+    <description>Anti-Nucleocapsid IgG antibody GMCs are performed by ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 neutralizing antibody GMTs at Month 4</measure>
+    <time_frame>At Month 4</time_frame>
+    <description>SARS-CoV-2 neutralizing antibody GMTs are performed by neutralization assay.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 neutralizing antibody GMTs at Month 7</measure>
+    <time_frame>At Month 7</time_frame>
+    <description>SARS-CoV-2 neutralizing antibody GMTs are performed by neutralization assay.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 neutralizing antibody GMTs at Month 10</measure>
+    <time_frame>At Month 10</time_frame>
+    <description>SARS-CoV-2 neutralizing antibody GMTs are performed by neutralization assay.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immune response in terms of SARS-CoV-2 neutralizing antibody GMTs at Month 13</measure>
+    <time_frame>At Month 13</time_frame>
+    <description>SARS-CoV-2 neutralizing antibody GMTs are performed by neutralization assay.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cell mediated immune (CMI) response in terms of frequency of SARS-CoV-2 Spike-specific Cluster of Differentiation (CD) 4+ and CD8+ T-cells secreting at least 2 cytokines at pre-vaccination, first dose (first vaccination occurs on Day 1)</measure>
+    <time_frame>At Day 1</time_frame>
+    <description>SARS-CoV-2 Spike-specific cytokine producing CD4+ and CD8+ T-cell responses is measured by flow cytometry using intracellular cytokine staining (ICS).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CMI response in terms of frequency of SARS-CoV-2 Spike-specific CD4+ and CD8+ T-cells secreting at least 2 cytokines at pre-vaccination, second dose (second vaccination occurs on Day 31)</measure>
+    <time_frame>At Day 31</time_frame>
+    <description>SARS-CoV-2 Spike-specific cytokine producing CD4+ and CD8+ T-cell responses is measured by flow cytometry using ICS.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CMI response in terms of frequency of SARS-CoV-2 Spike-specific CD4+ and CD8+ T-cells secreting at least 2 cytokines at Day 61</measure>
+    <time_frame>At Day 61</time_frame>
+    <description>SARS-CoV-2 Spike-specific cytokine producing CD4+ and CD8+ T-cell responses is measured by flow cytometry using ICS.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CMI response in terms of frequency of SARS-CoV-2 Spike-specific CD4+ and CD8+ T-cells secreting at least 2 cytokines at Day 121</measure>
+    <time_frame>At Day 121</time_frame>
+    <description>SARS-CoV-2 Spike-specific cytokine producing CD4+ and CD8+ T-cell responses is measured by flow cytometry using ICS.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CMI response in terms of frequency of SARS-CoV-2 Spike-specific CD4+ and CD8+ T-cells secreting at least 2 cytokines at Day 391</measure>
+    <time_frame>At Day 391</time_frame>
+    <description>SARS-CoV-2 Spike-specific cytokine producing CD4+ and CD8+ T-cell responses is measured by flow cytometry using ICS.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Virus Diseases</condition>
+  <arm_group>
+    <arm_group_label>1 µg CoV2 SAM (LNP) Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants aged 18-50 years, allocated in the 1 µg COV2 SAM (LNP) Group receive 2 doses of 1 µg CoV2 SAM (LNP) vaccine 30 days apart, at day 1 and day 31 and are followed up until the study end.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3 µg CoV2 SAM (LNP) Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants aged 18-50 years, allocated in the 3 µg COV2 SAM (LNP) Group receive 2 doses of 3 µg CoV2 SAM (LNP) vaccine 30 days apart, at day 1 and day 31 and are followed up until the study end.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>10 µg CoV2 SAM (LNP) Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants aged 18-50 years, allocated in the 10 µg COV2 SAM (LNP) Group receive 2 doses of 10 µg CoV2 SAM (LNP) vaccine 30 days apart, at day 1 and day 31 and are followed up until the study end.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>30 µg CoV2 SAM (LNP) Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants aged 18-50 years, allocated in the 30 µg COV2 SAM (LNP) Group receive 2 doses of 30 µg CoV2 SAM (LNP) vaccine 30 days apart, at day 1 and day 31 and are followed up until the study end.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>1 µg CoV2 SAM (LNP)</intervention_name>
+    <description>2 doses of 1 µg CoV2 SAM (LNP) vaccine in 0,1-month schedule, administered IM in the deltoid of the non-dominant arm.</description>
+    <arm_group_label>1 µg CoV2 SAM (LNP) Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>3 µg CoV2 SAM (LNP)</intervention_name>
+    <description>2 doses of 3 µg CoV2 SAM (LNP) vaccine in 0,1-month schedule, administered IM in the deltoid of the non-dominant arm.</description>
+    <arm_group_label>3 µg CoV2 SAM (LNP) Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>10 µg CoV2 SAM (LNP)</intervention_name>
+    <description>2 doses of 10 µg CoV2 SAM (LNP) vaccine in 0,1-month schedule, administered IM in the deltoid of the non-dominant arm.</description>
+    <arm_group_label>10 µg CoV2 SAM (LNP) Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>30 µg CoV2 SAM (LNP)</intervention_name>
+    <description>2 doses of 30 µg CoV2 SAM (LNP) vaccine in 0,1-month schedule, administered IM in the deltoid of the non-dominant arm.</description>
+    <arm_group_label>30 µg CoV2 SAM (LNP) Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants who, in the opinion of the investigator, can and will comply with the&#xD;
+             requirements of the protocol.&#xD;
+&#xD;
+          -  Written or thumb printed informed consent obtained from the participant prior to&#xD;
+             performance of any study specific procedure.&#xD;
+&#xD;
+          -  Healthy participants as established by medical history and clinical examination before&#xD;
+             entering into the study.&#xD;
+&#xD;
+          -  A male or female between, and including, 18 and 50 years of age at the time of first&#xD;
+             study intervention administration.&#xD;
+&#xD;
+          -  Body Mass Index&gt;18 Kg/m^2 and &lt;30 Kg/m^2.&#xD;
+&#xD;
+          -  Participants with following hematological/biochemical parameters:&#xD;
+&#xD;
+          -  White Blood Cells within the study designated laboratory normal range. Participants&#xD;
+             with FDA toxicity grade 1 differential cell counts and considered not clinically&#xD;
+             significant may be enrolled at the discretion of the investigator, and with the review&#xD;
+             and approval of the medical monitor.&#xD;
+&#xD;
+          -  Platelets = 125,000 - 500,000 cells/mm^3.&#xD;
+&#xD;
+          -  Hemoglobin within normal range of the study designated laboratory.&#xD;
+&#xD;
+          -  Alanine aminotransferase within the study designated laboratory normal range.&#xD;
+&#xD;
+          -  Aspartate aminotransferase within the study designated laboratory normal range Total&#xD;
+             bilirubin within the study designated laboratory normal range.&#xD;
+&#xD;
+          -  Alkaline phosphatase within the study designated laboratory normal range.&#xD;
+&#xD;
+          -  Serum creatinine less than or equal to 1.1 times study designated laboratory's upper&#xD;
+             limit of normal.&#xD;
+&#xD;
+          -  Seronegative for hepatitis B surface antigen, hepatitis C virus antibodies, or human&#xD;
+             immunodeficiency virus antibodies.&#xD;
+&#xD;
+          -  Female participants of non-childbearing potential may be enrolled in the study.&#xD;
+             Non-childbearing potential is defined as pre-menarche, current bilateral tubal&#xD;
+             ligation or occlusion, hysterectomy, bilateral ovariectomy or post-menopause.&#xD;
+&#xD;
+          -  Female participants of childbearing potential may be enrolled in the study, if the&#xD;
+             participant:&#xD;
+&#xD;
+          -  has practiced adequate contraception for 1 month prior to study intervention&#xD;
+             administration, and,&#xD;
+&#xD;
+          -  has a negative pregnancy test on the day of study intervention administration, and,&#xD;
+&#xD;
+          -  has agreed to continue adequate contraception during the entire treatment period and&#xD;
+             for 2 months after completion of the study intervention administration series.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Medical conditions&#xD;
+&#xD;
+          -  Individuals with signs and symptoms consistent with COVID-19, according to CDC&#xD;
+             guidelines and following clinical judgement.&#xD;
+&#xD;
+          -  Nasal and/or oral swab positive for SARS-CoV-2 by RT-PCR within the last 30 days,&#xD;
+             unless participant has had a subsequent negative swab and is asymptomatic.&#xD;
+&#xD;
+          -  Close contact (within 30 days prior to study intervention administration) with anyone&#xD;
+             known to have SARS-CoV-2 infection.&#xD;
+&#xD;
+          -  Individuals currently working in occupations with high risk of exposure to SARS-CoV-2&#xD;
+             (e.g., healthcare workers, emergency response personnel).&#xD;
+&#xD;
+          -  Any confirmed or suspected immunosuppressive/immunodeficient condition based on&#xD;
+             medical history and physical examination.&#xD;
+&#xD;
+          -  Family history of congenital/hereditary immunodeficiency.&#xD;
+&#xD;
+          -  History of or current autoimmune disease.&#xD;
+&#xD;
+          -  History of any reaction/hypersensitivity likely to be exacerbated by any components of&#xD;
+             the study intervention.&#xD;
+&#xD;
+          -  History of hypersensitivity/severe allergic reaction to any previous&#xD;
+             licensed/unlicensed vaccine.&#xD;
+&#xD;
+          -  Lymphoproliferative disorder/malignancy within previous 5 years (excluding effectively&#xD;
+             treated non-melanotic skin cancer).&#xD;
+&#xD;
+          -  History of recurrent anemia within the last 6 months.&#xD;
+&#xD;
+          -  Hypersensitivity to latex.&#xD;
+&#xD;
+          -  Any acute/chronic, clinically significant disease The following conditions will be&#xD;
+             exclusionary:&#xD;
+&#xD;
+          -  Diabetes mellitus (type I or II), with exception of gestational diabetes.&#xD;
+&#xD;
+          -  Respiratory disease such as:&#xD;
+&#xD;
+          -  Chronic Pulmonary diseases,&#xD;
+&#xD;
+          -  Bronchopulmonary dysplasia,&#xD;
+&#xD;
+          -  Uncontrolled asthma/asthma necessitating treatment with chronic systemic/inhaled&#xD;
+             glucocorticoids.&#xD;
+&#xD;
+          -  Significant and/or uncontrolled psychiatric illness:&#xD;
+&#xD;
+          -  hospitalization for psychiatric illness, history of suicide attempts/confinement for&#xD;
+             danger to self/others within 5 years,&#xD;
+&#xD;
+          -  clinically significant depression.&#xD;
+&#xD;
+          -  Major neurological disease including:&#xD;
+&#xD;
+          -  seizure or adulthood epilepsy (note: history of febrile convulsion in childhood is not&#xD;
+             exclusionary),&#xD;
+&#xD;
+          -  myasthenia gravis,&#xD;
+&#xD;
+          -  history of repetitive migraine mal/status migrainosus.&#xD;
+&#xD;
+          -  Significant cardiovascular disease, including:&#xD;
+&#xD;
+          -  Uncontrolled arterial hypertension,&#xD;
+&#xD;
+          -  Congenital heart disease,&#xD;
+&#xD;
+          -  Previous myocardial infarction,&#xD;
+&#xD;
+          -  Valvular heart disease or history of rheumatic fever,&#xD;
+&#xD;
+          -  Previous bacterial endocarditis,&#xD;
+&#xD;
+          -  History of cardiac surgery,&#xD;
+&#xD;
+          -  Personal/ family history of cardiomyopathy/sudden adult death.&#xD;
+&#xD;
+          -  Asplenia, functional asplenia/any condition resulting in the absence/removal of the&#xD;
+             spleen.&#xD;
+&#xD;
+          -  Hereditary angioedema, acquired angioedema/ idiopathic forms of angioedema.&#xD;
+&#xD;
+          -  History of, or concurrent, autoimmune thyroid disease regardless of treatment and&#xD;
+             thyroid status as well as any uncontrolled thyroid disease.&#xD;
+&#xD;
+          -  Idiopathic urticaria within the past year.&#xD;
+&#xD;
+          -  Any other significant uncontrolled medical illness within 3 months prior to study&#xD;
+             intervention administration.&#xD;
+&#xD;
+          -  Acute illness and/or fever at the time of screening. Participants with acute illness&#xD;
+             and/ or fever at the time of screening may be re screened later.&#xD;
+&#xD;
+          -  Participants with a minor illness without fever may be enrolled.&#xD;
+&#xD;
+          -  Any other clinical condition that might pose additional risk to the participant due to&#xD;
+             participation in the study.&#xD;
+&#xD;
+        Prior/Concomitant therapy&#xD;
+&#xD;
+          -  Use of any investigational or non-registered product other than the study&#xD;
+             intervention(s) during the period beginning 45 days before the first dose (Day -45 to&#xD;
+             Day 1), or their planned use during the study.&#xD;
+&#xD;
+          -  Planned administration/administration of a vaccine not foreseen by the study protocol&#xD;
+             in the period starting 30 days before the vaccination and ending 30 days after, with&#xD;
+             the exception of any licensed influenza vaccine which may be administered &gt;15 days&#xD;
+             before/after vaccination.&#xD;
+&#xD;
+          -  Administration of long-acting immune-modifying drugs at any time during the study&#xD;
+&#xD;
+          -  Administration of immunoglobulins and/or any blood products or plasma derivatives&#xD;
+             during the period starting 3 months before the administration of the first dose until&#xD;
+             study end.&#xD;
+&#xD;
+          -  Chronic administration of immunosuppressants/other immune-modifying drugs during the&#xD;
+             period starting 6 months prior to the first dose. For corticosteroids, this will mean&#xD;
+             prednisone equivalent &gt;10 mg/day. Topical steroids are allowed.&#xD;
+&#xD;
+        Prior/Concurrent clinical study experience&#xD;
+&#xD;
+          -  Receipt of any other SARS-CoV-2 or other experimental coronavirus vaccine at any time&#xD;
+             prior to or during the study&#xD;
+&#xD;
+          -  Concurrently participating in another clinical study, at any time during the study&#xD;
+             period, in which the participant has been/will be exposed to an investigational/a&#xD;
+             non-investigational intervention&#xD;
+&#xD;
+        Other exclusions&#xD;
+&#xD;
+          -  Pregnant/lactating female&#xD;
+&#xD;
+          -  Female planning to become pregnant/planning to discontinue contraceptive precautions&#xD;
+&#xD;
+          -  Alcohol and/or drug abuse.&#xD;
+&#xD;
+          -  Current/history of chronic tobacco/marijuana smoking/vaping.&#xD;
+&#xD;
+          -  Participants with extensive tattoos covering deltoid region on both the arms that&#xD;
+             would preclude the assessment of local reactogenicity.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>US GSK Clinical Trials Call Center</last_name>
+    <phone>877-379-3718</phone>
+    <email>GSKClinicalSupportHD@gsk.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>EU GSK Clinical Trials Call Center</last_name>
+    <phone>+44 (0) 20 89904466</phone>
+    <email>GSKClinicalSupportHD@gsk.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Matthew G Davis</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 17, 2021</study_first_posted>
+  <last_update_submitted>February 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Virus Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>IPD for this study will be made available via the Clinical Study Data Request site.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>IPD will be made available within 6 months of publishing the results of the primary endpoints of the study.</ipd_time_frame>
+    <ipd_access_criteria>Access is provided after a research proposal is submitted and has received approval from the Independent Review Panel and after a Data Sharing Agreement is in place. Access is provided for an initial period of 12 months but an extension can be granted, when justified, for up to another 12 months.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

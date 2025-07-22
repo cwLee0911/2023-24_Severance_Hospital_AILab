@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2712">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04357886</url>
+  </required_header>
+  <id_info>
+    <org_study_id>60350273-605.99-</org_study_id>
+    <nct_id>NCT04357886</nct_id>
+  </id_info>
+  <brief_title>Awareness of COVID-19 in Turkey</brief_title>
+  <official_title>The Comparison of New Coronavirus (COVID-19) Awareness in Individuals of Different Age Groups: Analysis of Turkey</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istanbul University-Cerrahpasa</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istanbul University-Cerrahpasa</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Because COVID-19 is a new virus, it is believed that awareness assessment will inform and&#xD;
+      guide what steps should be taken and which groups should be targeted in terms of controlling&#xD;
+      the pandemic. According to our hypothesis, COVID-19 awareness of individuals in different age&#xD;
+      groups in the Turkish population also varies. There are controlling pratices based on&#xD;
+      scientific studies made during the outbreak, but there is no certainty as to how much these&#xD;
+      measures are known by our society. Based on these, the aim of our study was to investigate&#xD;
+      and compare the awareness of new Coronavirus (COVID-19) in different age groups across&#xD;
+      Turkey.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Statistical Analysis: In the statistical analysis of the data obtained at the end of the&#xD;
+      study, SPSS (Statistical Package for Social Sciences / SPSS 21.0) was analyzed using the&#xD;
+      statistical program. In the study, arithmetic averages are presented with tables and graphs&#xD;
+      as mean ± SD (standard deviation) and values indicated by counting in numbers (percent).&#xD;
+      Demographic information of the participants and their responses to the questionnaire&#xD;
+      questions were evaluated using descriptive statistical analysis method. In the study,&#xD;
+      Independent Sample t Test was used in parametric data and ANOVA was used in normal&#xD;
+      non-parametric data. In all analyzes, p &lt;0,05 was considered statistically significant.&#xD;
+&#xD;
+      Sampling: Sample size was calculated based on the number of questions asked. Accordingly, the&#xD;
+      number of questions multiplied by the formula of 60 is the lower limit (42*60=2520).&#xD;
+      Considering the 20% probability of a drop-out and the fact that participants did not want to&#xD;
+      volunteer, it was decided to take 3150 people to the study. Consent will be obtained from the&#xD;
+      participants through a voluntary information form.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 15, 2020</start_date>
+  <completion_date type="Actual">June 1, 2020</completion_date>
+  <primary_completion_date type="Actual">June 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID-19 Awareness Survey</measure>
+    <time_frame>once at baseline of study</time_frame>
+    <description>The questionnaire was prepared by the researchers. There are 49 questions in the survey and all of them are multiple choice. The survey assesses the demographic characteristics, awareness and attitudes of the participants towards the COVID-19.</description>
+  </primary_outcome>
+  <enrollment type="Actual">2605</enrollment>
+  <condition>Healthy</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        people of diffirent age groups throughout Turkey&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Having at least primary education&#xD;
+&#xD;
+          -  Being literate in Turkish&#xD;
+&#xD;
+          -  There is a level of cooperation to understand the evaluations&#xD;
+&#xD;
+          -  Agree to participate in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Those with audio and visual problems that prevent communication&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ipek Yeldan, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Istanbul University-Cerrahpasa</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Istanbul University-Cerrahpasa</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <link>
+    <url>http://who.sprinklr.com</url>
+    <description>access to current data about the COVID-19 in the world</description>
+  </link>
+  <link>
+    <url>http://covid19.saglik.gov.tr/</url>
+    <description>access to current data about the COVID-19 in Turkey</description>
+  </link>
+  <reference>
+    <citation>Rothan HA, Byrareddy SN. The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak. J Autoimmun. 2020 May;109:102433. doi: 10.1016/j.jaut.2020.102433. Epub 2020 Feb 26. Review.</citation>
+    <PMID>32113704</PMID>
+  </reference>
+  <reference>
+    <citation>Li H, Liu SM, Yu XH, Tang SL, Tang CK. Coronavirus disease 2019 (COVID-19): current status and future perspectives. Int J Antimicrob Agents. 2020 May;55(5):105951. doi: 10.1016/j.ijantimicag.2020.105951. Epub 2020 Mar 29.</citation>
+    <PMID>32234466</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>April 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 22, 2020</study_first_posted>
+  <last_update_submitted>March 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Istanbul University-Cerrahpasa</investigator_affiliation>
+    <investigator_full_name>Saliha Gürdal Karakelle</investigator_full_name>
+    <investigator_title>Research Assistant</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Pandemic</keyword>
+  <keyword>Knowledge and Awareness</keyword>
+  <keyword>Adolescent</keyword>
+  <keyword>Adults</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

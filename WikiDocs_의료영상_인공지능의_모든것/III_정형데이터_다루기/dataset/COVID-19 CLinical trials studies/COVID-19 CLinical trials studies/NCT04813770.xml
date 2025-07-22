@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="384">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04813770</url>
+  </required_header>
+  <id_info>
+    <org_study_id>200200052</org_study_id>
+    <nct_id>NCT04813770</nct_id>
+  </id_info>
+  <brief_title>The Impact of Theory-based Messaging on Covid-19 Vaccination Intentions</brief_title>
+  <official_title>The Impact of Theory-based Messaging on Covid-19 Vaccination Intentions</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Glasgow</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Glasgow</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Uptake of vaccination against COVID-19 is key to controlling the pandemic. However, a&#xD;
+      significant proportion of people report that they do not intend to have a vaccine, often&#xD;
+      because of concerns they have about its side effects or safety. It is important to identify&#xD;
+      ways to communicate information about the vaccines that facilitate informed decisions rather&#xD;
+      than promoting uptake through coercion. This study will assess whether theory-based messages&#xD;
+      can change beliefs and increase intentions to receive a COVID-19 vaccine in Scotland. The&#xD;
+      messages will be based on publicly available information about the need for COVID-19&#xD;
+      vaccination and the safety of the vaccines, and structured to address specific types of&#xD;
+      treatment beliefs. Participants will be randomised to either a group shown the messages or a&#xD;
+      control group shown general information messages about the COVID-19 virus and vaccination&#xD;
+      programme. By comparing the two groups we aim to test what impact the theory-based messages&#xD;
+      have on intentions and beliefs about COVID-19 vaccination.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Single (Investigator)</masking>
+    <masking_description>Participants will not be blinded to the assigned intervention but will not be informed of the purpose of the study until they have completed the follow-up survey, at which point they will be debriefed. Investigators will be blinded to allocation because all procedures will be undertaken digitally and remotely without any investigator contact with participants.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Covid-19 vaccination intention measured by a single item and aggregated as the proportion of intenders.</measure>
+    <time_frame>Immediately post-intervention</time_frame>
+    <description>Participants will be asked: &quot;If you were invited to have a COVID-19 vaccination would you take the vaccine?&quot; Those responding &quot;yes, probably&quot; or &quot;yes, definitely&quot; will be treated as intenders. Those responding &quot;don't know&quot;, &quot;probably not&quot; or &quot;definitely not&quot; will be treated as non-intenders.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean COVID-19 illness coherence score as assessed by the IPQ-R</measure>
+    <time_frame>Immediately post-intervention</time_frame>
+    <description>Self-reported COVID-19 illness coherence as assessed by the the illness coherence subscale of the revised Illness Perception Questionnaire (IPQ-R), with a minimum score of 5, a maximum score of 25 and a higher score representing greater personal understanding of COVID-19.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean perceived necessity score as assessed by the BMQ</measure>
+    <time_frame>Immediately post-intervention</time_frame>
+    <description>Self-reported perceived necessity of a COVID-19 vaccine as assessed by the Specific-Necessity subscale of the Beliefs about Medicines Questionnaire (BMQ), with a minimum score of 5, a maximum score of 25 and a higher score representing greater perceived necessity of a COVID-19 vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean perceived concerns score as assessed by the BMQ</measure>
+    <time_frame>Immediately post-intervention</time_frame>
+    <description>Self-reported perceived concerns about a COVID-19 vaccine as assessed by the Specific-Concerns subscale of the Beliefs about Medicines Questionnaire (BMQ), with a minimum score of 5, a maximum score of 25 and a higher score representing greater perceived concerns about a COVID-19 vaccine.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1094</enrollment>
+  <condition>Vaccination</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Theory-based messages</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Theory-based health messages about COVID-19 and COVID-19 vaccination, the necessity of COVID-19 vaccination to oneself and others, and COVID-19 vaccine regulatory approval processes. These messages are based on publicly available information and are hypothesised to increase perceived necessity and reduce concerns about vaccination, and target known barriers to vaccine uptake.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>General messages</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>General messages about the COVID-19 virus and the vaccination programme. These messages do not target necessity and concerns, but are anticipated to promote understanding of the pandemic.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Theory-based messages</intervention_name>
+    <description>COVID-19 vaccination information structured to address vaccination necessity and concerns.</description>
+    <arm_group_label>Theory-based messages</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>General messages</intervention_name>
+    <description>General messages about the COVID-19 virus and the vaccination programme.</description>
+    <arm_group_label>General messages</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Willing and able to give informed consent for participation in the trial&#xD;
+&#xD;
+          -  Aged 18 years or above&#xD;
+&#xD;
+          -  Resident in Scotland&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Received at least one COVID-19 vaccination dose&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Katie Robb</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Glasgow</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ben Young</last_name>
+    <email>ben.young@glasgow.ac.uk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Glasgow</name>
+      <address>
+        <city>Glasgow</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Ben Young</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Katie Robb</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 24, 2021</study_first_posted>
+  <last_update_submitted>March 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Glasgow</investigator_affiliation>
+    <investigator_full_name>Katie Robb</investigator_full_name>
+    <investigator_title>Dr</investigator_title>
+  </responsible_party>
+  <keyword>vaccine hesitancy</keyword>
+  <keyword>vaccination uptake</keyword>
+  <keyword>messaging</keyword>
+  <keyword>illness beliefs</keyword>
+  <keyword>treatment beliefs</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Anonymised individual level study data will be shared via the University of Glasgow's repository Enlighten: Research Data.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>On publication of the study results for a period of ten years.</ipd_time_frame>
+    <ipd_access_criteria>Data will be made publicly available.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

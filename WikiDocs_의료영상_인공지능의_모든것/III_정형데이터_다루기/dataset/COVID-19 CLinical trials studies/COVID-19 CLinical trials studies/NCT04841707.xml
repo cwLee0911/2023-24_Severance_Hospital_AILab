@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1219">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04841707</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1697954</org_study_id>
+    <nct_id>NCT04841707</nct_id>
+  </id_info>
+  <brief_title>Total-Body Parametric 18F-FDG PET of COVID-19</brief_title>
+  <official_title>Total-Body Parametric 18F-FDG PET of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Davis</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, Davis</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective is to measure the change between COVID-19 patients and normal subjects;&#xD;
+      the secondary objective is to measure the change in COVID-19 patients between baseline and&#xD;
+      4-month follow up.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 22, 2021</start_date>
+  <completion_date type="Anticipated">February 22, 2023</completion_date>
+  <primary_completion_date type="Anticipated">February 22, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>BAB permeability assessed</measure>
+    <time_frame>1 imaging visit up to 60 minutes</time_frame>
+    <description>Evaluating if there is a change in BAB permeability assessed by lung FDG K1 for patients with COVID 19</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>4 month follow-up PET/CT scan</measure>
+    <time_frame>1 imaging visit up to 60 minutes</time_frame>
+    <description>Evaluate the change in the scans between baseline scan and 4-month follow-up scan by assessing the pulmonary blood-air barrier permeability to glucose</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>uEXPLORER/mCT</intervention_name>
+    <description>Each participant will undergo two 18F-FDG PET/CT scans, one at baseline and one at 4- month (+/- 2 weeks) follow-up.</description>
+    <arm_group_label>COVID-19 patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  COVID-19 positive patients will have a previous positive COVID-19 test and&#xD;
+             radiographic findings, and/or a positive SARS-CoV-2 antibody test and be in early&#xD;
+             recovery.&#xD;
+&#xD;
+          -  First PET/CT visit needs to be within 8 weeks of COVID-19 diagnosis.&#xD;
+&#xD;
+          -  Ability to understand and willingness to sign an informed consent form.&#xD;
+&#xD;
+          -  Ability to adhere to the study visit schedule and other protocol requirements.&#xD;
+&#xD;
+          -  All persons ≥18 years of age.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant or lactating women.&#xD;
+&#xD;
+          -  Any condition that would prohibit the understanding or rendering of informed consent.&#xD;
+&#xD;
+          -  Unable to lie supine for 1-hour imaging with PET.&#xD;
+&#xD;
+          -  Prisoners.&#xD;
+&#xD;
+          -  Any comorbidity that, in the opinion of the investigator, could compromise protocol&#xD;
+             objectives.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Guobao Wang, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, Davis</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lynda Painting</last_name>
+    <phone>916-731-9004</phone>
+    <email>lpainting@ucdavis.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Dana Little, MS</last_name>
+    <phone>916-734-7749</phone>
+    <email>dalittle@ucdavis.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of California, Davis</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lynda Painting, BS</last_name>
+      <phone>916-731-9004</phone>
+      <email>lpainting@ucdavis.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Dana Little, MS</last_name>
+      <phone>916-734-7749</phone>
+      <email>dalittle@ucdavis.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 12, 2021</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2391">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04754633</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020/588</org_study_id>
+    <nct_id>NCT04754633</nct_id>
+  </id_info>
+  <brief_title>Comparison of Chest CT Findings Related to COVID-19 With RSNA and BSTI Guidelines</brief_title>
+  <official_title>Comparison of Chest CT Findings Related to COVID-19 With RSNA and BSTI Guidelines: Correlation Between Radiologists</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Seyhmus Kavak</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Saglik Bilimleri Universitesi Gazi Yasargil Training and Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Saglik Bilimleri Universitesi Gazi Yasargil Training and Research Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To present the first admission chest computed tomography (CT) findings of patients followed&#xD;
+      up with a diagnosis of COVID-19, and to compare the two classification systems by evaluating&#xD;
+      these findings according to the BSTI and RSNA guidelines.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A total of 764 adult patients who were diagnosed with COVID-19 inpatient of researchers'&#xD;
+      hospital 2020 were included in this study. The findings were recorded as typical,&#xD;
+      indeterminate, and atypical by the RSNA guidelines and as classical COVID-19, possible&#xD;
+      COVID-19, indeterminate, and non-COVID-19 by the BSTI classification. The data obtained&#xD;
+      according to both classification systems were compared with each other.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Actual">July 20, 2020</completion_date>
+  <primary_completion_date type="Actual">July 20, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Current study evaluating the success of the guidelines recommended by RSNA and BSTI in detecting COVID-19 disease</measure>
+    <time_frame>1st week from the moment of first admission</time_frame>
+    <description>Kappa correlation analysis was performed between radiologists in the evaluation of chest CT findings of COVID-19 disease according to BSTI and RSNA guidelines.</description>
+  </primary_outcome>
+  <enrollment type="Actual">764</enrollment>
+  <condition>Covid19</condition>
+  <condition>Infection Viral</condition>
+  <condition>CT Scan</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Subjects who applied to the emergency department with the diagnosis of COVID-19 and had&#xD;
+        chest CT examination between 07.01.2020 and 07.20.2020.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Who had single negative RT-PCR&#xD;
+&#xD;
+          2. Non-optimal chest CT , insufficient data&#xD;
+&#xD;
+          3. &lt;18 age of year&#xD;
+&#xD;
+          4. Thoracic trauma&#xD;
+&#xD;
+          5. Chest CT Negative&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. RT-PCR positive and chest CT positive findings&#xD;
+&#xD;
+          2. At least two RT-PCR negative and chest CT positive findings&#xD;
+&#xD;
+          3. &gt;18 age of year&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Sağlik Bilimleri Üniversitesi Training and Research Hospital</name>
+      <address>
+        <city>Diyarbakır</city>
+        <zip>21600</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 15, 2021</study_first_posted>
+  <last_update_submitted>February 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Saglik Bilimleri Universitesi Gazi Yasargil Training and Research Hospital</investigator_affiliation>
+    <investigator_full_name>Seyhmus Kavak</investigator_full_name>
+    <investigator_title>MD, Radiologist, Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Coronavirus</keyword>
+  <keyword>Computed Thomography</keyword>
+  <keyword>PCR</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Virus Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

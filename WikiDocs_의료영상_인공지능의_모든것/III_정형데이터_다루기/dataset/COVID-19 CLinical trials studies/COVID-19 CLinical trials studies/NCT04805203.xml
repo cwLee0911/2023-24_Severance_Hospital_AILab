@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="927">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04805203</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IFM 2020-08</org_study_id>
+    <nct_id>NCT04805203</nct_id>
+  </id_info>
+  <brief_title>Analysis of the Immune Parameters of COVID-19 Infection in Patients With Multiple Myeloma</brief_title>
+  <acronym>Covimmunomm</acronym>
+  <official_title>Analysis of the Immune Parameters Involved in the Onset and Fate of SARS-CoV-2 Infection in Patients With Multiple Myeloma (COVIMMUNOMM) COVID-19 and Multiple Myeloma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Intergroupe Francophone du Myelome</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Intergroupe Francophone du Myelome</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Among all MM patients included in the cohort at the time of diagnosis of SARS-CoV-2&#xD;
+      infection, blood samples will be collected at inclusion, at time of the infection acute phase&#xD;
+      in the most severe cases (when admitted in intensive care units), and at recovery. The&#xD;
+      following immune function tests will be evaluated, gammaglobulin measurements, lymphocytes&#xD;
+      counts, B, T, and NK cells analyses by cytometry, including exhaustion analyses. In addition,&#xD;
+      T cell repertoire sequencing looking for SARS-CoV-2- specific T cells, and serologies, will&#xD;
+      be evaluated at recovery and 6 months after MM treatment re-initiation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      MM is a hematological malignancy, supposed mainly not curable, except for some exceptional&#xD;
+      patients, despite the availability of numerous new drugs. The patients are highly susceptible&#xD;
+      to infections, both bacterial and viral, due to a defect immune status, both at the antibody&#xD;
+      level (hypogammaglobulinemia) and the cellular level. This immunosuppression is further&#xD;
+      worsened by the treatments, and especially high dose glucocorticoids used at each phase of&#xD;
+      the disease. Consequently, MM patients are highly susceptible to contract COVID19, and to&#xD;
+      develop a severe form. This has been confirmed in a first study in Spring, showing a&#xD;
+      mortality rate of 37%. Among all MM patients included in the cohort at the time of diagnosis&#xD;
+      of SARS-CoV-2 infection, blood samples will be collected at inclusion, at time of the&#xD;
+      infection acute phase in the most severe cases (when admitted in intensive care units), and&#xD;
+      at recovery. The following immune function tests will be evaluated, gammaglobulin&#xD;
+      measurements, lymphocytes counts, B, T, and NK cells analyses by cytometry, including&#xD;
+      exhaustion analyses. In addition, T cell repertoire sequencing looking for SARS-CoV-2-&#xD;
+      specific T cells, and serologies, will be evaluated at recovery and 6 months after MM&#xD;
+      treatment re-initiation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 16, 2020</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Characterize the immune laboratory parameters of Multiple Myeloma patients at the start of infection with COVID-19</measure>
+    <time_frame>up to one month following COVID-19 diagnosis</time_frame>
+    <description>gammaglobulin measurements in g/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Characterize the immune laboratory parameters of Multiple Myeloma patients at the cure of COVID-19</measure>
+    <time_frame>one month following COVID-19 diagnosis</time_frame>
+    <description>gammaglobulin measurements in g/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Characterize the immune laboratory parameters of Multiple Myeloma patients at the start of infection with COVID-19</measure>
+    <time_frame>up to one month following COVID-19 diagnosis</time_frame>
+    <description>lymphocytes counts in g/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Characterize the immune laboratory parameters of Multiple Myeloma patients at the cure of COVID-19</measure>
+    <time_frame>one month following COVID-19 diagnosis</time_frame>
+    <description>lymphocytes counts in g/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Characterize the immune laboratory parameters of Multiple Myeloma patients at the start of infection with COVID-19</measure>
+    <time_frame>up to one month following COVID-19 diagnosis</time_frame>
+    <description>number of cells B, T, and NK actived and inhibited</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Characterize the immune laboratory parameters of Multiple Myeloma patientsat the cure of COVID-19</measure>
+    <time_frame>one month following COVID-19 diagnosis</time_frame>
+    <description>number of cells B, T, and NK actived and inhibited</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation of patient immune function with death or development of protective immunity</measure>
+    <time_frame>up to 6 months following COVID-19 diagnosis</time_frame>
+    <description>number of death</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of patient with protective immune response</measure>
+    <time_frame>before the reintroduction of MM treatments, and 6 months later to evaluate if those treatments</time_frame>
+    <description>T cell repertoire sequencing looking for SARS-CoV-2- specific T cells, and serologies</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>blood samples</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>4 blood samples per patient maximum (at diagnosis of covid19, during intensive care if applicable, at revecory of covid 19 and 6 months after recovery.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>blood sample analyses</intervention_name>
+    <description>maximum 4 blood samples analyses per patient. At diagnosis of covid 19, in intensif care (if applicable), at covid19 recovery and 6 months after recovery</description>
+    <arm_group_label>blood samples</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with a multiple myeloma and a documented COVID19 (by RT-PCR, thoracic TDM,&#xD;
+             and/or antigenix test).&#xD;
+&#xD;
+          -  Patients having received the information to participate in the research and having&#xD;
+             expressed their non-opposition&#xD;
+&#xD;
+          -  Patients with social security insurance or equivalent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients without multiple myeloma&#xD;
+&#xD;
+          -  Patients without COVID19&#xD;
+&#xD;
+          -  Patients under juridical protection guardianship, or tutelage measure&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>110 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hervé Avet Loiseau, PU-PH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Intergroupe Francophone du Myelome</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>amandine huguet</last_name>
+    <phone>0531156338</phone>
+    <phone_ext>+33</phone_ext>
+    <email>a.huguet@myelome.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Chanaz Louni</last_name>
+    <email>c.louni@myelome.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHU Amiens SUD</name>
+      <address>
+        <city>Amiens</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>MAROLLEAU Jean-Pierre, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Hôpital du Bocage</name>
+      <address>
+        <city>Angers</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mamoun DIB, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ch Annecy Genevois</name>
+      <address>
+        <city>Annecy</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Frédérique ORSINI PIOCELLE, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Victor Dupouy</name>
+      <address>
+        <city>Argenteuil</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Driss CHAOUI</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH d'ARRAS</name>
+      <address>
+        <city>Arras</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Stéphane DARRE</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Auch</name>
+      <address>
+        <city>Auch</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>willy Vaillant, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier H.Duffaut</name>
+      <address>
+        <city>Avignon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hacene ZERAZHI, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Simone Veil de Blois</name>
+      <address>
+        <city>Blois</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Abderazzak EL YAMANI, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Bordeaux-hopital haut leveque</name>
+      <address>
+        <city>Bordeaux</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cyrille HULIN, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre hospitalier Pierre Oudot</name>
+      <address>
+        <city>Bourgoin-Jallieu</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Florence LACHENAL</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital A.Morvan</name>
+      <address>
+        <city>Brest</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jean-Richard EVEILLARD, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Caen</name>
+      <address>
+        <city>Caen</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Margaret MACRO, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH de Cannes</name>
+      <address>
+        <city>Cannes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Régis KAPHAN</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique du Parc</name>
+      <address>
+        <city>Castelnau-le-Lez</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Carole EXBRAYAT</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier William Morey</name>
+      <address>
+        <city>Chalon Sur Saone</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Laurent VOILLAT, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Métropole de Savoie</name>
+      <address>
+        <city>Chambéry</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pierre Faurie</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Sud Francilien</name>
+      <address>
+        <city>Corbeil-Essonnes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sophie CEREJA</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Henri Mondor</name>
+      <address>
+        <city>Créteil</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Karim BELHADJ</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH de Dax côte d'Argent</name>
+      <address>
+        <city>Dax</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>François LIFERMANN, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU François Mitterand</name>
+      <address>
+        <city>Dijon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Denis Caillot, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH de Dunkerque</name>
+      <address>
+        <city>Dunkerque</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU grenoble</name>
+      <address>
+        <city>Grenoble</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clara Mariette, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Daniel Hollard - Groupe Hospitalier Mutualiste de Grenoble</name>
+      <address>
+        <city>Grenoble</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Cécile LEYRONNAS</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH de Lens</name>
+      <address>
+        <city>Lens</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Daniela ROBU</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Claude Huriez-CHRU LILLE</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Salomon Manier</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Limoges</name>
+      <address>
+        <city>Limoges</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Arnaud Jaccard</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Lyon sud</name>
+      <address>
+        <city>Lyon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lionel Karlin, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Léon Bérard</name>
+      <address>
+        <city>Lyon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Paoli Calmettes</name>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>GHT des Landes</name>
+      <address>
+        <city>Mont-de-Marsan</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Reza TABRIZI</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU saint Eloi</name>
+      <address>
+        <city>Montpellier</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laure Vincent</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital E. MULLER</name>
+      <address>
+        <city>Mulhouse</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Muriel Newinger-Porte</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpitaux de Brabois - CHRU de Nancy</name>
+      <address>
+        <city>Nancy</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pierre FEUGIER</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Nantes</name>
+      <address>
+        <city>Nantes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cyrille TOUZEAU, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Archet 1</name>
+      <address>
+        <city>Nice</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Valentine RICHEZ, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Cochin</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marguerite VIGNON</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Saint Antoine</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mohamad MOHTY</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Necker Enfants Malades</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laurent FRENZEL, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Pitié-Salpêtrière</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Véronique Morel</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Poitiers</name>
+      <address>
+        <city>Poitiers</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xavier LELEU, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH René Dubos</name>
+      <address>
+        <city>Pontoise</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Riad BENRAMDANE, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Reims</name>
+      <address>
+        <city>Reims</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sophie GODET, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chu Pontchaillou</name>
+      <address>
+        <city>Rennes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Olivier Decaux, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Roubaix</name>
+      <address>
+        <city>Roubaix</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Isabelle DERVITE</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Henri Becquerel</name>
+      <address>
+        <city>Rouen</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Fabrice Jardin, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Yves Le Foll</name>
+      <address>
+        <city>Saint brieuc</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Olivier ALLANGBA, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut de Cancérologie Lucien Neuwirth</name>
+      <address>
+        <city>Saint-Priest</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Philippe COLLET</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier</name>
+      <address>
+        <city>Saint-Quentin</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Reda GARIDI</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ICANS</name>
+      <address>
+        <city>Strasbourg</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cecile SONNTAG, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Tarbes</name>
+      <address>
+        <city>Tarbes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Claire DINGREMONT, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Toulouse</name>
+      <address>
+        <city>Toulouse</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aurore Perrot, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Bretonneau</name>
+      <address>
+        <city>Tours</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Thomas CHALOPIN, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH de valenciennes</name>
+      <address>
+        <city>Valenciennes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Faiza KEDDAR, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Bretagne Atlantique Vannes et Auray-P.Chubert</name>
+      <address>
+        <city>Vannes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pascal Godmer, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHV André Mignot</name>
+      <address>
+        <city>Versailles</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sophie RIGAUDEAU</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>December 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 18, 2021</study_first_posted>
+  <last_update_submitted>March 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Multiple Myeloma</keyword>
+  <keyword>Covid19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

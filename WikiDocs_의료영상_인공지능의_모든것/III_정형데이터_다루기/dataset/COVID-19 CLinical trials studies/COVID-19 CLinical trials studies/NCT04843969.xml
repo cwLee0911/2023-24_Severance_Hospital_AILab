@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5485">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04843969</url>
+  </required_header>
+  <id_info>
+    <org_study_id>421-0318</org_study_id>
+    <nct_id>NCT04843969</nct_id>
+  </id_info>
+  <brief_title>Investigation of Cigarette Cravings in Smokers</brief_title>
+  <official_title>Investigating Stress-Potentiated Memory Updating as a Novel Intervention for Non-Treatment Seeking Smokers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Marco Leyton</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>McGill University Health Centre/Research Institute of the McGill University Health Centre</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Interventions to disrupt memory reconsolidation have held promise for the treatment of&#xD;
+      stress- and anxiety-related disorders. In the present study, the investigators will examine&#xD;
+      whether an intervention based on these principles, called memory updating, could be adapted&#xD;
+      for reward-seeking behaviors. To test this, non-treatment seeking tobacco smokers will be&#xD;
+      exposed to smoking cues and/or stress, two stimuli known to trigger smoking. It is predicted&#xD;
+      that exposure to a stress task will enhance the cues' motivational salience and yield greater&#xD;
+      susceptibility to the memory updating procedure.&#xD;
+&#xD;
+      As an add-on, the investigators will examine COVID-associated changes in substance use and&#xD;
+      whether participants in the memory updating groups might be more resilient to these effects.&#xD;
+      It is predicted that the changes in substance use will depend on whether the substances are&#xD;
+      used primarily in social settings.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Non-treatment seeking cigarette dependent smokers will be randomized to one of four testing&#xD;
+      conditions: 1) a non-stressful task followed by neutral cues, 2) the non-stressful task&#xD;
+      followed by smoking cues, 3) a stressful task followed by neutral cues, or 4) the stressful&#xD;
+      task followed by smoking cues. Ten minutes after the intervention, participants will undergo&#xD;
+      a 60-minute extinction procedure consisting of smoking-related videos, images and smoking&#xD;
+      paraphernalia. Cue reactivity test sessions will take place 24 hours, 2 weeks and 6 weeks&#xD;
+      following the intervention.&#xD;
+&#xD;
+      COVID-associated changes in substance use will be quantified over three telephone interviews:&#xD;
+      one at the end of March / beginning of April 2020 (at the start of the pandemic), one at the&#xD;
+      end of April / beginning of May, and a final one which will be instituted if feasible once&#xD;
+      the infection rates and social distancing policies have decreased.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">February 20, 2018</start_date>
+  <completion_date type="Anticipated">January 31, 2022</completion_date>
+  <primary_completion_date type="Actual">May 1, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in cigarettes smoked per day from the pre-intervention baseline to test sessions 2 and 3 given two and six weeks post-intervention</measure>
+    <time_frame>At the end of test session 1 (24 hours post-intervention), participants will receive a journal to record their daily smoking behaviour. They are asked to keep this journal until test session 3 (6 weeks post-intervention).</time_frame>
+    <description>A journal is given to participants to record their cigarette use behaviour every day for a month and a half</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in smoking cue-induced cigarette cravings from the pre-intervention baseline to test session 2</measure>
+    <time_frame>Multiple times points during the baseline, intervention and test sessions at 24 hours, 2 weeks and 6 weeks post-intervention.</time_frame>
+    <description>Participants will be asked to complete craving and urge to smoke questionnaires at several time points throughout the study sessions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in smoking cue-induced cigarette cravings from the pre-intervention baseline to test session 3</measure>
+    <time_frame>Multiple times points during the baseline, intervention and test sessions at 24 hours, 2 weeks and 6 weeks post-intervention.</time_frame>
+    <description>Participants will be asked to complete craving and urge to smoke questionnaires at several time points throughout the study sessions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in smoking cue-induced heart rate responses from the pre-intervention baseline to test session 2</measure>
+    <time_frame>Multiple time points during the baseline, intervention and test sessions at 24 hours, 2 weeks and 6 weeks post-intervention</time_frame>
+    <description>Participants' heart rate will be measured through the use of a polar belt at several time points during the study sessions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in smoking cue-induced heart rate responses from the pre-intervention baseline to test session 3</measure>
+    <time_frame>Multiple time points during the baseline, intervention and test sessions at 24 hours, 2 weeks and 6 weeks post-intervention</time_frame>
+    <description>Participants' heart rate will be measured through the use of a polar belt at several time points during the study sessions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in smoking cue-induced skin conductance responses from the pre-intervention baseline to test session 2</measure>
+    <time_frame>Multiple time points during the baseline, intervention and test sessions at 24 hours, 2 weeks and 6 weeks post-intervention</time_frame>
+    <description>Participants' skin conductance will be measured through the use of electrodes on their index and middle fingers at several time points during the study sessions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in smoking cue-induced skin conductance responses from the pre-intervention baseline to test session 3</measure>
+    <time_frame>Multiple time points during the baseline, intervention and test sessions at 24 hours, 2 weeks and 6 weeks post-intervention</time_frame>
+    <description>Participants' skin conductance will be measured through the use of electrodes on their index and middle fingers at several time points during the study sessions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in tobacco and other substance use patterns from the pre-COVID-19 baseline to during COVID-19</measure>
+    <time_frame>Multiple time points at baseline (before the pandemic), at the start of the pandemic, and during the pandemic</time_frame>
+    <description>Participants will be asked to report the quantity of cigarettes and/or other substances they have consumed recently</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in tobacco and other substance use patterns from the pre-COVID-19 baseline to post-COVID-19</measure>
+    <time_frame>At baseline (before the pandemic) and through study completion, an average of 1 year</time_frame>
+    <description>Participants will be asked to report the quantity of cigarettes and/or other substances they have consumed recently</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in tobacco and other substance use patterns during the COVID-19 pandemic to post-COVID-19</measure>
+    <time_frame>Multiple time points during the pandemic and through study completion, an average of 1 year</time_frame>
+    <description>Participants will be asked to report the quantity of cigarettes and/or other substances they have consumed recently</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in stress- and/or cue-induced mood during the intervention and at test sessions 1, 2 and 3</measure>
+    <time_frame>Multiple time points during the intervention and test sessions at 24 hours, 2 weeks and 6 weeks post-intervention</time_frame>
+    <description>Participants will be asked to complete a mood questionnaire at several time points during the intervention and at test sessions 1, 2 and 3</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in cigarette use over the course of the procedure as a function of personality factors, childhood trauma, perceived stress, mood and/or cigarette withdrawal</measure>
+    <time_frame>Multiple time points at baseline, during the intervention, at test sessions (24 hours, 2 weeks and 6 weeks post-intervention) and telephone follow-ups (6 months post-intervention)</time_frame>
+    <description>Participants will be asked to complete self-report questionnaires about their personality traits, traumatic childhood experiences, perceived stress, current mood states and cigarette withdrawal symptoms</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">76</enrollment>
+  <condition>Cigarette Smoking</condition>
+  <condition>Addiction Nicotine</condition>
+  <condition>Tobacco Use</condition>
+  <arm_group>
+    <arm_group_label>Stress task and smoking cue</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Exposure to a psychosocial stress task followed by smoking video cues</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stress task and neutral cue</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Exposure to a psychosocial stress task followed by neutral video cues</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control task and smoking cue</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Exposure to a control task followed by smoking video cues</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control task and neutral cue</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Exposure to a control task followed by neutral video cues</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Stress induction</intervention_name>
+    <description>Exposure to a psychosocial stressor</description>
+    <arm_group_label>Stress task and neutral cue</arm_group_label>
+    <arm_group_label>Stress task and smoking cue</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Control stress exposure</intervention_name>
+    <description>Exposure to a control task (no stress)</description>
+    <arm_group_label>Control task and neutral cue</arm_group_label>
+    <arm_group_label>Control task and smoking cue</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cue induction</intervention_name>
+    <description>Exposure to a smoking-related task</description>
+    <arm_group_label>Control task and smoking cue</arm_group_label>
+    <arm_group_label>Stress task and smoking cue</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Neutral cue exposure</intervention_name>
+    <description>Exposure to neutral cues</description>
+    <arm_group_label>Control task and neutral cue</arm_group_label>
+    <arm_group_label>Stress task and neutral cue</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Scoring 5 or higher on the Fagerström Test for Cigarette Dependence&#xD;
+&#xD;
+          -  Willingness to abstain from smoking for 4 hours prior to each laboratory visit&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Currently using cigarette cessation products&#xD;
+&#xD;
+          -  Endocrinological problems&#xD;
+&#xD;
+          -  Significant mental or physical health conditions&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marco Leyton, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McGill University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>McGill University</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3A 1A1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>McGill University Health Centre/Research Institute of the McGill University Health Centre</investigator_affiliation>
+    <investigator_full_name>Marco Leyton</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Memory updating</keyword>
+  <keyword>Reconsolidation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Behavior, Addictive</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>We will share deidentified individual participant data that underlie any results reported in the article. This includes results reported in text, figures and appendices.</ipd_description>
+    <ipd_time_frame>From 9 to 36 months following article publication.</ipd_time_frame>
+    <ipd_access_criteria>Investigators whose proposed use of the data has already been approved by an ethics committee.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

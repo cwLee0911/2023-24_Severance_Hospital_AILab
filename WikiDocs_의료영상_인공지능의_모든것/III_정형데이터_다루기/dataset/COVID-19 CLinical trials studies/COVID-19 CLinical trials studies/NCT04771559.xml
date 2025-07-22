@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="133">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04771559</url>
+  </required_header>
+  <id_info>
+    <org_study_id>132620</org_study_id>
+    <nct_id>NCT04771559</nct_id>
+  </id_info>
+  <brief_title>Evaluation of the Effect and Side Effect Profile of Covid-19 Vaccine in Cancer Patients</brief_title>
+  <official_title>Evaluation of the Effect and Side Effect Profile of Covid-19 Vaccine in Cancer Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bezmialem Vakif University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bezmialem Vakif University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the study is to evaluate the effects and side effects of inactive COVID-19 vaccine&#xD;
+      in patients with cancer and compare them with the healthy control group.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The aim of the study is to evaluate the effects and side effects of inactive COVID-19 vaccine&#xD;
+      in patients with cancer. Patients followed up in medical oncology clinic and healthy&#xD;
+      volunteers will be enrolled in the study. Blood samples of participants will be taken 4 weeks&#xD;
+      after the second dose of the COVID-19 vaccine. After blood samples are centrifuged at 2500&#xD;
+      rpm for 10 minutes, the separated serum will be backed up in two different eppendorf tubes&#xD;
+      and stored at -80 or -20 degrees. The samples will be delivered to the working center in a&#xD;
+      manner suitable for cold chain transport. COVID-19 antibody test will be performed on the&#xD;
+      blood samples. In addition, volunteers will be questioned in terms of side effects that may&#xD;
+      develop after vaccination and the information obtained will be recorded in the database&#xD;
+      together with the clinical data of the patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">July 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The study consists of two groups : 1) Cancer patients, 2) Healthy controls Blood samples will be taken from the participants of the two groups 4 weeks after the second dose of the COVID-19 vaccine and antibody testing will be performed. Additionally participants will be questioned for side effects of the vaccine and the data will be registered.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Antibody levels</measure>
+    <time_frame>1 month</time_frame>
+    <description>COVID-19 antibody titers of the patients will be measured in blood samples.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Side effects</measure>
+    <time_frame>1 month</time_frame>
+    <description>Participants will be questioned for common side effects</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Cancer</condition>
+  <arm_group>
+    <arm_group_label>Cancer patients</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Covid-19 antibody levels of patients will be measured</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy control</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Covid-19 antibody levels of healthy controls will be measured</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID-19 antibody test</intervention_name>
+    <description>5 cc blood sample from each participant will be taken 4 weeks after the second dose of the COVID-19 vaccine . After blood samples are centrifuged at 2500 rpm for 10 minutes, the separated serum will be backed up in two different ependorphs and stored at -80 or -20 degrees. The samples will be delivered to the working center in a manner suitable for cold chain transport. COVID-19 antibody test will be performed on the blood samples</description>
+    <arm_group_label>Cancer patients</arm_group_label>
+    <arm_group_label>Healthy control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        For the patient group :&#xD;
+&#xD;
+          1. Patients with pathological and clinical cancer diagnosis&#xD;
+&#xD;
+          2. Older than 18 years&#xD;
+&#xD;
+          3. Patients two doses of COVID-19 vaccine administered&#xD;
+&#xD;
+          4. Volunteering to participate in the study&#xD;
+&#xD;
+        For the control group :&#xD;
+&#xD;
+          1. No known cancer diagnosis or history&#xD;
+&#xD;
+          2. Older than 18 years&#xD;
+&#xD;
+          3. Two doses of COVID-19 vaccine administered&#xD;
+&#xD;
+          4. Volunteering to participate in the study -&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Not volunteering to participate in the study&#xD;
+&#xD;
+          2. &lt; 18 years&#xD;
+&#xD;
+          3. Not administered two doses of the COVID-19 vaccine&#xD;
+&#xD;
+          4. Covid-19 infection history -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>MAHMUT GUMUS, PROF</last_name>
+    <role>Study Chair</role>
+    <affiliation>MEDENIYET UNIVERSITY</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>AHMET BILICI, PROF</last_name>
+    <role>Study Chair</role>
+    <affiliation>Medipol University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>HACI MEHMET TURK, PROF</last_name>
+    <role>Study Chair</role>
+    <affiliation>BEZMIALEM UNIVERSITY</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>MESUT SEKER, PROF</last_name>
+    <role>Study Director</role>
+    <affiliation>BEZMIALEM UNIVERSITY</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>AYSE IREM YASIN, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>BEZMIALEM UNIVERSITY</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>BILGE SUMBUL, ASOC.PROF.</last_name>
+    <role>Study Chair</role>
+    <affiliation>BEZMIALEM UNIVERSITY</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>FAYSAL DANE, PROF</last_name>
+    <role>Study Chair</role>
+    <affiliation>Acibadem University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>CAGLAYAN GEREDELI, ASOC.PROF.</last_name>
+    <role>Study Chair</role>
+    <affiliation>OKMEYDANI RESEARCH HOSPITAL</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>AYSE IREM YASIN, MD</last_name>
+    <phone>+905335510927</phone>
+    <email>ayseiremyasin@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>MESUT SEKER, PROF</last_name>
+    <phone>+905055618756</phone>
+    <email>drmesutseker@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Bezmialem University</name>
+      <address>
+        <city>Istanbul</city>
+        <state>Fatih</state>
+        <zip>34090</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>AYSE IREM YASIN, MD</last_name>
+      <phone>00905335510927</phone>
+      <email>ayseiremyasin@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Okmeydani Research Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <state>Fatih</state>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>CAGLAYAN GEREDELI</last_name>
+      <phone>+905327495542</phone>
+      <email>caglayange@hotmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Acibadem University</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>FAYSAL DANE, PROF</last_name>
+      <phone>00905327950350</phone>
+      <email>faysaldane@yahoo.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medeniyet University</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>MAHMUT GUMUS, PROF</last_name>
+      <phone>00905063509061</phone>
+      <email>mgumus@superonline.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medipol University</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>AHMET BILICI, PROF</last_name>
+      <phone>00905325280486</phone>
+      <email>ahmetknower@yahoo.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 25, 2021</study_first_posted>
+  <last_update_submitted>March 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Bezmialem Vakif University</investigator_affiliation>
+    <investigator_full_name>Ayşe İrem Yasin</investigator_full_name>
+    <investigator_title>MD</investigator_title>
+  </responsible_party>
+  <keyword>Cancer, Covid-19, Vaccine</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="390">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04786197</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Kaïssa Covid</org_study_id>
+    <nct_id>NCT04786197</nct_id>
+  </id_info>
+  <brief_title>Detection of SARS-CoV-2 (COVID-19) by SERS Spectroscopy Combined With Artificial Intelligence</brief_title>
+  <acronym>Kaïssa Covid</acronym>
+  <official_title>Detection of SARS-CoV-2 by SERS Spectroscopy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Groupe Hospitalier Paris Saint Joseph</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Groupe Hospitalier Paris Saint Joseph</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      SARS-CoV-2 infection was identified as responsible for several cases of pneumonia and acute&#xD;
+      respiratory distress syndromes described in Wuhan, Hubei Province, China in December 2019. A&#xD;
+      global epidemic has spread since and the Director General of the World Health Organization&#xD;
+      (WHO) declared in March 2020 the state of a global pandemic.&#xD;
+&#xD;
+      As the spread of the virus accelerates, several countries are implementing containment&#xD;
+      strategies to stem the epidemic.&#xD;
+&#xD;
+      The context of an influx of patients and congestion in healthcare establishments requires&#xD;
+      rapid and reliable diagnostic solutions for SARS-CoV-2 infection in order to enable patients&#xD;
+      to be properly referred. These solutions will represent fundamental tools in the management&#xD;
+      of new epidemic waves, both in terms of health and economics.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Spectroscopy is the discipline of studying the interactions between light and matter, in&#xD;
+      order to perform analyzes unmatched in terms of the speed of data acquisition. Depending on&#xD;
+      the spectral ranges used by the sensors, it is possible to carry out molecular (molecular and&#xD;
+      vibrational spectroscopy) or elementary (atomic spectroscopy) analyzes.&#xD;
+&#xD;
+      As part of this project, GreenTropism has selected Surface Enhanced Raman Scattering (SERS)&#xD;
+      technology as a spectral technique. The scientific literature reports several cases of use of&#xD;
+      SERS technology for virus analysis, under variable conditions: variable viral loads, after&#xD;
+      amplification, use of substrates enriched in antigens.&#xD;
+&#xD;
+      The SERS allows an analysis of a sample deposited on a substrate on average (from fifteen&#xD;
+      seconds to 10 minutes depending on the devices and the presence of complementary imaging).&#xD;
+      Already proven for the identification of viruses on strains pathogenic for humans and&#xD;
+      animals, its deployment is slowed down by the complexity of the data to be processed.&#xD;
+&#xD;
+      These spectra acquisition technologies require the joint use of statistical tools and&#xD;
+      multivariate analyzes to allow sample discrimination (classification) and / or&#xD;
+      quantification. Until recently, the capacity and performance of statistical tools were&#xD;
+      limited by the available computational capacities. The lifting of this technological lock&#xD;
+      allowed the advent and democratization of Artificial Intelligence (AI) techniques theorized&#xD;
+      in the 1960s and applied today.&#xD;
+&#xD;
+      GreenTropism's Kaïssa, AI tool, in addition to processing big data, has been designed and&#xD;
+      trained specifically for processing spectral data and automating all of the algorithmic&#xD;
+      chains needed to go from spectrum support to its interpretation, and the presentation of the&#xD;
+      final answer.&#xD;
+&#xD;
+      The analysis of chemometric data, for the purpose of classification, implements several types&#xD;
+      of algorithms that Kaïssa uses, combining them automatically to obtain the best possible&#xD;
+      analyzes of these data. These algorithms are divided into two large groups: mathematical&#xD;
+      preprocessing and classification models.&#xD;
+&#xD;
+      The combination of photonic technologies (here SERS) and AI allows real-time analyzes of&#xD;
+      multiple substrates, without a priori knowledge of the user on the sample and without prior&#xD;
+      expertise. These characteristics make it a valuable tool for diagnosing SARS-CoV-2 infection&#xD;
+      in the context of Point Of Care.&#xD;
+&#xD;
+      In a work carried out between the months of March and June 2020, several models showed, on&#xD;
+      test databases not integrated in the learning, performance of discrimination between positive&#xD;
+      and negative patients for SARS-CoV-2 according to RT-PCR equivalent to Youden indices of 0.6&#xD;
+      to 0.92. On the other hand, these models have highlighted a variability in the use of samples&#xD;
+      which results in a drop in performance during tests on statistically independent databases&#xD;
+      requiring additional spectral acquisitions, leading today to the presentation of this report&#xD;
+      project.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 17, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 16, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluate the performance in terms of sensitivity and specificity of the technique by spectral analysis combined with artificial intelligence for the SARS-CoV-2 virus versus to the reference technique by RT-qPCR</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Detection of the SARS-CoV-2 virus with the technique by spectral analysis combined with artificial intelligence and with the reference technique by RT-qPCR (Xpert Xpress SARS-CoV-2 or Simplexa™ COVID-19 Direct assay)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the detection limit of the technique by spectral analysis combined with artificial intelligence</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Detection limit of the technique by spectral analysis combined with artificial intelligence compared to the CTs of RT-qPCR (Xpert Xpress SARS-CoV-2 or Simplexa™ COVID-19 Direct assay)</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">603</enrollment>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patient presenting to the GhPSJ for a consultation or hospitalization and for whom a PCR&#xD;
+        test for SARS-CoV-2 is prescribed as part of his care&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient aged ≥ 18 years&#xD;
+&#xD;
+          -  Patient presenting to the GhPSJ for a consultation or hospitalization and for whom a&#xD;
+             PCR test for SARS-CoV-2 is prescribed as part of his care&#xD;
+&#xD;
+          -  French-speaking patient.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient under guardianship or curatorship&#xD;
+&#xD;
+          -  Patient deprived of liberty&#xD;
+&#xD;
+          -  Patient under legal protection&#xD;
+&#xD;
+          -  Patient objecting to the use of their data for this research.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alban Le Monnier, Pr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Groupe Hospitalier Paris Saint Joseph</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alban Le Monnier, Pr</last_name>
+    <phone>01 44 12 33 33</phone>
+    <phone_ext>+ 33</phone_ext>
+    <email>alemonnier@ghpsj.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Paris Saint-Joseph</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile De France</state>
+        <zip>75014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 8, 2021</study_first_posted>
+  <last_update_submitted>March 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>artificial intelligence</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

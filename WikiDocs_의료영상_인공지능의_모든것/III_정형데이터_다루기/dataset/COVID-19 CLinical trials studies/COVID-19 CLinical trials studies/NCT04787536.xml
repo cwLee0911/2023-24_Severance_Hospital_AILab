@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5169">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04787536</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10829</org_study_id>
+    <nct_id>NCT04787536</nct_id>
+  </id_info>
+  <brief_title>Perioperative Cognitive Trajectories in Deferred Surgery (CoTELE-SURGE)</brief_title>
+  <acronym>CoTELE-SURGE</acronym>
+  <official_title>Preoperative and Postoperative Cognitive TrajEctories in oLdEr Patients With Deferred SURGEry Due to the COVID-19 Emergency: a Prospective Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McMaster University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>McMaster University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cognition is the way people use their brains to think, understand, remember and make&#xD;
+      decisions. Cognitive changes are often seen even up to 1 year after surgery. Whether these&#xD;
+      changes are more than what is expected for someone's age and morbidities is still uncertain.&#xD;
+      Due to the COVID-19 emergency, many elective surgeries have been delayed, which is stressful&#xD;
+      for patients, but also represents an opportunity of understanding better how surgery can&#xD;
+      impact cognitive abilities. The purpose of this study is to explore if and how cognitive&#xD;
+      performance changes over time for patients aged 65 years or older, whose surgery has been&#xD;
+      postponed.&#xD;
+&#xD;
+      due to the COVID-19 emergency, following and assessing the cognitive performance of these&#xD;
+      patients over time before and after surgery. In particular, in this study, the participant's&#xD;
+      cognitive performance will be assessed periodically with a computer-based instrument for&#xD;
+      cognitive testing, self-administered at home, in which tests are based on playing cards.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary objectives of the project are to describe perioperative cognitive trajectories of&#xD;
+      older patients whose elective noncardiac surgery has been deferred because of the COVID-19&#xD;
+      emergency, and explore the intra-individual changes in these trajectories from before to&#xD;
+      after surgery, through periodic remote self-administered cognitive testing. Secondarily, in&#xD;
+      the same patients, the investigators will also describe the perioperative trajectories in&#xD;
+      depressive symptoms and pain, and study their correlation with the trajectories in cognitive&#xD;
+      performance.&#xD;
+&#xD;
+      The study will be conducted remotely and virtually. The investigators will have an initial&#xD;
+      videoconference with the participant (and a support person if necessary) to explain the&#xD;
+      computerized cognitive test battery (i.e. the Cogstate Brief battery, CBB), and train on&#xD;
+      self-administration through a user-specific link. At each due assessment, the research team&#xD;
+      will call the participant to remind to complete the CBB; and to assess depressive symptoms,&#xD;
+      pain, and collect data on intercurrent clinical events (i.e. medication changes,&#xD;
+      hospitalization, ED or urgent care visits).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 10, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in perioperative cognitive trajectories assessed using the Cogstate Brief Battery (CBB)</measure>
+    <time_frame>After 1-5 days from the initial recruitment, each participant will self-administer the cognitive testing once, and then every month until surgery. Postoperative assessments at 1, 3, 6 and 12 months postoperative</time_frame>
+    <description>CBB is a computer-based cognitive test extensively validated against standard neuropsychological batteries in cognitively normal older adults, as well as in patients with cognitive impairment, in the community and in different clinical contexts, both in a clinician/researcher-supervised manner, and in an unsupervised fashion. It has been used also in the perioperative setting, showing equivalent or greater reliability, and greater sensitivity than conventional batteries. It consists of four tasks (Detection Task, Identification Task, Learning Task, and One-Back Task) designed to assess psychomotor function, attention, working memory, and visual learning. Each task utilizes stimuli in the form of playing cards. Stimuli characteristics (e.g., color, suit) are manipulated based on the requirements of each task.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pain trajectories using the Numeric Pain Rating Scale</measure>
+    <time_frame>Baseline assessment after 1-5 days from the initial recruitment and then every month until surgery. Postoperative assessments at 1, 3, 6 and 12 months postoperative</time_frame>
+    <description>The Numerical Pain Rating Scale (NPRS) is a rapid subjective measure of pain in which individuals rate their pain on an eleven-point numerical scale. The scale is composed of 0 (no pain at all) to 10 (worst imaginable pain). Correlation with other pain-assessment tools and feasibility of its use also in telephone interviews, have been demonstrated. The NPRS will be administered by the research personnel on the phone.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Depressive symptoms trajectories using the Geriatric Depression Scale (short form) (GDS)</measure>
+    <time_frame>Baseline assessment after 1-5 days from the initial recruitment and then every month until surgery. Postoperative assessments at 1, 3, 6 and 12 months postoperative</time_frame>
+    <description>The short form (15-item) version of the GDS is widely used instrument, which has demonstrated good reliability and validity in assessing depressive symptoms in older adults. The GDS Short Form takes an average of 5 to 7 min to complete and will be administered by the research personnel on the phone.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Postoperative Cognitive Dysfunction</condition>
+  <condition>Depressive Symptoms</condition>
+  <condition>Postoperative Pain</condition>
+  <arm_group>
+    <arm_group_label>Study cohort</arm_group_label>
+    <description>Patients aged 65 years or greater; scheduled to perform noncardiac elective surgery expected to require at least an overnight stay in hospital after surgery; surgery deferred, with a known or probable surgery date in ≥6 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Non-cardiac surgery</intervention_name>
+    <description>Non-cardiac surgery excluding cranial neurosurgery</description>
+    <arm_group_label>Study cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients 65 years or older undergoing non-cardiac non-cranial surgery scheduled to happen&#xD;
+        in 6 weeks or more and expected to stay for at least 1 night in the hospital postoperative.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. age 65 years or greater;&#xD;
+&#xD;
+          2. patient scheduled to perform noncardiac elective surgery expected to require at least&#xD;
+             an overnight stay in hospital after surgery;&#xD;
+&#xD;
+          3. surgery deferred, with a known or probable surgery date in ≥6 weeks;&#xD;
+&#xD;
+          4. informed consent provided.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. patient undergoing cardiac surgery or cranial neurosurgery;&#xD;
+&#xD;
+          2. known history of dementia;&#xD;
+&#xD;
+          3. unavailability of tablet or computer with an internet connection for remote&#xD;
+             assessment; 4. patient unable to interact with a tablet or computer due to language,&#xD;
+             visual, or hearing impairment, or any severely limited mobility of the upper limb&#xD;
+             joints;&#xD;
+&#xD;
+        5. patient unable to understand spoken or written English; 6. surgery delayed for an&#xD;
+        intercurrent clinical event&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maura Marcucci, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McMaster Univesity</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Maura Marcucci, MD</last_name>
+    <phone>9055274322</phone>
+    <phone_ext>40594</phone_ext>
+    <email>marcum2@mcmaster.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Maram Khaled, MBBCh, MSc</last_name>
+    <phone>9059220293</phone>
+    <email>khalem3@mcmaster.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>McMaster University</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8S 4L8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maura Marcucci, MD</last_name>
+      <phone>9055274322</phone>
+      <phone_ext>40594</phone_ext>
+      <email>marcum2@mcmaster.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maram Khaled, MBBCh, MSc</last_name>
+      <phone>9059220293</phone>
+      <email>khalem3@mcmaster.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Philippe Violette, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 8, 2021</study_first_posted>
+  <last_update_submitted>March 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>McMaster University</investigator_affiliation>
+    <investigator_full_name>Maura Marcucci</investigator_full_name>
+    <investigator_title>Assistant Professor, Department of Health Research Methods, Evidence and Impact and Department of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Older patients</keyword>
+  <keyword>Non-cardiac surgery</keyword>
+  <keyword>Cognitive trajectories</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+    <mesh_term>Depression</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 31, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/36/NCT04787536/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

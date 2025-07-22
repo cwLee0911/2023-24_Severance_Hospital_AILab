@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2921">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04834882</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PO20152*</org_study_id>
+    <nct_id>NCT04834882</nct_id>
+  </id_info>
+  <brief_title>Burnout, Stress and Coping Strategies: Impact of the Covid-19 Epidemic</brief_title>
+  <acronym>Au20-15</acronym>
+  <official_title>Burnout, Stress and Coping Strategies: Impact of the Covid-19 Epidemic on the Medical and Paramedical Staff in Reims University Hospital and EPSM Marne</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CHU de Reims</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>CHU de Reims</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) is a novel coronavirus detected&#xD;
+      in Wuhan, China on December 2019. This virus is responsible for the infectious respiratory&#xD;
+      disease called Covid-19.&#xD;
+&#xD;
+      The psychological effects of this epidemic are found among the general population, but also&#xD;
+      healthcare workers. Some studies have shown that psychological disorders such as stress,&#xD;
+      anxiety, depressive symptoms, insomnia, denial, anger and fear, post-traumatic stress&#xD;
+      disorder are emerging among healthcare workers. However, there is currently insufficient data&#xD;
+      to evaluate the burnout during the COVID-19 pandemic.&#xD;
+&#xD;
+      The purpose of this study is to understand the impact of the covid-19 epidemic on stress and&#xD;
+      burnout on healthcare workers and their coping strategies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Burnout syndrome, a state of professional exhaustion, is prevalent among the medical and&#xD;
+      paramedical staff. The covid-19 pandemic may generate more stress and increase the risk for&#xD;
+      burnout.&#xD;
+&#xD;
+      The aim of this study is to evaluate burnout (prevalence and intensity) and stress of among&#xD;
+      healthcare workers in COVID-19 units and non COVID-19 units. We also explore the supportive&#xD;
+      coping strategies need to reduce their stress and burnout.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 20, 2021</start_date>
+  <completion_date type="Anticipated">May 20, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 20, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assessment of burnout (prevalence and intensity)</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Self-Administered Questionnaires : Maslash Burnout Inventory-Human Services Survey</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assessment of stress</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Self-Administered Questionnaires : Perceived Stress Scale</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of supportive coping strategies</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Self-Administered Questionnaires : Ways of Coping Checklist (WCC-R)</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Burnout, Professional</condition>
+  <arm_group>
+    <arm_group_label>Healthcare workers</arm_group_label>
+    <description>Medical and paramedical staff in Reims University Hospital and EPSM Marne working in COVID-19 units and non COVID-19 units</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Data collection (</intervention_name>
+    <description>online survey</description>
+    <arm_group_label>Healthcare workers</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All healthcare workers participating will be included in the study&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Medical (physicians, interns) and paramedical (nursing managers, nurses, care&#xD;
+             assistants) staff in Reims University Hospital and EPSM Marne&#xD;
+&#xD;
+          -  Person who have attained majority&#xD;
+&#xD;
+          -  Person consenting to participate to the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Healthcare workers outside of Reims University Hospital and EPSM Marne&#xD;
+&#xD;
+          -  Person who is not a healthcare professional&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Eric TRAN</last_name>
+    <phone>3 26 78 70 45</phone>
+    <phone_ext>0033</phone_ext>
+    <email>trane@epsm-marne.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Chu Reims</name>
+      <address>
+        <city>Reims</city>
+        <zip>51092</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Damien JOLLY</last_name>
+      <phone>326788472</phone>
+      <phone_ext>33</phone_ext>
+      <email>djolly@chu-reims.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Burnout, Professional</mesh_term>
+    <mesh_term>Burnout, Psychological</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

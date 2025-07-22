@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2368">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04779359</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-19 Disease</org_study_id>
+    <nct_id>NCT04779359</nct_id>
+  </id_info>
+  <brief_title>Role of Lymphocyte Subsets and Laboratory Measurements in COVID-19 Disease</brief_title>
+  <official_title>The Predictive Role of Lymphocyte Subsets and Laboratory Measurements in COVID-19 Disease- A Retrospective Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Public Health Clinical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai Public Health Clinical Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To investigate the predictive role of lymphocyte subsets and other laboratory measurements in&#xD;
+      adult patients with COVID-19.This was a single center, retrospective study that involved&#xD;
+      adult patients with confirmed diagnosis of COVID-19. Electronic medical records were&#xD;
+      reviewed. Data including age, sex, symptom from onset to hospital admission and laboratory&#xD;
+      findings at admission of hospitalized patients with confirmed COVID-19 were extracted and&#xD;
+      analyzed retrospectively.This study indicates that the levels of lymphocyte subsets (CD4+,&#xD;
+      and CD8+) are associated with disease progression and severity, along with prognosis in&#xD;
+      patients with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This was a single center, retrospective study that involved adult patients with confirmed&#xD;
+      diagnosis of COVID-19. Electronic medical records were reviewed. Data including age, sex,&#xD;
+      symptom from onset to hospital admission and laboratory findings at admission of hospitalized&#xD;
+      patients with confirmed COVID-19 were extracted and analyzed retrospectively. Identifying the&#xD;
+      possible immune factors and laboratory parameters is requisite for the early identification&#xD;
+      of patients with severe COVID-19 and timely intervention for control of the disease. There is&#xD;
+      an unmet need to establish robust clinical cutoffs of lymphocyte subsets for predicting risk&#xD;
+      associated with ICU admission, mechanical ventilation, and mortality in COVID-19 patients.&#xD;
+      This retrospective study was thus carried out to improve knowledge and clinical utility of&#xD;
+      lymphocyte subset measurements, together with other laboratory measurements and clinical&#xD;
+      information, for understanding prognosis in COVID-19 patients. These findings suggest that&#xD;
+      alterations in lymphocyte subsets and laboratory measurements play a significant role in the&#xD;
+      progression of COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <target_duration>8 Months</target_duration>
+  <primary_outcome>
+    <measure>Correlation of CD4+ and CD8+ T cell absolute counts to disease outcomes</measure>
+    <time_frame>2021.02-2021.08</time_frame>
+    <description>The study endpoints were to demonstrate whether CD4+ and CD8+ T cell absolute counts are prognostic marker in determining disease outcomes (including ICU admission and/or mechanical ventilation and/or mortality); to explore whether lymphocyte subset measurements recover at hospital discharge or in convalescence; lymphocyte subset measurements between severe and non-severe groups, at admission. In addition, association between CD4+ and CD8+ T cell absolute counts with cytokine levels and other laboratory parameters (neutrophil counts, total lymphocyte counts, platelet counts, C-reactive protein levels) were also assessed.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">1</enrollment>
+  <condition>COVID-19 Disease</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The patients were included for this study after excluding patients &lt;18 years age and&#xD;
+        without confirmed diagnosis of disease.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Confirmed diagnosis of COVID-19 disease.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  The patients were excluded patients &lt;18 years age and without confirmed diagnosis of&#xD;
+             disease.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>March 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Shanghai Public Health Clinical Center</investigator_affiliation>
+    <investigator_full_name>Hongzhou Lu</investigator_full_name>
+    <investigator_title>• Co-Director of Shanghai Public Health Clinical Center affiliated to Fudan University</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2106">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04794985</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL76949.068.21</org_study_id>
+    <nct_id>NCT04794985</nct_id>
+  </id_info>
+  <brief_title>Post-COVID-Health Study: Multidimensional Health Status of COVID-19 Survivors One Year After a SARS-CoV-2 Infection</brief_title>
+  <official_title>Post-COVID-Health Study: Multidimensional Health Status of COVID-19 Survivors One Year After a SARS-CoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Maastricht University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>VieCuri Medical Centre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Maastricht University Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study assesses the multidimensional health status of COVID-19 survivors one-year&#xD;
+      post-infection using validated subjective and objective measures.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Rationale: Within the Netherlands, more than 1 million people have been infected with&#xD;
+      SARS-CoV-2, also known as COVID-19. Although the mortality rate is considerable, the vast&#xD;
+      majority of COVID-19 patients survive the infection. Preliminary findings show that a&#xD;
+      majority of COVID-19 survivors still experience health problems 3 months after the infection,&#xD;
+      including reduced lung diffusion capacity, low exercise capacity, muscle weakness, mental&#xD;
+      problems and reduced cognitive function resulting in a generally poor health status. Whether&#xD;
+      these health consequences persist on the long-term is unknown.&#xD;
+&#xD;
+      Objective: To assess the multidimensional health status of COVID-19 survivors one-year&#xD;
+      post-infection using validated subjective and objective measures.&#xD;
+&#xD;
+      Study design: A multicenter prospective observational study performed within the MUMC+ and&#xD;
+      VieCuri Medical Center.&#xD;
+&#xD;
+      Study population: 125 COVID-19 survivors of the MUMC+ or VieCuri Medical Center, both&#xD;
+      hospitalized (ICU and non-ICU admitted) as well as non-hospitalized patients.&#xD;
+&#xD;
+      Main study parameters/endpoints: Outcome parameters include objectively and subjectively&#xD;
+      measured multidimensional health outcomes including physiological and metabolic health,&#xD;
+      physical capability, cognitive function, psychosocial well-being, social well-being, patient&#xD;
+      reported outcomes as well as potential determinants of these multidimensional health outcomes&#xD;
+      (e.g. treatment during/after SARS-CoV-2 infection, vaccination, comorbidities, medication use&#xD;
+      etc.). Outcomes will be measured during a one-day study visit.&#xD;
+&#xD;
+      Nature and extent of the burden and risks associated with participation, benefit and group&#xD;
+      relatedness: Subjects will benefit from participating within this study, because their&#xD;
+      general health will be evaluated in detail and from a multidimensional perspective.&#xD;
+      Furthermore, subjects will be informed on their multidimensional health outcomes and will&#xD;
+      receive a lifestyle advice tailored to their health status. Risks and inconveniences are&#xD;
+      limited to the time investment associated with the completion of the questionnaires and the&#xD;
+      study visit. During the study visit various non-invasive measurements as well as minor&#xD;
+      invasive blood sampling will be performed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2021</start_date>
+  <completion_date type="Anticipated">April 3, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 3, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>Lung function measured with spirometry</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Pre- and post-bronchodilator spirometry will be performed to determine forced vital capacity (FVC) and forced expiratory volume in 1 second (FEV1).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Diffusion capacity measured with the single breath method</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>To determine diffusion capacity for carbon monoxide</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone mineral density by dual-energy X-ray (DEXA)-scan</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Total bone mineral density (BMD) as well as BMD of the lumbar spine and total hip-neck will be determined using a DEXA-scan.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lean mass by dual-energy X-ray (DEXA)-scan</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Total lean mass will be determined using a DEXA-scan.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fat free mass by dual-energy X-ray (DEXA)-scan</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Total fat free mass will be measured using a DEXA-scan.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fat mass by dual-energy X-ray (DEXA)-scan</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Total fat mass and fat percentage as well as visceral fat mass will be measured using a DEXA-scan.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Vertebral fracture assessment by dual-energy X-ray (DEXA-scan)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Vertebral fracture assessment will be determined using a DEXA-scan.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Weight will be measured on a weighing scale</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Weight will be measured on a weighing scale.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Height will be measured using a stadiometer</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Height will be measured using a stadiometer.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Body mass index (BMI) will be calculated from the weight and height</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Weight and height will be combined to report BMI in (kg/m^2)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fasted resting energy expenditure by indirect calorimetry (ventilated hood)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>VO2 and VCO2 will be measured to determine energy expenditure.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Resting blood pressure</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Resting diastolic and systolic blood pressure will be measured as part of the cardiometabolic profile to determine the prevalence of the metabolic syndrome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Waist circumference</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Waist circumference will be measured as part of the cardiometabolic profile to determine the prevalence of the metabolic syndrome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fasting glucose levels</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Fasting glucose levels will be determined in sampled blood as part of the cardiometabolic profile to determine the prevalence of the metabolic syndrome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fasted lipid profile</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Fasted high-density, low-density and total lipoprotein levels (HDL and LDL) as well as triglycerides will be measured as part of the cardiometabolic profile to determine the prevalence of the metabolic syndrome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Six minute walking test to determine exercise capacity</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Six minute walking distance will be determined.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Peak work rate by cardiopulmonary cycling exercise test (CPET)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Maximal work rate (W) will be determined during the CPET</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Peak O2-consumption and CO2-production by cardiopulmonary cycling exercise test (CPET)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Maximal O2 consumption and CO2 production will be determined during the CPET.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximal heart rate during cardiopulmonary cycling exercise test (CPET)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Maximal heart will be measured during the CPET.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Respiratory muscle strength by mouth pressure</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Inspiratory and expiratory mouth pressure will be measured.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Upper extremity muscle strength by measuring handgrip strength</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>A hydraulic grip strength dynamometer will be used to measure the maximal handgrip strength.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lower extremity muscle strength by measuring isometric muscle strength</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Maximal isometric upper leg muscle strength will be measured of the quadriceps muscle using a Biodex dynamometer.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mobility using the short physical performance battery (SPPB)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>The SPPB consists of three types of physical maneuvers: the balance test, the gait speed test and the chair stand test leading to a score of 0-12. Lower scores indicate less mobility.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physical activity level by accelerometry</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>An accelerometer will be worn for 7 days to determine physical activity level.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive function by Montreal Cognitive Assessment (MOCA)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>The MOCA will lead to a total score of 0-30, in which lower scores indicate less cognitive function.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dietary intake by a food diary</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>A 3-day food diary will be used to investigate the dietary intake.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Smell by the Sniffing Sticks treshold test</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>The average of the last four reversal points is used as final threshold score.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Taste using the taste strips 'filter paper disc method' test</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>A maximum score of 16 correct taste detections can be retrieved indication good taste function.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Taste and smell function using the taste and smell function questionnaire</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>The questionnaire will retrieve a maximal score of 0-52 and 0-44 for taste and smell, respectively, in which higher scores indicate problems with taste and smell function.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The hospital anxiety and depression scale (HADS) to determine anxiety and depression levels</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>The HADS will retrieve a total score of 0-21 in which lower levels indicate higher levels of anxiety or depression.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The Perceived stress scale (PSS) to determine stress levels</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>The PSS will retrieve a total score of 0-40 in which lower scores indicate higher stress levels.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Perceived social support using the multidimensional scale of perceived social support (MSPSS)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>A total score of 12-84 can be retrieved in which lower scores indicate lower levels of social support.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Loneliness using the loneliness scale (LS)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>The LS will retrieve a total score of 0-11 in which higher scores indicate strong loneliness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Subjective multidimensional health status by euroqol-5 dimensions</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>The EQ-5D consists of 5 domains (mobility, self-care, usual activity, pain/discomfort, anxiety/depression) and a visual analogue scale.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dyspnea using the modified medical research council (mMRC)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>The mMRC will retrieve a total score of 0-5 in which higher levels indicate more dyspnea.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fatigue using the Checklist Individual Strength (CIS)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>The CIS will retrieve a total score of 20-140 in which higher scores indicate more fatigue.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sleep quality using the Pittsburgh Sleep Quality Index (PSQI)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>The total PSQI score will vary between 0-21 in which higher scores indicate poor sleep quality.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>General pain using the Visual Analogue Scale (VAS)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>A total score of 0-100 will be retrieved in which higher scores indicate more pain.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Medical history</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Retrieved from medical records and self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatments/therapies after SARS-CoV-2 infection</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Retrieved from medical records and self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vaccination for COVID-19</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Retrieved from medical records and self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Re-infection with COVID-19</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Retrieved from medical records and self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medication use</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Retrieved from medical records and self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Muscle and adipose tissue cross sectional area (CSA) on chest-CT scan</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Only in case a chest-CT scan has been obtained during screening for SARS-CoV-2 which meets the requirements for reliable extrapulmonary quantifications of muscle and adipose tissue cross sectional area (CSA), an additional chest-CT will be obtained to assess changes on CT-derived muscle and adipose tissue. In case no chest-CT scan was obtained during screening for SARS-CoV-2, no chest-CT scan will be performed during the study visit. Muscle and adipose tissue CSA will be determined based on pre-established thresholds of Hounsfield units.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Persistent lung damage on chest-CT scan</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Only in case a chest-CT scan has been obtained during screening for SARS-CoV-2 which meets the requirements for reliable extrapulmonary quantifications of muscle and adipose tissue cross sectional area, an additional chest-CT will be obtained to assess changes on CT-derived lung tissue. In case no chest-CT scan was obtained during screening for SARS-CoV-2, no chest-CT scan will be performed during the study visit. Persistent lung damage will be determined by a trained radiologist.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Smoking status</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Based on self-report</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Sociodemographics</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>Including age, gender, race, living situation, household composition, marital status, educational level, smoking status, alcohol consumed, employment status, occupation, volunteer work, and income level.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Motivation by the Behavioral Regulation in Exercise Questionnaire (BREQ-2)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>The BREQ-2 will provide several motivation types based on the self-determination theory.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Motivation by the Regulation of Eating Behaviors Questionnaire (REBS)</measure>
+    <time_frame>1 year post-infection</time_frame>
+    <description>The REBS will provide several motivation types based on the self-determination theory.</description>
+  </other_outcome>
+  <enrollment type="Anticipated">125</enrollment>
+  <condition>Covid19</condition>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood samples will be obtained.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All COVID-19 survivors of the MUMC+ or VieCuri Medical Center can be included in this&#xD;
+        study. Both hospitalized (ICU and non-ICU admitted) as well as non-hospitalized patients&#xD;
+        will be eligible for participation. Patients infected during the first wave as well as&#xD;
+        during the second wave can be included.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  COVID-19 positive based on:&#xD;
+&#xD;
+               -  Confirmed RT-PCR;&#xD;
+&#xD;
+               -  Proven serology for SARS-COV-2 with clearly associated complaints for a&#xD;
+                  SARS-COV-2 infection;&#xD;
+&#xD;
+               -  CO-RADS score of 4 or more with a proven serology for SARS-CoV-2 afterwards.&#xD;
+&#xD;
+          -  Age of ≥18 years;&#xD;
+&#xD;
+          -  Able to provide informed consent;&#xD;
+&#xD;
+          -  Understanding of Dutch language.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients not willing to participate;&#xD;
+&#xD;
+          -  Investigator's uncertainty about the willingness or ability of the patient to comply&#xD;
+             with the protocol requirements.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Annemie Schols, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Maastricht University Medical Centre</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rosanne Beijers, PhD</last_name>
+    <phone>+31433882990</phone>
+    <email>r.beijers@maastrichtuniversity.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Harry Gosker, PhD</last_name>
+    <phone>+31433884298</phone>
+    <email>h.gosker@maastrichtuniversity.nl</email>
+  </overall_contact_backup>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 12, 2021</study_first_posted>
+  <last_update_submitted>March 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Multidimensional health</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Long-term consequences</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

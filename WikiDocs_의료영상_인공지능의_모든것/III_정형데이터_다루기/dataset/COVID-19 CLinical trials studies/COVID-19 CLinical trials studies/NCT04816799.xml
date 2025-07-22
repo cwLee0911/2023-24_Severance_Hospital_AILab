@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5634">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04816799</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00005229</org_study_id>
+    <nct_id>NCT04816799</nct_id>
+  </id_info>
+  <brief_title>Efficacy of START (Startle Rehabilitation Therapy) in the Treatment Stroke-induced Aphasia/Apraxia</brief_title>
+  <acronym>START</acronym>
+  <official_title>Efficacy of START (Startle Rehabilitation Therapy) in the Treatment Stroke-induced Aphasia/Apraxia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Arizona State University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Arizona State University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A stratified, parallel-group, double-blind, randomized controlled trial of remotely delivered&#xD;
+      START treatment to individuals with severe-to-moderate stroke (with recruitment focused on&#xD;
+      individuals with low SES) will be conducted. Subjects and assessors will be blinded to the&#xD;
+      condition making the experiment double blind. Specifically, subjects will be told that we are&#xD;
+      exploring a new therapy that using different sounds to improve therapy. Parallel group design&#xD;
+      will ensure that subjects in the Control group are unaware that their &quot;sounds&quot; are softer&#xD;
+      than the START group. Trainers may become aware that a loud sound is present thus a unique&#xD;
+      Assessor will evaluate clinical performance before and after training making the study&#xD;
+      double-blind. Fifty-four subjects will undergo baseline testing in the laboratory to&#xD;
+      establish their capacity for functional and expressive speech as well as their self-reported&#xD;
+      health-related quality of life (power analysis below). Next, subjects will participate in a&#xD;
+      high-frequency, word-picture verification/ auditory-repetition treatment, 2 hr/day for 5&#xD;
+      consecutive days focusing on expression of words of functional significance (e.g., water,&#xD;
+      fall). Subjects will either receive training with START or without (Control). Subjects will&#xD;
+      be re-tested immediately following training as well as one-month post to assess retention.&#xD;
+      Aim 1 will evaluate capacity of START to enhance SLT outcomes by assessing the % change in&#xD;
+      clinical assessment of functional and expressive speech. Our preliminary data points to a&#xD;
+      robust response [details]. Aim 2 will focus on the capacity of these changes to 1) be&#xD;
+      retained and 2) impact subject's reported quality of life. NOTE: While we are planning&#xD;
+      in-person baseline, end, and retention testing, in response to COVID, we have established&#xD;
+      remote clinical screening using peer-reviewed validated techniques for WAB and ABA-2 (see&#xD;
+      Alternative Solutions). All preliminary data collected for this proposal were collected&#xD;
+      remotely via no-contact protocols.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 22, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2021</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Western Aphasia Battery</measure>
+    <time_frame>end of training</time_frame>
+    <description>(WAB) will be administered to determine aphasia severity via its aphasia quotient, as well as aphasia type. Severe non-fluent aphasia will be defined as an aphasia quotient &lt; 50 and a classification of Broca's, global, or transcortical motor aphasia.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Western Aphasia Battery Retention</measure>
+    <time_frame>one month post</time_frame>
+    <description>(WAB) will be administered to determine aphasia severity via its aphasia quotient, as well as aphasia type. Severe non-fluent aphasia will be defined as an aphasia quotient &lt; 50 and a classification of Broca's, global, or transcortical motor aphasia.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Apraxia Battery for adults</measure>
+    <time_frame>end of training</time_frame>
+    <description>(ABA-2) will be collected to identify presence and severity of apraxia of speech (AOS) via its six subtests: diadochokinetic rate, increasing word length, limb and oral apraxia, and latency and utterance for polysyllabic words, repeated trials, and inventory of articulation characteristics.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Apraxia Battery for adults Retention</measure>
+    <time_frame>one-month post</time_frame>
+    <description>(ABA-2) will be collected to identify presence and severity of apraxia of speech (AOS) via its six subtests: diadochokinetic rate, increasing word length, limb and oral apraxia, and latency and utterance for polysyllabic words, repeated trials, and inventory of articulation characteristics.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stroke Impact Scale</measure>
+    <time_frame>Baseline, end of training, one-month post</time_frame>
+    <description>(SIS) is a self-report scale of disability and health-related quality of life. We will use the subdomains of Communication, ADL/LDL, Life participation, Quality of life, Social Relationships, Depression.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stroke Impact Scale Retention</measure>
+    <time_frame>one-month post</time_frame>
+    <description>(SIS) is a self-report scale of disability and health-related quality of life. We will use the subdomains of Communication, ADL/LDL, Life participation, Quality of life, Social Relationships, Depression.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">54</enrollment>
+  <condition>Stroke</condition>
+  <condition>Aphasia</condition>
+  <condition>Apraxia of Speech</condition>
+  <arm_group>
+    <arm_group_label>START</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>START (startle adjuvant rehabilitation therapy) will be applied.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Subjects will train but without START</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Startle Adjuvant Rehabilitation Therapy (START)</intervention_name>
+    <description>Exposure to loud acoustic stimulus during training of motor task (in this case speech).</description>
+    <arm_group_label>START</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 years old&#xD;
+&#xD;
+          -  Native English Speakers&#xD;
+&#xD;
+          -  Capacity to provide informed consent&#xD;
+&#xD;
+          -  Right-handed&#xD;
+&#xD;
+          -  Corrected to normal vision&#xD;
+&#xD;
+          -  Left hemisphere cerebral stroke at least 6 months prior to testing&#xD;
+&#xD;
+          -  Presence of severe-to-moderate, non-fluent aphasia, i.e. Aphasia Quotients of 0-50 on&#xD;
+             the Western Aphasia Battery-Revised (PsychCorp, 2007)&#xD;
+&#xD;
+          -  Corrected pure tone threshold (octave frequencies 250- 4000 Hz) norms for their age&#xD;
+             and gender41,42 NOTE: Audiometry data will be collected for all participants by lab&#xD;
+             personnel trained by an audiologist in a sound-attenuated booth. Based on our ongoing&#xD;
+             aphasia studies, we expect that ~30% of participants will use hearing aids; we will&#xD;
+             not exclude these individuals but rather include hearing aid use as a covariate in&#xD;
+             analyses.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severe concurrent uncontrolled medical problems (e.g. cardiorespiratory impairment).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Claire F Honeycutt, PhD</last_name>
+    <phone>4809658453</phone>
+    <email>claire.honeycutt@asu.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Arizona State University</name>
+      <address>
+        <city>Tempe</city>
+        <state>Arizona</state>
+        <zip>85287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Claire F Honeycutt, PhD</last_name>
+      <phone>480-965-8453</phone>
+      <email>claire.honeycutt@asu.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 25, 2021</study_first_posted>
+  <last_update_submitted>March 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Arizona State University</investigator_affiliation>
+    <investigator_full_name>Claire Honeycutt</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Aphasia</mesh_term>
+    <mesh_term>Apraxias</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

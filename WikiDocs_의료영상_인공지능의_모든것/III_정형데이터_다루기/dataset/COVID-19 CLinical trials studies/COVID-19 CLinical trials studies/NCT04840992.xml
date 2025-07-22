@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4678">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04840992</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JSVCT092</org_study_id>
+    <nct_id>NCT04840992</nct_id>
+  </id_info>
+  <brief_title>Phase I/II Clinical Trial of Recombinant Novel Coronavirus (COVID-19) Vaccine (Adenovirus Type 5 Vector) for Inhalation</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo-Controlled Phase I/II Clinical Trial to Evaluate the Safety and Immunogenicity of Ad5-nCoV for Inhalation in Adults 18 Years of Age and Older</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CanSino Biologics Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Beijing Institute of Biotechnology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Jiangsu Province Centers for Disease Control and Prevention</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>CanSino Biologics Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a randomized, double-blind, placebo-controlled I/II clinical trial, in order to&#xD;
+      evaluate the safety and immunogenicity of Recombinant Novel Coronavirus Vaccine (Adenovirus&#xD;
+      Type 5 Vector) for Inhalation in adults 18 years of Age and Older.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 20, 2021</start_date>
+  <completion_date type="Anticipated">July 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 15, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Adverse Reactions (AR)</measure>
+    <time_frame>0-14 days after each vaccination</time_frame>
+    <description>The occurrence of Adverse Reactions (AR) in all groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Serious Adverse Events (SAE)</measure>
+    <time_frame>Within the first and final vaccination up until 12 months after the final vaccination</time_frame>
+    <description>The occurrence of Serious Adverse Events (SAE) in all groups.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adverse Events/Reactions (AE/AR)</measure>
+    <time_frame>Within 0-7 days after each vaccination</time_frame>
+    <description>The occurance of Adverse Events/Reactions (AE/AR) in all groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adverse Events/Reactions (AE/AR)</measure>
+    <time_frame>Within 0-28 days after each vaccination</time_frame>
+    <description>The occurance of Adverse Events/Reactions (AE/AR) in all groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in laboratory test indicators</measure>
+    <time_frame>4 days after each vaccination</time_frame>
+    <description>Changes in laboratory test indicators (including white blood cell count, lymphocyte count, etc), and respiratory rate in all groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT, seroconversion rate and GMI of Covid-19 S protein RBD specific antibody</measure>
+    <time_frame>Before the first dose, 28 days after first dose, before the second dose, 14 days after the second dose</time_frame>
+    <description>GMT, seroconversion rate and GMI of S protein RBD specific antibody by ELISA in all groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT, seroconversion rate, GMI of neutralizing antibody (pseudovirus) against Covid-19</measure>
+    <time_frame>Before the first dose, 28 days after the first dose, bofore the second dose, 14 days after the second dose</time_frame>
+    <description>GMT, seroconversion rate, GMI of neutralizing antibody (pseudovirus) against Covid-19 in all groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT and seroconversion rate of neutralizing antibody against Covid-19</measure>
+    <time_frame>28 days after the final vaccination</time_frame>
+    <description>GMT and seroconversion rate of neutralizing antibody against Covid-19 in all goups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cellular immune response by ELISpot</measure>
+    <time_frame>Before the first dose, 14 days after the first dose</time_frame>
+    <description>The positive rate of IFN-γ、TNF-α、IL-5、IL-4、IL-13 by stimulated by S protein ELISpot in all groups.</description>
+  </secondary_outcome>
+  <number_of_arms>22</number_of_arms>
+  <enrollment type="Anticipated">840</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>A1a Phase I low 2 doses</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ad5-nCoV containing 0.5E10 vp, 2 doses 56 days apart, Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>A1b Phase I placebo low 2 doses</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo containing 0 vp, 2 doses 56 days apart, Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>A2a Phase I medium 2 doses</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ad5-nCoV containing 1E10 vp, 2 doses 56 days apart, Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>A2b Phase I placebo medium 2 doses</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo containing 0 vp, 2 doses 56 days apart, Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>A3a Phase I high 2 doses</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ad5-nCoV containing 2E10 vp, 2 doses 56 days apart, Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>A3b Phase I placebo high 2 doses</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo containing 0 vp, 2 doses 56 days apart, Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>A4a Phase I combine 2 doses</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 dose Intramuscular Injection, Ad5-nCoV containing 5E10 vp, 1 dose Aerogen Solo, Ad5-nCoV containing 2E10 vp, 56 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>A4b Phase I placebo combine 2 doses</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>6 subjects, Placebo containing 0 vp, 1 dose Intramuscular Injection, 1 dose Aerogen Solo, 56 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>A5a Phase I single dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ad5-nCoV containing 1E10 vp, 1 dose Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>A5b Phase I placebo single dose</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>6 subjects, Placebo containing 0 vp, 1 dose Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B1a Phase II low 2 doses</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ad5-nCoV containing 0.5E10 vp, 2 doses 56 days apart, Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B1b Phase II placebo low 2 doses (18-59)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo containing 0 vp, 2 doses 56 days apart, Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B2a Phase II medium 2 doses</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ad5-nCoV containing 1E10 vp, 2 doses 56 days apart, Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B2b Phase II placebo medium 2 doses</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo containing 0 vp, 2 doses 56 days apart, Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B3a Phase II high 2 doses</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ad5-nCoV containing 2E10 vp, 2 doses 56 days apart, Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B3b Phase II placebo high 2 doses</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo containing 0 vp, 2 doses 56 days apart, Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B4a Phase II combine 2 doses</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 dose Intramuscular Injection, Ad5-nCoV containing 5E10 vp, 1 dose Aerogen Solo, Ad5-nCoV containing 2E10 vp, 56 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B4b Phase II placebo combine 2 doses</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo containing 0 vp, 1 dose Intramuscular Injection, 1 dose Aerogen Solo, 56 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B5a Phase II intramuscular single dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ad5-nCoV containing 5E10 vp, 1 dose Intramuscular Injection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B5b Phase II placebo intramuscular single dose</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>placebo containing 0 vp, 1 dose Intramuscular Injection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B6a Phase II Aerogen Solo single dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ad5-nCoV containing 1E10 vp, 1 dose Aerogen Solo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B6b Phase II placebo Aerogen Solo single dose</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>placebo containing 0 vp, 1 dose Aerogen Solo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector) for Inhalation</intervention_name>
+    <description>Aerogen Solo</description>
+    <arm_group_label>A1a Phase I low 2 doses</arm_group_label>
+    <arm_group_label>A2a Phase I medium 2 doses</arm_group_label>
+    <arm_group_label>A3a Phase I high 2 doses</arm_group_label>
+    <arm_group_label>A4a Phase I combine 2 doses</arm_group_label>
+    <arm_group_label>A5a Phase I single dose</arm_group_label>
+    <arm_group_label>B1a Phase II low 2 doses</arm_group_label>
+    <arm_group_label>B2a Phase II medium 2 doses</arm_group_label>
+    <arm_group_label>B3a Phase II high 2 doses</arm_group_label>
+    <arm_group_label>B4a Phase II combine 2 doses</arm_group_label>
+    <arm_group_label>B6a Phase II Aerogen Solo single dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector)</intervention_name>
+    <description>Intramuscular administration</description>
+    <arm_group_label>A4a Phase I combine 2 doses</arm_group_label>
+    <arm_group_label>B4a Phase II combine 2 doses</arm_group_label>
+    <arm_group_label>B5a Phase II intramuscular single dose</arm_group_label>
+    <arm_group_label>B6b Phase II placebo Aerogen Solo single dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo for Inhalation</intervention_name>
+    <description>Aerogen Solo</description>
+    <arm_group_label>A1b Phase I placebo low 2 doses</arm_group_label>
+    <arm_group_label>A2b Phase I placebo medium 2 doses</arm_group_label>
+    <arm_group_label>A3b Phase I placebo high 2 doses</arm_group_label>
+    <arm_group_label>A4b Phase I placebo combine 2 doses</arm_group_label>
+    <arm_group_label>A5b Phase I placebo single dose</arm_group_label>
+    <arm_group_label>B1b Phase II placebo low 2 doses (18-59)</arm_group_label>
+    <arm_group_label>B2b Phase II placebo medium 2 doses</arm_group_label>
+    <arm_group_label>B3b Phase II placebo high 2 doses</arm_group_label>
+    <arm_group_label>B4b Phase II placebo combine 2 doses</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intramuscular administration</description>
+    <arm_group_label>A4b Phase I placebo combine 2 doses</arm_group_label>
+    <arm_group_label>B4b Phase II placebo combine 2 doses</arm_group_label>
+    <arm_group_label>B5b Phase II placebo intramuscular single dose</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy adults 18 years of age and above at the time of enrollment;&#xD;
+&#xD;
+          -  Able to provide consent to participate in and having signed an Informed Consent Form&#xD;
+             (ICF);&#xD;
+&#xD;
+          -  Able and willing to complete all the scheduled study procedures during the whole study&#xD;
+             follow-up period;&#xD;
+&#xD;
+          -  HIV negative;&#xD;
+&#xD;
+          -  No nasal or oral diseases, such as acute rhinitis (sinusitis), allergic rhinitis, oral&#xD;
+             ulcers, sore throat, etc;&#xD;
+&#xD;
+          -  IgG ang IgM negative for Covid-19;&#xD;
+&#xD;
+          -  Axillary temperature ≤37.0℃;&#xD;
+&#xD;
+          -  No contact history of Covid-19.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Serious cardiovascular diseases, such as arrhythmia, conduction block, myocardial&#xD;
+             infarction, severe hypertension and uncontrollable medications (on-site measurement:&#xD;
+             systolic blood pressure ≥160mmHg, diastolic blood pressure ≥100mmHg), etc;&#xD;
+&#xD;
+          -  Abnormal laboratory test indicators which investigator decide to be clinically&#xD;
+             significant; (Only Phase I volunteers)&#xD;
+&#xD;
+          -  Respiratory rate ≥17 per minute;&#xD;
+&#xD;
+          -  Abnormal lung function such as asthma, chronic obstructive pulmonary disease,&#xD;
+             pulmonary fibrosis, etc;&#xD;
+&#xD;
+          -  Prior Covid-19 vaccinations;&#xD;
+&#xD;
+          -  Symptoms of upper respiratory track infections;&#xD;
+&#xD;
+          -  Medical or family history of convulsions, epilepsy, encephalopathy, and psychosis&#xD;
+             disorders;&#xD;
+&#xD;
+          -  History of allergies to any ingredient of Ad5-nCoV, history of serious allergic&#xD;
+             reactions to any vaccine, history of allergies and immune diseases;&#xD;
+&#xD;
+          -  Acute febrile diseases and infectious diseases;&#xD;
+&#xD;
+          -  Medical history of SARS (SARS-CoV-1);&#xD;
+&#xD;
+          -  Severe chronic diseases or with advanced stage conditions which cannot be controlled&#xD;
+             smoothly, such as diabetes, thyroid disease, etc;&#xD;
+&#xD;
+          -  Congenital or acquired angioedema/neurological edema;&#xD;
+&#xD;
+          -  Urticaria history within 1 year before receiving the study vaccine;&#xD;
+&#xD;
+          -  Asplenia or functional aspleenia;&#xD;
+&#xD;
+          -  Thrombocytopenia or other coagulation disorders (may cause contraindications for&#xD;
+             intramuscular injection);&#xD;
+&#xD;
+          -  Trypanophobia in intramuscular injection groups;&#xD;
+&#xD;
+          -  History of receiving immunosuppressant therapy (continuous oral or instillation for&#xD;
+             more than 14 days), anti-allergic therapy, cytotoxic therapy, nebulized corticosteroid&#xD;
+             therapy in the past 6 months;&#xD;
+&#xD;
+          -  Prior administration of blood products in last 4 months;&#xD;
+&#xD;
+          -  Other vaccination(s) or investigational drugs within 1 month before study onset, or&#xD;
+             planned use during the study period;&#xD;
+&#xD;
+          -  Prior administration of live attenuated vaccine within 1 month before study onset;&#xD;
+&#xD;
+          -  Prior administration of subunit or inactivated vaccine within 14 days before study&#xD;
+             onset;&#xD;
+&#xD;
+          -  Current anti-tuberculosis therapy;&#xD;
+&#xD;
+          -  Women who are pregnant or lactating, positive urine pregnancy test or plan to become&#xD;
+             pregnant during the whole study;&#xD;
+&#xD;
+          -  Any condition that in the opinion of the investigators may interfere with the&#xD;
+             participants' compliance or evaluation of study objectives or informed consent (i.e.&#xD;
+             medical, psychological, social or other conditions, etc.) Exclusion criteria for the&#xD;
+             phase II portion of the study will be detailed in an amended synopsis/study protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fengcai Zhu, MSD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Jiangsu Provincal Center for Disease Control and Prevention</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rong Tang, MSD</last_name>
+    <phone>+86 025-83759911</phone>
+    <email>tangrongtr@126.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Jiangsu Provincal Center for Disease Control and Prevention</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Rong Tang, MSD</last_name>
+      <phone>+86 025-83759911</phone>
+      <email>tangrongtr@126.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 12, 2021</study_first_posted>
+  <last_update_submitted>April 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Vaccine</keyword>
+  <keyword>Ad5</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Immunogencity</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Adenovirus Vector</keyword>
+  <keyword>Aerogen Solo</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Aspiration</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

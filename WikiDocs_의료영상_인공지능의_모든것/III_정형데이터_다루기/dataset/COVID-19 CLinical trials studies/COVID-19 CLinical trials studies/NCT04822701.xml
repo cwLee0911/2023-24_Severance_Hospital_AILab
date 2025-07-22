@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3251">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04822701</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1487-0001</org_study_id>
+    <secondary_id>2020-005588-29</secondary_id>
+    <nct_id>NCT04822701</nct_id>
+  </id_info>
+  <brief_title>A Study to Test BI 767551 in People With Mild to Moderate Symptoms of COVID-19</brief_title>
+  <official_title>A Phase II/III Seamless, Randomized, Double-blind, Placebo-controlled, Parallel-group, Group-sequential Study to Evaluate Efficacy, Safety and Tolerability of BI 767551 for the Treatment of Symptomatic, Non-hospitalized Adults With Mild to Moderate COVID-19.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is open to adults with mild to moderate symptoms of COVID-19 (coronavirus&#xD;
+      disease). The purpose of this study is to find out whether a medicine called BI 767551 helps&#xD;
+      people with COVID-19. BI 767551 is an antibody against the coronavirus.&#xD;
+&#xD;
+      The study has 2 parts.&#xD;
+&#xD;
+      Part 1 wants to find out the best dose of BI 767551 given as infusion into a vein. It also&#xD;
+      tests how BI 767551 is taken up by the body when taken via an inhaler. Participants are put&#xD;
+      into 4 groups by chance. Participants get BI 767551 or placebo once.&#xD;
+&#xD;
+        -  1 group gets a high dose of BI 767551 as an infusion into a vein&#xD;
+&#xD;
+        -  1 group gets a low dose of BI 767551 as an infusion into a vein&#xD;
+&#xD;
+        -  1 group gets BI 767551 via an inhaler&#xD;
+&#xD;
+        -  1 group gets placebo both as an infusion into a vein and via an inhaler&#xD;
+&#xD;
+      The placebo infusion and inhaler look like the BI 767551 infusion and inhaler but do not&#xD;
+      contain any medicine.&#xD;
+&#xD;
+      Doctors check how BI 767551 reduces the amount of coronavirus. Once the best dose of BI&#xD;
+      767551 is found, part 2 of the study tests BI 767551 in a larger group of people. Also, in&#xD;
+      part 2, the participants get BI 767551 or placebo as an infusion into a vein once. In this&#xD;
+      part, doctors will check how many people need to be treated in a hospital or die. The results&#xD;
+      will be compared between the groups.&#xD;
+&#xD;
+      For each part, participants are in the study for about 13 weeks. During this time, they visit&#xD;
+      the study site about 8 times and get about 3 remote visits.&#xD;
+&#xD;
+      The doctors also regularly check participants' health and take note of any unwanted effects&#xD;
+      of BI 767551.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 16, 2021</start_date>
+  <completion_date type="Anticipated">March 3, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 22, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This trial consists of two phases:&#xD;
+Exploratory Phase II:&#xD;
+Randomised, double-blind, placebo controlled, doubledummy,Phase II, parallel group design comparing different doses and modes of administration of BI 767551 to placebo.&#xD;
+Confirmatory Phase III:&#xD;
+Randomised, double-blind, placebo-controlled, parallel group, Phase III comparing BI 767551 to placebo.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase II: Time-weighted change from baseline in viral shedding over 8 days in site collected nasopharyngeal (NP) swabs by Quantitative Reverse Transcription Polymerase chain reaction (RT-qPCR), defined as a change from baseline in log10 viral load</measure>
+    <time_frame>up to 8 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase III: Hospitalization or death from any cause by Day 29</measure>
+    <time_frame>up to 29 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Phase II: Time-weighted change from baseline in viral shedding in NP swabs by RT-qPCR over 29 days</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase II: Loss of detection of Severe acute respiratory syndrome coronavirus 2 ribonucleic acid (SARS-CoV-2 RNA) by site collected NP swab at Day 4, 8, 15, 22 and 29</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase III: Time to death over 29 days</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase III: Hospitalization by Day 29</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase III: Hypoxia or hospitalization or death from any cause by Day 29</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase III: Hypoxia by Day 29</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase III: Time to clinical improvement over 29 days, defined as the time to either an improvement of two points on the 11-point WHO Clinical Progression Scale or a score of 0 on the Clinical Progression Scale, whichever comes first</measure>
+    <time_frame>up to 29 days</time_frame>
+    <description>WHO: World Health Organisation&#xD;
+The 11-point WHO Clinical Progression Scale ranges from 0 to 10, with a higher score indicating a worsening of the symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase III: Time to loss of detection of SARS-CoV-2 RNA by site collected NP swabs over 29 days</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">1440</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Phase II, Arm 1: Placebo infusion with placebo inhalation</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase II, Arm 2: Low dose BI 767551 infusion with placebo inhalation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase II, Arm 3: High dose BI 767551 infusion with placebo inhalation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase II, Arm 4: Placebo infusion with BI 767551 inhalation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase III, Arm 1: BI 767551 (low or high dose)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase III, Arm 2: Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 767551 intravenous</intervention_name>
+    <description>BI 767551 intravenous</description>
+    <arm_group_label>Phase II, Arm 2: Low dose BI 767551 infusion with placebo inhalation</arm_group_label>
+    <arm_group_label>Phase II, Arm 3: High dose BI 767551 infusion with placebo inhalation</arm_group_label>
+    <arm_group_label>Phase III, Arm 1: BI 767551 (low or high dose)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 767551 inhaled</intervention_name>
+    <description>BI 767551 inhaled</description>
+    <arm_group_label>Phase II, Arm 4: Placebo infusion with BI 767551 inhalation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo intravenous</intervention_name>
+    <description>Placebo intravenous</description>
+    <arm_group_label>Phase II, Arm 1: Placebo infusion with placebo inhalation</arm_group_label>
+    <arm_group_label>Phase II, Arm 4: Placebo infusion with BI 767551 inhalation</arm_group_label>
+    <arm_group_label>Phase III, Arm 2: Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo inhaled</intervention_name>
+    <description>Placebo inhaled</description>
+    <arm_group_label>Phase II, Arm 1: Placebo infusion with placebo inhalation</arm_group_label>
+    <arm_group_label>Phase II, Arm 2: Low dose BI 767551 infusion with placebo inhalation</arm_group_label>
+    <arm_group_label>Phase II, Arm 3: High dose BI 767551 infusion with placebo inhalation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria phase II and III:&#xD;
+&#xD;
+          -  ≥ 18 years old, males and females&#xD;
+&#xD;
+          -  Signed and dated written informed consent in accordance with International Council on&#xD;
+             Harmonisation - Good Clinical Practice (ICH-GCP) and local legislation prior to&#xD;
+             admission to the trial&#xD;
+&#xD;
+          -  Documentation of laboratory-confirmed Severe acute respiratory syndrome coronavirus 2&#xD;
+             (SARS-CoV-2) infection, as determined by a molecular test (antigen or nucleic acid)&#xD;
+             from any respiratory tract specimen (nasopharyngeal (NP) or nasal swab or saliva)&#xD;
+             collected no more than 72 hours prior to start of treatment&#xD;
+&#xD;
+          -  Patients experienced mild to moderate Coronavirus Disease 2019 (COVID-19)-related&#xD;
+             symptoms or measured fever for no more than 5 days prior to start of treatment where&#xD;
+             symptoms are defined by fever, feeling feverish, fatigue, cough, shortness of breath&#xD;
+             at rest or during activity, sore throat, body pain or muscle pain/ aches, chills,&#xD;
+             headache, nasal obstruction or congestion, loss of smell or taste, nausea, diarrhea,&#xD;
+             vomiting, or dysgeusia&#xD;
+&#xD;
+          -  One or more of the following signs/symptoms present on day of start of treatment:&#xD;
+             fever, feeling feverish, fatigue, cough, shortness of breath at rest or during&#xD;
+             activity, sore throat, body pain or muscle pain/ aches, chills, headache, nasal&#xD;
+             obstruction or congestion, loss of smell or taste, nausea, diarrhea, vomiting, or&#xD;
+             dysgeusia&#xD;
+&#xD;
+          -  Women of childbearing potential (WOCBP) and men able to father a child must be ready&#xD;
+             and able to use highly effective methods of birth control per ICH M3 (R2) that result&#xD;
+             in a low failure rate of less than 1% per year when used consistently and correctly&#xD;
+&#xD;
+        Exclusion criteria phase II and III:&#xD;
+&#xD;
+          -  Body weight of less than 40 kg&#xD;
+&#xD;
+          -  Severe or critical COVID-19 including at least one of&#xD;
+&#xD;
+               -  Oxygen saturation (SpO2) ≤ 93 % on room air or on their usual level of oxygen&#xD;
+                  supplementation in case of chronic oxygen use&#xD;
+&#xD;
+               -  Ratio of arterial oxygen partial pressure (PaO2 in millimeters of mercury) to&#xD;
+                  fractional inspired oxygen (FiO2) &lt; 300 (in case arterial blood sample was taken)&#xD;
+&#xD;
+               -  History of hospitalization for COVID-19&#xD;
+&#xD;
+               -  Current or imminent need for hospitalization or immediate medical attention in&#xD;
+                  the clinical opinion of the site investigator. Does not include patients&#xD;
+                  hospitalized for isolation only&#xD;
+&#xD;
+          -  Receipt of intravenous immunoglobulin within 12 weeks prior to Visit 2&#xD;
+&#xD;
+          -  Receipt of COVID-19 convalescent plasma treatment at any time prior to Visit 2&#xD;
+&#xD;
+          -  Receipt of any SARS-CoV-2 monoclonal antibody treatment at any time prior to Visit 2&#xD;
+&#xD;
+          -  Receipt of SARS-CoV-2 vaccine at any time prior to Visit 2&#xD;
+&#xD;
+          -  Receipt of an investigational product for COVID-19 within 5 half-lives prior to Visit&#xD;
+             2&#xD;
+&#xD;
+          -  Receipt of systemic steroids (e.g. prednisone, dexamethasone) within 4 weeks prior to&#xD;
+             Visit 2 unless used for chronic condition Further exclusion criteria apply.&#xD;
+&#xD;
+        Exclusion criterion phase III only:&#xD;
+&#xD;
+        - Previous enrolment in this trial. Patients participating in Phase II are not eligible for&#xD;
+        Phase III. Re-screening is allowed once, for repeat of Quantitative Reverse Transcription&#xD;
+        Polymerase chain reaction (RT-qPCR) or antigen SARS-CoV-2 test, if required. The test&#xD;
+        method used for initial screening (RT-qPCR or antigen) should be used for re-screening.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Boehringer Ingelheim</last_name>
+    <phone>1-800-243-0127</phone>
+    <email>clintriage.rdg@boehringer-ingelheim.com</email>
+  </overall_contact>
+  <link>
+    <url>http://www.mystudywindow.com/</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>After the study is completed and the primary manuscript is accepted for publishing, researchers can use this following link https://trials.boehringer-ingelheim.com/trial_results/clinical_submission_documents.htmlto request access to the clinical study documents regarding this study, and upon a signed &quot;Document Sharing Agreement&quot;. Also, researchers can use the following link http://trials.boehringer-ingelheim.com/ to find information in order to request access to the clinical study data, for this and other listed studies, after the submission of a research proposal and according to the terms outlined in the website.&#xD;
+The data shared are the raw clinical study data sets.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>After all regulatory activities are completed in the United States (US) and European Union (EU) for the product and indication, and after the primary manuscript has been accepted for publication.</ipd_time_frame>
+    <ipd_access_criteria>For study documents - upon signing of a 'Document Sharing Agreement'. For study data - 1. after the submission and approval of the research proposal (checks will be performed by both the independent review panel and the sponsor, including checking that the planned analysis does not compete with sponsor's publication plan); 2. and upon signing of a 'Data Sharing Agreement'.</ipd_access_criteria>
+    <ipd_url>https://trials.boehringer-ingelheim.com</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1662">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04765449</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21P.015</org_study_id>
+    <nct_id>NCT04765449</nct_id>
+  </id_info>
+  <brief_title>Transfer of Infection Fighting Immune Cells Generated in the Laboratory to High Risk Patients With COVID-19 Infection</brief_title>
+  <official_title>Third-Party Covid-19-Specific Cytotoxic T Lymphocytes for the Treatment of Elderly and High-Risk Patients With Covid-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Thomas Jefferson University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Tevogen Bio Inc</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Thomas Jefferson University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpsse of this research is to assess the safety and effectiveness of a new experimental&#xD;
+      treatment for COVID-19 infection. While the infection and virus actually have different&#xD;
+      names, for the purpose of this consent, we will refer to them both as COVID-19. Specifically,&#xD;
+      this is the virus that has caused the pandemic that moved across the world in early 2020. You&#xD;
+      are being offered this experimental treatment because you have tested positive for the&#xD;
+      COVID-19 virus and have additional reasons to be considered at higher risk for a more serious&#xD;
+      outcome compared to the average patient who develops this infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 30, 2021</start_date>
+  <completion_date type="Anticipated">February 29, 2024</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety of COVID-19-specific CTLs: Infusion Reactions</measure>
+    <time_frame>Within 48 Hours of CTL Infusion</time_frame>
+    <description>Safety will be measured by the absence of: Grade ≥ 3 acute infusion reactions</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety of COVID-19-specific CTLs: Grade 4 AEs</measure>
+    <time_frame>Within 14 days of CTL infusion</time_frame>
+    <description>Safety will be measured by the absence of: Any grade 4 or higher adverse event thought to be related to the CTL therapy and outside the spectrum of identified COVID related events.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety of COVID-19-specific CTLs: GVHD</measure>
+    <time_frame>Within 14 days of CTL infusion</time_frame>
+    <description>Safety will be measured by the absence of: Any manifestation of acute GVHD (for acute grades 2-4 GVHD-Glucksberg criteria) 53 resistant to 2 mg/kg of solumedrol or equivalent</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety of COVID-19-specific CTLs: Marrow Aplasia</measure>
+    <time_frame>Within 14 days of CTL infusion</time_frame>
+    <description>Safety will be measured by the absence of: Marrow aplasia due to 3rd party engraftment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety of COVID-19-specific CTLs: Neurotoxicty</measure>
+    <time_frame>Within 14 days of CTL infusion</time_frame>
+    <description>Safety will be measured by the absence of: Grade ≥ 2+ Neurotoxicity as measured by the ASTCT/ICANS consensus grading system</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety of COVID-19-specific CTLs: CRS</measure>
+    <time_frame>Within 14 days of CTL infusion</time_frame>
+    <description>Safety will be measured by the absence of: Grade ≥ 2+ CRS as measured by the ASTCT Consensus Grading Criteria for CRS</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Arm A: Covid-19 Patients Receiving CTLs</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: Covid-19 Patients Not Receiving CTLs</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cytotoxic T Lymphocytes</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm A: Covid-19 Patients Receiving CTLs</arm_group_label>
+    <other_name>CTLs</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        •Have a documented active COVID-19 infection and one of the following high-risk criteria:&#xD;
+        oAge &gt;= 70 (with or without previously identified comorbid conditions)&#xD;
+&#xD;
+        AND/OR any one of the following comorbid conditions:&#xD;
+&#xD;
+        oMalignancy receiving radiation or chemotherapy in the prior 12 months oChronic lung&#xD;
+        disease such as asthma, COPD, interstitial lung disease, pulmonary hypertension or cystic&#xD;
+        fibrosis, requiring treatment beyond inhaled medications oHypertension either treated or&#xD;
+        with evidence of need for treatment oCardiovascular disease requiring active medical&#xD;
+        monitoring and care including heart failure, heart dysrhythmias, coronary artery disease,&#xD;
+        congenital heart disease, cardiomyopathy, or pulmonary hypertension oHistory of ischemic&#xD;
+        stroke oDiabetes (type 1, type 2, or gestational) requiring treatment with insulin or oral&#xD;
+        hypoglycemics oChronic Kidney Disease (Hx of stage 3b or greater as defined by the National&#xD;
+        Kidney Foundation) oChronic Liver Disease (Previously diagnosed with cirrhosis or&#xD;
+        previously classified as having Pugh-Child class A-C liver disease) oObesity (BMI &gt;= 35)&#xD;
+        oSickle Cell Disease or Thalassemia oPatients requiring nursing home support or who have a&#xD;
+        Karnofsky Performance Status of 70% or less antedating their COVID-19 illness.&#xD;
+&#xD;
+          -  Premenopausal women (age &lt;50 years) must demonstrate a negative pregnancy test&#xD;
+&#xD;
+          -  Patient or guardian or family member ability to give informed consent&#xD;
+&#xD;
+        To be included in the treatment group, a patient must also:&#xD;
+&#xD;
+        •Express at least 1 HLA allele in common with a stored CTL product.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Matching their intended CTL product donor at 5 or 6 of 6 HLA-class I (HLA-A, B, and C)&#xD;
+             alleles.&#xD;
+&#xD;
+          -  Requiring supplemental oxygen&#xD;
+&#xD;
+          -  Evidence of active COVID-19-related CRS as evidenced by 2 or more of the following&#xD;
+             characteristics of cytokine storm:&#xD;
+&#xD;
+             o&gt; grade 1 CRS on ASTCT criteria. ASTCT criteria do not provide quantitative&#xD;
+             guidelines regarding the definition of hypotension. For this trial, hypotension will&#xD;
+             be defined as:&#xD;
+&#xD;
+               1. requiring vasopressors&#xD;
+&#xD;
+               2. Systolic blood pressure &lt;110 mm Hg&#xD;
+&#xD;
+               3. Diastolic B/P &lt; 70 mm Hg NB Lower systolic and diastolic blood pressures will be&#xD;
+                  acceptable if patient's blood pressure is at his/her known baseline.&#xD;
+&#xD;
+                  oUncontrolled hypertension as defined by a systolic pressure of &gt; 160 mm Hg or&#xD;
+                  diastolic pressure &gt; 95 mm Hg. A second blood pressure reading may be obtained by&#xD;
+                  study personnel to assure blood pressure accuracy.&#xD;
+&#xD;
+                  oradiographic studies consistent with adult respiratory distress syndrome&#xD;
+                  oPatients requiring acute dialysis ohyperferritinemia as defined by ferritin &gt;&#xD;
+                  2000 ng/mL 55 oConcurrent treatment with &gt;5 mg of prednisone daily (or&#xD;
+                  equivalent).&#xD;
+&#xD;
+          -  Current or ongoing administration of calcineurin inhibitors, chemotherapy, radiation,&#xD;
+             or other immunosuppressive agents.&#xD;
+&#xD;
+          -  Receipt of agents with ongoing immunosuppressive properties in the last 30 days&#xD;
+             including, ATG, Alemtuzumab, or similar agents.&#xD;
+&#xD;
+          -  Prior bone marrow, stem cell, or solid organ transplant&#xD;
+&#xD;
+          -  Active HIV infection with CD4 count less than 200/ul.&#xD;
+&#xD;
+          -  Known autoimmune disease requiring systemic treatment.&#xD;
+&#xD;
+          -  Pregnancy (lactating females allowable)&#xD;
+&#xD;
+          -  Concomitant treatment with another experimental intervention for COVID-19 other than&#xD;
+             Remdesivir.&#xD;
+&#xD;
+          -  History of allergic reaction to cellular therapy products (includes blood&#xD;
+             transfusion), diphenhydramine, or tocilizumb&#xD;
+&#xD;
+          -  Corrected QT interval &gt; 450 milliseconds&#xD;
+&#xD;
+          -  History of torsade de pointes or other ventricular arrhythmia Women of childbearing&#xD;
+             potential, and partners of women of childbearing potential should be using at least&#xD;
+             one method of highly effective contraception at the time of enrollment and for the&#xD;
+             14-day duration of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>70 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Dolores Grosso, DNP</last_name>
+    <phone>215-955-8874</phone>
+    <email>Dolores.Grosso@jefferson.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Sidney Kimmel Cancer Center at Thomas Jefferson University</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>March 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

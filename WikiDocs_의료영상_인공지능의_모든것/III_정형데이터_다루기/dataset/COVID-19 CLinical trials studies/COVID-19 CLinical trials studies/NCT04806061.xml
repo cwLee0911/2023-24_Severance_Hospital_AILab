@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2829">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04806061</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GSTT COVID-AKI</org_study_id>
+    <nct_id>NCT04806061</nct_id>
+  </id_info>
+  <brief_title>Urine Alkalinisation in COVID-19</brief_title>
+  <official_title>Urine Alkalinisation to Prevent AKI in COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Guy's and St Thomas' NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Guy's and St Thomas' NHS Foundation Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Since the outbreak of coronavirus disease 2019 (COVID-19), more than 100,000 patients have&#xD;
+      died in the United Kingdom. Acute kidney injury is common in critically ill patients with&#xD;
+      COVID-19. It is associated with a high risk of dying. At present, it is not clear how to&#xD;
+      prevent or treat kidney failure in these patients.&#xD;
+&#xD;
+      Recent research has shown that the coronavirus can directly infect kidney issue. It uses a&#xD;
+      particular protein on the cell surface (the ACE2 receptor) for entry into cells. Entry into&#xD;
+      cells is easier if the blood is more acidic.&#xD;
+&#xD;
+      The aim of this project is to find out whether urinary alkalisation using intravenous&#xD;
+      bicarbonate is feasible and can reduce the risk of acute kidney injury in critically ill&#xD;
+      patients with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Acute kidney injury (AKI) is common in patients with Coronavirus disease 2019 (COVID-19).&#xD;
+      Research has shown that the SARS-CoV-2 virus can directly infect kidney issue via the&#xD;
+      Angiotensin-converting-enzyme 2 receptor which is pH dependent. The aim of this randomised&#xD;
+      controlled feasibility study is to explore whether urinary alkalisation using intravenous&#xD;
+      bicarbonate is feasible and can reduce the risk of acute kidney injury in critically ill&#xD;
+      patients with COVID-19.&#xD;
+&#xD;
+      Critically ill patients with COVID-19 and no AKI will be randomised to intravenous NaHCO3&#xD;
+      8.4% versus standard care for up to 10 days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 15, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 15, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>open label randomised controlled trial</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>urinary alkalisation</measure>
+    <time_frame>10 days</time_frame>
+    <description>urine pH &gt;7.5</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>acute kidney injury</measure>
+    <time_frame>28 days</time_frame>
+    <description>creatinine rise as defined by KDIGO criteria</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Covid19</condition>
+  <condition>Acute Kidney Injury</condition>
+  <arm_group>
+    <arm_group_label>sodium bicarbonate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>iv sodium bicarbonate 8.4%</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>standard care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sodium bicarbonate</intervention_name>
+    <description>sodium bicarbonate 8.4% to achieve urinary pH &gt;7.5</description>
+    <arm_group_label>sodium bicarbonate</arm_group_label>
+    <other_name>sodium bicarbonate 8.4%</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>standard care</intervention_name>
+    <description>standard care</description>
+    <arm_group_label>control</arm_group_label>
+    <other_name>usual care</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Confirmed Covid-19 positive&#xD;
+&#xD;
+          -  Admission to Critical Care Unit&#xD;
+&#xD;
+          -  Bladder catheter in situ&#xD;
+&#xD;
+          -  Central line in place&#xD;
+&#xD;
+          -  Age ≥18y&#xD;
+&#xD;
+          -  Written informed consent to participate in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Stage 3 AKI (as defined by Kidney Disease Improving Global Outcome criteria)&#xD;
+&#xD;
+          -  Chronic kidney disease stage 4 or 5&#xD;
+&#xD;
+          -  Contraindications to NaHCO3 therapy (e.g. risk of serious drug interaction, systemic&#xD;
+             metabolic alkalosis, congestive heart failure)&#xD;
+&#xD;
+          -  Urine pH &gt; 7.5&#xD;
+&#xD;
+          -  Serum sodium &gt;150mmol/L&#xD;
+&#xD;
+          -  Blood pressure &gt;180/100mgHg&#xD;
+&#xD;
+          -  Severe hypokalaemia (K&lt;3.0mmol/L)&#xD;
+&#xD;
+          -  Severe hypocalcaemia (Cai &lt;0.8 mmol/L)&#xD;
+&#xD;
+          -  Pregnant or lactating and breast-feeding women&#xD;
+&#xD;
+          -  Patient is on a medication that may interact with sodium bicarbonate&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marlies Ostermann, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Guy's &amp; St Thomas Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marlies Ostermann, PhD</last_name>
+    <phone>00442071887188</phone>
+    <phone_ext>83038</phone_ext>
+    <email>Marlies.Ostermann@gstt.nhs.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nuttha Lumlertgul, PhD</last_name>
+    <phone>00442071887188</phone>
+    <phone_ext>83038</phone_ext>
+    <email>Nuttha.Lumlertgul@gstt.nhs.uk</email>
+  </overall_contact_backup>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 19, 2021</study_first_posted>
+  <last_update_submitted>March 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acute Kidney Injury</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

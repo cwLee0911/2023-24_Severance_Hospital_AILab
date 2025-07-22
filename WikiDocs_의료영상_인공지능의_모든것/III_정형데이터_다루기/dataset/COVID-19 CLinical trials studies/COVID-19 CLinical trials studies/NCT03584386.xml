@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5598">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03584386</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R44MH108222</org_study_id>
+    <nct_id>NCT03584386</nct_id>
+  </id_info>
+  <brief_title>CAMS Relational Agent System (CAMS-RAS) for Suicide Prevention</brief_title>
+  <acronym>V-CAMS</acronym>
+  <official_title>CAMS Relational Agent System (CAMS-RAS) for Suicide Prevention</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Evidence-Based Practice Institute, Seattle, WA</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Allina Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Aurora Health Care</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Harborview Injury Prevention and Research Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Catholic University of America</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Evidence-Based Practice Institute, Seattle, WA</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase II study is a continuation of the Phase I feasibility study where the&#xD;
+      investigators fully met and exceeded project aims to design, build, and test the usability&#xD;
+      and acceptability of an avatar-based system, the Virtual-CAMS (V-CAMS, formerly called&#xD;
+      CAMS-RAS), for use by suicidal ED patients and medical personnel responsible for their care.&#xD;
+      Phase II includes a formative phase, during which the investigators will continue conducting&#xD;
+      usability and acceptability tests of new features, and a summative phase to conduct a&#xD;
+      clinical trial. SBIR Phase II project aims include: (1) Complete development of V-CAMS,&#xD;
+      including readiness for electronic health record integration; (2) Cultivate and utilize the&#xD;
+      advisory board so that V-CAMS is positioned to meet the needs of diverse healthcare systems&#xD;
+      and successful conduct of the proposed research; (3) Conduct usability/acceptability tests of&#xD;
+      new features with target end-users (suicidal patients, including those in the ED, medical&#xD;
+      providers) and key stakeholders (i.e., administrators); and (4) Conduct a randomized&#xD;
+      controlled trial (RCT; N=90) of suicidal ED patients comparing V-CAMS (n=45) to Care-As-Usual&#xD;
+      (CAU; n=45). Participants will be assessed at baseline while in the ED, and again at 7, 30,&#xD;
+      and 90 days. The investigators predict that V-CAMS participants will report a significantly&#xD;
+      greater decrease in suicidal behaviors and ED/hospital admissions, as well as significantly&#xD;
+      greater increases in use of behavioral coping skills, self-efficacy in coping with distress,&#xD;
+      and perceived helpfulness of patients' ED experience and satisfaction with the app. This&#xD;
+      study, however, was paused due to COVID after February, 2020 with a total of 31 participants&#xD;
+      recruited. The study later resumed at one site; however, because of COVID there were fewer&#xD;
+      admissions for suicidal behavior to the ED, only 7 participants were enrolled before the&#xD;
+      study ended recruitment in December, 2020. V-CAMS is now known as Jaspr Health (&quot;Jaspr&quot;). A&#xD;
+      telehealth clinical trial will be conducted with suicidal outpatients to compare the&#xD;
+      Jaspr-At-Home companion mobile app (JAH; n=30) and CAU (in addition to crisis safety&#xD;
+      planning; n=30). Participants will be assessed at baseline, 30- and 90-days after the initial&#xD;
+      session.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2018</start_date>
+  <completion_date type="Anticipated">March 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Suicide Cognitions Scale (SCS)</measure>
+    <time_frame>Baseline, 7 days, 30 days, and 90 days.</time_frame>
+    <description>An 18-item psychometrically sound self-report measure, the Suicide Cognitions Scale (SCS) assesses suicidal schemas. The score is found by summing the items for a total ranging from 18 to 90 with higher scores indicating worse outcomes. The scale is administered to patient participants at four time-points during Phase II (summative) ED RCT and Telehealth RCT to assess change over time.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Patient Health Questionnaire-9 (PHQ-9)</measure>
+    <time_frame>Baseline, 7 days, 30 days, and 90 days.</time_frame>
+    <description>A nine-item self-report measure that assesses recent depressive symptoms and has excellent sensitivity (.77 to .86) and specificity (.78 to .95) in detecting major depression. The Patient Health Questionnaire-9 (PHQ-9) total score is found by summing the answers and ranges from 0 to 27. Higher scores indicate more severe symptoms. It is administered to patient participants at four time-points during Phase II (summative).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Coping Skills Use</measure>
+    <time_frame>Baseline, 7 days, 30 days, and 90 days.</time_frame>
+    <description>A face-valid self-report measure developed by Dr. Dimeff and used in other clinical trials to assess frequency of skills use, perceived helpfulness of skill, and self-efficacy in using them. It is administered to patient participants at four time-points during Phase II (summative).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Client Satisfaction Questionnaire (CSQ)</measure>
+    <time_frame>Baseline, 7 days, 30 days, and 90 days.</time_frame>
+    <description>An eight-item measure frequently used in clinical trials, modified for this study to focus on patient participants' emergency department experience. The Client Satisfaction Questionnaire (CSQ) is scored by summing the individual items to produce a range of 8 to 32, with higher scores indicating greater satisfaction. It is administered to patient participants at four time-points during Phase II (summative).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Safety &amp; Imminent Distress Scale (SIDQ)</measure>
+    <time_frame>Baseline, 7 days, 30 days, and 90 days.</time_frame>
+    <description>(Previously titled &quot;Research Participation Questionnaire&quot;) A four-item self-report scale (min: 1 (low); max 10 (high)) modified for this study to measure emotional distress and self-efficacy in coping with suicidality. It is administered to patient participants at each assessment point during Phase II (summative) ED RCT and Telehealth RCT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the Depression Anxiety and Stress Scale (DASS-21)</measure>
+    <time_frame>Baseline, 30 days, and 90 days.</time_frame>
+    <description>A 21-item self-report measure frequently used in clinical trials, used to measure emotional states of depression, anxiety, and stress. The DASS-21 contains three subscales with seven items each. Subscale totals are obtained by summing the seven item scores and multiplying by two to produce a range from 0 to 42, with higher scores indicating higher severity. It is administered to patient participants at three time-points during the Phase II (summative) Telehealth RCT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Suicide-Related Coping Scale (SRCS)</measure>
+    <time_frame>Baseline, 7 days, 30 days, and 90 days.</time_frame>
+    <description>This 17-item self-report measure is designed to assess a participant's capacity to cope effectively with their suicidal thoughts. Each item is rated on five point Likert scale from 0 (Strongly Disagree) to 4 (Strongly Agree). It is administered to patient participants at each assessment time-points during Phase II (summative) ED RCT and Telehealth RCT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Suicide Attempt and Self-Injury Questions</measure>
+    <time_frame>Baseline, 30 days, and 90 days.</time_frame>
+    <description>A six-item self-report measure assessing frequency of engagement in suicidal or self-injurious behaviors as well as frequency of seeking assistance from emergency room, professional, or crisis line for suicidal or self-injurious behaviors in the past three months. It is administered to patient participants at three time-points during the Phase II (summative) Telehealth RCT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the Suicide Behaviors Questionnaire - Revised (SBQ-R)</measure>
+    <time_frame>Baseline, 30 days, and 90 days.</time_frame>
+    <description>A four-item self-report scale assessing suicide ideation and attempt over the lifetime and past year; threat of suicide attempt; likelihood of suicidality in the future. Items are summed producing a total ranging from 3 to 18, with higher scores indicating higher severity. It is administered at three time-points during the Phase II (summative)Telehealth RCT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Outpatient Satisfaction Questionnaire</measure>
+    <time_frame>Baseline, 30 days, and 90 days.</time_frame>
+    <description>An eight-item self-report measure to assess patient satisfaction with the care they received, perception of provider, and readiness to maintain safety. Higher scores indicate higher levels of satisfaction. It is administered to patient participants at three time-points during Phase II (summative) Telehealth RCT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Jaspr-At-Home Patient Satisfaction Survey</measure>
+    <time_frame>Baseline, 30 days, and 90 days.</time_frame>
+    <description>A 12-item self-report measure assessing the usability and satisfaction of the JAH mobile app. Higher scores indicate higher satisfaction and usability. It is administered to patient participants at three time-points during Phase II (summative) Telehealth RCT.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Usability Satisfaction and Acceptability Questionnaire (USAQ)</measure>
+    <time_frame>Up to one day</time_frame>
+    <description>A brief face-valid, self-report measure that the PI derived from the System Usability Scale and has been successfully used in previous studies. Items are rated on a 5-point Likert Scale (1=poor; 3=good; 5=excellent). Open-ended questions are included to better understand what was most and least helpful with respect to each category and also measures users' acceptance. This scale is only administered during Phase I, formative usability and acceptability testing. It is administered directly after participants complete their interaction with the technology during their one-time participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Provider Ratings Questionnaire</measure>
+    <time_frame>Baseline, 7 days, 30 days, and 90 days.</time_frame>
+    <description>A face-valid self-report measure that will be adapted by the Principal Investigators to assess patient preparedness for clinical interview, patient distress, provider confidence in suicide risk assessment and helpfulness of clinical support tool. Expected date of development: February, 2019. It is administered to provider participants at four time-points during Phase II (summative).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Optimism &amp; Hope Scale</measure>
+    <time_frame>Baseline, 7 days, 30 days, and 90 days.</time_frame>
+    <description>A 14-item self-report measure to assess optimism and hope. A total score is obtained by summing ratings on a 4-point Likert scale (1=definitely true; 4=definitely not true) with scores ranging from a total of 14 (low) to 56 (high). It is administered to patient participants at each assessment time-point during Phase II (summative) ED RCT and Telehealth RCT.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Semi-Structured Interview</measure>
+    <time_frame>Up to one day</time_frame>
+    <description>A semi-structured interview to ask about and understand the user's likes, dislikes, and preferences. The semi-structured interview will be conducted for purposes of evaluating the usability of the technology rather than collecting any quantitative data for data analyses. It is administered in Phase I, formative usability and acceptability testing. Participants are asked to complete the semi-structured interview conducted by the research assistant after interacting with the technology.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">303</enrollment>
+  <condition>Suicide</condition>
+  <arm_group>
+    <arm_group_label>V-CAMS (aka Jaspr)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In Phase I (formative), participants are asked to provide feedback on the V-CAMS prototype as it is being refined. Feedback will be gathered via survey measure and interview.&#xD;
+Phase II (summative): Patient participants enrolled in the ED RCT will be randomly assigned to this arm and will be given access to the V-CAMS tools as part of their treatment in the ED. Baseline assessment surveys will be administered in the ED, and three follow up assessments after discharge at 7 days, 30 days, and 90 days. Outpatient participants in the Telehealth RCT will be randomly assigned to receive the V-CAMS/Jaspr companion mobile app JAH in addition to their usual outpatient care. Study assessments will be administered remotely at three time points: baseline, 30- and 90-day follow ups.&#xD;
+Intent to treat sample for ED RCT is defined as completing post-treatment baseline assessment; telehealth study intent to treat threshold is defined as completing setup of JAH on their personal mobile phone.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Care As Usual</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Phase II (summative): Patient participants enrolled in the ED RCT will be randomly assigned to this arm so there is an even number of participants in the experimental condition and this condition. Those assigned to this condition will be treated as usual in the ED. Same as the experimental condition, those in the Care As Usual condition will be asked to complete baseline assessment surveys while they are waiting in the ED, and then three subsequent assessments after discharge at 7 days, 30 days, and 90 days. Outpatient participants enrolled in the Telehealth RCT will be randomly assigned to CAU in addition to receiving crisis safety planning. Study assessments will be administered remotely at baseline and at 30- and 90-day follow ups.&#xD;
+Intent to treat sample for ED RCT is defined as completing post-treatment baseline assessment; telehealth study intent to treat threshold is defined as setting up the control condition crisis stability plan.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>V-CAMS (aka Jaspr)</intervention_name>
+    <description>V-CAMS is an integrated software system for use on any device by suicidal patients.</description>
+    <arm_group_label>V-CAMS (aka Jaspr)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria applicable to all:&#xD;
+&#xD;
+          -  18 years or older&#xD;
+&#xD;
+          -  English speaker&#xD;
+&#xD;
+          -  Have access to a computer or other device (smartphone, tablet) with Internet&#xD;
+             connection&#xD;
+&#xD;
+          -  Have access and regularly use an Apple or Android smartphone&#xD;
+&#xD;
+          -  Have a stable address and housing for the last 30 days&#xD;
+&#xD;
+        ED RCT Inclusion Criteria:&#xD;
+&#xD;
+          -  Clinically stable Suicidal Patient* currently admitted to the ED, psychiatric&#xD;
+             inpatient unit, and medical floors of the participating sites; Suicidal Patients&#xD;
+             currently receiving outpatient mental health services&#xD;
+&#xD;
+          -  Hospital medical personnel who treat suicidal patients, hospital administrators,&#xD;
+             hospital-based peer advocates, and outpatient mental health clinicians and&#xD;
+             administrators&#xD;
+&#xD;
+        &quot;Suicidal Patient&quot; is defined as those patients who:&#xD;
+&#xD;
+          1. Have explicitly indicated to their treatment provider that they are suicidal and/or&#xD;
+             are seeking treatment in part because they want to kill themselves or&#xD;
+&#xD;
+          2. Have made a suicide attempt in the last six months or&#xD;
+&#xD;
+          3. Engaged in non-suicidal self-injurious behaviors with high suicidal ideation (defined&#xD;
+             as 4 to 5 on a 0-5 point Likert scale) in the past three months.&#xD;
+&#xD;
+        &quot;Clinically Stable&quot; and not in clear and imminent danger is defined as:&#xD;
+&#xD;
+          1. Patients who are oriented to time, place, person and are no longer in acute phase of&#xD;
+             distress that led to their ED admission (for those in the ED)&#xD;
+&#xD;
+          2. For those in outpatient context, patient is not in imminent risk for suicide as deemed&#xD;
+             by their treatment provider&#xD;
+&#xD;
+          3. In all cases, patient is able to follow instructions for mood improvement/distress&#xD;
+             tolerance protocol to help stabilize their mood; current status is unlikely to worsen&#xD;
+             as a result of engagement with research staff in study activities as deemed by their&#xD;
+             treatment provider.&#xD;
+&#xD;
+        The Site Contact or Coordinators and/or designated medical staff will determine if suicidal&#xD;
+        patients fit these criteria before referring them to the research team.&#xD;
+&#xD;
+        Telehealth RCT Inclusion Criteria:&#xD;
+&#xD;
+          -  Currently receiving outpatient treatment services for suicidality&#xD;
+&#xD;
+        Exclusion Criteria applicable to all:&#xD;
+&#xD;
+          -  Acutely psychotic and thus unable to provide informed consent&#xD;
+&#xD;
+          -  Severely agitated (as deemed by physician, nurse, or outpatient therapist)&#xD;
+&#xD;
+          -  Not fluent in English&#xD;
+&#xD;
+        Additional Exclusion Criteria for Telehealth RCT only:&#xD;
+&#xD;
+          -  Prior use of Jaspr or Jaspr-At-Home app&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Linda Dimeff, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Evidence-Based Practice Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David A Jobes, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Catholic University of America</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Research Team</last_name>
+    <phone>206-455-7934</phone>
+    <email>research@jasprhealth.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Evidence-Based Practice Institute</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98126</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hannah Lawrence</last_name>
+      <phone>206-455-7934</phone>
+      <email>research@jasprhealth.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maria Ilac</last_name>
+      <phone>206-455-7934</phone>
+      <email>research@jasprhealth.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>June 11, 2018</study_first_submitted>
+  <study_first_submitted_qc>June 28, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 12, 2018</study_first_posted>
+  <last_update_submitted>February 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Suicidality</keyword>
+  <keyword>Collaborative Assessment and Management of Suicidality</keyword>
+  <keyword>CAMS</keyword>
+  <keyword>Technology</keyword>
+  <keyword>Emergency Department</keyword>
+  <keyword>Suicide Intervention</keyword>
+  <keyword>Suicide Assessment</keyword>
+  <keyword>Suicide Prevention</keyword>
+  <keyword>Self-Help Device</keyword>
+  <keyword>Assistive Technology</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Suicide</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Requests for use of data will be considered on a case-by-case basis. Interested researchers may send data requests to research@ebpi.org</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 27, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/86/NCT03584386/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>October 20, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/86/NCT03584386/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

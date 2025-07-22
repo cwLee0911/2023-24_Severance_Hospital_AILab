@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="417">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04830683</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020/27AVR/247</org_study_id>
+    <nct_id>NCT04830683</nct_id>
+  </id_info>
+  <brief_title>Endothelial Dysfunction in Covid-19</brief_title>
+  <acronym>ENDOCOVID</acronym>
+  <official_title>Endothelial Dysfunction and Oxidative Stress in ICU and Non-ICU Covid-19 Patients With Hypoxemic Respiratory Failure</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cliniques universitaires Saint-Luc- Université Catholique de Louvain</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cliniques universitaires Saint-Luc- Université Catholique de Louvain</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      SARS-CoV-2 targets endothelial cells via the angiotensin-converting enzyme 2 receptor. The&#xD;
+      specific impact of the resulting endothelial injury is currently unknown but may contribute&#xD;
+      to the pro-coagulant state classically described during Covid-19 disease and commonly&#xD;
+      associated with an exacerbated activation of the renin-angiotensin-aldosterone system.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We prospectively compared clinical and biological parameters in ICU- and non-ICU-admitted&#xD;
+      Covid-19 patients, ICU-admitted patients with septic shock unrelated to Covid-19 and matched&#xD;
+      control subjects.&#xD;
+&#xD;
+      Primary hemostasis and coagulation parameters and endothelial biomarkers are measured.&#xD;
+      Activation of the renin-angiotensin-aldosterone system is monitored through measurements of&#xD;
+      plasma renin, angiotensin II, aldosterone, and serum soluble angiotensin-converting enzyme 2.&#xD;
+      Vascular oxidative status is assessed by measuring plasma lipids peroxides. Neutrophilic&#xD;
+      polymorphonuclear activation is assessed by measuring plasma levels of Triggering receptor&#xD;
+      expressed on myeloid cells-1. Vascular nitric oxide bioavailability is measured by&#xD;
+      quantification of the concentration of heme-nitrosylated hemoglobin (HbNO) in venous&#xD;
+      erythrocytes using Electron Paramagnetic Resonance spectroscopy. Structural abnormalities of&#xD;
+      vascular endothelial cells were analyzed by Transmission Electron- and Scanning Electron&#xD;
+      Microscopy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 27, 2020</start_date>
+  <completion_date type="Anticipated">April 1, 2021</completion_date>
+  <primary_completion_date type="Actual">March 25, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>4 Weeks</target_duration>
+  <primary_outcome>
+    <measure>Vascular oxidative stress in Covid-19 versus septic shock and control patients</measure>
+    <time_frame>ICU or general ward hospital admission</time_frame>
+    <description>HbNO (nmol/L) and NOX levels (μM/L), oxidative stress with plasma lipids peroxides (mmol/L) levels and soluble TREM-1 measurements. Blood HbNO levels directly correlate with endothelial function and inversely with major cardiovascular risk factors. The nitrite/nitrate levels (NOx) are the the stable end products of NO metabolism that also suggest NO production. Plasma lipids peroxides reflets the surrounding endovascular oxidative stress. sTREM-1 participates in the sepsis-induced ROS production through activation of NADPH oxidase (NOX)-2 during the respiratory burst of activated polymorphonuclear.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Vascular Renin-angiotensin-aldosterone system measurements in Covid-19 versus septic shock and control patients</measure>
+    <time_frame>ICU or general ward hospital admission</time_frame>
+    <description>Renin (pg/mL), Agiotensin II (fmol/mL), Aldosterone (pg/mL) measurements. The RAAS system is a classical activator of vascular NOX2 and ROS production.</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">85</enrollment>
+  <condition>Covid19</condition>
+  <condition>Hypoxemic Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>ICU Covid-19 patients</arm_group_label>
+    <description>Covid-19 patients admitted for refractory respiratory failure despite conventional oxygen therapy requiring Intensive Care Unit (ICU) admission and oxygenation through either High Flow Nasal Cannula (HFNC) therapy or endotracheal intubation with mechanical ventilation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>non-ICU Covid-19 patients</arm_group_label>
+    <description>Covid-19 patients admitted at hospital requiring conventional oxygen or continuous positive airways pressure (cpap)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>matched control subjects</arm_group_label>
+    <description>Healthy subjects matched for similar cardiovascular risk factors than ICU Covid-19 patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ICU septic shock patients</arm_group_label>
+    <description>Septic shock patients corresponded to refractory hypotension in response to an infection, in non Covid-19 patients, requiring ICU hospitalisation for vasopressors to maintain mean arterial pressure (MAP) &gt; 65mm Hg despite adequate volume resuscitation according to the Surviving Sepsis Campaign</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      serum and plasma samples.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Hospitalized patients for SARS-Cov-2 infection&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  positive result on a reverse-transcriptase-polymerase chain reaction testing performed&#xD;
+             on nasopharyngeal swab at hospital admission&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  ICU admission more than five days after admission on a general ward,&#xD;
+&#xD;
+          -  concomitant bacterial infection&#xD;
+&#xD;
+          -  older than 75 years&#xD;
+&#xD;
+          -  cirrhosis&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>VIRGINIE MONTIEL, MD,PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cliniques universitaires Saint-Luc</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>VIRGINIE MONTIEL, MD, PhD</last_name>
+    <phone>0032496503912</phone>
+    <email>virginie.montiel@uclouvain.be</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Cliniques Universitaires Saint Luc</name>
+      <address>
+        <city>Brussels</city>
+        <state>Belgique</state>
+        <zip>1040</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>VIRGINIE MONTIEL</last_name>
+      <phone>0032496503912</phone>
+      <email>virginie.montiel@uclouvain.be</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Endothelial Dysfunction</keyword>
+  <keyword>Covid19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

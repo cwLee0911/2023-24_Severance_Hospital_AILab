@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="651">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04764032</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20/COVID/17</org_study_id>
+    <nct_id>NCT04764032</nct_id>
+  </id_info>
+  <brief_title>Right Ventricular Dysfunction in Ventilated Patients With COVID-19</brief_title>
+  <acronym>COVID-RV</acronym>
+  <official_title>Right Ventricular Dysfunction in Ventilated Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Glasgow</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Golden Jubilee National Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Robertson Centre for Biostatistics</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Glasgow</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Using echocardiography to investigate the incidence of RV dysfunction in ventilated patients&#xD;
+      with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      INTRODUCTION Following the first reported cases in China, there has been a worldwide pandemic&#xD;
+      of a new virus commonly known as, Coronavirus. The virus causes a number of conditions&#xD;
+      including; cough, high temperature, painful muscles and breathing difficulties. The disease&#xD;
+      the virus causes is known as Coronavirus Disease 2019 (COVID-19). In the majority of cases&#xD;
+      these symptoms will get better without any treatment and without needing admission to&#xD;
+      hospital. In a small proportion of cases, the symptoms can be so bad that patients will need&#xD;
+      admission to hospital. Of the group admitted to hospital an even smaller group (approximately&#xD;
+      5% of all confirmed coronavirus cases) will need treatment in an intensive care unit. This is&#xD;
+      often for severe breathing difficulties and sometimes requires the patient to be put on a&#xD;
+      breathing machine. The breathing machine is also known as a life support machine or&#xD;
+      ventilator and needing its support is known as 'ventilation' or 'being ventilated'.&#xD;
+&#xD;
+      In other conditions causing severe breathing difficulties requiring ventilation, pressure can&#xD;
+      be put on the right side of the heart ('the right heart [or right ventricle];' the part of&#xD;
+      the heart pumping blood to the lungs). This can cause the right heart to fail, struggling to&#xD;
+      pump blood forward and with a build-up of back pressure. This is also known as right heart&#xD;
+      (or ventricular) dysfunction. Patients needing ventilated, who develop problems with the&#xD;
+      right heart, are less likely to survive their intensive care stay. No scientists have&#xD;
+      examined whether patients with COVID-19, requiring ventilation, have problems with their&#xD;
+      right heart.&#xD;
+&#xD;
+      METHODS Using noninvasive ultrasound scans of the heart (echocardiography) the investigators&#xD;
+      will explore whether ventilated patients in intensive care have problems with their right&#xD;
+      heart. The investigators will also collect blood samples to look for damage to the heart&#xD;
+      during this time.&#xD;
+&#xD;
+      AIMS The aim of this study is to determine how many patients with COVID-19 needing&#xD;
+      ventilation have problems with the right heart. The investigators will explore if those&#xD;
+      patients with right heart problems are more likely to die by 30 days following their&#xD;
+      intensive care admission. By examining clinical data, the investigators will also look to see&#xD;
+      if any other conditions or treatments increase the risk of right heart problems. By&#xD;
+      identifying right heart problems in these patients, the investigators may be able to guide&#xD;
+      future studies to determine if any specific treatments targeted at protecting the right heart&#xD;
+      can improve outcomes in this patient group.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 2, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The prevalence of RV dysfunction in ventilated patients with COVID-19</measure>
+    <time_frame>Any timepoint from eligibility (ventilation for more than 48 hours) to 14 days following tracheal intubation and positive pressure ventilation.</time_frame>
+    <description>RV dysfunction will be defined as Trans Thoracic Echo (TTE) evidence of RV dilatation along with the presence of septal flattening (in systole, diastole or both).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Association of RV dysfunction with 30-day mortality.</measure>
+    <time_frame>Up to 30-days following intubation and intermittent positive pressure ventilation</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Association of ARDS and RV dysfunction</measure>
+    <time_frame>At time of echocardiography</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association of micro/macro thrombi and RV dysfunction</measure>
+    <time_frame>At time of echocardiography</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The association of direct myocardial injury and RV dysfunction</measure>
+    <time_frame>At time of echocardiography</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The association of ventilation and RV dysfunction</measure>
+    <time_frame>At time of echocardiography</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association of ARDS and 30-day mortality</measure>
+    <time_frame>Up to 30-days following intubation and intermittent positive pressure ventilation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association of micro/macro thrombi and 30-day mortality</measure>
+    <time_frame>Up to 30-days following intubation and intermittent positive pressure ventilation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association of direct myocardial injury and 30-day mortality</measure>
+    <time_frame>Up to 30-days following intubation and intermittent positive pressure ventilation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association of ventilation and 30-day mortality</measure>
+    <time_frame>Up to 30-days following intubation and intermittent positive pressure ventilation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The difference in NP levels between patients with, and patients without, RV dysfunction.</measure>
+    <time_frame>At time of echocardiography</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The difference in hsTn between patients with, and patients without, RV dysfunction.</measure>
+    <time_frame>At time of echocardiography</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between hsTn and 30-day mortality in patients with, and patients without, RV dysfunction</measure>
+    <time_frame>Up to 30-days following intubation and intermittent positive pressure ventilation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between NP levels and 30-day mortality in patients with, and patients without, RV dysfunction</measure>
+    <time_frame>Up to 30-days following intubation and intermittent positive pressure ventilation</time_frame>
+  </secondary_outcome>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Covid19</condition>
+  <condition>Right Ventricular Dysfunction</condition>
+  <condition>ARDS</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Echocardiography</intervention_name>
+    <description>Echocardiography will be undertaken by a range of appropriately competent practitioners including; intensive care clinicians, cardiologists and specialist echocardiographers. Imaging obtained will be in keeping with the protocol required for a Focused Intensive Care Echo (FICE) scan and should include ECG monitoring at all times. A focused dataset will be used to answer the primary outcome. If available and the echocardiographers competency and experience permit, further measures of RV function will be obtained at this time.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients requiring tracheal intubation and intermittent positive pressure ventilation for&#xD;
+        COVID-19 in Scottish intensive care units&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Provision of informed consent.&#xD;
+&#xD;
+          -  Age &gt; 16 years.&#xD;
+&#xD;
+          -  Confirmed SARS-CoV-2 infection with severe acute respiratory failure requiring&#xD;
+             tracheal intubation and positive pressure ventilation in intensive care for more than&#xD;
+             48 hours.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy.&#xD;
+&#xD;
+          -  Ongoing participation in any investigational research that may undermine the&#xD;
+             scientific basis of the study.&#xD;
+&#xD;
+          -  Prior participation in the COVID-RV study.&#xD;
+&#xD;
+          -  Ventilated for less than 48 hours prior to study recruitment.&#xD;
+&#xD;
+          -  Those patients requiring extra-corporeal life support for respiratory or&#xD;
+             cardiovascular failure (veno-venous [VV] or veno-arterial [VA] extra-corporeal&#xD;
+             membrane oxygenation [ECMO]).&#xD;
+&#xD;
+          -  Patient where end of life care has been instituted and they are not expected to&#xD;
+             survive for the next 24 hours.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>17 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ben Shelley, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Glasgow</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ben Shelley, MD</last_name>
+    <phone>01419515000</phone>
+    <phone_ext>4293</phone_ext>
+    <email>benjamin.shelley@glasgow.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Philip McCall, MD</last_name>
+    <phone>01419515000</phone>
+    <phone_ext>4293</phone_ext>
+    <email>philipmccall@nhs.net</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Aberdeen Royal Infirmary</name>
+      <address>
+        <city>Aberdeen</city>
+        <zip>AB25 2ZN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>James MacBrayne</last_name>
+    </contact>
+    <investigator>
+      <last_name>James MacBrayne</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Univeristy Hospital, Ayr</name>
+      <address>
+        <city>Ayr</city>
+        <zip>KA6 6DX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Derek McLaughlan</last_name>
+    </contact>
+    <investigator>
+      <last_name>Derek McLaughlan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Golden Jubilee National Hospital</name>
+      <address>
+        <city>Clydebank</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ben Shelley, MD</last_name>
+      <phone>0141 9515000</phone>
+      <phone_ext>4293</phone_ext>
+      <email>b.shelley@clinmed.gla.ac.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Ben Shelley, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Philip McCall, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dumfries and Galloway Royal Infirmary</name>
+      <address>
+        <city>Dumfries</city>
+        <zip>DG2 8RX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexander McDonald</last_name>
+    </contact>
+    <investigator>
+      <last_name>Alexander McDonald</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Hairmyres</name>
+      <address>
+        <city>East Kilbride</city>
+        <zip>G75 8RG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nina Tatarkowska, MBChB</last_name>
+    </contact>
+    <investigator>
+      <last_name>Nina Tatarkowska, MBChB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth University Hospital</name>
+      <address>
+        <city>Glasgow</city>
+        <zip>G51 4TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Malcolm Sim, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Malcolm Sim, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Glasgow Royal Infirmary</name>
+      <address>
+        <city>Glasgow</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alex Puxty, MBChB</last_name>
+    </contact>
+    <investigator>
+      <last_name>Alex Puxty, MBChB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Raigmore Hospital</name>
+      <address>
+        <city>Inverness</city>
+        <zip>IV2 3JH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin Greatorex</last_name>
+    </contact>
+    <investigator>
+      <last_name>Benjamin Greatorex</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital, Crosshouse</name>
+      <address>
+        <city>Kilmarnock</city>
+        <zip>KA2 0BE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Allan</last_name>
+    </contact>
+    <investigator>
+      <last_name>John Allan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Alexandra hospital</name>
+      <address>
+        <city>Paisley</city>
+        <zip>PA2 9PJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Gemmell, MBChB</last_name>
+    </contact>
+    <investigator>
+      <last_name>Lisa Gemmell, MBChB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital, Wishaw</name>
+      <address>
+        <city>Wishaw</city>
+        <zip>ML2 0DP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dominic Strachan, MBChB</last_name>
+    </contact>
+    <investigator>
+      <last_name>Dominic Strachan, MBChB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <reference>
+    <citation>Willder JM, McCall P, Messow CM, Gillies M, Berry C, Shelley B. Study protocol for COVID-RV: a multicentre prospective observational cohort study of right ventricular dysfunction in ventilated patients with COVID-19. BMJ Open. 2021 Jan 13;11(1):e042098. doi: 10.1136/bmjopen-2020-042098.</citation>
+    <PMID>33441361</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Glasgow</investigator_affiliation>
+    <investigator_full_name>Dr Ben Shelley</investigator_full_name>
+    <investigator_title>Honorary Clinical Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Right Ventricle</keyword>
+  <keyword>Echocardiography</keyword>
+  <keyword>ARDS</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ventricular Dysfunction</mesh_term>
+    <mesh_term>Ventricular Dysfunction, Right</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

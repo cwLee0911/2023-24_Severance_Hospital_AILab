@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2543">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04746183</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UoL001542</org_study_id>
+    <nct_id>NCT04746183</nct_id>
+  </id_info>
+  <brief_title>AGILE (Early Phase Platform Trial for COVID-19)</brief_title>
+  <official_title>AGILE: Seamless Phase I/IIa Platform for the Rapid Evaluation of Candidates for COVID-19 Treatment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Liverpool</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Southampton</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Liverpool School of Tropical Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Lancaster University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Liverpool University Hospitals NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Liverpool</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The AGILE platform master protocol allows incorporation of a range of identified and&#xD;
+      yet-to-be-identified candidates as potential treatments for adults with COVID-19 into the&#xD;
+      trial. Candidates will be added into the trial via candidate-specific trial (CST) protocols&#xD;
+      of this master protocol as appendices. Having one master protocol ensures different&#xD;
+      candidates are evaluated in the same consistent manor and opening up new trials for new&#xD;
+      candidates is more efficient. Inclusion of new candidates will be determined by the AGILE&#xD;
+      Scientific Advisory Board based on pre-clinical data, evidence in the clinical setting and&#xD;
+      GMP capabilities.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      AGILE is a multicentre, multi-arm, multi-dose, multi-stage open-label, adaptive, seamless&#xD;
+      phase I/II Bayesian randomised platform trial to determine the optimal dose, activity and&#xD;
+      safety of multiple candidate agents for the treatment of COVID-19.&#xD;
+&#xD;
+      This study allows for the assessment of many candidates at different doses, with the ability&#xD;
+      to add candidates as they are identified or drop them as their evaluation is completed.&#xD;
+      Promising candidates will move to the an external trial for further evaluation in the phase&#xD;
+      II/III setting.&#xD;
+&#xD;
+      Each candidate will be evaluated in its own trial, randomising between candidate and control&#xD;
+      with 2:1 allocation in favour of the candidate. Each dose will be assessed for safety&#xD;
+      sequentially in cohorts of 6 patients. Once a phase II dose has been identified we will&#xD;
+      assess efficacy by seamlessly expanding into a larger cohort.&#xD;
+&#xD;
+      AGILE is completely flexible in that the core design in the master protocol (as has been&#xD;
+      explained above) can be adapted for each candidate based on prior knowledge of the candidate&#xD;
+      - i.e. population, primary endpoint and sample size can be amended. This will be detailed in&#xD;
+      each candidate-specific trial protocol of the master protocol.&#xD;
+&#xD;
+      Candidate-Specific Trial 1 (CST-1): TBC&#xD;
+&#xD;
+      Candidate-Specific Trial 2 (CST-2): Open-label 2:1 randomised controlled phase I of EIDD-2801&#xD;
+      versus standard of care followed by a 1:1 blinded controlled parallel group Phase II trial of&#xD;
+      EIDD-2801 versus placebo. A phase I will be carried out to confirm the optimal dose in this&#xD;
+      group. Following a safety review, EIDD-2801 will be tested for efficacy in a blinded placebo&#xD;
+      controlled randomised phase II trial.&#xD;
+&#xD;
+      Candidate-Specific Trial 3 (CST-3A): Multicentre, Adaptive, Phase I trial to Determine the&#xD;
+      optimal dose, Safety and Efficacy of Nitazoxanide for the Treatment of COVID-19&#xD;
+&#xD;
+      Candidate-Specific Trial 3 (CST-3B): A Randomized, Multicentre, Seamless, Adaptive, Phase&#xD;
+      I/II trial to Determine the optimal dose, Safety and Efficacy of Nitazoxanide for the&#xD;
+      Treatment of COVID-19&#xD;
+&#xD;
+      Candidate-Specific Trial 5 (CST-5): Randomized, Multicentre, Seamless, Adaptive, Phase I/II&#xD;
+      Platform Study to Determine the Phase II dose of VIR-7832, and Evaluate the Safety and&#xD;
+      Efficacy of VIR-7831 and VIR-7832 for the Treatment of COVID-19&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 3, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 18, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>CST-2: Open-label 2:1 randomised controlled phase I of EIDD-2801 versus standard of care followed by a 1:1 blinded controlled parallel group Phase II trial of EIDD-2801 versus placebo. A phase I will be carried out to confirm the optimal dose in this group. Following a safety review, EIDD-2801 will be tested for efficacy in a blinded placebo controlled randomised phase II trial.&#xD;
+CST-3A: single arm, open-label phase Ia to confirm the optimum dose, safety and tolerability of Nitazoxanide in healthy volunteers CST-3B: Open-label 1:1 randomised controlled phase Ib of Nitazoxanide versus standard of care (SOC) to confirm the safety and tolerability of Nitazoxanide in participants with COVID-19 followed by a 1:1 blinded parallel group Phase II trial of Nitzaoxanide versus standard of care.&#xD;
+CST-5: 3:1 randomised, blinded, placebo-controlled phase I of VIR-7832, followed by a 2:2:1 blinded, parallel group Phase II trial of VIR-7832 versus VIR-7831 versus placebo.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>CST-2: Phase I, open-label EIDD-2801 vs standard of care. Phase II, blinded controlled parallel group of EIDD-2801 vs placebo CST-3A: Phase Ia, open-label nitazoxanide CST-3B: Phase Ib, II, open label nitazoxanide vs standard of care CST-5: Phase I, blinded VIR-7832 vs placebo, Phase II, blinded VIR-7832 vs VIR-7831 vs placebo</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Master Protocol: Dose-finding/Phase I</measure>
+    <time_frame>29 days from randomisation</time_frame>
+    <description>Determination of a dose(s) for efficacy evaluation. Dose limiting toxicities (Safety and Tolerability of drug under study - CTCAE v5 Grade ≥3 adverse events)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Master Protocol: Efficacy evaluation/Phase II - Severe patients (Group A)</measure>
+    <time_frame>29 days from randomisation</time_frame>
+    <description>Determination of activity and safety.&#xD;
+In severe patients (Group A): time to clinical improvement. Improvement will be determined according to the WHO Clinical Progression Scale; improvement is defined as a minimum 2-step change from randomisation in the scale up to day 29 post-randomisation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Master Protocol: Efficacy evaluation/Phase II - Mild to moderate patients (Group B)</measure>
+    <time_frame>15 days from randomisation</time_frame>
+    <description>Determination of activity and safety.&#xD;
+In mild to moderate patients (Group B): pharmacodynamics of drug under study, defined as time to negative viral titres in nose and/or throat swab, measured up to 15 days post-randomisation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CST-2 Phase I: To determine the safety and tolerability of multiple ascending doses of EIDD-2801 to recommend dose for phase II.</measure>
+    <time_frame>7 days from randomisation</time_frame>
+    <description>Dose limiting toxicity (DLT) using CTCAE version 5 (grades 3 and above) over 7 days.&#xD;
+CTCAE grading related to platelets and/or lymphocytes</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CST-2 Phase II: To determine the ability of EIDD-2801 to reduce serious complications of COVID-19 including hospitalization, reduction in SAO2&lt;92%, or death.</measure>
+    <time_frame>29 days from randomisation</time_frame>
+    <description>Progression of disease (SpO2&lt;92% based on at least 2 consecutive recordings on the same day) or hospitalization or death up to day 29</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: Safety assessed by rate of adverse events</measure>
+    <time_frame>Up to 29 days from randomisation</time_frame>
+    <description>Adverse event rate according to CTCAE v5</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate clinical improvement</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>Proportion of patients with clinical improvement (as defined above) at day 8, 15 and day 29.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate clinical improvement using WHO clinical progression scale</measure>
+    <time_frame>From randomisation to day 15</time_frame>
+    <description>Change at day 8 and 15 from randomisation in the WHO Clinical Progression Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate clinical improvement using WHO clinical progression scale</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>Time to a one point change on the WHO Clinical Progression Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate clinical improvement using SpO2/FiO2</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>The ratio of the oxygen saturation to fractional inspired oxygen concentration (SpO2/FiO2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate discharge</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>Proportion of patient discharged at days 8, 15 and 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate admission to ICU</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>Admission rate to ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate safety further (WCC)</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>White cell count on day 1, 3, 5, 8, 11 (while hospitalised); and Day 15 and 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate safety further (Hg)</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>Haemoglobin on day 1, 3, 5, 8, 11 (while hospitalised); and Day 15 and 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate safety further (platelets)</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>Platelets on day 1, 3, 5, 8, 11 (while hospitalised); and Day 15 and 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate safety further (creatinine)</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>Creatinine on day 1, 3, 5, 8, 11 (while hospitalised); and Day 15 and 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate safety further (ALT)</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>ALT on day 1, 3, 5, 8, 11 (while hospitalised); and Day 15 and 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate overall mortality</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>Mortality at Days 8, 15 and 29. Time to death from randomisation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate the number of oxygen-free days</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>Duration (days) of oxygen use and oxygen-free days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate ventilator-free days</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>Duration (days) of mechanical ventilation and mechanical ventilation-free days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate incidence of new mechanical ventilation use</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>Incidence of new mechanical ventilation use</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate National Early Warning Score (NEWS)2/qSOFA</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>NEWS2/qSOFA assessed daily while hospitalised</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate translational outcomes (Viral Load)</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>Change in viral load over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Master Protocol: To evaluate translational outcomes (Baseline SARS-COV-2)</measure>
+    <time_frame>From randomisation to day 29</time_frame>
+    <description>Change in viral load over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CST-2 Additional: Pharmacokinetic Objective: To define PK of EIDD-2801 and EIDD-1931 in plasma following multiple doses administered to patients with COVID-19.</measure>
+    <time_frame>Samples collected on Day 1 and Day 5 post-randomisation</time_frame>
+    <description>Concentrations of EIDD-2801 and -1931 in plasma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CST-2 Additional: Virologic Objective: To assess the difference in viral clearance (time to negative PCR) between EIDD-2801 and control.</measure>
+    <time_frame>Swabs taken on Day 1 (day of randomisation), 3, 5, 8, 11, 15, 22 and 29</time_frame>
+    <description>Qualitative (and quantitative when possible) PCR for SARS-CoV-2 by nasal swab.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CST-2 Additional: Clinical Objective: To determine the ability of EIDD-2801 to reduce the duration of signs and symptoms of COVID-19 in patients (FLU-PRO)</measure>
+    <time_frame>From randomisation to Day 29</time_frame>
+    <description>Patient Reported Outcome Measures (FLU-PRO).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CST-2 Additional: Clinical Objective: To determine the ability of EIDD-2801 to reduce the duration of signs and symptoms of COVID-19 in patients (WHO Scale).</measure>
+    <time_frame>From randomisation to Day 29</time_frame>
+    <description>WHO Progression Scale at day 15 and 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CST-2 Additional: Clinical Objective: To determine the ability of EIDD-2801 to reduce the duration of signs and symptoms of COVID-19 in patients (NEWS2)</measure>
+    <time_frame>From randomisation to Day 29</time_frame>
+    <description>NEWS2 (National Early Warning Score2) assessed during study clinic visit on days 15 and 29.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CST-2 Additional: Clinical Objective: To determine the ability of EIDD-2801 to reduce the duration of signs and symptoms of COVID-19 in patients (mortality)</measure>
+    <time_frame>From randomisation to Day 29</time_frame>
+    <description>Mortality at Days 15 and 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CST-2 Additional: Clinical Objective: To determine the ability of EIDD-2801 to reduce the duration of signs and symptoms of COVID-19 in patients (death)</measure>
+    <time_frame>From randomisation to Day 29</time_frame>
+    <description>Time from randomisation to death</description>
+  </secondary_outcome>
+  <number_of_arms>7</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>CST-2 EIDD-2801</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>EIDD-2801 (also known as MK-4482, molnupiravir). Phase Ib: EIDD-2801 will be administered orally, twice daily (BID) for 10 doses (5 or 6 days). The starting dose will be established based on safety and pharmacokinetics from the EIDD-2801-1001-US/UK study, and dose escalations may occur as described in this CST.&#xD;
+Phase II: As per Phase Ib, with the dose determined by the recommended phase II dose.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CST-2 Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Phase 1b only (standard of care)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CST-2 Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Phase II placebo blinded controlled</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CST-3A Nitazoxanide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Phase Ia Nitazoxanide will be administered orally, initially twice daily (BID) for 14 doses (7 days). The starting dose will be 1500mg BID based on existing dose information, but dose adaptations may occur</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CST-5 VIR-7832</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single doses of VIR-7832 will be administered by intravenous (IV) infusion. The starting dose will be 50 mg, and dose escalations of 150 and 500 mg are anticipated.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CST-5 VIR-7831</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Phase II: 500 mg dose of VIR-7831 will be given by IV infusion.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CST-5 Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Phase I and II placebo blinded controlled</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CST-2: EIDD-2801</intervention_name>
+    <description>CST-2 Phase Ib: EIDD-2801 will be administered orally, twice daily (BID) for 10 doses (5 or 6 days). The starting dose will be established based on safety and pharmacokinetics from the EIDD-2801-1001-US/UK study, and dose escalations may occur as described in this CST.&#xD;
+Phase II: As per Phase Ib, with the dose determined by the recommended phase II dose.</description>
+    <arm_group_label>CST-2 EIDD-2801</arm_group_label>
+    <other_name>MK-4482</other_name>
+    <other_name>Molnupiravir</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CST-2: Placebo</intervention_name>
+    <description>CST-2 Phase II: Placebo will be administered orally, twice daily (BID) for 10 doses (5 or 6 days).</description>
+    <arm_group_label>CST-2 Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nitazoxanide</intervention_name>
+    <description>CST3A &amp; CST3B Phase I: Nitazoxanide will be administered orally, initially twice daily (BID) for 14 doses (7 days). The starting dose will be 1500mg BID based on existing dose information, but dose adaptations may occur.&#xD;
+Phase II: As per Phase Ib, with the dose determined by the recommended phase II dose.</description>
+    <arm_group_label>CST-3A Nitazoxanide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VIR-7832</intervention_name>
+    <description>CST-5: Phase I, Single doses of VIR-7832 will be administered by intravenous (IV) infusion over 1 hour. The starting dose will be 50 mg, and dose escalations of 150 and 500 mg are anticipated, with escalation guided by emerging safety data and decision by the SRC.&#xD;
+Phase II: As per Phase I, with the dose determined by the recommended phase II dose.</description>
+    <arm_group_label>CST-5 VIR-7832</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VIR-7831</intervention_name>
+    <description>CST-5 Phase II: A 500 mg dose of VIR-7831 will also be given by IV infusion over 1 hour.</description>
+    <arm_group_label>CST-5 VIR-7831</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CST-5: Placebo</intervention_name>
+    <description>CST-5 Phase 1, Phase II: Placebo given by intravenous infusion over 1 hour</description>
+    <arm_group_label>CST-5 Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Master Protocol Inclusion Criteria:&#xD;
+&#xD;
+          1. Adults (≥18 years) with laboratory-confirmed* SARS-CoV-2 infection (PCR)&#xD;
+&#xD;
+          2. Ability to provide informed consent signed by study patient or legally acceptable&#xD;
+             representative&#xD;
+&#xD;
+          3. Women of childbearing potential (WOCBP) and male patients who are sexually active with&#xD;
+             WOCBP must agree to use a highly effective method of contraception (as outlined in the&#xD;
+             protocol) from the first administration of trial treatment, throughout trial treatment&#xD;
+             and for the duration outlined in the candidate-specific trial protocol after the last&#xD;
+             dose of trial treatment&#xD;
+&#xD;
+               -  If any CSTs are included in the community setting, the CST protocol will clarify&#xD;
+                  whether patients with suspected SARS-CoV-2 infection are also eligible.&#xD;
+&#xD;
+        Standard additional criteria that may be applied per CST protocol:&#xD;
+&#xD;
+        Group A (severe disease) 4a. Patients with clinical status of Grades 4 (hospitalised,&#xD;
+        oxygen by mask or nasal prongs), 5 (hospitalised, on non-invasive ventilation, or high flow&#xD;
+        oxygen), 6 (hospitalised, intubation and mechanical ventilation) or 7 (ventilation and&#xD;
+        additional organ support - pressors, renal replacement therapy (RRT), extracorporeal&#xD;
+        membrane oxygenation (ECMO)), as defined by the WHO clinical severity score, 9-point&#xD;
+        ordinal scale.&#xD;
+&#xD;
+        Group B (mild-moderate disease) 4b. Ambulant or hospitalised patients with the following&#xD;
+        characteristics peripheral capillary oxygen saturation (SpO2) &gt;94% RA N.B. The CST protocol&#xD;
+        inclusion criteria will take precedence over the master protocol inclusion criteria.&#xD;
+&#xD;
+        CST-2 Inclusion Criteria:&#xD;
+&#xD;
+        For the purpose of the EIDD-2801 candidate-specific trial the following inclusion criteria&#xD;
+        have been amended from the Master protocol to:&#xD;
+&#xD;
+        1. Male or female ≥ 60 years old or ≥50 years old with at least one well controlled&#xD;
+        comorbidity: cardiovascular disease, chronic lung disease (e.g. COPD, or pulmonary&#xD;
+        hypertension), immune deficiency (taking the equivalent of 20 mg prednisone daily,&#xD;
+        chemotherapy, or immune modulating biologic therapies), diabetes (treated with insulin or&#xD;
+        oral medications), BMI≥30, or hypertension requiring medication with laboratory confirmed&#xD;
+        SARS-CoV-2 infection (PCR) .&#xD;
+&#xD;
+        3. Women of childbearing potential (WOCBP) and male patients who are sexually active with&#xD;
+        WOCBP must agree to use two effective methods of contraception, one of which should be&#xD;
+        highly effective (as outlined in the protocol). For women, from the first administration of&#xD;
+        trial treatment, throughout trial and up to 50 days after the last follow up visit (50 days&#xD;
+        after day 29) and for men with female partners of child bearing potential, from the first&#xD;
+        administration until 100 days after last follow up visit (100 days after day 29).&#xD;
+&#xD;
+        4. Group B (mild-moderate disease): Ambulant with the following characteristics peripheral&#xD;
+        capillary oxygen saturation (SpO2) &gt;94% RA (NB this differs to the Master Protocol which&#xD;
+        also includes hospitalised patients in this group).&#xD;
+&#xD;
+        Additional criteria specific to this candidate are:&#xD;
+&#xD;
+        5. Has signs or symptoms of COVID-19 that began within 5 days of the planned first dose of&#xD;
+        study drug.&#xD;
+&#xD;
+        6. Is in generally good health (except for current respiratory infection) and is free of&#xD;
+        uncontrolled chronic conditions.&#xD;
+&#xD;
+        7. Is willing and able to comply with all study procedures and attending clinic visits&#xD;
+        through the 4th week.&#xD;
+&#xD;
+        8. Has someone, aged ≥ 16 living in the same household during the dosing period.&#xD;
+&#xD;
+        Master Protocol Exclusion Criteria:&#xD;
+&#xD;
+          1. Alanine aminotransferase (ALT) and/or aspartate aminotransferase (AST) &gt;5 times the&#xD;
+             upper limit of normal (ULN)&#xD;
+&#xD;
+          2. Stage 4 severe chronic kidney disease or requiring dialysis (i.e., estimated&#xD;
+             glomerular filtration rate &lt;30 mL/min/1.73 m^2)&#xD;
+&#xD;
+          3. Pregnant or breast feeding&#xD;
+&#xD;
+          4. Anticipated transfer to another hospital which is not a study site within 72 hours&#xD;
+&#xD;
+          5. Allergy to any study medication&#xD;
+&#xD;
+          6. Patients taking other prohibited drugs (as outline in CST protocol) within 30 days or&#xD;
+             5 times the half-life (whichever is longer) of enrolment&#xD;
+&#xD;
+          7. Patients participating in another CTIMP trial&#xD;
+&#xD;
+             N.B. The CST protocol exclusion criteria will take precedence over the master protocol&#xD;
+             exclusion criteria.&#xD;
+&#xD;
+             CST-2 Exclusion Criteria:&#xD;
+&#xD;
+             Additional criteria specific to this candidate are:&#xD;
+&#xD;
+          8. Has a febrile respiratory illness that includes signs of pneumonia, or requires&#xD;
+             hospitalization, oxygenation, mechanical ventilation, or other supportive modalities.&#xD;
+&#xD;
+          9. Has a platelet count less than 50x10^9/L, or lymphocytes less than 0.2x10^9/L,&#xD;
+             haemoglobin less than 10 g/dL, or has a disorder of the hematologic system including&#xD;
+             anaemic disorder or other blood dyscrasia, cancer of the hematologic system, history&#xD;
+             of bone marrow transplant, or other significant hematologic disease at screening.&#xD;
+&#xD;
+         10. Is experiencing adverse events or laboratory abnormalities that are Grade 3 or above&#xD;
+             based on the CTCAE scale.&#xD;
+&#xD;
+         11. Has clinically significant liver dysfunction or renal impairment.&#xD;
+&#xD;
+         12. Has history of Hepatitis C infection or concurrent bacterial pneumonia.&#xD;
+&#xD;
+         13. Has received an experimental agent (vaccine, drug, biologic, device, blood product, or&#xD;
+             medication) within 30 days prior to the first dose of study drug.&#xD;
+&#xD;
+         14. In the opinion of the investigator, has significant end-organ disease as a result of&#xD;
+             relevant comorbidities: chronic kidney disease, congestive heart failure, peripheral&#xD;
+             vascular disease including diabetic ulcers.&#xD;
+&#xD;
+         15. Has a SaO2&lt;95% by oximetry or has lung disease that requires supplemental oxygen.&#xD;
+&#xD;
+         16. Has any condition that would, in the opinion of the investigator, put the patient at&#xD;
+             increased risk for participation in a clinical study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Saye Khoo</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Liverpool</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Helen E Reynolds</last_name>
+    <phone>+44 (0)1517945553</phone>
+    <email>livagile@liv.ac.uk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Liverpool University Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>Liverpool</city>
+        <zip>L7 8XP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>+44 (0)151 706 4863</phone>
+      <email>agile.accord@nhs.net</email>
+    </contact>
+    <contact_backup>
+      <phone>+44(0)7342065915</phone>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Southampton NHS Foundation Trust</name>
+      <address>
+        <city>Southampton</city>
+        <zip>SO16 6YD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>+44 (0)7469565895</phone>
+      <email>UHS.SouthamptonCRF@nhs.net</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>October 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>February 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 9, 2021</study_first_posted>
+  <last_update_submitted>April 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS coronavirus 2</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Phase I</keyword>
+  <keyword>Phase II</keyword>
+  <keyword>Platform trial</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nitazoxanide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Master protocol publication. Data sets will be registered on CSDR</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>Master protocol published 19 June 2020</ipd_time_frame>
+    <ipd_access_criteria>Master protocol available from https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04473-1</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

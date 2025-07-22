@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4837">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04803812</url>
+  </required_header>
+  <id_info>
+    <org_study_id>39707</org_study_id>
+    <nct_id>NCT04803812</nct_id>
+  </id_info>
+  <brief_title>Supporting the Wellness of Ontario Physicians During COVID-19</brief_title>
+  <official_title>Supporting the Wellness of Ontario Physicians During COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ontario Medical Association</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Behavioural Insights Team</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ontario Medical Association</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In light of the coronavirus pandemic, the challenge of physician burnout has taken on a new&#xD;
+      urgency. Long-hours and difficult, sometimes unsafe work conditions are creating a severe&#xD;
+      strain for emergency physicians and others on the frontlines of Ontario's response to&#xD;
+      COVID-19. There are a variety of evidence-informed ways that physicians can protect their&#xD;
+      wellbeing with modest investments of time and energy that will be applied. The evaluation&#xD;
+      will be a randomized trial comparing the outcomes from each of the three treatment arms.&#xD;
+      Researchers may also use a pre-post comparison with control parameters to conduct an&#xD;
+      exploratory analysis to assess efficacy.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 26, 2021</start_date>
+  <completion_date type="Anticipated">May 4, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 4, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Wellbeing (Short Warwick-Edinburgh Mental Well-being Scale measure)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Self-reported wellbeing scores, as measured by the short Warwick-Edinburgh Mental Well-being Scale--(S)WEMWBS. The (S)WEMWBS is designed to measure positive mental wellbeing and asks people to what extent they agree with statements such as &quot;I've been feeling optimistic about the future&quot;, &quot;I've been feeling relaxed&quot;, and &quot;I've been feeling close to people&quot;. This scale has a range of 7 to 35; higher scores indicate higher positive mental wellbeing.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Happiness (UK ONS measure)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Self-reported happiness scores, as measured through weekly pulse surveys using a question developed by the UK Office for National Statistics (ONS) - hereby referred to as ONS-happiness (&quot;on a scale where 0 is &quot;not at all&quot; and 10 is &quot;completely&quot;, overall, how happy did you feel yesterday?&quot;). This scale has a range from 0 to 10, with higher scores indicating greater happiness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety (UK ONS measure)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Self-reported anxiety scores, as measured through pulse surveys using an ONS question, hereby referred to as ONS-anxiety (&quot;on a scale where 0 is &quot;not at all&quot; and 10 is &quot;completely&quot;, overall, how anxious did you feel yesterday?&quot;). This scale has a range from 0 to 10, with higher scores indicating greater anxiety.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">19000</enrollment>
+  <condition>Mental Health Wellness 1</condition>
+  <condition>Anxiety</condition>
+  <condition>Happiness</condition>
+  <arm_group>
+    <arm_group_label>Receive weekly SMS containing wellness stories shared by other Ontario physicians</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Receive weekly SMS containing aim wellness resources/strategies.</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Receive weekly SMS combining wellness stories &amp; resources/strategies</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Remote SMS (short message service, also known as &quot;text message&quot;) delivery</intervention_name>
+    <description>Assessing the comparative effects of SMS types (storytelling; resources/strategies; and a combination of both) on physician wellbeing.</description>
+    <arm_group_label>Receive weekly SMS combining wellness stories &amp; resources/strategies</arm_group_label>
+    <arm_group_label>Receive weekly SMS containing aim wellness resources/strategies.</arm_group_label>
+    <arm_group_label>Receive weekly SMS containing wellness stories shared by other Ontario physicians</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Active membership to the Ontario Medical Association (OMA). Up-to-date cell phone&#xD;
+             information registered to the OMA.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participation in the OMA Physician Burnout Task Force. Opt-out from the intervention.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James Wright</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ontario Medical Association</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sebastian Salomon</last_name>
+    <phone>437-925-2529</phone>
+    <email>sebastian.salomon@bi.team</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ontario Medical Association</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5S 3C1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>James Wright</last_name>
+      <phone>416-340-2942</phone>
+      <email>james.wright@sickkids.ca</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 18, 2021</study_first_posted>
+  <last_update_submitted>March 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

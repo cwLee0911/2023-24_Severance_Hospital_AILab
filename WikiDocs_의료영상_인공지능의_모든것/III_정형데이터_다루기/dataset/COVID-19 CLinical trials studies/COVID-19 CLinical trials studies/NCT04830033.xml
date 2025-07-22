@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2610">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04830033</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SHIELD COVID - ENO sub-study 2</org_study_id>
+    <nct_id>NCT04830033</nct_id>
+  </id_info>
+  <brief_title>ENO Breathe vs Usual Care in COVID-19 Recovery: An RCT</brief_title>
+  <acronym>SHIELD ENO</acronym>
+  <official_title>A Randomised Controlled Trial of the English National Opera Breathe Programme Compared With Usual Care in People Recovering From COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Imperial College London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Imperial College Healthcare NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Imperial College London</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A randomised clinical trial to assess the impact of an online singing, breathing and&#xD;
+      wellbeing programme (ENO Breathe) developed specifically for people recovering from COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:&#xD;
+&#xD;
+      ENO Breathe is a breathing and wellbeing programme developed specifically for people&#xD;
+      recovering from COVID-19, who are still suffering from breathlessness and associated anxiety.&#xD;
+      Delivered by ENO in collaboration with Imperial College Healthcare teams entirely online, the&#xD;
+      programme focuses on breathing re-training through singing. Initial evaluation of the project&#xD;
+      suggested health improvements related to participation, however a properly conducted efficacy&#xD;
+      study is needed.&#xD;
+&#xD;
+      DESIGN: An assessor blind, parallel group, randomised controlled trial, to assess the effects&#xD;
+      of ENO Breathe compared to usual care on health status. The study will also evaluate the&#xD;
+      impact on respiratory symptoms, anxiety, depression, and breathlessness perception to&#xD;
+      investigate the mechanisms involved.&#xD;
+&#xD;
+      RESEARCH QUESION AND OUTCOME MEASURES:&#xD;
+&#xD;
+      The primary outcome will be change in health status, assessed using the RAND-36 tool (RAND&#xD;
+      SF-36), comparing ENO Breathe and Usual Care arms.&#xD;
+&#xD;
+      Additional endpoints will be: the COPD assessment test score (CAT), 0-100 Visual Analogue&#xD;
+      Scales (VAS) for breathlessness (at rest, walking around the house, climbing stairs, and&#xD;
+      running), Dyspnoea-12, anxiety (GAD-7), and depression (PHQ-9).&#xD;
+&#xD;
+      Assessments: The outcomes outlined above will be recorded at baseline prior to randomisation,&#xD;
+      and then repeated after 6 weeks.&#xD;
+&#xD;
+      POPULATION: Adult patients with recovering from COVID-19 will be recruited from specialist&#xD;
+      COVID-19 clinics, where participants will have been fully assessed and investigated by&#xD;
+      referring healthcare professionals. Participants in the active arm will attend once weekly&#xD;
+      ENO online workshop sessions for 6 weeks, and have access to bespoke online digital&#xD;
+      resources, designed to support participants between sessions. The comparison arm will receive&#xD;
+      usual care. Randomization will be 1:1.&#xD;
+&#xD;
+      SAMPLE SIZE Sample size: Based on pilot data in people with COPD, where the standard&#xD;
+      deviation (SD) for change in SF-36 was 15 points, to identify a clinically relevant 10 point&#xD;
+      difference in SF-36 responses at a 0.05 level of significance with a 90% power would require&#xD;
+      48 patients in each treatment arm. Allowing for 20% dropout, we will therefore recruit 120&#xD;
+      patients.&#xD;
+&#xD;
+      Primary analysis will be on an intention to treat basis. Change in parameters will be&#xD;
+      assessed comparing ENO Breathe and Usual Care, using Generalised Linear Models to estimate&#xD;
+      treatment effects. In order to better understand changes in the RAND-36 &quot;anchor measure&quot;, the&#xD;
+      investigator will relate this to changes in measures of anxiety, depression, breathlessness,&#xD;
+      and other respiratory symptoms.&#xD;
+&#xD;
+      An additional responder analysis will compare the proportion in each treatment arm achieving&#xD;
+      a clinically important (10%) improvement in RAND-36 scores.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+    <masking_description>Masking of participants not possible due to the nature of the intervention.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in RAND-36 (RAND SF-36)</measure>
+    <time_frame>At baseline, then repeated after 6 weeks.</time_frame>
+    <description>A well-established, supervised, self-completion health status questionnaire. This consists of eight sections for which a score of 0 to 100 is created, with 0 being maximum disability and 100 equivalent to no disability.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in COPD assessment test (CAT)</measure>
+    <time_frame>At baseline, then repeated after 6 weeks.</time_frame>
+    <description>A respiratory disease health status measure that has been validated in people recovering from COVID-19. This includes 8 items, scored 0-5 with a possible score from 0 (best) to 40 (worst).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Generalised Anxiety Disorder Assessment (GAD-7)</measure>
+    <time_frame>At baseline, then repeated after 6 weeks.</time_frame>
+    <description>Self-administered questionnaire to assess for symptoms, and severity, of anxiety. Includes seven questions scored from 0 to 3, giving a total score out of 21. Lower scores indicate less symptoms of anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Patient Health Questionnaire 9 (PHQ-9)</measure>
+    <time_frame>At baseline, then repeated after 6 weeks.</time_frame>
+    <description>Self-administered questionnaire to assess for symptoms, and severity, of depression. Includes nine questions scored from 0 to 3, giving a total score out of 27. Lower scores indicate less symptoms of depression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Dyspnoea-12 questionnaire</measure>
+    <time_frame>At baseline, then repeated after 6 weeks.</time_frame>
+    <description>Assessment of dyspnoea. Includes 12 descriptors scored from 0 to 3, giving a total score of 36. Lower scores indicate less severe dyspnoea.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Visual Analogue Scale ratings of breathlessness</measure>
+    <time_frame>At baseline, then repeated after 6 weeks.</time_frame>
+    <description>Four Visual Analogue Scales, scored from 0 to 100, for participants to rate their breathlessness while i) at rest, ii) walking around the house, iii) climbing stairs, iv) running. Higher scores indicate more severe dyspnoea (breathlessness).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in SF-6D (Short-Form Six-Dimension) scores</measure>
+    <time_frame>At baseline, then repeated after 6 weeks.</time_frame>
+    <description>The SF-6D uses data from the RAND SF-36 to generate a continuous index for health that can be used to create a quality-of-life score for cost utility analysis.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>COVID-19 Recovery</condition>
+  <arm_group>
+    <arm_group_label>ENO Breathe group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participation in the online ENO Breathe programme for 6 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual Care Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants continue with usual care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>ENO Breathe group</intervention_name>
+    <description>Six weekly group online workshop sessions, led by an ENO vocal specialist. Workshops will encourage participants to take part in exercises and activities especially designed to support breathing control, providing tools for self-management of breath and anxiety. They will also have access to bespoke online digital resources, designed to support participants between sessions. These will include exercises, song sheets and audio and video materials, especially recorded by the ENO for participants on the programme.</description>
+    <arm_group_label>ENO Breathe group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults recovering from COVID-19 with ongoing breathlessness and/or anxiety.&#xD;
+&#xD;
+          -  Referred from a specialist COVID-19 clinics aligned with the project, after&#xD;
+             appropriate clinical evaluation and investigation&#xD;
+&#xD;
+          -  Internet access with appropriate device (e.g. computer or tablet)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - Unable to participate due to comorbidity (e.g. life limiting illness, cognitive&#xD;
+        impairment)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nicholas S Hopkinson</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Imperial College London</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Keir EJ Philip</last_name>
+    <phone>+442073518029</phone>
+    <email>keir.philip@nhs.net</email>
+  </overall_contact>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 31, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 2, 2021</study_first_posted>
+  <last_update_submitted>March 31, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Data will be shared on reasonable request.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

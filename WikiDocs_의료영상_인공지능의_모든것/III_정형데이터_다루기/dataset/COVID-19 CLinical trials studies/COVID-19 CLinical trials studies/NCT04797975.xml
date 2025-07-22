@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1881">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04797975</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KNK-COV-001</org_study_id>
+    <nct_id>NCT04797975</nct_id>
+  </id_info>
+  <brief_title>Off-the-shelf NK Cells (KDS-1000) as Immunotherapy for COVID-19</brief_title>
+  <official_title>A Phase 1/2a Multicenter Randomized Double-blind Placebo-controlled Trial of Off-the-shelf Natural Killer Cells (KDS-1000) as Immunotherapy for Adult Patients With Mild to Moderate COVID-19 Symptoms at Risk for Complications</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kiadis Pharma</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Kiadis Pharma</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It is hypothesized that immunotherapy with off-the-shelf NK cells (KDS-1000) early in the&#xD;
+      course of COVID-19 disease is safe and may augment innate immunity, thereby limiting disease&#xD;
+      progression and improving survival.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Several publications have suggested a potential role of NK cells, an essential part of the&#xD;
+      early innate response system, in the management of viral infections like COVID-19. Clinical&#xD;
+      data has shown that COVID-19 disease severity is correlated with a reduction in the number of&#xD;
+      NK cells, exhaustion of NK cells and the lack of certain mature, potent NK cell phenotypes.&#xD;
+      The power of NK cells to fight various other viral infections, such as caused by CMV, HBV and&#xD;
+      hepatitis C virus (HCV), influenza virus and human immunodeficiency virus (HIV) have been&#xD;
+      well described, with a durable change in the NK cell profile towards those more mature and&#xD;
+      potent phenotypes in recovered patients. In view of the lack of (functional) NK cells in&#xD;
+      patients with COVID-19, adoptive NK cell therapy with KDS-1000 cells may improve survival and&#xD;
+      reduce rates of disease progression from SARS-CoV-2 infection. Adoptive transfer of expanded&#xD;
+      NK cells (KDS-1000) early in the course of disease may augment innate immunity, thereby&#xD;
+      limiting disease progression and could confer a survival benefit to patients infected with&#xD;
+      SARS-CoV-2.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">November 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Determine the safety of KDS-1000 given at low and high doses compared to placebo by collecting the rate and severity of adverse events (AE)</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Rate and severity of AE.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Determine the efficacy KDS-1000 given at low and high doses compared to placebo by COVID-19 specific questionnaire.</measure>
+    <time_frame>90 Days</time_frame>
+    <description>Improvement in COVID-19 disease symptoms/progression of disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine the efficacy KDS-1000 given at low and high doses compared to placebo by measurement of SARS-CoV-2 clearance.</measure>
+    <time_frame>28 days</time_frame>
+    <description>Determined by real time reverse transcription polymerase chain reaction (rRT-PCR).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine the safety of KDS-1000 given at low and high doses compared to placebo by collecting the rate and severity of AE.</measure>
+    <time_frame>90 Days</time_frame>
+    <description>Rate and severity of AE.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">54</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>KDS-1000</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>NK cells expanded ex vivo using PM21 membrane particles:</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>0.9% Normal Saline</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>KDS-1000</intervention_name>
+    <description>Non-randomized part of study:&#xD;
+At the beginning of each dose level (Cohort), 3 patients will receive KDS-1000. These initial patients will be enrolled in a staggered manner to ensure detection of any early safety signals.&#xD;
+Randomized part of the study (Can start when there are no safety concerns in the non-randomized cohorts):&#xD;
+Cohort 1: Low Dose, 2x10E8 cells/dose&#xD;
+Cohort 2: High Dose, 1x10E9 cells/dose</description>
+    <arm_group_label>KDS-1000</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>0.9% Normal Saline</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients are 18-70 years of age;&#xD;
+&#xD;
+          2. Patients must have at least one of the following risk factors for developing severe&#xD;
+             COVID-19 disease:&#xD;
+&#xD;
+               1. Age 50 to 70 years;&#xD;
+&#xD;
+               2. Obesity (body mass index (BMI) of 30 or greater);&#xD;
+&#xD;
+               3. Hypertension;&#xD;
+&#xD;
+               4. Current smoker;&#xD;
+&#xD;
+               5. Diabetes mellitus (Type 1 or type 2);&#xD;
+&#xD;
+               6. Stable cardiac disease.&#xD;
+&#xD;
+          3. Experiencing symptoms of mild to moderate COVID-19 not requiring supplemental oxygen;&#xD;
+&#xD;
+          4. Having confirmed infection with SARS-CoV-2, defined as detection of SARS-CoV-2 from&#xD;
+             nasopharyngeal swab or lower respiratory tract specimen;&#xD;
+&#xD;
+          5. Karnofsky Performance Score ≥70%;&#xD;
+&#xD;
+          6. Enrolled within the first 4 days of onset of symptoms;&#xD;
+&#xD;
+          7. Able and willing to comply with the protocol for duration of the study, including 24&#xD;
+             hour hospitalization for study drug administration and monitoring, and compliance with&#xD;
+             follow-up visit schedule;&#xD;
+&#xD;
+          8. Signed IRB approved informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patient is at high-risk for severe COVID-19 due to co-morbidities defined as:&#xD;
+&#xD;
+               1. Underlying lung disease such as emphysema, chronic lung disease, COPD, asthma,&#xD;
+                  chronic bronchiectasis or respiratory failure requiring baseline oxygen (O2)&#xD;
+                  support;&#xD;
+&#xD;
+               2. Immunocompromised host status due to cancer, transplant, or other causes of&#xD;
+                  immunodeficiency;&#xD;
+&#xD;
+               3. Immunosuppressive therapy, including but not limited to the following:&#xD;
+&#xD;
+                    -  Corticosteroids (except topical corticosteroids);&#xD;
+&#xD;
+                    -  Interleukin (IL)-6 or Tumor necrosis factor alpha (TNFα) blockade;&#xD;
+&#xD;
+                    -  Other immunotherapies.&#xD;
+&#xD;
+          2. Patient with the following signs of abnormal organ or bone marrow function as defined&#xD;
+             below:&#xD;
+&#xD;
+               -  AST(SGOT) and/or ALT(SGPT) &gt; 3 x upper limit of normal (ULN);&#xD;
+&#xD;
+               -  Serum (total) bilirubin &gt; 1.5 x ULN;&#xD;
+&#xD;
+               -  Creatinine Clearance ≤ 30 mL/min (by Modification of Diet in Renal Disease (MDRD)&#xD;
+                  formula);&#xD;
+&#xD;
+               -  Hemoglobin &lt; 9 g/dL;&#xD;
+&#xD;
+               -  Thrombocytes ≤ 75.000/uL;&#xD;
+&#xD;
+               -  Absolute neutrophil count (ANC) ≤ 1.500/uL;&#xD;
+&#xD;
+               -  Prothrombin time (PT) or activated partial thromboplastin (aPTT) time &gt;1.5 × ULN;&#xD;
+&#xD;
+          3. Patient has been admitted to the (ICU);&#xD;
+&#xD;
+          4. Patients with QT prolongation, history of &quot;torsades de pointes&quot; or ventricular&#xD;
+             arrhythmia (if they are scheduled to receive diphenhydramine);&#xD;
+&#xD;
+          5. Patient with a known history of allergic reactions to any constituent of the product,&#xD;
+             including a known history of allergic reactions to cellular products or DMSO;&#xD;
+&#xD;
+          6. Pregnant (positive pregnancy test) or breast-feeding female patients;&#xD;
+&#xD;
+          7. Women of childbearing potential who are sexually active and men who have sexual&#xD;
+             contact with a female of childbearing potential: not willing to use reliable methods&#xD;
+             of contraception (oral contraceptives, intrauterine device, hormone implants,&#xD;
+             contraceptive injection or abstinence) up to 90 days post injection of study&#xD;
+             medication;&#xD;
+&#xD;
+          8. Participation in other COVID-19 studies involving experimental treatments or vaccines&#xD;
+             for COVID-19. Participation in other observational studies could be allowed if they do&#xD;
+             not interfere with protocol compliance or blood draws;&#xD;
+&#xD;
+          9. Patients with a history or current evidence of alcohol or drug abuse or dependence, or&#xD;
+             recreational use of illicit drugs including use of medical marijuana;&#xD;
+&#xD;
+         10. Vulnerable populations such as those currently incarcerated or homeless;&#xD;
+&#xD;
+         11. Any other condition which in the opinion of the investigator makes the patient&#xD;
+             ineligible for participation in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sally Anne Jones</last_name>
+    <phone>+1 206 502 5843</phone>
+    <email>s.jones@kiadis.com</email>
+  </overall_contact>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 15, 2021</study_first_posted>
+  <last_update_submitted>March 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cell Therapy</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Natural Killer Cells</keyword>
+  <keyword>NK Cells</keyword>
+  <keyword>Off-the-shelf</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

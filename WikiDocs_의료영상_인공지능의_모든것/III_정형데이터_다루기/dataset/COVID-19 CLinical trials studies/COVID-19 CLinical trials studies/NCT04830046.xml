@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2046">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04830046</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-108</org_study_id>
+    <nct_id>NCT04830046</nct_id>
+  </id_info>
+  <brief_title>Covid-19 Vaccine Responsiveness in MM and Waldenstrom</brief_title>
+  <official_title>Covid-19 Vaccine Responsiveness in Patients With Multiple Myeloma and Waldenstrom's Macroglobulinemia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research is being done to see if the immune (defense) system of people with Multiple&#xD;
+      Myeloma and Waldenstrom's Macroglobulinemia reacts to the COVID-19 vaccine.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 vaccines are designed to help prevent infections, hospitalizations, and death from&#xD;
+      the COVID-19 virus. Normally, when the vaccine is administered, the immune system reacts by&#xD;
+      creating antibodies (proteins made by the body's immune system to fight infections such as&#xD;
+      COVID-19) and helping the immune system's blood cells to fight it. In people with Multiple&#xD;
+      Myeloma and Waldenstrom's Macroglobulinemia, their immune system does not function normally,&#xD;
+      and an effective immune response may not occur. The research study procedures include&#xD;
+      screening for eligibility and the collection of data and biospecimens. It is expected that&#xD;
+      about 160 people will take part in this research study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2021</start_date>
+  <completion_date type="Anticipated">August 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Effective immune response (EIR) rate at 28 days</measure>
+    <time_frame>28 days</time_frame>
+    <description>The primary endpoint is the effective immune response (EIR) rate at 28 days following the second or final vaccine dose. EIR will be defined by a positive SARS-CoV-2 spike antibody index (S/C). The EIR rate will be reported along with the exact 95% confidence interval.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <condition>Waldenstrom Macroglobulinemia</condition>
+  <condition>Immune System Disorder</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Multiple Myeloma-MM patients</arm_group_label>
+    <description>People with Multiple Myeloma-MM receiving covid 19 vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Waldenstrom's macroglobulinemia-WM patients</arm_group_label>
+    <description>People with Waldenstrom's macroglobulinemia-WM receiving covid 19 vaccine categorized by treatment naïve, actively receiving BTK inhibitor,currently or previously treated.</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood drawn for routine and covid antibody testing&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        People with Multiple Myeloma-MM and Waldenstrom's macroglobulinemia-WM receiving covid 19&#xD;
+        vaccine.&#xD;
+&#xD;
+        People with Waldenstrom's macroglobulinemia-WM are categorized by treatment naïve, actively&#xD;
+        receiving BTK inhibitor,currently or previously treated&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt;18 years.&#xD;
+&#xD;
+          -  Lack of a contra-indication to a currently available COVID-19 vaccine.&#xD;
+&#xD;
+          -  Diagnosis of MM according to International Myeloma Working Group (IWMG) criteria&#xD;
+             (Cohort 1) or Diagnosis of WM according to WHO criteria (Cohort 2)&#xD;
+&#xD;
+          -  For treatment naïve WM patients (Cohort 2A):&#xD;
+&#xD;
+               -  Patient must have no prior history of anticancer treatment for WM.&#xD;
+&#xD;
+               -  The treating investigator must have no intention to initiate WM therapy within 2&#xD;
+                  months&#xD;
+&#xD;
+          -  For WM patients receiving BTK inhibitor (Cohort 2B):&#xD;
+&#xD;
+               -  Patient must have no history of cytotoxic chemotherapy within 1 year, and no&#xD;
+                  history of other anticancer therapy within 6 months.&#xD;
+&#xD;
+          -  For currently or previously treated WM patients (Cohort 2C):&#xD;
+&#xD;
+               -  Patient must not be currently taking a BTK inhibitor or had recent exposure&#xD;
+                  within 1 month of enrollment. Current or prior history of any other WM-directed&#xD;
+                  therapy is allowed.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrew Branagan, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Andrew Branagan, MD, PhD</last_name>
+    <phone>(617) 643-4000</phone>
+    <email>abranagan@mgh.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Clifton Mo, MD</last_name>
+      <phone>617-582-7969</phone>
+      <email>clifton_mo@dfci.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Clifton Mo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Clifton Mo, MD</last_name>
+      <phone>617-582-7969</phone>
+      <email>clifton_mo@dfci.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Clifton Mo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 31, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 2, 2021</study_first_posted>
+  <last_update_submitted>March 31, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Andrew R. Branagan, M.D., Ph.D.</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Multiple Myeloma</keyword>
+  <keyword>Waldenstrom Macroglobulinemia</keyword>
+  <keyword>Immune System Disorder</keyword>
+  <keyword>Covid 19 Vaccination</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+    <mesh_term>Waldenstrom Macroglobulinemia</mesh_term>
+    <mesh_term>Immune System Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The Dana-Farber / Harvard Cancer Center encourages and supports the responsible and ethical sharing of data from clinical trials. De-identified participant data from the final research dataset used in the published manuscript may only be shared under the terms of a Data Use Agreement. Requests may be directed to: [contact information for Sponsor Investigator or designee]. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Data can be shared no earlier than 1 year following the date of publication</ipd_time_frame>
+    <ipd_access_criteria>Contact the Partners Innovations team at http://www.partners.org/innovation</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="658">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04825301</url>
+  </required_header>
+  <id_info>
+    <org_study_id>prot. N. 28958</org_study_id>
+    <nct_id>NCT04825301</nct_id>
+  </id_info>
+  <brief_title>Prognostic Prediction of COVID-19 Clinical Course Through the Development of a Convolutional Neural Network</brief_title>
+  <official_title>Prognostic Prediction of COVID-19 Clinical Course Through the Development of a Convolutional Neural Network</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of L'Aquila</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of L'Aquila</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the study is to develop a prognostic prediction model based on convolutional&#xD;
+      neural network in patients affected by COVID-19, the prediction model will be capable to&#xD;
+      recognize patient with favorable prognosis or patient with poor prognosis by intelligent&#xD;
+      systems data analysis.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 21, 2020</start_date>
+  <completion_date type="Anticipated">July 21, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 21, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Data collection of patient affected by COVID-19</measure>
+    <time_frame>2 months</time_frame>
+    <description>Data about sex, age, sympotoms start date, symptoms, comorbidity, vital parameters, hematochemicas blood tests, therapy, oxygen support, radiology, clinical disease progression will be collected</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Application of Machine Learning algorithm on data of patients affected by COVID-19</measure>
+    <time_frame>2 months</time_frame>
+    <description>The collected data will be analyzed through a convolutional neural network based approch to predict the prognosis of patients affected by COVID-19.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">325</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>training cohort</arm_group_label>
+    <description>data collection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>validation cohort</arm_group_label>
+    <description>data collection</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Italian caucasian patients aged over 18 years old SARS-CoV-2 infection confirmed by PCR&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  patients aged over 18 positive for COVID-19 by polymerase chain reaction assay for&#xD;
+             rhino-pharingeal swab&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Under 18 aged&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of L'Aquila</name>
+      <address>
+        <city>L'Aquila</city>
+        <zip>67100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clara Balsano</last_name>
+      <phone>+39 0862434774</phone>
+      <email>clara.balsano@univaq.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>April 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of L'Aquila</investigator_affiliation>
+    <investigator_full_name>Clara Balsano</investigator_full_name>
+    <investigator_title>Full Professor</investigator_title>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>machine learning</keyword>
+  <keyword>convolutional neural network</keyword>
+  <keyword>prediction model</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

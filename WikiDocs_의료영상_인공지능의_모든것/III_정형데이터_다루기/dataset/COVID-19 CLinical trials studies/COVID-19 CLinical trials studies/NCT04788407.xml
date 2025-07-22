@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2869">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04788407</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FH-53</org_study_id>
+    <nct_id>NCT04788407</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Nitazoxanide for Post Exposure Prophylaxis of COVID-19 in Household Contacts</brief_title>
+  <acronym>PENTZ</acronym>
+  <official_title>Pilot Study of Safety and Efficacy of Nitazoxanide in Post-exposure Prophylaxis in Household Contacts of Patients With Confirmed SARS-CoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fundación Huésped</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ministerio de Salud de Ciudad Autónoma de Buenos Aires</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Laboratorios Roemmers S.A.I.C.F.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fundación Huésped</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate the efficacy of the drug nitazoxanide 500&#xD;
+      mg, administered three times a day, in relation to placebo in preventing the development of&#xD;
+      COVID-19 in household contacts of patients diagnosed with the disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Eligible participants (cohabitants of a recently confirmed COVID19 case) residing in Buenos&#xD;
+      Aires City will be identified by the Ministry of Health and contacted with the investigators,&#xD;
+      who will visit them at home and offer to participate. For consenting individuals, a rapid&#xD;
+      serological test and a nasopharyngeal PCR sample for SARS-CoV-2 will be performed and&#xD;
+      participants will be then randomized to NTZ or placebo to be taken during 7 days.&#xD;
+&#xD;
+      SARS-CoV-2 PCR will be repeated on day 14th and the serologic rapid test repeated on day&#xD;
+      28th.&#xD;
+&#xD;
+      Clinical status of participants will be assessed daily by phone. Individuals meeting case&#xD;
+      definition will be evaluated at home and a PCR will be performed. Those with confirmed&#xD;
+      COVID19 case will discontinue study medication and followed until symptoms resolution.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 1, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Prospective, Cluster-Randomized, double-blind, placebo-controlled clinical trial.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The proportion of subjects with laboratory-confirmed COVID-19 identified after start of treatment and before the end of the study</measure>
+    <time_frame>28 days</time_frame>
+    <description>Proportion of participants with negative baseline PCR for SARS-CoV-2 who test positive for PCR on day 14 and / or seroconversion on day 28 after initiation of study medication.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of adverse events (AE) and serious AE (SAE) related to research product.</measure>
+    <time_frame>28 days</time_frame>
+    <description>Safety and adverse events (AEs).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of all causes of study drug withdrawal or discontinuation.</measure>
+    <time_frame>7 days</time_frame>
+    <description>Treatment adherence.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">456</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>Households Contacts</condition>
+  <arm_group>
+    <arm_group_label>Nitazoxanide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive nitazoxanide 500 mg TID.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects will receive placebo TID.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nitazoxanide</intervention_name>
+    <description>Subjects will receive nitazoxanide 500 mg TID for 7 days</description>
+    <arm_group_label>Nitazoxanide</arm_group_label>
+    <other_name>Nixoran</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Subjects will receive placebo TID for 7 days</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women over 18 and under 65.&#xD;
+&#xD;
+          -  Household contact with a confirmed case of COVID-19 by PCR for Sars-CoV-2.&#xD;
+&#xD;
+          -  Initiate study medication within 4 days from the last close contact with the index&#xD;
+             case.&#xD;
+&#xD;
+          -  The patient must not present symptoms suggestive of Covid19 (cough, dyspnea, fever&gt;&#xD;
+             37.5 C, fatigue, sore throat, myalgia, diarrhoea) at the time of admission to the&#xD;
+             study and from previous 14 days.&#xD;
+&#xD;
+          -  Informed consent from the patient or legal representative.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of infection confirmed by SARS-CoV-2.&#xD;
+&#xD;
+          -  Positive IgG antibodies test for SARS-CoV-2 at the time of admission.&#xD;
+&#xD;
+          -  Have received any dose of nitazoxanide within 7 days prior to screening.&#xD;
+&#xD;
+          -  Known hypersensitivity to any of the study medication components.&#xD;
+&#xD;
+          -  Use of any investigational or unregistered drug or vaccine within 30 days prior to&#xD;
+             screening, or use planned during the study period.&#xD;
+&#xD;
+          -  Inability to comply with study procedures.&#xD;
+&#xD;
+          -  Current breastfeeding.&#xD;
+&#xD;
+          -  Pregnancy.&#xD;
+&#xD;
+          -  Intolerance or inability to take oral medication.&#xD;
+&#xD;
+          -  History of severe liver disease (Child-Pugh B or C) and/or chronic kidney disease.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Omar Sued, MD PhMD</last_name>
+    <role>Study Director</role>
+    <affiliation>Fundacion Huesped.</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Herman K Ludvik, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fundación Huésped</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Omar Sued, MD PHd</last_name>
+    <phone>+54 11 4981-1855/7777</phone>
+    <phone_ext>113</phone_ext>
+    <email>omar.sued@huesped.org.ar</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Herman K Ludvik, MD</last_name>
+    <phone>+54 11 4981-1855/7777</phone>
+    <phone_ext>115</phone_ext>
+    <email>herman.ludvik@huesped.org.ar</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Fundación Huésped.</name>
+      <address>
+        <city>Buenos Aires</city>
+        <state>Ciudad Autonoma De Buenos Aires</state>
+        <zip>C1204</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Herman K Ludvik, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Omar Sued, MD PhMD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Herman K. Ludvik, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 9, 2021</study_first_posted>
+  <last_update_submitted>March 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Fundación Huésped</investigator_affiliation>
+    <investigator_full_name>Omar Sued</investigator_full_name>
+    <investigator_title>Research Director</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nitazoxanide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>to publish study results</ipd_description>
+    <ipd_url>https://www.huesped.org.ar/que-hacemos/ciencia/investigaciones-biomedicas/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

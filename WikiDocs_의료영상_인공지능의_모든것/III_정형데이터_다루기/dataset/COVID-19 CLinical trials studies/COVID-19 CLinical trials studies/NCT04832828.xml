@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1625">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04832828</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PI-4321</org_study_id>
+    <nct_id>NCT04832828</nct_id>
+  </id_info>
+  <brief_title>Sensitivity and Specificity of the Roth Test in Patients With COVID-19 Positive</brief_title>
+  <official_title>Sensitivity and Specificity of the Roth Test in Patients With COVID-19 Positive</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad Autonoma de Madrid</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universidad Autonoma de Madrid</source>
+  <brief_summary>
+    <textblock>
+      The presence of the described silent hypoxia in subjects diagnosed with COVID19 highlights&#xD;
+      the need for valid tools to assess respiratory capacity. The Roth test has been associated&#xD;
+      with acceptable sensitivity and specificity criteria in patients with previous respiratory&#xD;
+      pathology; however, its validity in this type of patient has not been proven.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 1, 2020</start_date>
+  <completion_date type="Actual">November 28, 2020</completion_date>
+  <primary_completion_date type="Actual">November 28, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Oxygen Saturation</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The pulseoximeter percentage value</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Roth´s test</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The level described in the test</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">114</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVID+ Group</arm_group_label>
+    <description>Patients diagnosed with Covid19 positive in last 7 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Roth´s Test</intervention_name>
+    <description>Subjets must count from 1 to 30 in their languages, and health professional will count seconds that last in take breath during the count.</description>
+    <arm_group_label>COVID+ Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Subjects aged 18 to 90 years were recruited by non-probabilistic convenience sampling in&#xD;
+        Primary Health Care Centres of the Primary Health Care Management of SERMAS and the&#xD;
+        Intensive Care Unit of the University Hospital of Gran Canaria Doctor Negrín of the Canary&#xD;
+        Health Service&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. having been diagnosed as COVID-19 positive and with symptoms compatible with&#xD;
+             Sars-Cov-2 infection in the last 7 days prior to assessment,&#xD;
+&#xD;
+          2. having an understanding of Spanish,&#xD;
+&#xD;
+          3. and having no history of respiratory pathology prior to the current infection.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>CS Entrevías</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28053</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 6, 2021</study_first_posted>
+  <last_update_submitted>April 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidad Autonoma de Madrid</investigator_affiliation>
+    <investigator_full_name>Raúl Ferrer-Peña</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypersensitivity</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2459">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04844489</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP210305</org_study_id>
+    <secondary_id>2021-A00469-32</secondary_id>
+    <nct_id>NCT04844489</nct_id>
+  </id_info>
+  <brief_title>Study of the Humoral Response to SARS-CoV-2 Variants and of the Cellular Response After Vaccination Against COVID-19 in Immunocompromised People</brief_title>
+  <acronym>COVIVAC-ID</acronym>
+  <official_title>Study of the Humoral Response to SARS-CoV-2 Variants and of the Cellular Response After Vaccination Against COVID-19 in Immunocompromised People</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Prospective, multicenter, non-comparative cohort study of immunocompromised people vaccinated&#xD;
+      against Covid-19 with the aim to know the humoral and cellular response to BNT162b2&#xD;
+      vaccination against SARS-CoV-2 variants. This study will enroll patients in 5 parallel&#xD;
+      sub-cohorts of the same size, distinct according to the source of the immunosuppression:&#xD;
+      autoimmune or auto-inflammatory disease, HIV infection, multiple sclerosis, solid cancer,&#xD;
+      organ transplantation with prospective data collection and constitution of biological&#xD;
+      collections.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The SARS-CoV-2 pandemic represents an extraordinary challenge for global health, it has&#xD;
+      caused more than 97 million cases of Covid-19 and 2 million deaths worldwide as of January&#xD;
+      22, 2021. Vaccination against Covid-19 is an essential weapon to mitigate the consequences of&#xD;
+      the SARS-CoV-2 pandemic. Its effect in reducing mortality is of course expected in people&#xD;
+      most vulnerable to Covid-19 such as immunocompromised people.&#xD;
+&#xD;
+      In general, the immunogenicity of vaccines in immunocompromised populations is conditioned by&#xD;
+      the nature and intensity of the chronic pathology (s), the age and the treatments received.&#xD;
+      In addition, the emergence of new variants of SARS-CoV-2 is a major concern today. Three new&#xD;
+      variants that have rapidly become dominant within their countries have aroused concerns:&#xD;
+      B.1.1.7 (also known as VOC-202012/01), 501Y.V2 (B.1.351), and P.1 (B.1.1.28.1) and questions&#xD;
+      are raised about their potential to escape from vaccine-induced immunity. It is therefore&#xD;
+      important to be able to assess vaccine efficacy in subjects who are fragile with respect to&#xD;
+      these variants.&#xD;
+&#xD;
+      We are proposing the establishment of a multicenter cohort study of immunocompromised people&#xD;
+      vaccinated against Covid-19 with the aim to know the humoral and cellular response to&#xD;
+      BNT162b2 vaccination against SARS-CoV-2 variants. The primary objective is to evaluate the&#xD;
+      neutralizing capacity of the antibodies regarding different variants of SARS-CoV-2 after&#xD;
+      vaccination on 1 month after the first injection, then on 1, 6 and 12 months after the last&#xD;
+      injection. In-depth immunophenotyping of immune blood cells which analyzes in detail the&#xD;
+      subpopulations of T lymphocytes and their responses to SARS-CoV-2 will be also analyze before&#xD;
+      vaccination and after vaccination on 1 month after the first injection, then on 1 month after&#xD;
+      the last injection. Extensive explorations of the humoral and cellular response to BNT162b2&#xD;
+      vaccination will provide crucial data on the potential efficacy of the BNT162b2 vaccine on&#xD;
+      the recently identified SARS-CoV-2 variants, as well as innovative data on the dynamic of the&#xD;
+      functional responses of T cells and of the TCR repertoire, the dynamic of which (increase&#xD;
+      after vaccination, remote contraction) makes it possible to link them to a vaccine response,&#xD;
+      as has already been done in the context of other vaccination.&#xD;
+&#xD;
+      This study will provide a better understanding of the biological response to BNT162b2&#xD;
+      vaccination in immunocompromised people with respect to the English VOC 202012/01, South&#xD;
+      African 501Y.V2 variants and any other variants that may emerge. In particular, we are&#xD;
+      waiting to be able to estimate the proportion of patients whose immunogenicity suggests a&#xD;
+      reduction in the frequency of severe forms of COVID-19. Conversely, we are waiting to&#xD;
+      estimate the proportion of patients with a level of immunogenicity too low to hope for good&#xD;
+      clinical protection against COVID-19. In addition, there are no data on the durability of the&#xD;
+      biological response to BNT162b2 vaccination.&#xD;
+&#xD;
+      It is possible that these observations could lead to the implementation of reinforced&#xD;
+      vaccination protocols for this population, as is already the case for vaccination for&#xD;
+      hepatitis B vaccination.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 15, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 15, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of patients with a neutralizing antibody titer greater than 1/10 on D28 towards the wild strain and the English VOC 202012/01, South African 501Y.V2 variants and any other variants that may emerge</measure>
+    <time_frame>At day 28</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with a positive serology by detection of IgG anti-receptor-binding domain (RBD) antibodies to the Spike protein of SARS-CoV-2 measured by the SARS-CoV technique -2 IgG II Quant assay (Abbott)</measure>
+    <time_frame>At Day 28 and at one, six and twelve months after the last injection</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with a positive serology by detection of the anti-Spike protein IgG antibodies of SARS-CoV-2 measured by the Euroimmun technique</measure>
+    <time_frame>At Day 28 and at one, six and twelve months after the last injection</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with positive anti-RBD IgG serology on D0</measure>
+    <time_frame>At inclusion visit</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-RBD IgG level</measure>
+    <time_frame>At Day 28 and at one, six and twelve months after the last injection</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antibody neutralization title</measure>
+    <time_frame>At Day 28 and at one, six and twelve months after the last injection</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralization title for antibodies against the wild strain and to the English VOC 202012/01, South African 501Y.V2 variants and any other variants that could be introduced to emerge.</measure>
+    <time_frame>At Day 28 and at one, six and twelve months after the last injection</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Supervised and unsupervised analyzes of deep immunophenotyping of T and B lymphocytes</measure>
+    <time_frame>At Day 0, Day 28 and at one month after the last injection</time_frame>
+    <description>Count of CD4 / CD8, B and NK T lymphocyte populations and quantification of Treg lymphocytes on fresh cells. In-depth immunophenotyping of T lymphocytes with naive distributions / memories and activation markers and on naive B distributions / memories and other classically described subpopulations</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytometric measurement of intracellular cytokines (IFN, TNF, IL-2, IL4, IL10, IL-17) after stimulation of T lymphocytes by pools of SARS-CoV-2, CMV, EBV and influenza peptides</measure>
+    <time_frame>At Day 0, Day 28 and at one month after the last injection</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Structure and specificity of the TCR (T-cells Receptors) repertoire of blood cells</measure>
+    <time_frame>At Day 0, Day 28 and at one month after the last injection</time_frame>
+    <description>High throughput TCR sequencing (Barennes et al, Nat Biotech, 2021) will be performed on separated CD8 and CD4 T cells. Standard diversity metrics, such as V and J gene usage, VJ combination and clonotype frequencies will describe the global repertoire structures before and after vaccination. TCR signatures that could characterize the immune response to vaccination will be define based on the dynamics of sequences. For such studies, analyses are based exclusively on the CDR3 region of the TCRs such as to analyze humans independently of their HLA genotype. Finally, we will search for virus specific TCRs using our curated database (Barennes et al, Nat Biotech, 2021)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">485</enrollment>
+  <condition>Autoimmune or Autoinflammatory Diseases</condition>
+  <condition>HIV</condition>
+  <condition>Multiple Sclerosis</condition>
+  <condition>Solid Tumors or Cancers</condition>
+  <condition>Solid Organ Transplant</condition>
+  <arm_group>
+    <arm_group_label>Blood samples</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Blood samples for the study of the humoral response to SARS-CoV-2 variants and of the cellular response after vaccination against COVID-19</intervention_name>
+    <description>Blood samples at:&#xD;
+D0 (the day of the injection of the SARS-CoV-2 vaccine),&#xD;
+during the 2nd injection as part of the national vaccination campaign (on D28)&#xD;
+then to M1, M6 and M12 of the last injection</description>
+    <arm_group_label>Blood samples</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age greater than or equal to 18 years&#xD;
+&#xD;
+          -  Patients eligible for BNT162b2 vaccination&#xD;
+&#xD;
+          -  Immunocompromised patients according to one of the following criteria:&#xD;
+&#xD;
+               1. Patients with autoimmune or autoinflammatory diseases treated&#xD;
+&#xD;
+                    1. For at least one year&#xD;
+&#xD;
+                    2. Having received at least two lines of immunosuppressants&#xD;
+&#xD;
+                    3. Having received at least 0.5 mg / kg / day of prednisone (or equivalent) for&#xD;
+                       at least one month&#xD;
+&#xD;
+                    4. Currently receiving at least 5 mg / day of prednisone in combination with an&#xD;
+                       immunosuppressant (methotrexate, cyclosporine, mycophenolate mofetil,&#xD;
+                       rapamycin, azathioprine, cyclophosphamide) or biotherapy (anti-B cells&#xD;
+                       (rituximab and others) anti-TNF, IL- 1, IL-6R, IL-12/23, IL-17, or B7&#xD;
+                       (CTLA4-Ig)) or a kinase inhibitor (Janus, Tyrosine))&#xD;
+&#xD;
+               2. HIV-infected patients with a CD4 count &lt;500 / mm3 and a viral load &lt;50 copies /&#xD;
+                  ml on stable antiretroviral therapy for at least 3 months&#xD;
+&#xD;
+               3. Patients with multiple sclerosis treated with a disease-modifying drug for at&#xD;
+                  least 3 months at a stable dose (teriflunomide, dimethyl-fumarate, fingolimod,&#xD;
+                  ocrelizumab, rituximab, natalizumab)&#xD;
+&#xD;
+               4. Patients with solid tumors or cancers:&#xD;
+&#xD;
+                    1. Patients who have received active cancer treatment other than chemotherapy&#xD;
+                       (targeted therapy, radiotherapy, surgery, hormone therapy) in the previous&#xD;
+                       month&#xD;
+&#xD;
+                    2. Patients who have received active cancer treatment with chemotherapy (alone&#xD;
+                       or in combination with immunotherapy, radiotherapy or targeted therapy) in&#xD;
+                       the previous month&#xD;
+&#xD;
+                    3. Patients who have received active oncology treatment with one or more&#xD;
+                       immunotherapy (s) in combination with anti-PD1, anti-PD-L1, anti-CTLA4&#xD;
+                       antibodies without chemotherapy in the previous month.&#xD;
+&#xD;
+               5. Solid organ transplant patients for more than 3 months who have not received a&#xD;
+                  depleting T agent in the induction protocol, and for&gt; 6 months otherwise&#xD;
+&#xD;
+          -  Life expectancy of more than 3 months&#xD;
+&#xD;
+          -  Having been informed about the study and having given their written and informed&#xD;
+             consent&#xD;
+&#xD;
+          -  Beneficiaries or beneficiaries of a social security scheme&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who may be included in more than one of the sub-cohorts&#xD;
+&#xD;
+          -  Other vaccination received in the 15 days preceding recruitment or planned in the&#xD;
+             month following the second vaccine injection&#xD;
+&#xD;
+          -  Known or suspected allergy to one of the components of the vaccine&#xD;
+&#xD;
+          -  Severe allergic site (history of anaphylactic shock)&#xD;
+&#xD;
+          -  Severe reaction after previous administration of any influenza vaccine (multiple&#xD;
+             sclerosis, Guillain-Barré syndrome)&#xD;
+&#xD;
+          -  Contact subjects of a patient with an undetected documented SARS-CoV-2 infection&#xD;
+&#xD;
+          -  Evocative signs of COVID-19&#xD;
+&#xD;
+          -  History of documented SARS-CoV-2 infection of less than 3 months (RT-PCR, Lamp PCR,&#xD;
+             antigen test)&#xD;
+&#xD;
+          -  Last outbreak of the disease less than 3 months old&#xD;
+&#xD;
+          -  Intercurrent infection&#xD;
+&#xD;
+          -  For organ transplants, episode of cellular or humoral rejection during the 3 months&#xD;
+             preceding inclusion&#xD;
+&#xD;
+          -  Healthy volunteers&#xD;
+&#xD;
+          -  Pregnancy in progress or planned within 3 months after vaccination&#xD;
+&#xD;
+          -  Refusal of participation by the patient&#xD;
+&#xD;
+          -  Patients subject to legal protection measures&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Anne-Geneviève MARCELIN, MD, PhD</last_name>
+    <phone>+33142177401</phone>
+    <email>anne-genevieve.marcelin@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Olivier BENVENISTE, MD, PhD</last_name>
+    <email>olivier.benveniste@aphp.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital Pitié-Salpêtrière - AP-HP</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olivier BENVENISTE, MD,PhD</last_name>
+      <phone>0142161088</phone>
+      <email>olivier.benveniste@aphp.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid-19</keyword>
+  <keyword>Vaccination</keyword>
+  <keyword>Variants</keyword>
+  <keyword>Neutralizing antibodies</keyword>
+  <keyword>Cellular immunity</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Sclerosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

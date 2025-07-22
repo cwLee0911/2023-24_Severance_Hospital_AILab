@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5193">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04765215</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHEMOCOVAC</org_study_id>
+    <nct_id>NCT04765215</nct_id>
+  </id_info>
+  <brief_title>Investigation of the Effectiveness of CoronaVac Vaccine in Cancer Patients With Active Chemotherapy and Comparison With Healthy People.</brief_title>
+  <official_title>Investigation of the Effectiveness of CoronaVac Vaccine in Cancer Patients With Active Chemotherapy and Comparison With Healthy People.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Asoc. Prof. Erdoğan Selçuk Şeber</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Namik Kemal University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aimed to investigate the effectiveness of CoronaVac vaccine, which is more than&#xD;
+      90% protective in healthy people, in cancer patients receiving active chemotherapy. In this&#xD;
+      study, to collect information to measure the amount of antibodies produced by the vaccine in&#xD;
+      the blood of volunteers with the CoronoVac vaccine and to compare it with healthy volunteers.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 31, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Antibody levels above the defined cut-off</measure>
+    <time_frame>Between the third and sixth weeks after the second dose of vaccine</time_frame>
+    <description>SARS-CoV-2 IgG II ≥ 50.0 AU/ml (positive) and SARSCoV- 2 IgM &gt;1 (positive)</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">291</enrollment>
+  <condition>Is the Coronovac Vaccine Effective in Patients Receiving Chemotherapy</condition>
+  <arm_group>
+    <arm_group_label>Breast or lung cancer patients receiving active chemotherapy and 2 doses of CoronaVac vaccine</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy volunteers who received two doses of coronavac vaccine</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CoronoVAC</intervention_name>
+    <description>SARS-CoV-2 IgM and IgG will be measured from blood samples between 3-6 weeks after the 2nd dose of vaccination</description>
+    <arm_group_label>Breast or lung cancer patients receiving active chemotherapy and 2 doses of CoronaVac vaccine</arm_group_label>
+    <arm_group_label>Healthy volunteers who received two doses of coronavac vaccine</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      blood samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Breast or lung cancer patients receiving active chemotherapy and healthy volunteers&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Group 1&#xD;
+&#xD;
+               1. 18 years old and above&#xD;
+&#xD;
+               2. Having completed two doses of CoronoVac vaccine on time&#xD;
+&#xD;
+               3. Those with a pathological diagnosis of breast cancer or lung cancer&#xD;
+&#xD;
+               4. Being the first dose of vaccine during active chemotherapy period&#xD;
+&#xD;
+               5. Ecog performance score 0-1&#xD;
+&#xD;
+               6. Patients who signed the informed voluntary consent form&#xD;
+&#xD;
+          -  Group 2&#xD;
+&#xD;
+               1. Over 18 years old&#xD;
+&#xD;
+               2. Ecog performance score is 0-1&#xD;
+&#xD;
+               3. Those who have completed 2 doses of coronovac vaccine within the recommended&#xD;
+                  period&#xD;
+&#xD;
+               4. Volunteer who signed the informed consent form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  For all groups&#xD;
+&#xD;
+               1. Being confirmed or suspected covid-19 before vaccination&#xD;
+&#xD;
+               2. Symptomatic covid-19 infection&#xD;
+&#xD;
+               3. Being addicted to alcohol or drugs&#xD;
+&#xD;
+               4. Having a fever of 37.8 ° C as a suspect before vaccination&#xD;
+&#xD;
+               5. Aspleni&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Erdoğan Selçuk Şeber, Asoc.prof</last_name>
+    <role>Study Chair</role>
+    <affiliation>Tekirdağ Namık Kemal Üniversitesi, Tıp Fakültesi İç Hastalıkları ABD, Tıbbi Onkoloji</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Halil Taşkaynatan, Asoc.prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Asoc.prof</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Özkan Alan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Tekirdağ Dr. İsmail Fehmi Cumalıoğlu Şehir Hastanesi</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Üyesi Sonat Pınar Kara, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Tekirdağ Namık Kemal Üniversitesi, Tıp Fakültesi İç Hastalıkları ABD, İç Hastalıkları</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Aliye Çelikkol, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Tekirdağ Namık Kemal Üniversitesi, Tıp Fakültesi Tıbbi Biyokimya ABD,</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Okan Avcı, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Tekirdağ Namık Kemal Üniversitesi, Tıp Fakültesi İç Hastalıkları ABD, Tıbbi Onkoloji</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Eyyüp Çavdar, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Tekirdağ Namık Kemal Üniversitesi, Tıp Fakültesi İç Hastalıkları ABD, Tıbbi Onkoloji</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kubilay Karaboyun, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Tekirdağ Namık Kemal Üniversitesi, Tıp Fakültesi İç Hastalıkları ABD, Tıbbi Onkoloji</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Berna Erdal, DR</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Tekirdağ Namık Kemal Üniversitesi, Tıp Fakültesi Mikrobiyoloji ABD</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Yakup İriağaç, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Tekirdağ Namık Kemal Üniversitesi, Tıp Fakültesi İç Hastalıkları ABD, Tıbbi Onkoloji</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Erdoğan Selçuk Seber, Asoc.Prof.</last_name>
+    <phone>+90532 502 88 21</phone>
+    <email>selcukseber@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Yakup iriağaç, MD.</last_name>
+    <phone>+905321579248</phone>
+    <email>yakupiriagac@hotmail.com</email>
+  </overall_contact_backup>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Namik Kemal University</investigator_affiliation>
+    <investigator_full_name>Asoc. Prof. Erdoğan Selçuk Şeber</investigator_full_name>
+    <investigator_title>Namik Kemal University (BAP)</investigator_title>
+  </responsible_party>
+  <keyword>coronovac</keyword>
+  <keyword>covid-19</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

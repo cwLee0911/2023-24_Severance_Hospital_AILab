@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2572">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04784559</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APL-D-003-20</org_study_id>
+    <nct_id>NCT04784559</nct_id>
+  </id_info>
+  <brief_title>Trial to Determine the Efficacy/Safety of Plitidepsin vs Control in Patients With Moderate COVID-19 Infection</brief_title>
+  <acronym>Neptuno</acronym>
+  <official_title>A Phase 3, Multicentre, Randomised, Controlled Trial to Determine the Efficacy and Safety of Two Dose Levels of Plitidepsin Versus Control in Adult Patient Requiring Hospitalisation for Management of Moderate COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>PharmaMar</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>PharmaMar</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Treatment of patients hospitalised for management of moderate COVID-19 infection&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multicentre, open-label, controlled Phase 3 study in which adults requiring&#xD;
+      hospital admission and O2 supplementation for management of moderate COVID-19 infection will&#xD;
+      be randomised in 1:1:1 to: Plitidepsin 1.5 mg arm, Plitidepsin 2.5 mg arm and Control arm&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients Will be randomised in 1:1:1 to: Plitidepsin 1.5 mg arm, Plitidepsin 2.5 mg arm and Control arm</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The percentage of patients who achieve complete recovery</measure>
+    <time_frame>From administration date to day 31</time_frame>
+    <description>The percentage of patients who achieve complete recovery by Day 8 (±1), as defined by:&#xD;
+(i) reaching categories 0 to 2 on the 11-point WHO Clinical Progression Scale, (ii) having Barthel Index &gt;90/100 at the time of discharge, and (iii) with no re-admission for COVID-19 infection through Day 31</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Chest Imaging</measure>
+    <time_frame>Day 1, day 8 and day 31</time_frame>
+    <description>Chest radiograph abnormalities will be detected by chest radiographs or chest CT scan (for each patient, the same assessment technique is to be used for each timepoint). Images will be reviewed for the presence of pulmonary infiltrates, pleural fluid, atelectasis, pulmonary oedema, and other findings</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Status</measure>
+    <time_frame>Day 1, day 8, day 31 and day of discharge</time_frame>
+    <description>Clinical status will be assessed using the following 11-point WHO Clinical Progression Scale:&#xD;
+0: uninfected, no viral RNA detected&#xD;
+asymptomatic, viral RNA detected&#xD;
+symptomatic, independent&#xD;
+symptomatic, assistance needed&#xD;
+hospitalised, no oxygen therapy (if hospitalised for isolation only, record status as for ambulatory patient)&#xD;
+hospitalised, oxygen by mask or nasal prongs&#xD;
+hospitalised, oxygen by NIV or high flow&#xD;
+intubation and mechanical ventilation. pO2/FIO2 ≥150 or SpO2/FIO2 ≥200&#xD;
+mechanical ventilation pO2/FIO2 &lt;150 (SpO2/FIO2 &lt;200) or vasopressors&#xD;
+mechanical ventilation pO2/FIO2 &lt;150 and vasopressors, dialysis, or ECMO&#xD;
+dead</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to clinical recovery</measure>
+    <time_frame>From Day 1 through follow-up on Day 31</time_frame>
+    <description>Time (in days) to clinical recovery will be calculated as the first day, from Day 1 through follow-up on Day 31, on which a patient (i) satisfies categories 0, 1, or 2 on the 11-point WHO Clinical Progression Scale, (ii) has Barthel Index &gt;90/100 at the time of discharge, and (iii) has no subsequent re-admission for COVID-19 infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentages of patients requiring different types of oxygen therapy</measure>
+    <time_frame>Days 4, 8, 15, and 31</time_frame>
+    <description>The following information will be recorded for each patient on Days 4, 8, 15, and 31 (yes/no):&#xD;
+Receiving high-flow oxygen&#xD;
+Receiving noninvasive mechanical ventilation&#xD;
+Receiving invasive mechanical ventilation or ECMO&#xD;
+Requiring ICU admission&#xD;
+Receiving subsequent antiviral therapies or immunomodulatory drugs&#xD;
+Death.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">609</enrollment>
+  <condition>COVID-19 Infection</condition>
+  <arm_group>
+    <arm_group_label>Plitidepsin 1.5 mg arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive plitidepsin 1.5 mg/day intravenous (IV) combined with dexamethasone 8 mg/day IV on Days 1 to 3, followed by dexamethasone 6 mg/day oral administration (PO)/IV from Day 4 and up to Day 10 (as per physician judgement according to patient clinical condition and evolution).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Plitidepsin 2.5 mg arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive plitidepsin 2.5 mg/day IV combined with dexamethasone 8 mg/day IV on Days 1 to 3, followed by dexamethasone 6 mg/day PO/IV from Day 4 and up to Day 10 (as per physician judgement according to patient clinical condition and evolution).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will receive dexamethasone 8 mg/day IV on Days 1 to 3, followed by dexamethasone 6 mg/day PO/IV from Day 4 and up to Day 10 (as per physician judgement according to patient clinical condition and evolution). Additionally, in accordance with local treatment guidelines, patients may receive remdesivir 200 mg IV on Day 1 followed by 100 mg/day IV on Days 2 to 5.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Plitidepsin</intervention_name>
+    <description>Plitidepsin 2 mg injection is provided as a sterile, preservative-free, and white to off-white lyophilised powder/cake comprising 2 mg plitidepsin and 100 mg mannitol in a single-dose, 10 mL clear type 1 glass vial.&#xD;
+Solvent for plitidepsin is provided as a sterile, preservative-free, clear, slightly viscous aqueous liquid (4 mL) containing 0.15 mL macrogolglycerol ricinoleate and 0.15 mL/mL ethanol in a single-dose type 1 clear glass ampoule.&#xD;
+For administration, vial contents are reconstituted by addition of 4 mL of solvent for plitidepsin to obtain a slightly yellowish solution containing 0.5 mg/mL plitidepsin with mannitol, macrogolglycerol ricinoleate and ethanol excipients. The required amount of plitidepsin reconstituted solution is added to an IV bag containing 0.9% sodium chloride injection or 5% glucose for injection and administered as an intravenous infusion over 60 minutes.</description>
+    <arm_group_label>Plitidepsin 1.5 mg arm</arm_group_label>
+    <arm_group_label>Plitidepsin 2.5 mg arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>Dexamethasone is commercially available in Europe in both PO and IV formulations.</description>
+    <arm_group_label>Control arm</arm_group_label>
+    <arm_group_label>Plitidepsin 1.5 mg arm</arm_group_label>
+    <arm_group_label>Plitidepsin 2.5 mg arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>VEKLURY for injection is supplied as a single-dose vial containing 100 mg remdesivir as a lyophilised powder. It requires reconstitution and further dilution before administration by intravenous infusion.&#xD;
+VEKLURY injection is supplied as a single-dose vial containing 100 mg/20 mL (5 mg/mL) solution. It requires dilution before administration by intravenous infusion.</description>
+    <arm_group_label>Control arm</arm_group_label>
+    <other_name>VEKLURY</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Signed informed consent obtained prior to initiation of any study-specific procedures&#xD;
+             and study treatment&#xD;
+&#xD;
+          2. Laboratory confirmed SARS-CoV-2 infection as determined by qualitative polymerase&#xD;
+             chain reaction (PCR) by local laboratory from oro/nasopharyngeal exudate (or other&#xD;
+             respiratory specimen) collected no more than 48 hours prior to study treatment on Day&#xD;
+             1&#xD;
+&#xD;
+          3. Admitted to hospital as clinically indicated for management of moderate SARS-CoV-2&#xD;
+             (COVID-19) infection, defined by the following criteria:&#xD;
+&#xD;
+               -  Positive PCR test for SARS-CoV-2&#xD;
+&#xD;
+               -  Symptoms of moderate illness with COVID-19, which could include any symptoms of&#xD;
+                  mild illness or shortness of breath with exertion&#xD;
+&#xD;
+               -  Clinical signs suggestive of moderate illness with COVID-19 such as respiratory&#xD;
+                  rate ≥20 breaths but &lt;30 breaths per minute, SpO2 &gt;93% but &lt;95% on room air at&#xD;
+                  sea level, heart rate ≥90 but &lt;125 beats per minute, and requiring O2&#xD;
+                  supplementation&#xD;
+&#xD;
+               -  No clinical signs indicative of severe illness, which could include shortness of&#xD;
+                  breath at rest or respiratory distress&#xD;
+&#xD;
+          4. Onset of COVID-19 symptoms no later than 6 days prior to initiation of study treatment&#xD;
+             on Day 1&#xD;
+&#xD;
+          5. Male or female aged ≥18 years&#xD;
+&#xD;
+          6. Adequate bone marrow, liver, kidney, and metabolic function, defined by the following&#xD;
+             tests performed at local laboratory: • Absolute neutrophil count ≥1000/mm3 (1.0 x&#xD;
+             109/L) • Lymphocyte count ≥500/mm3 (0.5 x 109/L)&#xD;
+&#xD;
+               -  Platelet count ≥100 000/mm3 (100 x 109/L) • Haemoglobin &gt;9.0 g/dL&#xD;
+&#xD;
+               -  Alanine transaminase (ALT), aspartate transaminase (AST) ≤3 x upper limit of&#xD;
+                  normal (ULN) • Serum bilirubin ≤1 x ULN • Calculated creatinine clearance ≥30&#xD;
+                  mL/min (Cockcroft and Gault formula) • Creatine phosphokinase ≤2.5 x ULN&#xD;
+&#xD;
+          7. Agree not to participate in another interventional clinical trial through Day 31&#xD;
+&#xD;
+          8. Females of reproductive capacity must have a negative serum pregnancy test by local&#xD;
+             laboratory at study enrolment and must be non-lactating&#xD;
+&#xD;
+          9. Females and males with partners of child-bearing potential must use effective&#xD;
+             contraception while on study treatment and for 6 months after last dose of&#xD;
+             plitidepsin.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subjects with a pre-baseline (ie, in the prior month) impairment in general health&#xD;
+             condition for whatever reason except COVID 19, requiring either assistance for daily&#xD;
+             living activities or chronic oxygen therapy&#xD;
+&#xD;
+          2. Participating in another clinical trial for treatment of COVID 19 infection or&#xD;
+             patients previously enrolled in clinical trials and currently in follow up, or&#xD;
+             patients previously vaccinated for COVID 19&#xD;
+&#xD;
+          3. Evidence of respiratory failure at the time of randomisation, based on resource&#xD;
+             utilisation requiring at least 1 of the following: endotracheal intubation and&#xD;
+             mechanical ventilation, oxygen delivered by high-flow nasal cannula, noninvasive&#xD;
+             positive pressure ventilation, ECMO, or clinical diagnosis of respiratory failure (ie,&#xD;
+             clinical need for 1 of the preceding therapies, but preceding therapies not able to be&#xD;
+             administered in setting of resource limitation)&#xD;
+&#xD;
+          4. Patients clinically indicated for management of SARS CoV 2 (COVID 19), with baseline&#xD;
+             disease severity rated as severe (if positive testing by standard RT PCR assay or&#xD;
+             equivalent test, symptoms suggestive of severe illness with COVID 19, which could&#xD;
+             include any symptom of moderate illness or shortness of breath at rest, or respiratory&#xD;
+             distress, clinical signs indicative of severe systemic illness with COVID 19, such as&#xD;
+             respiratory rate ≥30 per minute, heart rate ≥125 per minute, SpO2 ≤93% on room air at&#xD;
+             sea level, or PaO2/FiO2 &lt;300)&#xD;
+&#xD;
+          5. Patients receiving treatment with antivirals, IL 6 receptor inhibitor,&#xD;
+             corticosteroids, or immunomodulatory drugs for COVID 19 infection within 4 weeks&#xD;
+             before enrolment&#xD;
+&#xD;
+          6. History of live vaccination within the last 4 weeks prior to study enrolment; subjects&#xD;
+             must not receive live, attenuated influenza vaccine within 4 weeks before enrolment or&#xD;
+             at any time during the study&#xD;
+&#xD;
+          7. Patients receiving treatment with chloroquine or derivatives within 8 weeks before&#xD;
+             enrolment or during the study&#xD;
+&#xD;
+          8. Receiving treatment with strong cytochrome P450 3A4 (CYP3A4) inhibitors or inducers&#xD;
+             (see Appendix 4)&#xD;
+&#xD;
+          9. Viral illness (other than COVID 19) requiring therapy, except for patients with&#xD;
+             treated and adequately controlled (undetectable) human immunodeficiency virus&#xD;
+             infection are eligible&#xD;
+&#xD;
+         10. Any of the following cardiac conditions: *Sinus bradycardia (&lt;50 beats/min), sinus&#xD;
+             nodal dysfunction (sick sinus disease), atrio-ventricular block of any degree (PR &gt;200&#xD;
+             msec), or any other bradyarrhythmia (&lt; 50 beats/min), except for patients with&#xD;
+             permanent pacemarkers; *Cardiac infarction, cardiac surgery or cardiac insufficiency&#xD;
+             episode within the last 6 months; or *QT interval corrected using Fridericia's formula&#xD;
+             (QTcF) &gt;450 msec for males or &gt;470 msec for females, based on triplicate ECG at&#xD;
+             screening&#xD;
+&#xD;
+         11. Pre-existing neuropathies of any type Grade ≥2&#xD;
+&#xD;
+         12. Hypersensitivity to the active ingredient or any of the excipients (mannitol,&#xD;
+             macrogolglycerol hydroxystearate, and ethanol).&#xD;
+&#xD;
+         13. Females who are pregnant (negative serum pregnancy test required for all females of&#xD;
+             child bearing potential at screening) or breast feeding&#xD;
+&#xD;
+         14. Females and males with partners of child bearing potential (females who are not&#xD;
+             surgically sterile or postmenopausal defined as amenorrhoea for &gt;12 months) who are&#xD;
+             not using at least 1 protocol-specified method of contraception&#xD;
+&#xD;
+         15. Any other clinically significant medical condition or laboratory abnormality that, in&#xD;
+             the opinion of the investigator, would jeopardise the safety of the patient or&#xD;
+             potentially impact patient compliance or the safety/efficacy observations in the&#xD;
+             study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>José Jimeno Doñaque, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>PharmaMar</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>José Jimeno Doñaque, MD, PhD</last_name>
+    <phone>+34918466000</phone>
+    <email>clinicaltrials@pharmamar.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital General de Agudos</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ricardo Teijerio</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Muñiz</name>
+      <address>
+        <city>Ciudad autónoma de Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Rubén Solari</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Felício Rocho</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <zip>30110-068</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mozar de Castro Neto</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CEMEC - Centro Multidisciplinar de Estudos Clínicos</name>
+      <address>
+        <city>São Bernardo Do Campo</city>
+        <zip>09715-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Adilson Calvacante</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Multiprofile Hospital for Active Treatment Sveta Ekaterina EAD</name>
+      <address>
+        <city>Dimitrovgrad</city>
+        <zip>6400</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Todor Atanasov</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Specialized Hospital for Active Treatment of Pneumo-Phthisiatric Diseases - Haskovo</name>
+      <address>
+        <city>Haskovo</city>
+        <zip>6300</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Veselin Kalfov</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SHATPPD Dr. Dimitar Gramatikov, Ruse Ltd.</name>
+      <address>
+        <city>Ruse</city>
+        <zip>7002</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Hristo Metev</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>&quot;MHAT &quot;Sveta Anna&quot;&quot; - Sofia AD</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1570</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dimitar Raev</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera di Rilievo Nazional Santobono Pausilipon</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Andrea Bianco</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Nazionale per le Malattie Infettive IRCCS &quot;Lazzaro Spallanzani&quot;</name>
+      <address>
+        <city>Roma</city>
+        <zip>149</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Emanuele Nicastri</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione Policlinico Universitario Agostino Gemelli</name>
+      <address>
+        <city>Roma</city>
+        <zip>168</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Roberto Cauda</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Central Universitario de Chihuahua</name>
+      <address>
+        <city>Chihuahua</city>
+        <state>CHH</state>
+        <zip>31000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>César Enrique Tinoco Ronquillo</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sanatorio Palmore, A.C.</name>
+      <address>
+        <city>Chihuahua</city>
+        <state>CHH</state>
+        <zip>31020</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Hugo Sánchez</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán</name>
+      <address>
+        <city>Mexico City</city>
+        <state>DIF</state>
+        <zip>14000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sergio Ivan Valdes Ferrer</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>niversidad Autonoma de Nuevo Leon - Hospital Universitario &quot;Dr. Jose Eleuterio Gonzalez&quot;</name>
+      <address>
+        <city>Monterrey</city>
+        <state>NL</state>
+        <zip>64460</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Eduardo Pérez Alba</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Alberto Sabogal Sologuren</name>
+      <address>
+        <city>Bellavista</city>
+        <state>Lima</state>
+        <zip>Callao 2</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Luis Enrique Hercilla Vasquez</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Chancay</name>
+      <address>
+        <city>Chancay</city>
+        <state>Lima</state>
+        <zip>15131</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jose Zambrano</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Lisbeth Cahuas Villanueva</last_name>
+      <phone>(+51) 964 397 935</phone>
+      <email>lizitavillanueva@hotmail.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Militar Central</name>
+      <address>
+        <city>Lima</city>
+        <zip>15076</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Victoria Chavez Minano</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Mireya Virginia Tejada Caceda</last_name>
+      <phone>(511) 651-2958</phone>
+      <email>mireyatejada2003@yahoo.es</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Germans Trias i Pujol</name>
+      <address>
+        <city>Badalona</city>
+        <state>Barcelona</state>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Roger Paredes</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario HM Montepríncipe</name>
+      <address>
+        <city>Boadilla Del Monte</city>
+        <state>Madrid</state>
+        <zip>28668</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jose Barberan Lopez</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Getafe</name>
+      <address>
+        <city>Getafe</city>
+        <state>Madrid</state>
+        <zip>28905</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Roberto Vates Gómez</last_name>
+      <email>roberto.vates@salud.madrid.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Quirón Madrid</name>
+      <address>
+        <city>Pozuelo De Alarcón</city>
+        <state>Madrid</state>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Pablo Guisado Vasco</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Ana Roda</last_name>
+      <email>ana.roda@quironsalud.es</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Civil de Guadalajara</name>
+      <address>
+        <city>Guadalajara</city>
+        <zip>19002</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Miguel Torralba</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Arnau de Vilanova de Lleida</name>
+      <address>
+        <city>Lleida</city>
+        <zip>25198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alfredo Jover</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Ramón y Cajal</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jesús Fortun-Abete</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico San Carlos</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Vicente Estrada</last_name>
+      <email>vicente.estrada@salud.madrid.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen del Rocío</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jose Miguel Cisneros</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Inmaculada Rivas Jeremías</last_name>
+      <email>inmaculada.rivas.jeremias@juntadeandalucia.es</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Brazil</country>
+    <country>Bulgaria</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Peru</country>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 5, 2021</study_first_posted>
+  <last_update_submitted>March 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

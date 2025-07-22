@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1661">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04757857</url>
+  </required_header>
+  <id_info>
+    <org_study_id>36066320.5.1001.0070</org_study_id>
+    <nct_id>NCT04757857</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Antithrombotic Rivaroxaban Evaluation</brief_title>
+  <acronym>CARE</acronym>
+  <official_title>Randomized, Pragmatic, Open Controlled Multicentre Study, Evaluating the Use of Rivaroxaban in Mild or Moderate COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Alemão Oswaldo Cruz</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Israelita Albert Einstein</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital do Coracao</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Sirio-Libanes</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Moinhos de Vento</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Brazilian Research In Intensive Care Network</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Brazilian Clinical Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital Alemão Oswaldo Cruz</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      There are several ways in which the COVID-19 pandemic may affect the prevention and&#xD;
+      management of thrombotic and thromboembolic disease, either direct effect or the indirect&#xD;
+      effects of infection, such as through severe illness and hypoxia, may predispose patients to&#xD;
+      thrombotic events. The severe inflammatory response, critical illness, and underlying&#xD;
+      traditional risk factors may all predispose to thrombotic events. Therefore, considering the&#xD;
+      high-risk profile of cardiovascular comorbidities in patients with COVID-19, it is&#xD;
+      scientifically relevant to evaluate the use of anticoagulants as an adjunctive treatment in&#xD;
+      the context of COVID-19. Indeed, it will be tested the hypothesis that the use of moderate&#xD;
+      dose of rivaroxaban has a beneficial effect in the treatment of patients with a confirmed or&#xD;
+      probable diagnosis of COVID-19 infection, with no clear indication for hospitalization (mild&#xD;
+      and moderate cases) upon initial medical care, by reducing the need of hospitalization due to&#xD;
+      complications related to COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Initial studies suggest an inflammatory state and hypercoagulation in individuals with&#xD;
+      COVID-19. Apparently, the fact that the severe acute respiratory syndrome coronavirus 2&#xD;
+      (SARS-CoV-2) spike protein binds to Angiotensin Converting Enzyme 2 (ACE2) receptors can lead&#xD;
+      to ACE2 depletion by SARS-CoV-2 favoring the &quot;harmful&quot; ACE1 / angiotensin II and promoting&#xD;
+      tissue damage, including stroke. Recent observational studies indicate a higher rate of&#xD;
+      thromboembolism in patients with COVID-19, especially those in severe condition. They also&#xD;
+      report that, in patients treated with anticoagulants, complication rates were lower as&#xD;
+      compared with those not receiving anticoagulant therapies.&#xD;
+&#xD;
+      More recently, in a post-mortem study of patients with Covid-19 compared to recently&#xD;
+      published cases of influenza, the histopathological pattern on the periphery of the lungs of&#xD;
+      patients with Covid-19 revealed a diffuse alveolar lesion with infiltration of perivascular T&#xD;
+      cells and other vascular aspects, consisting of severe endothelial damage (endothelitis)&#xD;
+      associated with the presence of intracellular viruses and broken cell membranes. In addition,&#xD;
+      pulmonary vessels showed generalized thrombosis with microangiopathy, and alveolar capillary&#xD;
+      microthrombi were much more frequent in patients with COVID-19 than with severe influenza&#xD;
+      respiratory conditions.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 29, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Pragmatic, open-label, controlled randomized trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Venous thromboembolic events (VTE)</measure>
+    <time_frame>Within 30 days from randomization</time_frame>
+    <description>Defined as deep venous thrombosis, acute pulmonary embolism, other major venous thrombotic events.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mechanical ventilation free-survival</measure>
+    <time_frame>Within 30 days from randomization</time_frame>
+    <description>Defined as survival without requirement of mechanical ventilation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Major Adverse Cardiovascular Events (MACE)</measure>
+    <time_frame>Within 30 days from randomization</time_frame>
+    <description>Defined as acute myocardial infarction, stroke or acute limb ischemia</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Out-of-hospital death not attributed to major injury</measure>
+    <time_frame>Within 30 days from randomization</time_frame>
+    <description>Death that occurred out of hospital due to any cause not related to trauma or other major injury</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time from randomization to hospitalization</measure>
+    <time_frame>30 days from randomization</time_frame>
+    <description>Defined as time elapsed since randomization to hospital admission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of Hospitalization</measure>
+    <time_frame>30 days from randomization</time_frame>
+    <description>To assess the duration of hospitalization (length of hospital stay)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization in Intensive Care Unit</measure>
+    <time_frame>30 days from randomization</time_frame>
+    <description>Requirement of admission to ICU for intensive care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical requirement of mechanical ventilation</measure>
+    <time_frame>30 days from randomization</time_frame>
+    <description>Requirement of oxygen supplementation through invasive or non invasive mechanical ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical duration of mechanical ventilation</measure>
+    <time_frame>30 days from randomization</time_frame>
+    <description>Total time on oxygen supplementation through invasive or non invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Composite vascular endpoint I</measure>
+    <time_frame>30 days from randomization</time_frame>
+    <description>Non-fatal myocardial infarction, non-fatal ischemic stroke or cardiovascular death, VTE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Composite vascular endpoint II</measure>
+    <time_frame>30 days from randomization</time_frame>
+    <description>Cardiovascular death, non-fatal myocardial infarction, non-fatal ischemic stroke or acute limb ischemia, VTE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major Bleeding</measure>
+    <time_frame>30 days from randomization</time_frame>
+    <description>Defined by International Society of Thrombosis and Hemostasis (ISTH) criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>30 days from randomization</time_frame>
+    <description>Defined by all-cause deaths</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Rivaroxaban 10 mg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will receive, from the 1st to the 14th day, a dose of 10 mg of rivaroxaban - OA (Oral Administration).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Best locally standardized care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>According to the study protocol, participating investigators are advised to follow the best available local practice in each participating site. There is no formal recommendation for any particular COVID-19 treatment, except symptomatic therapies.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rivaroxaban 10 mg</intervention_name>
+    <description>Rivaroxaban pharmaceutical form will be tablets of 10 mg</description>
+    <arm_group_label>Rivaroxaban 10 mg</arm_group_label>
+    <other_name>Xarelto</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adults ≥ 18 years old;&#xD;
+&#xD;
+          2. Evaluated in the emergency unit with probable or confirmed infection by COVID-19;&#xD;
+&#xD;
+          3. Time between symptoms and inclusion ≤ 07 days *;&#xD;
+&#xD;
+          4. Present mild or moderate signs and symptoms, with no clear indication for&#xD;
+             hospitalization;&#xD;
+&#xD;
+          5. Present at least 2 risk factors for complication:&#xD;
+&#xD;
+               -  65 years&#xD;
+&#xD;
+               -  Hypertension&#xD;
+&#xD;
+               -  Diabetes mellitus&#xD;
+&#xD;
+               -  Asthma&#xD;
+&#xD;
+               -  Chronic Obstructive Pulmonary Disease (COPD) or other chronic lung diseases&#xD;
+&#xD;
+               -  Smoking&#xD;
+&#xD;
+               -  Immunosuppression&#xD;
+&#xD;
+               -  Obesity (BMI&gt; 30)&#xD;
+&#xD;
+               -  History of non-active cancer&#xD;
+&#xD;
+               -  Bed restriction or reduced mobility (≥50% of the wake time without walking)&#xD;
+&#xD;
+               -  Previous history of VTE&#xD;
+&#xD;
+               -  Use of oral hormonal contraceptives&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients &lt;18 years old;&#xD;
+&#xD;
+          2. Hospitalization indication upon first medical care;&#xD;
+&#xD;
+          3. Positive test for influenza in the first visit;&#xD;
+&#xD;
+          4. Any known liver disease associated with coagulopathy; INR (International Normalized&#xD;
+             Ratio) &gt; 1.5;&#xD;
+&#xD;
+          5. Pregnant, lactating or with the possibility of becoming pregnant and without using an&#xD;
+             adequate contraceptive method;&#xD;
+&#xD;
+          6. High risk of bleeding; History of bronchiectasis or pulmonary cavitation, Significant&#xD;
+             bleeding in the last 3 months, Active gastroduodenal ulcer, history of recent bleeding&#xD;
+             (within 3 months) or a high risk of bleeding;&#xD;
+&#xD;
+          7. Stroke within 1 month or any history of hemorrhagic or lacunar stroke or any&#xD;
+             intracranial bleeding or any intracranial neoplasia, brain metastasis, arteriovenous&#xD;
+             malformation or brain aneurysm;&#xD;
+&#xD;
+          8. Severe heart failure with left ventricular ejection fraction &lt;30% (echocardiogram or&#xD;
+             other validated method previously documented) or symptoms of heart failure class III&#xD;
+             or IV of the New York Heart Association (NYHA);&#xD;
+&#xD;
+          9. Estimated glomerular filtration rate (eGFR) &lt;30 mL / min;&#xD;
+&#xD;
+         10. Clinical indication for dual antiplatelet therapy or anticoagulation therapy (VTE,&#xD;
+             atrial fibrillation / flutter, mechanical valve prosthesis);&#xD;
+&#xD;
+         11. Marked thrombocytopenia (platelets &lt;50,000 / mm3);&#xD;
+&#xD;
+         12. Non-cardiovascular disease that is associated with a poor prognosis, for example,&#xD;
+             active cancer (excluding non-melanoma skin cancer) defined as cancer without remission&#xD;
+             or requiring active chemotherapy or adjuvant therapies such as immunotherapy or&#xD;
+             radiation therapy or that increases the risk of an adverse reaction to the evaluated&#xD;
+             interventions;&#xD;
+&#xD;
+         13. History of hypersensitivity or known contraindication to rivaroxaban;&#xD;
+&#xD;
+         14. Systemic treatment with strong inhibitors of Cytochrome P450 3A4 (CYP3A4) and&#xD;
+             glycoprotein p (Pgp) (for example, systemic azole antimycotics, such as ketoconazole&#xD;
+             and human immunodeficiency virus [HIV] protein inhibitors, such as ritonavir) or&#xD;
+             strong inducers of CYP 3A4, that is, rifampicin, rifabutin, phenobarbital, phenytoin&#xD;
+             and carbamazepine;&#xD;
+&#xD;
+         15. Current treatment being tested;&#xD;
+&#xD;
+         16. Concomitant participation in another study with experimental drugs in the context of&#xD;
+             COVID;&#xD;
+&#xD;
+         17. Use of chloroquine or hydroxychloroquine associated with azithromycin;&#xD;
+&#xD;
+         18. Active cancer;&#xD;
+&#xD;
+         19. Other contraindications to rivaroxaban;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Álvaro Avezum, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>International Research Center - Hospital Alemão Oswaldo Cruz</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dayane Vilanova</last_name>
+    <phone>+55(11)3549-0729</phone>
+    <email>dvilanova@haoc.com.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Haliton Alves de Oliveira Junior, Ph.D</last_name>
+    <phone>+55(11)3549-0581</phone>
+    <email>haoliveira@haoc.com.br</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Clínica Senhor do Bonfim</name>
+      <address>
+        <city>Feira de Santana</city>
+        <state>Bahia</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Raphael Pereira Paschoalin</last_name>
+    </contact>
+    <investigator>
+      <last_name>Raphael Pereira Paschoalin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Maternidade São Vicente de Paulo</name>
+      <address>
+        <city>Barbalha</city>
+        <state>Ceará</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Meton Soares de Alencar Filho</last_name>
+    </contact>
+    <investigator>
+      <last_name>Meton Soares de Alencar Filho</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Base do Distrito Federal</name>
+      <address>
+        <city>Brasília</city>
+        <state>Distrito Federal</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Belchior Santana Oliveira Junior</last_name>
+    </contact>
+    <investigator>
+      <last_name>Belchior Santana Oliveira Junior</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Campanha Covid-19 Goiânia/Sesgo</name>
+      <address>
+        <city>Goiânia</city>
+        <state>Goias</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sandro Rogério Rodrigues Batista</last_name>
+    </contact>
+    <investigator>
+      <last_name>Sandro Rogério Rodrigues Batista</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Estadual de Urgências de Trindade/SESGO</name>
+      <address>
+        <city>Trindade</city>
+        <state>Goias</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sandro Rogério Rodrigues Batista</last_name>
+    </contact>
+    <investigator>
+      <last_name>Sandro Rogério Rodrigues Batista</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Núcleo de Pesquisa Clínica do Hospital Vera Cruz</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>Minas Gerais</state>
+        <zip>30190-130</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Estevão Lanna Figueiredo</last_name>
+    </contact>
+    <investigator>
+      <last_name>Estevão Lanna Figueiredo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital São Lucas</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>Minas Gerais</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raquel Felisardo Rosa</last_name>
+    </contact>
+    <investigator>
+      <last_name>Raquel Felisardo Rosa</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa de Misericórdia de Passos</name>
+      <address>
+        <city>Passos</city>
+        <state>Minas Gerais</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Priscila Freitas das Neves Gonçalves</last_name>
+    </contact>
+    <investigator>
+      <last_name>Priscila Freitas das Neves Gonçalves</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitário Regional de Maringá</name>
+      <address>
+        <city>Maringá</city>
+        <state>Paraná</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sérgio Seiji Yamada</last_name>
+    </contact>
+    <investigator>
+      <last_name>Sérgio Seiji Yamada</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beneficencia Nipo Brasileira Da Amazonia</name>
+      <address>
+        <city>Belém</city>
+        <state>Para</state>
+        <zip>66060-575</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Eduardo Carvalho Belizario, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Eduardo Carvalho Belizario, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Adventista de Belém</name>
+      <address>
+        <city>Belém</city>
+        <state>Para</state>
+        <zip>66093-904</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Edgar de Brito Sobrinho</last_name>
+    </contact>
+    <investigator>
+      <last_name>Edgar de Brito Sobrinho</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Associação Dr. Bartholomeu Tacchini</name>
+      <address>
+        <city>Bento Gonçalves</city>
+        <state>Rio Grande Do Sul</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ricardo de Gasperi</last_name>
+    </contact>
+    <investigator>
+      <last_name>Ricardo de Gasperi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital São Vicente de Paulo</name>
+      <address>
+        <city>Passo Fundo</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>99010-080</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexandre Pereira Tognon</last_name>
+    </contact>
+    <investigator>
+      <last_name>Alexandre Pereira Tognon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital das Clínicas de Porto Alegre</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Renato Seligman</last_name>
+    </contact>
+    <investigator>
+      <last_name>Renato Seligman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Santa Maria</name>
+      <address>
+        <city>Santa Maria</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>97900015</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ariovaldo Leal Fagundes</last_name>
+    </contact>
+    <investigator>
+      <last_name>Ariovaldo Leal Fagundes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clínica Procárdio Ltda</name>
+      <address>
+        <city>Blumenau</city>
+        <state>Santa Catarina</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sérgio Luiz Zimmermann</last_name>
+    </contact>
+    <investigator>
+      <last_name>Sérgio Luiz Zimmermann</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>H&amp;W Cardiologia LTDA</name>
+      <address>
+        <city>Joinville</city>
+        <state>Santa Catarina</state>
+        <zip>89204-250</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Conrado Roberto Hoffmann Filho</last_name>
+    </contact>
+    <investigator>
+      <last_name>Conrado Roberto Hoffmann Filho</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Irmandade santa Casa de Araras</name>
+      <address>
+        <city>Araras</city>
+        <state>São Paulo</state>
+        <zip>13600-655</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Agnaldo Piscopo</last_name>
+    </contact>
+    <investigator>
+      <last_name>Agnaldo Piscopo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alphacor Cardiologia Clínica e Diagnóstica LTDA</name>
+      <address>
+        <city>Barueri</city>
+        <state>São Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Valeria Fontenelle Angelim Pereira</last_name>
+    </contact>
+    <investigator>
+      <last_name>Valeria Fontenelle Angelim Pereira</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Maestri e Kormann Consultoria Medico-Cientifica LTDA - EPP</name>
+      <address>
+        <city>Blumenau</city>
+        <state>São Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adrian Paulo Morales Kormann</last_name>
+    </contact>
+    <investigator>
+      <last_name>Adrian Paulo Morales Kormann</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional do Litoral Norte - Instituto Sócrates Guanaes</name>
+      <address>
+        <city>Caraguatatuba</city>
+        <state>São Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gemano Emilio</last_name>
+    </contact>
+    <investigator>
+      <last_name>Germano Emilio</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Santos Dumont Litoral Norte</name>
+      <address>
+        <city>Caraguatatuba</city>
+        <state>São Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>André da Silva e Souza</last_name>
+    </contact>
+    <investigator>
+      <last_name>André da Silva e Souza</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Corderiopolis</name>
+      <address>
+        <city>Cordeiropolis</city>
+        <state>São Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jose Joaquim Fernandes Raposo Filho</last_name>
+    </contact>
+    <investigator>
+      <last_name>Jose Joaquim Fernandes Raposo Filho</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional Jorge Rossman - Instituto Sócrates Guanaes</name>
+      <address>
+        <city>Itanhaém</city>
+        <state>São Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Germano Emilio</last_name>
+    </contact>
+    <investigator>
+      <last_name>Germano Emilio</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Carlos Fernando Malzoni</name>
+      <address>
+        <city>Matão</city>
+        <state>São Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>César Minelli</last_name>
+    </contact>
+    <investigator>
+      <last_name>César Minelli</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Moinhos de Vento</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>São Paulo</state>
+        <zip>90035-001</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Regis Goulart Rosa</last_name>
+    </contact>
+    <investigator>
+      <last_name>Regis Goulart Rosa</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional de Registro - Instituto Sócrates Guanaes</name>
+      <address>
+        <city>Registro</city>
+        <state>São Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Germano Emilio</last_name>
+    </contact>
+    <investigator>
+      <last_name>Germano Emilio</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Unimed Ribeirão Preto</name>
+      <address>
+        <city>Ribeirão Preto</city>
+        <state>São Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karen Mirna Loro Morejon</last_name>
+    </contact>
+    <investigator>
+      <last_name>Karen Mirna Loro Morejon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Clinica e Hospital Dia</name>
+      <address>
+        <city>São José do Rio Preto</city>
+        <state>São Paulo</state>
+        <zip>15015-110</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Roberto Luiz Kaiser Junior</last_name>
+    </contact>
+    <investigator>
+      <last_name>Roberto Luiz Kaiser Junior</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Braile Hospital Dia Ltda</name>
+      <address>
+        <city>São José Do Rio Preto</city>
+        <state>São Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Maria Christiane Valéria Braga Braile Sternieri</last_name>
+    </contact>
+    <investigator>
+      <last_name>Maria Christiane Valéria Braga Braile Sternieri</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Policlin</name>
+      <address>
+        <city>São José Dos Campos</city>
+        <state>São Paulo</state>
+        <zip>12 243 000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Carlos Costa Magalhães</last_name>
+    </contact>
+    <investigator>
+      <last_name>Carlos Costa Magalhães</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional de São José dos Campos - Instituto Sócrates Guanaes</name>
+      <address>
+        <city>São José Dos Campos</city>
+        <state>São Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Germano Emilio</last_name>
+    </contact>
+    <investigator>
+      <last_name>Germano Emilio</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa de Misericórdia de Votuporanga</name>
+      <address>
+        <city>Votuporanga</city>
+        <state>São Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mauro Esteves Hernandes</last_name>
+    </contact>
+    <investigator>
+      <last_name>Mauro Esteves Hernandes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>International Research Center - Hospital Alemão Oswaldo Cruz</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01323-903</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Álvaro Avezum, Ph.D</last_name>
+      <phone>+55(11)3541-0397</phone>
+      <email>aavezum@haoc.com.br</email>
+    </contact>
+    <contact_backup>
+      <last_name>Dayane Vilanova</last_name>
+      <phone>+55(11)3549-0729</phone>
+      <email>dvilanova@haoc.com.br</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Álvaro Avezum, Ph.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Gustavo Bernardes Oliveira, Ph.D</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Leforte Liberdade</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01506-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Paulo Rizzo Genestreti</last_name>
+    </contact>
+    <investigator>
+      <last_name>Paulo Rizzo Genestreti</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Incor - Instituto do Coração do Hospital das Clínicas da FMUSP</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>05403-010</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alexandre de Matos Soeiro</last_name>
+    </contact>
+    <investigator>
+      <last_name>Alexandre de Matos Soeiro</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 17, 2021</study_first_posted>
+  <last_update_submitted>February 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital Alemão Oswaldo Cruz</investigator_affiliation>
+    <investigator_full_name>Álvaro Avezum Junior</investigator_full_name>
+    <investigator_title>Research Manager - International Research Center</investigator_title>
+  </responsible_party>
+  <keyword>SARS-Cov-2</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Rivaroxaban</keyword>
+  <keyword>Antithrombotic</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rivaroxaban</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2301">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04793243</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CI-07620</org_study_id>
+    <nct_id>NCT04793243</nct_id>
+  </id_info>
+  <brief_title>Vitamin D3 Levels in COVID-19 Outpatients From Western Mexico</brief_title>
+  <official_title>Vitamin D3 Levels in COVID-19 Outpatients From Western Mexico: Clinical Correlation and Effect of Its Supplementation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Guadalajara</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Guadalajara</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The immunomodulatory effects of vitamin D are known to be beneficial in viral infections, it&#xD;
+      is also known that its deficiency is associated with a worse prognosis of COVID-19. This&#xD;
+      study aimed to determine the baseline vitamin D serum concentrations in asymptomatic or&#xD;
+      mildly symptomatic COVID-19 outpatients, as well as to evaluate the effects of&#xD;
+      supplementation with 10,00 IU/daily of vitamin D3 and its relationship with biochemical&#xD;
+      parameters and clinical features.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 17, 2020</start_date>
+  <completion_date type="Actual">October 24, 2020</completion_date>
+  <primary_completion_date type="Actual">October 10, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Baseline levels of serum vitamin D in COVID-19 patients</measure>
+    <time_frame>At baseline</time_frame>
+    <description>Evaluate serum levels of 25(OH)D (ng/mL) in patients with covid-19 from western Mexico</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation between D-dimer and vitamin D serum levels in COVID-19 patients</measure>
+    <time_frame>At baseline</time_frame>
+    <description>Serum levels of D-dimer (ng/mL) will be measured at baseline and correlated with levels of 25(OH)D (ng/mL) in patients with covid-19 from western Mexico</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation between transferrin and vitamin D serum levels in COVID-19 patients</measure>
+    <time_frame>At baseline</time_frame>
+    <description>Serum levels of transferrin (mg/dL) will be measured at baseline and correlated with levels of 25(OH)D (ng/mL) in patients with covid-19 from western Mexico</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation between ferritin and vitamin D serum levels in COVID-19 patients</measure>
+    <time_frame>At baseline</time_frame>
+    <description>Serum levels of ferritin (ng/mL) will be measured at baseline and correlated with levels of 25(OH)D (ng/mL) in patients with covid-19 from western Mexico</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Effects of vitamin D3 supplementation on COVID-19 patients</measure>
+    <time_frame>After 14 days of supplementation</time_frame>
+    <description>Serum levels of 25(OH)D (ng/mL) will be determined in the intervention group after 14 days of Vitamin D3 supplementation</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">42</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Formed by 22 patients that received oral supplementation of 10,000 IU daily for fourteen days of vitamin D3</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Formed by 20 patients that did not receive supplementation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Vitamin D3</intervention_name>
+    <description>Patients received oral supplementation of 10,000 IU daily for fourteen days of vitamin D3</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Intervention group: Patients with positive PCR for COVID-19 of both sexes supplemented&#xD;
+             with vitamin D&#xD;
+&#xD;
+          -  Control group: Patients with positive PCR for COVID-19 of both sexes&#xD;
+&#xD;
+          -  Both groups: Mexican individuals, after signing the informed consent letter and over&#xD;
+             18 years of age.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+        • Diseases that compromise the absorption of Vitamin D; Crohn's disease, cystic fibrosis,&#xD;
+        and celiac disease.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>José F Muñoz-Valle, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Guadalajara</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Universidad de Guadalajara</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44340</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 11, 2021</study_first_posted>
+  <last_update_submitted>March 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Guadalajara</investigator_affiliation>
+    <investigator_full_name>Jose Francisco Munoz Valle</investigator_full_name>
+    <investigator_title>Provost of the University Center of Health Sciences</investigator_title>
+  </responsible_party>
+  <keyword>vitamin D</keyword>
+  <keyword>Latin America</keyword>
+  <keyword>supplementation</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D</mesh_term>
+    <mesh_term>Cholecalciferol</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

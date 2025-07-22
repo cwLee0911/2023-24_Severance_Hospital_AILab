@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="57">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04750330</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVIDmtDNA1.0</org_study_id>
+    <nct_id>NCT04750330</nct_id>
+  </id_info>
+  <brief_title>Mitochondrial DNA and Nuclear SNPs to Predict Severity of COVID-19 Infection</brief_title>
+  <acronym>mtDNA-COVID</acronym>
+  <official_title>Mitochondrial DNA and Nuclear SNPs to Predict Severity of COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Maastricht University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Innovative Medicines Initiative</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Maastricht University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In December 2019, the first people got infected with COVID-19 in Wuhan, China. Within weeks,&#xD;
+      this highly infectious disease spread all over the world. Nearly one year later everyone is&#xD;
+      still trying to battle this disease and facing the consequences it causes. What became clear&#xD;
+      is that the disease and its severity differs largely between infected people. However,&#xD;
+      knowledge about who will experience severe COVID-19 and who does not is still unclear.&#xD;
+      Therefore, the aim of this study is to investigate the prognostic value of certain parameters&#xD;
+      (mtDNA and CT radiomics signature) for the severity of COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In December 2019, the first cases of coronavirus disease 2019 (COVID-19) were diagnosed in&#xD;
+      Wuhan, China. Within a couple of weeks, the highly contagious disease spread across the&#xD;
+      world, requiring rapid and drastic measures, unparalleled in recent decades. Currently, there&#xD;
+      have been approximately 97.8 million cases, including 2.1 million deaths, reported to the WHO&#xD;
+      (website accessed January 25th, 2021, https://covid19.who.int). Data from published&#xD;
+      epidemiology and virologic studies show that the virus is mainly passed on by respiratory&#xD;
+      droplets, by direct contact with infected people, or by contact with contaminated objects and&#xD;
+      surfaces. The severity of the disease greatly differs between people. It ranges from&#xD;
+      non-symptomatic contamination or minor symptoms, such as a cold or sore throat, to&#xD;
+      life-threatening pneumonia and death. Especially, the elderly population and people with&#xD;
+      underlying comorbidities are vulnerable and experience more severe symptoms. In addition,&#xD;
+      studies have shown that males have a higher mortality risk.&#xD;
+&#xD;
+      COVID-19 is currently diagnosed using reverse-transcription polymerase chain reaction&#xD;
+      (RT-PCR). In the beginning of the pandemic the use of chest computed tomography (CT) was more&#xD;
+      common, since CT can capture imaging features from the lung associated with COVID-19 early in&#xD;
+      the course of the disease. However, performing a CT-can takes remarkably longer than current&#xD;
+      RT-PCR tests. While the epidemic continues, the consequences are slowly becoming more&#xD;
+      apparent. As the true population infection rate is unknown, the proportion of patients&#xD;
+      requiring hospital admission is difficult to estimate. In a meta-analysis including 1481&#xD;
+      unique publications a pooled rate of ICU admission of 10.9% and the pooled rate of mortality&#xD;
+      was 4.3%. The negative effects of an ICU stay strongly depend on the length of the stay and&#xD;
+      include, but are not limited to, risk of lung emboly, severe muscle loss, dysphagia and&#xD;
+      psychological problems, often necessitating a long period of rehabilitation.&#xD;
+&#xD;
+      To minimize long-term health consequences early prognosis of the severity of the disease&#xD;
+      would be beneficial. The link between the severity of COVID-19 and mitochondrial DNA (mtDNA),&#xD;
+      Nuclear SNPs, imaging features and radiomics has not been studied yet. However, literature&#xD;
+      about mechanistic insights in the functioning of the immune system and its link to genetic&#xD;
+      variation, including mtDNA, are promising. In addition, studies focusing on imaging features&#xD;
+      and radiomics have yielded interesting findings.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID-19 Severity</measure>
+    <time_frame>When the patient is discharged from the hospital, up to 2 months</time_frame>
+    <description>Severity of COVID-19 classified as 'Severe', 'Non-severe' and 'Minor'</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival of the hospitalized population</measure>
+    <time_frame>When the patient is discharged from the hospital, up to 2 months</time_frame>
+    <description>Overall survival of the hospitalized population</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Mitochondrial DNA for prediction of COVID-19 severity</measure>
+    <time_frame>Baseline up to 2 years after having had COVID-19</time_frame>
+    <description>Mitochondrial DNA variants (extracted from the saliva-sample)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Nuclear SNPs for prediction of COVID-19 severity</measure>
+    <time_frame>Baseline up to 2 years after having had COVID-19</time_frame>
+    <description>Nuclear SNPs, candidate approach (extracted from the saliva-sample)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Radiomic features for COVID-19 severity prediction</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Radiomics from chest CT-scan of COVID-19 infected participants</description>
+  </other_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Severe COVID-19</arm_group_label>
+    <description>Patients, diagnosed with COVID-19, who were admitted to the Intensive Care Unit (ICU) during hospitalisation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-severe COVID-19</arm_group_label>
+    <description>Patients, diagnosed with COVID-19, who were admitted to the hospital but NOT to the Intensive Care Unit (ICU) during hospitalisation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Minor COVID-19</arm_group_label>
+    <description>Patients, diagnosed with COVID-19, who were NOT admitted to the hospital and could recover at home</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Saliva samples will be collected for analysis of&#xD;
+&#xD;
+        -  Mitochondrial DNA variants&#xD;
+&#xD;
+        -  Nuclear SNPs, candidate approach&#xD;
+&#xD;
+      In case blood samples are present already they can be used instead of saliva. However,&#xD;
+      patients will never be asked to have (extra) blood samples to be collected if those samples&#xD;
+      aren't present. If no samples are present they'll be asked to collect saliva.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population consists of patients, diagnosed with COVID-19 in the period ranging&#xD;
+        from December 2019 until July 2021. The case cohort consists of patients, who were admitted&#xD;
+        to the hospital ICU. The control group consists of patients, who were not admitted to the&#xD;
+        hospital or admitted to the hospital but not to the ICU.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Confirmed COVID-19 disease&#xD;
+&#xD;
+          -  Age at least 18 years&#xD;
+&#xD;
+          -  Willing and able to provide a saliva sample&#xD;
+&#xD;
+          -  Able to understand the patient study information&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Exclusion criteria for hospitalized patients&#xD;
+&#xD;
+          -  Severe illness other than COVID-19 at hospital admission Exclusion criteria for&#xD;
+             non-hospitalized patients&#xD;
+&#xD;
+          -  Severe COVID-19 illness leading to death or requiring active treatment without&#xD;
+             hospital admission&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Philippe Lambin, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Head of Department of Precision Medicine, Maastricht University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cary Oberije, Dr.</last_name>
+    <phone>+31433883549</phone>
+    <email>c.oberije@maastrichtuniversity.nl</email>
+  </overall_contact>
+  <link>
+    <url>https://www.european-radiology.org/opinions/chest-ct-and-rt-pcr-radiologists-experience-in-the-diagnosis-of-covid-19-in-china/</url>
+    <description>European Radiology</description>
+  </link>
+  <link>
+    <url>https://covid19.who.int</url>
+    <description>WHO Coronavirus Disease (COVID-19) Dashboard</description>
+  </link>
+  <reference>
+    <citation>Siordia JA Jr. Epidemiology and clinical features of COVID-19: A review of current literature. J Clin Virol. 2020 Jun;127:104357. doi: 10.1016/j.jcv.2020.104357. Epub 2020 Apr 10. Review.</citation>
+    <PMID>32305884</PMID>
+  </reference>
+  <reference>
+    <citation>Bhopal SS, Bhopal R. Sex differential in COVID-19 mortality varies markedly by age. Lancet. 2020 Aug 22;396(10250):532-533. doi: 10.1016/S0140-6736(20)31748-7. Epub 2020 Aug 13.</citation>
+    <PMID>32798449</PMID>
+  </reference>
+  <reference>
+    <citation>Sheehy LM. Considerations for Postacute Rehabilitation for Survivors of COVID-19. JMIR Public Health Surveill. 2020 May 8;6(2):e19462. doi: 10.2196/19462.</citation>
+    <PMID>32369030</PMID>
+  </reference>
+  <reference>
+    <citation>Hosey MM, Needham DM. Survivorship after COVID-19 ICU stay. Nat Rev Dis Primers. 2020 Jul 15;6(1):60. doi: 10.1038/s41572-020-0201-1.</citation>
+    <PMID>32669623</PMID>
+  </reference>
+  <reference>
+    <citation>Li X, Zhou TC, Wu CH, Tao LL, Bi R, Chen LJ, Deng DY, Liu C, Otecko NO, Tang Y, Lai X, Zhang L, Wei J. Correlations between mitochondrial DNA haplogroup D5 and chronic hepatitis B virus infection in Yunnan, China. Sci Rep. 2018 Jan 17;8(1):869. doi: 10.1038/s41598-018-19184-6.</citation>
+    <PMID>29343698</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang AM, Hu QX, Liu FL, Bi R, Yang BQ, Zhang W, Guo H, Logan I, Zheng YT, Yao YG. Mitochondrial DNA Haplogroup A Decreases the Risk of Drug Addiction but Conversely Increases the Risk of HIV-1 Infection in Chinese Addicts. Mol Neurobiol. 2016 Aug;53(6):3873-3881. doi: 10.1007/s12035-015-9323-y. Epub 2015 Jul 11.</citation>
+    <PMID>26162319</PMID>
+  </reference>
+  <reference>
+    <citation>Lai JH, Luo SF, Ho LJ. Operation of mitochondrial machinery in viral infection-induced immune responses. Biochem Pharmacol. 2018 Oct;156:348-356. doi: 10.1016/j.bcp.2018.08.044. Epub 2018 Aug 31. Review.</citation>
+    <PMID>30172712</PMID>
+  </reference>
+  <reference>
+    <citation>Wu IC, Lin CC, Liu CS, Hsu CC, Chen CY, Hsiung CA. Interrelations Between Mitochondrial DNA Copy Number and Inflammation in Older Adults. J Gerontol A Biol Sci Med Sci. 2017 Jul 1;72(7):937-944. doi: 10.1093/gerona/glx033.</citation>
+    <PMID>28329339</PMID>
+  </reference>
+  <reference>
+    <citation>Malik AN, Parsade CK, Ajaz S, Crosby-Nwaobi R, Gnudi L, Czajka A, Sivaprasad S. Altered circulating mitochondrial DNA and increased inflammation in patients with diabetic retinopathy. Diabetes Res Clin Pract. 2015 Dec;110(3):257-65. doi: 10.1016/j.diabres.2015.10.006. Epub 2015 Oct 22.</citation>
+    <PMID>26625720</PMID>
+  </reference>
+  <reference>
+    <citation>Clohisey S, Baillie JK. Host susceptibility to severe influenza A virus infection. Crit Care. 2019 Sep 5;23(1):303. doi: 10.1186/s13054-019-2566-7. Review.</citation>
+    <PMID>31488196</PMID>
+  </reference>
+  <reference>
+    <citation>Li B, Clohisey SM, Chia BS, Wang B, Cui A, Eisenhaure T, Schweitzer LD, Hoover P, Parkinson NJ, Nachshon A, Smith N, Regan T, Farr D, Gutmann MU, Bukhari SI, Law A, Sangesland M, Gat-Viks I, Digard P, Vasudevan S, Lingwood D, Dockrell DH, Doench JG, Baillie JK, Hacohen N. Genome-wide CRISPR screen identifies host dependency factors for influenza A virus infection. Nat Commun. 2020 Jan 9;11(1):164. doi: 10.1038/s41467-019-13965-x.</citation>
+    <PMID>31919360</PMID>
+  </reference>
+  <reference>
+    <citation>Chocron ES, Munkácsy E, Pickering AM. Cause or casualty: The role of mitochondrial DNA in aging and age-associated disease. Biochim Biophys Acta Mol Basis Dis. 2019 Feb 1;1865(2):285-297. doi: 10.1016/j.bbadis.2018.09.035. Epub 2018 Nov 9. Review.</citation>
+    <PMID>30419337</PMID>
+  </reference>
+  <reference>
+    <citation>Carter-Timofte ME, Jørgensen SE, Freytag MR, Thomsen MM, Brinck Andersen NS, Al-Mousawi A, Hait AS, Mogensen TH. Deciphering the Role of Host Genetics in Susceptibility to Severe COVID-19. Front Immunol. 2020 Jun 30;11:1606. doi: 10.3389/fimmu.2020.01606. eCollection 2020. Review.</citation>
+    <PMID>32695122</PMID>
+  </reference>
+  <reference>
+    <citation>Ovsyannikova IG, Haralambieva IH, Crooke SN, Poland GA, Kennedy RB. The role of host genetics in the immune response to SARS-CoV-2 and COVID-19 susceptibility and severity. Immunol Rev. 2020 Jul;296(1):205-219. doi: 10.1111/imr.12897. Epub 2020 Jul 13. Review.</citation>
+    <PMID>32658335</PMID>
+  </reference>
+  <reference>
+    <citation>Benetti E, Tita R, Spiga O, Ciolfi A, Birolo G, Bruselles A, Doddato G, Giliberti A, Marconi C, Musacchia F, Pippucci T, Torella A, Trezza A, Valentino F, Baldassarri M, Brusco A, Asselta R, Bruttini M, Furini S, Seri M, Nigro V, Matullo G, Tartaglia M, Mari F; GEN-COVID Multicenter Study, Renieri A, Pinto AM. ACE2 gene variants may underlie interindividual variability and susceptibility to COVID-19 in the Italian population. Eur J Hum Genet. 2020 Nov;28(11):1602-1614. doi: 10.1038/s41431-020-0691-z. Epub 2020 Jul 17.</citation>
+    <PMID>32681121</PMID>
+  </reference>
+  <reference>
+    <citation>Hou Y, Zhao J, Martin W, Kallianpur A, Chung MK, Jehi L, Sharifi N, Erzurum S, Eng C, Cheng F. New insights into genetic susceptibility of COVID-19: an ACE2 and TMPRSS2 polymorphism analysis. BMC Med. 2020 Jul 15;18(1):216. doi: 10.1186/s12916-020-01673-z.</citation>
+    <PMID>32664879</PMID>
+  </reference>
+  <reference>
+    <citation>Severe Covid-19 GWAS Group, Ellinghaus D, Degenhardt F, Bujanda L, Buti M, Albillos A, Invernizzi P, Fernández J, Prati D, Baselli G, Asselta R, Grimsrud MM, Milani C, Aziz F, Kässens J, May S, Wendorff M, Wienbrandt L, Uellendahl-Werth F, Zheng T, Yi X, de Pablo R, Chercoles AG, Palom A, Garcia-Fernandez AE, Rodriguez-Frias F, Zanella A, Bandera A, Protti A, Aghemo A, Lleo A, Biondi A, Caballero-Garralda A, Gori A, Tanck A, Carreras Nolla A, Latiano A, Fracanzani AL, Peschuck A, Julià A, Pesenti A, Voza A, Jiménez D, Mateos B, Nafria Jimenez B, Quereda C, Paccapelo C, Gassner C, Angelini C, Cea C, Solier A, Pestaña D, Muñiz-Diaz E, Sandoval E, Paraboschi EM, Navas E, García Sánchez F, Ceriotti F, Martinelli-Boneschi F, Peyvandi F, Blasi F, Téllez L, Blanco-Grau A, Hemmrich-Stanisak G, Grasselli G, Costantino G, Cardamone G, Foti G, Aneli S, Kurihara H, ElAbd H, My I, Galván-Femenia I, Martín J, Erdmann J, Ferrusquía-Acosta J, Garcia-Etxebarria K, Izquierdo-Sanchez L, Bettini LR, Sumoy L, Terranova L, Moreira L, Santoro L, Scudeller L, Mesonero F, Roade L, Rühlemann MC, Schaefer M, Carrabba M, Riveiro-Barciela M, Figuera Basso ME, Valsecchi MG, Hernandez-Tejero M, Acosta-Herrera M, D'Angiò M, Baldini M, Cazzaniga M, Schulzky M, Cecconi M, Wittig M, Ciccarelli M, Rodríguez-Gandía M, Bocciolone M, Miozzo M, Montano N, Braun N, Sacchi N, Martínez N, Özer O, Palmieri O, Faverio P, Preatoni P, Bonfanti P, Omodei P, Tentorio P, Castro P, Rodrigues PM, Blandino Ortiz A, de Cid R, Ferrer R, Gualtierotti R, Nieto R, Goerg S, Badalamenti S, Marsal S, Matullo G, Pelusi S, Juzenas S, Aliberti S, Monzani V, Moreno V, Wesse T, Lenz TL, Pumarola T, Rimoldi V, Bosari S, Albrecht W, Peter W, Romero-Gómez M, D'Amato M, Duga S, Banales JM, Hov JR, Folseraas T, Valenti L, Franke A, Karlsen TH. Genomewide Association Study of Severe Covid-19 with Respiratory Failure. N Engl J Med. 2020 Oct 15;383(16):1522-1534. doi: 10.1056/NEJMoa2020283. Epub 2020 Jun 17.</citation>
+    <PMID>32558485</PMID>
+  </reference>
+  <reference>
+    <citation>Kuo CL, Pilling LC, Atkins JL, Masoli JAH, Delgado J, Kuchel GA, Melzer D. ApoE e4e4 Genotype and Mortality With COVID-19 in UK Biobank. J Gerontol A Biol Sci Med Sci. 2020 Sep 16;75(9):1801-1803. doi: 10.1093/gerona/glaa169.</citation>
+    <PMID>32623451</PMID>
+  </reference>
+  <reference>
+    <citation>van der Made CI, Simons A, Schuurs-Hoeijmakers J, van den Heuvel G, Mantere T, Kersten S, van Deuren RC, Steehouwer M, van Reijmersdal SV, Jaeger M, Hofste T, Astuti G, Corominas Galbany J, van der Schoot V, van der Hoeven H, Hagmolen Of Ten Have W, Klijn E, van den Meer C, Fiddelaers J, de Mast Q, Bleeker-Rovers CP, Joosten LAB, Yntema HG, Gilissen C, Nelen M, van der Meer JWM, Brunner HG, Netea MG, van de Veerdonk FL, Hoischen A. Presence of Genetic Variants Among Young Men With Severe COVID-19. JAMA. 2020 Jul 24. doi: 10.1001/jama.2020.13719. [Epub ahead of print]</citation>
+    <PMID>32706371</PMID>
+  </reference>
+  <reference>
+    <citation>Guiot J, Vaidyanathan A, Deprez L, Zerka F, Danthine D, Frix AN, Thys M, Henket M, Canivet G, Mathieu S, Eftaxia E, Lambin P, Tsoutzidis N, Miraglio B, Walsh S, Moutschen M, Louis R, Meunier P, Vos W, Leijenaar RTH, Lovinfosse P. Development and Validation of an Automated Radiomic CT Signature for Detecting COVID-19. Diagnostics (Basel). 2020 Dec 30;11(1). pii: E41. doi: 10.3390/diagnostics11010041.</citation>
+    <PMID>33396587</PMID>
+  </reference>
+  <reference>
+    <citation>Jaiswal A, Gianchandani N, Singh D, Kumar V, Kaur M. Classification of the COVID-19 infected patients using DenseNet201 based deep transfer learning. J Biomol Struct Dyn. 2020 Jul 3:1-8. doi: 10.1080/07391102.2020.1788642. [Epub ahead of print]</citation>
+    <PMID>32619398</PMID>
+  </reference>
+  <reference>
+    <citation>Mei X, Lee HC, Diao KY, Huang M, Lin B, Liu C, Xie Z, Ma Y, Robson PM, Chung M, Bernheim A, Mani V, Calcagno C, Li K, Li S, Shan H, Lv J, Zhao T, Xia J, Long Q, Steinberger S, Jacobi A, Deyer T, Luksza M, Liu F, Little BP, Fayad ZA, Yang Y. Artificial intelligence-enabled rapid diagnosis of patients with COVID-19. Nat Med. 2020 Aug;26(8):1224-1228. doi: 10.1038/s41591-020-0931-3. Epub 2020 May 19.</citation>
+    <PMID>32427924</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang K, Liu X, Shen J, Li Z, Sang Y, Wu X, Zha Y, Liang W, Wang C, Wang K, Ye L, Gao M, Zhou Z, Li L, Wang J, Yang Z, Cai H, Xu J, Yang L, Cai W, Xu W, Wu S, Zhang W, Jiang S, Zheng L, Zhang X, Wang L, Lu L, Li J, Yin H, Wang W, Li O, Zhang C, Liang L, Wu T, Deng R, Wei K, Zhou Y, Chen T, Lau JY, Fok M, He J, Lin T, Li W, Wang G. Clinically Applicable AI System for Accurate Diagnosis, Quantitative Measurements, and Prognosis of COVID-19 Pneumonia Using Computed Tomography. Cell. 2020 Jun 11;181(6):1423-1433.e11. doi: 10.1016/j.cell.2020.04.045. Epub 2020 May 4. Erratum in: Cell. 2020 Sep 3;182(5):1360.</citation>
+    <PMID>32416069</PMID>
+  </reference>
+  <reference>
+    <citation>Wang S, Zha Y, Li W, Wu Q, Li X, Niu M, Wang M, Qiu X, Li H, Yu H, Gong W, Bai Y, Li L, Zhu Y, Wang L, Tian J. A fully automatic deep learning system for COVID-19 diagnostic and prognostic analysis. Eur Respir J. 2020 Aug 6;56(2). pii: 2000775. doi: 10.1183/13993003.00775-2020. Print 2020 Aug.</citation>
+    <PMID>32444412</PMID>
+  </reference>
+  <reference>
+    <citation>Ardakani AA, Kanafi AR, Acharya UR, Khadem N, Mohammadi A. Application of deep learning technique to manage COVID-19 in routine clinical practice using CT images: Results of 10 convolutional neural networks. Comput Biol Med. 2020 Jun;121:103795. doi: 10.1016/j.compbiomed.2020.103795. Epub 2020 Apr 30.</citation>
+    <PMID>32568676</PMID>
+  </reference>
+  <reference>
+    <citation>Leonardi A, Scipione R, Alfieri G, Petrillo R, Dolciami M, Ciccarelli F, Perotti S, Cartocci G, Scala A, Imperiale C, Iafrate F, Francone M, Catalano C, Ricci P. Role of computed tomography in predicting critical disease in patients with covid-19 pneumonia: A retrospective study using a semiautomatic quantitative method. Eur J Radiol. 2020 Sep;130:109202. doi: 10.1016/j.ejrad.2020.109202. Epub 2020 Jul 29.</citation>
+    <PMID>32745895</PMID>
+  </reference>
+  <reference>
+    <citation>Tang Z, Zhao W, Xie X, Zhong Z, Shi F, Ma T, Liu J, Shen D. Severity assessment of COVID-19 using CT image features and laboratory indices. Phys Med Biol. 2021 Jan 26;66(3):035015. doi: 10.1088/1361-6560/abbf9e.</citation>
+    <PMID>33032267</PMID>
+  </reference>
+  <reference>
+    <citation>Yu Z, Li X, Sun H, Wang J, Zhao T, Chen H, Ma Y, Zhu S, Xie Z. Rapid identification of COVID-19 severity in CT scans through classification of deep features. Biomed Eng Online. 2020 Aug 12;19(1):63. doi: 10.1186/s12938-020-00807-x.</citation>
+    <PMID>32787937</PMID>
+  </reference>
+  <reference>
+    <citation>Liu F, Zhang Q, Huang C, Shi C, Wang L, Shi N, Fang C, Shan F, Mei X, Shi J, Song F, Yang Z, Ding Z, Su X, Lu H, Zhu T, Zhang Z, Shi L, Shi Y. CT quantification of pneumonia lesions in early days predicts progression to severe illness in a cohort of COVID-19 patients. Theranostics. 2020 Apr 27;10(12):5613-5622. doi: 10.7150/thno.45985. eCollection 2020.</citation>
+    <PMID>32373235</PMID>
+  </reference>
+  <reference>
+    <citation>Wu Q, Wang S, Li L, Wu Q, Qian W, Hu Y, Li L, Zhou X, Ma H, Li H, Wang M, Qiu X, Zha Y, Tian J. Radiomics Analysis of Computed Tomography helps predict poor prognostic outcome in COVID-19. Theranostics. 2020 Jun 5;10(16):7231-7244. doi: 10.7150/thno.46428. eCollection 2020.</citation>
+    <PMID>32641989</PMID>
+  </reference>
+  <reference>
+    <citation>West AP, Shadel GS, Ghosh S. Mitochondria in innate immune responses. Nat Rev Immunol. 2011 Jun;11(6):389-402. doi: 10.1038/nri2975. Epub 2011 May 20. Review.</citation>
+    <PMID>21597473</PMID>
+  </reference>
+  <reference>
+    <citation>Breda CNS, Davanzo GG, Basso PJ, Saraiva Câmara NO, Moraes-Vieira PMM. Mitochondria as central hub of the immune system. Redox Biol. 2019 Sep;26:101255. doi: 10.1016/j.redox.2019.101255. Epub 2019 Jun 15. Review.</citation>
+    <PMID>31247505</PMID>
+  </reference>
+  <reference>
+    <citation>Li H, Durbin R. Fast and accurate short read alignment with Burrows-Wheeler transform. Bioinformatics. 2009 Jul 15;25(14):1754-60. doi: 10.1093/bioinformatics/btp324. Epub 2009 May 18.</citation>
+    <PMID>19451168</PMID>
+  </reference>
+  <reference>
+    <citation>Li H, Handsaker B, Wysoker A, Fennell T, Ruan J, Homer N, Marth G, Abecasis G, Durbin R; 1000 Genome Project Data Processing Subgroup. The Sequence Alignment/Map format and SAMtools. Bioinformatics. 2009 Aug 15;25(16):2078-9. doi: 10.1093/bioinformatics/btp352. Epub 2009 Jun 8.</citation>
+    <PMID>19505943</PMID>
+  </reference>
+  <reference>
+    <citation>Pejaver V, Mooney SD, Radivojac P. Missense variant pathogenicity predictors generalize well across a range of function-specific prediction challenges. Hum Mutat. 2017 Sep;38(9):1092-1108. doi: 10.1002/humu.23258. Epub 2017 Jun 12.</citation>
+    <PMID>28508593</PMID>
+  </reference>
+  <reference>
+    <citation>Adzhubei I, Jordan DM, Sunyaev SR. Predicting functional effect of human missense mutations using PolyPhen-2. Curr Protoc Hum Genet. 2013 Jan;Chapter 7:Unit7.20. doi: 10.1002/0471142905.hg0720s76.</citation>
+    <PMID>23315928</PMID>
+  </reference>
+  <reference>
+    <citation>Calabrese R, Capriotti E, Fariselli P, Martelli PL, Casadio R. Functional annotations improve the predictive score of human disease-related mutations in proteins. Hum Mutat. 2009 Aug;30(8):1237-44. doi: 10.1002/humu.21047.</citation>
+    <PMID>19514061</PMID>
+  </reference>
+  <reference>
+    <citation>Capriotti E, Altman RB, Bromberg Y. Collective judgment predicts disease-associated single nucleotide variants. BMC Genomics. 2013;14 Suppl 3:S2. doi: 10.1186/1471-2164-14-S3-S2. Epub 2013 May 28.</citation>
+    <PMID>23819846</PMID>
+  </reference>
+  <reference>
+    <citation>Thomas PD, Kejariwal A. Coding single-nucleotide polymorphisms associated with complex vs. Mendelian disease: evolutionary evidence for differences in molecular effects. Proc Natl Acad Sci U S A. 2004 Oct 26;101(43):15398-403. Epub 2004 Oct 18.</citation>
+    <PMID>15492219</PMID>
+  </reference>
+  <reference>
+    <citation>Santorsola M, Calabrese C, Girolimetti G, Diroma MA, Gasparre G, Attimonelli M. A multi-parametric workflow for the prioritization of mitochondrial DNA variants of clinical interest. Hum Genet. 2016 Jan;135(1):121-36. doi: 10.1007/s00439-015-1615-9. Epub 2015 Nov 30.</citation>
+    <PMID>26621530</PMID>
+  </reference>
+  <reference>
+    <citation>Sonney S, Leipzig J, Lott MT, Zhang S, Procaccio V, Wallace DC, Sondheimer N. Predicting the pathogenicity of novel variants in mitochondrial tRNA with MitoTIP. PLoS Comput Biol. 2017 Dec 11;13(12):e1005867. doi: 10.1371/journal.pcbi.1005867. eCollection 2017 Dec.</citation>
+    <PMID>29227991</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 11, 2021</study_first_posted>
+  <last_update_submitted>February 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Severity</keyword>
+  <keyword>mtDNA</keyword>
+  <keyword>SARS-CoV-2 Infection</keyword>
+  <keyword>Radiomics</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

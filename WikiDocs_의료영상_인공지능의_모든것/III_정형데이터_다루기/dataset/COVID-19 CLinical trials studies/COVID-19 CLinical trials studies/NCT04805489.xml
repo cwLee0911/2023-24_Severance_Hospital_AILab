@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5328">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04805489</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PAM</org_study_id>
+    <nct_id>NCT04805489</nct_id>
+  </id_info>
+  <brief_title>Comparison of Hemodynamic and Respiratory Parameters During Physical Activity</brief_title>
+  <acronym>PAM</acronym>
+  <official_title>Comparison of Hemodynamic and Respiratory Parameters During Physical Activity Without Mask, With Surgical Mask and General Public</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Groupe Hospitalier Paris Saint Joseph</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Groupe Hospitalier Paris Saint Joseph</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The COVID-19 pandemic has completely changed societal activity, including physical activity.&#xD;
+&#xD;
+      Recommendations for wearing masks vary from country to country, region to region, and may be&#xD;
+      mandatory or optional in indoor or outdoor environments.&#xD;
+&#xD;
+      During physical activities, the latest ministerial recommendations are that wearing a mask is&#xD;
+      not mandatory even in case of close distance of less than one meter and in case of physical&#xD;
+      contact (ministerial recommendations of September 19, 2020), even in regions where wearing a&#xD;
+      mask is mandatory outdoors. This is based on elements not explained by the Ministry of Sports&#xD;
+      and partly on elements showing a limitation of respiratory capacities during exercise tests&#xD;
+      with gas exchange measurements. Indeed, subjects with FFP2 masks have their maximal capacity&#xD;
+      to effort and VO2max decreased as well as the respiratory capacities whether at rest or&#xD;
+      during effort in comparison with subjects without mask and to a lesser degree with surgical&#xD;
+      masks.&#xD;
+&#xD;
+      However, the FFP2 mask is not recommended by the medical or sports authorities, and surgical&#xD;
+      or general public masks are recommended. Moreover, during leisure time physical activities,&#xD;
+      it is not frequent that the subjects need to be at their maximum physical capacity. This&#xD;
+      moderate loss of physical capacity at the peak of the effort is for most amateur athletes not&#xD;
+      relevant in their practice.&#xD;
+&#xD;
+      In addition, airborne transmission of COVID-19 has been shown in several studies: in a choir,&#xD;
+      on a commercial airplane, on a bus, and close contact is a secondary source of contamination.&#xD;
+&#xD;
+      There is concern that physical activity in non-open environments is becoming a source of&#xD;
+      COVID-19 contamination. In studies in non-open environments (bus, church, airplane), the&#xD;
+      degree of contamination in a so-called confined atmosphere varies between 35 and 85%. In&#xD;
+      Miller's study, in a church choir with a distance of 0.75 m between choristers and 1.4 m&#xD;
+      between each row, after 2.5 hours of rehearsal including breaks and buffet, without wearing a&#xD;
+      mask and with social distancing, hand washing with a hydro-alcoholic solution and reduction&#xD;
+      of contacts, the contamination with a single patient was 85% on a total of 61 choristers. One&#xD;
+      can imagine what the degree of contamination would be during a physical activity in a&#xD;
+      gymnasium without wearing a mask, even with hand and foot washing and floor decontamination.&#xD;
+&#xD;
+      Currently, all sports activities are stopped but they will start again sooner or later.&#xD;
+&#xD;
+      Before the recontainment, according to the directives of the Ministry of Sports, the wearing&#xD;
+      of masks was not compulsory and it was not recommended in outdoor activities (golf...) and in&#xD;
+      gymnasiums including activities with contact (judo, dance...). Many people are reluctant to&#xD;
+      wear a mask during sports activities: discomfort, fear of loss of performance, hypoxia...&#xD;
+&#xD;
+      However, it seems essential to us to determine, during a physical activity, what are the&#xD;
+      cardiac and respiratory consequences of wearing a surgical or general public mask, before&#xD;
+      resuming sports activities in a few weeks or months.&#xD;
+&#xD;
+      It seems important to us to determine the degree of deterioration of the cardiac and&#xD;
+      pulmonary physical capacities during physical leisure activities which concern more than 99%&#xD;
+      of the leisure activities as opposed to the sports activities practised by professionals,&#xD;
+      this to enlighten the practitioners and the ministerial authorities on the possible&#xD;
+      non-deterioration of the physical capacities with the effort and the absence of deleterious&#xD;
+      effect of the wearing of a mask.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 26, 2021</start_date>
+  <completion_date type="Anticipated">November 25, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 25, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>peak VO2</measure>
+    <time_frame>Month 1</time_frame>
+    <description>The peak VO 2 will be measured during cardiac stress test for each mask at 1 month, to compare the 3 masks.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Comparaison of Modification of cardiac parameters between 3 masks</measure>
+    <time_frame>Month 1</time_frame>
+    <description>This outome corresponds to the evaluation of modification of cardiac parameters: heart rate, blood pressure between the 3 masks.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparaison of Changes in lung parameters between 3 masks</measure>
+    <time_frame>Month 1</time_frame>
+    <description>This ouctome corresponds to the evaluation of modification of lung parameters: respiratory rate, exhaled volumes, power reached at maximum effort between the 3 masks.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Degree of discomfort felt</measure>
+    <time_frame>Month 1</time_frame>
+    <description>This ouctome correspond to lickert's scale. Questionnaire: Are you satisfied with the mask you have just worn? Responses: Totally agree/Agree/Somewhat agree/Somewhat disagree/Disagree</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Cardiovascular Check-up</condition>
+  <arm_group>
+    <arm_group_label>stress test with masks</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Within the framework of this research, an additional stress test is performed. This stress test, consisting of 3 periods, will follow a cardiovascular assessment requested as part of a health check-up, a license application, for risk factor assessment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Mask</intervention_name>
+    <description>The sequence of mask wearing will be done by drawing lots, in double blind. Only the nurse will be informed of the mask sequence. The doctor will take measurements without seeing the type of mask placed between the athlete's face and the VO2 mask.&#xD;
+The patient will not know which mask will be applied. He will have been informed that he will test three masks (a so-called high-tech mask which will in fact be without a mask, a surgical mask and a general public mask). When the mask is put on, the athlete's eyes will be closed, the sequence without a mask, presented to the subject as a high-tech mask, will be done with a mask that will be put on like a surgical mask or a mask for the general public, except that it will be hollowed out in its center.&#xD;
+The effort tests will be done on a carpet with a filter called COVID on the VO2 masks.</description>
+    <arm_group_label>stress test with masks</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Athletic person coming to the GHPSJ for a cardiovascular check-up&#xD;
+&#xD;
+          -  Person whose age is ≥ 18 years old&#xD;
+&#xD;
+          -  Person practicing a sport for more than 1 year&#xD;
+&#xD;
+          -  Regularly practicing sports (&gt; 2 hours weekly)&#xD;
+&#xD;
+          -  Person affiliated with a health insurance plan&#xD;
+&#xD;
+          -  French-speaking person&#xD;
+&#xD;
+          -  Person who has given free, informed and written consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant or breastfeeding women&#xD;
+&#xD;
+          -  Persons under guardianship or trusteeship&#xD;
+&#xD;
+          -  Person deprived of liberty&#xD;
+&#xD;
+          -  Person symptomatic of a disease&#xD;
+&#xD;
+          -  Person with a history of heart or lung disease&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Philippe Duc, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Groupe Hospitalier Paris Saint Joseph</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Philippe Duc, MD</last_name>
+    <phone>144127883</phone>
+    <phone_ext>+33</phone_ext>
+    <email>pduc@ghpsj.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Helene BEAUSSIER, PharmD, pHD</last_name>
+    <email>crc@ghpsj.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Paris Saint-Joseph</name>
+      <address>
+        <city>Paris</city>
+        <state>Groupe Hospitalier Paris Saint-Joseph</state>
+        <zip>75014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Philippe Duc, MD</last_name>
+      <phone>144127883</phone>
+      <phone_ext>+33</phone_ext>
+      <email>pduc@ghpsj.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <results_reference>
+    <citation>Fikenzer S, Uhe T, Lavall D, Rudolph U, Falz R, Busse M, Hepp P, Laufs U. Effects of surgical and FFP2/N95 face masks on cardiopulmonary exercise capacity. Clin Res Cardiol. 2020 Dec;109(12):1522-1530. doi: 10.1007/s00392-020-01704-y. Epub 2020 Jul 6.</citation>
+    <PMID>32632523</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Miller SL, Nazaroff WW, Jimenez JL, Boerstra A, Buonanno G, Dancer SJ, Kurnitski J, Marr LC, Morawska L, Noakes C. Transmission of SARS-CoV-2 by inhalation of respiratory aerosol in the Skagit Valley Chorale superspreading event. Indoor Air. 2021 Mar;31(2):314-323. doi: 10.1111/ina.12751. Epub 2020 Oct 13.</citation>
+    <PMID>32979298</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Moser MR, Bender TR, Margolis HS, Noble GR, Kendal AP, Ritter DG. An outbreak of influenza aboard a commercial airliner. Am J Epidemiol. 1979 Jul;110(1):1-6.</citation>
+    <PMID>463858</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Shen Y, Li C, Dong H, Wang Z, Martinez L, Sun Z, Handel A, Chen Z, Chen E, Ebell MH, Wang F, Yi B, Wang H, Wang X, Wang A, Chen B, Qi Y, Liang L, Li Y, Ling F, Chen J, Xu G. Community Outbreak Investigation of SARS-CoV-2 Transmission Among Bus Riders in Eastern China. JAMA Intern Med. 2020 Dec 1;180(12):1665-1671. doi: 10.1001/jamainternmed.2020.5225.</citation>
+    <PMID>32870239</PMID>
+  </results_reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 18, 2021</study_first_posted>
+  <last_update_submitted>March 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

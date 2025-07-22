@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="930">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04783025</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSEARS20200903007</org_study_id>
+    <nct_id>NCT04783025</nct_id>
+  </id_info>
+  <brief_title>A Blended Gaming COVID-19 Training System (BGCTS) With WHO Guidelines for Staff in Residential Care Homes</brief_title>
+  <acronym>BGCTS</acronym>
+  <official_title>A Blended Gaming COVID-19 Training System (BGCTS) With WHO Guidelines for Staff in Residential Care Homes: A Cluster Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Hong Kong Polytechnic University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Hong Kong Polytechnic University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      188 healthcare personnel from 20 residential care homes (RCHs) will be recruited to assess&#xD;
+      the effect of 2-week implementation of Blended Gaming COVID-19 Training System (BGCTS) on RCH&#xD;
+      staffs' infection control practices. These clusters (RCHs) will be randomly allocated to two&#xD;
+      study groups (the intervention group, IG; and the control group, CG) to assess 1. whether&#xD;
+      more staff in the IG perform infection control practices (by on-site observations) than the&#xD;
+      staff in the CG after receiving BGCTS and 2. whether more staff in the IG have infection&#xD;
+      control knowledge, positive attitudes towards infection control, and self-reported compliance&#xD;
+      rates than the staff in the CG. 5 Hypothesis have been set up for this study:&#xD;
+&#xD;
+      H1. After using BGCTS, a higher proportion of the staff in the IG will exhibit performance in&#xD;
+      complying with hand hygiene measures than those in the CG.&#xD;
+&#xD;
+      H2. After using BGCTS, a higher proportion of the staff in the IG will exhibit performance in&#xD;
+      complying with other infection control practices than those in the CG.&#xD;
+&#xD;
+      H3. After using BGCTS, a higher proportion of the staff in the IG will have high level of&#xD;
+      knowledge of infection control than those in the CG.&#xD;
+&#xD;
+      H4. After using BGCTS, a higher proportion of the staff in the IG will have positive&#xD;
+      attitudes towards infection control than those in the CG.&#xD;
+&#xD;
+      H5. After using BGCTS, a higher proportion of the staff in the IG will have a high&#xD;
+      self-reported compliance rate with infection control measures than those in the CG.&#xD;
+&#xD;
+      Infection control practices conducted by RCH staffs will be measured through unobtrusive&#xD;
+      on-site non-participatory observations. RCH staffs' knowledge, attitudes about infection&#xD;
+      control practice, and self-reported infection control practices will be assessed via an&#xD;
+      electronic quiz.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      Residents in residential care homes are at a high risk of being infected by COVID-19 due to&#xD;
+      the advanced age, associated co-morbidities, and state of dependence of the residents .&#xD;
+      According to the licensing requirements for RCHs in Hong Kong, a registered nurse is&#xD;
+      designated as an Infection Control Officer (ICO) to coordinate matters related to the&#xD;
+      prevention and handling of infectious diseases in each RCH. During the pandemic, the ICOs&#xD;
+      disseminate the COVID-19 guidelines, which were developed by the Centre for Health Protection&#xD;
+      (CHP) under the Food and Health Bureau of the Hong Kong government, to all staff in RCHs .&#xD;
+      Whether the staff understand and can correctly interpret the contents and adopt the&#xD;
+      guidelines into practice is unclear. There is nothing in the literature about the infection&#xD;
+      control training given by ICOs to the staff in RCHs.&#xD;
+&#xD;
+      Innovations:&#xD;
+&#xD;
+      The key innovation in this study is the adoption of the concept of gamification in COVID-19&#xD;
+      infection control training. The investigators apply elements of game design (short video&#xD;
+      clips/interactive video games in the form of quizzes) in non-game environments (RCHs) within&#xD;
+      non-game contexts (infection control training). Gamification is widely used as an educational&#xD;
+      tool in different disciplines. For example, in the current study, one of the simulated&#xD;
+      situations is visitor management to avoid the entry of COVID-19 in RCHs. Sequential&#xD;
+      allocation in visitor management could be utilized in the gamified training programme, to&#xD;
+      allow learners the chance to practice in a virtual environment. The inappropriate management&#xD;
+      of visitors could lead to the spread of COVID-19 infections in an RCH, and learners could&#xD;
+      have a second chance to do better in a virtual environment.&#xD;
+&#xD;
+      Gamified training offers many benefits, the major one of which is that it allows learners to&#xD;
+      learn at a convenience time and place. The use of gamification restructures the experience of&#xD;
+      a traditional boring activity into something enjoyable, interactive, and competitive, with&#xD;
+      the result that learners can remain active and engaged throughout the learning process. In&#xD;
+      addition, training with the use of games can improve compliance with decided behaviour.&#xD;
+      Learners were found to have developed new skills and/or new habits via gamified training.&#xD;
+&#xD;
+      Objectives:&#xD;
+&#xD;
+      This study aims to assess the effect of the Blended Gaming COVID-19 Training System (BGCTS)&#xD;
+      on infection control practices, compliance rates and knowledge of standard precautions among&#xD;
+      all staff in residential care homes (RCHs).&#xD;
+&#xD;
+      The specific objectives and hypothesis of the study include:&#xD;
+&#xD;
+        1. To assess whether more staff in the intervention group (IG) perform infection control&#xD;
+           practices (by on-site observations) than the staff in the control group (CG) after&#xD;
+           receiving the BGCTS;&#xD;
+&#xD;
+        2. To assess whether more staff in the IG have infection control knowledge, positive&#xD;
+           attitudes towards infection control, and self-reported compliance rates than the staff&#xD;
+           in the CG.&#xD;
+&#xD;
+      Method:&#xD;
+&#xD;
+      This study collects data through on-site observations of infection control practices which&#xD;
+      requires resources and special training. Observations will be the primary outcome of this&#xD;
+      study. Special arrangements on conducting on-site non-participatory unobtrusive observations&#xD;
+      in RCHs will be made to ensure the validity and reliability of the results.&#xD;
+&#xD;
+      Unobtrusive non-participatory observations of the infection control practices of healthcare&#xD;
+      personnel will be conducted in the RCHs. Healthcare personnel will include doctors, nurses,&#xD;
+      occupational therapists, physiotherapists, health workers, and personal care workers who are&#xD;
+      working in the RCHs. Observations will be made at baseline (before the intervention) and&#xD;
+      after the intervention (post-intervention). Observations will be made in five areas: hand&#xD;
+      hygiene, respiratory hygiene, the use of personal protective equipment (PPE), environmental&#xD;
+      cleaning and disinfection, and the proper handling of used or contaminated materials. A total&#xD;
+      of 200 observation opportunities per RCH unit will be made to avoid measurement bias.&#xD;
+&#xD;
+      At least three cameras (webcams with recording function) will be set up in each RCH to&#xD;
+      capture the staff's hand hygiene practice. The number of cameras will be determined after&#xD;
+      site visit to the RCH. The investigators would cover substantial areas of the RCH (including&#xD;
+      most of the hand washing facilities). Prior to the initiation of camera monitoring, staff of&#xD;
+      RCHs will be clearly informed about the recording. Camera recording will be made for 2 weeks&#xD;
+      in each RCH. Each week, the research assistant will go to the RCH and download the recordings&#xD;
+      to the designated computer for the sake of protecting the security of the recording (data).&#xD;
+      The obtained video recording will be evaluated by the research nurse, who will randomly&#xD;
+      select 20 to 30-minute recording per shift for observation (morning shift, afternoon shift&#xD;
+      and night shift). To protect privacy of the RCH staff, the staff will be de-identified and&#xD;
+      anonymized before observation, and all actions will be examined in confidentiality. This is&#xD;
+      designed to minimize the Hawthorn effect due to observations (that is, healthcare personnel&#xD;
+      perform differently when being observed) because the observer's presence gradually becomes&#xD;
+      insignificant to the healthcare personnel. In an RCH unit, more than one healthcare personnel&#xD;
+      provides care to the residents. Observations will be made of the first healthcare personnel&#xD;
+      to provide direct care to the residents before the other healthcare personnel take action.&#xD;
+      There will be no interference with the care procedure during the observations.&#xD;
+&#xD;
+      Data analysis:&#xD;
+&#xD;
+      To examine the difference in the change in the primary outcome - the observational-based&#xD;
+      compliance rate for hand hygiene - from baseline to post-intervention between the IG and CG,&#xD;
+      investigators will perform a linear mixed-effects model with a log link function to control&#xD;
+      for the clustering effect at the RCH level with Time, Group, and the interaction term (Time x&#xD;
+      Group) as independent variables. A significant result in the interaction term (Time x Group)&#xD;
+      will indicate a differential change in the outcome variable between the two groups, and will&#xD;
+      support hypothesis H1.&#xD;
+&#xD;
+      To examine differences in the changes in the secondary outcomes, including the&#xD;
+      observational-based compliance rate with other infection control practices, self-reported&#xD;
+      compliance, knowledge, and attitude rates (Hypotheses H2 - H5), investigators will perform a&#xD;
+      separate linear mixed-effects model for each of the secondary outcomes, similar to that for&#xD;
+      the primary outcome. A significant result in the interaction term (Time x Group) will&#xD;
+      indicate a differential change in the outcome variable between the two groups.&#xD;
+&#xD;
+      The investigators will also perform sub-group analyses by demographic and experience data to&#xD;
+      explore whether the effect of the intervention is homogeneous with respect to the different&#xD;
+      demographic and experience characteristics of the participants. Specifically, an interaction&#xD;
+      term, Group x characteristic, will be added to the model to explore the effect of that&#xD;
+      particular characteristic on the effect of the BGCTs. Further, investigators will also&#xD;
+      examine a model by adding parameters from the BGCTS (attempts to the video-clips/pictures,&#xD;
+      the time spent, and the results of each game) as potential factors associated with the&#xD;
+      outcome.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">March 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>20 clusters (Residentials care homes, RCHs) involved in the study will be randomly allocated to two study groups (the intervention group, IG; and the control group, CG). All of the healthcare personnel in one cluster will receive the assigned treatment in the study group accordingly. All units in one RCH will be grouped as IG or CG. Group designations will be decided by a computer-generated randomization list using a free online generator by a statistician in the research team (DYPL) and will have no potential contact with the participants of the study. An opaque, numbered envelope containing a code generated by computerized randomizations will be prepared by a project assistant unconnected to this study. The random coding will also be concealed from the participants and outcome assessors to be involved in the assessments. A standardized checklist will be used for outcome measurements to minimize bias.</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Research team members who are responsible for data collection and involved in data analysis will be blinded to the group allocation.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in unobtrusive observational-based compliance rate of infection control practices</measure>
+    <time_frame>T0 (baseline) and T2 (after the intervention at Week 3)</time_frame>
+    <description>Observed infection control practices will be recorded through a software called eRub, developed by PolyU with a Finnish company. eRub comprises two sets of checklists: 1.hand hygiene (HH)2.infection control practice (ICP).&#xD;
+Checklists are constructed based on the WHO's My 5 Moments list and COVID-19 risk communication package for healthcare facilities . The HH activities ( HH opportunities and its duration), will be rated as 'properly performed, performed, improperly performed, or missed performing'. Others infection control practices (eg. respiratory hygiene, disinfecting used surfaces/ equipment etc.), will also be rated. Staff with a rating of 'properly performed' and 'performed' will be classified as 'performed' while others will be regarded as 'not performed'.&#xD;
+The content validity indices for the relevance and adequacy of the eRub items were greater than 0.83 (range, 0.83-1.00), indicating satisfactory content validity.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Knowledge and attitudes towards respiratory infection (KARI)</measure>
+    <time_frame>T0 (baseline) and T2 (after the intervention at Week 3)</time_frame>
+    <description>a 24-item self-administered survey with 12 items about knowledge and 12 items on attitudes. It covers four areas: Clinical burden and the transmission of acute respiratory infection (7 items); Personal protective equipment and hand hygiene (6 items), Facility infection prevention and control policies for acute respiratory infection (6 items), and Influenza vaccination (5 items). The last five items will be omitted because these are not relevant to the COVID-19.&#xD;
+For each knowledge item, respondents will be classified as (1) 'having knowledge' if 'strongly agree' or 'agree' are answered to the positive statements and 'strongly disagree' or 'disagree' to the negative statements, or (2) 'lack of knowledge' if otherwise. For each attitude item, respondents will be classified as (1) 'positive attitudes' if 'strongly agree' or 'agree' are answered to the positive statements and 'strongly disagree' or 'disagree' to the negative statements, or (2) 'negative attitudes' if otherwise.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported Infection Control Practice (SICP)</measure>
+    <time_frame>T0 (baseline) and T2 (after the intervention at Week 3)</time_frame>
+    <description>a 10-item self-administered survey asking healthcare personnel to indicate whether RCH staffs would always, usually, sometimes, rarely, or never perform the said actions as part of staffs' usual practice . For self-reported infection control practices, 'satisfactory' will be defined as (1) if respondents' answers are either 'always' or 'usually' to the positive statements and (2) 'sometimes', 'rarely', or 'never' to the negative statements, while 'unsatisfactory' will be defined as otherwise.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Demographic data</measure>
+    <time_frame>T0 (baseline)</time_frame>
+    <description>Age, employment mode (full time vs part time), professional discipline (doctor, nurse, physiotherapist, occupational therapist, health workers, personal care worker), types of working unit (nursing home, care and attention home, hostel for the elderly, respite services, infirmary care supplement), staff-to-client ratio.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Data on experience</measure>
+    <time_frame>T0 (baseline)</time_frame>
+    <description>Working experience in residential care homes in terms of years, working experience in other healthcare settings in terms of years, and experience in infection control training (whether the staff member has received any type of infection control training, the date of the last training session, the duration of the last training session, the contents of the last training session).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Number of log-ins on Blended Gaming COVID-19 Training System (BGCTS)</measure>
+    <time_frame>T1 (During the intervention: at Week 2)</time_frame>
+    <description>The number of log-ins to the BGCTS</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of attempts on Blended Gaming COVID-19 Training System (BGCTS)</measure>
+    <time_frame>T1 (During the intervention at Week 2)</time_frame>
+    <description>The number of attempts at each game</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time spent on Blended Gaming COVID-19 Training System (BGCTS)</measure>
+    <time_frame>T1 (During the intervention at Week 2)</time_frame>
+    <description>The time spent on each game</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Gaming result on Blended Gaming COVID-19 Training System (BGCTS)</measure>
+    <time_frame>T1 (During the intervention at Week 2)</time_frame>
+    <description>The results of each game</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">188</enrollment>
+  <condition>Infection Control</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Intervention Group (IG)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participants in the IG will receive BGCTS, a blended training programme</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group (CG)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in the CG will receive usual care, the infection control briefing given by the Infection Control Officer (ICO) of the RCHs to all staff.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Blended Gaming COVID-19 Training System (BGCTS)</intervention_name>
+    <description>BGCTS is a blended training programme integrated with games and short video clips for Residential Care Home staffs to learn the principles of infection control and reinforce actions needed to stop the spread of COVID-19 within the RCHs, and to care for those residents suspected of having COVID-19. The contents of the training will refer to the evidence-based contents from The COVID-19 Risk Communication Package For Healthcare Facilities.&#xD;
+Dosage of the intervention. Staffs are encouraged to learn each topic independently in 15 minutes. It will take a total of 120 minutes to complete all eight topics in 2 weeks. Staffs will attend two 30-minute face-to-face group sessions conducted by research nurse (and the Infection Control Officer of the RCH) to clarify concepts (one per week; after playing the games). Scores and progress bar will be shown to the staff so as a form of motivation to encourage continuous participation in the training.</description>
+    <arm_group_label>Intervention Group (IG)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Usual care, infection control briefing</intervention_name>
+    <description>Participants in the CG will receive usual care, the infection control briefing given by the Infection Control Officer (ICO) of the RCHs to all staffs. Usually the briefing is irregular, non-standardized and determined by ICOs, depending on when the ICOs receive the information about infection control practice from Centre for Health Protection of the Hong Kong government. The format and duration of this briefing is determined by the ICO. Some ICOs deliver the infection control information in the form of posters or a written document, and circulate these materials to all staffs.</description>
+    <arm_group_label>Control Group (CG)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthcare personnel who are working in the selected Residential care homes (RCHs)&#xD;
+&#xD;
+          2. Able to read Chinese, and&#xD;
+&#xD;
+          3. Possess an electronic device (smartphone or tablet) with which to download the BGCTS&#xD;
+             system.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Temporary staff who are about to cease employment, be on maternity leave, or go on a&#xD;
+             long vacation during the data collection period;&#xD;
+&#xD;
+          2. Students or trainees (including nursing students, physiotherapy students, and&#xD;
+             health-related trainees), because training institutions are responsible for students'&#xD;
+             training, and such training may affect students' performance;&#xD;
+&#xD;
+          3. Volunteer personnel who come to the RCHs at a specific period (for example, to&#xD;
+             organize activities for the residents during festivals);&#xD;
+&#xD;
+          4. Clerical and administrative staff, kitchen staff, security staff, and engineering and&#xD;
+             facilities management staff;&#xD;
+&#xD;
+          5. Ambulance officers who come to the RCHs to take residents to or from hospitals.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Angela Leung, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Hong Kong Polytechnic University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Angela Leung, PhD</last_name>
+    <phone>(852) 2766 5587</phone>
+    <email>angela.ym.leung@polyu.edu.hk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Hong Kong Polytechnic University</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Angela Leung, PhD</last_name>
+      <phone>2766 5587</phone>
+      <email>angela.ym.leung@polyu.edu.hk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <link>
+    <url>https://iris.wpro.who.int/handle/10665.1/14482</url>
+    <description>The COVID-19 Risk Communication Package for Healthcare Facilities. The COVID-19 risk communication package for healthcare facilities.</description>
+  </link>
+  <link>
+    <url>https://www.swd.gov.hk/en/index/site_pubsvc/page_lr/sub_rche/id_copref/</url>
+    <description>Resources of code of practice for residential care homes (Elderly Persons)</description>
+  </link>
+  <link>
+    <url>https://www.chp.gov.hk/files/pdf/advice_to_rche_rchd_on_prevention_of_nid_eng.pdf</url>
+    <description>Guidelines for residential care homes for the elderly or persons with disabilities for the prevention of Coronavirus disease (COVID-19)</description>
+  </link>
+  <link>
+    <url>https://www.who.int/gpsc/5may/Your_5_Moments_For_Hand_Hygiene_Poster.pdf</url>
+    <description>5 Moments for Hand Hygiene</description>
+  </link>
+  <link>
+    <url>http://www.randomization.com/</url>
+    <description>The free online generator that would be used to generate a randomization list for group allocation</description>
+  </link>
+  <reference>
+    <citation>World Health Organization (WHO) Western Pacific Region Office (WPRO). The COVID-19 Risk Communication Package for Healthcare Facilities. The COVID-19 risk communication package for healthcare facilities. March 2020. https://iris.wpro.who.int/handle/10665.1/14482 (accessed 6 Jun 2020).</citation>
+  </reference>
+  <reference>
+    <citation>Cesari M, Proietti M. Editorial: Geriatric medicine in Italy in the time of COVID-19. J Nutr Health Aging. 2020;24(5):459-460. doi: 10.1007/s12603-020-1354-z.</citation>
+    <PMID>32346679</PMID>
+  </reference>
+  <reference>
+    <citation>Social Welfare Department. Resources of code of practice for residential care homes (Elderly Persons). Hong Kong: Social Welfare Department January 2020. https://www.swd.gov.hk/en/index/site_pubsvc/page_lr/sub_rche/id_copref/ (accessed 7 Jun 2020).</citation>
+  </reference>
+  <reference>
+    <citation>Center for Health Protection. Guidelines for residential care homes for the elderly or persons with disabilities for the prevention of Coronavirus disease (COVID-19). 2020. https://www.chp.gov.hk/files/pdf/advice_to_rche_rchd_on_prevention_of_nid_eng.pdf (accessed 7 Jun 2020).</citation>
+  </reference>
+  <reference>
+    <citation>World Health Organization (WHO). World Health Organization Guidelines on Hand Hygiene in Health Care. Geneva: WHO 2019. https://www.who.int/publications/i/item/who-guidelines-on-hand-hygiene-in-health-care (accessed 6 Jun 2020).</citation>
+  </reference>
+  <reference>
+    <citation>Karabay M, Kaya G, Hafizoglu T, Karabay O. Effect of camera monitoring and feedback along with training on hospital infection rate in a neonatal intensive care unit. Ann Clin Microbiol Antimicrob. 2019 Nov 13;18(1):35. doi: 10.1186/s12941-019-0332-y.</citation>
+    <PMID>31722715</PMID>
+  </reference>
+  <reference>
+    <citation>Vlachopoulos D, Makri A. The effect of games and simulations on higher education: a systematic literature review. Int J Edu Tech in Higher Edu 2017;14. doi:10.1186/s41239-017-0062-1</citation>
+  </reference>
+  <reference>
+    <citation>Gentry SV, Gauthier A, L'Estrade Ehrstrom B, Wortley D, Lilienthal A, Tudor Car L, Dauwels-Okutsu S, Nikolaou CK, Zary N, Campbell J, Car J. Serious Gaming and Gamification Education in Health Professions: Systematic Review. J Med Internet Res. 2019 Mar 28;21(3):e12994. doi: 10.2196/12994.</citation>
+    <PMID>30920375</PMID>
+  </reference>
+  <reference>
+    <citation>Sardi L, Idri A, Fernández-Alemán JL. A systematic review of gamification in e-Health. J Biomed Inform. 2017 Jul;71:31-48. doi: 10.1016/j.jbi.2017.05.011. Epub 2017 May 20. Review.</citation>
+    <PMID>28536062</PMID>
+  </reference>
+  <reference>
+    <citation>Hagel S, Reischke J, Kesselmeier M, Winning J, Gastmeier P, Brunkhorst FM, Scherag A, Pletz MW. Quantifying the Hawthorne Effect in Hand Hygiene Compliance Through Comparing Direct Observation With Automated Hand Hygiene Monitoring. Infect Control Hosp Epidemiol. 2015 Aug;36(8):957-62. doi: 10.1017/ice.2015.93. Epub 2015 Apr 23.</citation>
+    <PMID>25903555</PMID>
+  </reference>
+  <reference>
+    <citation>World Health Organization (WHO). 5 Moments for Hand Hygiene. May 2009. https://www.who.int/gpsc/5may/Your_5_Moments_For_Hand_Hygiene_Poster.pdf (accessed 8 Feb 2021).</citation>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 4, 2021</study_first_posted>
+  <last_update_submitted>March 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The Hong Kong Polytechnic University</investigator_affiliation>
+    <investigator_full_name>Dr Angela Leung</investigator_full_name>
+    <investigator_title>Associate Professor; Deputy Director of WHO Collaborating Centre for Community Health Services; Director of Centre for Gerontological Nursing (CGN)</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Infection control</keyword>
+  <keyword>Training system</keyword>
+  <keyword>Gamification</keyword>
+  <keyword>Residential care homes</keyword>
+  <keyword>Healthcare personnel</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>February 11, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/25/NCT04783025/ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

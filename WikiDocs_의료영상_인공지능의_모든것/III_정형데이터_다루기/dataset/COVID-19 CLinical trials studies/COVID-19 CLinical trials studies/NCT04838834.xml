@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1232">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04838834</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-073</org_study_id>
+    <nct_id>NCT04838834</nct_id>
+  </id_info>
+  <brief_title>Monitoring Serologic Response to Severe Acute Respiratory Syndrome-2 (SARS-COV-2)/COVID-19 in Children</brief_title>
+  <acronym>RECONN</acronym>
+  <official_title>Monitoring Serologic Response to SARS-COV-2 / Coronavirus Disease 2019 (COVID-19) in Children, Adolescents, and Young Adults Receiving Biologic Therapies (RECONN)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Connecticut Children's Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Jackson Laboratory</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Connecticut Children's Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Individuals susceptible to SARS-CoV-2 and the illness it causes (COVID-19) are comprised of&#xD;
+      heterogeneous populations with a large risk spectrum for more severe disease. Pre-existing&#xD;
+      risk factors for a more severe course include respiratory and cardiovascular disease, morbid&#xD;
+      obesity, diabetes, underlying kidney or liver disease, and immunocompromised status. Whether&#xD;
+      children and young adults with inflammatory bowel disease (IBD) or juvenile idiopathic&#xD;
+      arthritis (JIA) receiving immunomodulating biologic and other therapies which are known to&#xD;
+      increase risk of viral infection are at increased risk of complications from COVID-19 or&#xD;
+      post-infectious co-morbidities, including the recently described multi inflammatory syndrome&#xD;
+      (MISC), is entirely unclear. This research focuses on the heretofore uncharacterized immune&#xD;
+      response to SARS-CoV-2 infection in children and young adults with IBD or JIA who are&#xD;
+      receiving maintenance immunosuppressive biologic therapies. Given the large Connecticut based&#xD;
+      infusion program, in a region of the United States with a recent large outbreak of COVID-19,&#xD;
+      the investigators have a unique opportunity to address a glaring knowledge gap in this unique&#xD;
+      pediatric, adolescent, and young adult population. The investigators will longitudinally&#xD;
+      determine antibody development and durability to SARS-CoV-2 in approximately 450-500 children&#xD;
+      and young adults with IBD or JIA receiving biologic therapy over a two year period using a&#xD;
+      highly sensitive and specific quantitative assay utilizing novel technology. This period will&#xD;
+      include a return to school or work for many with likely resurgent infections, as well as the&#xD;
+      possible introduction of anti-SARS CoV-2 vaccines. The specific aim is to study the acute and&#xD;
+      convalescent antibody responses to SARS-CoV-2 infection in a cohort of children and young&#xD;
+      adults receiving infusions of biologic therapies for IBD and JIA.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">May 15, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Presence of anti-SARS-CoV-2 Immunoglobulin G (IgG)</measure>
+    <time_frame>At the time of infusions for up to 2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Presence of anti-SARS-CoV-2 IgG neutralizing antibodies</measure>
+    <time_frame>At the time of infusions for up to 2 years</time_frame>
+  </secondary_outcome>
+  <enrollment type="Actual">472</enrollment>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV-2</condition>
+  <condition>Inflammatory Bowel Diseases</condition>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Serum will be collected from participants every 3-4 months.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Children and young adults with inflammatory bowel disease or juvenile idiopathic arthritis&#xD;
+        receiving treatment with biologic agents at Connecticut Children's Infusion Center&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients aged 2 to 27 years inclusive&#xD;
+&#xD;
+          2. Patients receiving biologic infusions for inflammatory or rheumatologic disorders at&#xD;
+             the Connecticut Children's Infusion Center, at a minimum frequency of 2 infusions over&#xD;
+             a 4 month period&#xD;
+&#xD;
+          3. Consent/assent as indicated&#xD;
+&#xD;
+          4. Have vein access placement as standard of care&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patient and/or parent/legal guardian refused participation&#xD;
+&#xD;
+          2. Inability to draw requisite blood sample for serum collection&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>27 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Connecticut Children's Medical Center</name>
+      <address>
+        <city>Hartford</city>
+        <state>Connecticut</state>
+        <zip>06106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Neurath MF. COVID-19 and immunomodulation in IBD. Gut. 2020 Jul;69(7):1335-1342. doi: 10.1136/gutjnl-2020-321269. Epub 2020 Apr 17. Review.</citation>
+    <PMID>32303609</PMID>
+  </reference>
+  <reference>
+    <citation>Brenner EJ, Ungaro RC, Gearry RB, Kaplan GG, Kissous-Hunt M, Lewis JD, Ng SC, Rahier JF, Reinisch W, Ruemmele FM, Steinwurz F, Underwood FE, Zhang X, Colombel JF, Kappelman MD. Corticosteroids, But Not TNF Antagonists, Are Associated With Adverse COVID-19 Outcomes in Patients With Inflammatory Bowel Diseases: Results From an International Registry. Gastroenterology. 2020 Aug;159(2):481-491.e3. doi: 10.1053/j.gastro.2020.05.032. Epub 2020 May 18.</citation>
+    <PMID>32425234</PMID>
+  </reference>
+  <reference>
+    <citation>Brenner EJ, Pigneur B, Focht G, Zhang X, Ungaro RC, Colombel JF, Turner D, Kappelman MD, Ruemmele FM. Benign Evolution of SARS-Cov2 Infections in Children With Inflammatory Bowel Disease: Results From Two International Databases. Clin Gastroenterol Hepatol. 2021 Feb;19(2):394-396.e5. doi: 10.1016/j.cgh.2020.10.010. Epub 2020 Oct 12.</citation>
+    <PMID>33059040</PMID>
+  </reference>
+  <reference>
+    <citation>Robbiani DF, Gaebler C, Muecksch F, Lorenzi JCC, Wang Z, Cho A, Agudelo M, Barnes CO, Gazumyan A, Finkin S, Hägglöf T, Oliveira TY, Viant C, Hurley A, Hoffmann HH, Millard KG, Kost RG, Cipolla M, Gordon K, Bianchini F, Chen ST, Ramos V, Patel R, Dizon J, Shimeliovich I, Mendoza P, Hartweger H, Nogueira L, Pack M, Horowitz J, Schmidt F, Weisblum Y, Michailidis E, Ashbrook AW, Waltari E, Pak JE, Huey-Tubman KE, Koranda N, Hoffman PR, West AP Jr, Rice CM, Hatziioannou T, Bjorkman PJ, Bieniasz PD, Caskey M, Nussenzweig MC. Convergent antibody responses to SARS-CoV-2 in convalescent individuals. Nature. 2020 Aug;584(7821):437-442. doi: 10.1038/s41586-020-2456-9. Epub 2020 Jun 18.</citation>
+    <PMID>32555388</PMID>
+  </reference>
+  <reference>
+    <citation>Gaebler C, Wang Z, Lorenzi JCC, Muecksch F, Finkin S, Tokuyama M, Cho A, Jankovic M, Schaefer-Babajew D, Oliveira TY, Cipolla M, Viant C, Barnes CO, Hurley A, Turroja M, Gordon K, Millard KG, Ramos V, Schmidt F, Weisblum Y, Jha D, Tankelevich M, Yee J, Shimeliovich I, Robbiani DF, Zhao Z, Gazumyan A, Hatziioannou T, Bjorkman PJ, Mehandru S, Bieniasz PD, Caskey M, Nussenzweig MC, Hagglof T, Schwartz RE, Bram Y, Martinez-Delgado G, Mendoza P, Breton G, Dizon J, Unson-O'Brien C, Patel R. Evolution of Antibody Immunity to SARS-CoV-2. bioRxiv. 2020 Nov 5. pii: 2020.11.03.367391. doi: 10.1101/2020.11.03.367391. Update in: Nature. 2021 Jan 18;:.</citation>
+    <PMID>33173867</PMID>
+  </reference>
+  <reference>
+    <citation>Dittadi R, Afshar H, Carraro P. The early antibody response to SARS-Cov-2 infection. Clin Chem Lab Med. 2020 Sep 25;58(10):e201-e203. doi: 10.1515/cclm-2020-0617.</citation>
+    <PMID>32639941</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>February 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 9, 2021</study_first_posted>
+  <last_update_submitted>April 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19 Serological Testing</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Inflammatory Bowel Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

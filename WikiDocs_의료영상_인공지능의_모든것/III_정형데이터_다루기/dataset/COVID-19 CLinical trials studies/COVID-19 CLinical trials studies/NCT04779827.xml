@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1666">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04779827</url>
+  </required_header>
+  <id_info>
+    <org_study_id>827141</org_study_id>
+    <nct_id>NCT04779827</nct_id>
+  </id_info>
+  <brief_title>Improving Health Equity for COVID-19 Vaccination for At-risk Populations Using Online Social Networks</brief_title>
+  <official_title>Improving Health Equity for COVID-19 Vaccination and Related Health Behaviors for At-risk Populations Using Online Social Networks</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of California, Davis</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, Berkeley</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Social technologies for health have already become essential means for providing underserved&#xD;
+      populations greater social connectedness and increased access to novel health information.&#xD;
+      However, these technologies have also had negative unintended consequences. The resulting&#xD;
+      digital divide in social technology takes many forms - from explicit racism that excludes&#xD;
+      African American and Latinx populations from the resources enjoyed by White and Asian members&#xD;
+      of online communities, to self-segregation for the purposes of identity preservation and&#xD;
+      community-building that unintentionally results in limited informational diversity in&#xD;
+      underserved communities. The result is an often unnoticed, but highly consequential&#xD;
+      compounding of inequities.&#xD;
+&#xD;
+      This research seeks to use an online social network approach to address these challenges, in&#xD;
+      which the investigators demonstrate how reducing the online levels of network centralization&#xD;
+      and network homophily among African American community members directly increases their&#xD;
+      productive engagement with health-promoting information.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To investigate the causal effects of network structure and composition on the acceptance of&#xD;
+      new or unfamiliar behavior-relevant health information, the investigators propose a&#xD;
+      randomized controlled experiment that compares several independent populations to identify&#xD;
+      and address participants' endorsement of biased information, and engagement with novel&#xD;
+      behavior relevant information (e.g., regarding COVID-19 vaccination). Each population will&#xD;
+      have its own network structure (i.e., level of centralization) and composition (i.e., level&#xD;
+      of homophily).&#xD;
+&#xD;
+      To run each experimental trial, the investigators will recruit 240 African American&#xD;
+      participants, aged 18 to 40, collectively to answer behavior-relevant questions over a period&#xD;
+      of no greater than 8 minutes. Participants can respond asynchronously - i.e., when the&#xD;
+      participants' time permits. As with previous studies, the technical infrastructure will&#xD;
+      manage participants' progress through the study to ensure that all participants have the&#xD;
+      relevant information about each other's responses.&#xD;
+&#xD;
+      To ensure causal identification, each network graph will constitute a single observation of&#xD;
+      how individual decisions change under conditions of interdependent social information. Thus,&#xD;
+      each trial of 240 people (6 networks x 40 participants per network) produces 6 observations&#xD;
+      of a community-level social learning process. Power calculations indicate that 8 independent&#xD;
+      trials are sufficient to produce results of p&lt;0.05 with 85% power, resulting in a desired&#xD;
+      population of 1920 participants for each health topic (e.g., COVID-19 vaccination is a single&#xD;
+      &quot;health topic&quot;), producing 48 independent observations of collective decision making per&#xD;
+      health topic.&#xD;
+&#xD;
+      The studies will target health topics for which there is substantial racial disparity in&#xD;
+      outcomes and behavior, such as acceptance of COVID-19 vaccination, and spreading of various&#xD;
+      categories of COVID-19 misinformation (e.g. beliefs related to assessment of personal risk,&#xD;
+      effectiveness of protective behaviors, methods of transmission, disease prevention,&#xD;
+      treatment, origins of the virus) and related health practices (e.g. choice of appropriate&#xD;
+      contraceptive methods, value of heart disease screenings, etc.).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 19, 2021</start_date>
+  <completion_date type="Anticipated">December 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID-19 vaccination attitude</measure>
+    <time_frame>Immediate after intervention</time_frame>
+    <description>COVID-19 vaccination attitude scale, which is a self-reported scale measuring participants' attitudes toward COVID-19 vaccination. The scale is consisted of 5 questions (e.g., &quot;How much confidence do you have that the COVID-19 vaccine in the U.S. is safe and effective?&quot;) with responses ranging from 1 (No confidence at all) to 5 (A great deal of confidence); a higher average score means a more positive attitude in favor of COVID-19 vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID-19 vaccination intention</measure>
+    <time_frame>Immediate after intervention</time_frame>
+    <description>COVID-19 vaccination intention scale, which is a self-reported scale measuring participants' intention toward COVID-19 vaccination. The scale is consisted of 5 questions (e.g., &quot;Would you get a COVID-19 vaccine when it is available to you?&quot;) with responses ranging from 1 (Definitely Not) to 5 (Definitely); a higher average score means a stronger intention to receive the COVID-19 vaccine.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 vaccine belief</measure>
+    <time_frame>Immediate after intervention</time_frame>
+    <description>COVID-19 vaccine belief scale, which is a self-reported scale measuring participants' knowledge and belief (including misbelief) about the COVID-19 vaccine safety and effectiveness. The scale is consisted of 12 items (e.g., &quot;A COVID-19 vaccine will not alter my DNA&quot;) with responses ranging from 1 (completely disagree) to 5 (completely agree); a higher average score means more accurate knowledge and belief towards the COVID-19 vaccine.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">1920</enrollment>
+  <condition>Vaccination Refusal</condition>
+  <condition>Covid19</condition>
+  <condition>Contraception Behavior</condition>
+  <condition>Heart Diseases</condition>
+  <arm_group>
+    <arm_group_label>Egalitarian Networks of Homogeneous Populations</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Egalitarian networks are characterized by equal connectivity for all participants in an online network for information exchange. Each network is consisted of 40 individual participants. All network participants in this condition share similar baseline demographic characteristics, attitudes, or behavioral choices.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Egalitarian Networks of Diverse Populations</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Egalitarian networks are characterized by equal connectivity for all participants in an online network for information exchange. Each network is consisted of 40 individual participants. All network participants in this condition have very different baseline demographic characteristics, attitudes, or behavioral choices.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Centralized Networks of Homogeneous Populations</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Centralized networks have a small number of influential individuals, called &quot;hubs,&quot; with connections to most other people. Centralized networks characterize situations in which most or all individuals are connected to, and seek advice from, a few well-connected &quot;influencers.&quot; Each network is consisted of 40 individual participants. All network participants in this condition share similar baseline demographic characteristics, attitudes, or behavioral choices.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Centralized Networks of Diverse Populations</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Centralized networks have a small number of influential individuals, called &quot;hubs,&quot; with connections to most other people. Centralized networks characterize situations in which most or all individuals are connected to, and seek advice from, a few well-connected &quot;influencers.&quot; Each network is consisted of 40 individual participants. All network participants in this condition have very different baseline demographic characteristics, attitudes, or behavioral choices.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Independent Control of Homogeneous Populations</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Independent control condition does not have online networks. Participants in this condition are not put into online networks. Participants only respond to questions by themselves. All participants in this condition share similar baseline demographic characteristics, attitudes, or behavioral choices.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Independent Control of Diverse Populations</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Independent control condition does not have online networks. Participants in this condition are not put into online networks. Participants only respond to questions by themselves. All participants in this condition have very different baseline demographic characteristics, attitudes, or behavioral choices.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Online Social Network and Collective Intelligence Intervention</intervention_name>
+    <description>The online network intervention aims to use different configurations of online social networks to optimize the impacts of collective intelligence process to improve individuals' understanding, beliefs, and behavioral choices regarding a variety of health behaviors. Participants will be put into different online networks and respond to health questions while receiving feedback from their network members.</description>
+    <arm_group_label>Centralized Networks of Diverse Populations</arm_group_label>
+    <arm_group_label>Centralized Networks of Homogeneous Populations</arm_group_label>
+    <arm_group_label>Egalitarian Networks of Diverse Populations</arm_group_label>
+    <arm_group_label>Egalitarian Networks of Homogeneous Populations</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Independent Control</intervention_name>
+    <description>Independent control aims to test the baseline of population understanding of health behaviors and choices. Participants will respond to health questions independently without getting any feedback from others.</description>
+    <arm_group_label>Independent Control of Diverse Populations</arm_group_label>
+    <arm_group_label>Independent Control of Homogeneous Populations</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Self-identify as African American&#xD;
+&#xD;
+          -  Aged 18 and above&#xD;
+&#xD;
+          -  Living in the United States&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Self-identify as not being African American&#xD;
+&#xD;
+          -  Aged below 18&#xD;
+&#xD;
+          -  Living outside of the United States&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Damon Centola, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Damon Centola</last_name>
+    <phone>215-898-7954</phone>
+    <email>dcentola@asc.upenn.edu</email>
+  </overall_contact>
+  <reference>
+    <citation>Guilbeault D, Centola D. Networked collective intelligence improves dissemination of scientific information regarding smoking risks. PLoS One. 2020 Feb 6;15(2):e0227813. doi: 10.1371/journal.pone.0227813. eCollection 2020.</citation>
+    <PMID>32027656</PMID>
+  </reference>
+  <reference>
+    <citation>Guilbeault D, Becker J, Centola D. Social learning and partisan bias in the interpretation of climate trends. Proc Natl Acad Sci U S A. 2018 Sep 25;115(39):9714-9719. doi: 10.1073/pnas.1722664115. Epub 2018 Sep 4.</citation>
+    <PMID>30181271</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>February 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pennsylvania</investigator_affiliation>
+    <investigator_full_name>Damon Centola, PhD</investigator_full_name>
+    <investigator_title>Professor of Communication, Sociology and Engineering</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>We will share the data collected from our online experiments. All sets of data are anonymous.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Data will be available when the primary intervention paper is published.</ipd_time_frame>
+    <ipd_access_criteria>Data will be shared as a part of the published paper, in forms of supplementary materials. The public can access the data through the publisher's website.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

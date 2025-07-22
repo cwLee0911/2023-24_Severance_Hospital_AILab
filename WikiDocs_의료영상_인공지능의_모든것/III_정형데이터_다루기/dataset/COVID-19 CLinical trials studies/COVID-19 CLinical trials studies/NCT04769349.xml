@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4063">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04769349</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UP-20-01081</org_study_id>
+    <nct_id>NCT04769349</nct_id>
+  </id_info>
+  <brief_title>Effectiveness of Supportive Housing on COVID-19 Related Outcomes for People Experiencing Homelessness</brief_title>
+  <official_title>Effectiveness of Supportive Housing on COVID-19 Related Outcomes for People Experiencing Homelessness</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Southern California</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Southern California</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to understand the comparative effectiveness of two PSH models (PB-PSH and&#xD;
+      SS-PSH) on quality of life and COVID-19 related health behaviors by following for 6 months a&#xD;
+      cohort of 800 PEH who have been placed in either PB (n=400) or SS (n=400). In a natural&#xD;
+      observational experiment, participants will complete 6 monthly mobile-based questionnaires&#xD;
+      exploring quality of life including physical, mental, social, and housing/environmental&#xD;
+      health, COVID-19 prevention practices (i.e., handwashing, social distancing, face covering),&#xD;
+      and past-30-day healthcare utilization. A sub-sample of 40 participants living in both PB-PSH&#xD;
+      and SS-PSH will be qualitatively interviewed longitudinally to help contextualize&#xD;
+      quantitative findings. Focus groups will also be conducted with providers of PSH and&#xD;
+      qualitative interviews will be conducted with other key stakeholders to understand&#xD;
+      perspectives on the challenges of implementing and sustaining COVID-19 related prevention&#xD;
+      practices while maintaining a continuity of care.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will aim to understand the comparative effectiveness of PB-PSH and SS-PSH on&#xD;
+      patient-centered quality of life, health care utilization, and health behaviors that will&#xD;
+      reduce COVID-19 risk by following a diverse sample of 800 PEH who are placed in PB-PSH (n =&#xD;
+      400) or SS-PSH (n = 400) for 6 months. Barriers and facilitators will also be identified that&#xD;
+      may affect PSH implementation during the pandemic and its aftermath. The specific aims are:&#xD;
+&#xD;
+      Aim 1: To test the comparative effectiveness of PB-PSH and SS-PSH on COVID-19-related health&#xD;
+      behaviors (COVID-19-related personal health practices including social distancing) for PEH&#xD;
+      over time.&#xD;
+&#xD;
+      Aim 2: To test the comparative effectiveness of PB-PSH and SS-PSH on patient-centered quality&#xD;
+      of life (i.e., general life satisfaction; physical, mental, social, and environmental health)&#xD;
+      for PEH over time.&#xD;
+&#xD;
+      Aim 3: To test the comparative effectiveness of PB-PSH and SS-PSH on health care utilization&#xD;
+      health behaviors and unmet need for care for physical health, mental health, substance use&#xD;
+      disorders, for PEH over time.&#xD;
+&#xD;
+      Aim 4: To contextualize quantitative findings through longitudinal qualitative inquiry with&#xD;
+      40 participants, purposively sampled from PB-PSH and SS-PSH, based on whether they are&#xD;
+      following social distancing guidelines.&#xD;
+&#xD;
+      Aim 5: To understand service providers, policy makers, and other stakeholders perspectives on&#xD;
+      challenges of implementing and sustaining COVID-19-related prevention practices and&#xD;
+      continuity of care in PSH.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 29, 2021</start_date>
+  <completion_date type="Anticipated">December 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 15, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Life Satisfaction</measure>
+    <time_frame>Change of Life satisfaction from baseline to 6 months</time_frame>
+    <description>The NIH Toolbox item Bank v2.0 contains 10 items and will be utilized for participants to self-rate their life satisfaction</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quality of physical health</measure>
+    <time_frame>Change in quality of physical health from baseline to 6 months</time_frame>
+    <description>Self-rated physical health and frequency/quantity of health-related activities will be assessed with the PROMIS Global Health Scale Version 1.2. Scores range from 1-10, with higher scores reflecting better functioning.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Degree of mental health symptomatology</measure>
+    <time_frame>Change in symptomatology from baseline to 6 months</time_frame>
+    <description>The PROMIS will also be utilized to assess self-rated frequency the participant is bothered by mental health symptoms. The lowest possible score is 8 and the highest possible score is 40. Higher scores reflect more problematic symptomatology.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Social Isolation</measure>
+    <time_frame>Change in social isolation from baseline to 6 months</time_frame>
+    <description>The PROMIS will be utilized to assess social isolation including perceptions of being avoided, excluded, detached, disconnected from, or unknown by, others. Scores range from 6 to 40 with higher scores representing increased perceptions of isolation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Housing Environment</measure>
+    <time_frame>Change in satisfaction with housing environment from baseline to 6 months</time_frame>
+    <description>The Housing Environment Scale will assess residential satisfaction and neighborhood quality/safety. There are 5 subscales assessing the following: physical quality of the home, perceived quality of the neighborhood, perceived social climate in neighborhood, physical quality of home, and the physical quality of the neighborhood. Scales contain a range of 14 to 17 items with scores that range from 14 to 85 with higher scores representing increased satisfaction with environment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Prevention practices</measure>
+    <time_frame>Change in use of prevention practices from baseline to 6 months</time_frame>
+    <description>The NIH Disaster Research Response Platform will assess participant frequency of handwashing, social distancing, and use of face covering.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Healthcare Utilization</measure>
+    <time_frame>Change in utilization from baseline to 6 months</time_frame>
+    <description>Participants will record their past 30-day use of physical and mental health treatment, social services, and support provided by the permanent supportive housing program</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>Housing</condition>
+  <condition>Covid19</condition>
+  <condition>Mental Health</condition>
+  <condition>Physical Health</condition>
+  <condition>Social Interaction</condition>
+  <condition>Healthcare</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        800 adults experiencing homelessness who have been approved for permanent supportive&#xD;
+        housing (PSH) in Los Angeles&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  adults (aged 18+) with recent (past 12 months) lived experience with homelessness&#xD;
+&#xD;
+          -  approved for PSH&#xD;
+&#xD;
+          -  proficient in English&#xD;
+&#xD;
+          -  able to provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  aged younger than 18&#xD;
+&#xD;
+          -  not approved for PSH&#xD;
+&#xD;
+          -  not proficient in English&#xD;
+&#xD;
+          -  unable to provide informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Benjamin Henwood</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Southern California</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Benjamin Henwood, PhD</last_name>
+    <phone>213-821-0496</phone>
+    <email>bhenwood@usc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Danielle Madden, PhD</last_name>
+    <phone>516-776-4174</phone>
+    <email>dmadden@usc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Los Angeles Homeless Services Authority (LAHSA)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>91303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Dang</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 24, 2021</study_first_posted>
+  <last_update_submitted>February 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Southern California</investigator_affiliation>
+    <investigator_full_name>Benjamin F. Henwood</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

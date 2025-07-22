@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4760">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04818164</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-19-16163</org_study_id>
+    <nct_id>NCT04818164</nct_id>
+  </id_info>
+  <brief_title>Prone Position Improves End-Expiratory Lung Volumes in COVID-19 Acute Respiratory Distress Syndrome</brief_title>
+  <official_title>Prone Position Improves End-Expiratory Lung Volumes in COVID-19 Associated Acute Respiratory Distress Syndrome: An Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istanbul University-Cerrahpasa</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istanbul University-Cerrahpasa</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Covid-19 associated Acute Respiratory Distress Syndrome (ARDS) may present with profound&#xD;
+      hypoxemia not fully explained with pulmonary infiltrates. Accordingly, how prone positioning&#xD;
+      improves oxygenation in these patients is not fully known. The investigators conducted a&#xD;
+      study among patients with severe Covid-19 ARDS receiving prone position for at least 16&#xD;
+      hours. End Expiratory Lung Volume (EELV) was measured with Nitrogen wash-in/wash-out&#xD;
+      technique before (Supine Position 1- SP1), during (Prone Position - PP) and after (Supine&#xD;
+      Position 2 - SP2) prone positioning.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 1, 2020</start_date>
+  <completion_date type="Actual">March 20, 2021</completion_date>
+  <primary_completion_date type="Actual">December 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Partial Pressure of Oxygen/ Fraction of Inspired Oxygen</measure>
+    <time_frame>1 day</time_frame>
+    <description>Oxygenation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>End Expiratory Lung Volume</measure>
+    <time_frame>1 day</time_frame>
+    <description>Oxygenation</description>
+  </primary_outcome>
+  <enrollment type="Actual">22</enrollment>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>Coronavirus</condition>
+  <condition>Mechanical Ventilation Complication</condition>
+  <condition>Ventilation Perfusion Mismatch</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult Patients receiving invasive mechanic ventilation due to Covid-19 ARDS&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients were considered eligible if they met the Berlin definition criteria for ARDS&#xD;
+             and intubated due to increased work of breathing and/or worsening hypoxemia. All&#xD;
+             patients had a positive Covid-19 real time Polymerase Chain Reaction test&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Exclusion criteria were; age &lt; 18 years, ARDS resulting from other risk factors,&#xD;
+             presence of chest drainage tubes, tracheostomy, pneumomediastinum, hemodynamic&#xD;
+             instability (systolic blood pressure &lt; 100 mmHg, lactate &gt; 2 mmol/l, or an increase in&#xD;
+             lactate concentrations for 20% in two consecutive blood gas analysis within 2 hours&#xD;
+             interval) and suspicion or confirmed pulmonary emboli.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Istanbul University-Cerrahpaşa</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 26, 2021</study_first_posted>
+  <last_update_submitted>April 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Istanbul University-Cerrahpasa</investigator_affiliation>
+    <investigator_full_name>Olcay Dilken</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>acute respiratory distress syndrome</keyword>
+  <keyword>prone position</keyword>
+  <keyword>lung recruitment</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

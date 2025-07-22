@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3035">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04806620</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1</org_study_id>
+    <nct_id>NCT04806620</nct_id>
+  </id_info>
+  <brief_title>Comparison of ME/CFS and Long COVID-19 Patients</brief_title>
+  <official_title>Comparison of ME/CFS and Long COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Solve ME/CFS Initiative</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Solve ME/CFS Initiative</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the You + ME Registry and Biobank is to collect clinical and patient-reported&#xD;
+      data and biological samples (e.g. blood) from people living with Myalgic Encephalomyelitis&#xD;
+      (also known as chronic fatigue syndrome or ME/CFS), people with long-COVID and control&#xD;
+      volunteers to improve understanding, diagnosis and treatment of these diseases.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The You + ME Registry and Biobank is a collection of clinical and patient-reported data and&#xD;
+      biological samples (e.g. blood) from people living with Myalgic Encephalomyelitis (also known&#xD;
+      as chronic fatigue syndrome or ME/CFS), people with long-COVID and control volunteers. The&#xD;
+      patient registry collates demographic and real-world, longitudinal symptom, patient-reported&#xD;
+      outcomes, and treatment data from a global cohort into a centralized repository. The Registry&#xD;
+      will also be linked to a biobank which is a place that stores tissues, blood or other samples&#xD;
+      from participants. The combination of data and biological samples will be made available to&#xD;
+      researchers so we can: (1) improve our understanding of the natural history, epidemiology,&#xD;
+      pathogenesis, resilience/susceptibility factors, disease subsets, and treatment of ME/CFS and&#xD;
+      long-COVID using a standardized set of demographic and longitudinal data; (2) build an&#xD;
+      infrastructure and resource to support a range of future research into these diseases; (3)&#xD;
+      increase opportunities for collaboration between patients, providers, researchers, and&#xD;
+      industry.&#xD;
+&#xD;
+      Anyone 18 years of age and older is invited to sign up. After creating a profile and&#xD;
+      completing an informed consent via an online portal, participants fill out a series of&#xD;
+      surveys, including medical history, co-occurring conditions, symptoms, quality of life,&#xD;
+      functional status, and treatments. Participants receive email reminders to complete follow-up&#xD;
+      surveys to provide researchers with information about their health over time.&#xD;
+&#xD;
+      The Registry also includes a mobile tracking app co-created with the community that allows&#xD;
+      participants to monitor at minimum five core symptoms of fatigue, brain fog, unrefreshing&#xD;
+      sleep, and orthostatic intolerance (on a scale of 0: symptom absent - 4: very severe) as well&#xD;
+      as any additional symptoms of their choosing, life factors, and activity. Individuals can&#xD;
+      also capture data in narrative form using a journaling function. Participants are encouraged&#xD;
+      to capture data every 3 days if possible, but can track as often as daily.&#xD;
+&#xD;
+      Registry data is stored in a secure, encrypted database. Data is anonymized before being made&#xD;
+      available on a secure platform for research. Biosamples collected from participants are&#xD;
+      labeled with a coded number to protect their privacy and confidentiality.&#xD;
+&#xD;
+      This project is supported by Solve ME/CFS Initiative. You can learn more and sign up at&#xD;
+      youandmeregistry.com.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Anticipated">May 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2025</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>2 Years</target_duration>
+  <primary_outcome>
+    <measure>Phenotypic data collection</measure>
+    <time_frame>24 months</time_frame>
+    <description>We want to collect a large, well-characterized longitudinal dataset to understand causes and identify treatments for ME/CFS and long-COVID.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Subtyping</measure>
+    <time_frame>24 months</time_frame>
+    <description>We aim to use the phenotypic and associated biological samples from the Registry to identify disease subtypes.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Demographics</measure>
+    <time_frame>24 months</time_frame>
+    <description>We record basic demographic information of our Registry population including: age, race, ethnicity, income, education, employment, marital status. Demographic information is recorded at baseline and updated every 12 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comorbitities</measure>
+    <time_frame>24 months</time_frame>
+    <description>We want to catalogue common comorbidities in our registry population. Participants provide information on diagnosed conditions, age of onset, and whether the condition is still active. Their conditions list can be updated over time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatments</measure>
+    <time_frame>24 months</time_frame>
+    <description>We want to catalogue commonly used treatments in our registry population. Participants provide information on past and current treatments and provide ratings of their effectiveness at relieving symptoms. Their treatments list can be updated over time and information on ongoing use can be recorded via a mobile app.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life and Functional Status</measure>
+    <time_frame>24 months</time_frame>
+    <description>Participants fill out the Short Form 36 Quality of Life survey and a version of the Karnofsky Performance Scale modified for self-report over time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptoms</measure>
+    <time_frame>24 months</time_frame>
+    <description>We want to catalogue the common symptoms of ME/CFS and long COVID and analyze the data for symptom-based phenotypes. We administer a survey to assess the frequency and severity of symptoms over time and provide access to a mobile app so participants can log data on their symptoms as often as daily.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>ME/CFS</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>People with ME/CFS</arm_group_label>
+    <description>No intervention will be administered.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>People with Long-COVID</arm_group_label>
+    <description>No intervention will be administered.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Controls</arm_group_label>
+    <description>No intervention will be administered.</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      dried blood spot, whole blood, blood components, saliva, urine, fecal, plasma&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This is a study of individuals with ME/CFS, individuals with long-COVID and healthy&#xD;
+        controls.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with ME/CFS,&#xD;
+&#xD;
+          -  Those without ME/CFS&#xD;
+&#xD;
+          -  Patients with long-COVID&#xD;
+&#xD;
+          -  Patients with COVID who recovered.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Those who never had COVID&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sadie Whittaker, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Solve ME/CFS Initiative</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kira Poplowski, PhD</last_name>
+    <phone>310-463-2953</phone>
+    <email>kpoplowski@solvecfs.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Allison Ramiller</last_name>
+    <email>aramiller@solvecfs.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Solve ME/CFS Initiative</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>91206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 19, 2021</study_first_posted>
+  <last_update_submitted>April 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fatigue Syndrome, Chronic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

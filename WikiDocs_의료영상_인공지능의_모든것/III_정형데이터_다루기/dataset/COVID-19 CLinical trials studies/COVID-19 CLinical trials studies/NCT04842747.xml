@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4804">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04842747</url>
+  </required_header>
+  <id_info>
+    <org_study_id>V3011902</org_study_id>
+    <nct_id>NCT04842747</nct_id>
+  </id_info>
+  <brief_title>VERU-111 in the Treatment of SARS-Cov-2 Infection by Assessing Its Effect on the Proportion of Patients Who Die on Study</brief_title>
+  <acronym>VERU-111</acronym>
+  <official_title>Phase 3, Randomized, Placebo-Controlled, Efficacy and Safety Study of VERU-111 for the Treatment of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in Patients at High Risk for Acute Respiratory Distress Syndrome (ARDS).</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Veru Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Veru Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To demonstrate the efficacy of VERU-111in the treatment of SARS-Cov-2 Infection by assessing&#xD;
+      its effect on the proportion of patients who die on study (prior to Day 60).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a multicenter, randomized, placebo-control, efficacy and safety study of&#xD;
+      VERU-111 for the treatment of COVID-19. Subjects will receive either 9mg of VERU-111 or&#xD;
+      matching placebo orally or through nasogastric tube daily for up to 21 days or until the&#xD;
+      subject is discharged from the hospital, whichever comes first. The primary efficacy endpoint&#xD;
+      of the study will be the proportion of subjects that die prior to Day 60.The total study&#xD;
+      duration for a subject from screening to follow up visit is planned to be62days. In addition&#xD;
+      to the safety of VERU-111, an evaluation of the efficacy of VERU-111 onSARS-CoV-2&#xD;
+      (COVID-19)compared to the placebo control will be evaluated as part of the Independent Data&#xD;
+      Monitoring Committee (IDMC).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 30, 2021</start_date>
+  <completion_date type="Anticipated">March 19, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 5, 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Subjects in the VERU-111 treatment groups will receive standard of care, plus oral daily VERU-111 9mg for 21 days or until released from hospital. Subjects in the Placebo treatment group will receive standard of care, plus a placebo capsule for 21 days or until released from hospital.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>The study will be a randomized, double-blind, placebo-controlled study. Randomization will be stratified by baseline WHO Ordinal Scale score of 5 and 6 such that an approximately equal proportion of subjects with a WHO Ordinal Scale of 6 at screening are enrolled in each treatment group. An emergency code break will be available to the investigator / pharmacist / investigational drug storage manager. This code break option in IWRS may only be disclosed in emergency situations when the identity of the trial drug must be known to the investigator in order to provide appropriate medical treatment or if required to assure safety of trial participants. If the code break for a patient is opened, the sponsor and CRO will be informed immediately via IWRS notification. The reason for the IWRS unblinding of the subject must be documented on the appropriate eCRF page along with the date and the initials of the person who broke the code.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To demonstrate the efficacy of VERU-111in the treatment of SARS-Cov-2 Infection</measure>
+    <time_frame>Day 1 to Day 60</time_frame>
+    <description>To demonstrate the efficacy of VERU-111in the treatment of SARS-Cov-2 Infection by assessing its effect on the proportion of patients who die on study (prior to Day 60).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To determine the percentage of subjects that are alive without respiratory failure at various intervals.</measure>
+    <time_frame>Day 1 to Day 29</time_frame>
+    <description>The proportion of subjects that are alive without respiratory failure at Day 15, Day 22 and Day 29. Day 29 is the key secondary endpoint in this study. Respiratory failure is defined as endotracheal intubation and mechanical ventilation, extracorporeal membrane oxygenation, high-flow nasal cannula oxygen delivery, noninvasive positive pressure ventilation, clinical diagnosis of respiratory failure with initiation of none of these measures only when clinical decision making is driven solely by resource limitation.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>9mg of VERU-100 Oral daily</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>9mg of VERU-100</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Capsule once daily</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Subjects in the Placebo treatment group will receive standard of care, plus a placebo capsule for 21 days or until released from hospital.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VERU-111</intervention_name>
+    <description>Subjects in the VERU-111 treatment groups will receive standard of care, plus oral daily VERU-111 9mg for 21 days or until released from hospital.</description>
+    <arm_group_label>9mg of VERU-100 Oral daily</arm_group_label>
+    <other_name>Bisindole</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Provide informed consent from the subject or the subject's Legally Authorized&#xD;
+             Representative (LAR)&#xD;
+&#xD;
+          -  Aged ≥18 years&#xD;
+&#xD;
+          -  Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV-2) infection confirmed by&#xD;
+             polymerase chain reaction (PCR) test&#xD;
+&#xD;
+          -  Patients at high risk for ARDS, with known comorbidities for being at high risk, such&#xD;
+             as, Asthma (moderate to severe), Chronic Lung Disease, Diabetes, Chronic Kidney&#xD;
+             Disease being treated with dialysis, Severe Obesity (BMI ≥40), 65 years of age or&#xD;
+             older, primarily reside in a nursing home or long-term care facility, or&#xD;
+             immunocompromised&#xD;
+&#xD;
+          -  WHO Ordinal Scale for Clinical Improvement score of 5 (Non-invasive ventilation or&#xD;
+             high-flow oxygen) or 6 (Intubation and mechanical ventilation)&#xD;
+&#xD;
+          -  Peripheral capillary oxygen saturation (SpO2) ≤ 94% on room air at screening. If&#xD;
+             patient is on oxygen therapy at the time of presentation for screening and the&#xD;
+             SpO2levels were&#xD;
+&#xD;
+               -  94% prior to introduction to oxygen therapy with proper documentation example EMT&#xD;
+                  notes or ER/ED notes, then the patient is considered to have met this inclusion&#xD;
+                  criterion. If patient is on oxygen therapy at the time of presentation for&#xD;
+                  screening and the SpO2 levels prior to introduction to oxygen therapy are&#xD;
+                  unknown, the patient may be considered to have met this inclusion criterion if&#xD;
+                  oxygen therapy is removed and the SpO2 levels fall to ≤94%, then the patient is&#xD;
+                  considered to have met this inclusion criterion. However, removal of the oxygen&#xD;
+                  therapy should only be done if it is considered medically reasonable&#xD;
+&#xD;
+          -  Subjects must agree to follow doctor's recommendation for oxygen supplementation&#xD;
+&#xD;
+          -  Subjects must agree to use acceptable methods of contraception:&#xD;
+&#xD;
+               -  If female of childbearing potential or a male subject's partner could become&#xD;
+                  pregnant, use acceptable methods of contraception from the time of the first&#xD;
+                  administration of study medication until 6months following administration of the&#xD;
+                  last dose of study medication. Acceptable methods of contraception are as&#xD;
+                  follows: Condom with spermicidal foam/gel/film/cream/suppository [i.e., barrier&#xD;
+                  method of contraception], surgical sterilization (vasectomy with documentation of&#xD;
+                  azospermia) and a barrier method {condom used with spermicidal&#xD;
+                  foam/gel/film/cream/suppository}, the female partner uses oral contraceptives&#xD;
+                  (combination estrogen/progesterone pills), injectable progesterone or subdermal&#xD;
+                  implants and a barrier method (condom used with spermicidal&#xD;
+                  foam/gel/film/cream/suppository)&#xD;
+&#xD;
+               -  If the female partner of a male subjecthas undergone documented tuballigation&#xD;
+                  (female sterilization), a barrier method (condom used with spermicidal&#xD;
+                  foam/gel/film/cream/suppository)should also be used&#xD;
+&#xD;
+               -  If female partner of a male subjecthas undergone documented placement of an&#xD;
+                  intrauterine device (IUD) or intrauterine system (IUS),a barrier method (condom&#xD;
+                  with spermicidal foam/gel/film/cream/suppository)should also be used&#xD;
+&#xD;
+          -  Subject is willing to comply with the requirements of the protocol through the end of&#xD;
+             the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known hypersensitivity or allergy to colchicine&#xD;
+&#xD;
+          -  Pregnant or currently breast feeding&#xD;
+&#xD;
+          -  Participation in any other clinical trial of an experimental treatment for COVID- 19.&#xD;
+             Convalescent plasma, dexamethasone and remdesivir are allowed in this study.&#xD;
+&#xD;
+          -  Concurrent treatment with other experimental agents with actual or possible direct&#xD;
+             acting antiviral activity against COVID-19is prohibited &lt;24 hours prior to study drug&#xD;
+             dosing(except standard of care). Remdesivir, dexamethasone and convalescent plasma are&#xD;
+             allowed in the study.&#xD;
+&#xD;
+          -  Requiring ventilation + additional organ support -pressors, RRT, ECMO(WHO Ordinal&#xD;
+             Scale for Clinical Improvement -Score of 7)&#xD;
+&#xD;
+          -  Alanine Aminotransferase (ALT) or aspartate aminotransferase(AST) &gt;3X upper limit of&#xD;
+             normal (ULN)&#xD;
+&#xD;
+          -  Total bilirubin &gt; ULN&#xD;
+&#xD;
+          -  Creatinine clearance &lt; 60 mL/min&#xD;
+&#xD;
+          -  Documented medical history of liver disease, including but not limited to, prior&#xD;
+             diagnosis of hepatitis of any etiology, cirrhosis, portal hypertension, or confirmed&#xD;
+             or suspected esophageal varices&#xD;
+&#xD;
+          -  Moderate to severe renal impairment&#xD;
+&#xD;
+          -  Hepatic impairment&#xD;
+&#xD;
+          -  History of hepatitis&#xD;
+&#xD;
+          -  Any comorbid disease or condition (medical or surgical) which might compromise the&#xD;
+             hematologic, cardiovascular, endocrine, pulmonary, renal, gastrointestinal, hepatic,&#xD;
+             or central nervous system; or other conditions that may interfere with the absorption,&#xD;
+             distribution, metabolism or excretion of study drug, or would place the subject at&#xD;
+             increased risk&#xD;
+&#xD;
+          -  Participants must agree to refrain from prolonged exposure to the sun or agree to use&#xD;
+             at least SPF 50 on all exposed skin and protective clothing during prolonged sun&#xD;
+             exposure throughout participation in this study and/or treatment with VERU-111&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bernette</last_name>
+    <role>Study Chair</role>
+    <affiliation>Veru Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Barnette</last_name>
+    <phone>800-606-9382</phone>
+    <email>veruclinicaltrials@verupharma.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rodriguez</last_name>
+    <phone>800-606-9382</phone>
+    <email>veruclinicaltrials@verupharma.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Honor Health</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sahni Hillard</last_name>
+      <phone>209-348-8838</phone>
+      <email>shilliard@honorhealth.com</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Gordon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Inspira Medical Center Mullica Hill</name>
+      <address>
+        <city>Mullica Hill</city>
+        <state>New Jersey</state>
+        <zip>08062</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sami Abate</last_name>
+      <phone>856-641-7526</phone>
+      <email>AbateS@ihn.org</email>
+    </contact>
+    <investigator>
+      <last_name>M. Scott Dawson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Inspira Medical Center</name>
+      <address>
+        <city>Vineland</city>
+        <state>New Jersey</state>
+        <zip>08360</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sami Abate</last_name>
+      <phone>856-641-7526</phone>
+      <email>AbateS@ihn.org</email>
+    </contact>
+    <investigator>
+      <last_name>Samaresh Dasgupta</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>HD Research (Memorial Hermann - Memorial City Medical Center)</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Katelyn Freeman</last_name>
+      <phone>361-728-5693</phone>
+      <email>kfreeman@lotuscr.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Diego Rodriguez</last_name>
+      <phone>361-728-5693</phone>
+      <email>drodriguez@lotuscr.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Alan Skolnick</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>HD Research (Memorial Hermann Southeast Hospital)</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lauren Howard</last_name>
+      <phone>281-770-5752</phone>
+      <email>lhoward@lotuscr.com</email>
+    </contact>
+    <investigator>
+      <last_name>Adnan Rafiq</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trial Network</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Layla Amjad</last_name>
+      <phone>713-484-6947</phone>
+      <email>lamjad@ctntexas.com</email>
+    </contact>
+    <investigator>
+      <last_name>Sangeetha Vulichi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital del Bicentenario de Esteban Echeverría</name>
+      <address>
+        <city>Monte Grande</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Santiago Müller, MD</last_name>
+      <phone>5491164883994</phone>
+      <email>gordeu@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Nicolás Caminiti</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitário São Francisco na Providencia de Deus</name>
+      <address>
+        <city>Bragança Paulista</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mariana Goncalves</last_name>
+      <phone>55(19)991300521</phone>
+      <email>mariana.goncalves.husf@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Murillo Antunes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IPECC (Instituto De Pesquisa Clínica de Campinas)</name>
+      <address>
+        <city>Campinas</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Carla Vicente</last_name>
+      <phone>19991913704</phone>
+      <email>carla@ipecc.com.br</email>
+    </contact>
+    <investigator>
+      <last_name>José Saraiva,</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sociedade Hospital Angelina Caron</name>
+      <address>
+        <city>Campinas</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Cristina Corrêa</last_name>
+      <phone>554136798783</phone>
+    </contact>
+    <investigator>
+      <last_name>Dalton Bertolin Precoma</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Clínicas de Porto Alegre - Infectologia - Centro de Pesquisa Clínica</name>
+      <address>
+        <city>Porto Alegre</city>
+        <zip>90035-003</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Laura De Bona</last_name>
+      <phone>555133596331</phone>
+      <email>lauradbona@yahoo.com.br</email>
+    </contact>
+    <investigator>
+      <last_name>Eduardo Sprinz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Cementino Fraga Filho</name>
+      <address>
+        <city>Rio De Janeiro</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Elizabeth Stankiewicz Machado</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clínica de Alergia Martti Antila S/S LTDA</name>
+      <address>
+        <city>Sorocaba</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Martti Antila</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fundação Faculdade Regional de Medicina de São José do Rio Preto</name>
+      <address>
+        <city>São Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ana Paula Demore</last_name>
+      <phone>55 17 991542091</phone>
+    </contact>
+    <investigator>
+      <last_name>Suzana Lobo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Unidad Médica para la Salud Integral (UMSI)</name>
+      <address>
+        <city>Monterrey</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alma Carreon</last_name>
+    </contact>
+    <investigator>
+      <last_name>Rodolfo Posadas-Valay</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General de Occidente</name>
+      <address>
+        <city>Zapopan</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Raul Baptista-Rosas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Brazil</country>
+    <country>Mexico</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 13, 2021</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

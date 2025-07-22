@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3950">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04761913</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19/20/048</org_study_id>
+    <nct_id>NCT04761913</nct_id>
+  </id_info>
+  <brief_title>Paediatric Inflammatory Multisystem Syndrome During COVID-19 Pandemic</brief_title>
+  <official_title>Investigating Cytokine Storm Biomarkers in Children Presenting to Acute Paediatric Services (Non-intensive Care) With Paediatric Inflammatory Multisystem Syndrome During the Covid-19 Pandemic. An Observation Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Anglia Ruskin University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Anglia Ruskin University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      During the COVID-19 pandemic, a small minority of children have been presenting to acute&#xD;
+      paediatric services with a new syndrome, Paediatric Inflammatory Multisystem Syndrome&#xD;
+      temporally associated with SARS-Cov-2 (PIMS-TS). Children with PIMS-TS present with symptoms&#xD;
+      of inflammation caused by the immune system going into overdrive - this is likely to be in&#xD;
+      response to the virus. More severe cases involve inflammation and damage to the heart.&#xD;
+&#xD;
+      The focus of this project is to identify children with milder forms of PIMS-TS who are at&#xD;
+      risk of progression to more severe disease. Being able to predict the disease course of&#xD;
+      PIMS-TS at an early stage is important as it will allow clinicians to decide which patients&#xD;
+      should be treated with immunosuppressants, which have been shown to reduce the severity of&#xD;
+      the illness but have side effects.&#xD;
+&#xD;
+      Early data suggests that children with PIMS-TS have elevated biomarkers associated with an&#xD;
+      over-reaction of the body's immune system (also known as a 'cytokine storm') reaction. This&#xD;
+      study will explore whether children presenting with milder PIMS-TS have elevated 'cytokine&#xD;
+      storm' blood profiles and whether these profiles differ between children who continue to have&#xD;
+      a mild disease course compared to those who develop severe disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      During the COVID-19 pandemic a minority of children have presented to acute services with&#xD;
+      clinical features of a new syndrome known as Paediatric Inflammatory Multisystem Syndrome&#xD;
+      temporally associated with SARS-Cov-2 (PIMS-TS). This high inflammatory state, likely&#xD;
+      triggered by the virus, has overlapping features of Kawasaki's and Toxic Shock Syndrome.&#xD;
+&#xD;
+      The focus of this study is to identify which children presenting with mild PIMS-TS symptoms&#xD;
+      will go on to develop severe disease requiring intensive care unit (ICU) admission. This is&#xD;
+      important as data suggests that early aggressive treatment with immunosuppression can lead to&#xD;
+      a relatively quick resolution in symptoms. The results of this study could allow clinicians&#xD;
+      to be selective in treating patients in whom the benefits of treatment outweigh the risks.&#xD;
+&#xD;
+      Early data suggests a 'cytokine storm' is involved in the PIMS-TS disease process. This&#xD;
+      proposed observational study will investigate whether children presenting to the non-ICU&#xD;
+      setting with features of PIMS-TS have raised cytokine storm biomarkers and whether these may&#xD;
+      be used to predict which children go onto develop severe disease.&#xD;
+&#xD;
+      The proposed study will include up to 15 hospitals across East of England. NHS clinical care&#xD;
+      teams will identify patients meeting the inclusion criteria and upload anonymised data into a&#xD;
+      secure web-based study database. Data will be retrieved for retrospective cases from 1st&#xD;
+      March 2020 and prospective data entered up until September 2021.&#xD;
+&#xD;
+      One hundred children presenting to acute (non-ICU) paediatric services with symptoms of&#xD;
+      PIMS-TS during the study period will be included.&#xD;
+&#xD;
+      The primary objective of the study is to describe the 'cytokine storm' biomarker profiles of&#xD;
+      children aged between 3 months to 16 years presenting with PIMS-TS to the non-ICU setting,&#xD;
+      focussing on those biomarkers which are readily accessible to district general hospitals&#xD;
+      (Pro-Beta Natriuretic peptide [BNP], ferritin, and CRP).&#xD;
+&#xD;
+      The secondary aims of the study are to:&#xD;
+&#xD;
+        1. Compare cytokine storm biomarker profiles of children who have a mild disease course to&#xD;
+           those who develop severe disease to identify whether there are any differences between&#xD;
+           these groups&#xD;
+&#xD;
+        2. Evaluate the association between cytokine storm biomarker profiles and severe events&#xD;
+&#xD;
+        3. Compare i) demographic characteristics (including pre-existing disease), and ii) other&#xD;
+           routine clinical investigations of children who have a mild disease course and those who&#xD;
+           develop severe disease to identify any differences between these 2 groups&#xD;
+&#xD;
+        4. Evaluate the association between vaccination status and disease severity&#xD;
+&#xD;
+        5. Compare cytokine storm biomarker profiles of children testing positive and those testing&#xD;
+           negative for SARS-CoV-2 via PCR on 2x nasopharyngeal swabs to identify any differences&#xD;
+           between these 2 groups.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Blood biomarker associated with a cytokine storm - Pro-Beta Natriuretic Peptide (measured in pg/mL).</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Pro-Beta Natriuretic Peptide (BNP) measured as part of routine clinical care. NHS care teams will upload anonymised routine clinical measurements into a secure study database.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood biomarker associated with a cytokine storm - Ferritin (measured in µg/L)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Ferritin measured as part of routine clinical care. NHS care teams will upload anonymised routine clinical measurements into a secure study database.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood Biomarker associated with a cytokine storm - C-Reactive Protein (measured in mg/L)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>C-Reactive Protein measured as part of routine clinical care. NHS care teams will upload anonymised routine clinical measurements into a secure study database.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Demographic characteristics including age, sex, ethnicity and pre-existing morbidities</measure>
+    <time_frame>At admission to hospital</time_frame>
+    <description>Information collected as part of routine clinical care. NHS clinical care teams will upload anonymous data into a secure study database.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital stay data</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Information collected as part of routine clinical care. NHS clinical care teams will upload anonymous data into a secure study database.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytokine storm biomarker measured in mg/L (CRP)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytokine storm biomarkers measured in pg/mL (pro-beta natriuretic peptide, IL-6, IFN-gamma, IL-10, TNF-alpha)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Full blood count measures in 10^9/L (white cell count - neutrophil and lymphocyte count and platelet)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Full blood count measures in L/L (haematocrit)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Haemoglobin in g/L or g/dL (measured as part of full blood count and blood gas analysis)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood gas analysis measured in KPa (pCO2, pO2)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood gas analysis measured in mmol/l (glucose, lactate, Na, K and Cl)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood gas analysis measured in mmol/l or mEq/L (HCO3, BE)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liver function tests measured in g/L (protein, albumin, globulin)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liver function tests measured in U/L (ALP/ALT)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liver function tests measured in µmol/L (bilirubin)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Troponin measured in ng/ml or ng/L</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>vitamin D measured in nmol/L</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Amylase, CK, LDH measured in U/L</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glucose and triglycerides measured in mmol/L</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urea and electrolytes measured in mmol/L (Na, K, urea)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urea and electrolytes measured in µmol/L (creatinine)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ferritin measured in µg/L</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>fibrinogen measured in g/L</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-dimer measured in ng/ml</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PT and APTT measured in seconds</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>INR as a ratio (Patient PT/Control PT)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute Kidney Injury graded as no AKI or stage of AKI (1-3)</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive or negative COVID-19 antibody test</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Clinical investigations (blood biomarkers) collected as part of routine clinical care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence or absence of clinical conditions as assessed by ECG/echocardiography</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Conditions will include: myocarditis, valvulitis, pericardial effusion, coronary artery dilation, or other conditions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence or absence of clinical conditions as assessed by chest x-ray/chest CT</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Conditions will include: presence of patchy symmetrical infiltrates, pleural effusion, coronary artery abnormalities (CT with contrast) or other conditions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence or absence of clinical conditions as assessed by abdominal ultrasound</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Conditions will include: colitis, ileitis, lymphadenopathy, ascites, hepatosplenomegaly or other conditions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proteinuria as assessed by urinalysis graded as no protein, protein ++ or protein +++</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive or negative COVID swab result as assessed by PCR</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive or negative NPA or throat swab result for respiratory panel as assessed by PCR</measure>
+    <time_frame>From date of admission to date of discharge from hospital assessed up to 18 months</time_frame>
+    <description>Including: pneumococcal, meningococcal, Group A Strep, Staph Aureus, EBV, CMV, Andenovirus, Enterovirus</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vaccination status</measure>
+    <time_frame>At admission to hospital</time_frame>
+    <description>Information collected as part of routine clinical care. NHS clinical care teams will upload anonymous data into a secure study database.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Paediatric Inflammatory Multisystem Syndrome Temporally Associated With SARS-Cov-2</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Children (aged 3 months to ≤ 16 years) presenting to acute paediatric services (non-ICU)&#xD;
+        with symptoms of PIMS during the period of the COVID-19 pandemic&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Within the age range of 3 months to ≤16 years&#xD;
+&#xD;
+          -  Presenting clinically to non-ICU paediatric acute services at hospitals in the East of&#xD;
+             England region with symptoms suggestive of PIMS (e.g. incomplete Kawasaki's&#xD;
+             disease/Toxic Shock Syndrome) i.e. having: persistent fever (&gt;38.0oC for 5 or more&#xD;
+             days) AND high CRP (&gt;80) AND with one or more of additional features listed in&#xD;
+             Appendix 1 of the RCPCH document 'Guidance: paediatric multisystem inflammatory&#xD;
+             syndrome temporarily associated with COVID-19'&#xD;
+&#xD;
+          -  Having either a positive or negative SARS-Cov-2 PCR test&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Aged below 3 months old or above 16 years old&#xD;
+&#xD;
+          -  Confirmation of any microbial cause other than SARS-Cov-2 (including bacterial sepsis,&#xD;
+             staphylococcal or streptococcal shock syndromes, infections associated with&#xD;
+             myocarditis such as enterovirus). Determination of such microbial causes is by routine&#xD;
+             testing i.e. blood culture; pneumococcal, meningococcal, group A strep, staph aureus&#xD;
+             blood PCR; ASOT; EBV, CMV, adenovirus, enterovirus PCR on blood; urine and stool&#xD;
+             culture; throat swab culture; stool virology.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Months</minimum_age>
+    <maximum_age>16 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jo-Anne Johnson, MRCPCH, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Anglia Ruskin University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jo-Anne Johnson, MRCPCH, PhD</last_name>
+    <phone>07789 932495</phone>
+    <email>jo-anne.johnson@aru.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anglia Ruskin Clinical Trials Unit</last_name>
+    <email>arctu@aru.ac.uk</email>
+  </overall_contact_backup>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>December 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>February 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>March 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>cytokine storm</keyword>
+  <keyword>biomarkers</keyword>
+  <keyword>PIMS-TS</keyword>
+  <keyword>children</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

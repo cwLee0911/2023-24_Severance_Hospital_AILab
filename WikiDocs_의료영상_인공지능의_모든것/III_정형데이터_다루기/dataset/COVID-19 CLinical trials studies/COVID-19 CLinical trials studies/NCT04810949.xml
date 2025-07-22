@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4951">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04810949</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Vitamina D NOVA</org_study_id>
+    <nct_id>NCT04810949</nct_id>
+  </id_info>
+  <brief_title>Vitamine D3 Supplementation in Patients With Serum Values +/- 20ng/ml</brief_title>
+  <official_title>Effect of Vitamin D Supplementation on the Development of Respiratory Infections (COVID-19) in Health Personnel at Hospital Clínica NOVA With Serum Values&gt; 20ng / ml</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Clinica Nova</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital Clinica Nova</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A comparative randomized study that will evaluate the effect of a monthly supplementation&#xD;
+      with 52000 units of Vitamine D3 vs hygienic-dietary measures in the development of&#xD;
+      respiratory infections such as COVID-19, H1N1, A, B Influenza during 6 months of follow-up in&#xD;
+      patients with serum vitamin D values +/- 20ng/ml.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A comparative randomized clinical trial that will evaluate the effect of 2 treatments in&#xD;
+      health personnel of Hospital Clínica Nova with serum vitamin D values +/- 20ng / ml.&#xD;
+&#xD;
+        1. Supplementation with 52,000 units of vitamin D3 monthly&#xD;
+&#xD;
+        2. Hygienic-dietary measures: sun exposure 10 minutes a day plus recommendation of&#xD;
+           consumption of foods rich in vitamin D.&#xD;
+&#xD;
+      Hypothesis: There will be no difference in the development of respiratory infections&#xD;
+      (COVID-19, H1N1 Influenza, A, B influenza) in health personnel with serum levels of vitamin D&#xD;
+      equal or greater than 20ng / ml when they receive supplementation vs treatment based on&#xD;
+      hygienic-dietary measures (diet and sun exposure), in a 6-month follow-up.&#xD;
+&#xD;
+      Baseline serum levels will be assessed, and monthly follow-up will be given regarding the&#xD;
+      development of symptoms suggestive of respiratory tract infection. The monitoring of serum&#xD;
+      levels of vitamin D will be every 3 months.&#xD;
+&#xD;
+      Efficacy endpoint: The most effective treatment will develop a lower respiratory tract&#xD;
+      infection rate ( COVID-19 and/or H1N1, A or B Influenza ) during the follow-up period.&#xD;
+&#xD;
+      The sample size will be of a finite population as it will include all health personnel who&#xD;
+      work at Hospital Clínica Nova.&#xD;
+&#xD;
+      Procedures:&#xD;
+&#xD;
+        1. Serum levels of vitamin D (25-hydroxyvitamin D) will be measured in all medical&#xD;
+           personnel working at Hospital Clínica Nova.&#xD;
+&#xD;
+        2. Vitamin D3 will be supplemented to all health personnel with serum levels of vitamin D&#xD;
+           +/-20ng / ml&#xD;
+&#xD;
+        3. Treatment group will be randomized to patients with vitamin D3 levels+/- 20ngml.&#xD;
+&#xD;
+        4. Serum vitamin D levels will be monitored every 3 months&#xD;
+&#xD;
+        5. Monthly follow-up will be given through the endocrinology consultation of the&#xD;
+           development of respiratory symptoms&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    patients enrolled got vaccinated vs COVID-19 and Influenza&#xD;
+  </why_stopped>
+  <start_date type="Actual">August 5, 2020</start_date>
+  <completion_date type="Actual">March 1, 2021</completion_date>
+  <primary_completion_date type="Actual">March 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Covid-19 Infection</measure>
+    <time_frame>6 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Influenza H1N1 infection</measure>
+    <time_frame>6 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Influenza A infection</measure>
+    <time_frame>6 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Influenza B infection</measure>
+    <time_frame>6 months</time_frame>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">41</enrollment>
+  <condition>Covid19</condition>
+  <condition>Influenza A</condition>
+  <condition>Influenza B</condition>
+  <condition>H1N1 Influenza</condition>
+  <arm_group>
+    <arm_group_label>serum vitamin D levels +/- 20ng/ml (Group 1)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients with serum vitamin D levels +/- 20ng/ml</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>serum vitamin D levels +/- 20ng/ml ( Group 2)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients with vitamin D levels +/- 20ng/ml</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Vitamine D3 supplementation</intervention_name>
+    <description>1. The supplementation treatment will consist of prescribing vitamin D3 consumption of 4000 U 13 single dose tablets each month (52,000 IU).</description>
+    <arm_group_label>serum vitamin D levels +/- 20ng/ml (Group 1)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Diet and sun exposure</intervention_name>
+    <description>2. Hygienic-dietary recommendations will consist of 2 steps&#xD;
+Sun exposure at least 10 minutes a day from 10: 00-6: 00 pm&#xD;
+Consumption of foods rich in vitamin D: milk, fish, almonds, mushrooms</description>
+    <arm_group_label>serum vitamin D levels +/- 20ng/ml ( Group 2)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18-90 years&#xD;
+&#xD;
+          -  Both genders&#xD;
+&#xD;
+          -  Absence of infection by COVID-19, influenza H1N1, influenza A or B at the time of&#xD;
+             measurement of serum vitamin D levels.&#xD;
+&#xD;
+          -  Absence of infection at any site of bacterial, fungal or other origins&#xD;
+&#xD;
+          -  Health worker at Hospital Clínica Nova.&#xD;
+&#xD;
+        Patient Exclusion Criteria for both arms:&#xD;
+&#xD;
+          -  Serum Vitamin D levels&gt; 100ng / ml&#xD;
+&#xD;
+          -  Previous consumption of supplements containing Vitamin D3&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Arnulfo Gonzalez-Cantu, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Clinica Nova</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital Clinica Nova de Monterrey</name>
+      <address>
+        <city>San Nicolás De Los Garza</city>
+        <state>Nuevo León</state>
+        <zip>66450</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 23, 2021</study_first_posted>
+  <last_update_submitted>March 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital Clinica Nova</investigator_affiliation>
+    <investigator_full_name>Maria Elena Romero Ibarguengoitia</investigator_full_name>
+    <investigator_title>MD, MS, PHD</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Influenza, Human</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D</mesh_term>
+    <mesh_term>Cholecalciferol</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

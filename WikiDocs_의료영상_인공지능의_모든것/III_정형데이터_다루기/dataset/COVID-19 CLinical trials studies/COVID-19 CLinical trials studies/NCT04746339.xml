@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3192">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04746339</url>
+  </required_header>
+  <id_info>
+    <org_study_id>004/2020</org_study_id>
+    <nct_id>NCT04746339</nct_id>
+  </id_info>
+  <brief_title>Apixaban for PrOphyLaxis of thromboemboLic Outcomes in COVID-19</brief_title>
+  <acronym>APOLLO</acronym>
+  <official_title>Apixaban for PrOphyLaxis of thromboemboLic Outcomes in COVID-19 - the Apollo Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brazilian Clinical Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital Israelita Albert Einstein</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital do Coracao</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Sirio-Libanes</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Moinhos de Vento</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Alemão Oswaldo Cruz</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Beneficência Portuguesa de São Paulo</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Brazilian Research In Intensive Care Network</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Brazilian Clinical Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Randomized, double-blinded, placebo-controlled trial comparing oral anticoagulation with&#xD;
+      placebo for community-dwelling patients with symptomatic COVID-19 infection and risk factors&#xD;
+      for thrombosis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Randomized, double-blinded, placebo-controlled trial comparing oral anticoagulation with&#xD;
+      placebo for community-dwelling patients with symptomatic COVID-19 infection and risk factors&#xD;
+      for thrombosis.&#xD;
+&#xD;
+      Randomization 1:1 - Group 1 will receive Apixaban 2.5mg twice daily vs. matching placebo&#xD;
+      (Group 2) for 30 days.&#xD;
+&#xD;
+      Primary Objective: To evaluate the clinical impact of a strategy of oral anticoagulation with&#xD;
+      apixaban comparing with placebo on the number of days alive and out of the hospital/emergency&#xD;
+      department (DAOH) through 30 days in outpatients with symptomatic SARS-CoV2 infection and&#xD;
+      risk factors for thrombosis.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 4, 2021</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of days alive and out of hospital or emergency department</measure>
+    <time_frame>In 30 days</time_frame>
+    <description>Number of days alive and out of hospital or emergency department through 30 days.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization due to bleeding</measure>
+    <time_frame>In 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalizations for cardiopulmonary causes</measure>
+    <time_frame>In 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause hospitalization</measure>
+    <time_frame>In 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause death</measure>
+    <time_frame>In 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days free of venous thromboembolism</measure>
+    <time_frame>In 30 days</time_frame>
+    <description>Venous thromboembolism (VTE) include deep venous thrombosis and pulmonary embolism.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major cardiovascular events (MACE)</measure>
+    <time_frame>In 30 days</time_frame>
+    <description>Major cardiovascular events (MACE) includes cardiovascular death, myocardial infarction (MI) and stroke.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Thrombosis</condition>
+  <arm_group>
+    <arm_group_label>Apixaban Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Apixaban 2.5 MG</intervention_name>
+    <description>Apixaban 2.5mg twice daily for 30 days</description>
+    <arm_group_label>Apixaban Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>placebo twice daily for 30 days</description>
+    <arm_group_label>Placebo Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Outpatients with symptomatic laboratory-proven diagnosis of COVID-19 (any exam that&#xD;
+             shows acute infection as positive PCR or IgM in a context of acute symptoms ≤ 10 days)&#xD;
+             AND&#xD;
+&#xD;
+          -  Negative pregnancy test for women in child bearing period AND&#xD;
+&#xD;
+          -  D-dimer level ≥ 2x ULN or&#xD;
+&#xD;
+          -  C-reactive protein (CRP) ≥ 10 mg/L or&#xD;
+&#xD;
+          -  At least two of the following risk factors:&#xD;
+&#xD;
+               -  d-dimer level ≥ULN&#xD;
+&#xD;
+               -  CRP ≥ULN&#xD;
+&#xD;
+               -  age ≥65,&#xD;
+&#xD;
+               -  diabetes,&#xD;
+&#xD;
+               -  chronic kidney disease stage 3&#xD;
+&#xD;
+               -  cardiopulmonary disease (for example, peripheral arterial disease, coronary&#xD;
+                  artery disease, heart failure, chronic obstructive pulmonary disease),&#xD;
+&#xD;
+               -  history of PE/DVT,&#xD;
+&#xD;
+               -  nursing home/SNF resident or severely restricted mobility&#xD;
+&#xD;
+               -  Body mass index ≥30 kg/m2.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age &lt; 18 years-old&#xD;
+&#xD;
+          -  Patients with indication for full anticoagulation during inclusion (for example,&#xD;
+             diagnosis of venous thromboembolism, atrial fibrillation, mechanical valve prosthesis)&#xD;
+&#xD;
+          -  Platelets &lt; 50,000 /mm3&#xD;
+&#xD;
+          -  Use of acetylsalicylic acid &gt; 100 mg per day&#xD;
+&#xD;
+          -  Use of P2Y12 inhibitor (clopidogrel, prasugrel, ticagrelor)&#xD;
+&#xD;
+          -  Chronic use of NSAIDs&#xD;
+&#xD;
+          -  Hypersensitivity to apixaban&#xD;
+&#xD;
+          -  Creatinine clearance &lt; 30 ml/min&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding&#xD;
+&#xD;
+          -  Patients contraindicated to anticoagulation (active bleeding, recent major surgery,&#xD;
+             blood dyscrasia or prohibitive hemorrhage risk as evaluated by the investigator)&#xD;
+&#xD;
+          -  A history of hemorrhagic stroke or any intracranial bleeding at any time in the past&#xD;
+             or current intracranial neoplasm (benign or malignant), cerebral metastases,&#xD;
+             arteriovenous (AV) malformation, or aneurysm&#xD;
+&#xD;
+          -  Use of strong inhibitors of cytochrome P450 (CYP) 3A4 and/or P-glycoprotein (P-gp)&#xD;
+             (e.g. protease inhibitors, ketoconazole, Itraconazole) and/or use of P-gp and strong&#xD;
+             CYP3A4 inducers (such as but not limited to rifampin/rifampicin, rifabutin,&#xD;
+             rifapentine, phenytoin, phenobarbital, carbamazepine, or St. John's Wort)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Renato D. Lopes, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>BCRI</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Renato D. Lopes, MD, PhD</last_name>
+    <phone>55 11 5904 7339</phone>
+    <email>renato.lopes@duke.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Maternidade São Vicente de Paulo</name>
+      <address>
+        <city>Barbalha</city>
+        <state>Ceará</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Meton Soares de Alencar Filho, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Israelita Albert Einstein</name>
+      <address>
+        <city>São Paulo</city>
+        <state>SP</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Remo Furtado, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitário São Francisco de Assis</name>
+      <address>
+        <city>Bragança Paulista</city>
+        <state>São Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Murillo Oliveira Antunes, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Santa Paula</name>
+      <address>
+        <city>São Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Otávio Celso Eluf Gebara, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 9, 2021</study_first_posted>
+  <last_update_submitted>March 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV2</keyword>
+  <keyword>Anticoagulation</keyword>
+  <keyword>Apixaban</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Thrombosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Apixaban</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All data provided during study is anonymized to respect the privacy of patients who have participated in the trial in line with applicable regulations.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

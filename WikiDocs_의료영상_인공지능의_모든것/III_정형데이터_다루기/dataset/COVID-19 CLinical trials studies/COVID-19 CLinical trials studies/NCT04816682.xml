@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1443">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04816682</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SIL-COVINT-21</org_study_id>
+    <nct_id>NCT04816682</nct_id>
+  </id_info>
+  <brief_title>Silymarin in COVID-19 Patients Admitted to Hospital With Elevated Liver Enzymes</brief_title>
+  <acronym>SILCOVINT-21</acronym>
+  <official_title>Does Silymarin Mitigate Clinical Course of COVID-19 in Patients Admitted to an Internal Medicine Ward With Elevated Liver Enzymes?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>F.D. Roosevelt Teaching Hospital with Policlinic Banska Bystrica</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>F.D. Roosevelt Teaching Hospital with Policlinic Banska Bystrica</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Of patients admitted to an internal medicine ward with internistic diagnosis/es together with&#xD;
+      COVID-19, substantial proportion has elevated liver enzymes. silymarin / silibinin (milk&#xD;
+      thistle extract) has been approved as an add-on therapy in various acute and chronic liver&#xD;
+      diseases; moreover, there is evidence to suggest that it's dual effect (anti-viral and&#xD;
+      immune-modulatory) might be of benefit in patients infected with SARS-CoV-2. As there is no&#xD;
+      effective/approved pharmacotherapy for COVID-19, a pilot study with Silymarine in&#xD;
+      hospitalised patients has been undertaken&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      According to the Bosch-Barrera et al. paper of 2021, silibinin in a daily dose of more than&#xD;
+      1000 mg could improve clinical course of COVID-19 by its dual action: 1.direct inhibition of&#xD;
+      SARS-CoV-2 replication as well as 2.modulation of innate immune response - 2a. its initial&#xD;
+      (hyper)inflammation as well as 2b. later reparative phase, respectively.&#xD;
+&#xD;
+      Moreover, the drug is known for its safety and has been approved and widely used in the&#xD;
+      region for liver diseases. Therefore, the investigation was set out to determine the efficacy&#xD;
+      of silymarin (compound closely related to Silibinin which is available in the region) in&#xD;
+      improving the outcome of a liver disease and of COVID-19, respectively.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 17, 2021</start_date>
+  <completion_date type="Anticipated">December 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Prospective open label study using historical cohort for propensity-match analysis</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Improvement in the COVID-19 stage of at least 1 point</measure>
+    <time_frame>During the hospital stay - up to around 21 days</time_frame>
+    <description>Evolution of COVID-19 will be recorded according to a WHO criteria and reported as worsening (including death) / no change / improvement</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Improvement in the activity of aminotranspherases</measure>
+    <time_frame>During the hospital stay - up to around 21 days</time_frame>
+    <description>Change in the level of ALT</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Improvement in the diabetes control</measure>
+    <time_frame>During the hospital stay - up to around 21 days</time_frame>
+    <description>Change in the glycemia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement in the blood inflammatory markers</measure>
+    <time_frame>During the hospital stay - up to around 21 days</time_frame>
+    <description>Change in C-reactive protein levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement in the dyspnea</measure>
+    <time_frame>During the hospital stay - up to around 21 days</time_frame>
+    <description>Improvement of at least one point in the NYHA classification</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement in the acute kidney injury</measure>
+    <time_frame>During the hospital stay - up to around 21 days</time_frame>
+    <description>Any improvement in the serum creatinine level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement in the blood inflammatory markers</measure>
+    <time_frame>During the hospital stay - up to around 21 days</time_frame>
+    <description>Improvement in the interleukin - 6 level</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Covid19</condition>
+  <condition>Liver Diseases</condition>
+  <arm_group>
+    <arm_group_label>LAGOSA ARM</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Consecutively admitted patients will be allocated silymarin tablets (150 mg each) T.I.D. 3-2-2</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Consecutive patients with the same inclusion/exclusion criteria as in active arm, hospitalised at the same department before the initiation of the study (historical controls)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Silymarin</intervention_name>
+    <description>Silymarine tablets will be provided irrespective of meal by a registered nurse T.I.D</description>
+    <arm_group_label>LAGOSA ARM</arm_group_label>
+    <other_name>LAGOSA</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  consecutive, adult, admitted to an internal medicine ward with internistic diagnosis,&#xD;
+             together with COVID-19, and elevated liver enzymes (any of AST, ALT, GGT, ALP),&#xD;
+             provided written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  too sick - terminal illness (no potential for recovery); critical condition on&#xD;
+             admission requiring immediate tracheal intubation; or any extra-pulmonary organ&#xD;
+             failure; completely vaccinated against COVID19.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lubomir SKLADANY, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Study Principal Investigator F.D.Roosevelt Teaching Hospital, Banska Bystrica, Slovakia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lubomir SKLADANY, MD, PhD</last_name>
+    <phone>+421905482997</phone>
+    <email>lubomir.skladany@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tomas Koller</last_name>
+    <phone>+421905118692</phone>
+    <email>koller.tomas@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>F.D.Roosevelt Teaching Hospital</name>
+      <address>
+        <city>Banska Bystrica</city>
+        <zip>97401</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lubomir Skladany, MD, PhD</last_name>
+      <phone>+421905482997</phone>
+      <email>lubomir.skladany@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Eva Hruba, MD</last_name>
+      <phone>+421908648048</phone>
+      <email>eva.hruba@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Janka Vnencakova, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Zuzana Drotarova, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Juraj Svac, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Zuzana Mesarosova, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Bratislava</name>
+      <address>
+        <city>Bratislava</city>
+        <zip>82101</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location_countries>
+    <country>Slovakia</country>
+  </location_countries>
+  <results_reference>
+    <citation>Bosch-Barrera J, Martin-Castillo B, Buxó M, Brunet J, Encinar JA, Menendez JA. Silibinin and SARS-CoV-2: Dual Targeting of Host Cytokine Storm and Virus Replication Machinery for Clinical Management of COVID-19 Patients. J Clin Med. 2020 Jun 7;9(6). pii: E1770. doi: 10.3390/jcm9061770.</citation>
+    <PMID>32517353</PMID>
+  </results_reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 25, 2021</study_first_posted>
+  <last_update_submitted>March 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>F.D. Roosevelt Teaching Hospital with Policlinic Banska Bystrica</investigator_affiliation>
+    <investigator_full_name>Ľubomír Skladaný MD, PhD</investigator_full_name>
+    <investigator_title>Head, Department of Internal Medicine and HEGITO Liver Unit, Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>In-hospital mortality</keyword>
+  <keyword>Internal medicine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Silymarin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Complete dataset will be shared on request under GDPR rules</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Dataset / protocol / ICF will be open for audit anytime Dataset will be shared after completion of upload</ipd_time_frame>
+    <ipd_access_criteria>Journal editors Investigators - by the hypothesis testable on the dataset Auditing authority</ipd_access_criteria>
+    <ipd_url>http://www.fnspfdr.sk</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

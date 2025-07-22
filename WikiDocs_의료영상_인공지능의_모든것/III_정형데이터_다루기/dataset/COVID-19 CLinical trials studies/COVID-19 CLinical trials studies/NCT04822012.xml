@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="124">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04822012</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0053-21-HMO</org_study_id>
+    <nct_id>NCT04822012</nct_id>
+  </id_info>
+  <brief_title>Anti COVID-19 Antibodies in Follicular Fluid and Spermatic Fluid</brief_title>
+  <official_title>Anti COVID-19 Antibodies in Spermatic Fluid and Follicular Fluid</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Meir Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Meir Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients going through an in vitro fertilization cycle will be asked to participate .&#xD;
+      Patients will be asked for their COVID-19 exposure : post confirmed disease/post vaccine/not&#xD;
+      exposed to disease or vaccine . Patients will provide the fluids which are not required ,&#xD;
+      once fertilization process is completed. Patients will also provide 5ml blood sample by the&#xD;
+      day of procedure. Anti COVID-19 immunoglobulin G type antibodies will be measured in all&#xD;
+      samples . Data regarding age, date of infection/vaccine will be collected . Progesterone and&#xD;
+      Estrogen will be measured in female patients' samples and Perlecan level will be measured in&#xD;
+      follicular fluid.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients going through an in vitro fertilization cycle will be asked to participate .&#xD;
+      Patients will be asked for their COVID-19 exposure : post confirmed disease/post vaccine/not&#xD;
+      exposed to disease or vaccine . Patients will provide the fluids which are not required in&#xD;
+      the day of egg retrieval : the follicular fluid remaining after isolation of the egg and&#xD;
+      spermatic fluid only, if not utilized for fertilization. The fluids will be collected once&#xD;
+      fertilization process is completed. Patients will also provide 5ml blood sample by the day of&#xD;
+      procedure. Anti COVID-19 immunoglobulin G type antibodies will be measured in all samples .&#xD;
+      Data regarding age, date of infection/vaccine will be collected as well as indication for&#xD;
+      treatment, Estradiol level before the egg retrieval, number of eggs collected and the&#xD;
+      triggering ovulation modality . Progesterone and Estrogen will be measured in female&#xD;
+      patients' samples (follicular fluid and serum). Perlecan level will be measured in follicular&#xD;
+      fluid.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2021</start_date>
+  <completion_date type="Anticipated">June 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Follicular - Serum Anti COVID-19 antibody (Immunoglobulin G) ratio</measure>
+    <time_frame>Through study completion, expected 2 months</time_frame>
+    <description>The relationship between antibodies to COVID-19 in serum to follicular fluid in female patients going through an egg retrieval</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Spermatic fluid- Serum Anti COVID-19 antibody (Immunoglobulin G) ratio</measure>
+    <time_frame>Through study completion, expected 2 months</time_frame>
+    <description>The relationship between antibodies to COVID-19 in serum to spermatic fluid in male patients going through in vitro fertilization treatment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Follicular fluid Estradiol level (pmol/L)</measure>
+    <time_frame>Through study completion, expected 2 months</time_frame>
+    <description>Quality assessment of follicular fluid as measured by Estradiol level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Follicular fluid Progesterone level (nmol/L)</measure>
+    <time_frame>Through study completion, expected 2 months</time_frame>
+    <description>Quality assessment of follicular fluid as measured by Progesterone level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Follicular fluid Perlecan level (nmol/L)</measure>
+    <time_frame>Through study completion, expected 2 months</time_frame>
+    <description>Quality assessment of follicular fluid as measured by Perlecan level</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>Female</arm_group_label>
+    <description>Female patients going through an egg retrival procedure and were identified as post COVID-19 vaccine/ post COVIS-19 infection or not post vaccine/post disease and screened negative for COVID-19 in the week prior to the procedure.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Male</arm_group_label>
+    <description>male patients going through an in vitro fertilization cycle and were identified as post COVID-19 vaccine/ post COVIS-19 infection or not post vaccine/post disease and screened negative for COVID-19 in the week prior to the procedure.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Anti COVID19 IgG Antibodies</intervention_name>
+    <description>Detection of antibodies to SARS Cov 19 post infection or vaccination , measurements of female hormones in folicular fluid as compared to serum and Perlecan as a follicular quality marker</description>
+    <arm_group_label>Female</arm_group_label>
+    <arm_group_label>Male</arm_group_label>
+    <other_name>Estrogen and Progesterone levels in serum and follicle</other_name>
+    <other_name>Follicular Perlecan level</other_name>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Follicular fluid post egg retreival and spermatic fluid post fertilization&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients going through an artificial reproductive procedure : females performing egg&#xD;
+        retrieval and males performing in vitro fertilization with their female partner. Each&#xD;
+        addressed separately for informed consent.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Planned egg retrieval procedure (including egg preservation)&#xD;
+&#xD;
+          -  Negative PCR for SARS-Cov-19 in the week before egg retrival&#xD;
+&#xD;
+          -  Informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Positive PCR for SARS-Cov-19 in the week before egg retrival&#xD;
+&#xD;
+          -  expected retrival of 1-3 eggs&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Daniela Hoffman</last_name>
+    <phone>+97226777242</phone>
+    <email>danielho@hadassah.org.il</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Meir Medical Center</name>
+      <address>
+        <city>Kfar Saba</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anat Hershko Klement, MD</last_name>
+      <phone>972549170084</phone>
+      <email>anat.klement@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <reference>
+    <citation>Batiha O, Al-Deeb T, Al-Zoubi E, Alsharu E. Impact of COVID-19 and other viruses on reproductive health. Andrologia. 2020 Oct;52(9):e13791. doi: 10.1111/and.13791. Epub 2020 Aug 13. Review.</citation>
+    <PMID>32790205</PMID>
+  </reference>
+  <reference>
+    <citation>Segars J, Katler Q, McQueen DB, Kotlyar A, Glenn T, Knight Z, Feinberg EC, Taylor HS, Toner JP, Kawwass JF; American Society for Reproductive Medicine Coronavirus/COVID-19 Task Force. Prior and novel coronaviruses, Coronavirus Disease 2019 (COVID-19), and human reproduction: what is known? Fertil Steril. 2020 Jun;113(6):1140-1149. doi: 10.1016/j.fertnstert.2020.04.025. Epub 2020 Apr 16.</citation>
+    <PMID>32482250</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2021</study_first_posted>
+  <last_update_submitted>March 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Meir Medical Center</investigator_affiliation>
+    <investigator_full_name>Anat Hershko Klement</investigator_full_name>
+    <investigator_title>Unit director</investigator_title>
+  </responsible_party>
+  <keyword>infertility; SARS-CoV-2,COVID-19</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Progesterone</mesh_term>
+    <mesh_term>Estrogens</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

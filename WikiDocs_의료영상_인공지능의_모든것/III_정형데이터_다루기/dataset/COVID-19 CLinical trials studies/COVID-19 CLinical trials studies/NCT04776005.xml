@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3437">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04776005</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20210204</org_study_id>
+    <nct_id>NCT04776005</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Vaccine Efficacy in Patients With Malignant Pathologies</brief_title>
+  <acronym>COVIDVAC OH</acronym>
+  <official_title>Multicenter, Observational Study of Anti-Sars-Cov2 Vaccine Efficacy in Patients With Malignant Pathologies Treated in the University Hospitals of AP-HP. Nord</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In the context of malignant disease, it is likely that vaccine efficacy and immunogenicity&#xD;
+      depends on the type of pathology, stage of the disease, immunosuppression induced by the&#xD;
+      treatments, in addition to more classic factors such as age, general condition and possibly&#xD;
+      the type of vaccine used.&#xD;
+&#xD;
+      There are very little data on the efficacy and immunogenicity of anti-severe acute&#xD;
+      respiratory syndrome coronavirus 2 (SARS-CoV-2) vaccines in patients with malignant disease&#xD;
+      in the active phase of treatment.&#xD;
+&#xD;
+      This multicenter observational study aims to assess the efficacy and the immunogenicity of&#xD;
+      anti-Sars-CoV-2 vaccines in the cohort of patients treated for malignant pathology (solid or&#xD;
+      hematological tumors) at Saint Louis Hospital and in thoracic oncology patients at Bichat&#xD;
+      Hospital.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      During the visit carried out as part of the follow-up, participation in this study will be&#xD;
+      proposed to any patient who is treated for a malignant disease (solid or hematological&#xD;
+      tumors) within the university hospitals of AP-HP.Nord.&#xD;
+&#xD;
+      The patients participating in this prospective cohort will benefit from all standard care&#xD;
+      his/her condition requires.&#xD;
+&#xD;
+      Clinical and biological data will be collected as part of the usual follow-up. Clinical data:&#xD;
+      pathology, stage, treatment line, type of current treatment and date of the last treatment&#xD;
+      administered, previous treatments, radiotherapy, concept of radiation lung disease, history&#xD;
+      of pneumonectomy, comorbidities, performance status, history of coronavirus disease 2019&#xD;
+      (COVID-19).&#xD;
+&#xD;
+      Laboratory data: pre-vaccination polynuclear neutrophil count, lymphocyte counts, plasma&#xD;
+      protein electrophoresis or Ig weight dosage (routine care in hematology), lactate&#xD;
+      dehydrogenase (LDH), C-reactive protein (CRP), albuminemia in the previous month.&#xD;
+&#xD;
+      Vaccination data: type of vaccine, date of the 1st injection, date of the 2nd injection,&#xD;
+      pre-vaccination antibody levels&#xD;
+&#xD;
+        -  Seroconversion with anti-S IgG after anti-Sars-CoV-2 vaccination&#xD;
+&#xD;
+        -  Anti-S and / or anti-N Sars-CoV-2 IgG seroprevalence before vaccination&#xD;
+&#xD;
+        -  Adverse effects related to vaccines&#xD;
+&#xD;
+        -  Levels of the anti-S IgG antibodies in AU / ml&#xD;
+&#xD;
+      During visits between D21 and D28 (before the 2nd injection), at month 3, month 6 and month&#xD;
+      12, the following data will be collected:&#xD;
+&#xD;
+        -  Antibody levels&#xD;
+&#xD;
+        -  Adverse effects related to vaccines&#xD;
+&#xD;
+        -  Levels of the anti-S IgG antibodies in AU / ml&#xD;
+&#xD;
+        -  Associated side effects&#xD;
+&#xD;
+        -  Occurrence of COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SARS-CoV-2 vaccine response at 12 months</measure>
+    <time_frame>12 months</time_frame>
+    <description>IgG anti-Sarc-CoV-2 S-protein titer at 12 months</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Seroprevalence of antibodies against Sarc-CoV-2 S-protein before vaccination</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Rate of patients presenting the anti Sarc-CoV-2 S-protein antibodies before vaccination in the study population.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seroprevalence of antibodies against Sarc-CoV-2 N-protein before vaccination</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Rate of patients presenting the anti Sarc-CoV-2 N-protein antibodies before vaccination in the study population.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 vaccine response after first dose of vaccine</measure>
+    <time_frame>Day 24 +/- 4 days</time_frame>
+    <description>IgG anti-Sarc-CoV-2 S-protein titer after the first injection of vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 vaccine response at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>IgG anti-Sarc-CoV-2 S-protein titer at 3 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 vaccine response at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>IgG anti-Sarc-CoV-2 S-protein titer at 6 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 vaccine safety in the study population</measure>
+    <time_frame>12 months</time_frame>
+    <description>Occurence of the adverse events related to the SARS-CoV-2 vaccine</description>
+  </secondary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Solid Tumor</condition>
+  <condition>Hematologic Malignancy</condition>
+  <condition>Thoracic Cancer</condition>
+  <condition>Cancer, Treatment-Related</condition>
+  <condition>Vaccine Response Impaired</condition>
+  <arm_group>
+    <arm_group_label>Patients with malignant disease undergoing chemotherapy</arm_group_label>
+    <description>Patients with malignant disease undergoing chemotherapy within the University Hospital Centre AP-HP.Nord, who have voluntarily agreed to be vaccinated with an approved vaccine against the Sars-CoV-2 virus.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients with malignant disease undergoing chemotherapy + immunotherapy</arm_group_label>
+    <description>Patients with malignant disease undergoing chemotherapy + immunotherapy within the University Hospital Centre AP-HP.Nord, who have voluntarily agreed to be vaccinated with an approved vaccine against the Sars-CoV-2 virus.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients with malignant disease undergoing immunotherapy</arm_group_label>
+    <description>Patients with malignant disease undergoing immunotherapy within the University Hospital Centre AP-HP.Nord, who have voluntarily agreed to be vaccinated with an approved vaccine against the Sars-CoV-2 virus.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients with malignant disease treated with targeted therapies</arm_group_label>
+    <description>Patients with malignant disease treated with targeted therapies within the University Hospital Centre AP-HP.Nord, who have voluntarily agreed to be vaccinated with an approved vaccine against the Sars-CoV-2 virus.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients with malignant disease undergoing radiotherapy</arm_group_label>
+    <description>Patients with malignant disease undergoing radiotherapy within the University Hospital Centre AP-HP.Nord, who have voluntarily agreed to be vaccinated with an approved vaccine against the Sars-CoV-2 virus.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Data collection</intervention_name>
+    <description>Assessment of the efficacy and immunogenicity of the anti-Sars-COv2 vaccines in patients treated for malignant pathology.</description>
+    <arm_group_label>Patients with malignant disease treated with targeted therapies</arm_group_label>
+    <arm_group_label>Patients with malignant disease undergoing chemotherapy</arm_group_label>
+    <arm_group_label>Patients with malignant disease undergoing chemotherapy + immunotherapy</arm_group_label>
+    <arm_group_label>Patients with malignant disease undergoing immunotherapy</arm_group_label>
+    <arm_group_label>Patients with malignant disease undergoing radiotherapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients who are treated for a malignant disease (solid or hematological tumors) within the&#xD;
+        CHU AP-HP.Nord and who are willing to get a SARS-CoV-2 vaccination.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with malignant disease undergoing treatment at Saint Louis Hospital or Bichat&#xD;
+             Hospital (for chest cancer)&#xD;
+&#xD;
+          -  with chemotherapy&#xD;
+&#xD;
+          -  with chemotherapy + Immunotherapy&#xD;
+&#xD;
+          -  with immunotherapy&#xD;
+&#xD;
+          -  with targeted therapies&#xD;
+&#xD;
+          -  with radiotherapy&#xD;
+&#xD;
+          -  in the event of radiation pneumonitis after radiotherapy for lung cancers&#xD;
+&#xD;
+          -  after pneumonectomy for lung cancer&#xD;
+&#xD;
+          -  Patient informed and having expressed their non-opposition to participating in this&#xD;
+             research&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient with a contraindication to Sars-Cov2 vaccination&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Luis TEIXEIRA, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Breast Disease Unit, Saint-Louis Hospital, APHP, Université de Paris, INSERM U976</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Luis TEIXEIRA, MD, PhD</last_name>
+    <phone>+33 142499613</phone>
+    <email>luis.teixeira@aphp.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Saint-Louis Hospital, AP-HP</name>
+      <address>
+        <city>Paris</city>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Luis TEIXEIRA, MD, PhD</last_name>
+      <phone>+33 142499613</phone>
+      <email>luis.teixeira@aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bichat Hospital, AP-HP</name>
+      <address>
+        <city>Paris</city>
+        <zip>75018</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Gérard ZALCMAN, MD, PhD</last_name>
+      <email>gerard.zalcman@aphp.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 1, 2021</study_first_posted>
+  <last_update_submitted>March 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Malignant pathology</keyword>
+  <keyword>Hematologic malignancy</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Vaccine</keyword>
+  <keyword>Sars-CoV-2 antibody</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Hematologic Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Second Primary</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

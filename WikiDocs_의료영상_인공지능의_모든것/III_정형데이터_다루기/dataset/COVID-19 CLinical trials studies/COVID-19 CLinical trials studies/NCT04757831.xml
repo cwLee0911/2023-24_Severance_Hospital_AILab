@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1369">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04757831</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00107647</org_study_id>
+    <nct_id>NCT04757831</nct_id>
+  </id_info>
+  <brief_title>Coronavirus-19 (COVID-19) and Related Outcomes in School Aged Children (ABC Health Outcomes in Children)</brief_title>
+  <official_title>A Prospective Study of COVID-19 and Related Outcomes in School Aged Children (ABC Health Outcomes in Children)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective, observational study with a primary objective of determining the&#xD;
+      incidence of non-severe and severe COVID-19, including MIS-C, among eligible children who are&#xD;
+      diagnosed with COVID-19 and consent (or assent) to collection of data on risk factors using a&#xD;
+      unique direct-to-participant, direct-to-family, and direct-to-community approach. Secondary&#xD;
+      and exploratory objectives include risk factors of severe disease and quality of life (QoL).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 15, 2021</start_date>
+  <completion_date type="Anticipated">February 15, 2026</completion_date>
+  <primary_completion_date type="Anticipated">February 15, 2026</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Describe the incidence of non-severe and severe COVID-19, including Multisystem Inflammatory Syndrome in Children (MIS-C).</measure>
+    <time_frame>90 days</time_frame>
+    <description>Number of participants who report non-severe or severe COVID-19 disease (defined as a hospitalization event, severe neurological dysfunction, occurrence of MIS-C, or death within 90 days of infection with SARS-CoV-2), reported as a proportion (%) of the total number of participants enrolled in the study who develop non-severe and severe COVID-19 from the time of study initiation to the end of study.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Describe risk factors of non-severe and severe COVID-19.</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Demographic variables (e.g. English proficiency, internet access, school district, age, race)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Describe risk factors of non-severe and severe COVID-19.</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>COVID-19-related symptoms (e.g. cough, fever, shortness of breath, headache, loss of smell)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Describe risk factors of non-severe and severe COVID-19.</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Type of COVID-19 exposure (e.g. household, school-related, travel, other, unknown)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterize outcomes associated with COVID-19 in children.</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Incidence of subsequent exposures to COVID-19 from baseline to the end of study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterize outcomes associated with COVID-19 in children.</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Incidence of ongoing COVID-19 symptoms from baseline to the end of study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterize outcomes associated with COVID-19 in children.</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Duration of ongoing COVID-19 symptoms from baseline to the end of study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterize outcomes associated with COVID-19 in children.</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Incidence of hospitalizations from baseline to the end of study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterize outcomes associated with COVID-19 in children.</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Duration of hospitalizations from baseline to the end of study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterize outcomes associated with COVID-19 in children.</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Incidence of neurologic complications from baseline to the end of study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterize outcomes associated with COVID-19 in children.</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Duration of neurologic complications from baseline to the end of study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterize outcomes associated with COVID-19 in children.</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Incidence of COVID-19 vaccination from baseline to the end of study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Describe characteristics of participants who attend in-person versus virtual classes.</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Baseline demographics of those who attend in-person classes compared to those who do not.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Describe the duration of in-person school attendance.</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Average in-person attendance from the first day of school to the last day of school among participants compared to the national average during each school year.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1000000</enrollment>
+  <condition>Covid19; MIS-C</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants ≤ 21 years of age who have a COVID-19 diagnosis.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participant is ≤ 21 years of age at time of enrollment&#xD;
+&#xD;
+          -  Participant or their parent/guardian has downloaded the &quot;ABC Science&quot; App from the App&#xD;
+             store as a part of the ABC Science Collaborative (Pro00107785) and has agreed to the&#xD;
+             App's Terms of Use&#xD;
+&#xD;
+          -  Participant has a positive COVID-19 diagnosis, defined as one or more of the&#xD;
+             following:&#xD;
+&#xD;
+               1. A positive COVID-19 test; or&#xD;
+&#xD;
+               2. Clinical diagnosis of COVID-19 based on symptoms, as documented by a medical&#xD;
+                  provider, in the absence of a positive influenza test; or&#xD;
+&#xD;
+               3. Retrograde diagnosis based on presence of COVID-19 antibodies&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  N/A&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kanecia Zimmerman, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Helen Bristow, MPH</last_name>
+    <phone>919-668-3687</phone>
+    <email>abcscienceregistry@duke.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tara Mann, PhD, RN</last_name>
+    <email>abcscienceregistry@duke.edu</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://abcsciencecollaborative.org/</url>
+    <description>This study is a part of the ABC Science Collaborative.</description>
+  </link>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 17, 2021</study_first_posted>
+  <last_update_submitted>March 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

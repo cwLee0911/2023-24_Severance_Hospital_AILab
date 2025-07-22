@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2184">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04750278</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FP02C-20-001</org_study_id>
+    <nct_id>NCT04750278</nct_id>
+  </id_info>
+  <brief_title>A Phase 2/3, Randomized, Double Blind, Placebo Controlled, Multicenter Study to Evaluate the Efficacy and Safety of FP-025 in Patients With Severe to Critical COVID 19 With Associated Acute Respiratory Distress Syndrome (ARDS)</brief_title>
+  <official_title>A Phase 2/3, Randomized, Double Blind, Placebo Controlled, Multicenter Study to Evaluate the Efficacy and Safety of FP-025 in Patients With Severe to Critical COVID 19 With Associated Acute Respiratory Distress Syndrome (ARDS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Foresee Pharmaceuticals Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Foresee Pharmaceuticals Co., Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 2/3, randomized, double blind, placebo controlled, multicenter study to&#xD;
+      evaluate the efficacy and safety of FP-025 in adult patients with severe to critical COVID 19&#xD;
+      with associated ARDS.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">August 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The proportion of patients alive and not requiring non-invasive or invasive ventilation</measure>
+    <time_frame>Day 28</time_frame>
+    <description>(ie, not receiving high flow nasal cannula, non-invasive positive pressure ventilation, invasive mechanical ventilation, or ECMO)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients on invasive mechanical ventilation</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients alive</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients alive and not requiring non-invasive or invasive ventilation</measure>
+    <time_frame>Day 60</time_frame>
+    <description>(ie, not receiving high flow nasal cannula, non-invasive positive pressure ventilation, invasive mechanical ventilation, or ECMO)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients on invasive mechanical ventilation</measure>
+    <time_frame>Day 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients alive</measure>
+    <time_frame>Day 60</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Quantitative assessment of lung fibrosis using high resolution, non contrast CT scan;</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of patients who were randomized on invasive mechanical ventilation who are free of invasive mechanical ventilation</measure>
+    <time_frame>Day 28 and at Day 60</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of ventilator free days (ie, days free of invasive mechanical ventilation)</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of ICU free days</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of days in the hospital</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in peripheral capillary oxygen saturation (SpO2)</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in arterial oxygen partial pressure (PaO2)/fractional inspired oxygen (FiO2) ratio</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of patients alive and not hospitalized</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of patients with disease progression</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+    <description>(defined as a ≥ 2 point decrease in the NIAID 8 point ordinal scale score or death)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of patients who improve by ≥ 2 points on the NIAID 8 point ordinal scale scores</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pulmonary function at Day 28 (if possible based on the patient's clinical condition per the judgment of the Investigator) and at Day 60 (all patients)</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+    <description>Measured by Forced expiratory volume in 1 second (FEV1) /Forced vital capacity (FVC)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in eGFR</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in blood urea nitrogen</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in serum creatinine</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in HRQoL as measured by the EQ 5D 5L</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">403</enrollment>
+  <condition>Severe to Critical Coronavirus (CoV) Disease 2019 (COVID 19) With Associated Acute Respiratory Distress Syndrome (ARDS)</condition>
+  <arm_group>
+    <arm_group_label>FP-025 100 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FP-025 300 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>FP-025 100 mg</intervention_name>
+    <description>FP-025 100 mg BID</description>
+    <arm_group_label>FP-025 100 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>FP-025 300 mg</intervention_name>
+    <description>FP-025 300 mg BID</description>
+    <arm_group_label>FP-025 300 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo BID</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Is willing to provide informed consent (or has a legally authorized representative&#xD;
+             [LAR] willing to provide informed consent) and is willing and able (or has an LAR&#xD;
+             willing and able) to comply with the protocol required therapy, monitoring, and&#xD;
+             follow-up;&#xD;
+&#xD;
+          2. Is a male or female aged ≥ 18 years;&#xD;
+&#xD;
+          3. Has a COVID-19 diagnosis confirmed by a documented, positive severe acute respiratory&#xD;
+             syndrome (SARS) CoV-2 reverse transcriptase polymerase chain reaction test (or&#xD;
+             equivalent test) immediately prior to or during the current hospitalization;&#xD;
+&#xD;
+          4. Is hospitalized with severe to critical COVID 19 within a 72-hour period prior to the&#xD;
+             Screening Visit and meeting the following characteristics:&#xD;
+&#xD;
+               -  Diagnosed with ARDS based on the Berlin criteria as follows:&#xD;
+&#xD;
+                    -  Respiratory symptoms developed within 1 week of a known clinical insult or&#xD;
+                       new or worsening respiratory symptoms developed during the past week;&#xD;
+&#xD;
+                    -  Chest radiograph or computed tomography scan shows bilateral opacities not&#xD;
+                       fully explained by pleural effusions, lobar or lung collapse, or pulmonary&#xD;
+                       nodules; and&#xD;
+&#xD;
+                    -  Respiratory failure is not fully explained by cardiac failure or fluid&#xD;
+                       overload; and&#xD;
+&#xD;
+               -  Requiring at least 1 of the following:&#xD;
+&#xD;
+                    -  Endotracheal intubation and mechanical ventilation;&#xD;
+&#xD;
+                    -  Oxygen delivered by high flow nasal cannula (heated, humidified oxygen&#xD;
+                       delivered via reinforced nasal cannula at flow rates &gt; 20 L/minute with a&#xD;
+                       fraction of delivered oxygen ≥ 0.5);&#xD;
+&#xD;
+                    -  Non invasive positive pressure ventilation; or&#xD;
+&#xD;
+                    -  Clinical diagnosis of respiratory failure (ie, the clinical need for 1 of&#xD;
+                       the preceding therapies, but preceding therapies are unable to be&#xD;
+                       administered in the setting of resource limitations);&#xD;
+&#xD;
+          5. If female, is post-menopausal for at least 1 year, surgically sterile (documented by&#xD;
+             medical record), or a woman of childbearing potential (WCBP) who agrees to use a&#xD;
+             highly effective method of birth control (ie, method with a failure rate &lt; 1% per&#xD;
+             year) from enrollment until 30 days following the last dose of study drug. Highly&#xD;
+             effective methods of birth control are defined as follows: complete sexual abstinence,&#xD;
+             intrauterine device, intrauterine hormone-releasing system, progestogen-only hormonal&#xD;
+             contraception (implant, injectable, or oral), and combined (estrogen and progestogen)&#xD;
+             contraception (oral, intravaginal, or transdermal);&#xD;
+&#xD;
+          6. If a WCBP, must have a negative serum human chorionic gonadotropin pregnancy test at&#xD;
+             the Screening Visit, and must agree to monthly urine pregnancy tests during the study;&#xD;
+             and&#xD;
+&#xD;
+          7. If male, must be surgically sterile for at least 1 year prior to the Screening Visit&#xD;
+             (documented by medical record), or must agree to use a double barrier approach (eg,&#xD;
+             condoms with spermicide) during sexual intercourse between the Screening Visit and at&#xD;
+             least 90 days after administration of the last dose of study drug. Male patients must&#xD;
+             ensure that non pregnant female partners of childbearing potential comply with the&#xD;
+             contraception requirements in Inclusion Criterion 5.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Is not expected to survive more than 24 hours;&#xD;
+&#xD;
+          2. Is on extracorporeal membrane oxygenation (ECMO) at the Screening Visit;&#xD;
+&#xD;
+          3. Has an underlying clinical condition where, in the opinion of the Investigator, it&#xD;
+             would be extremely unlikely that the patient would come off ventilation (eg, motor&#xD;
+             neuron disease, Duchenne muscular dystrophy, or rapidly progressive pulmonary&#xD;
+             fibrosis);&#xD;
+&#xD;
+          4. Has a known history of idiopathic pulmonary fibrosis or interstitial lung disease as&#xD;
+             defined by the American Thoracic Society 2018 guidelines;&#xD;
+&#xD;
+          5. Has known active tuberculosis (TB), a history of incompletely treated TB, and/or&#xD;
+             suspected or known extrapulmonary TB;&#xD;
+&#xD;
+          6. Has Child Pugh Class B or C active liver disease or an alanine aminotransferase or&#xD;
+             aspartate aminotransferase level &gt; 4 x the upper limit of normal at the Screening&#xD;
+             Visit;&#xD;
+&#xD;
+          7. Has moderate to severe renal insufficiency, defined as an estimated glomerular&#xD;
+             filtration rate (eGFR) ≤ 30 mL/min/1.73 m2, at the Screening Visit or requires&#xD;
+             hemodialysis;&#xD;
+&#xD;
+          8. Has a malignant tumor (excluding a malignant tumor cured with no recurrence in the&#xD;
+             past 5 years, completely resected basal cell and squamous cell carcinoma of skin,&#xD;
+             and/or completely resected carcinoma in situ of any type);&#xD;
+&#xD;
+          9. Has an uncontrolled systemic or local autoimmune or inflammatory disease besides COVID&#xD;
+             19;&#xD;
+&#xD;
+         10. Has evidence of an active concurrent non COVID 19 pneumonia (requiring additional&#xD;
+             antimicrobial treatment) caused by a known or suspected bacterial pathogen,&#xD;
+             respiratory syncytial virus (RSV), influenza virus, SARS CoV 1, Middle East&#xD;
+             respiratory syndrome CoV, aspergillus, mucormycosis causing fungi, or other pulmonary&#xD;
+             pathogen(s);&#xD;
+&#xD;
+             Note: A viral respiratory panel will be administered at the Screening Visit to&#xD;
+             determine eligibility. At a minimum, the panel will evaluate for RSV, influenza A, and&#xD;
+             influenza B.&#xD;
+&#xD;
+         11. Has received any other investigational therapeutic products within 4 weeks or 5&#xD;
+             half-lives, whichever is longer, prior to randomization;&#xD;
+&#xD;
+         12. Has a known history of human immunodeficiency virus (HIV), hepatitis B, or hepatitis C&#xD;
+             infection;&#xD;
+&#xD;
+         13. Has a known serious allergic reaction or hypersensitivity to any components of FP-025;&#xD;
+&#xD;
+         14. Is pregnant or breastfeeding;&#xD;
+&#xD;
+         15. Has a history of drug or alcohol abuse within the past 2 years;&#xD;
+&#xD;
+         16. Is currently on another systemic immunomodulatory therapy that is not considered&#xD;
+             standard of care treatment for COVID 19 (eg, calcineurin inhibitor,&#xD;
+             hydroxychloroquine, anti cytokine therapy, or Janus kinase inhibitor); or Note:&#xD;
+             Corticosteroids, including dexamethasone, in doses used for standard of care treatment&#xD;
+             for COVID 19 are allowed.&#xD;
+&#xD;
+             Note: Corticosteroids that are being used for other indications are also allowed as&#xD;
+             long as the daily prednisone (or other corticosteroid equivalent) dose is ≤ 10 mg.&#xD;
+             Inhaled corticosteroids and nasal corticosteroids are also acceptable.&#xD;
+&#xD;
+             Note: As therapies for COVID-19 are rapidly evolving, other medications that may be&#xD;
+             considered standard of care can be considered with prior approval from the Sponsor or&#xD;
+             Medical Monitor.&#xD;
+&#xD;
+         17. Has any other condition that, in the opinion of the Investigator, could interfere with&#xD;
+             (or for which the treatment might interfere with) the conduct of the study or&#xD;
+             interpretation of the study results or that would place the patient at undue risk by&#xD;
+             participating in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 11, 2021</study_first_posted>
+  <last_update_submitted>February 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

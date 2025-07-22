@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1417">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04844242</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020 034</org_study_id>
+    <nct_id>NCT04844242</nct_id>
+  </id_info>
+  <brief_title>A Cross Sectional Study of the Systems Immunology and Viral Diversity of SARS-CoV2 Infection, COVID-19 Disease and Multisystem Inflammatory Syndrome in Children</brief_title>
+  <acronym>MISC-COVID</acronym>
+  <official_title>A Cross Sectional Study of the Systems Immunology and Viral Diversity of SARS-CoV2 Infection, COVID-19 Disease and Multisystem Inflammatory Syndrome in Children</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tuberculosis Research Centre, India</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Tuberculosis Research Centre, India</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Rationale: Severe Acute Respiratory Syndrome - Coronavirus - 2 (SARS-CoV2) and its related&#xD;
+      Coronavirus Disease - 19 (COVID-19) has become a health emergency worldwide. The medical&#xD;
+      community has been concerned since the beginning of the outbreak about the potential impact&#xD;
+      of COVID-19 in children, especially in those with underlying chronic diseases. Fortunately,&#xD;
+      COVID-19 has been reported to be less severe in children than in adults. Unfortunately, a new&#xD;
+      multisystem inflammatory syndrome apparently related to infection with SARS-CoV-2 has&#xD;
+      recently been reported in older children (known as MIS-C), manifested by severe abdominal&#xD;
+      pain, cardiac dysfunction and shock. However, the SARS-CoV2 infection and the underlying&#xD;
+      immunology of COVID-19, its correlation with disease severity and MIS-C in children is not&#xD;
+      fully explored.&#xD;
+&#xD;
+      Objectives: To perform systems immunology and strain diversity among SARS-CoV2 and MIS-C&#xD;
+      infected children.&#xD;
+&#xD;
+      Study design: Cross sectional study. Study population: Children attending outpatients units&#xD;
+      and admitted in wards in pediatric hospitals in Chennai.&#xD;
+&#xD;
+      Main study parameters/endpoints: Immune responses in children with SARS-CoV2 infection and&#xD;
+      multisystem inflammatory syndrome in children (MIS-C) infection and its association of&#xD;
+      SARS-CoV2 viral diversity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Scientific Background:&#xD;
+&#xD;
+      COVID-19 is a global health crisis. The clinical characteristics, disease progression and&#xD;
+      outcome in children and young adults appear significantly milder compared to older&#xD;
+      individuals. Since first being reported in Wuhan, China in December 2019, COVID-19 has&#xD;
+      rapidly spread, affecting over 200 countries worldwide. Children account for 1-5% of&#xD;
+      diagnosed COVID-19 cases (1); although, many infected children may be asymptomatic and&#xD;
+      therefore not diagnosed without population screening. Most infected children are likely to be&#xD;
+      secondary cases and acquire the infection after exposure to a COVID-19 positive adult,&#xD;
+      although there are no longitudinal data to confirm this yet. Intra-family transmission may be&#xD;
+      important (2) since, an unquantified proportion of children with COVID-19 areasymptomatic and&#xD;
+      may contribute to transmission. Multiple reports have demonstrated that children and young&#xD;
+      adults have a milder form of the disease compared to adults (10). Asymptomatic, mild and&#xD;
+      moderate infections comprise over 90% of all children who have tested positive for COVID-19&#xD;
+      with fewer severe and critical cases (5.9%) compared to adults (18.5%) (10). Given that&#xD;
+      severe COVID-19 appears very rare in children, an important part of this assessment is&#xD;
+      ascertaining whether a positive RT-PCR for SARS-CoV-2 is a clinically important factor in&#xD;
+      explaining the child's condition, or whether more occult pathology may be responsible.&#xD;
+&#xD;
+      When the COVID-19 pandemic was first reported in Asia and initially spread throughout the&#xD;
+      globe, pediatricians were grateful that children seemed to be only mildly symptomatic with&#xD;
+      the infection in most cases. Then, an alarming warning came from the National Health Service&#xD;
+      in England in April 2020 about cases of older school-aged children and adolescents presenting&#xD;
+      with fever, hypotension, severe abdominal pain and cardiac dysfunction who tested positive&#xD;
+      for SARS-CoV-2 infection either by nasopharyngeal RT-PCR assay or by antibody testing. These&#xD;
+      children had laboratory findings of cytokine storm, including high serum IL-6 levels, and&#xD;
+      generally required inotropic support to increase cardiac output with rare need for&#xD;
+      extracorporeal membrane oxygenation. Almost all of these children no longer required&#xD;
+      intensive care after only a few days and completely recovered, although rare deaths resulted&#xD;
+      from complications of extracorporeal membrane oxygenation (3). Case series of children&#xD;
+      presenting with this condition have now been reported from the UK (4), Italy (5), Spain (6),&#xD;
+      France and Switzerland (7), and the United States (8). The Centers for Disease Control and&#xD;
+      Prevention (CDC) has developed a case definition for use in the United States and has termed&#xD;
+      the condition multisystem inflammatory syndrome in children (MIS-C). If MIS-C is indeed&#xD;
+      related to infection with SARS-CoV-2, the pathophysiological mechanism of disease is unclear&#xD;
+      (3).&#xD;
+&#xD;
+      Very few studies have addressed the immune responses to SARS-CoV2 (either humoral or cell&#xD;
+      mediated immunity) in children (16). It is therefore necessary to study the immune responses&#xD;
+      in asymptomatic infections, prior infections and MIS-C to understand the pathogenesis of the&#xD;
+      disease.&#xD;
+&#xD;
+      Whole-genome sequencing of pathogens, especially viruses, is a powerful tool to generate&#xD;
+      rapid information on outbreaks, resulting in effective understanding of the introduction of&#xD;
+      the infection, dynamics of transmission, and impact of informed outbreak control decisions&#xD;
+      (12-14). In- deed, genomic data can be used to identify pathogen genes interacting with the&#xD;
+      host and allows characterisation of the more evolutionary constrained regions of a pathogen&#xD;
+      genome, which should be preferentially targeted to avoid rapid drug and vaccine escape&#xD;
+      mutants. (1). As the SARS-CoV-2 virus races around the world across the different population,&#xD;
+      there needs to be a consolidated effort to understand the divergence of demographically&#xD;
+      distributed strains. Since the transmission of SARS-CoV-2 is subject to the extent of human&#xD;
+      interaction, the insights from the correlation of genetic diversity would give vital&#xD;
+      information to tackle this transmission (11).&#xD;
+&#xD;
+      Recent published studies have reported that when comparing the 305 Indian SARS-CoV-2 genomes,&#xD;
+      a number of nucleotide variants or segregating sites being identified (15). Recent literature&#xD;
+      report that there is the presence of multiple lineages of SARS-CoV-2 in India in different&#xD;
+      geographic regions. 20A and 20B together (belonging to the former haplotype of A2a) are the&#xD;
+      predominant haplotypes at pan India level and in each region. Interestingly, the haplotypes&#xD;
+      were differentially distributed in different regions. While the 20A were most abundant in&#xD;
+      Northern and Eastern India, 20B was found to be the most abundant haplotype in Western and&#xD;
+      Southern India. The ancestral haplotypes of 19A and 19B were mostly found in Northern and&#xD;
+      Eastern India, with 19B being the most abundant in the latter region. While multiple&#xD;
+      haplotypes were introduced during the early part of the outbreak in March-May 2020, the 20A,&#xD;
+      B and C haplotypes (A2a) became the predominant haplotypes in all regions by June 2020 (17).&#xD;
+      However, there are no studies that have characterised the viral diversity in this pediatric&#xD;
+      population and its association with immunological response and disease severity, in&#xD;
+      SARS-CoV-2 infected children.&#xD;
+&#xD;
+      Study objectives:&#xD;
+&#xD;
+        -  To perform systems immunology of SARS-CoV2 infection, COVID-19 disease and MIS-C in&#xD;
+           children&#xD;
+&#xD;
+        -  To identify the SARS-CoV2 viral diversity in the pediatric population and correlate with&#xD;
+           immune responses and disease severity.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 23, 2020</start_date>
+  <completion_date type="Anticipated">June 22, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 22, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Characterization of immune responses</measure>
+    <time_frame>6 months</time_frame>
+    <description>Immune responses in children with SARS-CoV2 infection and multisystem inflammatory syndrome in children (MIS-C) infection and its association of SARS-CoV2 viral diversity</description>
+  </primary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>SARS-CoV2 Infection</condition>
+  <condition>Multisystem Inflammatory Syndrome in Children</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <description>Prior SARS-CoV2 infection as defined by being positive for IgG</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <description>COVID-19 disease as defined as children positive by RT-PCR</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3</arm_group_label>
+    <description>Children with MIS-C according to the WHO or CDC criteria</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4</arm_group_label>
+    <description>Control children who are negative for both RT-PCR and antibody</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood, nasopharyngeal swab&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Children attending outpatient clinics and admitted in the wards of Institute Of Child&#xD;
+        Health and Hospital for Children, Rainbow Childrens Hospital and Dr. Mehta's Childrens&#xD;
+        Hospitals, Chennai.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Children between 1 to 15 years of age&#xD;
+&#xD;
+          -  Willing to provide informed consent (parents)/assent&#xD;
+&#xD;
+          -  For Group 1 - Positive or Negative for COVID-19 by RT-PCR but positive for SARS-CoV2&#xD;
+             IgG&#xD;
+&#xD;
+          -  For Group 2 - Positive for COVID-19 by RT-PCR but negative for SARS-CoV2 IgG&#xD;
+&#xD;
+          -  For Group 3 - Positive for COVID-19 by RT-PCR or positive for SARS-CoV2 IgG antibody&#xD;
+&#xD;
+          -  For Group 4 - Control children who are negative for both RT-PCR and IgG antibody&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severely immunocompromised or anemic (WHO criteria in children) or malnourished&#xD;
+&#xD;
+          -  History of any illness or condition which, in the investigator's judgment, may&#xD;
+             substantially increase the risk associated with the participant's participation in the&#xD;
+             protocol, or compromise the scientific objectives&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>15 Years</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>PAVAN KUMAR, PhD</last_name>
+    <phone>9940292543</phone>
+    <email>pavankumarn@nirt.res.in</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Tuberculosis Research Centre</name>
+      <address>
+        <city>Chennai</city>
+        <state>Tamilnadu</state>
+        <zip>600031</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Subash Babu, MBBS, PhD</last_name>
+      <phone>91-44-28369711</phone>
+      <email>sbabu@nirt.res.in</email>
+    </contact>
+    <investigator>
+      <last_name>Subash Babu, MBBS, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>India</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

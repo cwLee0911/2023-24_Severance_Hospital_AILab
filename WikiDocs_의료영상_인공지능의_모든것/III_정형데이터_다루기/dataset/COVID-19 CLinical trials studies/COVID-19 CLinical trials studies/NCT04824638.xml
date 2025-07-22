@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1952">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04824638</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ANRS0002S</org_study_id>
+    <nct_id>NCT04824638</nct_id>
+  </id_info>
+  <brief_title>BNT162b2 Vaccination With Two Doses in COVID-19 Negative Adult Volunteers and With a Single Dose in COVID-19 Positive Adult Volunteers</brief_title>
+  <acronym>CoviCompareP</acronym>
+  <official_title>A Phase II Trial Assessing Immunogenicity and Safety of COVID-19 mRNA Vaccine BNT162b2 in Adult Volunteers With no History of SARS-CoV-2 Infection Administered With Two Doses of Vaccine (D1-D29) and in Adult Volunteers With Documented History of SARS-CoV-2 Infection (of More Than 6 Months) Administered With Only One Dose of Vaccine</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ANRS, Emerging Infectious Diseases</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Institut National de la Santé Et de la Recherche Médicale, France</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>ANRS, Emerging Infectious Diseases</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      As previously shown, individuals who experienced COVID-19 have developed some protective&#xD;
+      immunity to reinfection. The magnitude and duration of protection from reinfection conferred&#xD;
+      by the infection may be weaker after an asymptomatic infection as it is after a symptomatic&#xD;
+      COVID-19 episode. Moreover, it is known that immunity decreases among older adults compared&#xD;
+      to younger individuals often referred to as ''immune senescence,'' and leading to a decreased&#xD;
+      efficacy of vaccination.&#xD;
+&#xD;
+      This study raises the question of whether a single administration of BNT162b2 in participants&#xD;
+      with prior SARS-CoV-2 infection leads to sufficient and durable immune response.&#xD;
+&#xD;
+      We propose to evaluate the level of the single BNT162b2 vaccine dose response according to&#xD;
+      the severity of the previous SARS-CoV-2 infection in young and elderly participants with the&#xD;
+      same immunogenicity analyses to assess this response in participants receiving the two-dose&#xD;
+      vaccination regimen.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a national open phase II trial, assessing the immunogenicity and safety of vaccine&#xD;
+      candidate Pfizer - BNT162b2 against SARS-CoV-2 in participants with no history of SARS-CoV-2&#xD;
+      infection receiving two doses of vaccine and in participants with history SARS-CoV-2&#xD;
+      infection of more than 6 months and receiving only one dose of vaccine.&#xD;
+&#xD;
+      A total of 300 volunteers will be included and vaccinated in 2 groups:&#xD;
+&#xD;
+      Group 1: Adults with no history of COVID 19 (N=150)&#xD;
+&#xD;
+        -  Sub-group 1A: 18 - 45 years old: 50 volunteers&#xD;
+&#xD;
+        -  Sub-group 1B: 65 - 74 years old: 50 volunteers* (minimum of 45)&#xD;
+&#xD;
+        -  Sub-group 1C: At least 75 years old: 50 volunteers* (minimum of 45)&#xD;
+&#xD;
+      Group 2: Adults with history of COVID 19 of more than 6 months (N=150)&#xD;
+&#xD;
+        -  Sub-group 2A: 18 - 45 years old: 50 volunteers&#xD;
+&#xD;
+        -  Sub-group 2B: 65 - 74 years old: 50 volunteers* (minimum of 45)&#xD;
+&#xD;
+        -  Sub-group 2C: At least 75 years old: 50 volunteers* (minimum of 45)&#xD;
+&#xD;
+      Within each subgroup of the group 2, a distribution will be respected including:&#xD;
+&#xD;
+        -  1/3 volunteers with asymptomatic COVID-19 infection,&#xD;
+&#xD;
+        -  1/3 volunteers with mild COVID-19 infection (symptomatic but not hospitalized) and&#xD;
+&#xD;
+        -  1/3 volunteers with severe COVID-19 infection (hospitalization required).&#xD;
+&#xD;
+      Participants within the group 1 will receive BNT162b2 (Comirnaty®) intramuscularly as a&#xD;
+      2-dose series spaced 28 days apart at a dose of 30 µg each.&#xD;
+&#xD;
+      Participants within the group 2 will receive BNT162b2 intramuscularly as a single dose of 30&#xD;
+      µg.&#xD;
+&#xD;
+      Analyses of humorale and saliva immune responses will be performed in differents centralized&#xD;
+      laboratories blinded for the trial group, by ELISA at Day -6/D0 (pre-vaccination sample),&#xD;
+      D29, D57, M6, M12, and M24.&#xD;
+&#xD;
+      T and B cell analyses will be performed in a sub-group of participants Immunosenescence will&#xD;
+      be analysed in pre-vaccination samples.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 8, 2021</start_date>
+  <completion_date type="Anticipated">December 8, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 8, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants of group 1 will receive two administrations of BNT162b2 at D1 and D29 Participants of group 2 will receive one administration of BNT162b2 at D1 and D29</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>IgG humoral response to vaccine 28 days post vaccination</measure>
+    <time_frame>at Day 57 for patients of the group1 and at Day 29 for patient of the group 2</time_frame>
+    <description>Anti SARS-CoV-2 Spike IgG (ELISA test) 28 days after the last injection i.e. at Day 57 in adult volunteers receiving 2 vaccine doses (group 1, without documented history of SARS-CoV-2 infection) and at Day 29 in adult volunteers receiving 1 vaccine dose (group 2, with documented history of SARS-CoV-2 infection).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>humoral response to vaccine</measure>
+    <time_frame>Day 1, Day 29, Day 57, Month 6, Month 12, Month 24</time_frame>
+    <description>Anti SARS-CoV-2 specific IgG at Day 1, Day 29 (group 1), Day 57 (group 2), as measured via ELISA Anti SARS-CoV-2 IgA and IgM (total and subclasses IgG 1-4) as measured by ELISA at D 1, D29, D57, M6, M12 and M24 Specific neutralizing antibody to SARS-CoV-2 and its variants (classical in vitro neutralisation assay and Pseudo neutralisation assay ) (all participants)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>T cells response to vaccine</measure>
+    <time_frame>at Day1, Day 29 and Month 6</time_frame>
+    <description>Fluorospot assays (TH1, TH2, TH17, Cytotoxicity) Phenotyping of antigen specific T-Cells via Mass cytometry at D 1 and M6 selected from results of Fluorospot assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mucosal response to vaccine</measure>
+    <time_frame>at Day 1, Day 29, Day 57, Month 6, Month 12 and Month 24</time_frame>
+    <description>Mucosal SARS-CoV-2 -specific antibody via measure of IgA, IgM and IgG in saliva by specific home-made and commercially available ELISA assays for salivary IgA and IgG (all participants)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>B cell response to vaccine</measure>
+    <time_frame>at Day 1, Day 57 and Month 12</time_frame>
+    <description>Determination of the epitope profiling and B cell repertoire (stereotype clonotype) of the humoral response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>predictive determinants of vaccine response</measure>
+    <time_frame>at screening visit</time_frame>
+    <description>Pre-existing serology for SARS-CoV-2 or other coronavirus, clinical profile of COVID 19 for group 2, immunosenescence profile, transcriptomic analysis, immune cell phenotype</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of BNT162b2 vaccine</measure>
+    <time_frame>through 28 days after each dose of vaccine for reactions; throughout the study period for others adverse events</time_frame>
+    <description>All grade adverse reactions:&#xD;
+Immediate reactogenicity defined as any adverse reactions&#xD;
+Local and systemic reactogenicity, all grade, measured by solicited adverse reactions&#xD;
+Unsolicited adverse reactions&#xD;
+Others adverse events:&#xD;
+Any AEs of grade ≥ 2, .&#xD;
+AEs leading to withdrawal .&#xD;
+Medically significant AEs&#xD;
+SAEs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 infection</measure>
+    <time_frame>study period</time_frame>
+    <description>Occurrence of confirmed SARS-CoV-2 infection.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Healthy</condition>
+  <condition>Immunization; Infection</condition>
+  <arm_group>
+    <arm_group_label>Group 1: SARS-CoV-2 naive participants</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>participants without antecedent of SARS-CoV-2 infection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2: Previously SARS CoV-2 infected participants</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>participants with antecedent of SARS-CoV-2 infection (more than 6 months)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>two doses of BNT162b2 vaccine</intervention_name>
+    <description>Administration of BNT162 b2 vaccine (30µg in 0.3mL) at D1 and D29, intramuscularly (participants without antecedent of SARS-CoV-2 infection)</description>
+    <arm_group_label>Group 1: SARS-CoV-2 naive participants</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>one dose of BNT162b2 vaccine</intervention_name>
+    <description>Administration of BNT162 b2 vaccine (30µg in 0.3mL) at D1, intramuscularly (participants with antecedent of SARS-CoV-2 infection)</description>
+    <arm_group_label>Group 2: Previously SARS CoV-2 infected participants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. 18 to 45 years old or at least 65 years old,&#xD;
+&#xD;
+          2. Healthy adults or stable medical condition for adults with pre-existing medical&#xD;
+             conditions. A stable medical condition is defined as disease not requiring significant&#xD;
+             change in therapy or hospitalization for worsening disease during 3 months before&#xD;
+             enrolment, nor expected to require any significant change in therapy or&#xD;
+             hospitalization for worsening disease in foreseeable future.&#xD;
+&#xD;
+          3. Group 1: Healthy adults with no previous history of SARS COV2 infection (PCR-,&#xD;
+             antigenic test- or chest TDM- or serology SARS-CoV-2-) Group 2: Healthy adults with&#xD;
+             history of infection with SARS COV 2 (PCR+, antigenic test+ or chest TDM+ or serology&#xD;
+             SARS-CoV-2+ of more than 6 months)&#xD;
+&#xD;
+          4. A female participant is eligible to participate if she is not pregnant or&#xD;
+             breastfeeding and one of the following conditions applies:&#xD;
+&#xD;
+               -  Is of non-childbearing potential. To be considered of non-childbearing potential,&#xD;
+                  a female must be post-menopausal for at least 1 year or surgically sterile. OR&#xD;
+&#xD;
+               -  Is of childbearing potential and agrees to use an effective contraceptive method&#xD;
+                  from at least 4 weeks prior to vaccination until at least 4 weeks after the last&#xD;
+                  vaccination. A participant of childbearing potential must have a negative blood&#xD;
+                  pregnancy test at enrolment visit.&#xD;
+&#xD;
+          5. Understands and agrees to comply with the study procedures (visits, phone calls) based&#xD;
+             on Investigator judgement&#xD;
+&#xD;
+          6. Written and informed consent signed by the person and the investigator (no later than&#xD;
+             the day of pre-inclusion and prior to any examination realized in the frame of the&#xD;
+             trial) (article L1122-1-1 of the Public Health Code)&#xD;
+&#xD;
+          7. Affiliated or beneficiary of a social security scheme (article L1121-11 of the Public&#xD;
+             Health Code) (AME is not a social security scheme)&#xD;
+&#xD;
+          8. who agrees to be registered in the national file of persons who lend themselves to&#xD;
+             biomedical research (article L1121-16 of the Public Health Code).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participant is ill or febrile (body temperature ≥ 38.0°C) within 72 prior hours or&#xD;
+             and/or symptoms suggestive of COVID-19 or being contact subject within the past 14&#xD;
+             days at enrolment visit.&#xD;
+&#xD;
+             (Ill or febrile participants may be re-scheduled within the trial inclusion period&#xD;
+             when no longer presenting symptoms, except if condition is COVID19)&#xD;
+&#xD;
+          2. Participants with positive PCR, antigenic test or chest TDM or serology to SARS-CoV-2&#xD;
+             at the enrolment visit, only for the group1.&#xD;
+&#xD;
+          3. Participants who already received another anti-SARS-CoV-2-vaccine&#xD;
+&#xD;
+          4. Participants who received BCG given within the last year.&#xD;
+&#xD;
+          5. Use of immunosuppressive drugs like e.g. corticosteroids at a dosage &gt; 10mg equivalent&#xD;
+             prednisone /day (excluding topical preparations and inhalers) within 3 months prior to&#xD;
+             enrolment or 6 months for chemotherapies&#xD;
+&#xD;
+          6. Received immunoglobulin or other blood product within 3 months prior to enrolment or&#xD;
+             planned receipt of immunoglobulin or a blood product through study completion.&#xD;
+&#xD;
+          7. Received any vaccination within 4 weeks prior to first injection or plan to receive a&#xD;
+             licensed vaccine 4 weeks after the last injection.&#xD;
+&#xD;
+          8. History of severe adverse reactions to vaccine administration, including anaphylaxis&#xD;
+             and related symptoms, such as rash, respiratory difficulty, laryngeal oedema and&#xD;
+             abdominal pain to vaccines, or history of allergic reaction likely to be exacerbated&#xD;
+             by any component of the anti-SARS-CoV-2-vaccine.&#xD;
+&#xD;
+          9. History of severe allergic event&#xD;
+&#xD;
+         10. Known HIV, active HCV or HBV infection&#xD;
+&#xD;
+         11. Any pathological condition, such as cancer, which may be susceptible of reducing&#xD;
+             immunity response&#xD;
+&#xD;
+         12. Any bleeding disorder considered as contraindication to intramuscular injection or&#xD;
+             phlebotomy&#xD;
+&#xD;
+         13. The use of investigational Ig, investigational monoclonal antibodies or convalescent&#xD;
+             serum are not allowed during the study&#xD;
+&#xD;
+         14. Any condition which in the opinion of the investigator may interfere with the aim of&#xD;
+             the study&#xD;
+&#xD;
+         15. Pregnant or breastfeeding or positive pregnancy blood test at enrolment visit.&#xD;
+&#xD;
+         16. An immediate family member or household member of study staff.&#xD;
+&#xD;
+         17. Participation in another investigational clinical study (Jardé 1 or Jardé 2) within 4&#xD;
+             weeks before the enrolment visit or still in an exclusion period from another clinical&#xD;
+             trial or participation in another investigational clinical study planned before the&#xD;
+             study completion.&#xD;
+&#xD;
+         18. People under legal protection measure (tutorship, curatorship or safeguard measures)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>LEFEBVRE Maeva, MDPhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CIC1413, Hôtel Dieu - CHU Nantes</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>DESAINT Corinne, PhD</last_name>
+    <phone>33 145 59 52 01</phone>
+    <email>corinne.desaint@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>LEVIER Axel</last_name>
+    <phone>33 1 53946036</phone>
+    <email>axel.levier@inserm.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CIC1412, CHRU Brest</name>
+      <address>
+        <city>Brest</city>
+        <zip>29609</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>ANSART Séverine, PUPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre de Recherche Clinique, CHU Côte de Nacre</name>
+      <address>
+        <city>Caen</city>
+        <zip>14000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>VERDON Renaud, PUPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CIC 1405 , CHU Clermont-Ferrand</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <zip>63000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>LAURICHESSE Henri, PUPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CIC1430, Hôpital Henri Mondor</name>
+      <address>
+        <city>Creteil</city>
+        <zip>94000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>LELIEVRE Jean-Daniel, PUPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CIC1413 , Hôtel Dieu - CHU Nantes</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>LEFEBVRE Maeva, PH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Service des maladies infectieuses, CHU de Caremeau</name>
+      <address>
+        <city>Nîmes</city>
+        <zip>30029</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>LOUBET Paul, PH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CIC1417, hôpital Cochin</name>
+      <address>
+        <city>Paris</city>
+        <zip>75 679</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Launay Odile</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CIC 1427, Hopital Saint-Louis</name>
+      <address>
+        <city>Paris</city>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>KILADJIAN Jean-Jacques, PUPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>URCI, Hôpital Lyon Sud</name>
+      <address>
+        <city>Pierre-Bénite</city>
+        <zip>69310</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>NICOLAS Jean-François, PUPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CIC1434, Nouvel Hôpital Civil - Hôpitaux Universitaires de Strasbourg</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67091</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>MUTTER catherine, PH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CIC1415, CHRU Tours Hôpital Bretonneau</name>
+      <address>
+        <city>Tours</city>
+        <zip>37044</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>MAAKAROUN-VERMESS Zoha, PH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>March 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>BNT162b2 vaccine</keyword>
+  <keyword>elderly</keyword>
+  <keyword>SARS CoV-2 infected participants</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

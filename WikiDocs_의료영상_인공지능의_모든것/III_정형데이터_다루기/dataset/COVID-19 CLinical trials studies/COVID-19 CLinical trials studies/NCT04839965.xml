@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3439">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04839965</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AP-017</org_study_id>
+    <nct_id>NCT04839965</nct_id>
+  </id_info>
+  <brief_title>Study of Intravenous Ampion in Adult COVID-19 Patients Requiring Supplemental Oxygen</brief_title>
+  <official_title>A Randomized, Double-Blinded, Placebo Controlled Phase II Study to Evaluate the Safety and Efficacy of IV Ampion in Adult COVID-19 Patients Requiring Oxygen Supplementation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ampio Pharmaceuticals. Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ampio Pharmaceuticals. Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 2 randomized study to evaluate the safety and efficacy of IV Ampion in&#xD;
+      improving the clinical course and outcomes of adult COVID-19 patients requiring supplemental&#xD;
+      oxygen.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Ampion is the low molecular weight filtrate of human serum albumin with the in vitro ability&#xD;
+      to modulate inflammatory cytokine levels. Ampion has the potential to improve clinical&#xD;
+      outcomes for COVID-19 patients by reducing inflammatory cytokines correlated with the&#xD;
+      disease.&#xD;
+&#xD;
+      This study aims to evaluate Ampion and clinical outcomes in patients with COVID-19 requiring&#xD;
+      supplemental oxygen.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">November 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The efficacy of Ampion compared to placebo on mortality</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Mortality measured as the percentage of participants with a successful outcome (life) or unsuccessful outcome (death)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The safety and tolerability of Ampion compared to placebo on incidence and severity of adverse events</measure>
+    <time_frame>Baseline to Day 60</time_frame>
+    <description>Incidence of adverse events (AEs) and serious adverse events (SAEs)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>IV Ampion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ampion administered via intravenous infusion</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IV placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo administered via intravenous infusion</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Ampion</intervention_name>
+    <description>Ampion administered via intravenous infusion</description>
+    <arm_group_label>IV Ampion</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Saline</intervention_name>
+    <description>Placebo administered via intravenous infusion</description>
+    <arm_group_label>IV placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female, ≥ 18 years old&#xD;
+&#xD;
+          2. Diagnosed with COVID-19, as evaluated by laboratory diagnostic test or diagnosis based&#xD;
+             on radiological clinical findings&#xD;
+&#xD;
+          3. Baseline severity categorization of severe or critical COVID-19 infection per FDA&#xD;
+             Guidance for developing drugs and biological products for COVID-19 (February 2021)&#xD;
+&#xD;
+               1. Severe COVID-19&#xD;
+&#xD;
+                    -  Symptoms suggestive of severe systemic illness with COVID-19, which include&#xD;
+                       shortness of breath or respiratory distress&#xD;
+&#xD;
+                    -  Clinical signs indicative of severe systemic illness with COVID-19, such as&#xD;
+                       respiratory rate ≥ 30 per minute, heart rate ≥ 125 per minute, SpO2 ≤ 93% on&#xD;
+                       room air at sea level (SpO2 ≤ 90% at altitude) or PaO2/FiO2 &lt; 300&#xD;
+&#xD;
+               2. Critical COVID-19&#xD;
+&#xD;
+                    -  Oxygen delivered by high-flow nasal cannula (heated, humidified, oxygen&#xD;
+                       delivered via reinforced cannula at flow rates &gt;20 l/min with fraction&#xD;
+                       oxygen ≥ 0.5) or&#xD;
+&#xD;
+                    -  Non-invasive mechanical or endotracheal mechanical ventilation&#xD;
+&#xD;
+          4. Informed consent obtained from the patient or the patient's legal representative&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. As a result of the medical review and screening investigation, the Principal&#xD;
+             Investigator considers the patient unfit for the study and/or progression to death is&#xD;
+             imminent and inevitable irrespective of the provision of treatments.&#xD;
+&#xD;
+          2. Clinical diagnosis of respiratory failure (therapy not able to be administered in&#xD;
+             setting of resource limitation)&#xD;
+&#xD;
+          3. Shock defined by systolic blood pressure &lt;90 mm Hg, or diastolic blood pressure &lt;60 mm&#xD;
+             Hg or requiring vasopressors.&#xD;
+&#xD;
+          4. Multi-organ dysfunction/failure&#xD;
+&#xD;
+          5. Patient has severe chronic obstructive or restrictive pulmonary disease (COPD) (as&#xD;
+             defined by prior pulmonary function tests), chronic renal failure, or significant&#xD;
+             liver abnormality (e.g., cirrhosis, transplant, etc.).&#xD;
+&#xD;
+          6. Patient has chronic conditions requiring chemotherapy or immunosuppressive medication.&#xD;
+&#xD;
+          7. A history of allergic reactions to human albumin (reaction to non-human albumin such&#xD;
+             as egg albumin is not an exclusion criterion) or ingredients in 5% human albumin&#xD;
+             (N-acetyltryptophan, sodium caprylate).&#xD;
+&#xD;
+          8. Prolonged QT interval.&#xD;
+&#xD;
+          9. Patient has known pregnancy or is currently breastfeeding.&#xD;
+&#xD;
+         10. Patient planning to become pregnant, or father a child, during the treatment and&#xD;
+             follow-up period and/or is not willing to remain abstinent or use contraception.&#xD;
+&#xD;
+         11. Participation in another clinical trial (not including treatments for COVID-19 as&#xD;
+             approved by the FDA through expanded access, emergency, or compassionate use), or&#xD;
+             participation in a trial such that enrollment in this study would fall within the time&#xD;
+             frame of the half-life of the other investigational product(s).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ampio Pharmaceuticals</last_name>
+    <phone>720-437-6500</phone>
+    <email>ClinicalTrials@ampiopharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80907</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ampio Pharmaceuticals</last_name>
+      <phone>720-437-6500</phone>
+      <email>ClinicalTrials@ampiopharma.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 9, 2021</study_first_posted>
+  <last_update_submitted>April 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

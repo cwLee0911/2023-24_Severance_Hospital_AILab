@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1759">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04745442</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ANTITROMBINA</org_study_id>
+    <nct_id>NCT04745442</nct_id>
+  </id_info>
+  <brief_title>Pilot Study of Antithrombin as Prophylaxis of Acute Respiratory Distress Syndrome in Patients With COVID-19</brief_title>
+  <official_title>Pilot Study of Antithrombin as Prophylaxis of Acute Respiratory Distress Syndrome in Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Maimónides Biomedical Research Institute of Córdoba</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Maimónides Biomedical Research Institute of Córdoba</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Pilot clinical trial, with a marketed drug -natural component of human plasma-, not approved&#xD;
+      for this indication, single-center, exploratory, open, randomized, controlled, to study the&#xD;
+      efficacy and safety of human Antithrombin in patients with confirmed COVID-19 disease and&#xD;
+      criteria high risk to develop SARS.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 27, 2020</start_date>
+  <completion_date type="Actual">January 15, 2021</completion_date>
+  <primary_completion_date type="Actual">December 20, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Combined variable: mortality or worsening rate with need for non-invasive mechanical ventilation or with need for invasive mechanical ventilation</measure>
+    <time_frame>At day 31 after randomization or hospital discharge (whichever occurs first)</time_frame>
+    <description>Combined variable: mortality or worsening rate with need for non-invasive mechanical ventilation or with need for invasive mechanical ventilation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to clinical improvement (decreased risk of developing SARS or death)</measure>
+    <time_frame>At day 31 after randomization or hospital discharge (whichever occurs first)</time_frame>
+    <description>Time (in days) to improvement in the National Early Warning (NEWS) Score 2. Defined as the time, in days, from the start of treatment a two-point improvement on this scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the improvement of the oxygenation index - PaO2 / FiO2- at 24 and 48 hours.</measure>
+    <time_frame>At 24 and 48 hours.</time_frame>
+    <description>Evaluate the improvement of the oxygenation index - PaO2 / FiO2- at 24 and 48 hours.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement of the analytical parameters: time (in days) until the tendency to normalization (decrease &gt;= 20%) of DD, ferritin, LDH, PCR and IL-6; the criteria reached before will be used.</measure>
+    <time_frame>At day 31 after randomization or hospital discharge (whichever occurs first)</time_frame>
+    <description>Improvement of the analytical parameters: time (in days) until the tendency to normalization (decrease &gt;= 20%) of DD, ferritin, LDH, PCR and IL-6; the criteria reached before will be used.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time (in days) until improvement in oxygenation: - Time until the SpO2 / FiO2 ratio exceeds the worst SpO2 / FiO2 prior to AT treatment.</measure>
+    <time_frame>At day 31 after randomization or hospital discharge (whichever occurs first)</time_frame>
+    <description>Time until the absence of oxygen need to maintain a basal saturation &gt;= 92%.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to radiological improvement in radiological report.</measure>
+    <time_frame>At day 31 after randomization or hospital discharge (whichever occurs first)</time_frame>
+    <description>Time to radiological improvement in radiological report.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time (in days) of non-invasive mechanical ventilation.</measure>
+    <time_frame>At day 31 after randomization or hospital discharge (whichever occurs first)</time_frame>
+    <description>Time (in days) of non-invasive mechanical ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time (in days) of invasive mechanical ventilation.</measure>
+    <time_frame>At day 31 after randomization or hospital discharge (whichever occurs first)</time_frame>
+    <description>Time (in days) of invasive mechanical ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate in hospital and one month after pharmacological intervention.</measure>
+    <time_frame>One month after pharmacological intervention.</time_frame>
+    <description>Mortality rate in hospital and one month after pharmacological intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients who suffer any adverse effect related to pharmacological intervention.</measure>
+    <time_frame>One month after pharmacological intervention.</time_frame>
+    <description>Percentage of patients who suffer any adverse effect related to pharmacological intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events related to medication and its administration.</measure>
+    <time_frame>At day 31 after randomization or hospital discharge (whichever occurs first)</time_frame>
+    <description>Incidence of adverse events related to medication and its administration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence in the appearance of allergic type hypersensitivity</measure>
+    <time_frame>At day 31 after randomization or hospital discharge (whichever occurs first)</time_frame>
+    <description>Incidence in the appearance of Acne, Generalized urticaria, Chest tightness, Dyspnoea, Hypotension and/or Anaphylaxis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of B19 parvovirus infection</measure>
+    <time_frame>At day 31 after randomization or hospital discharge (whichever occurs first)</time_frame>
+    <description>Incidence of B19 parvovirus infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bleeding</measure>
+    <time_frame>At day 31 after randomization or hospital discharge (whichever occurs first)</time_frame>
+    <description>Incidence of Bleeding</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">48</enrollment>
+  <condition>Covid19</condition>
+  <condition>Severe Acute Respiratory Syndrome</condition>
+  <condition>Distress Respiratory Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Best available treatment + Antithrombin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The subject will be treated with Antithrombin (50 IU/Kg/12h) for 72 hours and the best available treatment for COVID-19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Best available treatment</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The subject will be treated with the best available treatment for COVID-19.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Antithrombin + best available treatment</intervention_name>
+    <description>The subject will be treated with Antithrombin (50 IU/Kg/12h) for 72 hours and the best available treatment for COVID-19.</description>
+    <arm_group_label>Best available treatment + Antithrombin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Best available treatment</intervention_name>
+    <description>The subject will be treated with the best available treatment for COVID-19.</description>
+    <arm_group_label>Best available treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt;= 18 and &lt; 85 years&#xD;
+&#xD;
+          -  COVID-19 diagnosis confirmed.&#xD;
+&#xD;
+          -  Radiological image compatible with COVID-19&#xD;
+&#xD;
+          -  Present any of the following clinical-functional criteria considered RISK:&#xD;
+&#xD;
+               1. Respiratory distress: Tachypnea &gt; 26 breaths / minute&#xD;
+&#xD;
+               2. PaO2 / FiO2 oxygenation index # 300&#xD;
+&#xD;
+               3. Alteration of one or more of the following parameters:&#xD;
+&#xD;
+             c.i. DD&gt; 1,000 µg / L c.ii. Ferritin&gt; 800 ng / mL 4.c.iii. Lymphocytes &lt;800 cells / µL&#xD;
+             4.c.iv. PCR&gt; 100 mg / L 4.c.v. LDH&gt; 500 U / L c.vi. IL-6&gt; 15 pg / mL&#xD;
+&#xD;
+          -  Direct or delegated verbal informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Signs of active bleeding&#xD;
+&#xD;
+          -  Immunosuppression by cancer or transplant&#xD;
+&#xD;
+          -  Intolerance or allergy to AT or its components&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ángel Salvatierra, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Universitario Reina Sofía</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital Universitario Reina Sofía</name>
+      <address>
+        <city>Córdoba</city>
+        <zip>14004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 9, 2021</study_first_posted>
+  <last_update_submitted>February 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Antithrombin</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Distress Respiratory Syndrome</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antithrombins</mesh_term>
+    <mesh_term>Antithrombin III</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>The information will be provided after the results are published in a journal.</ipd_time_frame>
+    <ipd_access_criteria>Upon request to uicec@imibic.org</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

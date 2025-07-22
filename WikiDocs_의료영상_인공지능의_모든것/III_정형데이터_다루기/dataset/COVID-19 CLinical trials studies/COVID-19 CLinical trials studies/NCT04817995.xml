@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5388">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04817995</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-03-22/61</org_study_id>
+    <nct_id>NCT04817995</nct_id>
+  </id_info>
+  <brief_title>Stress Recovery Program FOREST for Healthcare Staff</brief_title>
+  <acronym>FOREST</acronym>
+  <official_title>Stress Recovery Program FOREST for Healthcare Staff: A Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vilnius University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Linkoeping University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vilnius University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the study is to assess the efficacy of an internet-based stress recovery&#xD;
+      intervention among healthcare staff during COVID-19 pandemic.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Intervention is going to take the form of an internet-based stress recovery intervention&#xD;
+      consisting of six modules. The themes include introduction, psychological detachment,&#xD;
+      distancing, mastery, control, and keeping the change alive. These themes were chosen after&#xD;
+      considering topics that might be the most useful for healthcare staff experiencing high&#xD;
+      levels of stress. Each module consists of psychoeducation and exercise parts. Psychologist&#xD;
+      provide individual feedback on completed exercises as well as can be reached on demand.&#xD;
+&#xD;
+      The effect of the intervention will be compared against a waiting list control group.&#xD;
+      Intervention is in Lithuanian.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">April 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomly allocated either to the intervention or control groups. The control group is a waiting list. The control group will participate in the intervention after it will be completed for the intervention group.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change on Recovery Experience Questionnaire</measure>
+    <time_frame>Pre-treatment, after 6 weeks, 3 months post-treatment</time_frame>
+    <description>Changes on stress recovery are measured. Recovery Experiences Questionnaire (Sonnentag &amp; Fritz, 2007) is a self-report measure and consists of 16 questions. All items are answered on a 5-point Likert scale that ranges from 1 (Totally disagree) to 5 (Totally agree). Higher score indicates more pronounced recovery.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change on International Trauma Questionnaire</measure>
+    <time_frame>Pre-treatment, after 6 weeks, 3 months post-treatment</time_frame>
+    <description>Changes on post-traumatic stress disorder are measured. International Trauma Questionanaire (ITQ, Cloitre et al., 2018) is a self-report measure and consists of 18 questions. All items are answered on a 5-point Likert scale that ranges from 0 (not at all) to 4 (extremely). Higher score indicates more pronounced symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change on Moral Injury Outcome Scale</measure>
+    <time_frame>Pre-treatment, after 6 weeks, 3 months post-treatment</time_frame>
+    <description>Changes on moral injury are measured. Moral Injury Outcome Scale (MIOS, Litz et al., 2020) is a self-report measure and consists of 15 questions. All items are answered on a 5-point Likert scale that ranges from 0 (Strongly disagree) to 4 (Strongly agree). Higher score indicates more pronounced moral injury.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change on Perceived Stress Scale</measure>
+    <time_frame>Pre-treatment, after 6 weeks, 3 months post-treatment</time_frame>
+    <description>Changes on perceived stress are measured. Perceived Stress Scale (PSS-4, Cohen et al., 1983) is a self-report measure and consists of 4 questions. All items are answered on a 5-point Likert scale that ranges from 0 (Never) to 4 (Very often). Higher score indicates more pronounced perceived stress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change on Patient Health Questionnaire</measure>
+    <time_frame>Pre-treatment, after 6 weeks, 3 months post-treatment</time_frame>
+    <description>Changes on depression and anxiety are measured. Patient Health Questionnaire-4 (PHQ-4, Kroenke et al., 2009) is a self-report measure and consists of 4 questions. All items are answered on a 4-point Likert scale that ranges from 0 (Not at all) to 3 (Nearly every day). Higher score indicates more pronounced depression and anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change on Well-being Index</measure>
+    <time_frame>Pre-treatment, after 6 weeks, 3 months post-treatment</time_frame>
+    <description>Changes on well-being are measured. Well-being Index (WHO-5, Bech, 2004) is a self-report measure and consists of 5 questions. All items are answered on a 6-point Likert scale that ranges from 0 (At no time) to 5 (All of the time). Higher score indicates more pronounced well-being.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Perceived Stress</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The intervention group will get a 6-week internet-based stress recovery intervention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The waiting list will get no intervention while the intervention group is getting the intervention. The waiting list has the possibility to get an intervention after the intervention group finishes it.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>FOREST</intervention_name>
+    <description>Intervention is going to take the form of an internet-based stress recovery intervention consisting of six modules. The themes include introduction, psychological detachment, distancing, mastery, control, and keeping the change alive. These themes were chosen after considering topics that might be the most useful for healthcare staff experiencing high levels of stress. Each module consists of psychoeducation and exercise parts. Psychologist provide individual feedback on completed exercises as well as can be reached on demand.</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  at least 18 years old;&#xD;
+&#xD;
+          -  comprehending Lithuanian language;&#xD;
+&#xD;
+          -  access to internet;&#xD;
+&#xD;
+          -  high levels of stress.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  acute psychiatric crisis;&#xD;
+&#xD;
+          -  high suicide risk;&#xD;
+&#xD;
+          -  interpersonal violence;&#xD;
+&#xD;
+          -  alcohol / drug addiction.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Vilnius University</name>
+      <address>
+        <city>Vilnius</city>
+        <country>Lithuania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Austeja Dumarkaite, M.A.</last_name>
+      <phone>+37052686952</phone>
+      <email>austeja.dumarkaite@fsf.vu.lt</email>
+    </contact>
+    <contact_backup>
+      <last_name>Evaldas Kazlauskas, Ph.D.</last_name>
+      <phone>+37052686952</phone>
+      <email>evaldas.kazlauskas@fsf.vu.lt</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Lithuania</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 26, 2021</study_first_posted>
+  <last_update_submitted>April 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Vilnius University</investigator_affiliation>
+    <investigator_full_name>Evaldas Kazlauskas</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Healthcare staff</keyword>
+  <keyword>Perceived stress</keyword>
+  <keyword>Internet intervention</keyword>
+  <keyword>Recovery</keyword>
+  <keyword>Efficacy</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

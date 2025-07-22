@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1445">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04747769</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP210006</org_study_id>
+    <nct_id>NCT04747769</nct_id>
+  </id_info>
+  <brief_title>COVID-19. CT-Scan Modeling in COVID19 Sequelae</brief_title>
+  <acronym>SILICOVILUNG</acronym>
+  <official_title>Modélisation in Silico du TDM Thoracique et séquelles du COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 infection manifests in its severe form as acute alveolo-interstitial and vascular&#xD;
+      pneumonitis. However, long-term outcome remains unknown. A progression to fibrosing pneumonia&#xD;
+      could affect 10 to 30% of survivors of severe forms, making it a public health problem&#xD;
+      through secondary disability. The project concerns the analysis of CT images of patients&#xD;
+      followed at the Avicenne APHP hospital (Bobigny) in collaboration with two expert image&#xD;
+      treatment/modelling teams for an evaluation of vascular remodelling and mechanical simulation&#xD;
+      of the regional lung compliance. These parameters obtained at 2-4 months of COVID-19&#xD;
+      infection will be correlated with clinical, CT, and functional data at 6 months and 1 year&#xD;
+      follow-up. This project should make it possible to understand the COVID-19 infection&#xD;
+      manifests as an acute alveolo-interstitial and vascular pneumonitis in its severe form.&#xD;
+      However, long-term outcome remains unknown. It has been hypothesized that a progression to&#xD;
+      fibrosing pneumonia could affect 10 to 30% of survivors of severe forms, making it a public&#xD;
+      health problem through secondary disability. But there is no parameter which could currently&#xD;
+      allow to predict such an outcome. The SILICOVILUNG project is based on the CT images analysis&#xD;
+      of patients followed at the Avicenne APHP hospital (Bobigny, France) after severe COVID&#xD;
+      pneumonitis in collaboration with two expert image treatment/modelling teams [ Artemis&#xD;
+      Telecom Sud-Paris (Evry, France) and LMS INRIA Ecole Polytechnique (Palaiseau, France)] for&#xD;
+      an evaluation of vascular remodeling and mechanical simulation of the regional lung&#xD;
+      compliance using a poromechanical model. These parameters obtained at 2-4 months of COVID-19&#xD;
+      infection will be correlated with clinical, CT, and functional data at 6 months and 1-year&#xD;
+      follow-up. This project should make it possible to understand the mechanisms of regional&#xD;
+      physiology in the evolution of COVID-19 pneumonias in their severe forms and to anticipate&#xD;
+      the development or not of sequelae, particularly fibrosing.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      &quot;The SILICOVILUNG project is based on the retrospective analysis of pulmonary CT images of&#xD;
+      patients followed after severe COVID pneumonitis at the Avicenne APHP hospital (Bobigny,&#xD;
+      France). CT series will be retrieved from the data bank of the radiology and pneumology&#xD;
+      departments (Avicenne APHP hospital Bobigny, France).&#xD;
+&#xD;
+      Records ( CTscan and clinical data) will be retrospectively included if they fulfilled the&#xD;
+      following criteria: patients &gt; 18y with initial severe pneumonitis ( COVID-19 PCR+; oxygen&#xD;
+      therapy &gt; 3L/min; at least 25% lesions on CT scan; no mechanical ventilation; not treated for&#xD;
+      pulmonary embolism). Records from patients with a history of COPD and/or ILD will be&#xD;
+      excluded. Records from thirty patients will be selected on data obtained at 2-4 months after&#xD;
+      the initial COVID pneumonitis episode: twenty patients with significant lung lesions observed&#xD;
+      on the CT at 2-4 months, ten patients with DLCO &lt;65% associated with faint pulmonary lesions&#xD;
+      on the CT at 2-4 months.&#xD;
+&#xD;
+      Pulmonary CT images will be treated by mathematical analysis and modeling in collaboration&#xD;
+      with two expert image treatment/modelling teams [ Artemis, Samovar lab Telecom Sud-Paris&#xD;
+      (Evry, France) and LMS INRIA Ecole Polytechnique (Palaiseau, France)] A 3D evaluation of the&#xD;
+      pulmonary small arteries remodeling/pruning will be done on multislice CT using a method&#xD;
+      recently developed in collaboration with the Artemis Samovar team.&#xD;
+&#xD;
+      A 4D evaluation of the local pulmonary compliances will be done using a recently developed&#xD;
+      model of the lungs at the breathing time scale and the organ space based on a general&#xD;
+      poromechanical formulation compatible with large strains and thermodynamics.&#xD;
+&#xD;
+      The vascular modeling/pruning observed patterns on the 2-4-month follow-up pulmonary CT will&#xD;
+      be identified, described and quantified using an order of remodeling. The poromechanical&#xD;
+      observed patterns on the 2-4-month follow-up pulmonary CT models will be identified,&#xD;
+      described and quantified using an order of porosity and stiffness in various regions of the&#xD;
+      lung.&#xD;
+&#xD;
+      These parameters obtained at 2-4 months of COVID-19 infection will be correlated with&#xD;
+      clinical, CT, and functional (DLCO) data at 6 months and 1-year of follow-up The primary&#xD;
+      outcome will be the identification of pulmonary vascular pruning and poromechanical patterns&#xD;
+      predictive for evolutive sequalae post COVID19.&#xD;
+&#xD;
+      The secondary outcome will be the identification and order of magnitude of pulmonary arterial&#xD;
+      pruning/vascular remodeling and DLCO impairment at 2-4 months and 1 year post initial COVID&#xD;
+      pneumonitis &quot;&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Qualitative and quantitative parameters obtained by in silico modeling of intra-pulmonary vascular remodeling in 3D at 2-4 months.</measure>
+    <time_frame>12 months after initial COVID 19 pneumonitis</time_frame>
+    <description>The objective of the protocol is to identify which still unknown patterns will be predictive for evolutive sequalae. The parameters obtained at 2-4 months of COVID-19 infection will be correlated with clinical, radiological and functional evolution of pneumopathies of post-COVID-19 patients at 6 months and 1 year after initial hospitalization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Specific mechanical parameters of pulmonary parenchymal stiffness/localized compliances obtained by dynamic poromechanical modeling at 2-4 months.</measure>
+    <time_frame>12 months after initial COVID 19 pneumonitis</time_frame>
+    <description>The objective of the protocol is to identify which still unknown patterns will be predictive for evolutive sequalae. The parameters obtained at 2-4 months of COVID-19 infection will be correlated with clinical, radiological and functional evolution of pneumopathies of post-COVID-19 patients at 6 months and 1 year after initial hospitalization.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>COVID-19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Retrospective analysis of radiological and clinical data from patients with postCOVID&#xD;
+        follow-up.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients who are informed and have not objected to participating in the research.&#xD;
+&#xD;
+          2. Patients with initial severe pulmonary disease [COVID + PCR, O² supplementation &gt;&#xD;
+             3l/min O²; &gt; 25% CT lesions visible on the CT scan at the time of hospitalization, no&#xD;
+             pulmonary embolism and no mechanical ventilation].&#xD;
+&#xD;
+          3. Fifty files will be selected according to the types of short-term sequelae observed&#xD;
+             during the first check-up at 2-4 months: 30 on an aspect of alveolar and interstitial&#xD;
+             CT scan lesions associated or not with respiratory functional impairment; 20 others&#xD;
+             will be selected on the existence of significant functional impairment (DLCO &lt;65% of&#xD;
+             the theoretical value) without or with few CT abnormalities (situations where sequelae&#xD;
+             of pulmonary vascularization would potentially predominate).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients under 18 years old.&#xD;
+&#xD;
+          2. Patients with a history of. of interstitial lung disease or COPD.&#xD;
+&#xD;
+          3. Patients under guardianship.&#xD;
+&#xD;
+          4. Patients receiving state medical aid.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pierre-Yves BRILLET</last_name>
+    <role>Study Director</role>
+    <affiliation>Université Sorbonne Paris-Nord/ APHP Hôpital Avicenne</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pierre-Yves BRILLET</last_name>
+    <phone>+33 148 955 852</phone>
+    <email>pierre-yves.brillet@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jean-François BERNAUDIN</last_name>
+    <phone>+33 148 955 852</phone>
+    <email>jf.bernaudin-univ@orange.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hôpital Avicenne APHP</name>
+      <address>
+        <city>Bobigny</city>
+        <zip>93000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nacira DARGHAL</last_name>
+      <phone>+33148957473</phone>
+      <email>nacira.darghal@aphp.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>February 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 10, 2021</study_first_posted>
+  <last_update_submitted>February 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid-19</keyword>
+  <keyword>CT-Scan</keyword>
+  <keyword>Silico-modeling</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

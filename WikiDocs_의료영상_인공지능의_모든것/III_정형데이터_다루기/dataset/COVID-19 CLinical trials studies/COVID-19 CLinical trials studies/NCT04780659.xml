@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="620">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04780659</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-000175-37</org_study_id>
+    <nct_id>NCT04780659</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Vaccination of Immunodeficient Persons (COVAXID)</brief_title>
+  <acronym>COVAXID</acronym>
+  <official_title>Immunological Responses After Vaccination for COVID-19 With the Messenger Ribonucleic Acid (mRNA) Vaccine Comirnaty in Immunosuppressed and Immunocompetent Individuals. An Open and Non-randomized, Phase IV Multicenter Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karolinska University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Karolinska Institutet</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Karolinska University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is designed as an open, non-randomized, phase IV cohort study in which the mRNA&#xD;
+      vaccine Comirnaty will be given in two doses. Analyses will be performed on blood and saliva,&#xD;
+      investigating humoral and cellular vaccine responses. Occurence of local or systemic&#xD;
+      reactogenicity will be evaluated, as well as adverse events. The study will include persons&#xD;
+      with primary or secondary immunosuppressive disorders, as well as immunocompetent persons,&#xD;
+      with the aim of investigating if the immune responses after given Comirnaty mRNA vaccine&#xD;
+      against COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this study with 450 patients with primary or secondary immunosuppressive disorders&#xD;
+      (patients with primary immunodeficiency, HIV infected patients, patients with allogenic stem&#xD;
+      cell transplantation/CAR T cell treated, solid organ transplanted, and patients with chronic&#xD;
+      lymphatic leukemia) from Karolinska University Hospital, and healthy controls of 90&#xD;
+      individuals for comparison, we will investigate the safety and the immune responses after&#xD;
+      mRNA vaccination with Comirnaty after two doses, under 6 months of time for each participant.&#xD;
+      The study is In collaboration with research groups at Karolinska Institutet and SciLifeLab,&#xD;
+      with planned in-depth detailed analyses of antibody responses as well as cellular responses.&#xD;
+      The study has obtained permission from Swedish Medical Agency and Swedish Ethical Review&#xD;
+      Authority.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 23, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assessment of seroconversion, defined as development of immunoglobulin G (IgG) antibodies against Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) after vaccination of 2 doses in seronegative individuals.</measure>
+    <time_frame>2 weeks after second dose of vaccine.</time_frame>
+    <description>Proportion (95% confidence interval, CI) seroconverting to positive response to SARS-CoV-2 IgG serology test after two doses of vaccine, measured 2 weeks after second dose of vaccine.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of any Adverse Events (AE) of the given vaccine [Safety and tolerability].</measure>
+    <time_frame>Duration of 0-14 days after each given vaccine dose.</time_frame>
+    <description>Proportion (95% CI) of study objects experiencing AE including reactogenicity, Serious Adverse Events (SAE), and Suspected Unexpected Serious Adverse Reaction (SUSAR).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of SARS-CoV-2 infection documented by positive polymerase chain reaction (PCR) test.</measure>
+    <time_frame>Day 0 - 6 months.</time_frame>
+    <description>Proportion (95% CI) of study objects with SARS-CoV-2 infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of humoral and cellular immune responses in blood and saliva.</measure>
+    <time_frame>Day 0- 6 months.</time_frame>
+    <description>Description of humoral and cellular immune responses in blood and saliva at baseline, and at time points day 0 (first vaccine dose), day 10 after first dose, day 21 (second vaccine dose), and 2 weeks, 3 months and 6 months after the second vaccine dose.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of escape mutations of sequencing SARS-CoV-2 at breakthrough infection.</measure>
+    <time_frame>Day 0-6 months.</time_frame>
+    <description>Genomic sequencing of SARS-CoV-2 at breakthrough infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of graft versus host disease in allogenic stem cell transplanted persons after given vaccine.</measure>
+    <time_frame>Day 0-6 months.</time_frame>
+    <description>Number of occurrence or worsening of graft versus host disease in allogenic stem cell transplanted persons after given vaccine will be described.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of biopsy verified rejection in solid organ transplanted persons after given vaccine.</measure>
+    <time_frame>Day 0-6 months.</time_frame>
+    <description>Number of occurrence of biopsy verified rejection in solid organ transplanted persons after given vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of viremia, defined as HIV ribonucleic acid (RNA) &gt; 50 copies/milliliter after vaccination in HIV infected persons.</measure>
+    <time_frame>Day 0-6 months.</time_frame>
+    <description>Number of HIV infected persons with HIV ribonucleic acid (RNA) &gt; 50 copies/milliliter after vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of HIV deoxyribonucleic acid (DNA) levels after given vaccine in HIV infected persons.</measure>
+    <time_frame>Day 0-6 months.</time_frame>
+    <description>HIV DNA levels at baseline, and 3 and 6 months after second dose of vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of oral and gut microbiota in immunosuppressed and controls, in relation to immune response to vaccination.</measure>
+    <time_frame>Day 0-6 months.</time_frame>
+    <description>Description of oral and fecal microbiota at baseline and association to immune responses.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">540</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Vaccination with Comirnaty according to standard of care treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All study participants will receive Comirnaty according to current approval.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Comirnaty (COVID-19, mRNA vaccine)</intervention_name>
+    <description>Comirnaty will be administered two times, one at Day 0 and the second dose at Day 21.</description>
+    <arm_group_label>Vaccination with Comirnaty according to standard of care treatment</arm_group_label>
+    <other_name>tozinameran</other_name>
+    <other_name>Pfizer mRNA vaccine</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        1. Individuals ≥18 years old&#xD;
+&#xD;
+        2a. In the opinion of the investigator, individuals with immunosuppressive disease who meet&#xD;
+        one of the following criteria:&#xD;
+&#xD;
+          -  Primary immunodeficiency&#xD;
+&#xD;
+          -  Human immunodeficiency virus (HIV)-infection&#xD;
+&#xD;
+          -  Allogeneic stem cell transplantation / Chimeric antigen receptor (CAR T cell) therapy&#xD;
+&#xD;
+          -  Solid organ transplant&#xD;
+&#xD;
+          -  Chronic lymphatic leukemia&#xD;
+&#xD;
+        or&#xD;
+&#xD;
+        2b. In the opinion of the investigator, individuals without immunosuppressive disease or&#xD;
+        treatment without significant co-morbidity&#xD;
+&#xD;
+        3. Provision of signed informed consent to participate in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Previous or ongoing Coronavirus Disease-19 (COVID-19).&#xD;
+&#xD;
+          2. Coagulation disorders, other conditions associated with prolonged bleeding time or&#xD;
+             anticoagulant treatments, which according to the investigator contraindicate&#xD;
+             intramuscular injection. Conditions which can be corrected with measures such as&#xD;
+             platelet concentrate treatments, coagulation factors or other measures for people&#xD;
+             responsible for anticoagulants are not exclusion criteria.&#xD;
+&#xD;
+          3. Planned to receive another vaccine within 14 days before the first dose of the study&#xD;
+             vaccine, or during the period from the first dose of the study vaccine up to 14 days&#xD;
+             after the second dose of the study vaccine, and vaccination with another vaccine which&#xD;
+             in the investigator's opinion cannot be planned outside these time periods&#xD;
+&#xD;
+          4. Pregnancy or breast feeding.&#xD;
+&#xD;
+          5. Hypersensitivity to the active substance or to any of the excipients contained in the&#xD;
+             vaccine&#xD;
+&#xD;
+          6. Individuals who cannot understand the informed consent.&#xD;
+&#xD;
+          7. Individuals who for other reasons are considered by investigators as not suitable for&#xD;
+             inclusion&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Soo Aleman, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Karolinska University Hospital, ME Infectious Diseases</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Soo Aleman, MD, PhD</last_name>
+    <phone>+46 72 595 7225</phone>
+    <email>soo.aleman@sll.se</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lena Dillner, MD, PhD</last_name>
+    <phone>+46 70 085 6871</phone>
+    <email>lena.dillner@sll.se</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Karolinska University Hospital</name>
+      <address>
+        <city>Stockholm</city>
+        <state>Huddinge</state>
+        <zip>14186</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Soo Aleman, MD</last_name>
+      <phone>+ 46 8 58 58 0000</phone>
+      <email>soo.aleman@sll.se</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>March 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska Institutet</investigator_affiliation>
+    <investigator_full_name>Soo Aleman</investigator_full_name>
+    <investigator_title>MD, PhD</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Will submit data to European Union Drug Regulating Authorities Clinical Trials Database (EudraCT) and share data result. Will share research results and data through national COVID-19 data portal, operated by SciLifeLab Data Centre, Sweden.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Within one year after study end.</ipd_time_frame>
+    <ipd_access_criteria>Published in EudraCT and national COVID-19 data portal (SciLifeLab Data Centre)</ipd_access_criteria>
+    <ipd_url>https://eudract.ema.europa.eu/index.html</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

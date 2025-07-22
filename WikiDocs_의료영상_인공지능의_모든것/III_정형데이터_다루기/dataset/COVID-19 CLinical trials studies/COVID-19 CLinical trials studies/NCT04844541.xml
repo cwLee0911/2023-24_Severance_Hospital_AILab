@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1271">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04844541</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PC02</org_study_id>
+    <nct_id>NCT04844541</nct_id>
+  </id_info>
+  <brief_title>Prophylaxis and Treatment of COVID-19</brief_title>
+  <acronym>PROTECT-APT</acronym>
+  <official_title>Prophylaxis and Treatment of COVID-19 - Adaptive Platform Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Henry M. Jackson Foundation for the Advancement of Military Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Joint Program Executive Office (JPEO) Chemical, Biological, Radiological, and Nuclear Defense (CBRND) Enabling Biotechnologies (EB)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Henry M. Jackson Foundation for the Advancement of Military Medicine</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Adaptive platform trial to enable the evaluation of investigational products for early&#xD;
+      treatment and post-exposure prophylaxis of COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study aims to establish an adaptive platform trial to enable the evaluation of&#xD;
+      investigational products for early treatment and post-exposure prophylaxis of COVID-19. The&#xD;
+      platform trial design will allow for products to be incorporated into the protocol as&#xD;
+      additional arms, as products are identified and become available. Initially all eligible&#xD;
+      subjects will be enrolled in a &quot;non-interventional&quot; arm, described here. This master protocol&#xD;
+      describes the core study elements that will be maintained across all study arms.&#xD;
+      Interventional design elements will be added in a subsequent amendment to the master&#xD;
+      protocol, and interventional arms will be added in amendments as product specific appendices.&#xD;
+      PROTECT-APT will be conducted as a multi-site study coordinated centrally by the Henry&#xD;
+      Jackson Foundation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time-weighted average change in symptom score</measure>
+    <time_frame>90 Days</time_frame>
+    <description>Describe the clinical characteristics of COVID-19</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of days with symptoms</measure>
+    <time_frame>90 Days</time_frame>
+    <description>Describe the clinical characteristics of COVID-19</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of SARS-CoV-2 infected adults seeking non-scheduled care for COVID-19</measure>
+    <time_frame>90 Days</time_frame>
+    <description>Describe the biological, virological, immunological, and pathological characteristics of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to clearance of SARS-CoV-2 in upper respiratory specimens</measure>
+    <time_frame>90 Days</time_frame>
+    <description>Describe the biological, virological, immunological, and pathological characteristics of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of change from the maximal viral load</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Describe the biological, virological, immunological, and pathological characteristics of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of laboratory confirmed infections in SARS-CoV-2 uninfected adult contacts</measure>
+    <time_frame>90 Days</time_frame>
+    <description>Describe the biological, virological, immunological, and pathological characteristics of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time-weighted average change from baseline viral load in SARS-CoV-2 uninfected contacts who become infected</measure>
+    <time_frame>14 Days</time_frame>
+    <description>Describe the biological, virological, immunological, and pathological characteristics of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in modified ordinal outcome scale</measure>
+    <time_frame>90 Days</time_frame>
+    <description>Describe the biological, virological, immunological, and pathological characteristics of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in IgM, IgG and neutralizing antibodies from baseline</measure>
+    <time_frame>90 Days</time_frame>
+    <description>Describe the biological, virological, immunological, and pathological characteristics of COVID-19</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Host gene expression levels that predict COVID-19 progression</measure>
+    <time_frame>90 Days</time_frame>
+    <description>To identify baseline and longitudinal host and pathogen factors predictive of progression to guide clinical triage and treatment decisions</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Host protein biomarkers that predict COVID-19 progression</measure>
+    <time_frame>90 Days</time_frame>
+    <description>To identify baseline and longitudinal host and pathogen factors predictive of progression to guide clinical triage and treatment decisions</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Immunophenotypes that predict COVID-19 progression</measure>
+    <time_frame>90 Days</time_frame>
+    <description>To identify baseline and longitudinal host and pathogen factors predictive of progression to guide clinical triage and treatment decisions</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Physiologic markers that predict COVID-19 progression</measure>
+    <time_frame>90 Days</time_frame>
+    <description>To identify baseline and longitudinal host and pathogen factors predictive of progression to guide clinical triage and treatment decisions</description>
+  </other_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Sub-population A</arm_group_label>
+    <description>Symptomatic non-hospitalized SARS-CoV-2 infected adults within 72 hours from the time of symptom onset</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sub-population B</arm_group_label>
+    <description>Asymptomatic SARS-CoV-2 contacts, as defined as adults residing in the same household or congregate setting as a SARS-CoV-2 confirmed case</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood, Nasal mucus&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        -  Symptomatic non-hospitalized SARS-CoV-2 infected adults within 72 hours from the time&#xD;
+             of symptom onset&#xD;
+&#xD;
+          -  Asymptomatic adult SARS-CoV-2 contacts, as defined as residing in the same household&#xD;
+             or residential care facility as a SARS-CoV-2 confirmed case&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Sub-population A: Adults seeking care or testing for COVID-19&#xD;
+&#xD;
+               -  Age ≥ 18 years old&#xD;
+&#xD;
+               -  Presence of COVID-19 symptoms as assessed by the investigator&#xD;
+&#xD;
+               -  Positive RT-PCR or antigen test for SARS-CoV-2 in an upper respiratory specimen&#xD;
+                  (e.g., nasopharyngeal swab, oropharyngeal swab, mid-turbinate swab, anterior&#xD;
+                  nares swab, or nasopharyngeal wash/aspirate)&#xD;
+&#xD;
+          -  Sub-population B: Asymptomatic Adult Contact of SARS-CoV-2 infected Individual&#xD;
+&#xD;
+               -  Age ≥ 18 years old&#xD;
+&#xD;
+               -  Contact of an individual with confirmed symptomatic SARS-CoV-2 infection as&#xD;
+                  defined as residing in the same household or residential care facility as a&#xD;
+                  SARS-CoV-2 confirmed case.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Sub-population A: Adults seeking care or testing for COVID-19&#xD;
+&#xD;
+               -  Hospital admission at the time of enrollment&#xD;
+&#xD;
+               -  Onset of symptoms &gt;72 hours prior&#xD;
+&#xD;
+               -  Absence of informed consent&#xD;
+&#xD;
+               -  Individuals who the study investigators believe are unable to comply with the&#xD;
+                  requirements of the study&#xD;
+&#xD;
+          -  Sub-population B: Asymptomatic Contact of SARS-CoV-2 infected Individual&#xD;
+&#xD;
+               -  Symptoms attributed to COVID-19 as assessed by the investigator&#xD;
+&#xD;
+               -  Positive RT-PCR or antigen assay for SARS-CoV-2 in an upper respiratory specimen&#xD;
+                  (e.g., nasopharyngeal swab, oropharyngeal swab, mid-turbinate swab, anterior&#xD;
+                  nares swab, or nasopharyngeal wash/aspirate).&#xD;
+&#xD;
+               -  Hospital admission at the time of enrollment&#xD;
+&#xD;
+               -  Absence of informed consent&#xD;
+&#xD;
+               -  Individuals who the study investigators believe are unable to comply with the&#xD;
+                  requirements of the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Danielle Clark, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Henry M. Jackson Foundation for the Advancement of Military Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Paul Blair, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Henry M. Jackson Foundation for the Advancement of Military Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Misato Miyamasu, BPharmSc PhD</last_name>
+    <phone>+1-240-694-2762</phone>
+    <email>MMiyamasu@aceso-sepsis.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Amanda Ezeiruaku, BS, MBS</last_name>
+    <phone>+1-856-857-5743</phone>
+    <email>AEzeiruaku@aceso-sepsis.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Johns Hopkins University</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lauren Sauer</last_name>
+      <phone>410-735-6469</phone>
+      <email>LSauer2@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Richard Rothman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Global Health Institute</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Aleah Bowie, PhD</last_name>
+      <phone>301-906-1310</phone>
+      <email>Aleah.Bowie@duke.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Elizabeth Petzold, PhD</last_name>
+      <phone>+1-919-613-5172</phone>
+      <email>Elizabeth.Petzold@duke.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Chris Woods, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

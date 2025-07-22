@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="697">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04818489</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PR00202</org_study_id>
+    <nct_id>NCT04818489</nct_id>
+  </id_info>
+  <brief_title>Colchicine and Post-COVID-19 Pulmonary Fibrosis</brief_title>
+  <official_title>Impact of Colchicine on the Clinical Outcome of COVID-19 and the Development of Post-COVID-19 Pulmonary Fibrosis: Randomized Controlled Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ClinAmygate</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>ClinAmygate</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Pulmonary fibrosis is a sequela to adult respiratory distress syndrome (ARDS). 40% of&#xD;
+      patients with corona virus disease 2019 (COVID-19) develop ARDS, and 20% of them are severe.&#xD;
+      Clinical, radiographic, and autopsy reports of pulmonary fibrosis were commonplace following&#xD;
+      SARS and MERS, and current evidence suggests pulmonary fibrosis could complicate infection by&#xD;
+      SARS-CoV-2 too. Colchicine has a direct anti-inflammatory effect by inhibiting the synthesis&#xD;
+      of tumor necrosis factor alpha and IL-6, monocyte migration, and the secretion of matrix&#xD;
+      metalloproteinase-9. It suppress secretion of cytokines and chemokines as well as in vitro&#xD;
+      platelet aggregation. All these are potentially beneficial effects that might diminish the&#xD;
+      COVID-19 inflammatory storm associated with severe cases.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Approximately 96 million people have been diagnosed with severe acute respiratory syndrome&#xD;
+      coronavirus-2 (SARS-CoV-2), and around two million people have died from this deadly disease&#xD;
+      worldwide. The pulmonary symptoms associated with SARS-CoV-2 vary from mild respiratory&#xD;
+      symptoms to severe respiratory failure. Of those infected with SARS-CoV-2, 40% will progress&#xD;
+      to ARDS.&#xD;
+&#xD;
+      Radiologically, most of those infected by SARS COV 2 have bilateral lower lobes ground-glass&#xD;
+      opacities with or without consolidation. However, long term lung impairment may develop&#xD;
+      particularly interstitial lung disease (ILD), the fibrotic type. Besides, pulmonary fibrosis&#xD;
+      (PF) is recognized sequelae of ARDS, and several studies have shown that protective lung&#xD;
+      ventilation tends to diminish the radiographic abnormalities following ARDS.&#xD;
+&#xD;
+      Colchicine has anti-fibrotic effects as a microtubule-destabilizing agent. In an in vitro&#xD;
+      study using human lung fibroblasts, colchicine inhibited myofibroblast differentiation via&#xD;
+      Rho/serum response factor (SRF) dependent. In COVID19 cases, colchicine was used by where&#xD;
+      they assessed its impact on the inflammatory biomarkers and clinical outcomes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 25, 2021</start_date>
+  <completion_date type="Anticipated">July 10, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 25, 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>The radiologist who will assess the CT scans will be blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical status</measure>
+    <time_frame>Two weeks</time_frame>
+    <description>Seven-category ordinal scale: minimum 1 is the best and a maximum is 6</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pulmonary fibrosis at week 2</measure>
+    <time_frame>Two weeks</time_frame>
+    <description>Percent of Participants with pulmonary fibrosis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pulmonary fibrosis at 45 days</measure>
+    <time_frame>45 days</time_frame>
+    <description>Percent of Participants with pulmonary fibrosis</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive protein</measure>
+    <time_frame>Two weeks</time_frame>
+    <description>Change in the levels of C-reactive protein</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ferritin</measure>
+    <time_frame>Two weeks</time_frame>
+    <description>Change in the levels of Ferritin</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Erythrocyte sedimentation rate</measure>
+    <time_frame>Two weeks</time_frame>
+    <description>Change in the levels of Erythrocyte sedimentation rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lactate dehydrogenase</measure>
+    <time_frame>Two weeks</time_frame>
+    <description>Change in the levels of Lactate dehydrogenase</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>45 days</time_frame>
+    <description>Adverse events related to the study medication</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary function test: FVC</measure>
+    <time_frame>45 days</time_frame>
+    <description>Pulmonary function test: FVC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary function test: FEV1</measure>
+    <time_frame>45 days</time_frame>
+    <description>Pulmonary function test: FEV1</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Covid19</condition>
+  <condition>Pulmonary Fibrosis Interstitial</condition>
+  <arm_group>
+    <arm_group_label>Colchicine group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Colchicine 0.5 mg (2 tablets: 1 mg) twice per day as a loading dose, followed by one tablet 0.5 twice per day for three weeks in addition to the local standard protocol of COVID19 management</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>the local standard protocol of COVID19 management</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Colchicine 0.5 MG</intervention_name>
+    <description>colchicine 0.5 mg (2 tablets: 1 mg) twice per day as a loading dose, followed by one tablet 0.5 twice per day for three weeks in addition to the standard protocol</description>
+    <arm_group_label>Colchicine group</arm_group_label>
+    <other_name>Colchicine</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>the standard protocol only</intervention_name>
+    <description>the local standard protocol for COVID19</description>
+    <arm_group_label>Colchicine group</arm_group_label>
+    <arm_group_label>Control group</arm_group_label>
+    <other_name>the local standard protocol for COVID19</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients who are confirmed to have COVID-19 clinically, radiologically and PCR&#xD;
+&#xD;
+          -  Age above 18 years old&#xD;
+&#xD;
+          -  Informed written consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of hypersensitivity to colchicine&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding women.&#xD;
+&#xD;
+          -  Patients with severe renal impairment (creatinine clearance (CCL) &lt;30 mL / min)&#xD;
+&#xD;
+          -  Patients with severe hepatic impairment (AST or ALT&gt; 5 times the normal limits in&#xD;
+             International Units (ULN)&#xD;
+&#xD;
+          -  Patients with blood dyscrasias, neutrophils &lt;1.000 / mmc or platelets &lt;50.000 / mmc&#xD;
+&#xD;
+          -  Patients with history of severe cardiac insufficiency&#xD;
+&#xD;
+          -  Patients with history of pulmonary fibrosis&#xD;
+&#xD;
+          -  Severe diarrhoea or bowel diverticulitis, or perforation&#xD;
+&#xD;
+          -  Patients who cannot take oral therapy&#xD;
+&#xD;
+          -  Patients already in ICU or requiring mechanical ventilation&#xD;
+&#xD;
+          -  Patients already enrolled in other clinical trials&#xD;
+&#xD;
+          -  Patients with taking P-glycoprotein inhibitor (e.g. ciclosporin, verapamil or&#xD;
+             quinidine) or a CYP3A4 inhibitor (e.g. ritonavir, remdesivir, atazanavir, indinavir,&#xD;
+             clarithromycin, telithromycin, itraconazole or ketaconazole) or Tocilizumab&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Emad Issak</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ain Shams Univeristy</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>El-Demerdash Hospital</name>
+      <address>
+        <city>Cairo</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mariam Maged, MD</last_name>
+      <phone>01224532769</phone>
+      <email>mariamaged@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Emad R Issak, Diploma</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <reference>
+    <citation>Deftereos SG, Giannopoulos G, Vrachatis DA, Siasos GD, Giotaki SG, Gargalianos P, Metallidis S, Sianos G, Baltagiannis S, Panagopoulos P, Dolianitis K, Randou E, Syrigos K, Kotanidou A, Koulouris NG, Milionis H, Sipsas N, Gogos C, Tsoukalas G, Olympios CD, Tsagalou E, Migdalis I, Gerakari S, Angelidis C, Alexopoulos D, Davlouros P, Hahalis G, Kanonidis I, Katritsis D, Kolettis T, Manolis AS, Michalis L, Naka KK, Pyrgakis VN, Toutouzas KP, Triposkiadis F, Tsioufis K, Vavouranakis E, Martinèz-Dolz L, Reimers B, Stefanini GG, Cleman M, Goudevenos J, Tsiodras S, Tousoulis D, Iliodromitis E, Mehran R, Dangas G, Stefanadis C; GRECCO-19 investigators. Effect of Colchicine vs Standard Care on Cardiac and Inflammatory Biomarkers and Clinical Outcomes in Patients Hospitalized With Coronavirus Disease 2019: The GRECCO-19 Randomized Clinical Trial. JAMA Netw Open. 2020 Jun 1;3(6):e2013136. doi: 10.1001/jamanetworkopen.2020.13136.</citation>
+    <PMID>32579195</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 26, 2021</study_first_posted>
+  <last_update_submitted>March 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>ClinAmygate</investigator_affiliation>
+    <investigator_full_name>Emad Roushdy</investigator_full_name>
+    <investigator_title>Doctor</investigator_title>
+  </responsible_party>
+  <keyword>COVID19</keyword>
+  <keyword>Pulmonary Fibrosis</keyword>
+  <keyword>Colchicine</keyword>
+  <keyword>Clinical outcomes</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pulmonary Fibrosis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colchicine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

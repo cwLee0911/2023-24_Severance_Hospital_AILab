@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3505">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04784767</url>
+  </required_header>
+  <id_info>
+    <org_study_id>S-20-03</org_study_id>
+    <secondary_id>WRAIR # 2847</secondary_id>
+    <secondary_id>EID030</secondary_id>
+    <secondary_id>IND 27301</secondary_id>
+    <nct_id>NCT04784767</nct_id>
+  </id_info>
+  <brief_title>SARS-COV-2-Spike-Ferritin-Nanoparticle (SpFN) Vaccine With ALFQ Adjuvant for Prevention of COVID-19 in Healthy Adults</brief_title>
+  <official_title>A PHASE 1, Randomized, Double-blind, Placebo-Controlled Study to Evaluate the Safety, Tolerability, and Immunogenicity of Ranging Doses of SARS-COV-2-Spike-Ferritin-Nanoparticle (SPFN_1B-06-PL) Vaccine With Army Liposomal Formulation QS21 (ALFQ) for Prevention of COVID-19 in Healthy Adults.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>U.S. Army Medical Research and Development Command</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Walter Reed Army Institute of Research (WRAIR)</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Henry M. Jackson Foundation for the Advancement of Military Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>U.S. Army Medical Research and Development Command</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety, reactogenicity, and immune response of&#xD;
+      the SpFN COVID-19 vaccine with Army Liposomal Formulation QS21 (ALFQ) adjuvant in healthy&#xD;
+      adults ages 18-55.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This clinical protocol outlines a first-in-human study of the safety, tolerability, and&#xD;
+      immunogenicity of different doses of SpFN_1B-06-PL + ALFQ prophylactic vaccine against&#xD;
+      COVID-19 in healthy adults. The experimental vaccine in this study contains 2 parts: the&#xD;
+      vaccine (called SpFN_1B-06-PL) and an experimental adjuvant called ALFQ. An adjuvant is a&#xD;
+      substance added to vaccines that can help to make the vaccine more effective by improving the&#xD;
+      immune response or causing the immune response to last longer. The experimental vaccine in&#xD;
+      this study does not contain the virus and cannot cause you to become infected with the&#xD;
+      COVID-19 disease.&#xD;
+&#xD;
+      A total of 72 healthy adult participants (age range 18-55) will be enrolled in this study.&#xD;
+      Participants will be enrolled into one of three study arms:&#xD;
+&#xD;
+      Arm 1: 25 µg of SpFN_1B-06-PL vaccine with 0.5 mL ALFQ adjuvant in a total 1.0 mL injection&#xD;
+      volume (20 participants) or Placebo (4 participants) on Study Days 1, 29, and 181.&#xD;
+&#xD;
+      Arm 2: 50 µg of SpFN_1B-06-PL vaccine with 0.5 mL ALFQ adjuvant in a total 1.0 mL injection&#xD;
+      volume (20 participants) or Placebo (4 participants) on Study Days 1, 29, and 181.&#xD;
+&#xD;
+      Arm 3: 50 µg of SpFN_1B-06-PL vaccine with 0.5 mL ALFQ adjuvant in a total 1.0 mL injection&#xD;
+      volume (20 participants) or Placebo (4 participants) on Study Days 1 and 181.&#xD;
+&#xD;
+      Participants will:&#xD;
+&#xD;
+        -  Be randomly assigned to get either the experimental COVID-19 vaccine or a placebo&#xD;
+&#xD;
+        -  Receive 2 or 3 vaccine or placebo injections in the same arm muscle&#xD;
+&#xD;
+        -  Record any side effects that they may experience for 7 days after receiving the&#xD;
+           injections.&#xD;
+&#xD;
+        -  Have blood, nose swabs, and saliva samples collected at each visit.&#xD;
+&#xD;
+        -  Have urine samples collected for pregnancy testing (females only).&#xD;
+&#xD;
+        -  Undergo medical and physical examinations.&#xD;
+&#xD;
+        -  Answer questions about potential exposures to COVID-19 in their daily life.&#xD;
+&#xD;
+      The duration of this study will be for about 18 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 5, 2021</start_date>
+  <completion_date type="Anticipated">October 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with local and systemic reactions</measure>
+    <time_frame>Day 0 to 7 post vaccination</time_frame>
+    <description>Post-vaccination reactions including erythema, induration, pain/tenderness, swelling, limitation of arm movement, fever, tiredness, chills, rash, myalgia, arthralgia, nausea, and headache.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidents of treatment-adverse events as assessed by FDA Toxicity grading scale.</measure>
+    <time_frame>Day 0 to 546 post vaccination</time_frame>
+    <description>Number of participants with treatment related adverse events on Day 0 through day 546.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with humoral immune response at Study Day 43 (+/- 2).</measure>
+    <time_frame>Day 43 (+/- 2 days)</time_frame>
+    <description>Number of participants with quantitative humoral immune response at Day 43, two weeks after the second SpFN_1B-06-PL + 0.5 mL ALFQ vaccine administration in Arms 1 &amp; 2 and six weeks after the first administration in Arm 3.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with binding antibody response rate</measure>
+    <time_frame>Days 8, 15, 29, 43, and 57.</time_frame>
+    <description>The proportion of participants with detectable binding antibody responses, at baseline and at Study Days 8, 15, 29, 43, and 57.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with neutralizing antibody response rate</measure>
+    <time_frame>Days 8, 15, 29, 43, and 57.</time_frame>
+    <description>The proportion of participants with neutralizing antibody titers (NAb) titers at ≥50% neutralization cutoff at the lowest level of dilution that optimizes interpretation at baseline and at Study Days 8, 15, 29, 43, and 57.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with ACE-2 binding inhibition</measure>
+    <time_frame>Day 0 to 57 post vaccination</time_frame>
+    <description>The proportion of participants with ACE-2 binding inhibition following SpFN_1B-06-PL + ALFQ vaccination.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>1A: 25 µg of SpFN + ALFQ on Days 1, 29 and 181.</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Up to 20 participants will receive 25 µg of SpFN_1B-06-PL vaccine with 0.5 mL ALFQ adjuvant in a total 1.0 mL injection volume.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>1B: Placebo (Sodium chloride, USP, for injection (0.9% NaCl) on Days 1, 29 and 181.</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>4 participants will receive 1.0mL of normal saline as Placebo on Study Days 1, 29, and 181.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2A: 50 µg of SpFN + ALFQ on Days 1, 29, and 181.</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Up to 20 participants will receive 3 intramuscular injections of: 50 ug of SpFN_1B-06-PL with 0.5 mL ALFQ adjuvant.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2B: Placebo (Sodium chloride, USP, for injection (0.9% NaCl) on Days 1, 29, and 181.</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>4 participants will receive 1.0mL of normal saline as Placebo on Study Days 1, 29, and 181.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3A: 50 µg of SpFN + ALFQ on Days 1 and 181.</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Up to 20 participants will receive 2 intramuscular injections of: 50 ug of SpFN_1B-06-PL with 0.5 mL ALFQ adjuvant.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3B: Placebo (Sodium chloride, USP, for injection (0.9% NaCl) on Days 1 and 181.</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>4 participants will receive 1.0mL of normal saline as Placebo on Study Days 1 and 181.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>25 µg SpFN_1B-06-PL + ALFQ (QS21 Adjuvant)</intervention_name>
+    <description>SpFN_1B-06-PL will be provided in a sterile, 2 mL single-use vial at 0.7 mL/vial, 90-110 ug/mL; ALFQ will be provided in a sterile 3 mL vial at 0.6 mL/vial</description>
+    <arm_group_label>1A: 25 µg of SpFN + ALFQ on Days 1, 29 and 181.</arm_group_label>
+    <other_name>25 µg SpFN + ALFQ</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sodium chloride, USP, for injection (0.9% NaCl)</intervention_name>
+    <description>Normal saline will be provided in a sterile, single-use 10 mL vial</description>
+    <arm_group_label>1B: Placebo (Sodium chloride, USP, for injection (0.9% NaCl) on Days 1, 29 and 181.</arm_group_label>
+    <arm_group_label>2B: Placebo (Sodium chloride, USP, for injection (0.9% NaCl) on Days 1, 29, and 181.</arm_group_label>
+    <arm_group_label>3B: Placebo (Sodium chloride, USP, for injection (0.9% NaCl) on Days 1 and 181.</arm_group_label>
+    <other_name>Placebo</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>50 µg SpFN_1B-06-PL + ALFQ (QS21 Adjuvant)</intervention_name>
+    <description>SpFN_1B-06-PL will be provided in a sterile, 2 mL single-use vial at 0.7 mL/vial, 90-110 ug/mL; ALFQ will be provided in a sterile 3 mL vial at 0.6 mL/vial</description>
+    <arm_group_label>2A: 50 µg of SpFN + ALFQ on Days 1, 29, and 181.</arm_group_label>
+    <arm_group_label>3A: 50 µg of SpFN + ALFQ on Days 1 and 181.</arm_group_label>
+    <other_name>50 µg SpFN + ALFQ</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Must be a male or non-pregnant, non-breastfeeding female between the ages of 18 and 55&#xD;
+             years, inclusive, at the time of enrollment.&#xD;
+&#xD;
+          -  Must be willing and able to read, sign, and date the informed consent document.&#xD;
+&#xD;
+          -  Must demonstrate an understanding of the study with a passing score (90% or greater)&#xD;
+             on the Test of Understanding (TOU) by the third attempt, before study-related&#xD;
+             procedures are performed.&#xD;
+&#xD;
+          -  Must be willing and able to comply with study requirements and be available for&#xD;
+             follow-up visits for the entire study.&#xD;
+&#xD;
+          -  Must have the means to be contacted by telephone and/or video for remote follow-up&#xD;
+             visits as needed.&#xD;
+&#xD;
+          -  Must have a body mass index (BMI) ≥18.1 kg/m2 and &lt;35.0 kg/m2.&#xD;
+&#xD;
+          -  Have no previously documented COVID-19/SARS-CoV-2 infection&#xD;
+&#xD;
+          -  Must agree to refrain from donating blood or plasma outside of this study for the&#xD;
+             duration of participation in this study.&#xD;
+&#xD;
+          -  Must have acceptable screening laboratory findings: white blood cell (WBC),&#xD;
+             hemoglobin, platelet count, prothrombin (PT), prothrombin time (PTT), aspartate&#xD;
+             transaminase (AST), alanine transaminase (ALT), alkaline phosphatase (ALP),&#xD;
+             creatinine, and total bilirubin) within 14 days before Study Day 1.&#xD;
+&#xD;
+          -  Must be healthy based on the physician investigator's clinical judgment after review&#xD;
+             of past medical history, medication use, vital signs, and an abbreviated physical&#xD;
+             examination.&#xD;
+&#xD;
+          -  Biological females must have a negative urine pregnancy test at screening and a&#xD;
+             negative urine pregnancy test immediately before each study injection.&#xD;
+&#xD;
+          -  Biological females of reproductive capacity must use an acceptable method of&#xD;
+             contraception, beginning 30 days before enrollment, and until at least 60 days after&#xD;
+             the last study injection.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Has plans to become pregnant or is currently pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Seropositive to COVID-19 by binding antibody titer assay.&#xD;
+&#xD;
+          -  Confirmed positive for active infection of human immunodeficiency virus (HIV),&#xD;
+             hepatitis C virus (HCV), or presence of Hepatitis B surface antigen (HbsAg).&#xD;
+&#xD;
+          -  Has known or suspected congenital or acquired immunodeficiency, or recent history or&#xD;
+             current use of immunosuppressive therapy.&#xD;
+&#xD;
+          -  History of organ and or stem cell transplantation.&#xD;
+&#xD;
+          -  Has a history of malignancy other than squamous cell or basal cell skin cancer, unless&#xD;
+             there has been surgical excision that is considered to have achieved a cure.&#xD;
+&#xD;
+          -  Has diabetes mellitus type 1 or type 2 (including cases controlled with diet alone)&#xD;
+             and/or thyroid disease.&#xD;
+&#xD;
+          -  Has major psychiatric illness during the last 12 months that, in the physician&#xD;
+             investigator's opinion, would preclude participation.&#xD;
+&#xD;
+          -  Has a history of other chronic diseases or conditions&#xD;
+&#xD;
+          -  Has a current or history of substance abuse that, in the physician investigator's&#xD;
+             opinion, would preclude participation.&#xD;
+&#xD;
+          -  Has tattoos, scars, or other marks that would, in the opinion of the physician&#xD;
+             investigator, interfere with the assessment of the injection site.&#xD;
+&#xD;
+          -  Has a known allergy or history of anaphylaxis or other serious reaction to a vaccine,&#xD;
+             vaccine component, or latex.&#xD;
+&#xD;
+          -  Had major surgery (per the physician investigator's judgment) in the month before&#xD;
+             screening or has plans to have major surgery during the study.&#xD;
+&#xD;
+          -  Received blood products or immunoglobulin in the three months before screening or has&#xD;
+             plans to use during the study.&#xD;
+&#xD;
+          -  Donated a unit of blood within eight weeks before Study Day 1 or has plans to donate&#xD;
+             blood during the study.&#xD;
+&#xD;
+          -  Received an experimental COVID-19 vaccine outside of this study or a COVID-19 vaccine&#xD;
+             that has been given Emergency Use Authorization from the FDA&#xD;
+&#xD;
+          -  Received live attenuated vaccine from 30 days before Study Day 1 until 30 days after&#xD;
+             the last study injection.&#xD;
+&#xD;
+          -  Received killed or inactivated vaccine from 14 days before Study Day 1 and until 30&#xD;
+             days after the last study injection.&#xD;
+&#xD;
+          -  Received experimental therapeutic agents within three months before the first study&#xD;
+             injection or has plans to receive any experimental therapeutic agents during the&#xD;
+             entire course of the study.&#xD;
+&#xD;
+          -  Concurrent participation in another study requiring blood draws or exposure to&#xD;
+             investigational or non-investigational vaccine/product (pharmaceutical or device)&#xD;
+             throughout the study period.&#xD;
+&#xD;
+          -  Has an acute illness or temperature ≥38.0 degrees Celsius (C)/100.4 degrees Fahrenheit&#xD;
+             (F) on any study injection day or within 48 hours of planned study injection.&#xD;
+&#xD;
+          -  In the physician investigator's opinion, is unable to communicate reliably, is&#xD;
+             unlikely to adhere to study requirements, or has a condition that would limit&#xD;
+             completion of the study.&#xD;
+&#xD;
+          -  Is unwilling to have their samples collected and stored for future research.&#xD;
+&#xD;
+          -  Emergency medical services personnel and healthcare provider with patient contact in&#xD;
+             potentially high risk/high exposure settings as per screening physician's assessment.&#xD;
+&#xD;
+          -  Current smoker or inhales vaporized nicotine &quot;Vaping&quot; daily. Current smoker is defined&#xD;
+             as an adult who has smoked 100 cigarettes in his or her lifetime and who currently&#xD;
+             smokes cigarettes.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paul Scott, M.D., MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Walter Reed Army Institute of Research (WRAIR)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Paul Scott, M.D., MPH</last_name>
+    <phone>301-319-9883</phone>
+    <email>paul.t.scott.civ@mail.mil</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kayvon Modjarrad, M.D.,Ph.D</last_name>
+    <phone>301-319-3054</phone>
+    <email>kayvon.modjarrad.civ@mail.mil</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>WRAIR Clinical Trials Center</name>
+      <address>
+        <city>Silver Spring</city>
+        <state>Maryland</state>
+        <zip>20910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul T Scott, M.D., MPH</last_name>
+      <phone>301-319-9883</phone>
+      <email>paul.t.scott.civ@mail.mil</email>
+    </contact>
+    <contact_backup>
+      <last_name>Melinda Hamer, M.D., MPH</last_name>
+      <phone>301-319-3136</phone>
+      <email>melinda.j.hamer.mil@mail.mil</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Paul T Scott, M.D., PHD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Melinda Hamer, M.D., PHD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jack Hutter, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Michael Koren, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christine E Lee, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Melanie McCauley, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kayvon Modjarrad, M.D., Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Merlin Robb, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Brittany Ober-Shepherd, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sandhya Vasan, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Lynne Wu, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.wrair.army.mil/clinical-trials-center</url>
+    <description>The Walter Reed Army Institute of Research Clinical Trials Center conducts early phase clinical trials for candidate drugs and vaccines intended to prevent and treat a variety of infectious diseases.</description>
+  </link>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 5, 2021</study_first_posted>
+  <last_update_submitted>April 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-Cov-2</keyword>
+  <keyword>SARS</keyword>
+  <keyword>Coronavirus</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Saponin QA-21V1</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

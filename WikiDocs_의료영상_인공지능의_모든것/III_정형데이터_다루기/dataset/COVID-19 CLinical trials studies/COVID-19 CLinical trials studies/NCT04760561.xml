@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4172">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04760561</url>
+  </required_header>
+  <id_info>
+    <org_study_id>proning for COVID-19 patients</org_study_id>
+    <nct_id>NCT04760561</nct_id>
+  </id_info>
+  <brief_title>Self-prone Positioning for Awake Non-intubated Patients With COVID-19</brief_title>
+  <official_title>Effects of Self-prone Positioning on Oxygenation and Physiological Outcomes Among Awake Non-intubated Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Damanhour University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Damanhour University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The burden of coronavirus disease 2019 (COVID-19) pandemic is still on a rising course making&#xD;
+      a great stress on medical resources throughout the world. Although most of COVID-19 patients&#xD;
+      require non-invasive oxygenation and ventilation, rapid progression to hypoxemic respiratory&#xD;
+      failure and then acute respiratory distress syndrome (ARDS) can occur in some COVID19&#xD;
+      patients due to prolonged or unaddressed hypoxia. Prone positioning is a common supportive&#xD;
+      ventilation strategy to improve oxygenation in critically ill patients with ARDS. Recent&#xD;
+      studies point out the potential benefits of using this strategy for non-intubated awake COVID&#xD;
+      19 patients who are hypoxic. Despite several retrospective cohort studies have been conducted&#xD;
+      to identify impact of the prone positioning in awake non-intubated COVID-19 patients,&#xD;
+      experimental studies are very rare. This study therefore aims to evaluate the effects of&#xD;
+      self-prone positioning on oxygenation and physiological outcomes among awake-non intubated&#xD;
+      patients with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A quasi experimental research design will be adopted to achieve the aim of the current study.&#xD;
+      In this study 82 adult patients of either sex with a confirmed diagnosis of COVID-19 will be&#xD;
+      recruited from general intensive care unit of the chest hospital (affiliated to the Ministry&#xD;
+      of Health) in Damanhour city, El Beheira Governorate, Egypt. Patients will be enrolled in the&#xD;
+      current study if they meet study inclusion criteria.&#xD;
+&#xD;
+      The eligible patients will be randomly assigned into two groups (control and intervention&#xD;
+      group) 41 patients in each. The control group will receive the standard management of&#xD;
+      COVID-19 patients according to the Egyptian Ministry of health guidelines. The standard&#xD;
+      management includes supplemental oxygen or non-invasive continuous positive airway pressure&#xD;
+      (CPAP), antivirals, antibiotics, anticoagulants and glucocorticoids, as necessary, based on&#xD;
+      the patients' clinical condition. Patients in the control group will be subjected to the&#xD;
+      conventional positioning interventions provided by the critical care nurses, which will not&#xD;
+      include self-prone positioning.&#xD;
+&#xD;
+      Patients in the intervention group will receive self-prone positioning and standard&#xD;
+      management of COVID-19 patients. All patients in both groups (control and intervention) will&#xD;
+      be monitored continuously by cardiac monitoring with oxygen saturation (SpO2) during the&#xD;
+      study period. The demographic and baseline clinical data of all eligible patients will&#xD;
+      collected and recorded using the study tool.&#xD;
+&#xD;
+      Each patient in the intervention group will be helped into the prone position and encouraged&#xD;
+      to stay in the prone position as long as tolerated (at least 1 hour). The prone positioning&#xD;
+      consists of placing the patient on his or her stomach with the head on the side. Self-prone&#xD;
+      position will be performed 45 minutes up to 1 hour after meals to avoid gastrointestinal side&#xD;
+      effects. The patient will be maintained in prone position until the patient becomes too tired&#xD;
+      and uncomfortable to keep that position. If patients will asked to regain the supine position&#xD;
+      before the 1 hour period was complete, patient's prone position will be considered unfeasible&#xD;
+      and the reason will be reported. Patients who required invasive mechanical ventilation at any&#xD;
+      time point will be intubated and excluded from the study.&#xD;
+&#xD;
+      The effect of patients' positioning on oxygenation and physiological parameters will be&#xD;
+      collected and recorded. These parameters include vital signs (respiratory rate, systolic&#xD;
+      blood pressure, diastolic blood pressure and heart rate), SpO2, oxygenation index (PaO2/FiO2&#xD;
+      ratio), ROX index (combination of the ratio of oxygen saturation measured by pulse oximetry&#xD;
+      to fraction of inspired oxygen and respiratory rate [SpO2/FiO2]/respiratory rate) and&#xD;
+      arterial blood gases parameters (pH, PaO2mmHg, PaCO2mmHg and SaO2). These parameters will be&#xD;
+      recorded before and after positioning (immediately before, after 10 minutes and after 1hour).&#xD;
+      Data of secondary outcomes of self-prone positioning will also be collected and recorded.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 20, 2021</start_date>
+  <completion_date type="Anticipated">April 20, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 20, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Quasi experimental research design</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Oxygenation index</measure>
+    <time_frame>Change in the value immediately before, after 10 minutes and after 1hour of patient positioning</time_frame>
+    <description>arterial oxygen pressure/fractional inspired oxygen PaO2/FiO2 ratio mmHg.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SpO2</measure>
+    <time_frame>Change in the value immediately before, after 10 minutes and after 1hour of patient positioning.</time_frame>
+    <description>Peripheral oxygen saturation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>ROX index</measure>
+    <time_frame>Change in the value immediately before and after 1hour of patient positioning.</time_frame>
+    <description>combination of the ratio of oxygen saturation measured by pulse oximetry to fraction of inspired ox¬ygen and respiratory rate ([SpO2/FiO2]/respiratory rate)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PaO2mmHg</measure>
+    <time_frame>change in the value immediately before and after 1hour of patient positioning.</time_frame>
+    <description>Partial pressure of oxygen within arterial blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PCO2mmHg</measure>
+    <time_frame>change in the value immediately before and after 1hour of patient positioning.</time_frame>
+    <description>The partial pressure of carbon dioxide within arterial blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SaO2</measure>
+    <time_frame>change in the value immediately before and after 1hour of patient positioning.</time_frame>
+    <description>Oxygen saturation (SaO2) is a measurement of the percentage of how much hemoglobin is saturated with oxygen.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>pH</measure>
+    <time_frame>change in the value immediately before and after 1hour of patient positioning.</time_frame>
+    <description>The acidity or alkalinity of blood.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Respiratory Rate (RR) (bpm)</measure>
+    <time_frame>change in the value immediately before, after 10 minutes and after 1hour of patient positioning.</time_frame>
+    <description>the number of breaths a person takes per minute.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Heart Rate (HR) (bpm)</measure>
+    <time_frame>change in the value immediately before, after 10 minutes and after 1hour of patient positioning.</time_frame>
+    <description>is the the speed of the heartbeat measured by the number of contractions (beats) of the heart per minute (bpm)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood Pressure (BP) mmHg</measure>
+    <time_frame>change in the value immediately before, after 10 minutes and after 1hour of patient positioning.</time_frame>
+    <description>is the the pressure of circulating blood against the walls of blood vessels.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Positive response to prone positioning</measure>
+    <time_frame>Time Frame: change in the value of PaO2/FiO2 ratio or respiratory rate after 1hour of patient positioning</time_frame>
+    <description>defined as a 10% increase in PaO2/FiO2 ratio or 10% decrease in respiratory rate</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Prone position adverse events</measure>
+    <time_frame>appearance of events from 10 minutes after patient positioning up to 3hours after patient positioning..</time_frame>
+    <description>respiratory distress, dyspnea, use of accessory respiratory muscles, oxygen desaturation SpO2≤70%, hypotension SBP≤90 mmHg, vomiting, aspiration, musculoskeletal pain, discomfort, facial edema, pressure ulcers and accidental withdrawal of catheters, tubes and/or drainages.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">82</enrollment>
+  <condition>Prone Position</condition>
+  <condition>Coronavirus Disease 2019</condition>
+  <condition>Oxygenation</condition>
+  <arm_group>
+    <arm_group_label>Control group (conventional care)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients randomized to this arm will receive the conventional positioning interventions provided by the critical care nurses, which will not include self-prone positioning.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention group (prone position group)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients randomized to this arm will receive self-prone positioning.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>prone position group</intervention_name>
+    <description>Patients randomized to this arm will receive self-prone positioning. Each patient in the intervention group will be helped into the prone position and encouraged to stay in the prone position as long as tolerated (at least 1 hour). The prone positioning consists of placing the patient on his or her stomach with the head on the side. Self-prone position will be performed 45 minutes up to 1 hour after meals to avoid gastrointestinal side effects. The patient will be maintained in prone position until the patient becomes too tired and uncomfortable to keep that position. If patients will asked to regain the supine position before the 1 hour period was complete, patient's prone position will be considered unfeasible and the reason will be reported. Patients who required invasive mechanical ventilation at any time point will be intubated and excluded from the study.</description>
+    <arm_group_label>Intervention group (prone position group)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Aged 18-75 years old&#xD;
+&#xD;
+          2. Awake non-intubated spontaneously breathing patients&#xD;
+&#xD;
+          3. Confirmed diagnosis of severe COVID-19; manifesting as dyspnea with respiratory rate ≥&#xD;
+             30 breaths/min, pulse rate ≥ 100 beats/min, oxygen saturation ≤93%, or partial&#xD;
+             pressure of arterial oxygen (PaO2) to fraction of inspired oxygen (FiO2) ratio ≤ 150&#xD;
+             mmHg.&#xD;
+&#xD;
+          4. Positive RT-PCR for SARS-CoV-2 from analysis of nasopharyngeal, oropharyngeal swab, or&#xD;
+             tracheal secretion specimens and with chest X-ray showing bilateral infiltrations or&#xD;
+             chest computerized tomographic (CT) images showing exudation or consolidation.&#xD;
+&#xD;
+          5. Requiring supplemental oxygen (nasal cannula, non-invasive CPAP, non-rebreathing face&#xD;
+             mask)&#xD;
+&#xD;
+          6. Capable of adopting a prone posture independently.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        The presence of any of the following will mean patients are ineligible:&#xD;
+&#xD;
+          1. life-threatening arrhythmias&#xD;
+&#xD;
+          2. Hemodynamic instability (defined as mean arterial pressure [MAP] &lt; 65mm Hg and use of&#xD;
+             vasopressors to achieve MAP &gt; 65 mm Hg)&#xD;
+&#xD;
+          3. Altered mental status, intracranial hypertension&#xD;
+&#xD;
+          4. Facial injuries&#xD;
+&#xD;
+          5. Spine or pelvic fractures&#xD;
+&#xD;
+          6. Recent abdominal surgery&#xD;
+&#xD;
+          7. Pregnancy&#xD;
+&#xD;
+          8. Altered mental status and patients needing invasive ventilation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sahar Y Othman, A/P.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Faculty of Nursing, Damanhour University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alaa M Mohamed, Lect.</last_name>
+    <role>Study Director</role>
+    <affiliation>Faculty of Nursing, Damanhour University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ahmed M El-Menshawy, Lect.</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Alexandria</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sahar Y Othman, A/P</last_name>
+    <phone>+201005551564</phone>
+    <email>cbcyounes2017@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Alaa M Mohamed, Lect.</last_name>
+    <phone>+201224426824</phone>
+    <email>alaa.mostafa@nur.dmu.edu</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Binda F, Marelli F, Galazzi A, Pascuzzo R, Adamini I, Laquintana D. Nursing Management of Prone Positioning in Patients With COVID-19. Crit Care Nurse. 2021 Apr 1;41(2):27-35. doi: 10.4037/ccn2020222.</citation>
+    <PMID>33341885</PMID>
+  </reference>
+  <reference>
+    <citation>Dubosh NM, Wong ML, Grossestreuer AV, Loo YK, Sanchez LD, Chiu D, Leventhal EL, Ilg A, Donnino MW. Early, awake proning in emergency department patients with COVID-19. Am J Emerg Med. 2020 Dec 3. pii: S0735-6757(20)31105-0. doi: 10.1016/j.ajem.2020.11.074. [Epub ahead of print]</citation>
+    <PMID>33309507</PMID>
+  </reference>
+  <reference>
+    <citation>Flynn Makic MB. Prone Position of Patients With COVID-19 and Acute Respiratory Distress Syndrome. J Perianesth Nurs. 2020 Aug;35(4):437-438. doi: 10.1016/j.jopan.2020.05.008. Epub 2020 May 30.</citation>
+    <PMID>32741521</PMID>
+  </reference>
+  <reference>
+    <citation>Solverson K, Weatherald J, Parhar KKS. Tolerability and safety of awake prone positioning COVID-19 patients with severe hypoxemic respiratory failure. Can J Anaesth. 2021 Jan;68(1):64-70. doi: 10.1007/s12630-020-01787-1. Epub 2020 Aug 14.</citation>
+    <PMID>32803468</PMID>
+  </reference>
+  <reference>
+    <citation>Sztajnbok J, Maselli-Schoueri JH, Cunha de Resende Brasil LM, Farias de Sousa L, Cordeiro CM, Sansão Borges LM, Malaque CMSA. Prone positioning to improve oxygenation and relieve respiratory symptoms in awake, spontaneously breathing non-intubated patients with COVID-19 pneumonia. Respir Med Case Rep. 2020;30:101096. doi: 10.1016/j.rmcr.2020.101096. Epub 2020 May 19.</citation>
+    <PMID>32455107</PMID>
+  </reference>
+  <reference>
+    <citation>Cotton S, Zawaydeh Q, LeBlanc S, Husain A, Malhotra A. Proning during covid-19: Challenges and solutions. Heart Lung. 2020 Nov - Dec;49(6):686-687. doi: 10.1016/j.hrtlng.2020.08.006. Epub 2020 Aug 19.</citation>
+    <PMID>32861885</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 18, 2021</study_first_posted>
+  <last_update_submitted>February 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Damanhour University</investigator_affiliation>
+    <investigator_full_name>Sahar Younes</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

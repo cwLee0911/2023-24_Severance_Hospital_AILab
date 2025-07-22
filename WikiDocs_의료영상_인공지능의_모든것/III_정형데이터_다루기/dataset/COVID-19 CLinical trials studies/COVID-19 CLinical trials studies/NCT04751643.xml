@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2616">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04751643</url>
+  </required_header>
+  <id_info>
+    <org_study_id>69HCL20_0518</org_study_id>
+    <secondary_id>2020-A03039-30</secondary_id>
+    <nct_id>NCT04751643</nct_id>
+  </id_info>
+  <brief_title>Therapeutic Plasma Exchange to Alleviate Hyperinflammatory Condition During Severe Covid-19 Infections</brief_title>
+  <acronym>CovidEP</acronym>
+  <official_title>Assessment of Therapeutic Plasma Exchange to Improve Respiratory Function by Alleviating Cytokine Storm During Severe Covid-19 Infections Randomised Open-label Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospices Civils de Lyon</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospices Civils de Lyon</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Severe Covid-19 (Coronavirus Disease 2019) infections generate major but inappropriate&#xD;
+      production of cytokines and, in some cases, generate anti-IFN (Interferon) auto-antibodies,&#xD;
+      inducing acute respiratory distress syndrom (ARDS). Therapeutic plasma exchange (TPE) have&#xD;
+      been reported to be efficient for improving the hyperinflammatory condition state and the&#xD;
+      respiratory function, which has been described in case reports or small series.&#xD;
+&#xD;
+      The study aims to remove cytokines during cytokine storm and anti-IFN auto-antibodies (when&#xD;
+      present) to prevent developpement of an inappropriate immune response and to improve the&#xD;
+      clinical response to reanimation treatment, in particular the respiratory parameters leading&#xD;
+      to a rapid improvement of clinical status. To that aim, the study investigates to compare a&#xD;
+      treatment using TPE plus usual treatments in intensive care unit (experimental arm) versus&#xD;
+      usual treatments in intensive care unit (routine arm) in a randomised trial.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">November 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Use of intubation and invasive ventilation (IV) between Day 0 (Inclusion Visit) and Day 10</measure>
+    <time_frame>At day 10</time_frame>
+    <description>Proportion of patients requiring intubation between Day 0 and Day 10. Intubation use will be measured in both arms at Day 10.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assess the adverse events according to CTCAE v5.0</measure>
+    <time_frame>Throughout the study : Day 1 to Day 10 and to the end of the study (Day 60 +/- 2 days)</time_frame>
+    <description>Adverse events according to CTCAE v5.0 measured throughout the study, in both groups, including tolerance to TPEs in the experimental group over the course of the study sessions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PaO2/FIO2 (Partial Pressure of Oxygen/Fraction of Inspired Oxygen) (mmHg) at day 4 after inclusion (PaO2/FiO2 is a usual parameter for assessing evolution of ARDS)</measure>
+    <time_frame>At Day 4</time_frame>
+    <description>PaO2/FIO2 (mmHg) at day 4 after inclusion. This parameter will be compared between day 4 and day 0.The change corresponds to an increase of PaO2/FIO2 ratio equal or superior than 20%. The proportion of patients with a PaO2/FiO2 change at Day 4 will be compared between both arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients weaned from non invasive ventilation</measure>
+    <time_frame>At day 10</time_frame>
+    <description>Percentage of patients weaned from high flow oxygen. This parameter is compared between both arms (experimental and control arms).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival at day 10</measure>
+    <time_frame>At day 10</time_frame>
+    <description>Percentage of patients alive at day 10 after inclusion. This parameter is compared between both arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival at 2 months</measure>
+    <time_frame>At day 60 (+/- 2 days)</time_frame>
+    <description>Percentage of patients alive at 2 months after inclusion. This parameter is compared between both arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients without any increase in inflammatory parameters (analysis of C-reactive protein, Fibrinogen,D-Dimers, procalcitonin, Ferritin)</measure>
+    <time_frame>At day 4</time_frame>
+    <description>Percentage of patients without any increase in inflammatory parameters (analysis of C-reactive protein, Fibrinogen,D-Dimers, procalcitonin, Ferritin ) at day 4 compared to values at day 0. This parameter is compared between both arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Variation in cytokine and chemokine levels in the cytokine storm</measure>
+    <time_frame>At day 4</time_frame>
+    <description>Percentage of patients without any increase in cytokine or chemokine levels. Leucocyte and platelet cytokine or chemokine levels in ng/ml are assessed in both arms. Analysis of the entire panel of cytokines or chemokines defines an improvement or not. Comparison between both arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients with improved phenotype (decreased phenotype of exhausted cells) and improved function (improved proliferation)</measure>
+    <time_frame>At day 7</time_frame>
+    <description>Lymphocyte and NK (Natural Killer) labeling and analysis by flow cytometry at day 0 and day 7. Analysis of lymphocyte proliferation (after stimulation) at day 0 and day 7. Analysis of percentage of patients with improved phenotype (decreased phenotype of exhausted cells) and improved function (improved proliferation) ; this parameter is compared between both arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients with decreased platelet activation</measure>
+    <time_frame>At Day 4</time_frame>
+    <description>Phenotype of platelets and flow cytometry analysis performed before and after TPE or usual treatment. Percentage of patients with decreased platelet activation at day 4 ; this parameter is compared between both arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients with decreased platelet activation</measure>
+    <time_frame>At Day 7</time_frame>
+    <description>Phenotype of platelets and flow cytometry analysis performed before and after TPE or usual treatment. Percentage of patients with decreased platelet activation at day 7 ; this parameter is compared between both arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in anti-IFN auto-antibodies type I (α and ω) level</measure>
+    <time_frame>Day 0 and Day 4</time_frame>
+    <description>Change in anti-IFN auto-antibodies type I (α and ω) level at day 0 and day 4.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">132</enrollment>
+  <condition>Intensive Care Units</condition>
+  <condition>ARDS, Human</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>TPE + usual treatments in intensive care unit according to the current state of knowledge.</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TPE + usual treatments in intensive care unit according to the current state of knowledge : 3 TPE sessions i.e. one per day during 3 consecutive days on day 1-3 (day 0 = inclusion Visit date)) + usual treatments in intensive care unit.&#xD;
+Usual treatments of patients in intensive care unit with hyperinflammatory condition due to Covid-19 infection consist in supporting respiratory function, oxygen supplementation, non invasive ventilation, invasive ventilation, antibiotic, vasopressive support and corticosteroids (in absence of bacterial secondary infection)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual treatments in intensive care unit according to the current state of knowledge</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Usual treatments of patients in intensive care unit with hyperinflammatory condition due to Covid-19 infection consist in supporting respiratory function, oxygen supplementation, non invasive ventilation, invasive ventilation, antibiotic, vasopressive support and corticosteroids (in absence of bacterial secondary infection)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Therapeutic plasma exchange : 3 sessions in 3 consecutive days (day 1 to day 3)</intervention_name>
+    <description>Therapeutic plasma exchange (TPE) ; 3 sessions in 3 consecutive days (Day 1 to Day 3) in intensive care unit in addition to usual treatments.&#xD;
+Plasma removed is replaced by thawed fresh frozen plasma. Plasma blood volume exchanged : 1.2 Apheresis type: centrifugation</description>
+    <arm_group_label>TPE + usual treatments in intensive care unit according to the current state of knowledge.</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Usual treatments in intensive care unit according to the current state of knowledge</intervention_name>
+    <description>Usual treatments of patients in intensive care unit with hyperinflammatory condition due to Covid-19 infection consist in supporting respiratory function, oxygen supplementation, non invasive ventilation, invasive ventilation, antibiotic, vasopressive support and corticosteroids (in absence of bacterial secondary infection)</description>
+    <arm_group_label>TPE + usual treatments in intensive care unit according to the current state of knowledge.</arm_group_label>
+    <arm_group_label>Usual treatments in intensive care unit according to the current state of knowledge</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt; 18 years&#xD;
+&#xD;
+          -  Hospitalized for COVID-19 confirmed by Reverse Transcriptase-Polymerase Chain Reaction&#xD;
+             (RT-PCR) or scanner&#xD;
+&#xD;
+          -  Patients with PaO2/FiO2 between 100 and 200 mmHg requiring non invasive ventilation or&#xD;
+             high flow oxygen&#xD;
+&#xD;
+          -  At least two biological results suggesting a cytokine storm or hyperinflammatory&#xD;
+             condition state among : C-reactive protéine (CRP)&gt;50mg/L, Procalcitonin (PCT)&gt;1µg/L,&#xD;
+             Fibrinogen&gt;5g/L, D-dimer &gt;1000ng/mL, Ferritin &gt; 800ng/mL during the last 72 hours.&#xD;
+&#xD;
+          -  Treatment with corticosteroids (at least 2 intakes of dexamethasone 6 mg or equivalent&#xD;
+             with another form of corticosteroids)&#xD;
+&#xD;
+          -  Patient affiliated to a social security or similar scheme&#xD;
+&#xD;
+          -  Information and written consent from the patient or if not possible from a confident&#xD;
+             person&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Ventilated intubated patients&#xD;
+&#xD;
+          -  Patient with advanced cancer and without curative possibility&#xD;
+&#xD;
+          -  Bacterial or viral (HIV) infection explaining the worsening (the main reason)&#xD;
+&#xD;
+          -  Body Mass Index &gt; 40&#xD;
+&#xD;
+          -  Impossibility to put a central venous catheter according to investigator's judgement&#xD;
+&#xD;
+          -  Severe hemodynamic instability with mean arterial pressure &lt; 65 mmHg (whatever the&#xD;
+             noradrenaline dosage used)&#xD;
+&#xD;
+          -  Immunoglobulin A (IgA) deficiency with anti-IgA antibodies&#xD;
+&#xD;
+          -  Inclusion in another study that could interact with the Covidep study (investigator's&#xD;
+             judgement)&#xD;
+&#xD;
+          -  Patient under legal protection measure&#xD;
+&#xD;
+          -  Pregnant or breastfeeding women&#xD;
+&#xD;
+          -  In case of allergy to amotosalen (psoralens) or AI-FFP (Amotosalen Inactivated Fresh&#xD;
+             Frozen Plasma) , use Se-FFP (Secured Fresh Frozen Plasma)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Olivier HEQUET, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospices Civils de Lyon - Etablissement Français du Sang</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Olivier HEQUET, MD, PhD</last_name>
+    <phone>06 31 91 88 87</phone>
+    <phone_ext>+33</phone_ext>
+    <email>olivier.hequet@efs.sante.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Fabrice COGNASSE, PhD</last_name>
+    <phone>06 83 97 58 83</phone>
+    <phone_ext>+33</phone_ext>
+    <email>fabrice.cognasse@efs.sante.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Centre Hospitalier William Morey</name>
+      <address>
+        <city>Chalon-sur-Saône</city>
+        <zip>71100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mael HAMET, MD</last_name>
+      <phone>03 85 91 01 11</phone>
+      <phone_ext>+33</phone_ext>
+      <email>Mael.Hamet@ch-chalon71.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Mael HAMET, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Paul-Simon PUGLIESI, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Edouard Herriot</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69003</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Thomas RIMMELE, MD, PhD</last_name>
+      <phone>04.72.11.02.81</phone>
+      <phone_ext>+33</phone_ext>
+      <email>thomas.rimmele@chu-lyon.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Thomas RIMMELE, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Edouard Herriot</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69003</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Laurent ARGAUD, MD, PhD</last_name>
+      <phone>04.72.11.28.51</phone>
+      <phone_ext>+33</phone_ext>
+      <email>laurent.argaud@chu-lyon.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>MD, PhD</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Laurent ARGAUD, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Croix Rousse</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69004</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean Christophe RICHARD, MD, PhD</last_name>
+      <phone>04.26.10.92.72</phone>
+      <phone_ext>+33</phone_ext>
+      <email>j-christophe.richard@chu-lyon.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Jean Christophe RICHARD, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique de la Sauvegarde</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69337</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olivier DESEBBE, MD</last_name>
+      <phone>06.51.05.80.65</phone>
+      <phone_ext>+33</phone_ext>
+      <email>oldesebbe@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Olivier DESEBBE, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Bertrand DELANNOY, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Groupement Hospitalier Porte de Valence - Montélimar</name>
+      <address>
+        <city>Montelimar</city>
+        <zip>26216</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mathieu Schoeffler, MD</last_name>
+      <phone>04 75 53 47 68</phone>
+      <phone_ext>+33</phone_ext>
+      <email>Mathieu.SCHOEFFLER@gh-portesdeprovence.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Mathieu Schoeffler, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Pitié Salpétrière - Assistante Publique des Hôpitaux de Paris</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Benjamin Rohaut, MD</last_name>
+      <email>benjamin.rohaut@aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Benjamin Rohaut, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nicolas Weiss, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sophie Demeret, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Samir Saheb, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Lyon Sud</name>
+      <address>
+        <city>Pierre-Bénite</city>
+        <zip>69310</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Vincent PIRIOU, MD, PhD</last_name>
+      <phone>04.78.86.20.70</phone>
+      <phone_ext>+33</phone_ext>
+      <email>vincent.piriou@chu-lyon.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Vincent PIRIOU, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medipole Villeurbanne</name>
+      <address>
+        <city>Villeurbanne</city>
+        <zip>69100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Quoc-Viet LE, MD</last_name>
+      <phone>04 87 65 00 00</phone>
+      <phone_ext>+33</phone_ext>
+      <email>qvle@scprea.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Quoc-Viet LE, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 12, 2021</study_first_posted>
+  <last_update_submitted>February 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Therapeutic plasma exchange</keyword>
+  <keyword>Cytokine storm</keyword>
+  <keyword>Hyperinflammatory condition</keyword>
+  <keyword>Anti-IFN antibodies</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

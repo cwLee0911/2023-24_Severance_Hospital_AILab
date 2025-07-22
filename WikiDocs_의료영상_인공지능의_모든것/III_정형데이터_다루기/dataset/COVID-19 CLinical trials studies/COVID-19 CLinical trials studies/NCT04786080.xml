@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5075">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04786080</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SPARKLE; REC #:HR-20/21-21451</org_study_id>
+    <nct_id>NCT04786080</nct_id>
+  </id_info>
+  <brief_title>Supporting Parents &amp; Kids Through Lockdown Experiences (SPARKLE).</brief_title>
+  <acronym>SPARKLE</acronym>
+  <official_title>Supporting Parents &amp; Kids Through Lockdown Experiences (SPARKLE): A Parallel Randomised Controlled Trial of a Digital Parenting Support Application Implemented in the General Population During the COVID-19 Pandemic.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>King's College London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Oxford</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>King's College London</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Throughout the COVID-19 pandemic, reduced access to childcare, money- and health-related&#xD;
+      worries and extended confinement and social isolation have placed great pressure on many&#xD;
+      families. There is evidence that many parents in the UK have struggled to manage their&#xD;
+      children's behaviour. For instance, Co-SPACE, an ongoing UK-wide study led by the University&#xD;
+      of Oxford, found a significant increase in parents reporting behavioural problems in children&#xD;
+      and an increase in family-related stress in response to various local and national lockdowns.&#xD;
+      Co-SPACE has also found up to 70% of parents reported wanting additional support.&#xD;
+&#xD;
+      The SPARKLE (Supporting Parents and Kids through Lockdown Experiences) study aims to address&#xD;
+      this pressing need. SPARKLE is a rapid-deployment randomised controlled trial evaluating&#xD;
+      whether a digital public health parenting intervention can help parents to manage their&#xD;
+      children's behaviour problems, as impacted by the COVID-19 UK pandemic and lockdowns.&#xD;
+&#xD;
+      We aim to evaluate whether the negative effects of the pandemic can by reversed by providing&#xD;
+      parenting advice digitally, using a specially-designed app, Parent Positive. The Parent&#xD;
+      Positive app will provide advice to parents through animations, delivering messages carefully&#xD;
+      selected by parents and experts in the field. The messages will be supplemented with&#xD;
+      practical parenting resources and an opportunity to network with other parents for peer&#xD;
+      support. The animations are light-hearted, humorous and non-judgmental and are delivered by&#xD;
+      eight high-profile celebrities who are also parents.&#xD;
+&#xD;
+      The SPARKLE study will involve 616 Co-SPACE parents, half of whom will receive access to the&#xD;
+      Parent Positive app and half who won't.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 15, 2021</start_date>
+  <completion_date type="Anticipated">November 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>SPARKLE is a two-arm superiority parallel group randomised controlled trial (RCT) embedded in an existing large self-selected community cohort - Co-SPACE. Co-SPACE parents aged ≥18, who have children aged 4-10 years, will be invited to take part in the SPARKLE trial. Those who consent to SPARKLE will be randomised 1:1 to either Parent Positive or FAU. Outcome measures will be collected according to the Co-SPACE schedule at baseline (T1), which will be the Co-SPACE survey data obtained immediately prior to randomisation, and then at one month (T2) and two months (T3) post-randomisation.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+    <masking_description>It is not possible to blind parents enrolled in the study and Qualtrics will automatically inform parents of their group allocation. Blinded members of the research team and the senior statistician will not be given access to the Qualtrics system or the data in order to remain blinded until after the analysis is complete. We do not anticipate any serious harms associated with taking part in the intervention, therefore there will be no need to unblind any blinded staff during the study. The junior statistician will be unblinded throughout.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Strengths and Difficulties Questionnaire (SDQ; Goodman, 1997) Conduct Problems</measure>
+    <time_frame>Measured at one month post-randomisation (T2).</time_frame>
+    <description>Parent-rated conduct subscale of the SDQ; a five item subscale measuring oppositional, defiant and disruptive behaviour rated on a 3-point Likert scale (not true, somewhat true, and certainly true), with a mix of positive and negatively phrased items. Individual items' scores are summed to derive an overall symptoms subscale score. This measure is also collected at baseline (T1), prior to randomisation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SDQ Conduct Problems</measure>
+    <time_frame>Measured at two months post-randomisation (T3).</time_frame>
+    <description>Parent-rated conduct subscale of the SDQ; a five item subscale measuring oppositional, defiant and disruptive behaviour rated on a 3-point Likert scale (not true, somewhat true, and certainly true), with a mix of positive and negatively phrased items. Individual items' scores are summed to derive an overall symptoms subscale score. This measure is also collected at baseline (T1), prior to randomisation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SDQ Emotional Problems</measure>
+    <time_frame>Measured at one (T2) and two months (T3) post-randomisation.</time_frame>
+    <description>Parent-rated emotional problems subscale of the SDQ; a five item subscale measuring fearfulness and anxiety rated on a 3-point Likert scale (not true, somewhat true, and certainly true) with positively phrased items. Individual items' scores are summed to derive an overall symptoms subscale score. This measure is also collected at baseline (T1), prior to randomisation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental child-related stress and worries levels</measure>
+    <time_frame>Measured at one (T2) and two months (T3) post-randomisation.</time_frame>
+    <description>This is based on five items routinely measured in Co-SPACE regarding children's behaviour, wellbeing, screen time use, education and future using a 4-point Likert scale (not at all, a little, quite a lot, a great deal). Individual questions' scores are summed to generate a single score. This measure is also collected at baseline (T1), prior to randomisation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Family conflict</measure>
+    <time_frame>Measured at one (T2) and two months (T3) post-randomisation.</time_frame>
+    <description>This is based on three items routinely collected in Co-SPACE relating to arguments between parents, parents and children and siblings which are measured on a 4-point Likert scale (not at all, a bit, a lot, completely). The three questions are summed to generate a total score. This measure is also collected at baseline (T1), prior to randomisation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Depression, Anxiety and Stress Scale (DASS-21) parental psychological distress</measure>
+    <time_frame>Measured at one (T2) and two months (T3) post-randomisation.</time_frame>
+    <description>This is a widely validated 21-item self-report questionnaire measuring adult depression, anxiety and stress. Each of the subscales consists of seven items rated on a 4-point Likert scale (did not apply to me at all; applied to me to some degree, or some of the time; applied to me to a considerable degree, or a good part of the time, applied to me very much, or most of the time), which are summed to obtain a single subscale score. The subscales scores will be summed and multiplied by two to form a single psychological distress measure comparable to the DASS-42 measure. This measure is also collected at baseline (T1), prior to randomisation.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Family characteristics and demographic measures</measure>
+    <time_frame>Measured at baseline (T1).</time_frame>
+    <description>Parents will provide information about their child's age and gender, their own and their child's ethnicity, number of children in the family, number of rooms in the family home and access to outside space. This will be used for description of the sample. We will estimate family SES based on total household income, coded as &lt; £16,000 | £16,000 - £29,999 | £30,000 - £59,999 | £60,000 - £89,999 | £90,000 - £119,999 | &gt; £120,000 | Prefer not to say, likely collapsing small categories. Family characteristics and demographic measures are obtained for sample description and for moderation analyses</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>COVID-19 pandemic lockdown circumstances</measure>
+    <time_frame>Measured at baseline (T1), and one (T2) and two months (T3) post-randomisation.</time_frame>
+    <description>Parents will provide information on the pandemic-related restrictions they are currently facing. This will include details of the current lockdown policy in their local area, whether parents are working from home, and whether children are being home-schooled. COVID-19 pandemic lockdown circumstances are measured at baseline (T1) for moderation analyses and at one month (T2) and two months (T3) post-randomisation for descriptive purposes.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SDQ ADHD Symptoms</measure>
+    <time_frame>Measured at baseline (T1), and one (T2) and two months (T3) post-randomisation.</time_frame>
+    <description>This five item subscale measures restlessness, overactivity and inattention rated on 3-point Likert scales (not true, somewhat true, and certainly true), with a mix of positive and negatively phrased items. Individual items' scores are summed to derive an overall symptoms subscale score. SDQ ADHD symptoms are measured at baseline (T1) for moderation analyses, and at one (T2) and two months (T3) post-randomisation for calculation of QALYs for the cost-effectiveness analysis.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SDQ Peer Problems</measure>
+    <time_frame>Measured at baseline (T1), and one (T2) and two months (T3) post-randomisation.</time_frame>
+    <description>This five item subscale measures difficulties in peer relationships and bullying rated on 3-point Likert scales (not true, somewhat true, and certainly true), with a mix of positive and negatively phrased items. Individual items' scores are summed to derive an overall peer problems subscale score. SDQ Peer Problems are measured at baseline (T1), and at one month (T2) and two months (T3) post-randomisation for calculation of QALYs for the cost-effectiveness analysis.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SDQ Prosocial Behaviour</measure>
+    <time_frame>Measured at baseline (T1), and one (T2) and two months (T3) post-randomisation.</time_frame>
+    <description>This five item subscale measures difficulties in peer relationships and bullying rated on 3-point Likert scales (not true, somewhat true, and certainly true), with positively phrased items. Individual items' scores are summed to derive an overall prosocial subscale score with higher scores indicating more prosocial behaviour. SDQ Prosocial Behaviour are measured at baseline (T1), and at one month (T2) and two months (T3) post-randomisation for calculation of QALYs for the cost-effectiveness analysis.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Estimate of resource use for the health economic analysis</measure>
+    <time_frame>Measured at one (T2) and two months post-randomisation (T3).</time_frame>
+    <description>Information about use over the two-month period from randomisation of key health and social services known from published studies to be of relevance to the current population will be collected using a modified version of the Child and Adolescent Service Use Schedule (CA-SUS; Barrett et al., 2012) completed by the parent/carer in order to inform health economic analyses.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Attitudes to Parent Positive</measure>
+    <time_frame>Measured at one (T2) and two months (T3) post-randomisation.</time_frame>
+    <description>Parent mean ratings of Parent Positive using a questionnaire, consisting of three items measuring parents' ratings of the usefulness of each individual zone rated on a 7-point scale (1 = not useful at all to 7 = very useful), which will be summed up to derive an overall app usefulness score. The questionnaire will also capture parents' descriptive and qualitative views of Parent Positive - both positive and negative. This will only be measured among those in the Parent Positive arm.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>App usage data</measure>
+    <time_frame>Measured at one (T2) and two months (T3) post-randomisation.</time_frame>
+    <description>Usage data will be broken down by Parent Positive zones (Booster, Exchange, Hub). This will allow descriptive analysis of usage patterns. The analysis of the impact of usage levels on the effects of Parent Positive will be based on a derived measure of total time accessing the &quot;Booster&quot; zone during the intervening period. Other app usage metrics will be collected (e.g., engagement in Exchange zone). This will only be measured among those in the Parent Positive arm.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>Measured at one (T2) and two months (T3) post-randomisation.</time_frame>
+    <description>Self-reported standard medical and pre-specified psychological events deemed relevant to the intervention and population group (e.g., increase in detrimental child behaviour, increased family conflict, child protection concerns).</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">616</enrollment>
+  <condition>Child Behavior Problem</condition>
+  <condition>Mental Health Issue</condition>
+  <arm_group>
+    <arm_group_label>Parent Positive</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This is an app developed for use on a smartphone providing a flexible digital space where parents can get support and advice to help them manage their children's behaviour. The app will be free and parents will be able to access the information when needed and in the order they choose. Parents in the intervention group will receive access during the immediate post-randomisation period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Follow-Up as Usual</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>FAU was selected as a comparator because of the pragmatic nature of the trial. Individuals randomised to FAU will receive no intervention for the first 10 weeks while the data for baseline (T1), T2 and T3 are collected. They will then be given access to all three zones of the app.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Parent Positive</intervention_name>
+    <description>Parent Positive is a smartphone app delivering information and parenting support aiming to improve wellbeing within the family and reduce pressures on services given the ongoing pandemic-related challenges. It will consist of three zones, providing:&#xD;
+structured advice, support and tips for parents&#xD;
+facilitated parent-to-parent communication platform where parents can post questions of one another and parenting experts&#xD;
+access to carefully selected high-quality, evidence-based online parenting resources.</description>
+    <arm_group_label>Parent Positive</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  The Co-SPACE inclusion criteria will apply: participant is willing and able to give&#xD;
+             informed consent, must be at least 18 years old and lives in the UK.&#xD;
+&#xD;
+          -  SPARKLE-specific criteria will be: participant (parent/caregiver) has a child aged&#xD;
+             4-10 years and has access to a smartphone or tablet with operating system OS 8-9 or&#xD;
+             higher (Android devices) or iOS 12-13 or higher (Apple devices).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  There will be no exclusion criteria. Participants will not be selected on the basis of&#xD;
+             pre-existing child conduct problems.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Edmund Sonuga-Barke, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>edmund.sonuga-barke@kcl.ac.uk</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Edmund Sonuga-Barke, PhD</last_name>
+    <phone>+4420 7848 0464</phone>
+    <email>edmund.sonuga-barke@kcl.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Melanie Palmer, PhD</last_name>
+    <email>melanie.palmer@kcl.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>King's College London</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Edmund Sonuga-Barke</last_name>
+      <email>sparkle@kcl.ac.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>https://www.kcl.ac.uk/news/new-project-to-develop-an-app-that-addresses-the-negative-effect-of-covid-19-on-childrens-behaviour</url>
+    <description>KCL SPARKLE Study press release</description>
+  </link>
+  <link>
+    <url>https://cospaceoxford.org/</url>
+    <description>University of Oxford Co-SPACE website</description>
+  </link>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>February 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 8, 2021</study_first_posted>
+  <last_update_submitted>March 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Child Behaviour Problems</keyword>
+  <keyword>Parenting</keyword>
+  <keyword>Smartphone Application</keyword>
+  <keyword>COVID-19 Pandemic</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Problem Behavior</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>On completion of the study a clean, pseudonymised data set will be made available for open access via the UK Data Service or another suitable repository. Questionnaire and app data will be shared along with a procedures document, curation document and description of variables. Links to the data record will be provided in all papers published using the data.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data will be made publicly accessible on publication of research findings or no later than 12 months after the completion of the grant, whichever is sooner.</ipd_time_frame>
+    <ipd_access_criteria>The data will be deposited with the UK Data Service or another suitable repository and will therefore be made publicly and freely accessible.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

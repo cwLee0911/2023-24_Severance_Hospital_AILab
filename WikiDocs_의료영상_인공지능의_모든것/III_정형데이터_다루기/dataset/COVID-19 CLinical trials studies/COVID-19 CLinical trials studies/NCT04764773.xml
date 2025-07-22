@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="495">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04764773</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Soh-Med-21-02-46</org_study_id>
+    <nct_id>NCT04764773</nct_id>
+  </id_info>
+  <brief_title>Persistence of Symptoms After Improvement of Acute COVID-19</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>Persistence of Symptoms After Improvement of Acute COVID19 Infection in Sohag Governorate, Egypt, A Longitudinal Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sohag University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sohag University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus disease pandemic has been started in late 2019. Survivors of COVID-19 are&#xD;
+      significantly more likely to develop clinical sequelae three months after discharge from the&#xD;
+      hospital than those without COVID-19 infection. This is true not only for general and&#xD;
+      respiratory symptoms but also for cardiovascular and psychosocial symptoms. This suggests&#xD;
+      that these symptoms may indeed be the sequelae of recovery for COVID-19 survivors. So, we&#xD;
+      aimed to detect the prevalence and to evaluate the type of symptoms that could persist after&#xD;
+      the recovery from COVID19 infection in Sohag governorate, Egypt.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      About one hundred patients who were test positive for SARS-CoV2 and were improved and&#xD;
+      discharged from Sohag isolation hospitals and isolation department for COVID19 in Sohag&#xD;
+      University hospitals during the period from 15th May, 2020 to 25th July, 2020 will be&#xD;
+      included in our study. Patient improvement and discharge criteria include 10 day from&#xD;
+      symptoms onset in addition to 3 day free of fever and respiratory symptoms.&#xD;
+&#xD;
+      Patients with severe complex illness, pregnant or lactating females and patient who refuse to&#xD;
+      participate or give complete detailed history will be excluded from the study.&#xD;
+&#xD;
+      The study protocol will be approved by the scientific Research Ethical committee, Faculty of&#xD;
+      Medicine, Sohag University A control group of healthy volunteer who were age and sex matched&#xD;
+      to our patient were included&#xD;
+&#xD;
+      After taken informed consent according to Sohag University Ethical Committee, the baseline&#xD;
+      data will be collected from Sohag isolation hospital of COVID19, then the researchers will&#xD;
+      perform interviews with all participants through mobile phone. The interview will include:&#xD;
+&#xD;
+        -  Name (Optional)&#xD;
+&#xD;
+        -  Age&#xD;
+&#xD;
+        -  Sex&#xD;
+&#xD;
+        -  Occupation&#xD;
+&#xD;
+        -  Presence of DM, HTN or any chronic illness&#xD;
+&#xD;
+        -  Asking about Smoking&#xD;
+&#xD;
+        -  The date of catching COVID19 infection&#xD;
+&#xD;
+        -  Asking about symptoms of COVID19 infection and duration of each symptom.&#xD;
+&#xD;
+        -  Asking about any residual symptoms as: Fatigue, Myalgia, Arthralgia, Chest pain,&#xD;
+           Dyspnea, Dry cough, Productive cough, Sore Throat, Anosmia, Loss of taste sensation,&#xD;
+           Nausea, Anorexia, Diarrhea, Redness of the eye, Headache, Confusion and Depression&#xD;
+&#xD;
+      Statistical analysis:&#xD;
+&#xD;
+      Data will be analyzed using STATA version 14.2 (Statistical Software: Release 14.2 College&#xD;
+      Station, TX: Stata Corp LP). Quantitative data will be represented as mean, standard&#xD;
+      deviation, median and range. normally distributed. Qualitative data will be presented as&#xD;
+      numbers and percentages. Chi square test will be used for comparison of percentages in&#xD;
+      different groups. P value will be considered significant if it was less than 0.05.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Anticipated">March 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of patient who had persistent symptoms after recovery of acute covid19</measure>
+    <time_frame>during the period from 15th May,2020 to the end of February, 2021</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Type of persistent symptom after acute covid19</measure>
+    <time_frame>during the period from the start of June 2020 to the end of July 2020</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Risk factors for persistent symptoms after recovery of acute covid19</measure>
+    <time_frame>during the period from 15th May,2020 to the end of February, 2021</time_frame>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>Case</arm_group_label>
+    <description>Patient who had COVID19 infection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control</arm_group_label>
+    <description>healthy volunteer who were age and sex matched with our patients</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No intervention</intervention_name>
+    <description>No intervention</description>
+    <arm_group_label>Case</arm_group_label>
+    <arm_group_label>control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients who were test positive for SARS-CoV2 and were improved and discharged from Sohag&#xD;
+        isolation hospitals and isolation department for COVID19 in Sohag University hospitals&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Positive for SARS-CoV2&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with severe complex illness, pregnant or lactating females and patient who&#xD;
+             refuse to participate or give complete detailed history&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Noha Abdelrahman, assistant-lecturer</last_name>
+    <role>Study Chair</role>
+    <affiliation>Sohag University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mona Abdelrahmam, Lecturer</last_name>
+    <phone>01021025895</phone>
+    <email>monamohamed@med.sohag.edu.eg</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tasneem Bakheet, lecturer</last_name>
+    <phone>01006987577</phone>
+    <email>Tasneem.bakheet@yahoo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Mona Mohammed Abdelrahman</name>
+      <address>
+        <city>Sohag</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mona Abdelrahman, lecturer</last_name>
+      <phone>01021025895</phone>
+      <phone_ext>002</phone_ext>
+      <email>monamohamed@med.sohag.edu.eg</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tasneem Bakheet, lecturer</last_name>
+      <phone>01006987577</phone>
+      <phone_ext>002</phone_ext>
+      <email>tasneem.bakheet@yahoo.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <reference>
+    <citation>Xiong Q, Xu M, Li J, Liu Y, Zhang J, Xu Y, Dong W. Clinical sequelae of COVID-19 survivors in Wuhan, China: a single-centre longitudinal study. Clin Microbiol Infect. 2021 Jan;27(1):89-95. doi: 10.1016/j.cmi.2020.09.023. Epub 2020 Sep 23.</citation>
+    <PMID>32979574</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sohag University</investigator_affiliation>
+    <investigator_full_name>Mona Mohammed Abdelrhman</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>Persistent symptoms</keyword>
+  <keyword>Recovery</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3967">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04826731</url>
+  </required_header>
+  <id_info>
+    <org_study_id>104/18</org_study_id>
+    <nct_id>NCT04826731</nct_id>
+  </id_info>
+  <brief_title>Effect of Respiratory Exerciser on Pulmonary Functions of COVID-19 Patients</brief_title>
+  <official_title>Effect of Respiratory Exerciser on Pulmonary Functions of COVID-19 Patients, A Prospective Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Diskapi Yildirim Beyazit Education and Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Diskapi Yildirim Beyazit Education and Research Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 infection is the cause of the current pandemic, responsible for loss of life and&#xD;
+      disability at a rate unseen before. Among survivors, the infection may cause lasting damage,&#xD;
+      such as permanent loss of lung function.&#xD;
+&#xD;
+      This study aims to investigate if pulmonary rehabilitation done via supportive devices may&#xD;
+      reduce or prevent lung function injury. Patients will be chosen among COVID-19 patients who&#xD;
+      require hospitalization. Patients then will be divided into two groups, those who had used&#xD;
+      said devices, and compare them to those who had not used them for any reason. After a month,&#xD;
+      two groups will be evaluated by respiratory function tests, which are expected to provide the&#xD;
+      results required for a proper comparison.&#xD;
+&#xD;
+      Pulmonary rehabilitation provided by the supportive devices is expected to either lessen or&#xD;
+      eliminate a loss of pulmonary function over time, compared to the group who did not use them.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      SARS-CoV-2 is a novel coronavirus that is responsible for the current pandemic. Its clinical&#xD;
+      presentation varies from asymptomatic infection to severe respiratory failure requiring&#xD;
+      intensive care stay. Loss of respiratory function had been observed in survivors of other&#xD;
+      coronaviruses in earlier studies. The degree of respiratory function loss and if any&#xD;
+      intervention may reduce or prevent it remains an issue to be clarified.&#xD;
+&#xD;
+      The study's goal is to investigate the effects of pulmonary rehabilitation via a supporting&#xD;
+      device on COVID-19 patients during a follow-up period of one month. The primary method of&#xD;
+      investigation of pulmonary functions is comparing peak expiratory flow (PEF) at the time of&#xD;
+      diagnosis and after treatment.&#xD;
+&#xD;
+      The study hypothesizes that patients who had successfully used a respiratory exerciser or a&#xD;
+      similar aid device will have better PEF results at the end of the first-month evaluation.&#xD;
+&#xD;
+      The effect of an incentive spirometer and/or a respiratory exerciser on the pulmonary&#xD;
+      function results is the main element under investigation in this study. The hospital provides&#xD;
+      these devices, and in cases, patients demand another device, the patients and their relatives&#xD;
+      are asked to purchase such equipment.&#xD;
+&#xD;
+      Pulmonary function tests (PFT) are considered a part of routine evaluation for the COVID-19&#xD;
+      patients a month after the treatment. Patients are considered suitable for PFT evaluation if&#xD;
+      the COVID-19 infectious process is deemed treated, and other contraindications for PFT are&#xD;
+      not present, such as recent surgery or pneumothorax.&#xD;
+&#xD;
+      Patients admitted to the pulmonary medicine ward for COVID-19 infection are generally those&#xD;
+      who already have respiratory comorbidity, including chronic obstructive pulmonary disease,&#xD;
+      asthma, concurrent pneumonia, and respiratory failure. Due to these reasons, PFT is not&#xD;
+      considered an acceptable evaluation method during the acute phase and is not requested. PEF&#xD;
+      testing, on the other hand, remains a simple yet effective alternative compared to PFT due to&#xD;
+      being more portable, the presence of disposable parts, and overall cost. It is the initial&#xD;
+      choice of evaluation for patients after a clinical response is seen to treatment and testing&#xD;
+      is deemed safe.&#xD;
+&#xD;
+      The respiratory exercise is considered a part of COVID-19 care, primarily due to patients'&#xD;
+      comorbidities, as mentioned above. This approach is limited in terms of healthcare personnel&#xD;
+      for on-point pulmonary rehabilitation due to both the disease's infectious nature and limited&#xD;
+      resources. Respiratory exercise devices are accepted as a reasonable alternative that can be&#xD;
+      quantitively monitored and provided on a daily basis.&#xD;
+&#xD;
+      This prospective study plans to evaluate the impact of respiratory exercise provided by&#xD;
+      incentive spirometers and respiratory exercisers. The evaluation will be performed by&#xD;
+      comparing the initial PEF result after the end of COVID-19 treatment and subsequent ward&#xD;
+      discharge; to the PEF result of the PFT evaluation at the end of the first month.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2021</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Peak Expiratory Flow (PEF)</measure>
+    <time_frame>The first PEF testing will be performed seven days after initial diagnosis. The second testing will be performed one month after the hospital discharge, among those who are considered suitable for testing.</time_frame>
+    <description>Two PEF results will be compared in the study. The first PEF testing will be performed by a handheld device and the second measurement will be performed either by an office spirometer or a handheld device. The priority will be given to the office spirometer for testing preference.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Forced Expiratory Volume (FEV1)</measure>
+    <time_frame>Forced Expiratory Volume (FEV1) will be evaluated one month after the hospital discharge, as a standard procedure for all COVID-19 patients.</time_frame>
+    <description>Forced Expiratory Volume (FEV1) result of the pulmonary function testing will be used as a baseline pulmonary function parameter. It will be performed via standard office spirometry. It will be calculated as an absolute value (in liters) and as a percentage (compared to the normal population data)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Forced Vital Capacity (FVC)</measure>
+    <time_frame>Forced Vital Capacity will be evaluated one month after the hospital discharge, as a standard procedure for all COVID-19 patients.</time_frame>
+    <description>Forced Vital Capacity (FVC) result of the pulmonary function testing will be used as a baseline pulmonary function parameter. It will be performed via standard office spirometry. It will be calculated as an absolute value (in liters) and as a percentage (compared to the normal population data)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Mortality evaluation will include the time period of one month after hospital discharge. The total evaluation duration will also include the hospitalization period (which is considered an average of 7 days)</time_frame>
+    <description>Mortality will be accepted as a secondary outcome measure, in patients who may not survive until the monthly evaluation for any reason.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <condition>Respiratory Function Loss</condition>
+  <condition>Coronavirus Infection</condition>
+  <condition>Pneumonia, Viral</condition>
+  <arm_group>
+    <arm_group_label>Incentive Spirometer Group</arm_group_label>
+    <description>Patients who would use an incentive spirometer, in addition to standard care provided to COVID-19 patients, will be categorized under &quot;Incentive Spirometer Group&quot;.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard Care Group</arm_group_label>
+    <description>Patients who did not use an incentive spirometer despite being suggested to do so will be categorized under &quot;Standard Care Group&quot;.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Incentive Spirometer/Respiratory Exerciser</intervention_name>
+    <description>A patient is considered acceptable for the &quot;Incentive Spirometer Group&quot; if the patient can use an incentive spirometer and/or a respiratory exerciser at least four times per day. A pulmonary medicine specialist will confirm the proper usage of the device.</description>
+    <arm_group_label>Incentive Spirometer Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients will be selected among those who apply to emergency service and evaluated by a&#xD;
+        pulmonary medicine resident or specialist. Among this population, further selection will be&#xD;
+        performed via the inclusion and exclusion criteria.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Being at least 18 years or older&#xD;
+&#xD;
+          2. Approval given both written and orally to the study participation&#xD;
+&#xD;
+          3. COVID-19 positivity proven by reverse transcription-polymerase chain reaction (RT-PCR)&#xD;
+             testing&#xD;
+&#xD;
+          4. At least one evaluation/consultation performed by a pulmonary medicine specialist OR&#xD;
+             admission to pulmonary medicine ward from another department in the hospital&#xD;
+&#xD;
+          5. First hospital admission has to be via emergency ward, regardless of the concurrent&#xD;
+             hospital stay.&#xD;
+&#xD;
+          6. Cooperation at an acceptable degree for pulmonary function testing.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any contraindication presence for pulmonary function testing (such as anatomic&#xD;
+             abnormalities, recent cardiac history, and severe respiratory failure)&#xD;
+&#xD;
+          2. Former COVID-19 history.&#xD;
+&#xD;
+          3. Persistent pulmonary or other systemic pathology (which prevents hospital discharge)&#xD;
+&#xD;
+          4. Refusal to participate in the monthly evaluation.&#xD;
+&#xD;
+          5. Persistent COVID-19 RT-PCR presence (which prevents PFT testing)&#xD;
+&#xD;
+          6. Known severe limitation in former PFT testing (FEV1 being lower than 30%)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bahar Kurt, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dışkapı Yıldırım Beyazıt Training and Research Hospital Pulmonary Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kerem Ensarioğlu, MD</last_name>
+    <phone>+905426142727</phone>
+    <email>kerem.ensarioglu@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Bahar Kurt, Professor</last_name>
+    <phone>+905333642833</phone>
+    <email>baharkurt@yahoo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Dışkapı Yıldırım Beyazıt Training and Research Hospital Pulmonary Medicine Clinic</name>
+      <address>
+        <city>Ankara</city>
+        <state>Çankaya</state>
+        <zip>06110</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kerem Ensarioğlu</last_name>
+      <phone>05426142727</phone>
+      <email>kerem.ensarioglu@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <reference>
+    <citation>Torres-Castro R, Vasconcello-Castillo L, Alsina-Restoy X, Solis-Navarro L, Burgos F, Puppo H, Vilaró J. Respiratory function in patients post-infection by COVID-19: a systematic review and meta-analysis. Pulmonology. 2020 Nov 25. pii: S2531-0437(20)30245-2. doi: 10.1016/j.pulmoe.2020.10.013. [Epub ahead of print] Review.</citation>
+    <PMID>33262076</PMID>
+  </reference>
+  <reference>
+    <citation>Gemicioğlu B, Börekçi Ş, Dilektaşlı AG, Ulubay G, Azap Ö, Saryal S. Turkish Thoracic Society Experts Consensus Report: Recommendations for Pulmonary Function Tests During and After COVID 19 Pandemic. Turk Thorac J. 2020 May;21(3):193-200. doi: 10.5152/TurkThoracJ.2020.20107. Review.</citation>
+    <PMID>32584237</PMID>
+  </reference>
+  <reference>
+    <citation>Mo X, Jian W, Su Z, Chen M, Peng H, Peng P, Lei C, Chen R, Zhong N, Li S. Abnormal pulmonary function in COVID-19 patients at time of hospital discharge. Eur Respir J. 2020 Jun 18;55(6). pii: 2001217. doi: 10.1183/13993003.01217-2020. Print 2020 Jun.</citation>
+    <PMID>32381497</PMID>
+  </reference>
+  <reference>
+    <citation>Anastasio F, Barbuto S, Scarnecchia E, Cosma P, Fugagnoli A, Rossi G, Parravicini M, Parravicini P. Medium-term impact of COVID-19 on pulmonary function, functional capacity and quality of life. Eur Respir J. 2021 Feb 11. pii: 2004015. doi: 10.1183/13993003.04015-2020. [Epub ahead of print]</citation>
+    <PMID>33574080</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 31, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>April 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Diskapi Yildirim Beyazit Education and Research Hospital</investigator_affiliation>
+    <investigator_full_name>Kerem Ensarioğlu</investigator_full_name>
+    <investigator_title>Medical Doctor</investigator_title>
+  </responsible_party>
+  <keyword>Pulmonary Rehabilitation</keyword>
+  <keyword>Respiratory Function Loss</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The study protocol will be shared with other researchers working on a similar process, with proper credentials and acknowledgments given according to ICJME clinical trial registration policy. Signed Informed Consent Forms will only be shared with proper legal bodies and ethical committees in case of an ethical dilemma.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>The data will be available for the 6 months after initial publication.</ipd_time_frame>
+    <ipd_access_criteria>The information mentioned above will be shared upon contact with the corresponding author. The criteria for data sharing would be that the researchers making the request would preferably seek a similar goal in the study proposal.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

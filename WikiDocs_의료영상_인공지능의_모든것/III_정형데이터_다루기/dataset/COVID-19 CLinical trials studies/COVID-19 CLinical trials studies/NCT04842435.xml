@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1161">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04842435</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IGK-P-II/III-00-003/2020</org_study_id>
+    <nct_id>NCT04842435</nct_id>
+  </id_info>
+  <brief_title>Clinical Study in the Treatment of Patients With Moderate Course of COVID-19</brief_title>
+  <official_title>To Study the Efficacy, Safety and Pharmacokinetics of COVID-globulin, in Addition to Standard Therapy for the Treatment of Patients With a Moderate COVID-19 Form</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Microgen Scientific Industrial Company for Immunobiological Medicines</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Microgen Scientific Industrial Company for Immunobiological Medicines</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Study of safety, efficacy and pharmacokinetics, dose selection&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Objective:&#xD;
+&#xD;
+      To study the efficacy, safety and pharmacokinetics of COVID-globulin, in addition to standard&#xD;
+      therapy for the treatment of patients with a moderate COVID-19 form.&#xD;
+&#xD;
+      Study Objectives:&#xD;
+&#xD;
+      The study comprises two stages, 1 and 2 Stage 1 tasks&#xD;
+&#xD;
+        1. to determine and compare the safety parameters of COVID-globulin after a single infusion&#xD;
+           at doses of 1 mL/kg, 2 mL/kg, 4 mL/kg and placebo in addition to standard therapy in the&#xD;
+           treatment of patients with COVID-19;&#xD;
+&#xD;
+        2. to determine and compare the efficacy parameters of COVID-globulin after a single&#xD;
+           infusion at doses of 1 mL/kg, 2 mL/kg, 4 mL/kg and placebo in addition to standard&#xD;
+           therapy in the treatment of patients with COVID-19;&#xD;
+&#xD;
+        3. to determine the optimal therapeutic dose of COVID-globulin for the treatment of&#xD;
+           patients with moderate COVID-19 by comparing the safety and efficacy parameters of doses&#xD;
+           of 1 mL/kg, 2 mL/kg, 4 mL/kg and placebo;&#xD;
+&#xD;
+        4. to study the pharmacokinetic parameters of COVID-globulin in the blood plasma of&#xD;
+           patients after a single infusion at a dose of 1 mL/kg, 2 mL/kg, 4 mL/kg, in addition to&#xD;
+           standard therapy for the treatment of patients with moderate COVID-19&#xD;
+&#xD;
+      Stage 2 tasks&#xD;
+&#xD;
+        1. to study the efficacy of COVID-globulin, in addition to standard therapy, for the&#xD;
+           treatment of patients with moderate COVID-19;&#xD;
+&#xD;
+        2. to study the safety of COVID-globulin, in addition to standard therapy, for the&#xD;
+           treatment of patients with moderate COVID-19;&#xD;
+&#xD;
+        3. to conduct a comparative analysis of the efficacy and safety of a group of patients with&#xD;
+           moderate COVID-19 disease who receive COVID-globulin in addition to the standard&#xD;
+           therapy, and a group of patients who receive placebo in addition to standard therapy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 9, 2021</start_date>
+  <completion_date type="Anticipated">October 5, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Stage 1 study will enroll 156 subjects with moderate COVID-19 who will be randomized into the four groups.&#xD;
+Stage 2 will include 220 subjects who will be divided into two groups.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The proportion of subjects in the study groups in whom, during the first 7 days after drug administration, one of the following events developed according to the laboratory-instrumental methods or on the basis of a clinical presentation</measure>
+    <time_frame>7 days</time_frame>
+    <description>Laboratory-instrumental methods or on the basis of a clinical presentation:&#xD;
+development of acute renal injury stage 2 or higher, assessed by the AKIN (Acute Kidney Injury Network) scale;&#xD;
+development of myocardial dysfunction or acute coronary pa-thology;&#xD;
+development of thrombolytic complications;&#xD;
+development of a cytokine storm;&#xD;
+development of an acute respiratory distress syndrome (ARDS);&#xD;
+an increase in the degree of lung lesion, as determined by the CT;&#xD;
+negative dynamics of CRP with an increase in the indicator by more than 30 % compared to the baseline value;&#xD;
+an increase in the D-dimer indicator by more than 2 times compared with the corresponding indicator at the time of hos-pitalization;&#xD;
+aggravation of clinical symptoms, as determined by the WHO Ordinal Scale, compared with the baseline value.&#xD;
+(Aggravation refers to a decrease in a WHO score by 1 point or more as compared to the value at Visit 1)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>28 days</time_frame>
+    <description>All-cause mortality (follow-up period of 28 days after the treatment initiation)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The elimination time of the SARS-CoV-2 virus</measure>
+    <time_frame>11 days</time_frame>
+    <description>The elimination time of the SARS-CoV-2 virus from the upper respiratory tract (follow-up period of 11 days after the treat-ment initiation)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The median time to clinical improvement on the WHO Ordinal Scale for Clinical Improvement</measure>
+    <time_frame>28 days</time_frame>
+    <description>The median time to clinical improvement on the WHO Ordinal Scale for Clinical Improvement (follow-up period of 28 days af-ter the treatment initiation) using the Hazard Ratio score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of severe and extremely severe COVID-19 disease</measure>
+    <time_frame>28 days</time_frame>
+    <description>The incidence of severe and extremely severe COVID-19 disease (follow-up period of 28 days after the treatment initiation)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The need for respiratory support</measure>
+    <time_frame>28 days</time_frame>
+    <description>The need for respiratory support (follow-up period of 28 days after the treatment initiation)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The need for invasive mechanical ventilation of the lungs, ECMO</measure>
+    <time_frame>28 days</time_frame>
+    <description>The need for invasive mechanical ventilation of the lungs, ECMO (follow-up period of 28 days after the treatment initiation)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to cancellation of oxygen support</measure>
+    <time_frame>28 days</time_frame>
+    <description>Time to cancellation of oxygen support, if any, days (follow-up period of 28 days after the treatment initiation)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The need to stay at the intensive care unit</measure>
+    <time_frame>28 days</time_frame>
+    <description>The need to stay at the intensive care unit (follow-up period of 28 days after the treatment initiation)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of fever (≥ 380C), days</measure>
+    <time_frame>28 days</time_frame>
+    <description>Duration of fever (≥ 380C), days (follow-up period of 28 days after the treatment initiation)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The dynamics of the decrease in points on the NEWS scale</measure>
+    <time_frame>11 days (max. 28 days)</time_frame>
+    <description>The dynamics of the decrease in points on the NEWS scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dynamical CRP, ferritin, D-dimer values</measure>
+    <time_frame>10 days</time_frame>
+    <description>Dynamical CRP, ferritin, D-dimer values</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the degree of lung lesion determined by the CT</measure>
+    <time_frame>7 days</time_frame>
+    <description>Changes in the degree of lung lesion determined by the CT (the result is assessed on the 7th day before the subject is discharged from the hospital compared to the baseline)</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">376</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Stage 1. Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 1 - 39 subjects who will receive a single intravenous infusion of COVID-globulin at a dose of 1 mL/kg in addition to standard therapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stage 1. Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 2 - 39 subjects who will receive a single intravenous infusion of COVID-globulin at a dose of 2 mL/kg in addition to standard therapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stage 1. Group 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 3 - 39 subjects who will receive a single intravenous infusion of COVID-globulin at a dose of 4 mL/kg in addition to standard therapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stage 1. Group 4</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Group 4 - 39 subjects who will receive a single intravenous infusion of placebo at a dose of 1 mL/kg in addition to standard therapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stage 2. Group 1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Group 1 - 110 subjects who will receive a single intravenous infusion of COVID-globulin at a dose defined at Stage 1 in addition to standard therapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stage 2. Group 2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Group 2 - 110 subjects who will receive a single intravenous infusion of placebo at a dose equal to the COVID-globulin dose in addition to standard therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>COVID-globulin</intervention_name>
+    <description>Stage 1 In a Stage 1 study, COVID globulin is administered to clinical study subjects randomized to groups 1, 2, or 3 by intravenous drip in one of three doses of 1 mL/kg, 2 mL/kg, or 4 mL/kg The initial drug administration rate is from 0.01 mL/kg to 0.02 mL/kg of body weight per minute for 30 minutes. If the drug is well tolerated, the rate of administration can be gradually increased to a maximum of 0.12 mL/kg of body weight per minute. In order to control the drug administration rate, infusion shall be performed with an infusion pump.&#xD;
+Stage 2 In a Stage 2 study, COVID globulin is administered to clinical study subjects randomized to group 1 by intravenous drip at a dose found optimal based on the results of Stage 1 study.</description>
+    <arm_group_label>Stage 1. Group 1</arm_group_label>
+    <arm_group_label>Stage 1. Group 2</arm_group_label>
+    <arm_group_label>Stage 1. Group 3</arm_group_label>
+    <arm_group_label>Stage 2. Group 1</arm_group_label>
+    <other_name>Anti-coronavirus human immunoglobulin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Stage 1 In a Stage 1 study, Placebo is administered to clinical study subjects randomized to groups 4 by intravenous drip at a dose of 1 mL/kg.&#xD;
+The initial drug administration rate is from 0.01 mL/kg to 0.02 mL/kg of body weight per minute for 30 minutes. If the drug is well tolerated, the rate of administration can be gradually increased to a maximum of 0.12 mL/kg of body weight per minute. In order to control the drug administration rate, infusion shall be performed with an infusion pump.&#xD;
+Stage 2 In a Stage 2 study, placebo is administered to clinical study subjects randomized to group 2 by intravenous drip at a dose equal to the study drug dose.</description>
+    <arm_group_label>Stage 1. Group 4</arm_group_label>
+    <arm_group_label>Stage 2. Group 2</arm_group_label>
+    <other_name>0.9% NaCl solution</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients who are able to sign the informed consent form to partic-ipate in the&#xD;
+             clinical study;&#xD;
+&#xD;
+          2. Patients of both sexes at the age of 18-65 years of age;&#xD;
+&#xD;
+          3. Positive SARS-CoV-2 RNA test result obtained by PCR during the current episode of&#xD;
+             COVID-19 disease;&#xD;
+&#xD;
+          4. One or more clinical manifestations of ARI (acute respiratory infection) or patient&#xD;
+             complaints: cough (dry or scanty sputum), edema (including during exercise), chest&#xD;
+             congestion, sore throat, nasal congestion, or mild rhinorrhea, impairment or loss of&#xD;
+             smell (hyposmia or anosmia), loss of taste (dysgeusia), conjunctivitis, weakness,&#xD;
+             muscle pain, headache, vomiting, diarrhea, skin manifestations).&#xD;
+&#xD;
+          5. Patients with a moderate course of COVID-19, determined on the basis of at least one&#xD;
+             of the criteria specified in the Interim Guide-lines of the Ministry of Health&#xD;
+             (assessed from the moment of mani-festation of the disease symptoms):&#xD;
+&#xD;
+               -  Body Т &gt; 38 °C&#xD;
+&#xD;
+               -  RR &gt; 22/min&#xD;
+&#xD;
+               -  SpO2 &lt; 95 % (at the atmospheric air)&#xD;
+&#xD;
+               -  CRP of the blood serum &gt; 10 mg/L&#xD;
+&#xD;
+          6. CT changes typical of viral lesions (minimal or moderate lesion vol-ume; CT 1-2, no&#xD;
+             more than 72 hours before screening)&#xD;
+&#xD;
+          7. Patients meeting the requirements of the Clinical Study Protocol;&#xD;
+&#xD;
+          8. Negative pregnancy test (for women with preserved reproductive potential).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. A history of allergic reactions to human blood products;&#xD;
+&#xD;
+          2. Allergic reactions to the components of the study drug;&#xD;
+&#xD;
+          3. Hypersensitivity to human immunoglobulin;&#xD;
+&#xD;
+          4. Positive direct Coombs test (antiglobulin test);&#xD;
+&#xD;
+          5. Condition requiring invasive oxygen support at Screening;&#xD;
+&#xD;
+          6. Subjects with mild, severe, extremely severe COVID-19, as well as those at an&#xD;
+             outpatient treatment and not scheduled for hospitali-zation;&#xD;
+&#xD;
+          7. Administration of blood products or blood derivatives within 3 months prior to&#xD;
+             enrollment;&#xD;
+&#xD;
+          8. Administration of any antiviral, immunomodulatory drugs after the manifestation of&#xD;
+             COVID-19 (except for those to be prescribed dur-ing the study / included in the&#xD;
+             standard therapy);&#xD;
+&#xD;
+          9. Pathology of the immune system (primary and secondary immu-nodeficiencies, deficiency&#xD;
+             of class A immunoglobulin (IgA) and / or the presence of IgA antibodies, autoimmune&#xD;
+             diseases);&#xD;
+&#xD;
+         10. Child Pugh class B and C liver cirrhosis;&#xD;
+&#xD;
+         11. Diabetes mellitus type 1.&#xD;
+&#xD;
+         12. Diseases of the thyroid gland with decompensation.&#xD;
+&#xD;
+         13. Signs of severe CNS lesions (past serious brain injury, meningitis, history of&#xD;
+             ischemic stroke, encephalopathy of various etiologies, epilepsy, etc.);&#xD;
+&#xD;
+         14. Serious blood diseases, current or in the history (for example, baseline anemia Hb &lt;&#xD;
+             80, myeloid leukemia, myelodysplastic syn-drome, etc.);&#xD;
+&#xD;
+         15. The period after the coronary artery bypass grafting / stenting of at least 3 months&#xD;
+             prior to enrollment;&#xD;
+&#xD;
+         16. Malignant neoplasm of any localization at present or within 5 years before enrollment&#xD;
+             into the study, except for completely healed carcinoma in situ;&#xD;
+&#xD;
+         17. Conditions and diseases, other than COVID-19, known from anam-nesis, accompanied by&#xD;
+             blood hypercoagulability syndrome and a trend for thrombosis (such as sickle cell&#xD;
+             anemia, polycythemia, hemostatic disorders);&#xD;
+&#xD;
+         18. Severe dyslipidemia in the history;&#xD;
+&#xD;
+         19. Disseminated intravascular coagulation syndrome, thrombosis and thromboembolism of any&#xD;
+             localization, known from the history;&#xD;
+&#xD;
+         20. CKD-EPI GFR &lt; 30 mL/min at screening;&#xD;
+&#xD;
+         21. History of chronic III-IV FC heart failure;&#xD;
+&#xD;
+         22. Pregnancy or lactation;&#xD;
+&#xD;
+         23. Participation in any other clinical study within the last 3 months;&#xD;
+&#xD;
+         24. A history of tuberculosis, cancer or a positive reaction to HIV infec-tion, hepatitis&#xD;
+             B and C, syphilis according to the history;&#xD;
+&#xD;
+         25. Impossibility of intravenous administration of the drug;&#xD;
+&#xD;
+         26. Severe visual and/or hearing impairments, severe speech impair-ments and/or other&#xD;
+             abnormalities that may prevent the patient from adequate cooperation during the&#xD;
+             study);&#xD;
+&#xD;
+         27. Mental diseases in the history;&#xD;
+&#xD;
+         28. A history of alcohol, drug or medicinal product abuse;&#xD;
+&#xD;
+         29. Patients who, in the opinion of the investigator, are clearly or likely to be unable&#xD;
+             to understand and evaluate the information on this study within the informed consent&#xD;
+             signing process, in particular regarding the expected risks and possible discomfort;&#xD;
+&#xD;
+         30. Other diseases, symptoms or conditions not listed above that can be an obstacle to&#xD;
+             participation in a clinical study in the investiga-tor's opinion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ekaterina Andreevna Bykova</last_name>
+    <role>Study Director</role>
+    <affiliation>JSC &quot;SIC &quot;Microgen&quot;</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ekaterina Andreevna Bykova</last_name>
+    <phone>+7 (495) 790-77-73</phone>
+    <phone_ext>4002</phone_ext>
+    <email>e.a.bykova@microgen.ru</email>
+  </overall_contact>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 13, 2021</study_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Severe course of COVID-19</keyword>
+  <keyword>Pharmacokinetic parameters</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Immunoglobulins, Intravenous</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All of the individual participant data collected during the trial, after deidentification</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Immediately following publication. No end date</ipd_time_frame>
+    <ipd_access_criteria>Anyone who wishes to access the data</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

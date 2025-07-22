@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5621">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04784338</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-40982</org_study_id>
+    <nct_id>NCT04784338</nct_id>
+  </id_info>
+  <brief_title>Virtual Weight Management Shared Medical Visit</brief_title>
+  <official_title>A Virtual Weight Management Shared Medical Appointment: a Feasibility Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boston Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Culinary medicine has emerged which provides the practical application of nutrition education&#xD;
+      through experiential learning. Studies have shown that patients with metabolic syndrome who&#xD;
+      underwent a series of classes that featured nutrition recommendations and cooking classes had&#xD;
+      weight loss, and improved cardiac health and blood sugar management.&#xD;
+&#xD;
+      Given the increasing focus on providing remote experiences to minimize contact and risk of&#xD;
+      infection with Sars-COV2, this pilot study at Boston Medical Center (BMC) will integrate a&#xD;
+      physician consultation, interactive didactic presentations, nutritious cooking and mind- body&#xD;
+      exercises. Patients with obesity and metabolic syndrome can attend a virtual shared medical&#xD;
+      visit series co-taught by a registered dietician and chef and an endocrinologist and weight&#xD;
+      management specialist. Data will be collected in the form of surveys, phone interviews, chart&#xD;
+      review, and home monitoring to test both the feasibility of running such an intervention&#xD;
+      virtually and to explore whether attending this one month program with weekly remote&#xD;
+      classes/visits improves vitals including weight and blood blood pressure and other small&#xD;
+      habit changes in patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">October 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Recruitment rates</measure>
+    <time_frame>1 month</time_frame>
+    <description>Recruitment rates will be calculated by taking the number of participants enrolled over the number eligible to participate in the program</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Retention of participants</measure>
+    <time_frame>1 month</time_frame>
+    <description>Attendance at each of the sessions will be documented to assess retention of participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Facilitators for program participation</measure>
+    <time_frame>1 month</time_frame>
+    <description>An investigator created questionnaire will be used to collect information about facilitators for program participation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Barriers to program participation</measure>
+    <time_frame>1 month</time_frame>
+    <description>An investigator created questionnaire will be used to collect information about barriers to program participation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in knowledge of healthy foods</measure>
+    <time_frame>baseline, 1 month</time_frame>
+    <description>An investigator created questionnaire will be used to collect information about knowledge of healthy foods</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in nutritional food intake behaviours</measure>
+    <time_frame>baseline, 1 month</time_frame>
+    <description>An investigator created questionnaire will be used to collect information about nutritional food intake behaviours</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in blood pressure</measure>
+    <time_frame>baseline, 1 month</time_frame>
+    <description>Participants will check blood pressure at home with home blood pressure cuff and record the systolic and diastolic results on home diary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in fasting blood glucose level</measure>
+    <time_frame>baseline, 1 month</time_frame>
+    <description>Participants diagnosed with diabetes will use a home glucometer to measure fasting blood glucose levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in body mass index [BMI]</measure>
+    <time_frame>baseline, 1 month</time_frame>
+    <description>Participants will weigh themselves at home and record their weight in a study diary. The BMI will be calculated using the formula BMI= kg/m2 where kg is a person's weight in kilograms and m2 is a person's height in meters squared.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">25</enrollment>
+  <condition>Metabolic Syndrome</condition>
+  <condition>Obesity</condition>
+  <arm_group>
+    <arm_group_label>Virtual shared teaching kitchen program</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will participate in virtual shared medical appointments that utilize the teaching kitchen</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Virtual shared medical visit</intervention_name>
+    <description>a shared medical visit done by zoom in a group, 1.5 hours</description>
+    <arm_group_label>Virtual shared teaching kitchen program</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Nutritional classes</intervention_name>
+    <description>A cooking class done by the teaching kitchen demonstrating cooking skills</description>
+    <arm_group_label>Virtual shared teaching kitchen program</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  English speaking&#xD;
+&#xD;
+          -  BMI =&gt; 30&#xD;
+&#xD;
+          -  Must have documented measured blood pressure, weight, height in the 12 months prior to&#xD;
+             the intervention&#xD;
+&#xD;
+          -  Enrolled in Boston Medical Center's (BMC's) Food Pantry Program&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with advanced dementia or uncontrolled psychiatric disease&#xD;
+&#xD;
+          -  Uncontrolled medical illness including severe hypertension, recent acute coronary&#xD;
+             syndrome, active malignancy or other condition that would make the subject unable to&#xD;
+             complete the study procedures&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ivania Rizo, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Boston Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ivania Rizo, MD</last_name>
+    <phone>617-638-8556</phone>
+    <email>ivamrizo@bu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ozkur Ozden, PhD</last_name>
+    <phone>617-414-2935</phone>
+    <email>ozden.ozkurakinci@bmc.org</email>
+  </overall_contact_backup>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 5, 2021</study_first_posted>
+  <last_update_submitted>March 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Culinary medicine</keyword>
+  <keyword>Teaching kitchens</keyword>
+  <keyword>Virtual shared medical appointments (SMA)</keyword>
+  <keyword>Mind body exercises</keyword>
+  <keyword>Social Determinants of Health (SDoH)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Metabolic Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

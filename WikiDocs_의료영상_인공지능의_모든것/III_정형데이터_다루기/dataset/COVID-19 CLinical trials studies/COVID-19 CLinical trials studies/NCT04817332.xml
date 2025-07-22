@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="585">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04817332</url>
+  </required_header>
+  <id_info>
+    <org_study_id>01.01.20</org_study_id>
+    <secondary_id>2020-001643-13</secondary_id>
+    <secondary_id>281986</secondary_id>
+    <nct_id>NCT04817332</nct_id>
+  </id_info>
+  <brief_title>STOP-COVID19: Superiority Trial Of Protease Inhibition in COVID-19</brief_title>
+  <acronym>STOP-COVID19</acronym>
+  <official_title>A Randomised Double-blind Placebo-controlled Trial of Brensocatib (INS1007) in Patients With Severe COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Dundee</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>NHS Tayside</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Insmed Incorporated</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Dundee</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 is a respiratory disease caused by a novel coronavirus (SARS-CoV-2) and causes&#xD;
+      substantial morbidity and mortality. There is currently no vaccine to prevent infection with&#xD;
+      SARS-CoV-2 and no therapeutic agent to treat COVID-19. This clinical trial is designed to&#xD;
+      evaluate the potential of Brensocatib (INS1007) as a novel host directed therapy for the&#xD;
+      treatment of adult patients hospitalized with COVID-19. The investigators hypothesise that&#xD;
+      Brensocatib, by blocking damaging neutrophil proteases, will reduce the incidence of acute&#xD;
+      lung injury and acute respiratory distress syndrome (ARDS) in patients with COVID-19, thereby&#xD;
+      resulting in improved clinical outcomes at day 15 and day 29, fewer days dependent on oxygen&#xD;
+      or mechanical ventilation, and shorter length of hospital stay.&#xD;
+&#xD;
+      High rates of patients requiring mechanical ventilation and overwhelming intensive care unit&#xD;
+      capacity has been the major issue contributing to excess deaths in Italy and Spain during the&#xD;
+      pandemic and is likely to be a major issue in other countries such as the United Kingdom in&#xD;
+      the coming weeks. Treatments that could prevent the requirement for mechanical ventilation or&#xD;
+      shorten the duration of ICU stay by reducing the severity of ARDS are therefore the number 1&#xD;
+      target for COVID19 therapy.&#xD;
+&#xD;
+      The investigators recently conducted a large phase 2 study of Brensocatib in patients with&#xD;
+      bronchiectasis designed to test if treatment with Brensocatib could reduce infective&#xD;
+      exacerbations and reduce neutrophil elastase activity in the lung in bronchiectasis patients.&#xD;
+      The study met its primary endpoint of time to first exacerbation and key secondary endpoint&#xD;
+      of the frequency of exacerbations as well as showing marked reductions in neutrophil elastase&#xD;
+      concentrations in sputum.&#xD;
+&#xD;
+      Participants will be randomised to receive Brensocatib or placebo 25mg orally once daily for&#xD;
+      28 days.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND COVID-19 is a respiratory disease caused by a novel coronavirus severe acute&#xD;
+      respiratory syndrome coronavirus-2 (SARS-CoV-2) and causes substantial morbidity and&#xD;
+      mortality.This clinical trial is designed to evaluate the potential of Brensocatib as a novel&#xD;
+      host directed therapy for the treatment of adult patients hospitalised with COVID-19. The&#xD;
+      investigators hypothesise that Brensocatib, by blocking damaging neutrophil proteases, will&#xD;
+      reduce the incidence of acute lung injury and acute respiratory distress syndrome (ARDS) in&#xD;
+      patients with COVID-19, thereby resulting in improved clinical outcomes at day 15 and day 29,&#xD;
+      fewer days dependent on oxygen or mechanical ventilation, and shorter length of hospital&#xD;
+      stay.&#xD;
+&#xD;
+      Coronavirus (CoVs) are positive-sense single stranded enveloped Ribonucleic acid (RNA)&#xD;
+      viruses, many of which are commonly found in humans and cause mild symptoms. Over the past&#xD;
+      two decades, emerging pathogenic CoVs capable of causing life-threatening disease in humans&#xD;
+      and animals have been identified, namely severe acute respiratory syndrome (SARS) coronavirus&#xD;
+      (SARS-CoV) and Middle Eastern respiratory syndrome coronavirus (MERS- CoV).&#xD;
+&#xD;
+      In December 2019, the Wuhan Municipal Health Committee (Wuhan, China) identified an outbreak&#xD;
+      of viral pneumonia cases of unknown cause.5 Coronavirus RNA was quickly identified in some of&#xD;
+      these patients. This novel coronavirus has been abbreviated as SARS-COV-2 and has 89%&#xD;
+      nucleotide identity with bat SARS-like-CoVZXC21 and 82% with that of human SARS-CoV. This&#xD;
+      novel coronavirus has been designated SARS-CoV-2, and the disease caused by this virus has&#xD;
+      been designated COVID-19. Initial infections were travel associated with individuals having&#xD;
+      contact with Wuhan or other affected areas but the disease has now spread to affect hundreds&#xD;
+      of thousands of patients worldwide with widespread community transmission across the globe.&#xD;
+&#xD;
+      Outbreak forecasting and mathematical modelling suggest that these numbers will continue to&#xD;
+      rise.&#xD;
+&#xD;
+      Global efforts to evaluate novel antivirals and therapeutic strategies to treat COVID-19 have&#xD;
+      intensified but to date dexamethasone is the only therapy shown to reduce mortality in&#xD;
+      COVID-19 while repurposed antiviral drugs did not show clinical benefits in the World Health&#xD;
+      Organisation SOLIDARITY trial.&#xD;
+&#xD;
+      Mortality from COVID-19 has been estimated at between 0.5% and 3.4% of infected patients and&#xD;
+      occurs most frequently because of the development of ARDS. In contrast to some, particularly&#xD;
+      bacterial pneumonias, where patients present with acute respiratory failure and sepsis, the&#xD;
+      dynamics of COVID-19 infection demonstrate a slow deterioration in oxygenation with the&#xD;
+      development of bilateral infiltrates in a high proportion of patients, consistent with the&#xD;
+      development of ARDS. Patients subsequently require mechanical ventilation.&#xD;
+&#xD;
+      Treatments that could prevent the requirement for mechanical ventilation or shorten the&#xD;
+      duration of intensive care unit stay by reducing the severity of ARDS are therefore the&#xD;
+      number 1 target for COVID-19 therapy.&#xD;
+&#xD;
+      Neutrophils in ARDS Neutrophil influx into the extravascular compartments of the lungs is a&#xD;
+      defining characteristic of ARDS. During ARDS, circulating neutrophils become primed,&#xD;
+      resulting in reduce deformability and retention within the pulmonary capillary bed. They then&#xD;
+      migrate across the endothelium through the interstitium and epithelium into the airways&#xD;
+      themselves. As neutrophils migrate they are activated and release oxidants, proteases and&#xD;
+      neutrophil extracellular traps. All of these processes are important in killing bacterial&#xD;
+      pathogens but in ARDS these processes become prolonged and excessive leading to progressive&#xD;
+      lung damage. Neutrophil elastase and other neutrophil proteases such as proteinase-3 and&#xD;
+      cathepsin-G cause tissue injury resulting in increased epithelial and endothelial&#xD;
+      permeability which leads to the influx of protein-rich alveolar oedema.&#xD;
+&#xD;
+      Mortality in ARDS correlates directly with the extent of neutrophilia in the lung. Both human&#xD;
+      clinical data and murine studies demonstrate a key role for neutrophils in ARDS. Neutrophil&#xD;
+      depletion in multiple models of ARDS including those induced by lipopolysaccharide, acid,&#xD;
+      ventilator lung injury, transfusion and other stimuli, reduces the severity of acute lung&#xD;
+      injury including endothelial-epithelial cell damage and capillary-alveolar permeability.&#xD;
+&#xD;
+      Neutrophil proteases and particularly neutrophil elastase are believed to be central to the&#xD;
+      neutrophil induced lung damage. Neutrophil elastase is a serine protease contained within&#xD;
+      primary neutrophil granules which is released in response to neutrophil activation or&#xD;
+      neutrophil extracellular trap formation. It is involved in the pathogenesis of multiple&#xD;
+      inflammatory diseases and therapeutic development of neutrophil elastase inhibitors for use&#xD;
+      in ARDS has been ongoing for many years. Neutrophil elastase is markedly elevated in human&#xD;
+      ARDS samples and the inhibition of neutrophil elastase has been demonstrated to reduce&#xD;
+      epithelial injury in multiple animal models of lung injury across multiple stimuli including&#xD;
+      lipopolysaccharide (LPS), bleomycin, ventilation, sepsis and many others. Neutrophil elastase&#xD;
+      is critical to the development of neutrophil extracellular traps, which are highly damaging&#xD;
+      webs of DNA studded with proteases and other neutrophil derived toxins. Neutrophil&#xD;
+      extracellular traps (NET) formation and the failure to clear NETs have been strongly&#xD;
+      implicated in the development and poor outcomes from ARDS. Inhibition of neutrophil elastase&#xD;
+      reduces the formation of NETs.&#xD;
+&#xD;
+      A challenge therapeutically has been how to inhibit neutrophil elastase since administration&#xD;
+      of competitive inhibitors either orally or through the inhaled route may not be sufficient to&#xD;
+      block elastase activity in the lung.&#xD;
+&#xD;
+      RATIONALE Neutrophil elastase, proteinase-3 and cathepsin-G are activated during neutrophil&#xD;
+      maturation in the bone marrow through dipeptidyl peptidase 1 (DPP1; also known as cathepsin&#xD;
+      C), which removes the N-terminal dipeptide sequence of neutrophil serine proteases allowing&#xD;
+      active enzymes to be packaged into granules prior to release of neutrophils into the&#xD;
+      circulation. Brensocatib (INS1007, formerly AZD7986) is an orally delivered selective,&#xD;
+      competitive, and reversible inhibitor of DPP1. Brensocatib has been shown to inhibit&#xD;
+      neutrophil serine protease activity in blood in both animal models and healthy volunteers.&#xD;
+&#xD;
+      The investigators recently conducted a large phase 2 study of Brensocatib in patients with&#xD;
+      bronchiectasis designed to test if treatment with Brensocatib could reduce infective&#xD;
+      exacerbations and reduce neutrophil elastase activity in the lung in bronchiectasis patients.&#xD;
+      The study met its primary endpoint of time to first exacerbation and key secondary endpoint&#xD;
+      of the frequency of exacerbations as well as showing marked reductions in neutrophil elastase&#xD;
+      concentrations in sputum. Due to the need to replace the circulating pool of neutrophils with&#xD;
+      new neutrophils which are deficient in elastase, Brensocatib does not have its effect&#xD;
+      immediately, but rather over several days. Elastase concentrations were reduced at the first&#xD;
+      time point at day 14 in the phase 2 study, with very large reductions observed at the second&#xD;
+      time point at day 28.&#xD;
+&#xD;
+      In a cohort of 191 hospitalised COVID-19 patients with a completed outcome, the median time&#xD;
+      from illness onset to discharge was 22·0 days (IQR 18·0-25·0) and the median time to death&#xD;
+      was 18·5 days (15·0-22·0). Thirty-two patients (17%) required invasive mechanical ventilation&#xD;
+      and the median time from onset to mechanical ventilation was 14.5 days. The investigators&#xD;
+      hypothesise that the mechanism of action of Brensocatib to reduce protease activity will be&#xD;
+      more rapid in COVID-19 patients compared to bronchiectasis due to a more rapid turnover of&#xD;
+      neutrophils in acute illness. The objective is to test whether by reducing neutrophil&#xD;
+      protease activity in neutrophils the investigatorscan prevent or reverse the development of&#xD;
+      ARDS and thereby improve outcomes in individuals with COVID-19 infection.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 5, 2020</start_date>
+  <completion_date type="Actual">February 28, 2021</completion_date>
+  <primary_completion_date type="Actual">February 28, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Comparison of participant clinical status between treatment arms</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>To determine the participant clinical status on a 7-point ordinal scale:&#xD;
+Not hospitalised, no limitations on activities&#xD;
+Not hospitalised, limitation on activities;&#xD;
+Hospitalised, not requiring supplemental oxygen;&#xD;
+Hospitalised, requiring supplemental oxygen;&#xD;
+Hospitalised, on non-invasive ventilation or high flow oxygen devices;&#xD;
+Hospitalised, on invasive mechanical ventilation or Extracorporeal membrane oxygenation (ECMO)&#xD;
+Death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to an improvement of one category from admission using 7-point ordinal scale.</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Evaluation of the clinical efficacy of Brensocatib relative to standard care: 7-point ordinal scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participant clinical status on 7-point ordinal scale</measure>
+    <time_frame>Days 3, 5, 8, 11, 15 and 29</time_frame>
+    <description>Evaluation of the clinical efficacy of Brensocatib relative to standard care: 7-point ordinal scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in the 7-point ordinal scale</measure>
+    <time_frame>Baseline to days 3, 5, 8, 11, 15 and 29</time_frame>
+    <description>Evaluation of the clinical efficacy of Brensocatib relative to standard care: 7-point ordinal scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to discharge or to a National Early Warning Score (NEWS) of ≤ 2 and maintained for 24 hours, whichever occurs first.</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Evaluation of the clinical efficacy of Brensocatib relative to standard care: National Early Warning Score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline of National Early Warning Score (NEWS)</measure>
+    <time_frame>Days 8, 15, 29</time_frame>
+    <description>Evaluation of the clinical efficacy of Brensocatib relative to standard care: National Early Warning Score.Minimum value 0, maximum value 20. Higher scores mean worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of oxygen therapy free days</measure>
+    <time_frame>1-29 days</time_frame>
+    <description>Evaluation of the clinical efficacy of Brensocatib relative to standard care: oxygenation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and duration of new oxygen therapy use during the trial</measure>
+    <time_frame>0-29 days</time_frame>
+    <description>Evaluation of the clinical efficacy of Brensocatib relative to standard care: oxygenation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of mechanical ventilator free days</measure>
+    <time_frame>1-29 days</time_frame>
+    <description>Evaluation of the clinical efficacy of Brensocatib relative to standard care: Mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and duration of new mechanical ventilation use during the trial.</measure>
+    <time_frame>1-29 days</time_frame>
+    <description>Evaluation of the clinical efficacy of Brensocatib relative to standard care: Mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalisation (days).</measure>
+    <time_frame>Duration between date of admission and discharge assessed up to 29 days.</time_frame>
+    <description>Evaluation of the clinical efficacy of Brensocatib relative to standard care: hospitalisation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>28-day mortality</measure>
+    <time_frame>Date of death up to 29 days</time_frame>
+    <description>Evaluation of the clinical efficacy of Brensocatib relative to standard care: mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of Serious Adverse Events (SAEs)</measure>
+    <time_frame>1-29 days</time_frame>
+    <description>Evaluation of the safety of the intervention through 29 days of follow-up as compared to the control arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Discontinuation or temporary suspension of treatment</measure>
+    <time_frame>1-29 days</time_frame>
+    <description>Evaluation of the safety of the intervention through 28 days of follow-up as compared to the control arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in white cell count (x10^9/L) over time (hospitalised participants only)</measure>
+    <time_frame>Days 0/1, 3, 5, 8, 11, 15, 29</time_frame>
+    <description>Evaluation of the safety of the intervention through 28 days of follow-up as compared to the control arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in haemoglobin (g/L) over time (hospitalised participants only)</measure>
+    <time_frame>Days 0/1, 3, 5, 8, 11, 15, 29</time_frame>
+    <description>Evaluation of the safety of the intervention through 28 days of follow-up as compared to the control arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in platelets (x10^9/L) over time (hospitalised participants only)</measure>
+    <time_frame>Days 0/1, 3, 5, 8, 11, 15, 29</time_frame>
+    <description>Evaluation of the safety of the intervention through 28 days of follow-up as compared to the control arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in creatinine (umol/L) over time (hospitalised participants only)</measure>
+    <time_frame>Days 0/1, 3, 5, 8, 11, 15, 29</time_frame>
+    <description>Evaluation of the safety of the intervention through 28 days of follow-up as compared to the control arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in total bilirubin (umol/L) over time (hospitalised participants only)</measure>
+    <time_frame>Days 0/1, 3, 5, 8, 11, 15, 29</time_frame>
+    <description>Evaluation of the safety of the intervention through 28 days of follow-up as compared to the control arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Alanine Aminotransferase (U/L) over time (hospitalised participants only)</measure>
+    <time_frame>Days 0/1, 3, 5, 8, 11, 15, 29</time_frame>
+    <description>Evaluation of the safety of the intervention through 28 days of follow-up as compared to the control arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Aspartate Aminotransferase U/L over time (hospitalised participants only)</measure>
+    <time_frame>Days 0/1, 3, 5, 8, 11, 15, 29</time_frame>
+    <description>Evaluation of the safety of the intervention through 28 days of follow-up as compared to the control arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events of special interest- hyperkeratosis, infections and dental complications</measure>
+    <time_frame>1-29 days</time_frame>
+    <description>Evaluation of the safety of the intervention through 29 days of follow-up as compared to the control arm</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Percent of participants with SARS-CoV-2 detectable in nasopharyngeal sample</measure>
+    <time_frame>Day 15 and day 29</time_frame>
+    <description>Evaluation of the virologic efficacy of Brensocatib</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Quantitative SARS-CoV-2 virus in nasopharyngeal samples.</measure>
+    <time_frame>Day 15 and day 29</time_frame>
+    <description>Evaluation of the virologic efficacy of Brensocatib</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Neutrophil elastase and heparin binding protein measurement in blood</measure>
+    <time_frame>Days 1, 8, 15, 29</time_frame>
+    <description>Evaluation of the virologic efficacy of Brensocatib</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Blood Neutrophil Elastase activity</measure>
+    <time_frame>Days 1, 15, 29</time_frame>
+    <description>Evaluation of the virologic efficacy of Brensocatib</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Neutrophil extracellular trap release</measure>
+    <time_frame>Days 1, 15, 29</time_frame>
+    <description>Evaluation of the virologic efficacy of Brensocatib</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Neutrophil surface protein expression analysis</measure>
+    <time_frame>Days 1, 15, 29</time_frame>
+    <description>Evaluation of the virologic efficacy of Brensocatib by flow cytometry- CD88, CXCR2, CD66b, CD11b, CD63)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Neutrophil phagocytosis of FITC-labelled bacteria by flow cytometry</measure>
+    <time_frame>Days 1, 15, 29</time_frame>
+    <description>Evaluation of the virologic efficacy of Brensocatib by flow cytometry</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Quality of Life measured by EuroQol-5 dimensions-5 levels (EQ-5D-5L)</measure>
+    <time_frame>Day 29</time_frame>
+    <description>To evaluate patient reported outcome measures between the groups using EQ-5D-5L questionnaire. 5 dimensions score 0-20, higher score indicated worse outcome. Visual analog score 0-100, higher score indicates better outcome.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">400</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Brensocatib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Brensocatib oral tablet, 25mg once per day for 28 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo oral tablet, 25mg once per day for 28 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Brensocatib</intervention_name>
+    <description>Selective, competitive, and reversible inhibitor of DPP1</description>
+    <arm_group_label>Brensocatib</arm_group_label>
+    <other_name>INS1007</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matched placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        6.1. Inclusion criteria&#xD;
+&#xD;
+        • Male or female&#xD;
+&#xD;
+          -  ≥16 years of age&#xD;
+&#xD;
+          -  SARS-CoV-2 infection (clinically suspected+ or laboratory confirmed*).&#xD;
+&#xD;
+          -  Admitted to hospital as in-patient less than 96 hours prior to randomisation^&#xD;
+&#xD;
+          -  Illness of any duration, and at least one of the following:&#xD;
+&#xD;
+               -  Radiographic infiltrates by imaging (e.g. chest x-ray, computed tomography (CT)&#xD;
+                  scan) OR&#xD;
+&#xD;
+               -  Evidence of rales/crackles on physical examination OR&#xD;
+&#xD;
+               -  Peripheral capillary oxygen saturation (SpO2) ≤94% on room air prior to&#xD;
+                  randomization OR&#xD;
+&#xD;
+               -  Requiring supplemental oxygen. OR&#xD;
+&#xD;
+               -  Lymphocyte count &lt;1 x 109 cells per litre (L)&#xD;
+&#xD;
+          -  Participant (or legally authorized representative) provides written informed consent&#xD;
+&#xD;
+          -  Able to take oral medication&#xD;
+&#xD;
+          -  Participant (or legally authorised representative) understands and agrees to comply&#xD;
+             with planned trial procedures.&#xD;
+&#xD;
+               -  Laboratory-confirmed: SARS-CoV-2 infection as determined by polymerase chain&#xD;
+                  reaction (PCR), or other commercial or public health assay in any specimen &lt; 96&#xD;
+                  hours prior to randomization.&#xD;
+&#xD;
+                    -  Clinically suspected: in general, SARS-CoV-2 infection should be suspected&#xD;
+                       when a patient presents with (i) typical symptoms (e.g. influenza-like&#xD;
+                       illness with fever and muscle pain, or respiratory illness with cough and&#xD;
+                       shortness of breath); and (ii) compatible chest X-ray findings&#xD;
+                       (consolidation or ground-glass shadowing); and (iii) alternative causes have&#xD;
+                       been considered unlikely or excluded (e.g. heart failure, influenza).&#xD;
+                       However, the diagnosis remains a clinical one based on the opinion of the&#xD;
+                       managing doctor&#xD;
+&#xD;
+                         -  Where a patient has been admitted to hospital for a non COVID-19 reason&#xD;
+                            and develops COVID-19 symptoms whilst an in-patient, randomisation may&#xD;
+                            occur up to 96 hours from onset of symptoms.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Alanine aminotransferase (ALT) and/or aspartate aminotransferase (AST) &gt; 5 times the&#xD;
+             upper limit of normal, result within 72 hours of randomization (the result closest to&#xD;
+             randomization should be used if several results are available).&#xD;
+&#xD;
+          -  History of severe liver disease&#xD;
+&#xD;
+          -  Stage 4 severe chronic kidney disease or requiring dialysis (i.e. estimated Glomerular&#xD;
+             Filtration Rate &lt; 30), result within 72 hours of randomization (the result closest to&#xD;
+             randomization should be used if several results are available)&#xD;
+&#xD;
+          -  Absolute neutrophil count less than 1.0 x 109 cells per L within 72 hours of&#xD;
+             randomization (the result closest to randomization should be used if several results&#xD;
+             are available)&#xD;
+&#xD;
+          -  Current treatments with potent Cyp3A4 inducers/inhibitors (e.g Itraconazole,&#xD;
+             Ketoconazole, diltiazem, verapamil, phenytoin or rifampicin)&#xD;
+&#xD;
+          -  HIV treatments - current treatment with protease/integrase inhibitors or&#xD;
+             non-nucleoside reverse transcriptase inhibitors*&#xD;
+&#xD;
+          -  Pregnant or breast feeding.&#xD;
+&#xD;
+          -  Anticipated transfer to another hospital which is not a trial site within 24 hours.&#xD;
+&#xD;
+          -  Allergy to Brensocatib&#xD;
+&#xD;
+          -  Use of any investigational drug within five times of the elimination half-life after&#xD;
+             the last trial dose or within 30 days, whichever is longer. Co-enrolment with COVID-19&#xD;
+             trials is allowed as per co-enrolment agreements and/or individual decision by the&#xD;
+             Chief Investigator.&#xD;
+&#xD;
+        Women of child-bearing potential must be willing to have pregnancy testing prior to trial&#xD;
+        entry.&#xD;
+&#xD;
+        *The Liverpool HIV checker (https://www.hiv-druginteractions.org/checker) should be used to&#xD;
+        check for any HIV drug interactions. Simvastatin could be used as a surrogate for&#xD;
+        Brensocatib as it metabolised similarly by CYP 3A4 pathway.&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>NHS Grampian</name>
+      <address>
+        <city>Aberdeen</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal United Hospitals Bath NHS Foundation Trust</name>
+      <address>
+        <city>Bath</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Birmingham NHS Foundation Trust</name>
+      <address>
+        <city>Birmingham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cardiff &amp; Vale University Health Board</name>
+      <address>
+        <city>Cardiff</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NHS Tayside</name>
+      <address>
+        <city>Dundee</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NHS Fife</name>
+      <address>
+        <city>Dunfermline</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Frimley Health NHS Foundation Trust</name>
+      <address>
+        <city>Frimley</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Alexandra Hospital NHS Trust</name>
+      <address>
+        <city>Harlow</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NHS Highland</name>
+      <address>
+        <city>Inverness</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NHS Forth Valley</name>
+      <address>
+        <city>Larbert</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals of Leicester NHS Trust</name>
+      <address>
+        <city>Leicester</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Liverpool University Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>Liverpool</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Portsmouth Hospitals NHS Trust</name>
+      <address>
+        <city>Portsmouth</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sheffield Teaching Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>Sheffield</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals North Midlands NHS Trust</name>
+      <address>
+        <city>Stoke-on-Trent</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NHS Lanarkshire</name>
+      <address>
+        <city>Wishaw</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>January 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 26, 2021</study_first_posted>
+  <last_update_submitted>March 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Dundee</investigator_affiliation>
+    <investigator_full_name>James Chalmers</investigator_full_name>
+    <investigator_title>Professor of Respiratory Research</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

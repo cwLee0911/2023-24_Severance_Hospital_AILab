@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3262">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04816786</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1591/2020</org_study_id>
+    <nct_id>NCT04816786</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Patients Admitted to the ICU</brief_title>
+  <official_title>Prognostic Factors and Predictors of Mortality in COVID-19 Patients Admitted to the ICU. An Aid for Triage, Counseling, and Resource Allocation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ministry of Health, Kuwait</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ministry of Health, Kuwait</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A retrospective analysis of the adult COVID-19 patients admitted to the ICU. A chart review&#xD;
+      will be conducted and multiple baseline characteristics, demographics, and treatments given&#xD;
+      will be recorded.&#xD;
+&#xD;
+      Variables collected will include Age, Gender, BMI, Smoking status, Past medical history,&#xD;
+      Vital signs on admission, symptoms on admission, duration of symptoms, laboratory results on&#xD;
+      admission, treatment given. Treatment options will include (Steroids, plasma exchange, IVIG,&#xD;
+      antibiotics, mode of respiratory support).&#xD;
+&#xD;
+      Primary outcomes will include; Death, duration of ICU stay, duration of mechanical&#xD;
+      ventilation, in-hospital complications.&#xD;
+&#xD;
+      A regression model will be used to predict poor prognostic factors. Inclusion criteria:&#xD;
+      patients with confirmed PCR results for COVID-19 AND require ICU admission. Exclusion&#xD;
+      criteria: those with negative results, pediatric patients and those not requiring ICU&#xD;
+      admission.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2021</start_date>
+  <completion_date type="Anticipated">July 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Death</measure>
+    <time_frame>30 day mortality</time_frame>
+    <description>Death Vs No Death</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Duration of ICU stay</measure>
+    <time_frame>30 days</time_frame>
+    <description>Duration of ICU stay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Duration of mechanical ventilation</measure>
+    <time_frame>30 days</time_frame>
+    <description>The duration the patient required support from a mechanical ventilator</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>In-Hospital complications</measure>
+    <time_frame>30 days</time_frame>
+    <description>Wether patients developed in hospital complications.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Group 1: Admitted to ICU and died during the hospital stay.</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2: Admitted to ICU was were discharged.</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>no intervention will be administered, this is a retrospective observational study.</intervention_name>
+    <description>no intervention will be administered, this is a retrospective observational study.</description>
+    <arm_group_label>Group 1: Admitted to ICU and died during the hospital stay.</arm_group_label>
+    <arm_group_label>Group 2: Admitted to ICU was were discharged.</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients presenting to the hospital and suspected of having the COVID-19 virus. Patients&#xD;
+        who are positive on a PCR test are usually traiged to be managed on the wards Vs ICU&#xD;
+        (Intensive care unit). This is based on a number of parameters; including but not limited&#xD;
+        to The severity of the symptoms, vital signs, lab results, co-morbidities, age.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults&#xD;
+&#xD;
+          -  Positive PCR test for COVID-19&#xD;
+&#xD;
+          -  Require admission to ICU&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pediatric patients\&#xD;
+&#xD;
+          -  Any patient not requiring admission to ICU&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Mubarak al Kabeer hospital</name>
+      <address>
+        <city>Kuwait</city>
+        <state>Outside U.S./Canada</state>
+        <zip>00000</zip>
+        <country>Kuwait</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Waleed burhamah, mb bch boa</last_name>
+      <phone>90004926</phone>
+      <email>waleedburhamah1994@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Kuwait</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 25, 2021</study_first_posted>
+  <last_update_submitted>March 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ministry of Health, Kuwait</investigator_affiliation>
+    <investigator_full_name>Waleed burhamah</investigator_full_name>
+    <investigator_title>Dr. Waleed burhamah, General surgery resident MKH MB BCH BOA</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

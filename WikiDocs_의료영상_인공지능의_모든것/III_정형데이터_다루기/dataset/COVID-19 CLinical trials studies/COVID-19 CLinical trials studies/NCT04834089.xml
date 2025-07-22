@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3021">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04834089</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SAS-01-IB</org_study_id>
+    <nct_id>NCT04834089</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial for Assessment of Anti-SARS-CoV-2 Serum for Early Treatment of COVID-19 Cases</brief_title>
+  <acronym>SOROCOV</acronym>
+  <official_title>Phase I/II Clinical Trial for Dose Escalation and Safety Assessment and Clinical Response of Anti-SARS-CoV-2 Serum Produced by Instituto Butantan</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Butantan Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Butantan Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Phase I/II Randomized Clinical Trial to evaluate the safety, pharmacokinetic and efficacy of&#xD;
+      Anti-SARS-CoV-2 hyperimmune serum.&#xD;
+&#xD;
+      The study will include patients at early stage of COVID-19 with increased risk for severe&#xD;
+      disease due to underlying medical conditions to determine the utility of an equine&#xD;
+      heterologous serum anti-SARS-CoV-2 to avoid progression to a severe COVID-19&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Phase I/II Clinical Trial, randomized, multicentric, on three stages (A, B and C) to evaluate&#xD;
+      the safety, pharmacokinetic and efficacy of Anti-SARS-CoV-2 serum and dose escalation.&#xD;
+&#xD;
+      The study will be in three stages:&#xD;
+&#xD;
+      Stage A: 30 kidney transplanted participants (very high risk), where 15 will received 1 vial&#xD;
+      (5 mL) and 15 will received 2 vials (10 mL) of serum;&#xD;
+&#xD;
+      Stage B: 30 immunocompetent participants with at least 2 risk factors for severe disease&#xD;
+      (high risk) who will receive the dose selected by stage A;&#xD;
+&#xD;
+      Stage C: 558 participants, of very high risk and high risk, compared with placebo in&#xD;
+      allocation 2:1 (endpoint-driven design)&#xD;
+&#xD;
+      Allocation type Open study without allocation of randomization on Stages A and B Randomized&#xD;
+      allocation with placebo comparator in Stage C.&#xD;
+&#xD;
+      Recruitment Status: On planning&#xD;
+&#xD;
+      Date of 1st recruitment Expected: April 2021&#xD;
+&#xD;
+      Target sample siz 618 (30/30/538) participants&#xD;
+&#xD;
+      .&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2021</start_date>
+  <completion_date type="Anticipated">May 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Phase I/II Clinical Trial, randomized, multicentric, on three stages (A, B and C) to evaluate the safety, pharmacokinetic and efficacy of Anti-SARS-CoV-2 serum and dose escalation. The study will be in three stages:&#xD;
+Stage A: 30 kidney transplanted participants (very high risk), where 15 will received 1 vial (5 mL) and 15 will received 2 vials (10 mL) of serum; Stage B: 30 immunocompetent participants with at least 2 risk factors for severe disease (high risk) who will receive the dose selected by stage A; Stage C: 558 participants, of very high risk and high risk, compared with placebo in allocation 2:1.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Stage C of this study was designed as double-blind to avoid the bias introduction in the efficacy and adverse events evaluation. The clinical care team, the responsible professional for administering the serum and the participant will not know which product under investigation will be administered. Only the pharmacists or nurses responsible for the randomization of the study, separation and blinding of the product under investigation will have access to unblinded information. The allocation of the product under investigation will only be revealed after the completion of the participants' following up and database closing to guarantee a long-term safety evaluation of the product. The sponsor's operational team will also remain blind.&#xD;
+If necessary, independent scientists not involved with the clinical or laboratory evaluation of the participants, who analyze the unblinded data of laboratory results.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of local and systemic adverse events</measure>
+    <time_frame>12 hours after product administration</time_frame>
+    <description>Frequency of local and systemic adverse events, solicited and unsolicited, during the infusion and within 12 hours after administration of the heterologous serum</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anti-SARS-CoV-2 serum average life</measure>
+    <time_frame>28 days after product administration</time_frame>
+    <description>Anti-SARS-CoV-2 serum average life measured by equine antibodies levels</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of patients with change in COVID-19 disease progression profile after administration of anti-SARS-CoV-2 serum</measure>
+    <time_frame>14 days after product administration</time_frame>
+    <description>Proportion of patients with change in COVID-19 disease progression profile after administration of anti-SARS-CoV-2 serum, based on the WHO clinical progression scale (not progression to severe disease requiring mechanical ventilation or death - Score 7 or larger)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of local and systemic adverse events</measure>
+    <time_frame>28 days after product administration</time_frame>
+    <description>Frequency of local and systemic adverse events, solicited and unsolicited, up to 28 days of serum heterologous administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of severe adverse events</measure>
+    <time_frame>28 days after product administration</time_frame>
+    <description>Frequency of severe adverse events and of the special interest up to 28 days after administration of serum heterologous</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical response</measure>
+    <time_frame>14 days after product administration</time_frame>
+    <description>Clinical response according serum anti-SARS-CoV-2 dosage</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptoms duration</measure>
+    <time_frame>28 days after product administration</time_frame>
+    <description>Symptoms duration associated to COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization time in Intensive Care Unit</measure>
+    <time_frame>28 days after product administration</time_frame>
+    <description>Hospitalization time in Intensive Care Unit related to COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Deaths</measure>
+    <time_frame>28 days after product administration</time_frame>
+    <description>Frequency of deaths by COVID-19</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Frequency and magnitude of equine antibodies titers</measure>
+    <time_frame>28 days after product administration</time_frame>
+    <description>Frequency and magnitude of equine antibodies titers 14 and 28 days after administration of anti-SARS-CoV-2 serum</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Frequency and magnitude of neutralizing antibodies titers Against SARS-CoV-2</measure>
+    <time_frame>28 days after product administration</time_frame>
+    <description>Frequency and magnitude of neutralizing antibodies titers Against SARS-CoV-2 after administration of anti-SARS-CoV-2 serum</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of medical assistance</measure>
+    <time_frame>14 days after product administration</time_frame>
+    <description>Proportion of medical assistance related to COVID-19 (score ≥ 3 of WHO)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of emergency service visit</measure>
+    <time_frame>14 days after product administration</time_frame>
+    <description>Proportion of emergency service visit related to COVID-19</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of hospitalization</measure>
+    <time_frame>14 days after product administration</time_frame>
+    <description>Proportion of hospitalization related to COVID-19 (defined as ≥24 hours of hospital care) (score ≥ 4 of WHO)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of patients with change in COVID-19 disease progression</measure>
+    <time_frame>28 days after product administration</time_frame>
+    <description>Proportion of patients with change in COVID-19 disease progression profile after administration of anti-SARS-CoV-2 serum according to underlying medical conditions.</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">618</enrollment>
+  <condition>Immunosuppression</condition>
+  <condition>Cancer</condition>
+  <condition>COVID-19</condition>
+  <condition>Other Complication of Kidney Transplant</condition>
+  <condition>Chemotherapy</condition>
+  <condition>Renal Disease</condition>
+  <condition>Diabetes Mellitus</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Chronic Obstructive Pulmonary Disease</condition>
+  <arm_group>
+    <arm_group_label>Experimental product group (Stage A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Anti-SARS-CoV-2 Serum Dose: 5 mL/dose or 10 mL/dose Administration Route: Intravenous</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo group (Stage C)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Saline solution Administration Route: Intravenous</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental product group (Stage B)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Anti-SARS-CoV-2 Serum Dose: 5 mL/dose or 10 mL/dose Administration Route: Intravenous</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental product group (Stage C)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Anti-SARS-CoV-2 Serum Dose: 5 mL/dose or 10 mL/dose Administration Route: Intravenous</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>AntiSARS-CoV-2 Serum</intervention_name>
+    <description>Stage A: 30 kidney transplanted participants (very high risk), where 15 will received 1 vial (5 mL) and 15 will received 2 vials (10 mL) of serum; Stage B: 30 immunocompetent participants with at least 2 risk factors for severe disease (high risk) who will receive the dose selected by stage A; Stage C: 558 participants, of very high risk and high risk, compared with placebo in allocation 2:1.</description>
+    <arm_group_label>Experimental product group (Stage A)</arm_group_label>
+    <arm_group_label>Experimental product group (Stage B)</arm_group_label>
+    <arm_group_label>Experimental product group (Stage C)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Saline solution Administration Route: Intravenous</description>
+    <arm_group_label>Placebo group (Stage C)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adults 18 years of age or older;&#xD;
+&#xD;
+          2. Diagnosis of SARS-CoV-2 infection confirmed by RT-PCR or antigen test no more than 5&#xD;
+             days ago;&#xD;
+&#xD;
+          3. Onset of clinical signs and symptoms of COVID-19 no more than 5 days manifested as:&#xD;
+&#xD;
+               1. Presenting sudden onset of anosmia and/or ageusia without any other reasonable&#xD;
+                  explanation and/or;&#xD;
+&#xD;
+               2. Thoracic image by radiography, tomography or ultrasonography compatible with&#xD;
+                  acute clinical symptoms findings of COVID-19 and/or;&#xD;
+&#xD;
+               3. Acute onset of cough accompanied by fever and/or&#xD;
+&#xD;
+               4. Acute onset of three or more of the following symptoms: fever, cough, fatigue or&#xD;
+                  general weakness, headache, myalgia, sore throat, runny nose, dyspnea, anorexia&#xD;
+                  or nausea or vomit, diarrhea and mental status change.&#xD;
+&#xD;
+          4. Oxygen saturation by pulse oximetry ≥92%&#xD;
+&#xD;
+          5. Agree to periodic contacts by phone, electronic means and home visits;&#xD;
+&#xD;
+          6. Demonstrate intention to participate in the study, documented by Informed Consent Form&#xD;
+             signature on the part of the participant.&#xD;
+&#xD;
+             For the very high risk group:&#xD;
+&#xD;
+          7. Being on continuous drug immunosuppressant more than two weeks due to a basic medical&#xD;
+             condition (e.g. transplant or cancer);&#xD;
+&#xD;
+             For the high risk group:&#xD;
+&#xD;
+          8. To present at least two risk factors for developing serious COVID-19 (Over 60 years of&#xD;
+             age; diabetes mellitus; chronic obstructive pulmonary disease; kidney disease;&#xD;
+             cardiovascular diseases and body mass index ≥ 35).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Presenting COVID-9 in need of oxygen therapy on the moment of study inclusion, in&#xD;
+             other words, score 5 or higher in WHO COVID-19 progression scale;&#xD;
+&#xD;
+          2. Behavioral, cognitive or psychiatric disease that, in principal investigator opinion&#xD;
+             or his/her medical representative, affect the participant capacity in understanding&#xD;
+             and collaborating with study protocol requirements;&#xD;
+&#xD;
+          3. Any use considered alcohol or drugs abuse in the last 12 months prior to study&#xD;
+             inclusion that caused medical, professional or family problems, as indicated by&#xD;
+             clinical history;&#xD;
+&#xD;
+          4. Severe allergic reaction history or anaphylaxis to heterologous serum or product&#xD;
+             components of the study;&#xD;
+&#xD;
+          5. To have received heterologous serum or convalescent plasma in the last three months&#xD;
+             before of study inclusion, or planned administration of hemoderivatives or&#xD;
+             immunoglobulin on the next 28 days of study inclusion;&#xD;
+&#xD;
+          6. The participant is a team member who is conducting the study or is in a dependent&#xD;
+             relationship with one of the study team members. Dependency relationships include&#xD;
+             close relatives (in other words, sons, partner/spouse, brothers, parents), as well as&#xD;
+             Researcher staff or staff from the location conducting the study;&#xD;
+&#xD;
+          7. Any other condition that, in the principal investigator opinion or his/her medical&#xD;
+             representative, could threaten the safety or rights of a potential participant or&#xD;
+             which prevents him from fulfilling with this protocol.&#xD;
+&#xD;
+             For female:&#xD;
+&#xD;
+          8. Pregnancy (confirmed by positive β-hCG test), breastfeeding and/or expressing an&#xD;
+             intention to have sexual practices with reproductive potential without using a&#xD;
+             contraceptive method within four weeks of the product administration;&#xD;
+&#xD;
+             For stages A and B:&#xD;
+&#xD;
+          9. Previous immunization with vaccine against COVID-19&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ricardo Palacios, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Butantan Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ricardo Palacios, MD, PhD</last_name>
+    <phone>+551137232121</phone>
+    <email>ricardo.palacios@butantan.gov.br</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital do Rim</name>
+      <address>
+        <city>Sao Paulo</city>
+        <state>SP</state>
+        <zip>04038-002</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jose Osmar Medina Pestana, MD,PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Jose Osmar Medina Pestana, MD,PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital das Clinicas da Faculdade de Medicina da Universidade de São Paulo</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>05403-010</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 6, 2021</study_first_posted>
+  <last_update_submitted>April 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Anti-SARS-CoV-2 serum</keyword>
+  <keyword>safety</keyword>
+  <keyword>pharmacokinetic</keyword>
+  <keyword>efficacy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Diseases, Obstructive</mesh_term>
+    <mesh_term>Pulmonary Disease, Chronic Obstructive</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

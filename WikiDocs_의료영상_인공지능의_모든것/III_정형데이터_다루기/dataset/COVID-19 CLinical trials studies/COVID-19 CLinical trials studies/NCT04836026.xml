@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5547">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04836026</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HF20 Registry</org_study_id>
+    <nct_id>NCT04836026</nct_id>
+  </id_info>
+  <brief_title>Registry for HF20 for Pediatric CRRT Under Emergency Use Authorization</brief_title>
+  <official_title>Evaluation of the HF20™ Filter for Pediatric Continuous Renal Replacement Therapy (CRRT)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital Medical Center, Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Baxter Healthcare Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Children's Hospital Medical Center, Cincinnati</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Historically, innovations for acute kidney injury (AKI) and continuous renal replacement&#xD;
+      therapy (CRRT) have centered around an adult population. However, research has shown that&#xD;
+      over 10% of pediatric patients develop severe AKI within the first week in an intensive care&#xD;
+      unit (ICU). When a pediatric patient requires renal replacement therapy for AKI in the ICU,&#xD;
+      CRRT is usually the modality of choice. The HF20™ is indicated for supporting patients&#xD;
+      weighing 8 to 20 kilograms, addressing a critical clinical need for critically ill children&#xD;
+      who require CRRT. Current US Food and Drug Administration (FDA) approved CRRT filters are&#xD;
+      designed for patients weighing more than 20 kg or less than 10 kg, leaving a gap in&#xD;
+      appropriately designed filters for pediatric patients.&#xD;
+&#xD;
+      A previous trial in the US showed that the HF20™ is safe and effective, however the membrane&#xD;
+      composition of the HF20™ used in that trial is different than what is currently manufacturer&#xD;
+      and available. Baxter Healthcare Corporation has received an Emergency Use Authorization&#xD;
+      (EUA) for the currently available HF20™ to be used in the era of the COVID-19 pandemic,&#xD;
+      however participants do not need to be infected with the SAR-CoV-2 virus in order to be&#xD;
+      treated. The EUA for the HF20™ allows for treatment for any children weighing between 8 and&#xD;
+      20 kilograms in need of CRRT. This registry will collect clinical data related to the safety&#xD;
+      and efficacy of the HF20™ filter for CRRT in pediatric patients weighing 8 to 20 kilograms at&#xD;
+      participating institutions, however participation in this registry is not a requirement in&#xD;
+      order to be treated with the HF20™ filter.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">January 27, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Blood Urea Nitrogen (BUN)</measure>
+    <time_frame>After 24 hours of CRRT with the HF20™ filter as compared to baseline</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Serum Creatinine</measure>
+    <time_frame>After 24 hours of CRRT with the HF20™ filter as compared to baseline</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Serum Bicarbonate/Carbon Dioxide</measure>
+    <time_frame>After 24 hours of CRRT with the HF20™ filter as compared to baseline</time_frame>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Pediatric Kidney Disease</condition>
+  <condition>Acute Kidney Injury</condition>
+  <arm_group>
+    <arm_group_label>HF20™ for Pediatric CRRT</arm_group_label>
+    <description>Pediatric patients in an intensive care unit requiring CRRT for acute kidney injury (AKI)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>HF20™</intervention_name>
+    <description>HF20™ will be used for CRRT</description>
+    <arm_group_label>HF20™ for Pediatric CRRT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients receiving CRRT with the HF20™ filter as their standard care for AKI or fluid&#xD;
+        overload in an intensive care unit at a participating institution.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Receiving or plan to receive CRRT with the HF20™ filter as standard of care&#xD;
+&#xD;
+          -  Acute kidney injury (AKI) or fluid overload as defined as one of the two below:&#xD;
+&#xD;
+               1. AKI defined as Kidney Disease Improving Global Outcomes (KDIGO) Stage 1 or higher&#xD;
+                  by either:&#xD;
+&#xD;
+                    1. Serum creatinine criteria (0.3 mg/dL increase over baseline in 48 hours, or&#xD;
+                       a 50 percent increase within the previous 7 days) or&#xD;
+&#xD;
+                    2. Urine output criteria (less than 0.5 mL/kg/hr for 6 or more hours)&#xD;
+&#xD;
+               2. Severe fluid overload defined as greater than 10 percent fluid accumulation based&#xD;
+                  on ICU admission weight&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Weight less than 8 kilograms&#xD;
+&#xD;
+          -  Weight more than 20 kilograms&#xD;
+&#xD;
+          -  Patient not expected to survive more than 48 hours&#xD;
+&#xD;
+          -  Received renal replacement therapy in the previous 5 days&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stuart L Goldstein, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Hospital Medical Center, Cincinnati</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2021</study_first_posted>
+  <last_update_submitted>April 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Children's Hospital Medical Center, Cincinnati</investigator_affiliation>
+    <investigator_full_name>Stuart Goldstein, MD</investigator_full_name>
+    <investigator_title>Director, Center for Acute Care Nephrology</investigator_title>
+  </responsible_party>
+  <keyword>HF20</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Acute Kidney Injury</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

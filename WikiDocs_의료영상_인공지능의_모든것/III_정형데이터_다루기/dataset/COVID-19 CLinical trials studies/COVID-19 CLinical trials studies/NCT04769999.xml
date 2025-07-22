@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5200">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04769999</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R64738/RE001</org_study_id>
+    <nct_id>NCT04769999</nct_id>
+  </id_info>
+  <brief_title>Computer Assisted Lessening of Intrusive Memories in the Emergency Department</brief_title>
+  <acronym>CALM-ED</acronym>
+  <official_title>Reducing Intrusive Memories of Work-Related Traumatic Events, Including Events During the COVID-19 Pandemic, in NHS Staff Using a Brief Cognitive Task Intervention</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Oxford</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Oxford University Hospitals NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Royal Berkshire NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>South Central Ambulance Service NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Oxford</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      During the COVID-19 pandemic, clinical staff working in frontline NHS hospital and&#xD;
+      pre-hospital departments (e.g. emergency department, intensive care unit, ambulance service)&#xD;
+      are being faced with difficult and stressful situations, which may be traumatic to them.&#xD;
+      Staff report high rates of post-traumatic stress symptoms, such as intrusive memories of&#xD;
+      these incidents, which 'pop into their mind' unexpectedly, are distressing and can impact on&#xD;
+      work performance. Currently there is a lack of tailored evidence-based interventions for&#xD;
+      staff struggling with intrusive memories of work-related traumatic events: simple,&#xD;
+      accessible, remotely-delivered interventions are needed. An intervention which has been found&#xD;
+      to be effective in reducing intrusive memories is a simple cognitive task that involves&#xD;
+      briefly bringing to mind the memory and then playing the computer game Tetris with specific&#xD;
+      (&quot;mental rotation&quot;) instructions. This case series study aims to test the intervention in a&#xD;
+      group of 8-20 staff members working clinically in NHS hospital and pre-hospital departments.&#xD;
+      The intervention will be delivered remotely (via computer/smartphone/tablet/phone).&#xD;
+      Participants will record the number of intrusive memories daily over a 3-week period, with&#xD;
+      the intervention delivered after 1 week (with optional subsequent booster sessions). Symptoms&#xD;
+      of trauma, anxiety and depression will be assessed weekly over this period, and at 4 weeks&#xD;
+      after the intervention. It is predicted that participants will have fewer intrusive memories&#xD;
+      per day/week, and lower clinical symptoms scores, after completing the intervention than&#xD;
+      before completing the intervention. The study will also investigate how feasible and&#xD;
+      acceptable the intervention is for NHS staff. Findings will inform the next steps in&#xD;
+      developing and evaluating a digital intervention to reduce intrusive memories of work-related&#xD;
+      traumatic events in healthcare staff.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 4, 2020</start_date>
+  <completion_date type="Actual">October 30, 2020</completion_date>
+  <primary_completion_date type="Actual">October 16, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in the number of intrusive memories of traumatic event</measure>
+    <time_frame>Change from baseline to post-intervention, in line with case series design. The baseline period and the post-intervention period were defined separately for each intrusive memory, according to when that intrusion was first targeted with the intervention.</time_frame>
+    <description>Number of intrusive memories of traumatic event recorded by participants in a brief electronic daily diary.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in ratings of intrusive memory characteristics</measure>
+    <time_frame>Change between baseline and post-intervention, in line with case series design</time_frame>
+    <description>A bespoke self-report measure assessing ratings of intrusive memory vividness, distress (0 = not at all, 10 = extremely), duration of bothersomeness (&lt;1 min to &gt;60 mins), and the impact of intrusive memories on sleep (very good to very bad), concentration and disruption of task at hand (0 = not at all; 10 = a great deal), per intrusive memory reported in the brief daily diary (high scores indicating greater impact/difficulties).&#xD;
+Participants are also asked to record whether they were at work when they had the intrusive memory (yes/no), the approximate time the intrusive memory popped into their mind (open-ended response), how many times they used the Tetris intervention since the last diary entry (open-ended response), and how accurately they think they completed the diary (0 = not at all accurately; 10 = extremely accurately).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impact of Events Scale-Revised score (IES-R; Weiss &amp; Marmar, 1997)</measure>
+    <time_frame>Weekly for 6 weeks: 2 weeks pre-intervention to 4 weeks post-intervention</time_frame>
+    <description>The IES-R is a self-report measure with three subscales (intrusion, avoidance and hyperarousal) which is used to assess subjective distress experienced after traumatic events. It consists of 22 items, each on a scale ranging from 0 (&quot;not at all&quot;) to 4 (&quot;extremely&quot;) related to how distressing each item has been during the past week. A total maximum score is 88. Higher scores represent worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Patient Health Questionnaire Depression scale (PHQ-9; Kroenke, Spitzer, &amp; Williams, 2001)</measure>
+    <time_frame>Weekly for 6 weeks: 2 weeks pre-intervention to 4 weeks post-intervention</time_frame>
+    <description>The PHQ-9 is a brief self-report measure of depression symptoms and their severity. It consists of nine items that are rated on a 4-point Likert-type scale, ranging from 0 (&quot;not at all&quot;) to 3 (&quot;nearly every day&quot;). The total maximum score is 27. Higher scores represent worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Generalised Anxiety Disorder scale (GAD-7; Spitzer, Kroenke, Williams &amp; Löwe, 2006)</measure>
+    <time_frame>Weekly for 6 weeks: 2 weeks pre-intervention to 4 weeks post-intervention</time_frame>
+    <description>The GAD-7 is a brief self-report measure of symptoms of general anxiety disorder (GAD) and their severity. It consists of seven items that are rated on a 4-point Likert-type scale, ranging from 0 (&quot;not at all&quot;) to 3 (&quot;nearly every day&quot;). The total maximum score is 21. Higher scores represent worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Pittsburgh Sleep Quality Index (PSQI; Buysse, 1989)</measure>
+    <time_frame>At 1 week pre-intervention, and at 4 weeks post-intervention</time_frame>
+    <description>The PSQI (Buysse, 1989) is a self-report questionnaire that assesses sleep quality over a 1-month time interval. The measure consists of nine questions, which produce one global score. Higher scores represent worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in retrospective ratings of intrusive memory characteristics over the last week</measure>
+    <time_frame>At 1 week pre-intervention, and at 4 weeks post-intervention</time_frame>
+    <description>A 10-item bespoke questionnaire assessing ratings of intrusive memories retrospectively over the last week (frequency, vividness, distress, impact on concentration, task disruption, interference with night's sleep, impact on daily functioning, and duration of bothersomeness). Six questions are rated on an 11-point scale from 0 (&quot;not at all&quot;) to 10 (&quot;a great deal&quot;) (high scores indicating greater impact/difficulties): e.g. How much did they disrupt your concentration?; How much have your intrusive memories affected your ability to function in your daily life? Two questions are rated using discrete categories: approximately how long did the intrusive memory bother you for? (6 time categories from &lt;1 min to &gt;60 mins); over the last week, how many intrusive memories did you have? (7 categories from 'none (0)' to 'more (more than 50'). One question is open-ended: how have your intrusive memories affected your ability to function in your daily life in the past week? (open-ended response)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Within-intervention session measure: change in subjective level of arousal</measure>
+    <time_frame>Change in arousal from prior to administering part I of the intervention to after completing part I of the intervention, and then from completing part I of the intervention to after completing part II of the intervention.</time_frame>
+    <description>Bespoke 11-point Likert-type rating scale (0 = calm to 10 = maximum arousal) was used to assess subjective level of arousal at three time points during the intervention procedure.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Feedback questionnaire</measure>
+    <time_frame>At 4 weeks post-intervention</time_frame>
+    <description>11-item Feedback Questionnaire assessing participant experience of the intervention including ratings of how easy, helpful and burdensome they found the intervention, and open-ended questions about their experience of the intervention.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">14</enrollment>
+  <condition>Post Traumatic Stress Disorder</condition>
+  <arm_group>
+    <arm_group_label>Simple cognitive task</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A brief memory reminder cue followed by playing the computer game Tetris for 25 minutes using mental rotation instructions. Option for subsequent booster sessions (self-administered/researcher-assisted).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Simple cognitive task</intervention_name>
+    <description>A brief memory reminder cue followed by playing the computer game Tetris for 25 minutes using mental rotation instructions. Option for subsequent booster sessions (self-administered/researcher-assisted).</description>
+    <arm_group_label>Simple cognitive task</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  aged 18 or above;&#xD;
+&#xD;
+          -  able to read, write and speak in English;&#xD;
+&#xD;
+          -  able and willing to provide informed consent and complete study procedures;&#xD;
+&#xD;
+          -  NHS hospital and pre-hospital clinical staff; experiencing intrusive memories, which&#xD;
+             are problematic to them (self-report);&#xD;
+&#xD;
+          -  reporting the occurrence of at least two intrusive memories of a work-related&#xD;
+             traumatic incident in the week prior to beginning the study;&#xD;
+&#xD;
+          -  able and willing to talk about the intrusive memories;&#xD;
+&#xD;
+          -  able and willing to complete an electronic Intrusion Diary over a 2-3 week period;&#xD;
+&#xD;
+          -  able and willing to play Tetris on a hand-held device;&#xD;
+&#xD;
+          -  not currently undergoing treatment for PTSD or its symptoms.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  participants will be excluded if they have fewer than two targeted intrusive memories&#xD;
+             per week during the pre-intervention period;&#xD;
+&#xD;
+          -  participants will be also excluded if they start undergoing treatment for PTSD or its&#xD;
+             symptoms during the course of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Craig Steel</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Oxford</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>South Central Ambulance Service NHS Foundation Trust</name>
+      <address>
+        <city>Bicester</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oxford University Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>Oxford</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Berkshire NHS Foundation Trust</name>
+      <address>
+        <city>Reading</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>July 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>February 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 25, 2021</study_first_posted>
+  <last_update_submitted>February 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stress Disorders, Traumatic</mesh_term>
+    <mesh_term>Stress Disorders, Post-Traumatic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

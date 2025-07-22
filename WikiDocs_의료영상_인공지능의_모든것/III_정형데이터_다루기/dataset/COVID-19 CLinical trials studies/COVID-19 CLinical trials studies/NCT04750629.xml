@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1843">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04750629</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21 0115</org_study_id>
+    <nct_id>NCT04750629</nct_id>
+  </id_info>
+  <brief_title>Clinical Evaluation of a Point-of-Care (POC), SARS-CoV-2 CoviDx™ Rapid Antigen Test</brief_title>
+  <acronym>CoviDx</acronym>
+  <official_title>Clinical Evaluation of a Point-of-Care (POC), SARS-CoV-2 CoviDx™ Rapid Antigen Test</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lumos Diagnostics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Rapid Pathogen Screening</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Lumos Diagnostics</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Prospective study that will evaluate the clinical agreement of the CoviDx™ Rapid Antigen test&#xD;
+      compared to SARS-CoV-2 RT-PCR.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      All patients who present with Covid-19-like symptoms within 5 days prior to consult, who&#xD;
+      consent to participate in the study, will undergo a nasopharyngeal swab (NP) collected for&#xD;
+      SARS-CoV-2 RT-PCR with EUA as per standard of care and nasal swab collection for CoviDx Rapid&#xD;
+      Antigen testing.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 8, 2021</start_date>
+  <completion_date type="Anticipated">March 26, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sensitivity of SARS-CoV-2 antigen in nasal swab as compared to a high-sensitive SARS-CoV-2 RT-PCR granted Emergency Use Authorization (EUA) by the FDA</measure>
+    <time_frame>30 days</time_frame>
+    <description>The primary outcome is the presence of SARS-CoV-2 antigen in nasal swab as compared to confirmatory diagnosis SARS-CoV-2 as determined by a high-sensitive SARS-CoV-2 RT-PCR granted Emergency Use Authorization (EUA) by the FDA</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>SARS-Cov-2 RT-PCR AND CoviDx Rapid Antigen Testing</arm_group_label>
+    <description>Sequentially enrolled symptomatic patients who present for COVID-19 testing and have a swab collected for high-sensitive, SARS-CoV-2 RT-PCR testing per Standard of Care AND a swab for CoviDx™ Rapid Antigen testing.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>POC CoviDx™ Rapid Antigen Test</intervention_name>
+    <description>All patients will have a nasal swab for CoviDx™ Rapid Antigen testing</description>
+    <arm_group_label>SARS-Cov-2 RT-PCR AND CoviDx Rapid Antigen Testing</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Nasal Swabs&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Symptomatic patients who are suspected of having SARS-CoV-2&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Nasopharyngeal swab collected for SARS-CoV-2 RT-PCR with EUA as per standard of care&#xD;
+             within 3 hours of CoviDx Rapid Antigen Swab collection&#xD;
+&#xD;
+          -  First onset of COVID-19-like symptoms within the last 5 days&#xD;
+&#xD;
+          -  ≥ 1 year of age&#xD;
+&#xD;
+          -  Signed Informed Consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unable or unwilling to provide signed, Informed Consent&#xD;
+&#xD;
+          -  Less than 1 year of age&#xD;
+&#xD;
+          -  SARS-Cov-2 RT-PCR collection that occurred &gt; 3 hours from CoviDx Rapid Antigen Swab&#xD;
+             collection&#xD;
+&#xD;
+          -  First onset of COVID-19-like symptoms occurring more than 5 days from study visit&#xD;
+&#xD;
+          -  Invalid or missing PCR test results&#xD;
+&#xD;
+          -  Use of a non-high-sensitive SARS-CoV-2 test as the qualifying SARS-CoV-2 RT-PCR test&#xD;
+             (e.g., Abbott ID NOW, rapid antigen tests, tests that do not have FDA EUA, a test that&#xD;
+             was not approved by Sponsor for use in the study)&#xD;
+&#xD;
+          -  Enrollment in another study involving the collection of a nasopharyngeal or nasal swab&#xD;
+&#xD;
+          -  Receipt of a COVID-19 vaccine or participation in a COVID-19 vaccine study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Annie Bell, MSN, APN</last_name>
+    <phone>7737298954</phone>
+    <email>Annie.Bell@lumosdiagnostics.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Catalina Suarez-Cuervo, MD</last_name>
+    <phone>7277765880</phone>
+    <email>Catalina.Suarez@lumosdiagnostics.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Comprehensive Clinical Research</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33409</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ronald Ackerman, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 11, 2021</study_first_posted>
+  <last_update_submitted>February 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Antigen</keyword>
+  <keyword>Rapid</keyword>
+  <keyword>Point of care testing</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2309">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04815109</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EEG in COVID-19</org_study_id>
+    <nct_id>NCT04815109</nct_id>
+  </id_info>
+  <brief_title>Prospective Electroencephalography Evaluation of Sedation in COVID-19</brief_title>
+  <official_title>Prospective Evaluation of Aggravated Sedation in COVID-19 ARDS Patients Using Electroencephalography</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Goethe University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Goethe University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Sedation of severe COVID-19 disease are often complicated. We try to find a correlate for&#xD;
+      this observation by encephalographic studies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Sedation of critically ill ventilated coronavirus patients, continues to be a challenging&#xD;
+      issue. Also, neurological symptoms of severe COVID-19 disease have been described frequently.&#xD;
+      Difficulties in sedation of these patients have been discussed repeatedly. The aim of this&#xD;
+      study is to investigate whether an encephalographic correlate can be found. Appropriate&#xD;
+      processed encephalographic techniques have been used for anesthesia monitoring for many&#xD;
+      years.&#xD;
+&#xD;
+      The aim of our study is to collect unrelated processed and raw EEG data of sedated COVID-19&#xD;
+      patients and to investigate the correlation to the necessary sedation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2021</start_date>
+  <completion_date type="Anticipated">August 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Raw data encephalography measurement</measure>
+    <time_frame>From the beginning of the measurement until the end of the examination (10 to 20 minutes).</time_frame>
+    <description>Measurement of the brain activity detectable for the examination procedure in the surface encephalogram.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Processed encephalography measurement</measure>
+    <time_frame>From the beginning of the measurement until the end of the examination (10 to 20 minutes).</time_frame>
+    <description>Measurement of detectable algorithm based patient sedation score based on brain activity in the surface encephalogram.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Dosage of continuously administered centrally acting alpha2 agonists.</measure>
+    <time_frame>From 90 minutes before to 10 minutes after encephalographic measurement</time_frame>
+    <description>Sedative dosage continuously administered during the measurement interval. [µg/kg/h]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dosage of continuously delivered central GABA receptor active substances.</measure>
+    <time_frame>From 90 minutes before to 10 minutes after encephalographic measurement</time_frame>
+    <description>Sedative dosage continuously administered during the measurement interval. [mg/kg/h]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dosage of continuously delivered central NMDA receptor active substances.</measure>
+    <time_frame>From 90 minutes before to 10 minutes after encephalographic measurement</time_frame>
+    <description>Sedative dosage continuously administered during the measurement interval. [mg/kg/h]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dosage of continuously delivered opioid based analgesia.</measure>
+    <time_frame>From 90 minutes before to 10 minutes after encephalographic measurement</time_frame>
+    <description>Analgetic dosage continuously administered during the measurement interval. [µg/kg/h]</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Conscious Sedation</condition>
+  <condition>Pathologic Processes</condition>
+  <condition>Electroencephalogram</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>critical ill COVID-19</arm_group_label>
+    <description>Critically ill COVID-19 patients with need for ventilation and appropriate sedation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Encephalography measurement</intervention_name>
+    <description>Encephalography measurement and partially aggravated sedation.</description>
+    <arm_group_label>critical ill COVID-19</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Critically ill COVID-19 patients requiring advanced intensive care treatment with existing&#xD;
+        intubation-requiring acute respiratory distress syndrome under invasive ventilation.&#xD;
+        Adequate depth of sedation is usually required for appropriate therapy, which is frequently&#xD;
+        challenging in COVID-19 patients.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Intubated ventilated patients with SARS-CoV-2 associated acute respiratory distress&#xD;
+        syndrome and sedation difficulty.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Pre-existing severe cerebral brain damage and dysfunction. For example: previous medial&#xD;
+        infarction, cerebral hemorrhage, structural epilepsy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Armin N Flinspach, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Goethe-University Frankfurt</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Armin N Flinspach, M.D.</last_name>
+    <phone>0049-69/6301-5868</phone>
+    <email>arminflinspach@kgu.de</email>
+  </overall_contact>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 24, 2021</study_first_posted>
+  <last_update_submitted>March 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Goethe University</investigator_affiliation>
+    <investigator_full_name>Armin N. Flinspach</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Pathologic Processes</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>The datasets generated and/or analyzed during the current study are not publicly available due to national data protection laws. Upon justified request, the data will be accessible at the primary investigator.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

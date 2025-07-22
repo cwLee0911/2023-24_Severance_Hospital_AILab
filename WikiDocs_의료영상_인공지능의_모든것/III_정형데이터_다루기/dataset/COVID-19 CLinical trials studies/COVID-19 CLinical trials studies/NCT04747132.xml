@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4881">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04747132</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SALUD-2021-Telegeria</org_study_id>
+    <nct_id>NCT04747132</nct_id>
+  </id_info>
+  <brief_title>Effectiveness of a Telegeriatric Intervention in Older Adults During the Covid-19 Contingency</brief_title>
+  <official_title>Effectiveness of a Telegeriatric Intervention in Older Adults During the Covid-19 Contingency</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad Iberoamericana A.C., Mexico</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universidad Iberoamericana A.C., Mexico</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this studdy is to assess the effectiveness of a telegeriatric intervention&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The patients were recruited from a cohort study in which the participants had previously&#xD;
+      signed an informed consent in which they allowed contact to participate in new studies,&#xD;
+      participants who met the inclusion criteria in the original database were recruited and&#xD;
+      signed an electronic informed consent of the new study. A comprehensive geriatric assessment&#xD;
+      was generated to assess whether they were candidates even due to changes in health status&#xD;
+      that could change over time since their last assessment, they were recruited until the&#xD;
+      expected sample size was obtained, and they were randomized, blinding the participants to&#xD;
+      belong to the intervention group (individualized care: geriatrics, psychology, physical&#xD;
+      activity and nutrition) or the control group (orientation in standardized health issues&#xD;
+      through audiovisual educational material)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 20, 2020</start_date>
+  <completion_date type="Actual">November 16, 2020</completion_date>
+  <primary_completion_date type="Actual">October 20, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Visual analog scale of the European quality of life questionnaire</measure>
+    <time_frame>Change from baseline to week 12</time_frame>
+    <description>The visual analog scale of the European quality of life questionnaire, adapted and validated to Spanish, Mexico (EQ5D-VAS) will be used. Which consists of a visual analog scale, its total score ranges from 0 to 100 points, the higher the score, the better the quality of life, it will be considered as a continuous quantitative variable. (Juárez-Cedillo T et al., 2015) Change from baseline to week 12</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physical performance.</measure>
+    <time_frame>Change from baseline to week 12</time_frame>
+    <description>It will be evaluated through the short physical performance test (SPPB), which is a test that includes three dimensions: strength. March and balance, your score ranges from 0 to 12 points, the higher the score the better the physical performance, it will be considered as a continuous quantitative variable. (Guralnik JM et al., 1989) Change from baseline to week 12</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Depressive symptoms</measure>
+    <time_frame>Change from baseline to week 12</time_frame>
+    <description>It will be evaluated using the CESD scale 7 items validated into Spanish in Mexico. His score ranges from 0 to 21 points, the higher the score, the greater the depressive symptoms. The total score will be considered as a continuous quantitative variable. (Salinas-Rodríguez A et al., 2014) Change from baseline to week 12</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Symptoms of anxiety.</measure>
+    <time_frame>Change from baseline to week 12</time_frame>
+    <description>It will be evaluated through the geriatric anxiety inventory, which is validated in Spanish, consists of 20 dichotomous items, its total score ranges from 0 to 20, the higher the score, the greater the anxiety symptoms. It will be considered as a continuous quantitative variable. (Márquez-González M et al., 2012) Change from baseline to week 12</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Body composition</measure>
+    <time_frame>Change from baseline to week 12</time_frame>
+    <description>It will be evaluated by using the OMROM HBF-514C® 50 Hz portable electrical bioimpedance bascule Change from baseline to week 12</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anthropometric measures</measure>
+    <time_frame>Change from baseline to week 12</time_frame>
+    <description>It will be evaluated by using the SECA anthropometric tape Change from baseline to week 12</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dietary intake</measure>
+    <time_frame>Change from baseline to week 12</time_frame>
+    <description>It will be evaluated by using the ASA24 software for 24-hour reminder collection by multiple steps.&#xD;
+Change from baseline to week 12</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">110</enrollment>
+  <condition>Effectiveness</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Individualized geriatric medical counseling, psychological counseling, nutritional counseling and physical activity counseling through the internet</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Health guidance through standardized audiovisual educational material through Intenert</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Telegeriatric intervention</intervention_name>
+    <description>Individualized, comprehensive and specialized counseling for older adults through the Internet</description>
+    <arm_group_label>Intervention group</arm_group_label>
+    <other_name>Telenutrition intervention</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults 60 years and over&#xD;
+&#xD;
+          -  Who agree to participate in the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Older adults who are in a systematic exercise program or directed food restriction&#xD;
+             programs&#xD;
+&#xD;
+          -  Physical, sensory or cognitive disabilities that prevent exercise, includes Mini&#xD;
+             Mental State Examination less than 20 points of the total score&#xD;
+&#xD;
+          -  Any condition acute or chronic health conditions that clinical staff judge as an&#xD;
+             impediment to the exercise program or remote monitoring&#xD;
+&#xD;
+          -  Recent major or limb surgery&#xD;
+&#xD;
+          -  Orthopedic conditions that would impede the exercise program&#xD;
+&#xD;
+          -  Any problem swallowing&#xD;
+&#xD;
+          -  Previous mental disorders such as disorder and schizophrenia&#xD;
+&#xD;
+          -  Not having personal access to the WhatsApp application via video call.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rosas Carrasco</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad Iberoamericana</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Universidad Iberoamericana</name>
+      <address>
+        <city>Ciudad de Mexico</city>
+        <state>Ciudad De México</state>
+        <zip>01219</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 10, 2021</study_first_posted>
+  <last_update_submitted>February 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidad Iberoamericana A.C., Mexico</investigator_affiliation>
+    <investigator_full_name>Oscar Rosas Carrasco</investigator_full_name>
+    <investigator_title>Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Aged</keyword>
+  <keyword>Internet-Based Intervention</keyword>
+  <keyword>COVID-19</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

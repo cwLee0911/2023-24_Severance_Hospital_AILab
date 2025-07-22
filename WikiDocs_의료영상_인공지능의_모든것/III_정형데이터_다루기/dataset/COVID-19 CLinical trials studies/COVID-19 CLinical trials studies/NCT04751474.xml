@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5158">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04751474</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021/47-31</org_study_id>
+    <nct_id>NCT04751474</nct_id>
+  </id_info>
+  <brief_title>The Effect of Motivational Messages on Optimism, Hopelessness and Life Satisfaction</brief_title>
+  <official_title>The Effect of Motivational Messages on Optimism, Hopelessness and Life Satisfaction of Intensive Care Nurses During the Covid-19 Pandemic : A Randomized Controlled Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Saglik Bilimleri Universitesi</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Saglik Bilimleri Universitesi</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Covid-19 pandemic has affected global health systems and required healthcare&#xD;
+      professionals to show high performance. In this process, the mental health of intensive care&#xD;
+      nurses, who undertake the biggest burden in health systems, is negatively affected by the&#xD;
+      high working hours and patient care burden during the pandemic. When the literature is&#xD;
+      reviewed, pessimistic thinking, feeling hopeless and not enjoying life at more exacerbated&#xD;
+      levels can be observed in intensive care nurses. It is concluded that studies are needed to&#xD;
+      increase the motivation of intensive care nurses during the Covid-19 pandemic.In this study,&#xD;
+      it was aimed to evaluate the effect of motivational messages on optimism, hopelessness and&#xD;
+      life satisfaction of intensive care nurses during the Covid-19 pandemic.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">February 1, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Optimistic level assessed by the Life Orientation Test</measure>
+    <time_frame>21 days after from baseline</time_frame>
+    <description>The primary endpoint of this study was the difference between groups in terms of Life Orientation Test scores 21 days after. The scale consists of a total of 10 items. The range of scores obtained from the scale varies between 6-30 points. Low scores indicate pessimism, while high scores indicate optimism.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hopelessness level assessed by the Beck Hopelessness Scale</measure>
+    <time_frame>21 days after from baseline</time_frame>
+    <description>The primary endpoint of this study was the difference between groups in terms of Beck Hopelessness Scale scores 21 days after. The scale consists of a total of 20 items..The range of scores obtained from the scale varies between 0-20 points. High scores indicate that the level of hopelessness is also high.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Life satisfaction assessed by the Satisfaction with Life Scale</measure>
+    <time_frame>21 days after from baseline</time_frame>
+    <description>The primary endpoint of this study was the difference between groups in terms of Satisfaction with Life Scale scores 21 days after. The scale consists of a total of 5 items.The range of scores obtained from the scale varies between 5-25 points. As the total score obtained from the scale increases, life satisfaction level also increases.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">93</enrollment>
+  <condition>Motivation</condition>
+  <condition>Optimism</condition>
+  <condition>Hopelessness</condition>
+  <condition>Life Satisfaction</condition>
+  <arm_group>
+    <arm_group_label>Motivational messages</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the motivational group were sent to motivational messages to their mobile phones for 21 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The control group did not receive any intervention.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Motivational messages</intervention_name>
+    <description>Participants in the motivational group were sent to motivational messages to their mobile phones for 21 days.</description>
+    <arm_group_label>Motivational messages</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        To be agree to participate in the study To be a nurse To be work in intensive care during&#xD;
+        the Covid-19 pandemic&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        To be underfill or not fill out forms and scales&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elif Gezginci, RN, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Saglik Bilimleri Universitesi</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Elif Gezginci</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34668</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <reference>
+    <citation>Shen X, Zou X, Zhong X, Yan J, Li L. Psychological stress of ICU nurses in the time of COVID-19. Crit Care. 2020 May 6;24(1):200. doi: 10.1186/s13054-020-02926-2.</citation>
+    <PMID>32375848</PMID>
+  </reference>
+  <reference>
+    <citation>Azoulay E, Cariou A, Bruneel F, Demoule A, Kouatchet A, Reuter D, Souppart V, Combes A, Klouche K, Argaud L, Barbier F, Jourdain M, Reignier J, Papazian L, Guidet B, Géri G, Resche-Rigon M, Guisset O, Labbé V, Mégarbane B, Van Der Meersch G, Guitton C, Friedman D, Pochard F, Darmon M, Kentish-Barnes N. Symptoms of Anxiety, Depression, and Peritraumatic Dissociation in Critical Care Clinicians Managing Patients with COVID-19. A Cross-Sectional Study. Am J Respir Crit Care Med. 2020 Nov 15;202(10):1388-1398. doi: 10.1164/rccm.202006-2568OC.</citation>
+    <PMID>32866409</PMID>
+  </reference>
+  <reference>
+    <citation>Shechter A, Diaz F, Moise N, Anstey DE, Ye S, Agarwal S, Birk JL, Brodie D, Cannone DE, Chang B, Claassen J, Cornelius T, Derby L, Dong M, Givens RC, Hochman B, Homma S, Kronish IM, Lee SAJ, Manzano W, Mayer LES, McMurry CL, Moitra V, Pham P, Rabbani L, Rivera RR, Schwartz A, Schwartz JE, Shapiro PA, Shaw K, Sullivan AM, Vose C, Wasson L, Edmondson D, Abdalla M. Psychological distress, coping behaviors, and preferences for support among New York healthcare workers during the COVID-19 pandemic. Gen Hosp Psychiatry. 2020 Sep - Oct;66:1-8. doi: 10.1016/j.genhosppsych.2020.06.007. Epub 2020 Jun 16.</citation>
+    <PMID>32590254</PMID>
+  </reference>
+  <reference>
+    <citation>Murat M, Köse S, Savaşer S. Determination of stress, depression and burnout levels of front-line nurses during the COVID-19 pandemic. Int J Ment Health Nurs. 2021 Apr;30(2):533-543. doi: 10.1111/inm.12818. Epub 2020 Nov 21.</citation>
+    <PMID>33222350</PMID>
+  </reference>
+  <reference>
+    <citation>Chen Q, Liang M, Li Y, Guo J, Fei D, Wang L, He L, Sheng C, Cai Y, Li X, Wang J, Zhang Z. Mental health care for medical staff in China during the COVID-19 outbreak. Lancet Psychiatry. 2020 Apr;7(4):e15-e16. doi: 10.1016/S2215-0366(20)30078-X. Epub 2020 Feb 19. Erratum in: Lancet Psychiatry. 2020 May;7(5):e27.</citation>
+    <PMID>32085839</PMID>
+  </reference>
+  <reference>
+    <citation>Lissoni B, Del Negro S, Brioschi P, Casella G, Fontana I, Bruni C, Lamiani G. Promoting resilience in the acute phase of the COVID-19 pandemic: Psychological interventions for intensive care unit (ICU) clinicians and family members. Psychol Trauma. 2020 Aug;12(S1):S105-S107. doi: 10.1037/tra0000802. Epub 2020 Jun 18.</citation>
+    <PMID>32551763</PMID>
+  </reference>
+  <reference>
+    <citation>Schulte EE, Bernstein CA, Cabana MD. Addressing Faculty Emotional Responses during the Coronavirus 2019 Pandemic. J Pediatr. 2020 Jul;222:13-14. doi: 10.1016/j.jpeds.2020.04.057. Epub 2020 May 7.</citation>
+    <PMID>32387715</PMID>
+  </reference>
+  <reference>
+    <citation>Chung JPY, Yeung WS. Staff Mental Health Self-Assessment During the COVID-19 Outbreak. East Asian Arch Psychiatry. 2020 Mar;30(1):34. doi: 10.12809/eaap2014.</citation>
+    <PMID>32229646</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 12, 2021</study_first_posted>
+  <last_update_submitted>February 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Saglik Bilimleri Universitesi</investigator_affiliation>
+    <investigator_full_name>Elif Gezginci</investigator_full_name>
+    <investigator_title>Rn, PhD, Asst Prof.</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

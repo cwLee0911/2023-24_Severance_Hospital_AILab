@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3309">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04842292</url>
+  </required_header>
+  <id_info>
+    <org_study_id>65139</org_study_id>
+    <nct_id>NCT04842292</nct_id>
+  </id_info>
+  <brief_title>Nebulized Heparin for COVID19-associated Acute Respiratory Failure</brief_title>
+  <official_title>Utilization of Nebulized Heparin for Patients Receiving Mechanical Ventilation for COVID19-associated Acute Respiratory Failure</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Kentucky</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Kentucky</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of the current study is to investigate the utilization of nebulized heparin to&#xD;
+      circumvent pathologic changes in COVID-19 and prevent harmful effects possible with systemic&#xD;
+      anticoagulation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 12, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean PaO2/FiO2 ratio</measure>
+    <time_frame>Within the first 10 days of ICU stay or up until ICU discharge, whichever occurs first</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinically Significant Bleeding</measure>
+    <time_frame>Up to discharge or 3 months following enrollment, whichever occurs first</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of venous thromboembolism</measure>
+    <time_frame>Up to discharge or 3 months following enrollment, whichever occurs first</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Nebulized heparin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Nebulized heparin 25,000 units in 3 mL inhalation every 6 hours</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Nebulized placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Sodium chloride 0.9% 5 mL inhalation every 6 hours</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Heparin</intervention_name>
+    <description>Nebulized heparin 25,000 units every 6 hours</description>
+    <arm_group_label>Nebulized heparin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Sodium chloride 0.9% every 6 hours</description>
+    <arm_group_label>Nebulized placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients admitted with confirmed COVID-19 receiving mechanical ventilation for ARDS&#xD;
+        (paO2/FiO2 ratio =300) within 48 hours&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Allergy to heparin&#xD;
+&#xD;
+          -  Any history of heparin-induced thrombocytopenia&#xD;
+&#xD;
+          -  High risk of bleeding (platelet count &lt; 50,000/µL or international normalized ratio &gt;&#xD;
+             1.5)&#xD;
+&#xD;
+          -  Patients with known bleeding disorders (i.e. hemophilia or von Willebrand Disease)&#xD;
+&#xD;
+          -  Active bleeding&#xD;
+&#xD;
+          -  Pulmonary bleeding during this hospital admission (Pulmonary bleeding is frank&#xD;
+             bleeding in the lungs, trachea or bronchi with repeated hemoptysis, or requiring&#xD;
+             repeated suctioning, and temporally associated with acute deterioration in respiratory&#xD;
+             status)&#xD;
+&#xD;
+          -  Neurosurgical procedures during this hospital admission or such procedures are planned&#xD;
+&#xD;
+          -  Epidural catheter in place&#xD;
+&#xD;
+          -  Any history of intracranial, spinal or epidural hemorrhage&#xD;
+&#xD;
+          -  Tracheostomy in place&#xD;
+&#xD;
+          -  Cervical spinal cord injury associated with reduced long-term ability to breathe&#xD;
+             independently&#xD;
+&#xD;
+          -  Spinal or peripheral nerve disease with a likely prolonged reduction in the ability to&#xD;
+             breathe independently&#xD;
+&#xD;
+          -  Receiving extra-corporeal membrane oxygenation or continuous renal replacement therapy&#xD;
+&#xD;
+          -  Usually treated with hemodialysis or peritoneal dialysis for end-stage renal failure&#xD;
+&#xD;
+          -  Death is deemed imminent or inevitable or there is an underlying disease with a life&#xD;
+             expectancy of fewer than 90 days&#xD;
+&#xD;
+          -  Pregnant or might be pregnant.&#xD;
+&#xD;
+          -  Objection from the treating clinician&#xD;
+&#xD;
+          -  Consent refused by the patient or substitute decision maker.&#xD;
+&#xD;
+          -  History of thrombosis (VTE or cardiovascular event)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Brittany D Bissell</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Kentucky</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Brittany D Bissell</last_name>
+    <phone>8593239308</phone>
+    <email>brittany.bissell@uky.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UK Healthcare</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brittany Bissell</last_name>
+      <email>brittany.bissell@uky.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jeremy Wood</last_name>
+      <email>Jeremy.Wood@uky.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 13, 2021</study_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Kentucky</investigator_affiliation>
+    <investigator_full_name>Brittany Bissell</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heparin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1951">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04775134</url>
+  </required_header>
+  <id_info>
+    <org_study_id>S64988</org_study_id>
+    <nct_id>NCT04775134</nct_id>
+  </id_info>
+  <brief_title>Residual SARS-CoV-2 Presence in the Respiratory Tract and Lung Parenchyma (After SARS-CoV-2 Infection or COVID-19)</brief_title>
+  <acronym>REASSURE</acronym>
+  <official_title>Residual SARS-CoV-2 Presence in the Respiratory Tract and Lung Parenchyma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universitaire Ziekenhuizen Leuven</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universitaire Ziekenhuizen Leuven</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to confirm or rule out the residual presence and viability of SARS-&#xD;
+      CoV-2 in the respiratory tract and lung parenchyma of patients previously infected with&#xD;
+      SARS-CoV-2.&#xD;
+&#xD;
+      Presence and viability of SARS-CoV-2 in lung tissue will be assessed with reverse&#xD;
+      transcriptase-polymerase chain reaction (PCR) and viral culture. The histological location of&#xD;
+      residual SARS-CoV-2 will be determined with fluorescence immunohistochemistry and single&#xD;
+      molecule fluorescence in situ hybridization, targeting viral proteins and RNA respectively.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators will collect residuary lung tissue after medically indicated pulmonary&#xD;
+      resections at the Thoracic Surgery Department of University Hospitals Leuven. More&#xD;
+      specifically the investigators will collect lung tissue from patients that had earlier PCR&#xD;
+      proven COVID-19 and/or serum anti-SARS-CoV-2 antibodies.&#xD;
+&#xD;
+      Furthermore, for negative control of the methodology the investigators will also collect lung&#xD;
+      tissue from patients that have no signs for earlier SARS-CoV-2 infection.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 31, 2021</start_date>
+  <completion_date type="Anticipated">January 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Reverse transcriptase-PCR</measure>
+    <time_frame>Single time point.</time_frame>
+    <description>Detection of SARS-CoV-2 RNA in lung tissue homogenate with primers targeting both genomic and subgenomic RNA</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fluorescence immunohistochemistry (IHC)</measure>
+    <time_frame>Single time point.</time_frame>
+    <description>Determining the histological presence of SARS-CoV-2 viral proteins in lung tissue with commercially available antibodies against the SARS-CoV-2 spike and nucleocapsid proteins</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Single molecule fluorescence in situ hybridization (smFISH)</measure>
+    <time_frame>Single time point.</time_frame>
+    <description>Determining the presence of SARS-COV-2 viral RNA in lung tissue with commercially available probes targeting both sense and anti-sense viral RNA</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Viral culture</measure>
+    <time_frame>Single time point.</time_frame>
+    <description>Determining viability of SARS-CoV-2 in case of a low revere transcriptase-PCR cycling threshold</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Subjects with earlier PCR-proven COVID-19 and/or serum anti-SARS-CoV-2 antibodies</arm_group_label>
+    <description>Patients that require a medically indicated pulmonary resection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Subjects WITHOUT earlier PCR-proven COVID-19 and/or serum anti-SARS-CoV-2 antibodies</arm_group_label>
+    <description>Patients that require a medically indicated pulmonary resection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Lung biopsy</intervention_name>
+    <description>Biopsy of residuary material from a medically indicated pulmonary resection</description>
+    <arm_group_label>Subjects WITHOUT earlier PCR-proven COVID-19 and/or serum anti-SARS-CoV-2 antibodies</arm_group_label>
+    <arm_group_label>Subjects with earlier PCR-proven COVID-19 and/or serum anti-SARS-CoV-2 antibodies</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Lung tissue&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients requiring a medically indicated pulmonary resection.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient requires medically indicated pulmonary resection&#xD;
+&#xD;
+          -  Informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Active SARS-CoV-2 infection/COVID-19&#xD;
+&#xD;
+          -  No informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Laurens J Ceulemans, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UZ Leuven</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Laurens J Ceulemans, MD, PhD</last_name>
+    <phone>+ 32 16 34 34 25</phone>
+    <email>laurens.ceulemans@uzleuven.be</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UZ Leuven</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laurens J Ceulemans, MD, PhD</last_name>
+      <phone>+ 32 16 34 34 25</phone>
+      <email>laurens.ceulemans@uzleuven.be</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 1, 2021</study_first_posted>
+  <last_update_submitted>March 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

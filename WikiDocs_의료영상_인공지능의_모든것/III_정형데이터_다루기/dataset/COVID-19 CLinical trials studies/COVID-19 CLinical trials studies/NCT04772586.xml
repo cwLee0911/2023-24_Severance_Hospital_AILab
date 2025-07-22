@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4121">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04772586</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SARCO-V_2021/110</org_study_id>
+    <nct_id>NCT04772586</nct_id>
+  </id_info>
+  <brief_title>Sarcopenia and Mechanical Ventilation in Older Patients Admitted Due to COVID-19</brief_title>
+  <acronym>SARCO-V</acronym>
+  <official_title>Sarcopenia and Mechanical Ventilation in Older Patient Admitted With COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brugmann University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Brugmann University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The SarcoV study aims at assessing the association between sarcopenia and the indication of&#xD;
+      mechanical ventilation in older hospitalized patients due to COVID-19 infection&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Sarcopenia is disease associated with poor clinical outcomes. In critical ill chirurgical&#xD;
+      patients, sarcopenia is associated with difficult to wean of mechanical ventilation. The&#xD;
+      association between sarcopenia and mechanical ventilation is poorly studied in medical&#xD;
+      patients. COVID-19 pandemic has led a lot of medical patient to be admitted in intensive care&#xD;
+      units due to acute respiratory failure with need of mechanical ventilation support.&#xD;
+&#xD;
+      The primary objective is to determine if sarcopenia in critically-ill older patients with&#xD;
+      COVID-19 is associated with the indication of mechanical ventilation. Secondarily, the study&#xD;
+      aims at determining if sarcopenia is associated with difficult to wean and mortality in&#xD;
+      critically-ill older patients with COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2020</start_date>
+  <completion_date type="Anticipated">March 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Indication of mechanical ventilation</measure>
+    <time_frame>Through study completion, an average of 60 days</time_frame>
+    <description>Association between probable sarcopenia and the indication of mechanical ventilation in patients with COVID-19 infection.&#xD;
+Mechanical ventilation was considered by non-invasive ventilation or invasive ventilation. For purpose of analysis, it was defined as a binary outcome (yes(no).&#xD;
+Probable sarcopenia probable was defined according to the revised European consensus on definition and diagnosis of sarcopenia (EWGSOP2). For purpose of analysis, it was defined as a binary condition (yes/no).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate difficult-to-wean in mechanical ventilation</measure>
+    <time_frame>Through study completion, an average of 60 days</time_frame>
+    <description>Difficult to wean in mechanical ventilation is defined if the patient required more than 7 days of mechanical ventilation from the first spontaneous breath test or if the patient was reintubated within 48 hours after extubation. For purpose of analysis, it was considered as a binary outcome (yes/no)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>Through study completion, an average of 60 days</time_frame>
+    <description>Vital status during hospital admission, at 30- and 60-day follow-up</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Sarcopenia</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients aged 60 and older admitted in an acute care unit of Brugmann university hospital&#xD;
+        due to COVID-19&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria&#xD;
+&#xD;
+          -  Consecutive patients aged 60 and older&#xD;
+&#xD;
+          -  Admission in an acute care unit in Brugmann university hospital due to a COVID-19&#xD;
+             possible or confirmed infection. A infection was considered confirmed in presence of a&#xD;
+             positive molecular test by Polymerase-chain reaction (PCR), following the Belgian&#xD;
+             Public Health Department recommendations (Sciensano recommendations).&#xD;
+&#xD;
+        Exclusion criteria&#xD;
+&#xD;
+          -  Patients unable to perform a grip-strength measurement due to any rheumatological or&#xD;
+             neurological condition.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Murielle Surquin</last_name>
+    <phone>003202 477 21 11</phone>
+    <phone_ext>72386</phone_ext>
+    <email>Murielle.SURQUIN@chu-brugmann.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Maria Dolores SANCHEZ-RODRIGUEZ</last_name>
+    <phone>003202 477 21 11</phone>
+    <phone_ext>54540</phone_ext>
+    <email>DoloresMaria.SANCHEZ-RODRIGUEZ@chu-brugmann.be</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Brugmann university hospital</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1020</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Murielle Surquin</last_name>
+      <phone>02 477 21 11</phone>
+      <phone_ext>72386</phone_ext>
+      <email>Murielle.SURQUIN@chu-brugmann.be</email>
+    </contact>
+    <contact_backup>
+      <last_name>Dolores Sanchez-Rodriguez</last_name>
+      <phone>02 477 21 11</phone>
+      <phone_ext>54540</phone_ext>
+      <email>DoloresMaria.SANCHEZ-RODRIGUEZ@chu-brugmann.be</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <link>
+    <url>https://covid-19.sciensano.be/fr/covid-19-definition-de-cas-et-testing</url>
+    <description>Definition of a confirmed COVID-19 case and National recommendations for the request of PCR test for COVID-19 in Belgium by the Belgian Public Health Department (Sciensano)</description>
+  </link>
+  <reference>
+    <citation>Kou HW, Yeh CH, Tsai HI, Hsu CC, Hsieh YC, Chen WT, Cheng HT, Yu MC, Lee CW. Sarcopenia is an effective predictor of difficult-to-wean and mortality among critically ill surgical patients. PLoS One. 2019 Aug 8;14(8):e0220699. doi: 10.1371/journal.pone.0220699. eCollection 2019.</citation>
+    <PMID>31393937</PMID>
+  </reference>
+  <reference>
+    <citation>Cruz-Jentoft AJ, Bahat G, Bauer J, Boirie Y, Bruyère O, Cederholm T, Cooper C, Landi F, Rolland Y, Sayer AA, Schneider SM, Sieber CC, Topinkova E, Vandewoude M, Visser M, Zamboni M; Writing Group for the European Working Group on Sarcopenia in Older People 2 (EWGSOP2), and the Extended Group for EWGSOP2. Sarcopenia: revised European consensus on definition and diagnosis. Age Ageing. 2019 Jul 1;48(4):601. doi: 10.1093/ageing/afz046.</citation>
+    <PMID>31081853</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 26, 2021</study_first_posted>
+  <last_update_submitted>February 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brugmann University Hospital</investigator_affiliation>
+    <investigator_full_name>Murielle Surquin</investigator_full_name>
+    <investigator_title>Prof Dr Murielle Surquin MD PhD</investigator_title>
+  </responsible_party>
+  <keyword>Sarcopenia</keyword>
+  <keyword>Mechanical ventilation</keyword>
+  <keyword>Older patients</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sarcopenia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

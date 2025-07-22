@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2535">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04820751</url>
+  </required_header>
+  <id_info>
+    <org_study_id>25584</org_study_id>
+    <nct_id>NCT04820751</nct_id>
+  </id_info>
+  <brief_title>Cyproheptadine in Severe COVID-19 : A Unblinded Randomized Trial</brief_title>
+  <official_title>Cyproheptadine in Severe COVID-19 : A Unblinded Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ciusss de L'Est de l'Île de Montréal</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Covid-19 Early Treatment Fund</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ciusss de L'Est de l'Île de Montréal</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized controled open label clinical trial is to evaluate the effect of&#xD;
+      Cyproheptadine on the clinical course of patients presenting a severe SARS-COV 2 pneumonia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Observational and biochemical studies have identified an interesting pathway in the&#xD;
+      pathophysiology of certain clinical-biological characteristics of COVID-19, linked to an&#xD;
+      excess of serotonin. We hypothesize that the antagonism of the action of serotonin could&#xD;
+      improve the clinical course of patients most severely affected by COVID-19.&#xD;
+&#xD;
+      One such antagonist of serotonin with a long track record of safety and tolerability is&#xD;
+      cyproheptadine. Cyproheptadine acts as an antagonist of 5-hydroxytryptamine (5HT=serotonin)&#xD;
+      receptor subtype 2 as well as histamine-1 receptor. Many of the potent effects of serotonin&#xD;
+      on lung vascular tone, respiratory rate, and systemic vascular beds are mediated by 5-HT&#xD;
+      receptor subtype 2.&#xD;
+&#xD;
+      Investigators will randomize approximately 200 participants, aged 18 and older, who have&#xD;
+      tested positive for COVID-19 and who will be hospitalized at Santa Cabrini Hospital in&#xD;
+      Montreal, Quebec, Canada, presenting a severe form of covid-pneumonia-19 requiring&#xD;
+      supplemental oxygen.&#xD;
+&#xD;
+      Study eligibility of all participants will be assessed first. Once a participant is confirmed&#xD;
+      eligible and consented, they will participate in the study.&#xD;
+&#xD;
+      Participants will be randomly assigned (1: 1) to either take cyproheptadine 8 mg by mouth&#xD;
+      three times a day for 5 days and receive standard care or receive standard care alone.&#xD;
+&#xD;
+      The dose will be adjusted according to the glomerular filtration rate.&#xD;
+&#xD;
+      On D1, D3, D5, D7 and D10 since randomization, participant's vital signs (including SpO2,&#xD;
+      respiratory rate, FiO2 or oxygen flow, heart rate, blood pressure and temperature), blood&#xD;
+      creatinine, bilirubin, CRP, LDH, Dimers and platelets the count will be evaluated. Any&#xD;
+      adverse event will be assessed daily and documented.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 10, 2021</start_date>
+  <completion_date type="Anticipated">January 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Length of hospitalization</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Need mechanical ventilation (Non invasive or Invasive)</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Death</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospitalization in the intensive care unit</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of mechanical ventilation</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SOFA Score</measure>
+    <time_frame>At Day 1,3,5,7,10 after randomization</time_frame>
+    <description>Sequential Organ Failure Min Score 0-Max score 24 Higher scores mean a worse outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate</measure>
+    <time_frame>At Day 1,3,5,7,10 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory Rate</measure>
+    <time_frame>At Day 1,3,5,7,10 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Spo2/FiO2 and ROX ratio</measure>
+    <time_frame>At Day 1,3,5,7,10 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP level</measure>
+    <time_frame>At Day 1,3,5,7,10 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LDH level</measure>
+    <time_frame>At Day 1,3,5,7,10 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-Dimere level</measure>
+    <time_frame>At Day 1,3,5,7,10 after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Platelet count</measure>
+    <time_frame>At Day 1,3,5,7,10 after randomization</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Viral Pneumonia</condition>
+  <condition>Serotonin Syndrome</condition>
+  <condition>Platelet Dysfunction</condition>
+  <arm_group>
+    <arm_group_label>Cyproheptadine and standard care</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Start Cyproheptadine 8mg three times a day during 5 days. Dose will be reduced to 4mg three times a day if GFR inferior to 30ml/min/1.73m²&#xD;
+Standard management of COVID-19 infection according to current international guidelines</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard management of COVID-19 infection according to current international guidelines</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyproheptadine Hydrochloride 4 MG</intervention_name>
+    <description>Cyproheptadine associated to standard care</description>
+    <arm_group_label>Cyproheptadine and standard care</arm_group_label>
+    <other_name>Standard Care</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women age 18 or older&#xD;
+&#xD;
+          -  Hospitalized and requiring medical care for COVID-19&#xD;
+&#xD;
+          -  Presenting respiratory failure cause by COVID 19 requiring oxygen and/or mechanical&#xD;
+             ventilation support&#xD;
+&#xD;
+          -  With radiographic evidence of pulmonary infiltrate&#xD;
+&#xD;
+          -  Able to give informed consent or, if unable to do so regarding the medical condition,&#xD;
+             having relatives able of consenting for the patient&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Patients with pre-existing terminal condition with life expectancy &lt; 6 months&#xD;
+&#xD;
+          -  Patients with pre-existing severe lung disease requiring home O2&#xD;
+&#xD;
+          -  History of seizure disorder&#xD;
+&#xD;
+          -  History of adverse reaction to antihistamines or to Cyproheptadine&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Philippe Rola, MD</last_name>
+    <phone>514 252-6000</phone>
+    <email>philippe.rola@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Alexandre Noel, MD</last_name>
+    <phone>514 252-6000</phone>
+    <email>alexandre.noel.1@umomtreal.ca</email>
+  </overall_contact_backup>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 29, 2021</study_first_posted>
+  <last_update_submitted>March 31, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid 19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Malignant Carcinoid Syndrome</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Serotonin Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyproheptadine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

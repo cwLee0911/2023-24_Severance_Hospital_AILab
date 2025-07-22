@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="893">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04815096</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-32477</org_study_id>
+    <nct_id>NCT04815096</nct_id>
+  </id_info>
+  <brief_title>Imaging Immune Activation in COVID-19</brief_title>
+  <official_title>Imaging Immune Activation in COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CellSight Technologies, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>CellSight Technologies, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single center, single arm exploratory imaging study involving up to two intravenous&#xD;
+      microdoses of [18F]F-AraG (the second tracer dose is optional) followed by whole-body PET-CT&#xD;
+      imaging in participants with convalescent COVID-19. Up to 20 participants will be enrolled&#xD;
+      over an accrual period of approximately 24 months. Each participant will undergo one PET-CT&#xD;
+      scan following 50 +/- 10 minutes uptake following a single bolus injection of [18F]F-AraG in&#xD;
+      order to determine the tissue distribution of tracer in pariticpants with recent SARS-CoV-2&#xD;
+      infection. A second optional [18F]F-AraG dose and PET-CT will be offered approximately 4&#xD;
+      months following the initial imaging time point.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single center exploratory imaging study involving up to two intravenous microdoses&#xD;
+      of [18F]F-AraG (the second tracer dose is optional) followed by whole-body PET-CT imaging in&#xD;
+      participants 18 years of age and older with recent SARS-CoV-2 diagnosis and COVID-19 at least&#xD;
+      14 days following onset of symptoms. The primary objective is to determine the anatomical&#xD;
+      distribution of [18F]F-AraG in participant with convalescent COVID-19 approximately 4 weeks&#xD;
+      and 5 months (optional, 4 months following first PET imaging visit) following onset of&#xD;
+      symptoms (N = 20). Tracer activity will also be compared with sex and age-matched uninfected&#xD;
+      historical control participants enrolled in prior studies. Up to 20 participants will be&#xD;
+      enrolled in this study who will be identified in the UCSF LIINC longitudinal COVID-19 cohort&#xD;
+      study. Each participant will undergo one PET-CT scan following 50 +/- 10 minutes uptake&#xD;
+      following a single bolus injection of [18F]F-AraG. A second optional [18F]F-AraG dose and&#xD;
+      PET-CT will be offered approximately 4 months following the initial imaging time point.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 15, 2021</start_date>
+  <completion_date type="Anticipated">March 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2023</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is a single center exploratory imaging study involving up to two intravenous microdoses of [18F]F-AraG (the second tracer dose is optional) followed by whole-body PET-CT imaging in participants 18 years of age and older with recent SARS-CoV-2 diagnosis and COVID-19 at least 14 days following onset of symptoms.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>[18F]F-AraG uptake in participants with convalescent COVID-19</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>To determine regional uptake of [18F]F-AraG in participants with convalescent COVID-19.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>[18F]F-AraG uptake in participants with convalescent COVID-19 over time</measure>
+    <time_frame>5 months</time_frame>
+    <description>To determine the anatomical distribution of [18F]F-AraG in participant with convalescent COVID-19 approximately 4 weeks and 5 months (optional) over time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>[18F]F-AraG uptake in participants with mild to severe COVID-19 symptoms</measure>
+    <time_frame>1 year</time_frame>
+    <description>To compare maximum SUV (SUVmax) and the mean SUV (SUVmean) from regions of interest (ROI; e.g. lungs, lymph node chains,) between convalescent COVID-19 individuals with mild (N=10) to those with moderate to severe initial disease (N=10) at each imaging timepoint</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>[18F]F-AraG uptake in female versus male participants</measure>
+    <time_frame>1 year</time_frame>
+    <description>To compare maximum SUV (SUVmax) and the mean SUV (SUVmean) from regions of interest (ROI; e.g. lungs, lymph node chains,) between male and female participants with convalescent COVID-19 at each imaging time point.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>[18F]F-AraG</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Radiofluorinated imaging agent, [18F]F-AraG (2'-deoxy-2'-fluoro-9-β-D-arabinofuranosylguanine)&#xD;
+Trade name: VisAcT</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>[18F]F-AraG (2'-deoxy-2'-fluoro-9-β-D-arabinofuranosylguanine)</intervention_name>
+    <description>[18F]F-AraG is a radiolabeled high affinity substrate for deoxyguanosine kinase (dGK) and a low affinity substrate for deoxycytidine kinase (dCK), which are over-expressed in activated T cells.</description>
+    <arm_group_label>[18F]F-AraG</arm_group_label>
+    <other_name>VisAcT</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt;18 years&#xD;
+&#xD;
+          -  Ability to read and understand written informed consent document&#xD;
+&#xD;
+          -  Have a recent diagnosis of SARS-CoV-2 infection as defined by a prior positive&#xD;
+             SARS-CoV-2 nucleic acid-based diagnostic test performed in a clinical laboratory on&#xD;
+             one or more nasopharyngeal or respiratory secretion samples.&#xD;
+&#xD;
+          -  &gt; 14 days since onset of COVID-19 symptoms (or if no symptoms, from time of initial&#xD;
+             nucleic acid based diagnostic test).&#xD;
+&#xD;
+          -  Laboratory evaluations obtained within 60 days prior to entry.&#xD;
+&#xD;
+               -  Platelet count ≥75,000/mm3&#xD;
+&#xD;
+               -  ANC &gt;1000/mm3&#xD;
+&#xD;
+               -  Aspartate aminotransferase (AST) &lt;3 x ULN&#xD;
+&#xD;
+               -  Alanine aminotransferase (ALT) &lt;3 x ULN&#xD;
+&#xD;
+               -  Calculated creatinine clearance (CrCl) ≥60 mL/min as estimated by the Cockcroft-&#xD;
+&#xD;
+               -  Gault equation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any medical condition that would compromise the imaging acquisition, in the opinion of&#xD;
+             the investigator&#xD;
+&#xD;
+          -  Participants who are pregnant (female participants of childbearing age will be tested&#xD;
+             prior to injection of imaging agent at entry visit/initial visit - positive test will&#xD;
+             exclude from further participation in the study)&#xD;
+&#xD;
+          -  Participants who are breastfeeding&#xD;
+&#xD;
+          -  Female participants of reproductive potential (defined as women who have not been&#xD;
+             post-menopausal for at least 24 consecutive months (i.e., who have had menses within&#xD;
+             the preceding 24 months), or women who have not undergone surgical sterilization,&#xD;
+             specifically hysterectomy and/or bilateral oophorectomy or bilateral salpingectomy)&#xD;
+             must have a negative urine or serum pregnancy test with a sensitivity of at least 25&#xD;
+             mIU/mL performed within 24 hours prior to PET imaging. Females of reproductive&#xD;
+             potential will need to be on 2 forms of birth control (excluding withdrawal or timing&#xD;
+             methods).&#xD;
+&#xD;
+          -  Participants who have had prior allogeneic stem cell or solid organ transplant.&#xD;
+&#xD;
+          -  Screening absolute neutrophil count &lt;1,000 cells/mm3, platelet count &lt;75,000&#xD;
+             cells/mm3, hemoglobin &lt; 8 mg/dL, estimated creatinine clearance &lt;60 mL/minute,&#xD;
+             aspartate aminotransferase &gt;3 x ULN, alanine aminotransferase &gt;3 x ULN.&#xD;
+&#xD;
+          -  Known SARS-CoV-2 shedding within 5 days of PET imaging.&#xD;
+&#xD;
+          -  Previously diagnosed myelodysplasia syndrome or history of lymphoproliferative disease&#xD;
+             prior to study entry&#xD;
+&#xD;
+          -  Active systemic autoimmune diseases not related to COVID-19.&#xD;
+&#xD;
+          -  COVID-19 vaccine prior to the first PET imaging session. Participants may receive&#xD;
+             COVID-19 vaccination after the first PET imaging session and the optional second PET&#xD;
+             scan, with the scan being performed at least 2 weeks following the most recent vaccine&#xD;
+             dose.&#xD;
+&#xD;
+          -  Prior PET scan or therapeutic radiation within 1 year of study enrollment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Timothy Henrich, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Timothy Henrich, MD</last_name>
+    <phone>6282065518</phone>
+    <email>timothy.henrich@ucsf.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Leo Torres</last_name>
+    <email>Leonel.torres@ucsf.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Timothy J Henrich, MD</last_name>
+      <phone>415-206-5518</phone>
+      <email>timothy.henrich@ucsf.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Timothy J Henrich, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Henry F Vanbrocklin, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Robert Flavel, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 24, 2021</study_first_posted>
+  <last_update_submitted>March 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PET-CT Imaging</keyword>
+  <keyword>[18F]F-AraG</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

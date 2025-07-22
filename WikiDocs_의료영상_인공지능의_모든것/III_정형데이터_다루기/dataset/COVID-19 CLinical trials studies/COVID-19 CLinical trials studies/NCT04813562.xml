@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1259">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04813562</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JSVCT097</org_study_id>
+    <nct_id>NCT04813562</nct_id>
+  </id_info>
+  <brief_title>Immunogenicity and Safety of Recombinant COVID-19 Vaccine (CHO Cells)</brief_title>
+  <official_title>A Single-center, Randomized, Double Blinded, Placebo Controlled, Phase 2 Clinical Trial of Recombinant COVID-19 Vaccine (CHO Cells), in the Subjects From Healthy Aged 18 Years and Above</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jiangsu Province Centers for Disease Control and Prevention</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Academy of Military Medical Sciences，Academy of Military Sciences，PLA ZHONGYIANKE Biotech Co, Ltd. LIAONINGMAOKANGYUAN Biotech Co, Ltd</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Jiangsu Province Centers for Disease Control and Prevention</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase Ⅱ, randomized, placebo-controlled, double-blind study, to evaluate&#xD;
+      immunogenicity and safety of a recombinant COVID-19 vaccine (CHO cells) in the subjects from&#xD;
+      healthy adults and elderly adults aged 18 years and above (aged 18-60 and 60-85 years) with&#xD;
+      an immunization procedure (0, 28, 56 days).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase Ⅱ, single-center, randomized, double-blind, placebo-controlled study, to&#xD;
+      evaluate the immunogenicity and safety of the recombinant COVID-19 vaccine (CHO cells) in the&#xD;
+      subjects from healthy adults and elderly adults aged 18 years and above (aged 18-60 and 60-85&#xD;
+      years) . The phase Ⅱ clinical trials designed 4 research group, including an immunization&#xD;
+      procedures (0, 28, 56 days), two doses (20μg/0.5ml, 40μg/0.5ml) and two ages group (adults&#xD;
+      and elder): Each group including 120 participants. Vaccination or placebo group will be&#xD;
+      randomly assigned to receive in a 5:1 ratio, 480 in total.&#xD;
+&#xD;
+      Cellular immune blood samples were collected from the top 96 subjects (i.e., the top 24 in&#xD;
+      each study group, vaccine group: control group =5:1), and Elispot test and cytokine staining&#xD;
+      (ICS)/flow assay were performed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 23, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 30, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The positive conversion rate of anti-SARS-CoV-2 specific neutralizing antibody (eucivirus neutralization assays)</measure>
+    <time_frame>30 days after full-course vaccination in each study group</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The incidence of adverse reaction (AR)</measure>
+    <time_frame>0 to 7 days after vaccination in each study group</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of adverse events (AE)</measure>
+    <time_frame>0 to 30 days after vaccination in each study group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of severe adverse events (SAE)</measure>
+    <time_frame>12 months after prime and boost vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Geometric mean titer (GMT) of anti-SARS-CoV-2 specific neutralizing antibody (euvirus and pseudovirus neutralization assays)</measure>
+    <time_frame>14 days, 30 days, 6 months and 12 months after full-course vaccination in each study group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Geometric mean fold increase (GMI) of anti-SARS-CoV-2 specific neutralizing antibody (euvirus and pseudovirus neutralization assays)</measure>
+    <time_frame>14 days, 30 days, 6 months and 12 months after full-course vaccination in each study group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The positive conversion rate of anti-SARS-CoV-2 specific neutralizing antibody (eucivirus neutralization assays)</measure>
+    <time_frame>14 days, 6 months and 12 months after full-course vaccination in each study group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The positive conversion rate of anti-SARS-CoV-2 specific neutralizing antibody (pseudovirus neutralization assays)</measure>
+    <time_frame>14 days, 30days, 6 months and 12 months after full-course vaccination in each study group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The positive conversion rate of the SARS-CoV-2 neutralizing antibody and the S-RBD protein specific antibody</measure>
+    <time_frame>14 days, 30days, 6 months and 12 months after full-course vaccination in each study group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The GMT of the SARS-CoV-2 neutralizing antibody and the S-RBD protein specific antibody</measure>
+    <time_frame>14 days, 30days, 6 months and 12 months after full-course vaccination in each study group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The GMI of the SARS-CoV-2 neutralizing antibody and the S-RBD protein specific antibody</measure>
+    <time_frame>14 days, 30days, 6 months and 12 months after full-course vaccination in each study group</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>The geometric mean titer (GMT) ratio of the SARS-CoV-2 neutralizing antibody and the S-RBD protein specific antibody in each study groups</measure>
+    <time_frame>14 days, 30days, 6 months and 12 months after full-course vaccination in each study group</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Subtypes of IgG antibodies against the S-RBD protein of SARS-CoV-2 after immunization in each study group</measure>
+    <time_frame>14 days, 30days, 6 months and 12 months after full-course vaccination in each study group</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>The proportion of IFN-γ secreted by T cells at Day 14 using ELISpot detection method</measure>
+    <time_frame>Day 14 after full-course vaccination in each study group</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>The Intracellular cytokine staining (ICS)/flow cytometry was used to detect the Th1/Th2 immune response after immunization (CD3+/CD4+/CD8+ T cells, and cytokines TNFα/IFNγ/IL2/IL4).</measure>
+    <time_frame>Day 14 after full-course vaccination in each study group</time_frame>
+  </other_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">480</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Middle-dose vaccine (18-59 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three doses of middle-dose experimental vaccine at the schedule of day 0, 28, 56</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose vaccine (18-59 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two doses of High-dose vaccine at the schedule of day 0, 28, 56</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Middle-dose vaccine (60-85 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three doses of middle-dose experimental vaccine at the schedule of day 0, 28, 56</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose vaccine (60-85 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two doses of High-dose experimental vaccine at the schedule of day 0, 28, 56</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Middle-dose placebo (18-59 years)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Three doses of middle-dose placebo at the schedule of day 0, 28, 56</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose placebo (18-59 years)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Two doses of High-dose placebo at the schedule of day 0, 28, 56</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Middle-dose placebo (60-85 years)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Three doses of middle-dose placebo at the schedule of day 0, 28, 56</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose placebo (60-85 years)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Two doses of High-dose placebo at the schedule of day 0, 28, 56</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>a middle-dose recombinant COVID-19 vaccine (CHO Cell) (18-59 years) at the schedule of day 0, 28, 56</intervention_name>
+    <description>18-59 years,Three doses of middle-dose (20µg/0.5ml) recombinant COVID-19 vaccine (CHO Cell) at the schedule of day 0, 28, 56.</description>
+    <arm_group_label>Middle-dose vaccine (18-59 years)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>a high-dose recombinant COVID-19 vaccine (CHO Cell) (18-59 years) at the schedule of day 0, 28, 56</intervention_name>
+    <description>18-59 years,Three doses of high-dose (40µg/0.5ml) recombinant COVID-19 vaccine (CHO Cell) at the schedule of day 0, 28, 56.</description>
+    <arm_group_label>High-dose vaccine (18-59 years)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>a middle-dose recombinant COVID-19 vaccine (CHO Cell) (60-85 years) at the schedule of day 0, 28, 56</intervention_name>
+    <description>60-85 years,Three doses of middle-dose (20µg/0.5ml) recombinant COVID-19 vaccine (CHO Cell) at the schedule of day 0, 28, 56.</description>
+    <arm_group_label>Middle-dose vaccine (60-85 years)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>a high-dose recombinant COVID-19 vaccine (CHO Cell) (60-85 years) at the schedule of day 0, 28, 56</intervention_name>
+    <description>60-85 years,Three doses of high-dose (40µg/0.5ml) recombinant COVID-19 vaccine (CHO Cell) at the schedule of day 0, 28, 56.</description>
+    <arm_group_label>High-dose vaccine (60-85 years)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>a middle-dose placebo (18-59 years) at the schedule of day 0, 28, 56</intervention_name>
+    <description>18-59 years,Three doses of middle-dose (0.5ml) placebo at the schedule of day 0, 28, 56.</description>
+    <arm_group_label>Middle-dose placebo (18-59 years)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>a high-dose placebo (18-59 years) at the schedule of day 0, 28, 56</intervention_name>
+    <description>18-59 years,Three doses of high-dose (0.5ml) placebo at the schedule of day 0, 28, 56.</description>
+    <arm_group_label>High-dose placebo (18-59 years)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>a middle-dose placebo (60-85 years) at the schedule of day 0, 28, 56</intervention_name>
+    <description>60-85 years,Three doses of middle-dose (0.5ml) placebo at the schedule of day 0, 28, 56.</description>
+    <arm_group_label>Middle-dose placebo (60-85 years)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>a high-dose placebo (60-85 years) at the schedule of day 0, 28, 56</intervention_name>
+    <description>60-85 years,Three doses of high-dose (0.5ml) placebo at the schedule of day 0, 28, 56.</description>
+    <arm_group_label>High-dose placebo (60-85 years)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy subjects of ≥ 18 years old.&#xD;
+&#xD;
+          -  The subject can understand and voluntarily sign the informed consent.&#xD;
+&#xD;
+          -  Axillary temperature ≤37.0℃.&#xD;
+&#xD;
+          -  General good health as established by medical history and physical examination&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have a history of close contact with a confirmed case of SARS-CoV-2, an asymptomatic&#xD;
+             infection in the previous 14 days, or a travel history/residential history in a&#xD;
+             community where a case has been reported.&#xD;
+&#xD;
+          -  Have a history of contact with a person infected with SARS-CoV-2(a person with a&#xD;
+             positive nucleic acid test) in the previous 14 days.&#xD;
+&#xD;
+          -  Patients with fever or respiratory symptoms who have been to middle or high-risk areas&#xD;
+             in the past 14 days or have exit history, or come from communities with case reports.&#xD;
+&#xD;
+          -  In the past 14 days, there have been 2 or more cases of fever and/or respiratory&#xD;
+             symptoms in small areas such as homes, offices, school classes, etc.&#xD;
+&#xD;
+          -  Have a history of SARS.&#xD;
+&#xD;
+          -  Have a history of SARS-CoV-2 infection or history of Coronavirus Vaccination&#xD;
+             (including Emergency Vaccine and Experimental Vaccine).&#xD;
+&#xD;
+          -  Positive in SARS-CoV-2 IgG or IgM antibody screening.&#xD;
+&#xD;
+          -  Have a history of HIV infection;&#xD;
+&#xD;
+          -  Women who are breastfeeding, pregnant, or planning to become pregnant during 6 months&#xD;
+             after full-course vaccination (based on the subject's self-report and blood pregnancy&#xD;
+             test results for women of childbearing age).&#xD;
+&#xD;
+          -  Have a history of asthma, a history of vaccine or vaccine component allergy, have&#xD;
+             serious adverse reactions to the vaccine, such as urticaria, dyspnea, angioedema.&#xD;
+&#xD;
+          -  Subjects with congenital malformations or developmental disorders, genetic defects,&#xD;
+             severe malnutrition, etc.&#xD;
+&#xD;
+          -  Subjects with autoimmune diseases or immunodeficiency/immunosuppression.&#xD;
+&#xD;
+          -  Subjects with severe chronic diseases, severe cardiovascular diseases,&#xD;
+             hypertension(sbp≥160mmHg and/or dbp≥100mmHg) and diabetes that cannot be controlled by&#xD;
+             drugs, liver and kidney diseases, malignant tumors, etc.&#xD;
+&#xD;
+          -  Subjects with severe neurological disease (epilepsy, convulsions or convulsions) or&#xD;
+             mental illness.&#xD;
+&#xD;
+          -  Subjects with thyroid disease or history of thyroidectomy, no spleen, functional&#xD;
+             asthenia, and any spleen or splenectomy caused by any condition.&#xD;
+&#xD;
+          -  Abnormal blood coagulation function diagnosed by a doctor (such as coagulation factor&#xD;
+             deficiency, coagulopathy, abnormal platelet) or obvious bruise or coagulation&#xD;
+             disorder.&#xD;
+&#xD;
+          -  Have received immunosuppressant therapy, cytotoxic therapy, and inhaled&#xD;
+             corticosteroids in the past 6 months (excluding corticosteroid spray therapy for&#xD;
+             allergic rhinitis and surface corticosteroid therapy for acute non-complicated&#xD;
+             dermatitis).&#xD;
+&#xD;
+          -  Received blood products within 3 months before receiving trial vaccine.&#xD;
+&#xD;
+          -  Received other study drugs within 30 days before receiving the trail vaccine.&#xD;
+&#xD;
+          -  Received a live attenuated vaccine within 14 days before receiving the experimental&#xD;
+             vaccine.&#xD;
+&#xD;
+          -  Received a subunit or inactivated vaccine within 7 days before receiving the&#xD;
+             experimental vaccine.&#xD;
+&#xD;
+          -  Various acute or chronic diseases occurred in the past 7 days.&#xD;
+&#xD;
+          -  Have a long history of alcohol or drug abuse.&#xD;
+&#xD;
+          -  Had urticaria one year before receiving the experimental vaccine;&#xD;
+&#xD;
+          -  congenital or acquired angioedema/neuroedema;&#xD;
+&#xD;
+          -  According to the judgment of the investigator, the subject has any other factors that&#xD;
+             are not suitable for participating in the clinical trial, or Or influence the subject&#xD;
+             to sign the informed consent.&#xD;
+&#xD;
+        Exclusion criteria of subsequent dose:&#xD;
+&#xD;
+          -  Patients with severe allergic reactions after the previous dose of vaccination;&#xD;
+&#xD;
+          -  Patients with serious adverse reactions causally related to the previous dose of&#xD;
+             vaccination.&#xD;
+&#xD;
+          -  For those newly discovered or newly discovered after the first vaccination that does&#xD;
+             not meet the first-dose selection criteria or meets the first-dose exclusion criteria,&#xD;
+             the investigator will determine whether to continue participating in the study.&#xD;
+&#xD;
+          -  Other exclusion reasons suggested by the researchers.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fengcai Zhu, Doctor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Jiangsu Provincial Center for Disease Control and Prevention</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Fanyue Meng, Doctor</last_name>
+    <phone>18915999245</phone>
+    <email>mfy19780712@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Jiangsu Provincial Center for Diseases Control and Prevention</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mingwei Wei</last_name>
+      <phone>15950529760</phone>
+      <email>wnmcwmw@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 24, 2021</study_first_posted>
+  <last_update_submitted>March 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Immunogenicity</keyword>
+  <keyword>Safety</keyword>
+  <keyword>COVID-19 vaccine</keyword>
+  <keyword>Recombinant vaccine</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

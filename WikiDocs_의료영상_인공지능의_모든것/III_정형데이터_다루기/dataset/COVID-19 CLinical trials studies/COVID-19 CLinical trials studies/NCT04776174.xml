@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5102">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04776174</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHILDMELODY</org_study_id>
+    <nct_id>NCT04776174</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Tolerance of Telerobotic vs Standard Ultrasound Exam in Children</brief_title>
+  <official_title>Crossover Comparison of the Efficacy and Tolerance of Telerobotic vs Standard Ultrasound Exam in Children</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Intercommunal Creteil</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>ADECHOTECH</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Centre Hospitalier Intercommunal Creteil</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In children with Covid-19, the diagnosis of Kawasaki Disease (KD) and pneumonia should be&#xD;
+      made very quickly. However, the regional hospitals surrounding Paris don't have the required&#xD;
+      expertise. The use of MELODY allows the paediatric team to quickly carry out the necessary&#xD;
+      examinations while avoiding the movement of patients and the risk of contamination.&#xD;
+&#xD;
+      The MELODY remote system developed by the company AdEchoTech is a CE marking telemedicine&#xD;
+      technique, allowing an expert to perform an ultrasound scan on a distant patient (several&#xD;
+      hundred/thousands of kms). The Melody system makes it possible to optimize ultrasound&#xD;
+      expertise resources wherever they are located (all specialties combined) The feasibility of&#xD;
+      the clinical use of telerobotic sonography has been demonstrated in adults for abdominal,&#xD;
+      cardiac and prenatal exam. Thus, the aim of this study is to assess the feasibility of this&#xD;
+      system in children.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Children will be initially scanned with a telerobotic ultrasound system. Within 3 hours after the telerobotic examination, patients will be scanned by a different sonographer with similar experience and qualifications using the conventional ultrasound, who will be blinded to the findings of the telerobotic examination.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of normal and abnormal standard and telerobotic ultrasound examinations</measure>
+    <time_frame>1 day</time_frame>
+    <description>Number of normal and abnormal examination conclusion for telerobotic and conventional ultrasound examinations</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Age of participants</measure>
+    <time_frame>At baseline</time_frame>
+    <description>Age of patients with telerobotic ultrasound</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of anomalies found</measure>
+    <time_frame>Up to 4 hours</time_frame>
+    <description>Conventional and telerobotic ultrasound examinations results</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parent satisfaction</measure>
+    <time_frame>Up to 4 hours</time_frame>
+    <description>Parent satisfaction questioner for the telerobotic examination using a 5-point Liekert scale from 1: &quot;strongly disagree&quot; to 5: &quot;strongly agree&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medical assistant satisfaction</measure>
+    <time_frame>Up to 4 hours</time_frame>
+    <description>Medical assistant satisfaction questioner for the telerobotic examination using a 5-point Liekert scale from 1: &quot;strongly disagree&quot; to 5: &quot;strongly agree&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sonographer satisfaction</measure>
+    <time_frame>Up to 4 hours</time_frame>
+    <description>Sonographer satisfaction questioner for the telerobotic examination using a 5-point Liekert scale from 1: &quot;strongly disagree&quot; to 5: &quot;strongly agree&quot;</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>standard and telerobotic ultrasound</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Included patients will have both ultrasound examination: standard ultraosound (abdominal, cardiac or pulmonary depending on the prescription and telerobotic ultrasound</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Ultrasound using the telerobotic Melody system</intervention_name>
+    <description>The children will first have a telerobotic ultrasound abdominal, pulmonary or cardiac followed by a classical ultrasound.</description>
+    <arm_group_label>standard and telerobotic ultrasound</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient from 1 year to 10 years&#xD;
+&#xD;
+          -  Patient requiring an ultrasound exam (thoracic, abdominal or cardiac)&#xD;
+&#xD;
+          -  French social security affiliation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Obesity defined by a BMI greater than 30&#xD;
+&#xD;
+          -  Open wound making it impossible to carry out an ultrasound scan&#xD;
+&#xD;
+          -  Algetic patient&#xD;
+&#xD;
+          -  Instability of vital functions&#xD;
+&#xD;
+          -  Impossible to remain in a seated position&#xD;
+&#xD;
+          -  Refusal to participate in the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>10 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Amelle Issa</last_name>
+    <phone>+33157022632</phone>
+    <email>amelle.issa@chicreteil.fr</email>
+  </overall_contact>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 1, 2021</study_first_posted>
+  <last_update_submitted>February 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

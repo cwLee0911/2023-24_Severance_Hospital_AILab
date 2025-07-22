@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="706">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04809948</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID 19 Vaccine</org_study_id>
+    <nct_id>NCT04809948</nct_id>
+  </id_info>
+  <brief_title>Effects of COVID 19 Vaccine on Egyptian Population</brief_title>
+  <official_title>Impact of COVID 19 Vaccine on Safety, Blood Elements, and Immunogenicity of the Egyptian Population</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assiut University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assiut University</source>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to identify adverse events following vaccination by the COVID-19&#xD;
+      vaccine by evaluating adverse side effects, hematological values; immunogenicity in the&#xD;
+      Egyptian candidates in response to COVID-19 vaccine, summarizing the which may occur&#xD;
+      following administration of COVID-19 vaccine.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19) is an emerging respiratory infectious disease caused by&#xD;
+      severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) that had infected more than 100&#xD;
+      million individuals and caused more than 2 million deaths worldwide by February 13, 2021. A&#xD;
+      safe and effective vaccination trials against COVID-19 is urgently needed. There are&#xD;
+      currently more than 160 COVID-19 candidate vaccines in development worldwide, and 25 are in&#xD;
+      different phases of clinical trials using different platforms.&#xD;
+&#xD;
+      The efficacy and immunogenicity of vaccines varies depending on the study cohort. Race and&#xD;
+      ethnicity were shown to affect the antibody responses to the rubella vaccine, which elicited&#xD;
+      significantly higher titers in children of African ethnicity compared to those of European&#xD;
+      descent or Hispanic ethnicity, likely, disparities in serologic responses to vaccines were&#xD;
+      also observed between different ethnic groups for the Haemophilus influenzae type b-tetanus&#xD;
+      toxoid conjugate vaccine , or the Haemophilus influenzae type b polysaccharide-Neisseria&#xD;
+      meningitidis outer membrane protein conjugate vaccine . thus keeping the race an important&#xD;
+      factor in studding its effect on immunogenicity of vaccine. Thus keeping the race an&#xD;
+      important factor in studding its effect on immunogenicity of vaccine, which pushed us to&#xD;
+      estimate immunogenicity in Egyptian population after vaccination with the inactivated&#xD;
+      COVID-19 vaccine.&#xD;
+&#xD;
+      Heamatological changes after vaccination had been detected in many researches; lecuocytosis&#xD;
+      was found shortly after vaccination of infants, which was primarily a neutrophilia but no&#xD;
+      participant received antibiotics and all remained well at follow-up . In a case series study,&#xD;
+      also leukocytosis with fever was detected following pneumococcal vaccine administration . On&#xD;
+      the other hand, neutropenia was detected following a new vaccine against Shigella sonnei .&#xD;
+      Platelets abnormalities also had been detected following vaccination, a previous example is&#xD;
+      idiopathic thrombocytopenic purpura, linked to the administration of measles-containing&#xD;
+      vaccines .&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">December 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>serological antibodies against SARS-CoV-2 e</measure>
+    <time_frame>change from baseline at one month after first dose</time_frame>
+    <description>Total IgG titer</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>serological antibodies against SARS-CoV-2 e</measure>
+    <time_frame>one month after second dose</time_frame>
+    <description>Total IgG titer</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Complete blood count (CBC)</measure>
+    <time_frame>change from baseline at one month after first dose</time_frame>
+    <description>to evaluate total leucocyte count TLC</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Complete blood count (CBC)</measure>
+    <time_frame>one month after second dose</time_frame>
+    <description>to evaluate total leucocyte count TLC</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Complete blood count (CBC)</measure>
+    <time_frame>change from baseline at one month after first dose</time_frame>
+    <description>absolute neutrophilic count (ANC)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Complete blood count (CBC)</measure>
+    <time_frame>one month after second dose</time_frame>
+    <description>absolute neutrophilic count (ANC)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Complete blood count (CBC)</measure>
+    <time_frame>change from baseline at one month after first dose</time_frame>
+    <description>platelets (PLTs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Complete blood count (CBC)</measure>
+    <time_frame>one month after second dose</time_frame>
+    <description>platelets (PLTs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Complete blood count (CBC)</measure>
+    <time_frame>change from baseline at one month after first dose</time_frame>
+    <description>hemoglobin level</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Complete blood count (CBC)</measure>
+    <time_frame>one month after second dose</time_frame>
+    <description>hemoglobin level</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse clinical symptoms after vaccine</measure>
+    <time_frame>up to one week after first dose</time_frame>
+    <description>asking about possible recorded side effects as&#xD;
+Local: irritation, erythema, swelling, or itching.&#xD;
+Systemic: headache, dizziness, difficult sleep, flush, muscle pain, joint pain, fatigue, fever, chills, sore throat, nasal congestion, nasal bleeds, sneezing, runny nose, cough, dyspnoea, palpitation, nausea, vomiting, diarrhoea, constipation, stomach pain, loss of appetite, acute allergic reaction, acne, abnormal taste, loss of taste, mouth ulcers, toothache, ear pain, eye pain, and/or lymphadenopathy.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>COVID 19 Vaccine</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>viral vector vaccine</intervention_name>
+    <description>AstraZeneca vaccine</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        HCWs in Assiut University Hospitals accepted to take vaccine&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. People aged 18-80 years.&#xD;
+&#xD;
+          2. Negative for serum-specific IgM/IgG antibodies against SARS-CoV-2, as measured by a&#xD;
+             commercial kit (Innovita, China) at the time of screening.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. A history of infection with SARS-CoV 3 months before the vaccine.&#xD;
+&#xD;
+          2. Fever, cough, runny nose, sore throat, diarrhoea, dyspnoea, or tachypnoea in the 14&#xD;
+             days before vaccination.&#xD;
+&#xD;
+          3. Pregnancy.&#xD;
+&#xD;
+          4. A history of seizures or mental illness.&#xD;
+&#xD;
+          5. Being on immunosuppressive agents.&#xD;
+&#xD;
+          6. Being on anticoagulation therapy.&#xD;
+&#xD;
+          7. Being unable to comply with the study schedule.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Mariam Elkhayat, lecturer</last_name>
+    <phone>01003708261</phone>
+    <email>mariam.elkhayat@aun.edu.eg</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Taghreed Meshref, lecturer</last_name>
+    <phone>01003651135</phone>
+    <email>tagreed.meshref@aun.edu.eg</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Spinelli A, Pellino G. COVID-19 pandemic: perspectives on an unfolding crisis. Br J Surg. 2020 Jun;107(7):785-787. doi: 10.1002/bjs.11627. Epub 2020 Mar 23.</citation>
+    <PMID>32191340</PMID>
+  </reference>
+  <reference>
+    <citation>Stern PL. Key steps in vaccine development. Ann Allergy Asthma Immunol. 2020 Jul;125(1):17-27. doi: 10.1016/j.anai.2020.01.025. Epub 2020 Feb 7. Review.</citation>
+    <PMID>32044451</PMID>
+  </reference>
+  <reference>
+    <citation>Xia S, Duan K, Zhang Y, Zhao D, Zhang H, Xie Z, Li X, Peng C, Zhang Y, Zhang W, Yang Y, Chen W, Gao X, You W, Wang X, Wang Z, Shi Z, Wang Y, Yang X, Zhang L, Huang L, Wang Q, Lu J, Yang Y, Guo J, Zhou W, Wan X, Wu C, Wang W, Huang S, Du J, Meng Z, Pan A, Yuan Z, Shen S, Guo W, Yang X. Effect of an Inactivated Vaccine Against SARS-CoV-2 on Safety and Immunogenicity Outcomes: Interim Analysis of 2 Randomized Clinical Trials. JAMA. 2020 Sep 8;324(10):951-960. doi: 10.1001/jama.2020.15543.</citation>
+    <PMID>32789505</PMID>
+  </reference>
+  <reference>
+    <citation>Haralambieva IH, Salk HM, Lambert ND, Ovsyannikova IG, Kennedy RB, Warner ND, Pankratz VS, Poland GA. Associations between race, sex and immune response variations to rubella vaccination in two independent cohorts. Vaccine. 2014 Apr 7;32(17):1946-53. doi: 10.1016/j.vaccine.2014.01.090. Epub 2014 Feb 13.</citation>
+    <PMID>24530932</PMID>
+  </reference>
+  <reference>
+    <citation>Prentice S, Kamushaaga Z, Nash SB, Elliott AM, Dockrell HM, Cose S. Post-immunization leucocytosis and its implications for the management of febrile infants. Vaccine. 2018 May 11;36(20):2870-2875. doi: 10.1016/j.vaccine.2018.03.026. Epub 2018 Apr 11.</citation>
+    <PMID>29655624</PMID>
+  </reference>
+  <reference>
+    <citation>von Elten KA, Duran LL, Banks TA, Banks TA, Collins LC, Collins LC. Systemic inflammatory reaction after pneumococcal vaccine: a case series. Hum Vaccin Immunother. 2014;10(6):1767-70. doi: 10.4161/hv.28559. Epub 2014 Mar 18.</citation>
+    <PMID>24642659</PMID>
+  </reference>
+  <reference>
+    <citation>Muturi-Kioi V, Lewis D, Launay O, Leroux-Roels G, Anemona A, Loulergue P, Bodinham CL, Aerssens A, Groth N, Saul A, Podda A. Neutropenia as an Adverse Event following Vaccination: Results from Randomized Clinical Trials in Healthy Adults and Systematic Review. PLoS One. 2016 Aug 4;11(8):e0157385. doi: 10.1371/journal.pone.0157385. eCollection 2016. Review.</citation>
+    <PMID>27490698</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 22, 2021</study_first_posted>
+  <last_update_submitted>March 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Assiut University</investigator_affiliation>
+    <investigator_full_name>Mariam Roshdy Elkhayat</investigator_full_name>
+    <investigator_title>lecturer</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

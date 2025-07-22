@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2217">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04841746</url>
+  </required_header>
+  <id_info>
+    <org_study_id>69HCL21_0354</org_study_id>
+    <nct_id>NCT04841746</nct_id>
+  </id_info>
+  <brief_title>Efficacy of FES Cycling After a Severe Form of COVID-19</brief_title>
+  <acronym>FESrehabCoV</acronym>
+  <official_title>Efficacy of Physical Therapy Using Cycling With vs With no Functional Electrical Stimulation in Patient With Severe Form of COVID-19: a Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospices Civils de Lyon</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospices Civils de Lyon</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causing the coronavirus&#xD;
+      disease 2019 (COVID-19) affect at late march 2021 more than 127 millions of persons worldwide&#xD;
+      (including more than 4.5 millions in France, according to John Hopkins University&#xD;
+      https://coronavirus.jhu.edu/map.html, consulted 2021/3/25). Among these persons, 17% of the&#xD;
+      confirmed cases the COVID-19 develop an acute respiratory distress syndrome (ARDS) (Chen et&#xD;
+      al., 2020), requiring an hospitalization in intensive care unit with mechanical ventilation&#xD;
+      for prolonged periods (in median up to 21 days whereas 3.3 is the usual mean length of stay).&#xD;
+      This prolonged period of inactivity causes dramatical muscles and cardio-respiratory losses.&#xD;
+      These patients experience a dramatical decrease in the physical ability which is reinforce by&#xD;
+      the protective isolation measures and containment to prevent the further spread of the virus.&#xD;
+&#xD;
+      Rehabilitation of patients with a severe form of the COVID-19 faced new challenges due to the&#xD;
+      novelty of the disease and protective isolation measures to prevent the further spread of the&#xD;
+      virus. Rehabilitation target a recovery of the cardio-respiratory, muscle deficits and&#xD;
+      improvement in activity. Functional electrical stimulation (FES) is one innovative technique,&#xD;
+      among other. FES have been shown as effective to improve the respiratory function in patients&#xD;
+      with a severe chronic obstructive pulmonary disease (Acheche et al., 2020; Maddocks et al.,&#xD;
+      2016), reduce the muscle loss due to zero gravity in space for astronauts (Maffiuletti et&#xD;
+      al., 2019), or increase strength in persons with incomplete spinal cord injury (de Freitas et&#xD;
+      al., 2018). FES has been recently delivered during cycling to restore pedaling movements with&#xD;
+      an adequate rhythm of muscle contraction. To date, FES cycling has been successfully&#xD;
+      administered in patients with spinal cord injury, and has been shown to be more effective in&#xD;
+      patient with severe COPD for improving the exercising intensity; reducing fatigue and&#xD;
+      improving quality of life in persons with multiple sclerosis (Backus et al., 2020).&#xD;
+&#xD;
+      In a pilot study, we shown that 4 week of physical therapy incluing FES cycling resulted in a&#xD;
+      fasten recovery of active postures as compared to physical therapy including cycling alone.&#xD;
+      (Mateo et al., under revision). Therefore, we hypothesize that a 4-week period of&#xD;
+      rehabilitation based on physical therapy with FES cycling would result in a significantly&#xD;
+      increase of activity profile (decrease in inactive posture duration) in patient with a severe&#xD;
+      form of COVID-19 (i.e., with an ARDS requiring mechanical ventilation).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2021</start_date>
+  <completion_date type="Anticipated">September 16, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 16, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Difference in daily duration in sedentary posture between week 1 of rehabilitation (start) and week 4 of rehabilitation (end).</measure>
+    <time_frame>48 hours (from 00 to 24h) during week 1 of rehabilitation (start) and week 4 of rehabilitation (end).</time_frame>
+    <description>This duration will be measured by an accelerometer (Actigraph, wGT3X, Pensacola, USA) worn at the belt on the right hip as recommended (Garnotel et al., 2018). The accelerometer is worn continously for 48h (i.e., from 00 to 24h). The Actilife ® software (current version 6) will be used to analyzed the data recorded by the accelerometer.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Daily duration in sedentary posture.</measure>
+    <time_frame>48 hours (from 00 to 24h) at week 1 (start), week 2, week 3, week 4 (end) of rehabilitation and 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+    <description>This duration will be measured by an accelerometer (Actigraph, wGT3X, Pensacola, USA) worn at the belt on the right hip as recommended (Garnotel et al., 2018). The accelerometer is worn continously for 48h (i.e., from 00 to 24h). The Actilife ® software (current version 6) will be used to analyzed the data recorded by the accelerometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily duration in standing posture.</measure>
+    <time_frame>48 hours (from 00 to 24h) at week 1 (start), week 2, week 3, week 4 (end) of rehabilitation and 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+    <description>This duration will be measured by an accelerometer (Actigraph, wGT3X, Pensacola, USA) worn at the belt on the right hip as recommended (Garnotel et al., 2018). The accelerometer is worn continously for 48h (i.e., from 00 to 24h). The Actilife ® software (current version 6) will be used to analyzed the data recorded by the accelerometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily duration in walking/running activities.</measure>
+    <time_frame>48 hours (from 00 to 24h) at week 1 (start), week 2, week 3, week 4 (end) of rehabilitation and 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+    <description>This duration will be measured by an accelerometer (Actigraph, wGT3X, Pensacola, USA) worn at the belt on the right hip as recommended (Garnotel et al., 2018). The accelerometer is worn continously for 48h (i.e., from 00 to 24h). The Actilife ® software (current version 6) will be used to analyzed the data recorded by the accelerometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily duration in light intensity levels.</measure>
+    <time_frame>48 hours (from 00 to 24h) at week 1 (start), week 2, week 3, week 4 (end) of rehabilitation and 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+    <description>This duration will be measured by an accelerometer (Actigraph, wGT3X, Pensacola, USA) worn at the belt on the right hip as recommended (Garnotel et al., 2018). The accelerometer is worn continously for 48h (i.e., from 00 to 24h). The Actilife ® software (current version 6) will be used to analyzed the data recorded by the accelerometer accordingly based on the activity counts determined by Freedson et al., (1998).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily duration in moderate intensity levels.</measure>
+    <time_frame>48 hours (from 00 to 24h) at week 1 (start), week 2, week 3, week 4 (end) of rehabilitation and 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+    <description>This duration will be measured by an accelerometer (Actigraph, wGT3X, Pensacola, USA) worn at the belt on the right hip as recommended (Garnotel et al., 2018). The accelerometer is worn continously for 48h (i.e., from 00 to 24h). The Actilife ® software (current version 6) will be used to analyzed the data recorded by the accelerometer accordingly based on the activity counts determined by Freedson et al., (1998).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily duration in hard/very hard intensity levels.</measure>
+    <time_frame>48 hours (from 00 to 24h) at week 1 (start), week 2, week 3, week 4 (end) of rehabilitation and 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+    <description>This duration will be measured by an accelerometer (Actigraph, wGT3X, Pensacola, USA) worn at the belt on the right hip as recommended (Garnotel et al., 2018). The accelerometer is worn continously for 48h (i.e., from 00 to 24h). The Actilife ® software (current version 6) will be used to analyzed the data recorded by the accelerometer accordingly based on the activity counts determined by Freedson et al., (1998).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of steps per day.</measure>
+    <time_frame>48 hours (from 00 to 24h) at week 1 (start), week 2, week 3, week 4 (end) of rehabilitation and 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+    <description>This will be measured by an accelerometer (Actigraph, wGT3X, Pensacola, USA) worn at the belt on the right hip as recommended (Garnotel et al., 2018). The accelerometer is worn continously for 48h (i.e., from 00 to 24h). The Actilife ® software (current version 6) will be used to analyzed the data recorded by the accelerometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to complete the 10 meters walking test.</measure>
+    <time_frame>Test performed at the beginning of week 1 (start), week 2, week 3, week 4 (end) of rehabilitation and 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+    <description>Timing the duration to complete the 10 meters distance, as fast as possible but with no running.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Distance in meters achieved during the 6 minutes walking test.</measure>
+    <time_frame>Test performed only at 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Manual muscle test of the medical research council.</measure>
+    <time_frame>Test performed at the beginning of week 1 (start), week 2, week 3, week 4 (end) of rehabilitation and 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+    <description>Manual muscle test that assesses 3 muscle groups of the upper and lower limb (shoulder abductor, elbow flexor, wrist extensor, hip flexor, knee extensor and ankle dorsiflexor) with scores from 0 to 5. This test has been validated for patient with acquired paresis in intensive care unit (De Jonghe, 2002) and for patients with acute respiratory distress syndrome (Ciesla et al., 2011). The score range from 0 to 60 (i.e., complete paresis to normal strength).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Forced expiratory volume in one second (FEV1).</measure>
+    <time_frame>Measure performed at the beginning of week 1 (start), week 2, week 3, week 4 (end) of rehabilitation and 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+    <description>This will be measured using a portable spirometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Forced expiratory volume (FEV).</measure>
+    <time_frame>Measure performed at the beginning of week 1 (start), week 2, week 3, week 4 (end) of rehabilitation and 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+    <description>This will be measured using a portable spirometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skeletal muscle mass.</measure>
+    <time_frame>Measure performed at the beginning of week 1 (start), week 2, week 3, week 4 (end) of rehabilitation and 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+    <description>This will be measured using portable bioimpedancemetry with the Biody Xpert device. Data recorded will be analyzed using the Biodymanager software</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Undernutrition blood marker.</measure>
+    <time_frame>Blood test performed at the beginning of week 1 (start), week 4 (end) of rehabilitation and 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+    <description>Dosage of prealbumine and albumin will be specifically searched</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Muscle tonus (stiffness coefficient).</measure>
+    <time_frame>Measure performed at the beginning of week 1 (start), week 2, week 3, week 4 (end) of rehabilitation and 3 months after rehabilitation discharge (i.e., week 16, follow-up).</time_frame>
+    <description>This will be measured using portable tonus device measurement Myotonpro® on quadriceps, hamstring and triceps muscles, at both lower limbs. A probe will stimulate and record the stiffness coefficient of the targeted muscles.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Person With a Severe Form of COVID-19 That Caused an Acute Distress Respiratory Syndrome Treated by Mechanical Ventilation in Intensive Care Unit</condition>
+  <arm_group>
+    <arm_group_label>Cycling rehabilitation with functional electrical stimulation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cycling rehabilitation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Physical therapy that include a standardized cycling training with functional electrical stimulation</intervention_name>
+    <description>Immediately after the discharge of the intensive care unit, patient with a severe form of the COVID-19 will be admitted in the rehabilitation hospital. Rehabilitation will consist in physical therapy twice a day, 30 minutes, 5 days a week. One session will be dedicated to a standardized cycling training (TECHNOGYM RECLINE EXCITE 700). All participants will follow the same 4-week rehabilitation protocol representing a total of 1200 minutes. Participants randomized in the experimental group will received functional electrical stimulation administered to surface electrodes attached to lower limb muscles (quadriceps, hamstrings, gluteus maximus and triceps). Electrical stimulation will be delivered appropriately to the muscle during cycling regarding the angle of the pedal by a stimulator (Motimove-8 de 3Fit Fabricando Faber).</description>
+    <arm_group_label>Cycling rehabilitation with functional electrical stimulation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Physical therapy that include a standardized cycling training with no additional functional electrical stimulation</intervention_name>
+    <description>Immediately after the discharge of the intensive care unit, patient with a severe form of the COVID-19 will be admitted in the rehabilitation hospital. Rehabilitation will consist in physical therapy twice a day, 30 minutes, 5 days a week. One session will be dedicated to a standardized cycling training (TECHNOGYM RECLINE EXCITE 700). All participants will follow the same 4-week rehabilitation protocol representing a total of 1200 minutes. Participants randomized in the control group will received no additional functional electrical stimulation during cycling.</description>
+    <arm_group_label>Cycling rehabilitation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Being hospitalized for rehabilitation because of a severe form of the COVID-19 that&#xD;
+             required an admission in intensive care unit for acute distress respiratory syndrome&#xD;
+             treated by mechanical ventilation.&#xD;
+&#xD;
+          -  Being beneficiary of the French social security.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Person requiring supplementation in oxygen &gt; 4 L/min because above this threshold, the&#xD;
+             oxygen flow is considered to be associated with an increased risk of aerosolization&#xD;
+             and further virus spread in patient being contagious;&#xD;
+&#xD;
+          -  Oxygen desaturation during exercise (i.e., SpO2 &lt; 90%) and requiring supplementation&#xD;
+             in oxygen &gt; 4 L/min.&#xD;
+&#xD;
+          -  Person showing a lower motor neuron disease as defined by the medical research council&#xD;
+             score &lt; 48/60 including hyporeflexia (quadricipital and triceps tendons) and decrease&#xD;
+             in lower limb sensation.&#xD;
+&#xD;
+          -  Persons showing denervated muscle (including quadriceps, hamstring, gluteus and&#xD;
+             triceps) confirmed by electromyography because the electrical stimulations delivered&#xD;
+             by the stimulator (i.e., symmetric and rectangular biphasic currents) are not&#xD;
+             appropriate to restore a pedaling movement;&#xD;
+&#xD;
+          -  Person with osteo-articular disease at lower limbs including reduction in range of&#xD;
+             motion at the hip, knee and ankle preventing cycling pedaling in a sitting position;&#xD;
+&#xD;
+          -  Persons with associated neurologic or psychiatric disease;&#xD;
+&#xD;
+          -  Person with a medical contraindication to intensive rehabilitation;&#xD;
+&#xD;
+          -  Person suffering from suspected or diagnosed epilepsy;&#xD;
+&#xD;
+          -  Person with an implanted device;&#xD;
+&#xD;
+          -  Person included in another ongoing research or during an exclusion period of another&#xD;
+             research;&#xD;
+&#xD;
+          -  Adults protected by law (guardianship or curatorship);&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sébastien MATEO, PT, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Service Kinésithérapie</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sébastien MATEO, PT, PhD</last_name>
+    <phone>4 78 86 50 58‬</phone>
+    <phone_ext>+33</phone_ext>
+    <email>sebastien.mateo@chu-lyon.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Gilles RODE, MD, PhD</last_name>
+    <phone>4 78 86 50 58</phone>
+    <phone_ext>+33</phone_ext>
+    <email>gilles.rode@chu-lyon.fr</email>
+  </overall_contact_backup>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 12, 2021</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>acute distress respiratory syndrome</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>mechanical ventilation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

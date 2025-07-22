@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3987">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04842448</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HOT-LoCO</org_study_id>
+    <secondary_id>2021-000764-30</secondary_id>
+    <secondary_id>K 2021-1592</secondary_id>
+    <secondary_id>4-621/2021</secondary_id>
+    <nct_id>NCT04842448</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of Hyperbaric Oxygen Therapy for Long COVID Syndrome</brief_title>
+  <acronym>HOT-LoCO</acronym>
+  <official_title>Hyperbaric Oxygen for Treatment of Long COVID Syndrome; A Randomized, Placebo-Controlled, Double-Blind, Phase II Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karolinska University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Karolinska Institutet</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Karolinska Trial Alliance</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Karolinska University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Long COVID Syndrome (LCOV) or (Long COVID) is defined as 'signs and symptoms that develop&#xD;
+      during or following an infection consistent with COVID-19, continue for more than 12 weeks&#xD;
+      and are not explained by an alternative diagnosis'. 1 in 10 infected individuals may suffer&#xD;
+      persistent symptoms, and we are facing an emerging problem that will severely affect&#xD;
+      individuals, health care systems and society for years to come.&#xD;
+&#xD;
+      We explore hyperbaric oxygen administered in a randomized placebo-controlled clinical trial&#xD;
+      as a potential treatment for patients suffering from Long COVID.&#xD;
+&#xD;
+      The overall hypothesis to be evaluated is that hyperbaric oxygen (HBO2) alleviates symptoms&#xD;
+      associated with Long COVID.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Phase II Clinical Trial&#xD;
+&#xD;
+      Prospective randomized, placebo-controlled, double blind, phase II, clinical trial, estimated&#xD;
+      enrolment: 80 subjects Parallel groups Intervention: HBO2: 240 kPa for 90 min, maximum 10&#xD;
+      treatments within a 30 day interval&#xD;
+&#xD;
+      Control: Placebo treatment with 'sham' air breathing at a moderately higher pressure (134&#xD;
+      kPa) to simulate hyperbaric chamber treatment, maximum 10 treatments within a 30 day interval&#xD;
+&#xD;
+      The population will comprise of previously healthy patients (American Society of&#xD;
+      Anaesthesiologists (ASA) class 1-2 assessed for Long COVID by a multidisciplinary team at the&#xD;
+      post COVID out-patients clinic at the Karolinska University Hospital. All patients are&#xD;
+      assessed with a battery of questionnaires, physical tests, laboratory tests and radiology.&#xD;
+      After their first assessment, individuals will be discussed at a multidisciplinary conference&#xD;
+      and may have further organ specific work up for diagnosis.&#xD;
+&#xD;
+      Once the patient has been diagnosed with Long COVID, they will be informed and asked to&#xD;
+      participate in the trial. No study specific procedures will take place before an informed&#xD;
+      consent form (ICF) has been signed. The patients will be included once they fulfil the&#xD;
+      inclusion criteria and exhibit none of the exclusion criteria. Some study specific procedures&#xD;
+      will be performed before inclusion. Randomization will take part within two weeks of the&#xD;
+      planned first treatment. Subjects will be randomized to HBO2 or placebo (sham treatment).&#xD;
+      Timing of the HBO2 treatment (HBOT) will depend on available resources but the first&#xD;
+      treatment should be given within two weeks of randomization, and a maximum 10 treatments&#xD;
+      should be given within an interval of one month.&#xD;
+&#xD;
+      Clinical equipoise: The rationale for 1:1 randomization is that this is a new disease. 1:1&#xD;
+      allocation will maximise the statistical power.&#xD;
+&#xD;
+      Main efficacy and safety endpoints will be evaluated at three months but the trial will&#xD;
+      continue for one year after inclusion or until withdrawal. There will also be a four year&#xD;
+      post-trial follow up of health-economy.&#xD;
+&#xD;
+      The trial will be conducted in compliance with Good Clinical Practice (GCP), the Declaration&#xD;
+      of Helsinki and national regulatory requirements.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2021</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, placebo-controlled, double-blind, phase II</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Subjects will be randomized to either active treatment or sham treatment. Assessors will be blinded to treatment group.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>RAND 36</measure>
+    <time_frame>Baseline and 3 months.</time_frame>
+    <description>Mean change in Health related quality of life (HRQoL) using the self-reported questionnaire RAND 36-Item Short Form Health Survey 1.0 (RAND 36).&#xD;
+RAND 36 is a self-reporting questionnaire that contains 36 items that measure eight concepts of health in general terms, at present and past four weeks. Numeric values from the survey are coded so that all items are scored from 0 (lowest score) to 100 (highest possible score). Scores then represent the percentage of total possible score achieved. Items in the same scale are averaged together to create the eight scale scores. Items that are left blank (missing data) are not taken into account when calculating the scale scores. Hence, scale scores represent the average for all items in the scale that the respondent answered.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Endothelial dysfunction</measure>
+    <time_frame>Baseline and 1 month</time_frame>
+    <description>Mean change in endothelial dysfunction evaluated by Reactive Hyperemia Index (RHI)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>6-min walk test</measure>
+    <time_frame>Baseline and 1 month</time_frame>
+    <description>Mean change in objective physical test: 6-min walk test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>30/60 min chair stand</measure>
+    <time_frame>Baseline and 1 month</time_frame>
+    <description>Mean change in objective physical test: 30/60 sec chair stand</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EQ-5D</measure>
+    <time_frame>Baseline and 1 month</time_frame>
+    <description>Mean change in subjective rating of HRQoL after HBOT using self-reported questionnaire EuroQol 5 Dimensions (EQ-5D).&#xD;
+EuroQol-5 Dimensions questionnaire is a widely used self-reporting questionnaire that measure 5 dimensions of health TODAY at three or five levels (EQ-5D-3L or EQ-5D-5L) of severity; no problems, some/moderate problems and extreme problems/unable.The health dimensions are mobility, self-care, usual activities, pain/discomfort, anxiety/depression and a visual analogue scale (VAS) 0-100 which it used as a quantitative measure of overall health status. EQ-5D is the most widely used questionnaire for health-economic evaluation.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Adverse Events (AE)</measure>
+    <time_frame>Baseline and 3 months</time_frame>
+    <description>Incidence of adverse events</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Compliance</measure>
+    <time_frame>Baseline and 1 month</time_frame>
+    <description>Evaluation of compliance with treatment evaluated by fraction of planned vs completed treatments</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Redox status</measure>
+    <time_frame>Baseline, 1 month</time_frame>
+    <description>Mean change in reactive oxygen species in red blood cells evaluated by Electron Paramagnetic Resonance spectroscopy (EPR)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Heart Rate Variability (HRV)</measure>
+    <time_frame>Baseline and 3 months</time_frame>
+    <description>Mean change in HRV using an activity meter for 1 week</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Physical activity</measure>
+    <time_frame>Baseline and 3 months</time_frame>
+    <description>Mean change in physical activity using an activity meter for 1 week</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Hypoxia response</measure>
+    <time_frame>Baseline, 1 month and 3 months</time_frame>
+    <description>Mean change in hypoxia pathways in Peripheral Blood Mononuclear Cells (PBMCs) evaluated by RNA sequencing</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Inflammatory response</measure>
+    <time_frame>Baseline, 1 month and 3 months</time_frame>
+    <description>Mean change in inflammatory pathways in Peripheral Blood Mononuclear Cells (PBMCs) evaluated by RNA sequencing</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Long term follow-up RAND-36</measure>
+    <time_frame>Baseline, 6 months and 1 year</time_frame>
+    <description>Long-term follow up of change in HRQoL with self-reported questionnaire RAND-36</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Long term follow-up EQ-5D</measure>
+    <time_frame>Baseline, 3 months, 6 months and 1 year</time_frame>
+    <description>Long term follow-up on change in HRQoL with self-reported questionnaire EQ-5D</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Health-economic evaluation</measure>
+    <time_frame>Baseline, 3 months, 6 months and 1 year</time_frame>
+    <description>Economical cost/benefit evaluation using EQ-5D as variable</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Hyperbaric oxygen treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>HBO2 240 kPa, 90 min, maximum 10 treatments</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham treatment</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Air 134-120 kPa, 90 min, maximum 10 treatments</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hyperbaric oxygen</intervention_name>
+    <description>Hyperbaric oxygen 240 kPa for 90 minutes (with 10 min compression time, 2 air bakes and 10 minutes decompression time).</description>
+    <arm_group_label>Hyperbaric oxygen treatment</arm_group_label>
+    <other_name>HBO</other_name>
+    <other_name>HBO2</other_name>
+    <other_name>HBOT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Sham treatment</intervention_name>
+    <description>Sham treatment 134-120 kPa Air (with 5 min compression time, and 5 min decompression to 120 kPa, two air brakes will be reported to the subjects)</description>
+    <arm_group_label>Sham treatment</arm_group_label>
+    <other_name>Placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Aged 18-60 years&#xD;
+&#xD;
+          2. Healthy or mild systemic disease prior to COVID-19&#xD;
+&#xD;
+          3. Symptoms consistent with Long COVID for at least 12 weeks&#xD;
+&#xD;
+          4. Diagnosed with Long COVID&#xD;
+&#xD;
+          5. Working or studying prior to COVID-19&#xD;
+&#xD;
+          6. Documented informed consent according to GCP and national regulations&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Known pregnancy or positive pregnancy test in women of childbearing age&#xD;
+&#xD;
+          2. ASA 3 or more from other cause than Long COVID&#xD;
+&#xD;
+          3. Diabetes&#xD;
+&#xD;
+          4. Hypertension prior to COVID-19&#xD;
+&#xD;
+          5. Contraindication for hyperbaric oxygen treatment according to local guidelines&#xD;
+&#xD;
+          6. Participation or recent participation in a clinical trial with an investigational&#xD;
+             product&#xD;
+&#xD;
+          7. Mental inability, reluctance or language difficulties that result in difficulty&#xD;
+             understanding the meaning of study participation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anders Kjellberg, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Karolinska University Hospital (and Karolinska Insitutet)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Judith Bruchfeld, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Karolinska University Hospital (and Karolinska Insitutet)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Malin Nygren-Bonnier, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Karolinska University Hospital (and Karolinska Insitutet)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael Runold, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Karolinska University Hospital (and Karolinska Insitutet)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marcus Ståhlberg, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Karolinska University Hospital (and Karolinska Insitutet)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Peter Lindholm, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Karolinska Insitutet</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anders Kjellberg, MD</last_name>
+    <phone>0760657355</phone>
+    <email>anders.kjellberg@ki.se</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Karolinska University Hospital</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>171 76</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Hyperbaric unit</last_name>
+      <phone>+46812394680</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Anders Kjellberg, MD</last_name>
+      <phone>+46851775212</phone>
+      <email>anders.kjellberg@ki.se</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Anders Kjellberg, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <link>
+    <url>https://ki.se/en/fyfa/hyperbaric-medicine</url>
+    <description>Research group Hyperbaric Medicine at Karolinska Institutet</description>
+  </link>
+  <reference>
+    <citation>Venkatesan P. NICE guideline on long COVID. Lancet Respir Med. 2021 Feb;9(2):129. doi: 10.1016/S2213-2600(21)00031-X. Epub 2021 Jan 13.</citation>
+    <PMID>33453162</PMID>
+  </reference>
+  <reference>
+    <citation>Dani M, Dirksen A, Taraborrelli P, Torocastro M, Panagopoulos D, Sutton R, Lim PB. Autonomic dysfunction in 'long COVID': rationale, physiology and management strategies. Clin Med (Lond). 2021 Jan;21(1):e63-e67. doi: 10.7861/clinmed.2020-0896. Epub 2020 Nov 26. Review.</citation>
+    <PMID>33243837</PMID>
+  </reference>
+  <reference>
+    <citation>Kjellberg A, De Maio A, Lindholm P. Can hyperbaric oxygen safely serve as an anti-inflammatory treatment for COVID-19? Med Hypotheses. 2020 Nov;144:110224. doi: 10.1016/j.mehy.2020.110224. Epub 2020 Aug 30.</citation>
+    <PMID>33254531</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 13, 2021</study_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska University Hospital</investigator_affiliation>
+    <investigator_full_name>Anders Kjellberg, MD</investigator_full_name>
+    <investigator_title>ICU Consultant, head of hyperbaric medicine</investigator_title>
+  </responsible_party>
+  <keyword>Long COVID</keyword>
+  <keyword>Post COVID Syndrome</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Hyperbaric Oxygen</keyword>
+  <keyword>HBOT</keyword>
+  <keyword>Health Related Quality of Life</keyword>
+  <keyword>Endothelial dysfunction</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The full study protocol, statistical plan and consent form will be publicly available. Data will be available on patient level; data will be pseudonymized, the full dataset and statistical code will be available upon request.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>6 months after study completion and for 36 months</ipd_time_frame>
+    <ipd_access_criteria>A full description of the intended use of the data must be sent to the corresponding author for review and approval. Participant consent for data sharing is conditioned and new ethics approval may be required.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

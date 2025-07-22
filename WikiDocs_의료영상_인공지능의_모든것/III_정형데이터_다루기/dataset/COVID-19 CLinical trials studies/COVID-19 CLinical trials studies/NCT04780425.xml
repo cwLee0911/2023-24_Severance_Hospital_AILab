@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5340">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04780425</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KBTH-IRB 100017512020</org_study_id>
+    <nct_id>NCT04780425</nct_id>
+  </id_info>
+  <brief_title>Structured Diabetes Self-Management Education and Care Outcomes in Adults liVIng With Type 2 Diabetes in Accra, Ghana</brief_title>
+  <acronym>SMSCOVID</acronym>
+  <official_title>A Randomised Parallel-group Multi-centre Study to Evaluate the Effect of Structured Diabetes Self-management Education Versus Standard of Care on Glycaemic Control, Self-efficacy and Quality of Life in Adults in Two Low Resource Settings in Accra Subsequent to COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Korle-Bu Teaching Hospital, Accra, Ghana</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Leicester</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Utrecht University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Korle-Bu Teaching Hospital, Accra, Ghana</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We aim to study the effect of a structured diabetes education program (DESMOND) on diabetes&#xD;
+      outcomes in a ghanaian population over 3 months&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Protocol summary Background: Health systems in low-income countries are overburdened. Corona&#xD;
+      virus disease-19 (COVID-19) is a pandemic caused by a novel corona virus, Severe acute&#xD;
+      respiratory syndrome-corona virus 2 (SARS-CoV2) while diabetes is a long-standing global&#xD;
+      epidemic. COVID-19 further stresses the already overburdened health systems and Public Health&#xD;
+      measures to contain COVID-19 have severely disrupted health service delivery, particularly&#xD;
+      routine care. Delivery of diabetes specific education has traditionally been tied to routine&#xD;
+      visits and delivered in-person. COVID-19 will likely continue to influence service delivery&#xD;
+      beyond the pandemic, thus alternative ways of delivering diabetes specific education is&#xD;
+      needed.&#xD;
+&#xD;
+      Diabetes self-management education is vital to providing diabetes care. It equips patients&#xD;
+      with critical knowledge and skills for self-care. Recent edicts to stay home in relation to&#xD;
+      COVID-19 have further heightened the importance of self-care. Appropriate self-management&#xD;
+      behaviours are associated with lower levels of diabetes related distress, better quality of&#xD;
+      life and diabetes outcomes overall. Maintaining tight glycaemic control, early in diabetes is&#xD;
+      associated with fewer microvascular complications and vice versa. Complications of diabetes&#xD;
+      are prevalent in low resource settings in Africa; partly because of inadequate knowledge on&#xD;
+      self-care. Diabetes self-management education which is structured and tailor-made for low&#xD;
+      resource settings may modify self-care behaviors and result in improved self-care, glycaemic&#xD;
+      control and quality of life.&#xD;
+&#xD;
+      Aim:&#xD;
+&#xD;
+      To compare structured diabetes self-management education with standard of care among adults&#xD;
+      living with type 2 diabetes&#xD;
+&#xD;
+      Methods:&#xD;
+&#xD;
+      A prospective parallel-group randomised controlled trial with three months follow-up will be&#xD;
+      conducted in KBTH Polyclinic/Family Medicine Centre and Weija Gbawe Municipal Hospital, two&#xD;
+      primary care facilities in Accra. Participants will be individually randomised to standard of&#xD;
+      care or 6 hours of structured diabetes self-management education (DSME) delivered in person&#xD;
+      on one day . Each arm will have hundred participants. The standard of care arm will receive&#xD;
+      unstructured DSME as per existing protocols at each study site. The study population will be&#xD;
+      adults living with diabetes. The primary outcome, mean glycated haemoglobin (HbA1c ) will be&#xD;
+      measured at three months.&#xD;
+&#xD;
+      Expected outcomes:&#xD;
+&#xD;
+      It is expected that there will be no difference in change in mean glycaemic control,&#xD;
+      self-efficacy or quality of life at three months between the two arms.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 26, 2021</start_date>
+  <completion_date type="Anticipated">May 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 22, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Care Provider)</masking>
+    <masking_description>Persons delivering the intervention are not involved in patient care</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in mean glaciated heamoglobin (HbA1c) at three months</measure>
+    <time_frame>3 months</time_frame>
+    <description>change in glycaemic control</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in mean summary of diabetes self-care activities (SDSCA) score at three months</measure>
+    <time_frame>3 months</time_frame>
+    <description>change in self-efficacy, min score 0 and max score 7 for each question, higher scores mean better outcomes</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in mean WHO quality of life (WHOQoL BREF) score at three months</measure>
+    <time_frame>3 months</time_frame>
+    <description>change in quality of life</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in mean fasting plasma glucose (FPG) at three months</measure>
+    <time_frame>3 months</time_frame>
+    <description>change in fasting plasma glucose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in mean fasting blood glucose (FBG) at three months</measure>
+    <time_frame>3 months</time_frame>
+    <description>change in fasting blood glucose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in mean blood pressure (BP) at three months</measure>
+    <time_frame>3 months</time_frame>
+    <description>change in blood pressure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in waist circumference (WC) at three months</measure>
+    <time_frame>3 months</time_frame>
+    <description>change in waist circumference</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in neck circumference (NC) at three months</measure>
+    <time_frame>3 months</time_frame>
+    <description>change in neck circumference</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in body weight (BW) at three months</measure>
+    <time_frame>3 months</time_frame>
+    <description>change in body weight</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in problem areas in diabetes (PAID-5) scores</measure>
+    <time_frame>3 months</time_frame>
+    <description>Change in diabetes related distress at three months, scored from 0 to 4 for each question. minimum score is 0 maximum score is 20, higher scores mean better outcomes</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">206</enrollment>
+  <condition>Diabetes Mellitus, Type 2</condition>
+  <arm_group>
+    <arm_group_label>DESMOND</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>receive usual care plus a structured diabetes self-management education program delivered once over 6hours</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>USUAL CARE</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Receive usual care as per standard treatment guidelines of ghana unstructured education during clinic visits for routine care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>DESMOND</intervention_name>
+    <description>as previously described</description>
+    <arm_group_label>DESMOND</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>usual care</intervention_name>
+    <description>usual care as per standard treatment guidelines of Ghana unstructured/adhoc diabetes education during clinic visits</description>
+    <arm_group_label>USUAL CARE</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - Inclusion criteria&#xD;
+&#xD;
+          1. Self-identified as Ghanaian&#xD;
+&#xD;
+          2. Ability to speak either English and or Twi&#xD;
+&#xD;
+          3. be aged &gt; 18 years&#xD;
+&#xD;
+          4. be receiving treatment at the study site as an out-patient&#xD;
+&#xD;
+          5. be willing to accept the 6-hour DSME intervention&#xD;
+&#xD;
+          6. be physically able to participate&#xD;
+&#xD;
+          7. be primarily responsible for their own care&#xD;
+&#xD;
+          8. be ambulant at time of recruitment&#xD;
+&#xD;
+          9. be able to participate in activities in a group setting&#xD;
+&#xD;
+         10. have permanent residence in Greater Accra&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. known to have cognitive defects&#xD;
+&#xD;
+          2. known to have type I diabetes&#xD;
+&#xD;
+          3. known to be pregnant at the time of recruitment or planning to become pregnant during&#xD;
+             the study or have given birth less than three months prior to recruitment&#xD;
+&#xD;
+          4. known to have sickle cell disease&#xD;
+&#xD;
+          5. Participating in another intervention study at time of recruitment&#xD;
+&#xD;
+          6. known to have chronic medical complications of diabetes (cardiac, renal, neuropathy,&#xD;
+             hepatic) or systemic illness at the time of recruitment&#xD;
+&#xD;
+          7. recruitment of a member of the patients household for this study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Roberta Lamptey, FWACP; MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Korle Bu Teaching Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Korle Bu Teaching Hospital</name>
+      <address>
+        <city>Accra</city>
+        <country>Ghana</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Weija Gbawe Municipal Hospital</name>
+      <address>
+        <city>Accra</city>
+        <country>Ghana</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Ghana</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>March 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>structured diabetes self-management education</keyword>
+  <keyword>DESMOND</keyword>
+  <keyword>SSA</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

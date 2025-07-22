@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4561">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04826588</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-00362; ks21Bielicki2</org_study_id>
+    <nct_id>NCT04826588</nct_id>
+  </id_info>
+  <brief_title>Randomised Evaluation of COVID-19 Therapy (RECOVERY) in Children With PIMS-TS in Switzerland (SWISSPED-RECOVERY)</brief_title>
+  <official_title>Randomised Evaluation of COVID-19 Therapy (RECOVERY) in Children With PIMS-TS in Switzerland (SWISSPED-RECOVERY)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Children's Hospital Basel</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Children's Hospital Basel</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is to provide reliable estimates of the effect of study treatment on hospital&#xD;
+      length of stay through to 28 days after randomisation.&#xD;
+&#xD;
+      The protocol describes an overarching trial design to provide reliable evidence on the&#xD;
+      efficacy of candidate therapies for children hospitalised with PIMS-TS receiving standard of&#xD;
+      care. It is an adaptive pragmatic platform trial with an open-label randomisation.&#xD;
+&#xD;
+      For each pairwise comparison with the 'no additional treatment' arm, the primary objective is&#xD;
+      to provide reliable estimates of the effect of study treatments on the duration of hospital&#xD;
+      stay after randomisation. New trial arms can be added as evidence emerges that other&#xD;
+      candidate therapeutics should be evaluated.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In May 2020 a new COVID-associated inflammatory syndrome in children was identified,&#xD;
+      Paediatric Inflammatory Multisystem Syndrome - Temporally associated with SARS-CoV-2&#xD;
+      (PIMS-TS). A rapid international consensus process identified the need to evaluate&#xD;
+      corticosteroids and intravenous immunoglobulin (IVIg) as initial therapies in PIMS-TS, and&#xD;
+      confirmed tocilizumab and anakinra as biological anti-inflammatory agents to be evaluated as&#xD;
+      a second line therapy.&#xD;
+&#xD;
+      This Swissped-Recovery trial is a sister trial to the RECOVERY international trial with the&#xD;
+      implementation of the study at Swiss study sites.&#xD;
+&#xD;
+      The protocol describes an overarching trial design to provide reliable evidence on the&#xD;
+      efficacy of candidate therapies for children hospitalised with PIMS-TS receiving standard of&#xD;
+      care. It is an adaptive pragmatic platform trial with an open-label randomisation.&#xD;
+&#xD;
+      For each pairwise comparison with the 'no additional treatment' arm, the primary objective is&#xD;
+      to provide reliable estimates of the effect of study treatments on the duration of hospital&#xD;
+      stay after randomisation. New trial arms can be added as evidence emerges that other&#xD;
+      candidate therapeutics should be evaluated.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">April 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Overarching trial design with treatment arms that are both available at the hospital and not believed by the enrolling doctor to be contraindicated (e.g. by particular co-morbid conditions or concomitant medications). Treatment arms to be added or removed according to the emerging evidence.&#xD;
+Main randomisation part A: no additional treatment vs corticosteroids vs intravenous immunoglobulin.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hospital length of stay</measure>
+    <time_frame>Within 28 days after randomisation</time_frame>
+    <description>effect of study treatment on hospital length of stay</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality among patients</measure>
+    <time_frame>Within 28 days and up to 6 months after randomisation</time_frame>
+    <description>For each pairwise comparison with the 'no additional treatment' arm, the primary objective is to provide reliable estimates of the effect of study treatments on all-cause mortality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Composite endpoint of death or need for mechanical ventilation or extracorporeal membrane oxygenation (ECMO)</measure>
+    <time_frame>Within 28 days and up to 6 months after randomisation</time_frame>
+    <description>Among patients not on invasive mechanical ventilation at baseline, the number of patients with a composite endpoint of death or need for invasive mechanical ventilation or ECMO.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Need for (and duration of) ventilation</measure>
+    <time_frame>Within 28 days and up to 6 months after randomisation</time_frame>
+    <description>To assess the effects of study treatment on number of patients who needed any ventilation and (for invasive mechanical ventilation) the number of days it was required</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Need for renal replacement therapy</measure>
+    <time_frame>Within 28 days and up to 6 months after randomisation</time_frame>
+    <description>To assess the effects of study treatment on number of patients who needed renal replacement therapy</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of patients who had thrombotic events</measure>
+    <time_frame>Within 28 days and up to 6 months after randomisation</time_frame>
+    <description>To assess the effects of study treatment on number of patients who had thrombotic events</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Cardiac outcome (long-term impact) of PIMS-TS after discharge</measure>
+    <time_frame>Post-discharge extended follow-up visits up to 6 months after randomisation</time_frame>
+    <description>Cardiac function and presence of coronary artery aneurysms will be assessed by echocardiography.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Neurological outcome (long-term impact) of PIMS-TS after discharge</measure>
+    <time_frame>Post-discharge extended follow-up visits up to 6 months after randomisation</time_frame>
+    <description>assessment of post-traumatic stress disorder</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Health care costs</measure>
+    <time_frame>Within 28 days after randomisation</time_frame>
+    <description>Direct hospitalization-related costs will be captured for health economic analyses. For each PIMS-TS related hospitalization episode recruited in the study, the total Diagnosis-Related Group (DRG) costs claimed by the respective study site will be extracted from the institutional finance records, and analysed in batch upon completion of recruitment</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Paediatric Inflammatory Multisystem Syndrome - Temporally Associated With SARS-CoV-2 (PIMS-TS)</condition>
+  <arm_group>
+    <arm_group_label>Methylprednisolone sodium succinate</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Methylprednisolone sodium succinate 10 mg/kg intravenously once daily for 3 days (max 1 g per dose)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Human normal immunoglobulin (IVIg)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Human normal immunoglobulin (IVIg) 2g/kg intravenously as a single dose in line with guidance for dosing and administration in Kawasaki disease</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patient receives usual hospital care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methylprednisolone sodium succinate</intervention_name>
+    <description>Methylprednisolone sodium succinate 10 mg/kg intravenously once daily for 3 days (max 1 g per dose)</description>
+    <arm_group_label>Methylprednisolone sodium succinate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Human normal immunoglobulin (IVIg)</intervention_name>
+    <description>Human normal immunoglobulin (IVIg) 2g/kg intravenously as a single dose in line with guidance for dosing and administration in Kawasaki disease</description>
+    <arm_group_label>Human normal immunoglobulin (IVIg)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Hospitalised children (aged &lt;18 years old)&#xD;
+&#xD;
+          -  SARS-CoV-2 infection associated disease (clinically suspected or laboratory confirmed)&#xD;
+             with evidence of single or multi-organ dysfunction (called Pediatric Multisystem&#xD;
+             Inflammatory Syndrome temporally associated with COVID-19 [PIMS-TS]).&#xD;
+&#xD;
+          -  No medical history that might, in the opinion of the attending clinician, put the&#xD;
+             patient at significant risk if he/she were to participate in the trial&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Neonates/infants with a corrected gestational age of &lt;= 44 weeks&#xD;
+&#xD;
+          -  If the attending clinician believes that there is a specific contra-indication to one&#xD;
+             of the active drug treatment arms or that the patient should definitely be receiving&#xD;
+             one of the active drug treatment arms, then that arm will not be available for&#xD;
+             randomisation for that patient.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>44 Weeks</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Julia Bielicki, Dr. med.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Paediatric Infectious Diseases and Vaccinology, Universität-Kinderspital beider Basel (UKBB)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Julia Bielicki, Dr. med.</last_name>
+    <phone>+41 61 7041212</phone>
+    <email>julia.bielicki@ukbb.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tatjana Welzel, Dr.med.</last_name>
+    <phone>+41 61 704 2252</phone>
+    <email>tatjana.welzel@ukbb.ch</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cantonal Hospital Aarau, Department of Paediatrics</name>
+      <address>
+        <city>Aarau</city>
+        <zip>5001</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Henrik Köhler, Prof. Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Henrik Köhler, Prof. Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Basel Children's Hospital</name>
+      <address>
+        <city>Basel</city>
+        <zip>4056</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julia Bielicki, Dr. med.</last_name>
+      <phone>+ 41 61 7041212</phone>
+      <email>julia.bielicki@ukbb.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tatjana Welzel, Dr. med.</last_name>
+      <phone>+41 61 704 2252</phone>
+      <email>tatjana.welzel@ukbb.ch</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Maya André, PD Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ente Ospedaliero Cantonale Ticino (EOC) Pediatrica</name>
+      <address>
+        <city>Bellinzona</city>
+        <zip>6500</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Vanoni Vanoni, Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Federica Vanoni, Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Pediatrics, University of Bern</name>
+      <address>
+        <city>Bern</city>
+        <zip>3010</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Nina Schoebi, Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Nina Schoebi, Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Child, Woman and, Adolescent Medecine, Geneva University Hospitals and Faculty of Medicine</name>
+      <address>
+        <city>Geneva</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Serge Grazioli, Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Serge Grazioli, Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Pediatrics,University Hospital of Lausanne (CHUV)</name>
+      <address>
+        <city>Lausanne</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marie-Helene Perez, Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Marie-Helene Perez, Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Pediatrics, Cantonal Hospital Luzern</name>
+      <address>
+        <city>Luzern 16</city>
+        <zip>6000</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Buettcher, Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Michael Buettcher, Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Eastern Switzerland</name>
+      <address>
+        <city>St. Gallen</city>
+        <zip>9006</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Douggl GN Bailey, Dr. med. univ.</last_name>
+      <phone>+41 71 243 13 77</phone>
+    </contact>
+    <investigator>
+      <last_name>Douggl GN Bailey, Dr. med. univ.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Pediatrics, Cantonal Hospital Fribourg</name>
+      <address>
+        <city>Villars-sur-Glâne</city>
+        <zip>1752</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Petra Zimmermann, Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Petra Zimmermann, Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Children's Hospital Zuerich</name>
+      <address>
+        <city>Zuerich</city>
+        <zip>8032</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Johannes Trueck, PD Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Johannes Trueck, PD Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 31, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>coronavirus-disease (COVID-19)</keyword>
+  <keyword>SARS coronavirus 2 (SARS-CoV-2)</keyword>
+  <keyword>tocilizumab</keyword>
+  <keyword>anakinra</keyword>
+  <keyword>Human normal immunoglobulin (IVIg)</keyword>
+  <keyword>Methylprednisolone sodium succinate</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Methylprednisolone</mesh_term>
+    <mesh_term>Methylprednisolone Acetate</mesh_term>
+    <mesh_term>Methylprednisolone Hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone</mesh_term>
+    <mesh_term>Prednisolone acetate</mesh_term>
+    <mesh_term>Prednisolone hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone phosphate</mesh_term>
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Immunoglobulins, Intravenous</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

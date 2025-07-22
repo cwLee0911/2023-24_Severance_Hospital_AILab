@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1598">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04818801</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CT61101</org_study_id>
+    <nct_id>NCT04818801</nct_id>
+  </id_info>
+  <brief_title>Safety, Reactogenicity and Immunogenicity Study of ReCOV</brief_title>
+  <official_title>A Phase 1, First-in-human, Randomized, Double-blind, Placebo-controlled, Dose-finding Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of ReCOV, a Vaccine for COVID-19, in Healthy Adult Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jiangsu Rec-Biotechnology Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Jiangsu Rec-Biotechnology Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the pathogen that causes a&#xD;
+      coronavirus-associated acute respiratory disease called coronavirus disease 19 (COVID-19),&#xD;
+      which is spreading all over the world. This virus can cause acute respiratory distress&#xD;
+      syndrome (ARDS) with a high fatality rate.&#xD;
+&#xD;
+      In this phase I first-in-human clinical trial, healthy volunteers in two different age&#xD;
+      cohorts and two dose cohorts will be vaccinated twice with the candidate vaccine ReCOV.&#xD;
+&#xD;
+      The aim of the study is to assess the safety and reactogenicity of the candidate vaccine and&#xD;
+      to characterize its immunogenicity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A total of 160 participants will receive the following vaccine regime:&#xD;
+&#xD;
+      First, 32 young adult participants (18 to 55 years old) will receive 20μg of ReCOV vaccine on&#xD;
+      days 0 and 21.&#xD;
+&#xD;
+      Then, 32 young adult participants (18 to 55 years old) will receive 40μg of ReCOV vaccine on&#xD;
+      days 0 and 21, and 32 old adult participants (56 to 80 years old) will receive 20μg of ReCOV&#xD;
+      vaccine on days 0 and 21.&#xD;
+&#xD;
+      Finally, 32 old adult participants (56 to 80 years old) will receive 40μg of ReCOV vaccine on&#xD;
+      days 0 and 21.&#xD;
+&#xD;
+      In the same time, 8 participants for each cohort, total 32 participants will receive 0.5ml of&#xD;
+      normal saline on days 0 and 21.&#xD;
+&#xD;
+      Safety and immunogenicity data will be collected throughout the study, which concludes at 12&#xD;
+      month after the second dose.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with solicited local and systemic adverse events</measure>
+    <time_frame>up to 7 days after each dose</time_frame>
+    <description>Incidence of solicited local and systemic adverse events up to 7 days after each dose</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with unsolicited adverse events after each dose</measure>
+    <time_frame>up to 30 days after the second dose</time_frame>
+    <description>Incidence of unsolicited adverse events after each dose up to 30 days after the second dose</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with serious adverse events</measure>
+    <time_frame>up to 30 days after the second dose</time_frame>
+    <description>Incidence of serious adverse events up to 30 days after the second dose</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with changes in clinical laboratory tests of white blood cell count baseline</measure>
+    <time_frame>up to 30 days after the second dose</time_frame>
+    <description>Changes in clinical laboratory tests of white blood cell count from baseline up to 30 days after the second dose</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with adverse events,serious adverse events, and adverse events of special interest</measure>
+    <time_frame>up to 12 months after the second dose</time_frame>
+    <description>Incidence of adverse events,serious adverse events, and adverse events of special interest up to 12 months after the second dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with changes in clinical laboratory tests and vital signs from baseline</measure>
+    <time_frame>up to 12 months after the second dose</time_frame>
+    <description>Changes in clinical laboratory tests and vital signs from baseline up to 12 months after the second dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean titers(GMT)</measure>
+    <time_frame>first dose day 21, second dose day 14, , day 30, day 90, day 180 and day 360</time_frame>
+    <description>specific IgG binding antibodies against SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seroconversion rates</measure>
+    <time_frame>first dose day 21, second dose day 14, , day 30, day 90, day 180 and day 360</time_frame>
+    <description>specific IgG binding antibodies against SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean fold increase</measure>
+    <time_frame>first dose day 21, second dose day 14, , day 30, day 90, day 180 and day 360</time_frame>
+    <description>specific IgG binding antibodies against SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>IFN-γ</measure>
+    <time_frame>first dose day 21, second dose day 14, , day 30, day 90, day 180 and day 360</time_frame>
+    <description>Positivity rate of IFN-γ measured by ELISpot</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean titers(GMT)</measure>
+    <time_frame>first dose day 21, second dose day 14, , day 30, day 90, day 180 and day 360</time_frame>
+    <description>specific IgG neutralizing antibodies against SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seroconversion rates</measure>
+    <time_frame>first dose day 21, second dose day 14, , day 30, day 90, day 180 and day 360</time_frame>
+    <description>specific IgG neutralizing antibodies against SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean fold increase</measure>
+    <time_frame>first dose day 21, second dose day 14, , day 30, day 90, day 180 and day 360</time_frame>
+    <description>specific IgG neutralizing antibodies against SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Levels of other T cell biomarkers</measure>
+    <time_frame>first dose day 21, second dose day 14, , day 30, day 90, day 180 and day 360</time_frame>
+    <description>CD4+/CD8+ counts, IL-4, IL-5, and IL-17</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Recombinant two-component COVID-19 vaccine (CHO cell)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants received Recombinant two-component COVID-19 vaccine (CHO cell) 0.5ml reconstituted by adjuvant solution, 2 shots at a interval 21 days, intramuscular injection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants received placebo of 0.5ml normal saline (0.9% sodium chloride solution), 2 shots at a interval 21 days, intramuscular injection</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Recombinant two-component COVID-19 vaccine (CHO cell)</intervention_name>
+    <description>The spike (S) protein is the main surface antigen of SARS-CoV-2, mediates entry of SARS CoV-2 into cells expressing the angiotensin-converting enzyme 2 (ACE2). The RBD interacts with ACE2 and can generate potent neutralizing anti-RBD antibodies.</description>
+    <arm_group_label>Recombinant two-component COVID-19 vaccine (CHO cell)</arm_group_label>
+    <other_name>ReCOV</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Normal saline (0.9% sodium chloride solution),</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Normal saline</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Subjects are eligible to be included in the study only if ALL of the following criteria&#xD;
+        apply at any time starting from Screening up to Day 1 prior to IP administration:&#xD;
+&#xD;
+          1. Capable of giving signed informed consent, which includes compliance with the&#xD;
+             requirements and restrictions listed in the Informed Consent Form (ICF) and in this&#xD;
+             protocol.&#xD;
+&#xD;
+          2. Male or female subjects who are ≥18 years old at the time of Screening (signing the&#xD;
+             ICF):&#xD;
+&#xD;
+               1. For the younger adult group: 18 to 55 years, inclusive&#xD;
+&#xD;
+               2. For the older adult group: ≥56 to &lt;80 years&#xD;
+&#xD;
+          3. Have a body mass index (BMI) between 18.5 and 35.0 kg/m2.&#xD;
+&#xD;
+          4. Subjects who are of general good health according to the Investigator's assessment,&#xD;
+             based on a complete medical history without major pathology, and as determined by&#xD;
+             medical evaluation (including physical examination, electrocardiogram (ECG), vital&#xD;
+             signs, and clinical laboratory tests). Subjects in the older adult population who have&#xD;
+             medically stable, well-controlled comorbidities may be enrolled at the discretion of&#xD;
+             the Investigator.&#xD;
+&#xD;
+             NOTE: All clinical laboratory values should be within reference ranges unless&#xD;
+             confirmed by Investigator or delegate as not clinically significant. One repeat&#xD;
+             evaluation of ECG, vital signs, and clinical laboratory tests will be permitted, at&#xD;
+             the discretion of the Investigator.&#xD;
+&#xD;
+          5. Subjects who test negative for hepatitis B surface antigen (HBsAg), hepatitis B core&#xD;
+             antibodies (anti-HBc), anti-hepatitis C virus (HCV) antibodies, and anti-human&#xD;
+             immunodeficiency virus (HIV) 1 and 2 antibodies at Screening.&#xD;
+&#xD;
+          6. Subjects who test negative for SARS-Cov-2 infection, based on a reverse transcriptase&#xD;
+             polymerase chain reaction (RT-PCR) test and serological test for SARS-COV-2 IgM and/or&#xD;
+             IgG antibodies at Screening.&#xD;
+&#xD;
+          7. Female subjects are eligible to participate if not pregnant, not breastfeeding, and at&#xD;
+             least 1 of the following conditions applies:&#xD;
+&#xD;
+               1. Is not a woman of childbearing potential (WOCBP), defined as:&#xD;
+&#xD;
+                  Surgically sterile (documented hysterectomy, bilateral salpingectomy, or&#xD;
+                  bilateral oophorectomy, as confirmed by review of the subject's medical records,&#xD;
+                  medical examination, or medical history interview), or Postmenopausal (defined as&#xD;
+                  no menses for 12 months without an alternative medical cause. A high&#xD;
+                  follicle-stimulating hormone [FSH] level in the postmenopausal range may be used&#xD;
+                  to confirm a postmenopausal state in women not using hormonal contraception or&#xD;
+                  hormonal replacement therapy [HRT]. However, in the absence of 12 months of&#xD;
+                  amenorrhea, a single FSH measurement is insufficient). Female subjects on HRT and&#xD;
+                  whose menopausal status is in doubt will be required to use 1 of the non estrogen&#xD;
+                  hormonal highly effective contraception methods from Day 1 until at least 6&#xD;
+                  months after the second dose of IP if they wish to continue their HRT during the&#xD;
+                  study. Otherwise, they must discontinue HRT to allow confirmation of&#xD;
+                  postmenopausal status before study enrollment.&#xD;
+&#xD;
+               2. Is a WOCBP who agrees to use a highly effective method of contraception&#xD;
+                  consistently and correctly from Day 1 until at least 6 months after the second&#xD;
+                  dose of IP.&#xD;
+&#xD;
+          8. Nonsterilized male subjects with female partners of childbearing potential are&#xD;
+             eligible to participate if they agree to ONE of the following from Day 1 until at&#xD;
+             least 6 months after the second dose of IP and refrain from donating sperm during this&#xD;
+             period:&#xD;
+&#xD;
+               1. Are abstinent from penile-vaginal intercourse as their usual and preferred&#xD;
+                  lifestyle (abstinent on a long-term and persistent basis) and agree to remain&#xD;
+                  abstinent.&#xD;
+&#xD;
+               2. Agree to use a male condom and have their partner use of a contraceptive method&#xD;
+                  with a failure rate of &lt;1% per year when having penile-vaginal intercourse with a&#xD;
+                  WOCBP who is not currently pregnant.&#xD;
+&#xD;
+               3. Male subjects with a pregnant or breastfeeding partner must agree to remain&#xD;
+                  abstinent from penile-vaginal intercourse or use a male condom during each&#xD;
+                  episode of penile penetration.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects are excluded from the study if ANY of the following criteria apply at any&#xD;
+             time starting from Screening up to Day 1 prior to IP administration:&#xD;
+&#xD;
+               1. History of clinically significant and uncontrolled hematological, renal,&#xD;
+                  endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, or&#xD;
+                  neurologic disease in the opinion of the Investigator within 12 months prior to&#xD;
+                  Screening.&#xD;
+&#xD;
+               2. Individuals with behavioral or cognitive impairment in the opinion of the&#xD;
+                  Investigator.&#xD;
+&#xD;
+               3. Individuals with any progressive or severe neurologic disorder, seizure disorder,&#xD;
+                  or history of Guillain-Barré syndrome.&#xD;
+&#xD;
+               4. Individuals with known or suspected impairment of the immune system, such as:&#xD;
+&#xD;
+                    1. Use of systemic (oral or parenteral) corticosteroids for ≥14 consecutive&#xD;
+                       days within 60 days prior to Day 1. Use of inhaled, intranasal, or topical&#xD;
+                       corticosteroids is allowed. NOTE: Systemic (oral or parenteral)&#xD;
+                       corticosteroids are also prohibited for 3 weeks after the second dose of the&#xD;
+                       IP.&#xD;
+&#xD;
+                    2. Receipt of cancer chemotherapy within 5 years prior to Day 1.&#xD;
+&#xD;
+                    3. Receipt of immunostimulants or immunosuppressants within 60 days prior to&#xD;
+                       Day 1.&#xD;
+&#xD;
+                    4. Known HIV or acquired immune deficiency syndrome.&#xD;
+&#xD;
+                    5. Subjects with active or prior documented autoimmune disorder (such as&#xD;
+                       potential immune mediated diseases [pIMDs]).&#xD;
+&#xD;
+                    6. Receipt of parenteral immunoglobulin preparation, blood products, and/or&#xD;
+                       plasma derivatives within 3 months prior to Day 1 or planned during the full&#xD;
+                       length of the study.&#xD;
+&#xD;
+                    7. Being treated for tuberculosis.&#xD;
+&#xD;
+               5. History of allergic disease or reactions associated with previous vaccinations or&#xD;
+                  likely to be exacerbated by any component of the IP.&#xD;
+&#xD;
+               6. Individuals who have had a previous confirmed or suspected illness caused by&#xD;
+                  SARS-CoV-1, SARS-CoV-2, or MERS-CoV.&#xD;
+&#xD;
+               7. Individuals who have had a malignancy (excluding nonmelanotic skin cancer) or&#xD;
+                  lymphoproliferative disorder within the past 5 years from the first dose of the&#xD;
+                  IP (Day 1).&#xD;
+&#xD;
+               8. History of urticaria within 1 year prior to Screening.&#xD;
+&#xD;
+               9. History of hereditary angioneurotic edema or acquired angioneurotic edema.&#xD;
+&#xD;
+              10. History of asplenia or functional asplenia.&#xD;
+&#xD;
+              11. History of platelet disorder or other bleeding diathesis or condition associated&#xD;
+                  with prolonged bleeding that would, in the opinion of the Investigator,&#xD;
+                  contraindicate intramuscular injection.&#xD;
+&#xD;
+              12. Current febrile illness or body temperature ≥38.0°C or other moderate to severe&#xD;
+                  illness within 24 hours of IP administration on Day 1. This condition is&#xD;
+                  considered to be temporary or self-limiting, and a subject may be vaccinated once&#xD;
+                  the condition has resolved if no other exclusion criteria is met.&#xD;
+&#xD;
+              13. Any current active infections, including localized infections, or any recent&#xD;
+                  history (within 1 week prior to IP administration) of active infections or cough;&#xD;
+                  or a history of recurrent or chronic infections (&gt;3 infections/year).&#xD;
+&#xD;
+              14. Individuals with a history of drug or alcohol abuse (with an average intake&#xD;
+                  exceeding 10 drinks/week for women and 15 drinks/week for men: 1 drink = 360 mL&#xD;
+                  of beer, 150 mL of wine, or 45 mL of spirits) or drug addiction (including soft&#xD;
+                  drugs like cannabis products) within the past 2 years.&#xD;
+&#xD;
+              15. Current heavy smoker, defined as smoking ≥20 cigarettes/day (1 pack or&#xD;
+                  equivalent), or a former heavy smoker who was an active smoker within the past 1&#xD;
+                  year prior to Screening.&#xD;
+&#xD;
+              16. Individuals who faint at the sight of blood or needles.&#xD;
+&#xD;
+              17. Participation in another interventional clinical study (including a&#xD;
+                  bioequivalence study) with an investigational drug within 30 days or 5 half-lives&#xD;
+                  of the drug (whichever is longer) prior to the first dose of the IP.&#xD;
+&#xD;
+              18. Individuals who have received any prior investigational or approved vaccine&#xD;
+                  against a coronavirus, including but not limited to SARS-CoV-1, SARS-CoV-2, and&#xD;
+                  MERS-CoV.&#xD;
+&#xD;
+              19. Individuals who have received any other licensed vaccines within 14 days (for&#xD;
+                  inactivated vaccines) or 30 days (for live or attenuated vaccines) prior to&#xD;
+                  enrollment in this study, or those who are planning to receive any vaccine within&#xD;
+                  30 days before the first dose of IP or during the study, with the exception of&#xD;
+                  the seasonal influenza vaccine.&#xD;
+&#xD;
+              20. Individuals must not have donated blood for 30 days prior to Day 1 and must agree&#xD;
+                  to not donate blood for 6 months after Day 1 (receipt of first dose of the IP).&#xD;
+&#xD;
+              21. Individuals with any condition that, in the opinion of the Investigator, would&#xD;
+                  interfere with the study objectives or pose additional subject risk.&#xD;
+&#xD;
+              22. Any persons who are:&#xD;
+&#xD;
+                    1. An employee of the study site, Investigator, contract research organization&#xD;
+                       (CRO) or Sponsor.&#xD;
+&#xD;
+                    2. A first-degree relative of an employee of the study site, the Investigator,&#xD;
+                       CRO, or the Sponsor.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Christopher Wynne, doctor</last_name>
+    <phone>+6433729477</phone>
+    <email>chris@ccst.co.nz</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Auckland Clinical Studies</name>
+      <address>
+        <city>Auckland</city>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Paul Hamilton, Doctor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Christchurch Clinical Studies Trust</name>
+      <address>
+        <city>Christchurch</city>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Christopher Wynne, Doctor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>New Zealand</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 26, 2021</study_first_posted>
+  <last_update_submitted>March 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

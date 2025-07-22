@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3472">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04807075</url>
+  </required_header>
+  <id_info>
+    <org_study_id>027-21-EP</org_study_id>
+    <nct_id>NCT04807075</nct_id>
+  </id_info>
+  <brief_title>A Wearable, Battery-free Screening System for SARS-CoV-2, the Virus Causing COVID-19, Infection</brief_title>
+  <official_title>A Wearable, Battery-free Screening System for SARS-CoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Nebraska</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Nebraska</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The corona virus disease (COVID) pandemic has highlighted the importance of rapid, readily&#xD;
+      available screeners and diagnostics to identify infected individuals. Recent studies have&#xD;
+      demonstrated that portable electronic nose sensing devices can detect volatile organic&#xD;
+      compounds (VOCs). These compounds are end products of human metabolism or of enteric bacteria&#xD;
+      and are excreted through the skin or exhaled breath. Importantly, the sensing devices can be&#xD;
+      adapted into a wearable device providing continuous monitoring. Our goal is to develop a&#xD;
+      battery-free, electronic nose sensor to serve as a screener and detect VOC patterns&#xD;
+      associated to patients with symptomatic and asymptomatic COVID-19 without being invasive.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Purpose. This study will assess the feasibility of using an electronic nose to detect signals&#xD;
+      indicating infection with severe acute respiratory disress syndrome corona virus-2&#xD;
+      )SARS-CoV-2). Five different prototypes of electronic nose will be used that would be&#xD;
+      deployed differently: 1) a patch, 2) clipped to a garment neckline, 3) clipped to a garment&#xD;
+      waistline, 4) resting on a bedside table, and 5) integrated into a facemask. Data will be&#xD;
+      collected over a three day period to determine the quality of the smell-print signals&#xD;
+      collected by the different deployment regimes. Eligibility. Subjects admitted to University&#xD;
+      of Nebraska Medical Center (UNMC) with definite or suspected SARS-CoV-2 infection will be&#xD;
+      eligible. Subjects must have access to a smart phone and be well enough to engage in the&#xD;
+      active data collection. The goal is to enroll 30 SARS-CoV-2 infected and 30 uninfected&#xD;
+      individuals. Eligibility of controls will be extended to patients admitted to UNMC with other&#xD;
+      respiratory problems including chronic obstructive pulmonary disease (COPD) exacerbation,&#xD;
+      pneumonia and congestive heart failure if needed. Adults (19 years and older) are eligible.&#xD;
+      Subjects with allergic reactions to components of the devices will be excluded. Interventions&#xD;
+      and evaluations. Informed consent will be obtained remotely following which an app will be&#xD;
+      downloaded to their phone. A kit will be delivered to the patients room containing the five&#xD;
+      devices. The app will support: instruction on use of the devices, reminders to collect data&#xD;
+      every 2 hours between 08:00 and 20:00, and access to study personnel for support as needed.&#xD;
+      The app will transmit smell prints from the 5 devices to a secure cloud-based database. The&#xD;
+      study coordinator will oversee subject education and deployment of the devices by&#xD;
+      phone/facetime. Subjects will be instructed on use of the devices, which they will&#xD;
+      self-deploy in positions that do not interfere with any medical equipment. The patch,&#xD;
+      clip-ons and bedside sensor will be worn continuously from 08:00 to 20:00. The mask will be&#xD;
+      placed for 5 minutes before each data collection, which will be timed by the phone app. The&#xD;
+      mask can then be removed until the next data collection. Smell-print data will be collected&#xD;
+      for three days. Following this, the devices will be replaced into the kit box and collected&#xD;
+      by the nursing staff. Clinical data will be collected from the electronic health record.&#xD;
+      Follow up. Following completion of the study, subjects will be asked to complete a brief&#xD;
+      questionnaire on the experience and asked about their willingness to be contacted for further&#xD;
+      interviews.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 25, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>nose smell-print</measure>
+    <time_frame>at enrollment</time_frame>
+    <description>nose smell-print. This is recorded as a set of impedances, one from each sensor filament. This results in an 8-dimensional vector that will be recorded for each subject. The vectors will then be related to diagnostic category (SARS-CoV-2 positive vs. negative). This will be determined separately for each of the sensor devices.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>stability of smell print</measure>
+    <time_frame>three days</time_frame>
+    <description>8-dimensional smell prints will be recorded at approximately 2 hour intervals for waking hours over three days.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult (age &gt;18) subjects admitted to the hospital for possible COVID-19.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        °Admission for definite or suspected SARS-CoV-2 infection with mild to moderate symptoms&#xD;
+        and clinical features.&#xD;
+&#xD;
+        If insufficient numbers of suspected cases who test negative, individuals admitted with&#xD;
+        other respiratory problems: COPD exacerbation, viral pneumonia, congestive heart failure&#xD;
+        who test negative for SARS-CoV-2 will be eligible as controls.&#xD;
+&#xD;
+          -  Able to give informed consent.&#xD;
+&#xD;
+          -  Access to a smartphone capable of downloading the study app and of collecting and&#xD;
+             transmitting study data.&#xD;
+&#xD;
+          -  Ability to comply with study procedures.&#xD;
+&#xD;
+          -  Ability to self-deploy the study devices and collect study data.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to give informed consent.&#xD;
+&#xD;
+          -  Allergic history to components of study devices,&#xD;
+&#xD;
+          -  Inability to participate in study procedures.&#xD;
+&#xD;
+          -  Severe disease or admission to a critical care unit.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Stephen Rennard, MD</last_name>
+    <phone>402-559-5888</phone>
+    <email>srennard@unmc.edu</email>
+  </overall_contact>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 19, 2021</study_first_posted>
+  <last_update_submitted>March 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Nebraska</investigator_affiliation>
+    <investigator_full_name>Stephen I. Rennard, MD</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

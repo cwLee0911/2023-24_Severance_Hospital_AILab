@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2000">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04779996</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CCAM 21-01</org_study_id>
+    <nct_id>NCT04779996</nct_id>
+  </id_info>
+  <brief_title>Antibodies Production After Covid-19 Vaccination Among Patients With Medical History of Cancer and Anti-CD-20 Treatment</brief_title>
+  <official_title>Antibodies Production After Covid-19 Vaccination Among Patients With Medical History of Cancer and Anti-CD-20 Treatment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Auxilio Mutuo Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Auxilio Mutuo Cancer Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase II study designed to investigate if the Covid 19 vaccines are capable of&#xD;
+      eliciting production of antibodies against S protein of Sar-S-Cov-2 virus among patients with&#xD;
+      medical history of cancer previously treated with monoclonal anti CD-20 antibodies. The&#xD;
+      antibody production is defined based on the detection of antibodies in the serologic Covid-19&#xD;
+      rapid test against S protein or with semiquantitative assay when it becomes available.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 16, 2021</start_date>
+  <completion_date type="Anticipated">February 28, 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary Objective</measure>
+    <time_frame>Two weeks after full dose vaccination.</time_frame>
+    <description>To determine if patients with cancer history or HIV positivity previously treated with monoclonal anti CD-20 are able to produce antibodies after Covid-19 vaccination.&#xD;
+a. Antibody Production defined as: 1. Positive serologic Covid-19 antibodies rapid test against S protein.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Secondary objective 1</measure>
+    <time_frame>Two weeks after full dose vaccination.</time_frame>
+    <description>Evaluate the Correlation of immunoglobulin levels and the development of Covid-19 antibodies.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Secondary objective 2</measure>
+    <time_frame>Two weeks after full dose vaccination.</time_frame>
+    <description>Evaluate the correlation of CD4/CD8 counts with the development of Covid-19 antibodies.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Covid19</condition>
+  <condition>Cancer</condition>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Laboratory Samples</intervention_name>
+    <description>After full vaccination with a Covid 19 vaccine, the following laboratory samples will be taken one time only, two weeks after full dose vaccination: i. Serologic rapid test (IgG, IgM) ii. Serum quantitative immunoglobulin levels iii. CD4 level iv. CD8 level&#xD;
+Laboratory samples will be taken at Hospital Auxilio Mutuo Laboratorio Clínico. Likewise, the Immuno Reference Lab might be used as an alternative.&#xD;
+Since monoclonal antibody therapy can induce hypogammaglobulinemia, we will measure gammaglobulin levels to correlate with antibody response to vaccine. Similarly, we will evaluate the CD4 and CD8 counts.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients either diagnosed with cancer or with HIV positivity or treated with an&#xD;
+        antineoplastic regimen including anti CD-20 after Covid-19 vaccine.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All patients either diagnosed with cancer or with HIV positivity or treated with an&#xD;
+             antineoplastic regimen including anti CD-20 after Covid-19 vaccine will be registered&#xD;
+             on the study regardless of their type of cancer or type of antineoplastic regimen.&#xD;
+&#xD;
+          -  Patients 21 years or older diagnosed with cancer treated with antineoplastic regimen&#xD;
+             or anti CD-20, or with HIV infection vaccinated with 2 doses of anti Covid-19 vaccine.&#xD;
+&#xD;
+          -  Eligible patients will be registered on study after a Covid -19 vaccine has been&#xD;
+             scheduled.&#xD;
+&#xD;
+          -  In order to be screened for Covid 19 antibodies, they must be tested at least two&#xD;
+             weeks after the second dose of Covid-19 vaccination.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Anyone who has not been treated with anti-CD20 antibodies or with chemotherapy who&#xD;
+             doesn't have HIV infection or who has not received chemotherapy for cancer.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Fernando Cabanillas, MD</last_name>
+    <phone>787-758-2000</phone>
+    <phone_ext>3503</phone_ext>
+    <email>cabanillasmd@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Carmen Morales</last_name>
+    <phone>787-758-2000</phone>
+    <phone_ext>3503</phone_ext>
+    <email>camorales@auxiliomutuo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Auxilio Mutuo Cancer Center</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00918</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fernando Cabanillas, MD</last_name>
+      <phone>787-758-2000</phone>
+      <phone_ext>3503</phone_ext>
+      <email>cabanillasmd@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Carmen Morales</last_name>
+      <phone>787-758-2000</phone>
+      <phone_ext>3503</phone_ext>
+      <email>camorales@auxiliomutuo.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Fernando Cabanillas, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Javier Morales, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Josselyn Molina, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+  </location_countries>
+  <link>
+    <url>https://www.medrxiv.org/content/10.1101/2020.05.06.20092999v1</url>
+    <description>OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.</description>
+  </link>
+  <reference>
+    <citation>Baker D, Roberts CAK, Pryce G, Kang AS, Marta M, Reyes S, Schmierer K, Giovannoni G, Amor S. COVID-19 vaccine-readiness for anti-CD20-depleting therapy in autoimmune diseases. Clin Exp Immunol. 2020 Nov;202(2):149-161. doi: 10.1111/cei.13495. Epub 2020 Aug 1. Review.</citation>
+    <PMID>32671831</PMID>
+  </reference>
+  <reference>
+    <citation>Houot R, Levy R, Cartron G, Armand P. Could anti-CD20 therapy jeopardise the efficacy of a SARS-CoV-2 vaccine? Eur J Cancer. 2020 Sep;136:4-6. doi: 10.1016/j.ejca.2020.06.017. Epub 2020 Jun 25.</citation>
+    <PMID>32619884</PMID>
+  </reference>
+  <reference>
+    <citation>McLaughlin P, Grillo-López AJ, Link BK, Levy R, Czuczman MS, Williams ME, Heyman MR, Bence-Bruckler I, White CA, Cabanillas F, Jain V, Ho AD, Lister J, Wey K, Shen D, Dallaire BK. Rituximab chimeric anti-CD20 monoclonal antibody therapy for relapsed indolent lymphoma: half of patients respond to a four-dose treatment program. J Clin Oncol. 1998 Aug;16(8):2825-33.</citation>
+    <PMID>9704735</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>March 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Auxilio Mutuo Cancer Center</investigator_affiliation>
+    <investigator_full_name>Fernando Cabanillas</investigator_full_name>
+    <investigator_title>Fernando Cabanillas, MD</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>HIV Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="921">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04824469</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EkisehirOsmangaziU</org_study_id>
+    <nct_id>NCT04824469</nct_id>
+  </id_info>
+  <brief_title>The Effects of Web-Based Training for Covid-19 Patients on Symptom Management, Medication Compliance and Quality of Life</brief_title>
+  <official_title>The Effects of Web-Based Training and Telephone Follow-up Developed for Covid-19 Patients on Symptom Management, Medication Compliance and Quality of Life</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eskisehir Osmangazi University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eskisehir Osmangazi University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      2019 coronavirus disease (Covid-19) is a virus that emerged in Wuhan, China in late 2019,&#xD;
+      spread all over the world in a short time and causes severe acute respiratory syndrome and&#xD;
+      pneumonia. The World Health Organization classified the COVID-19 outbreak as an&#xD;
+      &quot;international public health emergency&quot; on January 30 and declared a global epidemic&#xD;
+      (pandemic) on March 11, 2020, due to the rapid spread of the virus all over the world. speed&#xD;
+      in the number of cases and deaths. Covidien-19 first cases were reported in Turkey on 10&#xD;
+      March 2020 and the number of cases has risen steadily.&#xD;
+&#xD;
+      The total number of COVID-19 cases worldwide on 31.01.2021; It was reported to be 101,917,147&#xD;
+      and the total number of deaths was 2,205,515 (https://covid19.who.int/).&#xD;
+&#xD;
+      Considering that the number of cases is constantly increasing, it is obvious that hospitals&#xD;
+      will not meet the entire epidemic burden. During this period, home care has emerged as an&#xD;
+      alternative way to effectively alleviate the epidemic burden. Home healthcare during the&#xD;
+      COVID-19 pandemic; Four roles have stood out: home diagnosis, follow-up, treatment, and care.&#xD;
+&#xD;
+      Protective measures for home isolation of Covid-19 patients are the current method used to&#xD;
+      prevent the spread of cases. Possible or definite cases that do not have an indication for&#xD;
+      hospitalization, have a mild clinic and do not accompany severe chronic disease that may lead&#xD;
+      to a severe course of covid-19 are followed at home until their symptoms improve. In&#xD;
+      addition, patients who are hospitalized and meet discharge criteria can complete their&#xD;
+      recovery processes at home. Isolation is terminated on the 14th day at the earliest following&#xD;
+      the improvement of symptoms in patients who are followed at home. Reducing the contact of&#xD;
+      people, isolating certain and suspicious cases and effective use of personal protective&#xD;
+      equipment play an important role in combating the epidemic. It is thought that the training&#xD;
+      that COVID-19 cases to be followed up and treated at home will be effective in drug&#xD;
+      compliance, symptom management and quality of life will be effective in the management of the&#xD;
+      disease. According to the results of the PCR (Polymerase Chain Reaction) test and Thorax CT&#xD;
+      (Thorax computed tomography) test performed by the Zonguldak Provincial Health Directorate&#xD;
+      Public Health Directorate and by the radiation teams, U07.3 (Covid-19 laboratory test&#xD;
+      positive), J12.9 (Viral Pneumonia, Undefined-Covid-19 laboratory test negative and diagnosed&#xD;
+      according to Thorax CT result) and J12.8 (Patients diagnosed with Viral Pneumonia-Covid-19&#xD;
+      laboratory test negative and Thorax CT result) diagnosed with ICD coded Covid-19 and&#xD;
+      Zonguldak Public It is planned to create patients who are recommended to be followed up and&#xD;
+      treated at home by the Presidency of Health.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      G power analysis program was used to determine the sample size. The research will be&#xD;
+      conducted with two groups, one intervention group and one control group. With professional&#xD;
+      support in calculating the sample size of the study, the sample size was found to be 128 (64&#xD;
+      intervention, 64 control), calculated at a 5% margin of error and a 95% confidence interval.&#xD;
+      Participants who meet the inclusion criteria and agree to participate in the study will be&#xD;
+      randomly assigned to the intervention and control groups.&#xD;
+&#xD;
+      DATA COLLECTION TOOLS&#xD;
+&#xD;
+        -  Patient information form&#xD;
+&#xD;
+        -  Memorial Symptom Rating Scale&#xD;
+&#xD;
+        -  Covid-19 Symptom Assessment Inventory&#xD;
+&#xD;
+        -  Morisky Adaptation Scale (Muö)&#xD;
+&#xD;
+        -  World Health Organization Quality of Life Inventory Short Form Turkish Version&#xD;
+&#xD;
+        -  E-Health literacy scale&#xD;
+&#xD;
+        -  Opinion Form Regarding the Web Based Training Program&#xD;
+&#xD;
+        -  DISCERN Guide (Expert Opinions)&#xD;
+&#xD;
+        -  Website Content Evaluation Form (Expert Opinions)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2021</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>randomized controlled experimental study</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The effect of web-based training on symptom management, medication compliance and quality of life of COVID-19 cases to be monitored and treated at home during and after home isolation will be evaluated with questionnaires.</measure>
+    <time_frame>Patients who agree to participate in the study and meet the criteria for inclusion in web-based-training will be determined, patients will be informed about the study and verbal and written consent will be obtained. It will take 4 weeks for each patient.</time_frame>
+    <description>It is thought that the web-based-training that will receive COVID-19cases to be monitored and treated at home during home isolation may be effective in terms of symptom management, medication compliance and quality of life.The Memorial Symptom Scale and the Symptom Assessment Inventory created by the researcher by scanning the literature will be used to determine symptoms in symptom management, the Morisky Drug Compliance Scale to determine drug compliance, and the World Health Organization Quality of Life Scale short form to determine the quality of life.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">128</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>web based training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients on the first day; Patient Information Form (1st and 2nd part), Memorial Symptom Assessment Scale, Covid-19 Symptom Assessment Inventory, Morisky Compliance Scale, World Health Organization Quality of Life Scale Short Form Turkish Version, E-Health literacy scale on website or mobile devices Google via the form or by sending a phone link.&#xD;
+Morisky Compliance Scale will be applied on the 7th day by sending a link to the website or mobile devices via google form.&#xD;
+Patients in the intervention group will be asked to fill out the Covid-19 Symptom Assessment Inventory on the website when they experience changes in their symptoms.&#xD;
+Patients in the intervention group will be provided with web-based training and telephone (SMS) reminder service for 4 weeks.&#xD;
+All questionnaires and web site evaluation form will be filled in the pre-test after 4 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>standard care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The scales applied to the intervention group on the first day, by sending the E-Health literacy scale form or phone link via Google on mobile devices. The symptoms of the patients in the control group will be evaluated at the end of the 1st day, 7th day, 14th day and 4th day. No intervention was planned for the patients in the control group during the follow-up. In the standard practice protocol, after patients are informed for follow-up and treatment at home, they are called by the Ministry of Health and family physicians for symptom follow-up. The standard hospital protocol does not include a scheduled training program, telephone monitoring, or web-based training. After collecting the data in the intervention group, the website will be opened to the use of the control group.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>intervention group</intervention_name>
+    <description>web based training: By establishing a website, training on drug use, symptom management and quality of life will be provided.</description>
+    <arm_group_label>web based training</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Over the age of 18,&#xD;
+&#xD;
+          -  Does not have a communication problem that prevents participation in research or&#xD;
+             education, such as inability to understand / speak Turkish,&#xD;
+&#xD;
+          -  Being literate,&#xD;
+&#xD;
+          -  Residing in Zonguldak province, applying to hospitals in the province and diagnosed&#xD;
+             with Covid-19 according to PCR (Polymerase Chain Reaction) test and Thorax CT (Thorax&#xD;
+             computed tomography) results by the radiation teams and deemed appropriate for home&#xD;
+             follow-up by the Zonguldak Public Health Directorate,&#xD;
+&#xD;
+          -  Having active Internet access and actively using a computer / tablet or smartphone,&#xD;
+&#xD;
+          -  Patients who agree to participate in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No internet connection at home or on the phone,&#xD;
+&#xD;
+          -  Do not know how to use internet and computers,&#xD;
+&#xD;
+          -  Having a communication problem that prevents participation in research or education,&#xD;
+             such as inability to understand / speak Turkish, Patients who were previously&#xD;
+             diagnosed with Covid-19 and treated at home or in hospital,&#xD;
+&#xD;
+          -  With severe insufficiency (Heart failure, Kidney failure, Immune system failure)&#xD;
+&#xD;
+          -  Illiterate individuals will not be included in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ebru Arslan Özdemir, PhD Student</last_name>
+    <phone>+90 531 420 96 53</phone>
+    <email>ebruaarslan@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Özlem Örsal, Prof. Dr.</last_name>
+    <phone>0 222 239 37 50</phone>
+    <phone_ext>1105</phone_ext>
+    <email>ozlorsal@yahoo.com</email>
+  </overall_contact_backup>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>April 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Eskisehir Osmangazi University</investigator_affiliation>
+    <investigator_full_name>Ebru Arslan Özdemir</investigator_full_name>
+    <investigator_title>Nurse</investigator_title>
+  </responsible_party>
+  <keyword>web based consulting</keyword>
+  <keyword>Medication Compliance</keyword>
+  <keyword>symptom management</keyword>
+  <keyword>covid-19</keyword>
+  <keyword>life quality</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2840">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04836780</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EARLY-DEX Covid-19</org_study_id>
+    <nct_id>NCT04836780</nct_id>
+  </id_info>
+  <brief_title>DEXamethasone EARLY Administration in Hospitalized Patients With Covid-19 Pneumonia</brief_title>
+  <acronym>EARLYDEXCoV2</acronym>
+  <official_title>DEXamethasone EARLY Administration in Hospitalized Patients With Covid-19 Pneumonia and High Risk of Developing Acute Respiratory Distress Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Universitario Infanta Leonor</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fundación para la Investigación e Innovación Biomédica del Hospital Universitario Infanta Leonor</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Kern Pharma, S.L.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital Universitario Infanta Leonor</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to evaluate the efficacy of dexamethasone in hospitalized adults&#xD;
+      with COVID-19 pneumonia who do not require supplementary oxygen on admission, but have high&#xD;
+      risk of developing acute respiratory distress syndrome (ARDS).&#xD;
+&#xD;
+      This is a prospective, multicenter, phase 4, parallel-group, randomized and controlled trial&#xD;
+      that is open-label to investigators, participants and clinical outcome assessors.&#xD;
+&#xD;
+      Eligible participants include adults (age 18 years or older), diagnosed with SARS-CoV-2&#xD;
+      infection, evidence of infiltrates on chest radiography or computerized tomography,&#xD;
+      peripheral capillary oxygen saturation ≥94% and 22 breaths per minute breathing room air, and&#xD;
+      high risk of developing ARDS defined by a lactate dehydrogenase higher than 245 U/L,&#xD;
+      C-Reactive Protein higher than 100 mg/L, and absolute lymphocytes lower than 800 cells/µL.&#xD;
+      Eligible participants will meet two of the three before analytical criteria associated with&#xD;
+      severe COVID-19. Patients will provide written informed consent. Exclusion criteria include&#xD;
+      patients with a history of allergy to dexamethasone, pregnant or lactating women, oral or&#xD;
+      inhaled corticosteroids treatment within 15 days before randomization, immunosuppressive&#xD;
+      agent or cytotoxic drug therapy within 30 days before randomization, neutropenia &lt;1000&#xD;
+      cells/µL, human immunodeficiency virus infection with CD4 cell counts &lt;500 cells within 90&#xD;
+      days after randomization, dementia, chronic liver disease defined by ALT or AST ≥5 times the&#xD;
+      upper limit of normal, chronic kidney injury defined by a glomerular filtration rate ≤30&#xD;
+      ml/min, hemodialysis or peritoneal dialysis, uncontrolled infection, and patients who are&#xD;
+      already enrolled in another clinical trial.&#xD;
+&#xD;
+      Study participants will be randomized in a 1:1 ratio to receive dexamethasone base 6 mg once&#xD;
+      daily for seven days or standard of care.&#xD;
+&#xD;
+      The primary endpoint is to prevent of development of moderate ARDS. Based on the Berlin&#xD;
+      criteria, moderate ARDS is defined by a PaO2/FiO2 ratio &gt;100 mmHg and ≤200 mmHg.&#xD;
+&#xD;
+      Study participants will be randomized in a 1:1 ratio to receive dexamethasone versus standard&#xD;
+      of care using a randomization platform. Included participants will be hospitalized at the&#xD;
+      time of randomization.&#xD;
+&#xD;
+      The study will be undertaken at Infanta Leonor-Virgen de la Torre University Hospital,&#xD;
+      Enfermera Isabel Zendal Emergency Hospital, and Infanta Cristina Hospital, Madrid, Spain.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19) can lead to acute respiratory distress syndrome (ARDS),&#xD;
+      severe hypoxic respiratory failure and, death. It has been reported that the mechanism of&#xD;
+      COVID-19 is related to cytokine storms and subsequent immunogenic damage, especially lung&#xD;
+      damage. Dexamethasone, with immunomodulatory properties, decrease mortality in critically ill&#xD;
+      patients with COVID-19. However, the benefits in patients without hypoxia remain unknown. We&#xD;
+      hypothesize that early administration of dexamethasone in hospitalized adult patients with&#xD;
+      COVID-19 pneumonia without hypoxia on admission, but risk factors for developing ARDS might&#xD;
+      prevent severe acute respiratory failure and death.&#xD;
+&#xD;
+      The investigators designed a multicenter prospective phase 3 parallel-group randomized and&#xD;
+      controlled trial. It is planned to recruit 126 hospitalized adults patients with COVID-19&#xD;
+      pneumonia without hypoxia on admission, but at high risk of developing ARDS, admitted to the&#xD;
+      emergency room or internal medicine wards. One enrolled, the participants will be randomised&#xD;
+      to receive oral or intravenous dexamethasone base at a dose of 6 mg once daily for 7 days or&#xD;
+      standard of care once enrolled. The primary outcome is the development of moderate-severe&#xD;
+      ARDS in patients with COVID-19 pneumonia without hypoxia on admission, but at high risk of&#xD;
+      disease progression. Based on the Berlin criteria, moderate ARDS is defined by a PaO2/FiO2&#xD;
+      ratio &gt;100 mmHg and ≤200 mmHg. According to The American College of Chest Physicians patients&#xD;
+      with a PaO2/FiO2 ratio around 200 mmHg requiring supplemental oxygen in nasal cannula at 3&#xD;
+      L/min (FiO2 0.30) for a SpO2 of 91-92%. Safety data will be provided. The secondary endpoints&#xD;
+      are: All-cause mortality for 28 days after randomization, intensive Care Unit (ICU) or&#xD;
+      Intermediate Respiratory Care Unit (IRCU) transfer for 28 days after randomization, clinical&#xD;
+      status of the patient using the ordinal scale of the WHO, SOFA on admission, and 4 and 7 days&#xD;
+      after randomization, hospital length of stay, respiratory support at hospital discharge, and&#xD;
+      all-cause readmission rate for 3 months after randomization.&#xD;
+&#xD;
+      This trial is considered to be safe. First, dexamethasone has been widely used in clinical&#xD;
+      practice for decades, and second, patients with greater potential risks of side effects were&#xD;
+      excluded based on the exclusion criteria. However, adverse events (AE) and serious adverse&#xD;
+      events (SAE) must be observed and followed in accordance with the good clinical practice&#xD;
+      guidelines issued by the European Medicine Agency (EMA).AE and SAE will be recorded for 7&#xD;
+      days of observation from enrolment. Either may occur during a subject's participation in the&#xD;
+      research and do not need to have a causal relationship with the treatment. Investigators will&#xD;
+      evaluate the relationship between the events and the intervention and report it to the ethics&#xD;
+      committee and data and safety monitoring board. Benefits and potential risks are written in&#xD;
+      the informed consent document. Patients will be informed about the purpose, interventions,&#xD;
+      benefits and possible risks of the study.&#xD;
+&#xD;
+      Baseline data including demographic characteristics, assigned group, Sequential Organs&#xD;
+      Failure Assessment (SOFA) score, the clinical status of the patient using the ordinal scale&#xD;
+      of the WHO, SpO2, partial pressure of arterial oxygen/fraction of inspired oxygen (PaO2/FiO2)&#xD;
+      ratio calculated from SpO2/FiO2, blood routine tests, chest radiography, and concomitant&#xD;
+      drugs will be collected on the first day. General vital signs, changes in the SOFA score,&#xD;
+      changes in the ordinal scale of the WHO, SpO2, respiratory rate, PaO2/FiO2 ratio, respiratory&#xD;
+      support, chest radiography, concomitant drugs, adverse event monitoring will be collected on&#xD;
+      the first day, fourth, seventh, fourteenth day and at discharge. Participants are scheduled&#xD;
+      for a follow-up visit on the 30 and 90th day to track their long-term prognosis, clinical&#xD;
+      status and sequelae.&#xD;
+&#xD;
+      Data will be collected from the clinical information system of the hospital. Every&#xD;
+      participant will be distinguished with a study identifier and initial without full name. An&#xD;
+      electronic password-protected document containing all the information from the case report&#xD;
+      format will be set up for statistical analysis. The analysis process will be performed by the&#xD;
+      primary investigator and designated teammates who are experienced with the trial case report&#xD;
+      format. The confidentiality and safety of participant's data are guaranteed. Data will be&#xD;
+      reserved for 25 years for further analysis and investigation in accordance with the European&#xD;
+      Clinical Trials Directive.&#xD;
+&#xD;
+      We assumed that 30% of participants would meet ARDS, and the use of dexamethasone would&#xD;
+      reduce this percentage to 15%. This corresponds to a required sample size of 63 per arm, with&#xD;
+      a 5% two-sided significance level (alpha) and 80% power. The total sample size therefore is&#xD;
+      planned to be 126. Quantitative variables will be described as the mean with standard&#xD;
+      deviation when they had a normal distribution, or median and interquartile range (IQR) when&#xD;
+      they had a non-normal distribution. Qualitative variables were defined by the frequency&#xD;
+      distribution and percentages. For univariate analysis, the difference in measurement data&#xD;
+      will be compared between the dexamethasone and standard care groups using Student's t -test&#xD;
+      or the Mann-Whitney U, and qualitative variables will be compared using Chi-squared test and&#xD;
+      Fisher's exact test depending on the normality of the variable. Kaplan-Meier analysis will be&#xD;
+      used to show the effect of dexamethasone on patient survival probability. A p-value of less&#xD;
+      than 0.05 will be considered statistically significant. Results will be obtained using&#xD;
+      Statistical Package for the Social Sciences software, version 26.0.&#xD;
+&#xD;
+      Results will be submitted for publication in peer-reviewed journals.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a prospective, multicentre, phase 3, parallel-group, randomized and controlled trial that is open-label to investigators, participants and clinical outcome assessors</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>The study participants and the clinicians who will evaluate post-treatment outcomes will be known to group assignment. The clinical research team will not be blinded to group assignment</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The primary trial outcome is the development of moderate-severe ARDS</measure>
+    <time_frame>7 days</time_frame>
+    <description>Based on the Berlin criteria, moderate ARDS is defined by a PaO2/FiO2 ratio &gt;100 mmHg and ≤200 mmHg. According to The American College of Chest Physicians patients with a PaO2/FiO2 ratio around 200 mmHg requiring supplemental oxygen in nasal cannula at 3 L/min (FiO2 0.30) for a SpO2 of 91-92%. The collected data as outcome measure will be general vital sign, Sequential Organ Failure Assessment (SOFA) score, the clinical status of the patient using the ordinal scale of the WHO, SpO2, partial pressure of arterial oxygen/fraction of inspired oxygen (PaO2/FiO2) ratio calculated from SpO2/FiO2, blood routine tests and chest radiography. Concomitant drugs and adverse event monitoring will be collected. Data will measure during admission. Participants will schedule for a follow-up visit on the 30 and 90th day to track their long-term prognosis, clinical status and sequelae.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality for 28 days after randomization</measure>
+    <time_frame>28 days</time_frame>
+    <description>All-cause mortality for 28 days after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensive Care Unit (ICU) or Intermediate Respiratory Care Unit (IRCU) transfer for 28 days after randomization</measure>
+    <time_frame>28 days</time_frame>
+    <description>Intensive Care Unit (ICU) or Intermediate Respiratory Care Unit (IRCU) transfer for 28 days after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical status of the patient using the ordinal scale of the WHO</measure>
+    <time_frame>7 days</time_frame>
+    <description>The World Health Organization COVID-19 ordinal scale represents intensity of medical intervention, with higher scores for interventions more burdensome for the patient, and highest score for death. Minimum value = 1, and maximum value = 8</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sequential Organ Failure Assessment (SOFA) score on admission, and 4 and 7 days after randomization</measure>
+    <time_frame>7 days</time_frame>
+    <description>The Sequential Organ Failure Assessment score is a simple and objective score that allows for calculation of both the number and the severity of organ dysfunction in six organ systems (respiratory, coagulatory, liver, cardiovascular, renal, and neurologic). The SOFA score can be used to determine level of organ dysfunction and mortality risk. Higher scores for interventions more burdensome for the patient, and highest score for death. Minimum value = 0, and maximum value = 24</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay</measure>
+    <time_frame>Number of days between admission date and discharge</time_frame>
+    <description>Hospital length of stay in days. From date of randomization until the date of first documented progression or date of death from any cause, whichever came first, assessed up to 90 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory support at hospital discharge</measure>
+    <time_frame>At hospital discharge</time_frame>
+    <description>Suplementary oxygen at hospital discharge up to 90 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause readmission rate for 3 months after randomization</measure>
+    <time_frame>3 months</time_frame>
+    <description>All-cause readmission rate for 3 months after randomization</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">126</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>Pneumonia, Viral</condition>
+  <arm_group>
+    <arm_group_label>Dexamethasone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dexamethasone base 6 mg once daily for seven days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard care therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>Dexamethasone base 6 mg once daily for seven days</description>
+    <arm_group_label>Dexamethasone</arm_group_label>
+    <arm_group_label>Standard of care</arm_group_label>
+    <other_name>Dexametasona kern pharma solution for injection 4 mg/ml</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults (age 18 years or older).&#xD;
+&#xD;
+          -  Diagnosed with SARS-CoV-2 infection by Polymerase Chain Reaction or rapid antigen test&#xD;
+             on upper respiratory tract (nasopharyngeal and oropharyngeal) specimens.&#xD;
+&#xD;
+          -  Evidence of infiltrates on chest radiography or computerized tomography.&#xD;
+&#xD;
+          -  Peripheral capillary oxygen saturation (SpO2) ≥94% and &lt;22 breaths per minute (bpm)&#xD;
+             breathing room air.&#xD;
+&#xD;
+          -  High risk of developing ARDS defined by a lactate dehydrogenase higher than 245 U/L,&#xD;
+             C-Reactive Protein higher than 100 mg/L, and absolute lymphocytes lower than 800&#xD;
+             cells/µL. Eligible participants will meet two of the three before analytical criteria&#xD;
+             associated with severe COVID-19.&#xD;
+&#xD;
+          -  Patients will provide written informed consent or who have a legally authorized&#xD;
+             representative available to do so. In these exceptional circumstances and following&#xD;
+             the recommendations of the Spanish Agency of Medicines and Medical Devices, the&#xD;
+             National Competent Authority of clinical trials, during the coronavirus crisis to&#xD;
+             avoid the risk of contagion, consent will be possible to obtained orally in the&#xD;
+             presence of at least one impartial witness.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with a history of allergy to dexamethasone.&#xD;
+&#xD;
+          -  Pregnant or lactating women.&#xD;
+&#xD;
+          -  Oral or inhaled corticosteroids treatment within 15 days before randomization.&#xD;
+&#xD;
+          -  Immunosuppressive agent or cytotoxic drug therapy within 30 days before randomization.&#xD;
+&#xD;
+          -  Neutropenia &lt;1000 cells/µL.&#xD;
+&#xD;
+          -  Human immunodeficiency virus infection with CD4 cell counts &lt;500 cells within 90 days&#xD;
+             after randomization.&#xD;
+&#xD;
+          -  Dementia.&#xD;
+&#xD;
+          -  Chronic liver disease defined by ALT or AST ≥5 times the upper limit of normal.&#xD;
+&#xD;
+          -  Chronic kidney injury defined by a glomerular filtration rate ≤30 ml/min, hemodialysis&#xD;
+             or peritoneal dialysis.&#xD;
+&#xD;
+          -  Uncontrolled infection.&#xD;
+&#xD;
+          -  Patients who are already enrolled in another clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Hospital Universitario Infanta Leonor</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28031</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Anabel Franco Moreno, MD, PhD</last_name>
+      <phone>+34 911 91 80 00</phone>
+      <email>afranco278@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Anabel Franco Moreno, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Juan Torres Macho, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <results_reference>
+    <citation>Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 May;8(5):475-481. doi: 10.1016/S2213-2600(20)30079-5. Epub 2020 Feb 24. Erratum in: Lancet Respir Med. 2020 Apr;8(4):e26.</citation>
+    <PMID>32105632</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Siddiqi HK, Mehra MR. COVID-19 illness in native and immunosuppressed states: A clinical-therapeutic staging proposal. J Heart Lung Transplant. 2020 May;39(5):405-407. doi: 10.1016/j.healun.2020.03.012. Epub 2020 Mar 20.</citation>
+    <PMID>32362390</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Chen G, Wu D, Guo W, Cao Y, Huang D, Wang H, Wang T, Zhang X, Chen H, Yu H, Zhang X, Zhang M, Wu S, Song J, Chen T, Han M, Li S, Luo X, Zhao J, Ning Q. Clinical and immunological features of severe and moderate coronavirus disease 2019. J Clin Invest. 2020 May 1;130(5):2620-2629. doi: 10.1172/JCI137244.</citation>
+    <PMID>32217835</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>RECOVERY Collaborative Group, Horby P, Lim WS, Emberson JR, Mafham M, Bell JL, Linsell L, Staplin N, Brightling C, Ustianowski A, Elmahi E, Prudon B, Green C, Felton T, Chadwick D, Rege K, Fegan C, Chappell LC, Faust SN, Jaki T, Jeffery K, Montgomery A, Rowan K, Juszczak E, Baillie JK, Haynes R, Landray MJ. Dexamethasone in Hospitalized Patients with Covid-19. N Engl J Med. 2021 Feb 25;384(8):693-704. doi: 10.1056/NEJMoa2021436. Epub 2020 Jul 17.</citation>
+    <PMID>32678530</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>WHO/2019-nCoV/Corticosteroids/2020.1</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Baud D, Qi X, Nielsen-Saines K, Musso D, Pomar L, Favre G. Real estimates of mortality following COVID-19 infection. Lancet Infect Dis. 2020 Jul;20(7):773. doi: 10.1016/S1473-3099(20)30195-X. Epub 2020 Mar 12.</citation>
+    <PMID>32171390</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Monedero P, Gea A, Castro P, Candela-Toha AM, Hernández-Sanz ML, Arruti E, Villar J, Ferrando C; COVID-19 Spanish ICU Network. Early corticosteroids are associated with lower mortality in critically ill patients with COVID-19: a cohort study. Crit Care. 2021 Jan 4;25(1):2. doi: 10.1186/s13054-020-03422-3.</citation>
+    <PMID>33397463</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Fadel R, Morrison AR, Vahia A, Smith ZR, Chaudhry Z, Bhargava P, Miller J, Kenney RM, Alangaden G, Ramesh MS; Henry Ford COVID-19 Management Task Force. Early Short-Course Corticosteroids in Hospitalized Patients With COVID-19. Clin Infect Dis. 2020 Nov 19;71(16):2114-2120. doi: 10.1093/cid/ciaa601.</citation>
+    <PMID>32427279</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 May;46(5):846-848. doi: 10.1007/s00134-020-05991-x. Epub 2020 Mar 3. Erratum in: Intensive Care Med. 2020 Apr 6;:.</citation>
+    <PMID>32125452</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28.</citation>
+    <PMID>32109013</PMID>
+  </results_reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19 pneumonia</keyword>
+  <keyword>Acute respiratory distress syndrome</keyword>
+  <keyword>Prevention</keyword>
+  <keyword>Randomised controlled trial</keyword>
+  <keyword>Dexamethasone</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

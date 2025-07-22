@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1901">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04784897</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IPI-BRIc-201</org_study_id>
+    <nct_id>NCT04784897</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Efficacy and Safety of Brilacidin in Hospitalized Participants With COVID-19</brief_title>
+  <official_title>A Phase 2, Randomized, Double-blind, Placebo-controlled, Multi-center Study to Evaluate the Efficacy and Safety of Brilacidin in Hospitalized Participants With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Innovation Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Innovation Pharmaceuticals, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study will assess the efficacy and safety of Brilacidin for the treatment of COVID-19 in&#xD;
+      hospitalized participants&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This Phase 2 study is a randomized, blinded, placebo-controlled, parallel group design.&#xD;
+&#xD;
+      The target population to be treated are patients with moderate to severe COVID-19, SARS-CoV-2&#xD;
+      infection confirmed by positive standard polymerase chain reaction (PCR) test (or equivalent/&#xD;
+      other approved diagnostic test) within 4 days prior to starting study treatment, and&#xD;
+      hospitalized with respiratory distress but not yet requiring high-level respiratory support&#xD;
+      (as defined in exclusion criterion #2). See inclusion/exclusion criteria.&#xD;
+&#xD;
+      The study is comprised of three parts:&#xD;
+&#xD;
+        1. Screening/ Baseline visit (Day -1 to 1): Lasts up to 24-48 hours and comprises&#xD;
+           screening/ baseline assessments. This visit will confirm that study inclusion and&#xD;
+           exclusion criteria are met by participants prior to randomization.&#xD;
+&#xD;
+        2. Treatment period (Day 1-3 with potential to expand to Day 4-5): Randomized subjects will&#xD;
+           receive blinded study treatment once daily for 3 days by IV infusion, in addition to&#xD;
+           SoC.&#xD;
+&#xD;
+        3. Follow-up period (Day 4-6 through Day 60): Subjects will be assessed daily while&#xD;
+           hospitalized. Discharged patients will be asked to attend study visits at Days 15 and&#xD;
+           29. A follow-up visit at Day 60(±10), by telephone call, is also included to confirm&#xD;
+           patient status.&#xD;
+&#xD;
+      All subjects will undergo a series of efficacy and safety assessments, including laboratory&#xD;
+      assays. Additional blood samples and nasopharyngeal (NP) swabs will also be obtained&#xD;
+      (oropharyngeal (OP) swabs to be collected only in exceptional circumstances).&#xD;
+&#xD;
+      The study will start with 3 days of study drug administration. After an interim analysis&#xD;
+      safety review, by an independent Data Monitoring Committee (DMC), dosing may be extended to 5&#xD;
+      days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 22, 2021</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to sustained recovery through Day 29</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Day of recovery is defined as the first day on which the subject satisfies one of the following three categories from the ordinal scale with response sustained through Day 29:&#xD;
+Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care (other than for per protocol dosing or assessments, as appropriate);&#xD;
+Not hospitalized, limitation on activities and/or requiring home oxygen;&#xD;
+Not hospitalized, no limitations on activities.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving recovery status scores at Day 29</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Recovery status scores are the following three categories from the ordinal scale:&#xD;
+Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care (other than for per protocol dosing or assessments, as appropriate);&#xD;
+Not hospitalized, limitation on activities and/or requiring home oxygen;&#xD;
+Not hospitalized, no limitations on activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects that die or develop respiratory failure by Day 29</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Composite endpoint, defined as: Death OR Respiratory failure (requires invasive mechanical ventilation)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subject Clinical status</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Clinical status is measured with an 8-point ordinal scale:&#xD;
+Death&#xD;
+Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO)&#xD;
+Hospitalized, on non-invasive ventilation or high flow oxygen devices&#xD;
+Hospitalized, requiring low-flow supplemental oxygen&#xD;
+Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise)&#xD;
+Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care (other than for per protocol dosing or assessments, as appropriate)&#xD;
+Not hospitalized, limitation on activities and/or requiring home oxygen&#xD;
+Not hospitalized, no limitations on activities</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving at least one category improvement in clinical status</measure>
+    <time_frame>Day 8, Day 15, Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects achieving at least two category improvement in clinical status</measure>
+    <time_frame>Day 8, Day 15, Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to at least one category improvement in clinical status</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to at least two category improvement in clinical status</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to a National Early Warning Score 2 (NEWS2) of &lt;/= 2 and maintained for 24 hours</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>The NEWS2 score is based on seven clinical parameters (respiration rate, oxygen saturation, any supplemental oxygen, systolic blood pressure, pulse, level of consciousness, temperature)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in National Early Warning Score 2 (NEWS2)</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment-emergent adverse events</measure>
+    <time_frame>Day 1 through Day 60</time_frame>
+    <description>Treatment-emergent Adverse Events (TEAEs) have onset dates on or after the study treatment start date</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment-emergent graded laboratory abnormalities</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Treatment-emergent abnormalities have onset dates on or after the study treatment start date</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Measured in days</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to discharge</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Measured in days</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Duration of invasive mechanical ventilation</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Measured in days (if applicable)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Duration of supplemental oxygen support</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Measured in days (if applicable)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Duration of extracorporeal membrane oxygenation (ECMO)</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Measured in days (if applicable)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of subjects with no oxygen therapy (and/or peripheral oxygen saturation SpO2 &gt; 93% on room air)</measure>
+    <time_frame>Day 8, Day 15, Day 29</time_frame>
+    <description>Subjects not using supplemental oxygen</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Subject 28-day mortality</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Incidence of death</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in disease biomarkers</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Concentrations of C-reactive protein (CRP), ferritin, lactate dehydrogenase (LDH), D-dimer, troponin hs, absolute neutrophil count</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in inflammatory cytokines</measure>
+    <time_frame>Day 1 through Day 15</time_frame>
+    <description>Concentrations of interleukin (IL)-1β, IL-6, IL-10, total IL-18, tumor necrosis factor (TNF)-α</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV-2) viral load</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Concentrations of SARS-CoV-2 from nasopharyngeal (or oropharyngeal) samples</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Brilacidin measurements</measure>
+    <time_frame>Day 1 through Day 4</time_frame>
+    <description>Concentrations of Brilacidin from plasma samples</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Brilacidin + SoC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Brilacidin IV infusion, 3 days and up to 5 days, in addition to Standard of Care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + SoC</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo IV infusion, 3 days and up to 5 days, in addition to Standard of Care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Brilacidin</intervention_name>
+    <description>Brilacidin IV infusion</description>
+    <arm_group_label>Brilacidin + SoC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo IV infusion</description>
+    <arm_group_label>Placebo + SoC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard of Care (SoC)</intervention_name>
+    <description>SoC therapies for COVID-19</description>
+    <arm_group_label>Brilacidin + SoC</arm_group_label>
+    <arm_group_label>Placebo + SoC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Signed and dated written Informed Consent Form (ICF) to participate in the clinical&#xD;
+             study by patient capable of giving consent, or, when the patient is not capable of&#xD;
+             giving consent, by his or her legal/authorized representative.&#xD;
+&#xD;
+          -  Male or non-pregnant female adults between 18 and 80 years of age, inclusive, at time&#xD;
+             of informed consent.&#xD;
+&#xD;
+          -  SARS-CoV-2 infection confirmed by positive standard polymerase chain reaction (PCR)&#xD;
+             test (or equivalent/ other approved diagnostic test) ≤ 4 days before randomization.&#xD;
+&#xD;
+          -  Currently hospitalized and requiring medical care for COVID-19.&#xD;
+&#xD;
+          -  Moderate OR severe COVID-19, defined by respiratory function at screening, as below:&#xD;
+&#xD;
+               -  Moderate, meets at least one of the following criteria:&#xD;
+&#xD;
+                    -  Peripheral oxygen saturation SpO2 &gt; 93% on room air;&#xD;
+&#xD;
+                    -  Respiratory rate ≥ 20 to &lt; 30 breaths per minute.&#xD;
+&#xD;
+               -  Severe, meets at least one of the following criteria:&#xD;
+&#xD;
+                    -  Peripheral oxygen saturation SpO2 ≤ 93% on room air OR arterial oxygen&#xD;
+                       partial pressure (PaO2) / fraction of inspired oxygen (FiO2) &lt; 300mmHg&#xD;
+                       (1mmHg=0.133kPa) [corrective formulation should be used for higher altitude&#xD;
+                       regions (over 1000m)];&#xD;
+&#xD;
+                    -  Respiratory rate ≥ 30 breaths per minute.&#xD;
+&#xD;
+          -  Body mass index (BMI) of ≥18 to &lt;40kg/m2 at screening.&#xD;
+&#xD;
+          -  Agrees to the collection of nasopharyngeal (NP) swabs and venous blood per protocol.&#xD;
+&#xD;
+          -  In the opinion of the investigator, willing and able to comply with the study protocol&#xD;
+             assessments, and is committed to the study and the study follow up visits.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participation in any other clinical trial of an experimental agent treatment.&#xD;
+&#xD;
+          -  Requiring invasive mechanical ventilation and/or extracorporeal membrane oxygenation&#xD;
+             (ECMO) at the time of randomization.&#xD;
+&#xD;
+          -  Has explicitly expressed the wish not to receive intensive care support (Do not&#xD;
+             resuscitate or Do not intubate order) should this become necessary.&#xD;
+&#xD;
+          -  In the opinion of the investigator, progression to death is imminent and inevitable&#xD;
+             within the next 72 hours, irrespective of the provision of treatment, such as rapidly&#xD;
+             progressive multiorgan failure.&#xD;
+&#xD;
+          -  Requiring systemic anti-infective therapy for suspected or confirmed active&#xD;
+             bacterial/fungal/viral systemic infection other than COVID-19.&#xD;
+&#xD;
+          -  Hypertensive urgency (e.g., SBP &gt;220 mmHg or DBP &gt;120 mmHg) or hypertensive emergency&#xD;
+             within the last 72 hours, as assessed by the investigator following local guidelines.&#xD;
+&#xD;
+          -  If has a history of hypertension in the last 3 months, must have been receiving&#xD;
+             appropriate anti-hypertensive therapy in accordance with local guidelines.&#xD;
+&#xD;
+          -  Evidence of moderate or severe hepatic impairment (Child-Pugh Class B or C).&#xD;
+&#xD;
+          -  Estimated GFR (eGFR) &lt;30 mL/min/1.73m2 (based on CKD-EPI formula).&#xD;
+&#xD;
+          -  Prior to a participant's study entry, known allergies or intolerance to Brilacidin or&#xD;
+             formulation excipients.&#xD;
+&#xD;
+          -  Any serious medical or psychiatric condition or test abnormality(ies) that, in the&#xD;
+             investigator's judgment, puts the participant at significant risk, could confound the&#xD;
+             study results, or may interfere significantly with the subject's safe participation in&#xD;
+             and completion of the study.&#xD;
+&#xD;
+          -  Pregnancy or breast-feeding, or positive urine or serum pregnancy test in a pre-dose&#xD;
+             assessment.&#xD;
+&#xD;
+          -  Women of child-bearing potential, defined as all women physiologically capable of&#xD;
+             becoming pregnant, unless they are using effective methods of contraception throughout&#xD;
+             the study and for up to 30 days after stopping treatment.&#xD;
+&#xD;
+          -  Sexually active males with female partners of childbearing potential unwilling to use&#xD;
+             a condom when engaging in intercourse of reproductive potential throughout the study&#xD;
+             and for up to 30 days after stopping treatment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Innovation Pharmaceuticals Inc.</last_name>
+    <role>Study Director</role>
+    <affiliation>Innovation Pharmaceuticals, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Central Contact</last_name>
+    <phone>978-921-4125</phone>
+    <email>info@ipharminc.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>IPI Investigator Site</name>
+      <address>
+        <city>Winfield</city>
+        <state>Illinois</state>
+        <zip>60190</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IPI Investigator Site</name>
+      <address>
+        <city>Metairie</city>
+        <state>Louisiana</state>
+        <zip>70006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IPI Investigator Site</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IPI Investigator Site</name>
+      <address>
+        <city>Barnaul</city>
+        <zip>656045</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IPI Investigator Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>111398</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IPI Investigator Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>119048</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IPI Investigator Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>121359</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IPI Investigator Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>125367</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IPI Investigator Site</name>
+      <address>
+        <city>Nizniy Novgorod</city>
+        <zip>603155</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IPI Investigator Site</name>
+      <address>
+        <city>Pushkin</city>
+        <zip>196600</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IPI Investigator Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>194104</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IPI Investigator Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>198205</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IPI Investigator Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>198510</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IPI Investigator Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>199106</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 5, 2021</study_first_posted>
+  <last_update_submitted>March 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>novel coronavirus</keyword>
+  <keyword>Brilacidin</keyword>
+  <keyword>COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

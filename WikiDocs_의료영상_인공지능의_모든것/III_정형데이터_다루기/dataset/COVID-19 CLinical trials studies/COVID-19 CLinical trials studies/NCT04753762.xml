@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1053">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04753762</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020PI086</org_study_id>
+    <nct_id>NCT04753762</nct_id>
+  </id_info>
+  <brief_title>Multimodal IMAgery Characterization of Cardiac Damage and Severity After COVID-19 Infection</brief_title>
+  <acronym>IMACovid</acronym>
+  <official_title>Multimodal IMAgery (Echocardiography and Cardiac MRI) Characterization of Cardiac Damage and Severity After COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Central Hospital, Nancy, France</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Central Hospital, Nancy, France</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus Disease 2019 (COVID-19) is an infection caused by Severe Acute Respiratory&#xD;
+      Syndrome Coronavirus (SARS-CoV-2), which affects multiple organ system particularly the lung&#xD;
+      and heart. Indeed, SARS CoV-2 has various cardiac manifestations which are associated with&#xD;
+      higher mortality and morbidity. Cardiac involvement, based on elevated levels of myocardial&#xD;
+      enzymes, have been described in 20 to 30% of COVID-19 infection. However, the&#xD;
+      physiopathological mechanisms of myocardial injury remains unclear. Main hypothesis include&#xD;
+      inflammation and cytokine storm, hypercoagulability and vascular thrombosis, inflammation or&#xD;
+      stress leading to coronary plaque rupture (type I myocardial infarction), supply-demand&#xD;
+      mismatch and hypoxemia resulting in myocardial damage (type II myocardial infarction) ...&#xD;
+&#xD;
+      Two patterns can be identified : ischemic or non-ischemic pattern including myocarditis,&#xD;
+      stress induced cardiomyopathy, thrombo-embolic disease. However, the consequences of&#xD;
+      myocardial damage after confirmed COVID-19 infection are unknown at medium to long term&#xD;
+      prognosis.&#xD;
+&#xD;
+      Data are needed to identify myocardial damage and to guide effective therapies and follow-up&#xD;
+      (use of ACE inhibitor, beta-blockers, steroids...? ) In this study, the investigators&#xD;
+      proposed to collect multimodal cardiac imaging including MRI (Magnetic Resonance Imaging) and&#xD;
+      TTE (Transthoracic echocardiogram) in order to identify and characterize cardiac injury as&#xD;
+      ischemic or non-ischemic pattern, to better assess risk stratification and to guide effective&#xD;
+      therapies if necessary.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Anticipated">November 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To Characterize cardiac involvement by cardiac TTE imaging during 4 months after confirmed COVID-19 infection</measure>
+    <time_frame>1 to 4 months after COVID 19 infection</time_frame>
+    <description>Cardiac TTE imaging is performed during 4 months after COVID-19 infection in patients with suspected cardiac involvement (increase troponin level&gt;50ng/ml or left ventricular dysfunction during hospitalisation for COVID-19 infection) in order to determine tissular characterization, in particular the presence of ischemic or non-ischemic pattern.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To Characterize cardiac involvement by cardiac MRI during 4 months after confirmed COVID-19 infection</measure>
+    <time_frame>1 to 4 months after COVID 19 infection</time_frame>
+    <description>Cardiac MRI is performed during 4 months after COVID-19 infection in patients with suspected cardiac involvement (increase troponin level&gt;50ng/ml or left ventricular dysfunction during hospitalisation for COVID-19 infection) in order to determine tissular characterization, in particular the presence of ischemic or non-ischemic pattern.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To characterize cardiac evolution at 12 +/-2 months from COVID-19 infection</measure>
+    <time_frame>12 +/- 2 months</time_frame>
+    <description>Cardiac imaging are performed 12 +/-2 months after COVID-19 infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate Cardiac events at 12 +/-2 months from COVID-19 infection</measure>
+    <time_frame>12+/-2 months</time_frame>
+    <description>Follow-up at 12+/-2 months from COVID-19 infection :&#xD;
+- medical consultation to collect cardiac events (heart failure, arrythmias, chest pain).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate all cause deaths at 12 +/-2 months from COVID-19 infection</measure>
+    <time_frame>12+/-2 months</time_frame>
+    <description>Follow-up at 12+/-2 months from COVID-19 infection :&#xD;
+- status (dead or alive)</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>COVID-19 Virus Disease</condition>
+  <condition>Cardiac Complication</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients increase troponin level &gt; 50ng/ml or left ventricular dysfunction assessed by&#xD;
+        echocardiography during hospitalization for confirmed COVID-19 infection&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Cardiac involvement confirmed : increase troponin level &gt; 50pg/ml or left ventricular&#xD;
+             dysfunction assessed by echocardiography during hospitalization for confirmed COVID-19&#xD;
+             infection&#xD;
+&#xD;
+          -  Absence of severe renal failure (CKD EPI &gt; 30ml/min/1.73m²)&#xD;
+&#xD;
+          -  Cardic imaging (MRI and TTE) performed during 4 months from COVID-19 infection&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Cardiovascular history (ischemic or valvular disease, dilated cardiomyopathy, cardiac&#xD;
+             surgery...)&#xD;
+&#xD;
+          -  Vulnerable patient (pregnancy, adult under legal protection)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>79 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Laura FILIPPETTI, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHRU NANCY</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Laura FILIPPETTI, MD</last_name>
+    <phone>+33383153240</phone>
+    <email>l.filippetti@chru-nancy.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Aboubaker CHERIFI, Ms</last_name>
+    <email>a.cherifi@chru-nancy.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Laura FILIPPETTI</name>
+      <address>
+        <city>Vandœuvre-lès-Nancy</city>
+        <zip>54500</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laura FILIPPETTI, MD</last_name>
+      <phone>+33383153240</phone>
+      <email>l.filippetti@chru-nancy.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <results_reference>
+    <citation>Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585. Erratum in: JAMA. 2021 Mar 16;325(11):1113.</citation>
+    <PMID>32031570</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bavishi C, Bonow RO, Trivedi V, Abbott JD, Messerli FH, Bhatt DL. Special Article - Acute myocardial injury in patients hospitalized with COVID-19 infection: A review. Prog Cardiovasc Dis. 2020 Sep - Oct;63(5):682-689. doi: 10.1016/j.pcad.2020.05.013. Epub 2020 Jun 6. Review.</citation>
+    <PMID>32512122</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Driggin E, Madhavan MV, Bikdeli B, Chuich T, Laracy J, Biondi-Zoccai G, Brown TS, Der Nigoghossian C, Zidar DA, Haythe J, Brodie D, Beckman JA, Kirtane AJ, Stone GW, Krumholz HM, Parikh SA. Cardiovascular Considerations for Patients, Health Care Workers, and Health Systems During the COVID-19 Pandemic. J Am Coll Cardiol. 2020 May 12;75(18):2352-2371. doi: 10.1016/j.jacc.2020.03.031. Epub 2020 Mar 19. Review.</citation>
+    <PMID>32201335</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Inciardi RM, Lupi L, Zaccone G, Italia L, Raffo M, Tomasoni D, Cani DS, Cerini M, Farina D, Gavazzi E, Maroldi R, Adamo M, Ammirati E, Sinagra G, Lombardi CM, Metra M. Cardiac Involvement in a Patient With Coronavirus Disease 2019 (COVID-19). JAMA Cardiol. 2020 Jul 1;5(7):819-824. doi: 10.1001/jamacardio.2020.1096.</citation>
+    <PMID>32219357</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Babapoor-Farrokhran S, Gill D, Walker J, Rasekhi RT, Bozorgnia B, Amanullah A. Myocardial injury and COVID-19: Possible mechanisms. Life Sci. 2020 Jul 15;253:117723. doi: 10.1016/j.lfs.2020.117723. Epub 2020 Apr 28. Review.</citation>
+    <PMID>32360126</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Xu Z, Shi L, Wang Y, Zhang J, Huang L, Zhang C, Liu S, Zhao P, Liu H, Zhu L, Tai Y, Bai C, Gao T, Song J, Xia P, Dong J, Zhao J, Wang FS. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. Lancet Respir Med. 2020 Apr;8(4):420-422. doi: 10.1016/S2213-2600(20)30076-X. Epub 2020 Feb 18. Erratum in: Lancet Respir Med. 2020 Feb 25;:.</citation>
+    <PMID>32085846</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Barton LM, Duval EJ, Stroberg E, Ghosh S, Mukhopadhyay S. COVID-19 Autopsies, Oklahoma, USA. Am J Clin Pathol. 2020 May 5;153(6):725-733. doi: 10.1093/ajcp/aqaa062. Erratum in: Am J Clin Pathol. 2020 May 5;153(6):852.</citation>
+    <PMID>32275742</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Agewall S, Beltrame JF, Reynolds HR, Niessner A, Rosano G, Caforio AL, De Caterina R, Zimarino M, Roffi M, Kjeldsen K, Atar D, Kaski JC, Sechtem U, Tornvall P; WG on Cardiovascular Pharmacotherapy. ESC working group position paper on myocardial infarction with non-obstructive coronary arteries. Eur Heart J. 2017 Jan 14;38(3):143-153. doi: 10.1093/eurheartj/ehw149.</citation>
+    <PMID>28158518</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Imazio M, Klingel K, Kindermann I, Brucato A, De Rosa FG, Adler Y, De Ferrari GM. COVID-19 pandemic and troponin: indirect myocardial injury, myocardial inflammation or myocarditis? Heart. 2020 Aug;106(15):1127-1131. doi: 10.1136/heartjnl-2020-317186. Epub 2020 Jun 4. Review.</citation>
+    <PMID>32499236</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </results_reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 15, 2021</study_first_posted>
+  <last_update_submitted>February 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Central Hospital, Nancy, France</investigator_affiliation>
+    <investigator_full_name>Laura FILIPPETTI</investigator_full_name>
+    <investigator_title>Doctor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Virus Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

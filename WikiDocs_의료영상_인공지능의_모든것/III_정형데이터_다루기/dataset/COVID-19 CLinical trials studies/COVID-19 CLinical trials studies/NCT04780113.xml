@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4220">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04780113</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-A03283-36</org_study_id>
+    <secondary_id>CHES N°20/01</secondary_id>
+    <nct_id>NCT04780113</nct_id>
+  </id_info>
+  <brief_title>Evolution of Perceived Stress in General Practice Residents During COVID-19 Sanitary Crisis</brief_title>
+  <official_title>Evaluation of Evolution of Perceived Stress in General Practice Residents of Rouen and Caen During COVID-19 Sanitary Crisis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Eure-Seine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Eure-Seine</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Over the last several years, distress among healthcare professionnals is well described, and&#xD;
+      general practice residents are also affected. Because of COVID-19 sanitary crisis, stress&#xD;
+      factors are increased, and that may cause anxiety, exhaustion, psychic distress, depression,&#xD;
+      addictions, or post traumatic stress.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This prospective non-interventional study aims to evaluate via two questionnaires the&#xD;
+      evolution of perceived stress in general practice residents of two centres in France, Rouen&#xD;
+      and Caen. The two questionnaires contain the Perceived Stress Scale, as well as items&#xD;
+      regarding socio-demographic data and stress factors. The first questionnaire is to be&#xD;
+      distributed during the epidemic COVID-19 wave and the second questionnaire at the end of the&#xD;
+      epidemic COVID-19 wave.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 25, 2021</start_date>
+  <completion_date type="Anticipated">October 25, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 25, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evolution of perceived stress during the epidemic wave of COVID19 vs. at the end of the epidemic wave of COVID19</measure>
+    <time_frame>maximum 6 months, according to the evolution of the epidemic</time_frame>
+    <description>The perceived stress will be evaluated using the Perceived Stress Scale</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Description of general characteristics of residents and their feelings and experiences with the sanitary crisis</measure>
+    <time_frame>maximum 6 months, according to the evolution of the epidemic</time_frame>
+    <description>This include socio-demographic characteristics, work-related information and potential stress factors</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of residents' profile stress according to their socio-demographic and working characteristics</measure>
+    <time_frame>maximum 6 months, according to the evolution of the epidemic</time_frame>
+    <description>Identification of stress factors among residents</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">285</enrollment>
+  <condition>Stress</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants being general practice residents in Caen or Rouen&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Being a general practice resident in Rouen or Caen&#xD;
+&#xD;
+          -  Participant informed and non-objection of him/her&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Being on maternity leave or not working during the period concerned with the&#xD;
+             questionnaires&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ségolène Guillemette, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>General Practice Physician</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sorina Mihailescu, MD</last_name>
+    <phone>+33232338833</phone>
+    <email>sorina-dana.mihailescu@ch-eureseine.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CH Eure-Seine</name>
+      <address>
+        <city>Évreux</city>
+        <zip>27015</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sorina Mihailescu, MD</last_name>
+      <phone>+33232338833</phone>
+      <email>sorina-dana.mihailescu@ch-eureseine.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Ségolène Guillemette, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>March 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5532">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04767568</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020/539</org_study_id>
+    <nct_id>NCT04767568</nct_id>
+  </id_info>
+  <brief_title>Exploratory Study of the Relevance of a Blood Test in the Management of Patients in the Context of Colorectal Cancer Screening</brief_title>
+  <acronym>PREDICT-IRFC</acronym>
+  <official_title>Exploratory Study of the Relevance of a Blood Test in the Management of Patients in the Context of Colorectal Cancer Screening</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Besancon</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Besancon</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Colorectal cancer (CRC) is the third most common cancer in men and the second in women with&#xD;
+      an incidence of 43,350 new cases in 2018. This incidence is increasing every year.&#xD;
+&#xD;
+      Early detection is crucial in this pathology. In France, free screening is organized by&#xD;
+      health insurance for people aged 50 to 74 years. This screening is based on an immunological&#xD;
+      test (FIT: Fecal Immunological test), which aims to detect the presence of blood in the&#xD;
+      stool. In fact, some polyps or cancers cause bleeding that is often minimal and therefore&#xD;
+      difficult or even impossible to detect with the naked eye.&#xD;
+&#xD;
+      If this test is positive, a colonoscopy is done to check whether or not abnormalities are&#xD;
+      present in the colon or rectum. Performed under anesthesia, this examination can detect the&#xD;
+      possible presence of polyps or cancer.&#xD;
+&#xD;
+      Recently, with the covid-19 epidemic, the investigators were faced with an extension of the&#xD;
+      delays for colonoscopies which led to delays in patient care.&#xD;
+&#xD;
+      To prevent this, they propose to develop a blood test that would allow rapid identification&#xD;
+      of patients with colorectal cancer, requiring rapid management.&#xD;
+&#xD;
+      This blood test will permit to have a parameter for stratifying the therapeutic care in the&#xD;
+      event of epidemia or situation that constrains the organisation of the health system.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">September 2027</completion_date>
+  <primary_completion_date type="Anticipated">March 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>sensitivity and specificity of a blood test</measure>
+    <time_frame>one month after surgery, an average of 6 months from inclusion</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>correlation between the biological signature of the test and the stage of the disease in patients whose diagnosis of adenocarcinoma was identified by pathology prior to surgery.</measure>
+    <time_frame>one month after surgery, an average of 6 months from inclusion</time_frame>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Colorectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Blood test</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In Cohort A: 200 patients with suspected colorectal cancer following a positive immunological test during screening (presence of blood detected in the stool) OR with gross bleeding&#xD;
+In cohort B: 200 patients who have already performed colonoscopy candidates for surgery on their colorectal tumor</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Blood sample</intervention_name>
+    <description>In cohort A: Blood sample n°1 (PBMC, plasma, ctDNA) previous colonoscopy. If no cancer lesions: STOP. If cancer lesion detected : Blood sample n°2 (PBMC, plasma, ctDNA) collected 1 month after surgery.&#xD;
+In cohort B: Blood sample n°1 (PBMC, plasma, ctDNA) collected before surgery. Blood sample n°2 (PBMC, plasma, ctDNA) collected 1 month after surgery</description>
+    <arm_group_label>Blood test</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Tumor tissue</intervention_name>
+    <description>In each cohort, tumor tissue will be collected from the surgical specimen.</description>
+    <arm_group_label>Blood test</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients aged more than18 years&#xD;
+&#xD;
+          -  Cohort A : patients with suspected colorectal cancer following a positive&#xD;
+             immunological test during screening (presence of blood detected in the stool) or with&#xD;
+             gross bleeding OR Cohort B : patients who have already performed colonoscopy (on&#xD;
+             symptoms, or because of family history, or other ...), for whom the diagnosis of&#xD;
+             adenocarcinoma was identified by pathology prior to surgery, candidates for surgery on&#xD;
+             their colorectal tumor&#xD;
+&#xD;
+          -  Signed and dated informed consent&#xD;
+&#xD;
+          -  Patient affiliated to or beneficiary of French social security system.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Vulnerable persons according to the law (minors, adults under protection, persons&#xD;
+             deprived of liberty ...)&#xD;
+&#xD;
+          -  Not ability to comply with the study protocol, in the Investigator's judgment&#xD;
+&#xD;
+          -  pregnant woman&#xD;
+&#xD;
+          -  Patient in the period of exclusion of another study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Christophe BORG, Pr</last_name>
+    <phone>+33381668166</phone>
+    <email>christophe.borg@efs.sante.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU de Besançon</name>
+      <address>
+        <city>Besançon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Christophe BORG</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Nord-Franche-Comté</name>
+      <address>
+        <city>Montbéliard</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Stefano KIM, Dr</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Intercommunal de Haute-Saône</name>
+      <address>
+        <city>Vesoul</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Christophe BORG, Pr</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>December 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>February 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 23, 2021</study_first_posted>
+  <last_update_submitted>February 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>blood test</keyword>
+  <keyword>early detection</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1341">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04504240</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10000753/980</org_study_id>
+    <nct_id>NCT04504240</nct_id>
+  </id_info>
+  <brief_title>Role of Famotidine in the Clinical Improvement of COVID-19 Patients.</brief_title>
+  <official_title>Role of Famotidine in the Clinical Recovery and Symptomatic Improvement of COVID-19 Patients.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chattogram General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>M Abdur Rahim Medical College and Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>First Affiliated Hospital Xi'an Jiaotong University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Chattogram General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is aimed to investigate the effect of Famotidine in the clinical recovery of&#xD;
+      COVID-19 patients. COVID19 is a worldwide pandemic. Hence SARS-CoV-2 is a novel virus; there&#xD;
+      is no specific medication against it. Like other countries of the world, Besides antiviral&#xD;
+      drugs, immunosuppressive agents, and symptomatic therapy like H2 receptor blocker FAMOTIDINE&#xD;
+      came to the limelight due to its role in reducing the symptoms of COVID-19 patients. The&#xD;
+      study will include COVID-19 participants to confirm by RT PCR or an HRCT chest. Detail&#xD;
+      history of each participant with comorbidity will be taken and will be examined carefully.&#xD;
+      The hospitalized patients admitted to the HDU/ICU units will be enrolled in this study.&#xD;
+      Critically ill patients who require ventilator support will not be included in this study.&#xD;
+      The outcome of the Famotidine treatment will be evaluated and compared with a control group.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">August 1, 2020</start_date>
+  <completion_date type="Anticipated">April 10, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 10, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to Clinical Improvement (TTCI)</measure>
+    <time_frame>Following randomization 30days.</time_frame>
+    <description>Time to clinical improvement (TTCI) was defined as time from randomization to National Early Warning Score 2 (NEWS2) Score of ≤2 maintained for 24 Hours.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to symptomatic recovery.</measure>
+    <time_frame>Following randomization 30 days.</time_frame>
+    <description>Time to Symptomatic recovery was defined as the duration (in days) that required for the relief of the COVID-19 symptoms from the day of hospitalization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mortality Rate</measure>
+    <time_frame>Following randomization 30 days.</time_frame>
+    <description>Mortality Rate in percentage in study groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of ICU Stay.</measure>
+    <time_frame>Following randomization 30 days.</time_frame>
+    <description>Duration of ICU Stay in days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total hospital stay.</measure>
+    <time_frame>Following randomization 30 days.</time_frame>
+    <description>Time from randomization to hospital discharge or &quot;Ready for discharge&quot; (as evidenced by normal body temperature and respiratory rate, and stable oxygen saturation on ambient Air or ≤4L supplemental oxygen).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to clinical failure or death.</measure>
+    <time_frame>Following randomization 30 days.</time_frame>
+    <description>Time to clinical failure, defined as the time from randomization to the first occurrence of death, mechanical ventilation or withdrawal (whichever occurs first).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Viral clearance / COVID-19 recovery.</measure>
+    <time_frame>Following randomization 60 days.</time_frame>
+    <description>This was defined as the duration (in days) from the first positive PCR to the first negative PCR (Confirmed by a repeat negative PCR after 7days) for SARS-Cov-2 infection following hospital discharge.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Group A: FAMOTIDINE treatment group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>FAMOTIDINE 40mg to 60mg 8hourly in an empty stomach along with other treatments.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B: Control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Treatment as given with a PPI.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Famotidine 20 MG</intervention_name>
+    <description>Famotidine; tablet Famotac 20mg oral form.</description>
+    <arm_group_label>Group A: FAMOTIDINE treatment group</arm_group_label>
+    <arm_group_label>Group B: Control group</arm_group_label>
+    <other_name>Famotac 20mg</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  SARS-CoV-2 infection confirmed by RT PCR or CT Chest.&#xD;
+&#xD;
+          -  Severe COVID-19 patients require hospitalization under HDU/ICU.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with severe and/or uncontrolled medical conditions with significantly&#xD;
+             compromised organ function.&#xD;
+&#xD;
+          -  Patients who were hospitalized from the before due to other reasons.&#xD;
+&#xD;
+          -  Contraindication / possible drug interaction with Famotidine with existing therapy.&#xD;
+&#xD;
+          -  Immunocompromised patients.&#xD;
+&#xD;
+          -  Pregnancy, Pulmonary Tuberculosis, AIDS&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Abu Taiub Mohammed Mohiuddin Chowdhury, MBBS, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>First Affiliated Hospital Xi'an Jiaotong University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Chattogram General Hospital</name>
+      <address>
+        <city>Chittagong</city>
+        <zip>4000</zip>
+        <country>Bangladesh</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>M. Abdur Rahim Medical College Hospital</name>
+      <address>
+        <city>Dinājpur</city>
+        <country>Bangladesh</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Bangladesh</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>August 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 7, 2020</study_first_posted>
+  <last_update_submitted>March 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>First Affiliated Hospital Xi'an Jiaotong University</investigator_affiliation>
+    <investigator_full_name>Abu Taiub Mohammed Mohiuddin Chowdhury</investigator_full_name>
+    <investigator_title>Doctoral Resident</investigator_title>
+  </responsible_party>
+  <keyword>COVID 19</keyword>
+  <keyword>Famotidine</keyword>
+  <keyword>Bangladesh</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Famotidine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4380">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04750018</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KSVGH20-CT7-26</org_study_id>
+    <nct_id>NCT04750018</nct_id>
+  </id_info>
+  <brief_title>Influence of Co-Vid 19 Pandemic on Screening Mammography Single Institution</brief_title>
+  <official_title>Influence of Co-Vid 19 Pandemic on Screening Mammography in a Single Institution</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chen-Pin Chou</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Kaohsiung Veterans General Hospital.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess whether the COVID-19 pandemic delayed breast cancer diagnosis in Taiwan, an Asian&#xD;
+      country with a low COVID-19 incidence.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The institutional review board approved this retrospective study at a public academic medical&#xD;
+      center. The monthly volume of breast biopsies and breast cancers during the COVID-19 pandemic&#xD;
+      (between January 1 and July 31, 2020) was compared to the same period a year earlier&#xD;
+      (pre-COVID-19).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 3, 2020</start_date>
+  <completion_date type="Anticipated">June 1, 2021</completion_date>
+  <primary_completion_date type="Actual">September 28, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>breast cancer</measure>
+    <time_frame>1 year</time_frame>
+    <description>Breast cancer or not</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 2019</arm_group_label>
+    <description>Patients receiving biopsies with a BI-RADS assessment of 4 or 5 from mammographic or ultrasonographic exams or combinations of tests were analyzed [4]. We further categorized the biopsy data as ultrasound-guided or mammograph-guided biopsy based on procedure coding. Ultrasound-guided core needle biopsy (CNB) was performed for breast lesions visible on ultrasound.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 2020</arm_group_label>
+    <description>Patients receiving biopsies with a BI-RADS assessment of 4 or 5 from mammographic or ultrasonographic exams or combinations of tests were analyzed [4]. We further categorized the biopsy data as ultrasound-guided or mammograph-guided biopsy based on procedure coding. Ultrasound-guided core needle biopsy (CNB) was performed for breast lesions visible on ultrasound.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>surgery</intervention_name>
+    <description>Patients were divided into surgery and no disease.</description>
+    <arm_group_label>COVID-19 2020</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The test period of the COVID-19 pandemic was between January 1 and July 31, 2020. Moreover,&#xD;
+        the control period of the pre-COVID-19 pandemic was between January 1 and July 31, 2019,&#xD;
+        before there was any report about the virus. Only patients with complete medical records&#xD;
+        were eligible for enrollment in this study. Confirmed COVID-19 case numbers in Taiwan were&#xD;
+        acquired from Taiwan's National Health Command Center [7]. Anonymized records of breast&#xD;
+        biopsies and cancer registration in a single institution in southern Taiwan in the&#xD;
+        pre-COVID-19 and COVID-19 periods were reviewed.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Receiving breast exam 2019-2020&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  lost clinical follow-up&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chen-Pin Chou, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Kaohsiung Veterans General Hospital.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Chen-Pin Chou, MD</last_name>
+    <phone>*886-3422121</phone>
+    <phone_ext>6524</phone_ext>
+    <email>chouchenpin@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Radiology depart</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>813</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <results_reference>
+    <citation>Chou CP, Pan HB, Yang TL, Chiang CL, Huang JS, Tsai MY. Impact of the COVID-19 pandemic on the volume of mammography examinations in Southern Taiwan. Breast J. 2021 Jan;27(1):89-91. doi: 10.1111/tbj.14019. Epub 2020 Aug 20.</citation>
+    <PMID>32815587</PMID>
+  </results_reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 11, 2021</study_first_posted>
+  <last_update_submitted>February 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Kaohsiung Veterans General Hospital.</investigator_affiliation>
+    <investigator_full_name>Chen-Pin Chou</investigator_full_name>
+    <investigator_title>Radiologist</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Breast Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>The data that support the findings of this study are available on reasonable request from the corresponding author. Some data are not publicly available due to their containing information that could compromise the privacy of research participants.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

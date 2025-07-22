@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1985">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04806113</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MP-37-2021-7562</org_study_id>
+    <nct_id>NCT04806113</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Vaccine in Immunosuppressed Adults With Autoimmune Diseases</brief_title>
+  <acronym>COVIAAD</acronym>
+  <official_title>COVID-19 Vaccine in Immunosuppressed Adults With Autoimmune Diseases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McGill University Health Centre/Research Institute of the McGill University Health Centre</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>CHU de Quebec-Universite Laval</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ministere de la Sante et des Services Sociaux</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>McGill University Health Centre/Research Institute of the McGill University Health Centre</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the Moderna RNA-based COVID-19 vaccine currently approved by Health&#xD;
+      Canada in people with rheumatic diseases. This study will help understand what the side&#xD;
+      effects of the vaccine in these patients are, and what is their capacity to develop&#xD;
+      antibodies that may confer protection from the COVID-19 disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study is to evaluate the safety, local reactions (reactogenicity),&#xD;
+      capacity to form antibodies against the coronavirus (immunogenicity) and long-term&#xD;
+      persistence of those antibodies following two doses of a Health Canada approved RNA-based&#xD;
+      COVID-19 vaccine in patients with rheumatic diseases.&#xD;
+&#xD;
+      Two doses from the Moderna vaccine will be administered intramuscularly. The time between&#xD;
+      dose 1 and dose 2 of the vaccine will be 28 days.&#xD;
+&#xD;
+      This research study will recruit 220 participants (165 patients and 55 healthy controls), men&#xD;
+      and women, aged 18 years or older.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 11, 2021</start_date>
+  <completion_date type="Anticipated">March 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 11, 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Non-randomized, open label, comparative clinical trial with pragmatic features.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency and grade of each solicited local and systemic adverse events (AEs)</measure>
+    <time_frame>during a 7-day follow-up period post each vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency and grade of any unsolicited AEs (including 'significant disease flares'*)</measure>
+    <time_frame>during the 28-day follow-up period post-each vaccine dose.</time_frame>
+    <description>* 'Significant' disease flares: defined as worsening of clinical disease activity documented by the treating physician and requiring intensification of therapy.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean titer (GMT) of antibody</measure>
+    <time_frame>at Day 57</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients who seroconverted</measure>
+    <time_frame>baseline and Day 57</time_frame>
+    <description>defined as a 4-fold increase in antibody titer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean fold rise (GMFR) in IgG titer</measure>
+    <time_frame>baseline and Day 57</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Geometric mean titer (GMT) of antibody</measure>
+    <time_frame>Day 28</time_frame>
+    <description>post-first vaccine dose</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Geometric mean titer (GMT) of neutralizing antibody</measure>
+    <time_frame>Day 57</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>CD4 and CD8 T cell responses</measure>
+    <time_frame>baseline, Day 57</time_frame>
+    <description>percent of CD4 and CD8 T cells that produce IFNγ following exposure to overlapping peptide pool representing the vaccine-encoded receptor binding domain (RBD).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Effect of age on Geometric mean titer (GMT) in RA patients</measure>
+    <time_frame>baseline, Day 57</time_frame>
+    <description>Will be assessed by comparing RA treated with JAKs versus biologics versus RTX in age adjusted models.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Geometric mean titer (GMT) in RA versus age-matched controls</measure>
+    <time_frame>baseline, Day 57</time_frame>
+    <description>Will be assessed by comparing RA versus HC in age adjusted models.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Geometric mean titer (GMT)</measure>
+    <time_frame>baseline, Month 6 and Month 12</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Percentage of patients who seroconverted</measure>
+    <time_frame>baseline, Day 57</time_frame>
+    <description>defined as a 4-fold increase in neutralizing antibody titer</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Geometric mean fold rise (GMFR) of neutralizing antibody titer</measure>
+    <time_frame>baseline, Day 57</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Effect of treatment on Geometric mean titer (GMT) in RA patients</measure>
+    <time_frame>baseline, Day 57</time_frame>
+    <description>Will be assessed by comparing RA treated with JAKs versus biologics versus RTX in age adjusted models.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">220</enrollment>
+  <condition>Covid19</condition>
+  <condition>Rheumatic Diseases</condition>
+  <condition>Rheumatoid Arthritis</condition>
+  <condition>SLE</condition>
+  <arm_group>
+    <arm_group_label>Vaccine</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Study participants (People with rheumatic diseases and age matched controls).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Moderna COVID-19 vaccine</intervention_name>
+    <description>Two doses from the Moderna vaccine will be administered intramuscularly. The time between dose 1 and dose 2 of the vaccine will be 28 days.</description>
+    <arm_group_label>Vaccine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria (all of the following):&#xD;
+&#xD;
+          1. Adults ages 18 years and older;&#xD;
+&#xD;
+          2. For the cases, established diagnosis of:&#xD;
+&#xD;
+               1. RA done by a rheumatologist according to the 2010 American College of&#xD;
+                  Rheumatology (ACR) /European League Against Rheumatism (EULAR) criteria, OR&#xD;
+&#xD;
+               2. SLE done by a rheumatologist according to the 1997 revised ACR criteria and/or&#xD;
+                  the 2013 SLICC lupus classification criteria and/or the 2019 EULAR/ACR criteria;&#xD;
+&#xD;
+          3. For the cases, stable treatment (≥3 months prior to enrollment for biologics/small&#xD;
+             molecules and MMF; &gt;3 weeks of a specific dose in case of steroids);&#xD;
+&#xD;
+          4. For the controls, people without a diagnosis of a chronic rheumatic disease who can&#xD;
+             have comorbidities as in patients with rheumatic diseases;&#xD;
+&#xD;
+          5. Able to comprehend the investigational nature of the protocol and provide informed&#xD;
+             consent;&#xD;
+&#xD;
+          6. Male or non-pregnant female;&#xD;
+&#xD;
+          7. Women of childbearing potential must agree to use at least one acceptable primary form&#xD;
+             of contraception.&#xD;
+&#xD;
+        Exclusion Criteria (any of the following):&#xD;
+&#xD;
+          1. Positive pregnancy test either at screening or just prior to each vaccine&#xD;
+             administration.&#xD;
+&#xD;
+          2. Any medical disease or condition that, in the opinion of the site Principal&#xD;
+             Investigator (PI) or appropriate sub-investigator, precludes study participation.&#xD;
+&#xD;
+          3. Acute illness, as determined by the site PI or appropriate sub-investigator, with or&#xD;
+             without fever [oral temperature &gt;38.0°C (100.40F)] within 72 hours prior to each&#xD;
+             vaccination.&#xD;
+&#xD;
+          4. Diagnosis of hepatitis B, hepatitis C virus, or human immunodeficiency virus (HIV).&#xD;
+&#xD;
+          5. History of hypersensitivity or severe allergic reaction (e.g., anaphylaxis,&#xD;
+             generalized urticaria, angioedema, other significant reaction) to any previous&#xD;
+             licensed or unlicensed vaccines.&#xD;
+&#xD;
+          6. Participation in another clinical trial or plan to do so during the study. If a&#xD;
+             patient was on a drug trial, recruitment could occur following 2 half-lives of the&#xD;
+             study drug.&#xD;
+&#xD;
+          7. Vaccines within the 2 weeks prior to any dose of COVID-19 vaccine or until 30 days&#xD;
+             after any dose of COVID-19 vaccine.&#xD;
+&#xD;
+          8. Lactating female.&#xD;
+&#xD;
+          9. Immunoglobulin therapy or blood products within the past month.&#xD;
+&#xD;
+         10. Prior diagnosis of COVID-19 in the past 3 months.&#xD;
+&#xD;
+         11. Planned changes in baseline drug treatments (except prednisone) for rheumatic diseases&#xD;
+             prior to D57.&#xD;
+&#xD;
+         12. For patients required to be on cohort 8: Planned reduction of prednisone dose below 10&#xD;
+             mg prior to D21.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ines Colmegna, DR</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>RI-MUHC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ines Colmegna, DR</last_name>
+    <phone>(514) 934-1934</phone>
+    <phone_ext>35639</phone_ext>
+    <email>ines.colmegna@mcgill.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>McGill University Health Centre</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H4A 3J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ines Colmegna, MD</last_name>
+      <phone>514 934 1934</phone>
+      <phone_ext>35639</phone_ext>
+      <email>ines.colmegna@mcgill.ca</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 19, 2021</study_first_posted>
+  <last_update_submitted>March 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>McGill University Health Centre/Research Institute of the McGill University Health Centre</investigator_affiliation>
+    <investigator_full_name>Ines Colmegna</investigator_full_name>
+    <investigator_title>MD, Associate Professor, Rheumatology - Department of Medicine</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rheumatic Diseases</mesh_term>
+    <mesh_term>Collagen Diseases</mesh_term>
+    <mesh_term>Autoimmune Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

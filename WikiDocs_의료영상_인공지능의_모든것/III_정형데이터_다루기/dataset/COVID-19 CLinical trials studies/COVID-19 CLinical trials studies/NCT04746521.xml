@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3162">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04746521</url>
+  </required_header>
+  <id_info>
+    <org_study_id>L. Vanvitelli</org_study_id>
+    <nct_id>NCT04746521</nct_id>
+  </id_info>
+  <brief_title>Cellular-Mediated Immunity in COVID-19</brief_title>
+  <acronym>DEMETRA</acronym>
+  <official_title>DEtection of Cellular-MEdiated immuniTy in COVID-19 Patients and Subjects Who undeRgone vAccination Program</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Campania &quot;Luigi Vanvitelli&quot;</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Campania &quot;Luigi Vanvitelli&quot;</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In order to prevent reinfection, it is needed to detect the cellular-mediated immune response&#xD;
+      to the Sars-CoV-2 infection.&#xD;
+&#xD;
+      The Investigators aim's is to detect the cellular-mediated immune response in patients&#xD;
+      affected by COVID-19 (with or without vaccination) and subjects who undergone vaccination&#xD;
+      program.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Characterization of the immune response requires detailed phenotypic evaluation of the&#xD;
+      adaptive compartment comprising B, T, and NK cells.&#xD;
+&#xD;
+      The Investigators will recruit three classes of subjects:&#xD;
+&#xD;
+        1. Patients with previous Sars-CoV-2 infection who did not undergo vaccination;&#xD;
+&#xD;
+        2. Patients with previous Sars-CoV-2 infection who undergone vaccination&#xD;
+&#xD;
+        3. Subjects without previous Sars-CoV-2 infection who undergone vaccination&#xD;
+&#xD;
+      The Investigators aim's is to detect the cellular-mediated immune response in patients&#xD;
+      affected by COVID-19 and subjects who undergone vaccination program.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Detection of Cellular-Mediated Immune Response</measure>
+    <time_frame>3 Months</time_frame>
+    <description>The Investigators will perform the BD Multitest 6-color TBNK by using 50 uL of peripheral blood to detect the absolute number (N) of CD3+, CD19+, CD16+, CD46+, CD4+ and CD8+ cells.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Detection of Cellular-Mediated Immune Response</measure>
+    <time_frame>3 Months</time_frame>
+    <description>The Investigators will perform the BD™ Lyotubes kit by using 150 uL of peripheral blood to detect the absolute number (N) of CD4+ and CD8+ cells undergoing to differentiation from naive T cells to central memory, effector memory, and terminal memory</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Detection of T cell subpopulation maturation</measure>
+    <time_frame>5 months</time_frame>
+    <description>The Investigators will perform the BD™ Lyotubes kit by using 150 uL of peripheral blood to detect the absolute number (N) of CD4+ and CD8+ cells undergoing to differentiation from naive T cells to central memory, effector memory, and terminal memory.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Detection of T cell subpopulation maturation</measure>
+    <time_frame>5 months</time_frame>
+    <description>The Investigators will perform the BD™ Lyotubes kit by using 150 uL of peripheral blood to detect the % of CD4+ and CD8+ cells undergoing to differentiation from naive T cells to central memory, effector memory, and terminal memory.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Multitest 6 color TBNK and BD Lyotubes</intervention_name>
+    <description>The Multitest 6 color TBNK allows us to count the population-specific B, T, NK cells</description>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Peripheral Blood&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Cases:&#xD;
+&#xD;
+        Patients with previous diagnosed Sars-CoV-2 infection who did undergo vaccination.&#xD;
+&#xD;
+        Patients with previous diagnosed Sars-CoV-2 infection who did not undergo vaccination.&#xD;
+&#xD;
+        Subjects without diagnosed Sars-CoV-2 infection who adhered to vaccination program.&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt; 18 years&#xD;
+&#xD;
+          -  Previous diagnosis of COVID-19&#xD;
+&#xD;
+          -  Absence of COVID-19 diagnosis&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age &lt;18 years&#xD;
+&#xD;
+          -  Inflammatory diseases&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Giuditta Benincasa, BiolD. MSc</last_name>
+    <phone>+39 0815667916</phone>
+    <email>giuditta.benincasa@unicampania.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>U.O.C. Division of Clinical Immunology, Immunohematology, Transfusion Medicine and Transplant Immunology, Regional Reference Laboratory of Transplant Immunology, Department of Internal and Specialty Medicine, A.O.U., UniversityofCampania &quot;Luigi Vanvitelli</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giuditta Benincasa, BiolD, MSc</last_name>
+      <email>giuditta.benincasa@unicampania.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 9, 2021</study_first_posted>
+  <last_update_submitted>February 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Campania &quot;Luigi Vanvitelli&quot;</investigator_affiliation>
+    <investigator_full_name>Giuditta Benincasa</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

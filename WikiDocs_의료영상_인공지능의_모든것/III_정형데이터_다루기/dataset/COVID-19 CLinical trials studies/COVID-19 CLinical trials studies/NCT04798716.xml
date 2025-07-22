@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2855">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04798716</url>
+  </required_header>
+  <id_info>
+    <org_study_id>020582</org_study_id>
+    <nct_id>NCT04798716</nct_id>
+  </id_info>
+  <brief_title>The Use of Exosomes for the Treatment of Acute Respiratory Distress Syndrome or Novel Coronavirus Pneumonia Caused by COVID-19</brief_title>
+  <acronym>ARDOXSO</acronym>
+  <official_title>Mesenchymal Stem Cell Exosomes for the Treatment of COVID-19 Positive Patients With Acute Respiratory Distress Syndrome and/or Novel Coronavirus Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AVEM HealthCare</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AVEM HealthCare</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Novel coronavirus pneumonia (NCP) and acute respiratory distress syndrome (ARDS) are both&#xD;
+      associated with the prevailing upper respiratory tract infections caused by the&#xD;
+      RNA-containing SARS-CoV2 virus of the genius Betacoronavirus of the Coronaviridae family. As&#xD;
+      both the viral infiltration and infection progress, the host immune system response can be&#xD;
+      one of a rapidly developing fatal cytokine storm. In the ARDS or NCP ensuing progression, the&#xD;
+      patient often succumbs to the effects of the hyper pro-inflammatory response, hence&#xD;
+      contributing to the associated increased mortality as a result of the cytokine storm and&#xD;
+      associated pathogenesis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In December of 2019, in Wuhan, China, a novel coronavirus outbreak began. Globally this&#xD;
+      disease referred to as COVID-19, is the result of a novel SARS-CoV2 virus which predominantly&#xD;
+      targets Type II lung alveolar cells (AT2). The hyper response of the host immune system can&#xD;
+      rapidly evolve into a life-threatening cytokine-release syndrome or cytokine storm. The&#xD;
+      cytokine storm can predispose the patient to ARDS and/or NCP., or both. Left unchecked, the&#xD;
+      ARDS pathogenesis rapidly culminates in disruption of cell cytotoxicity mechanisms, excessive&#xD;
+      activation of cytotoxic lymphocytes, and a predominance of type I (M1) macrophage; resulting&#xD;
+      in the massive release of a host of proinflammatory cytokines (FNO-α, IL-1, IL-2, IL-6, IL-8,&#xD;
+      IL-10), granulocytic colony-stimulating factor, monocytic chemoattractive protein 1. The&#xD;
+      result systemically is a rise in surrogate inflammatory markers (C Reactive Protein, serum&#xD;
+      ferritin), with a corresponding infiltration of internal organs and tissues by activated&#xD;
+      macrophage, T-lymphocytes and a predominance of cellular apoptosis. The resulting&#xD;
+      hyperinflammatory pathogenic reaction may result in severe aveolar lesions leading to death,&#xD;
+      scarring, or severe lung damage, persisting well after discharge.&#xD;
+&#xD;
+      Experimental studies have demonstrated that mesenchymal stem cells (MSCs) and MSC-culutre&#xD;
+      media (MSC-CM) may significantly reduce the pro-inflammatory bias and associated pathologic&#xD;
+      impairment resulting. The MSC-CM, known to contain exosomes, has been shown to have an&#xD;
+      anti-inflammatory effect. Further exosomes associated with the amniotic membrane, long used&#xD;
+      in the treatment of burn and wounds, have been show to have a regenerative effect.&#xD;
+&#xD;
+      The purpose of this protocol is to explore the safety and efficacy of an intravenous&#xD;
+      injection of MSC derived exosomes in the treatment of severe patients (moderate to severe&#xD;
+      Berlin score) with ARDS or NCP.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Nested Cohort with Escalating Dose. The trial has three cohorts of 5 patients each. The subsequent cohort will receive an escalating dose of exosomes via intravenous infusion. The final group of 40 participants will be randomized 1:3 (placebo:intervention).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+    <masking_description>Open-label for the first 15 patients treated in dose escalation.&#xD;
+The final 40 participants are included in RCT. Double; participant and physician are masked.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Measure and report the number of participants with treatment-related-adverse events as assessed by CTCAE v4.0; for patients receiving ARDOXSO™, perinatal MSC-derived exosome therapy.</measure>
+    <time_frame>90 Days</time_frame>
+    <description>Quantify safety of ARDOXSO™, an interventional exosome therapy in COVID-19 in participants confirmed with SARS-CoV-2 infection who receive ARDOXSO™ as an intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tabulate and report the number of IMV days for patients receiving ARDOXSO™ perinatal MSC-derived exosome therapy.</measure>
+    <time_frame>90 Days</time_frame>
+    <description>Quantify efficacy of ARDOXSO™, an interventional exosome therapy in COVID-19 in participants confirmed with SARS-CoV-2 infection who receive ARDOXSO™ as an intervention.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Analyze and report organ failure, associated with ICU mortality in participants confirmed with SARS-CoV2 infection, receiving ARDOXSO™ as an interventional exosome therapy.</measure>
+    <time_frame>90 Days from last dose</time_frame>
+    <description>Correlate and analyze the Sequential Organ Failure Assessment (SOFA) score in participants confirmed with SARS-CoV2 infection, receiving ARDOXSO™, an interventional exosome therapy in COVID-19 patients. An increased SOFA score is predictive of increased mortality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Record and analyze respiratory measures (Berlin Score/PEEP) following treatment regime.</measure>
+    <time_frame>90 Days from last dose</time_frame>
+    <description>Berlin Score is a validated measure of Acute Respiratory Distress Syndrome diagnosis, which is common in COVID-19 patients, before and after receiving the interventional exosome therapy, ARDOXSO™.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">55</enrollment>
+  <condition>Covid19</condition>
+  <condition>Novel Coronavirus Pneumonia</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Escalating Dose First Cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>First Cohort:&#xD;
+Five patients will receive an escalating dose every other day for a period of 5 days, with a minimum of 24 hours between doses recorded. Dose escalation will begin at 2 x 10^9 exosomes</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Escalating Dose Second Cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Second Cohort:&#xD;
+Five patients will receive an escalating dose every other day for a period of 5 days, with a minimum of 24 hours between doses recorded. Dose escalation will begin at 4 x 10^9 exosomes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Escalating Dose Third Cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Five patients will receive a treatment dose of 8 X 10^9 exosomes every other day for a period of 5 days, with a minimum of 24 hours between doses recorded.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Dose Fourth Cohort Randomized control ratio 1:3</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Fourth Cohort:&#xD;
+Randomized Cohort Up to 40 patients may be enrolled in this phase of the trial. For those receiving the placebo (~25%), 3 doses will be given over the 5 day period, dispensed from identical vials with physician and patient blinded. The full dose of 8 X 10^9 exosomes will be given to 75% of the patients in 3 doses over the course of 5 days, with one dose occurring every other day.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MSC-exosomes delivered intravenously every other day on an escalating dose: (2:4:8)</intervention_name>
+    <description>Escalating dose 2 X 10^9, 4 X 10^9, 8 X 10^9/mL</description>
+    <arm_group_label>Escalating Dose First Cohort</arm_group_label>
+    <other_name>Ardoxso</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MSC-exosomes delivered intravenously every other day on an escalating dose (8:4:8)</intervention_name>
+    <description>Escalating dose 8 X 10^9, 4 X 10^9, 8 X 10^9 mL</description>
+    <arm_group_label>Escalating Dose Second Cohort</arm_group_label>
+    <other_name>Ardoxso</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MSC-exosomes delivered intravenously every other day (8:8:8)</intervention_name>
+    <description>Dosed 8 X 10^9, 8 X 10^9, 8 X 10^9 mL</description>
+    <arm_group_label>Escalating Dose Third Cohort</arm_group_label>
+    <arm_group_label>Treatment Dose Fourth Cohort Randomized control ratio 1:3</arm_group_label>
+    <other_name>Ardoxso</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Informed Consent given&#xD;
+&#xD;
+          -  Male and female patients age 18 years or older&#xD;
+&#xD;
+          -  Patients with coronavirus (SARS-CoV-2) infection confirmed prior to enrollment by any&#xD;
+             test with local regulatory approval&#xD;
+&#xD;
+          -  Patients who require intensive care as determined by the following objective criteria:&#xD;
+&#xD;
+               -  Respiratory rate&gt;25/minute&#xD;
+&#xD;
+               -  Oxygen saturation &lt;93% on room air; or the&#xD;
+&#xD;
+               -  Use of high flow oxygen by nasal cannula at a rate ≥ 4L/minute.&#xD;
+&#xD;
+          -  Patients with lung imaging demonstrating bilateral or diffuse pulmonary infiltrates on&#xD;
+             chest X-ray or CT scan.&#xD;
+&#xD;
+          -  Patients with moderate to severe ARDS as defined by Berlin Criteria&#xD;
+&#xD;
+          -  Patients who require invasive mechanical ventilation (IMV)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients will be excluded from the study if ONE of the following applies:&#xD;
+&#xD;
+               -  History of hypersensitivity to any drugs of similar classes to exosomes&#xD;
+&#xD;
+               -  Suspected active uncontrolled bacterial, fungal, or viral (besides SARS-CoV-2)&#xD;
+                  infection&#xD;
+&#xD;
+               -  Currently receiving ECMO, nitric oxide therapy, or high-frequency oscillatory&#xD;
+                  ventilation&#xD;
+&#xD;
+               -  In the option of the investigator, the patient is unlikely to survive for more&#xD;
+                  than 24 hours post-enrollment&#xD;
+&#xD;
+               -  Patients who are on long-term use of select oral or injectable anti-rejection or&#xD;
+                  immunomodulatory drugs&#xD;
+&#xD;
+               -  Pregnant or nursing (lacking) women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Tammy C Luttrell, PhD</last_name>
+    <phone>833-957-0079</phone>
+    <email>tammy.luttrell@avemhealthcare.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sant P Chawla, MD</last_name>
+    <email>santchawla@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Mission Community Hospital</name>
+      <address>
+        <city>Panorama City</city>
+        <state>California</state>
+        <zip>91402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sant P Chawla, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Liang X, Zhang L, Wang S, Han Q, Zhao RC. Exosomes secreted by mesenchymal stem cells promote endothelial cell angiogenesis by transferring miR-125a. J Cell Sci. 2016 Jun 1;129(11):2182-9. doi: 10.1242/jcs.170373.</citation>
+    <PMID>27252357</PMID>
+  </reference>
+  <reference>
+    <citation>Leong DJ, Sun HB. Mesenchymal stem cells in tendon repair and regeneration: basic understanding and translational challenges. Ann N Y Acad Sci. 2016 Nov;1383(1):88-96. doi: 10.1111/nyas.13262. Epub 2016 Oct 5. Review.</citation>
+    <PMID>27706825</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang B, Yin Y, Lai RC, Tan SS, Choo AB, Lim SK. Mesenchymal stem cells secrete immunologically active exosomes. Stem Cells Dev. 2014 Jun 1;23(11):1233-44. doi: 10.1089/scd.2013.0479. Epub 2014 Feb 10.</citation>
+    <PMID>24367916</PMID>
+  </reference>
+  <reference>
+    <citation>Yang Y, Peng F, Wang R, Yang M, Guan K, Jiang T, Xu G, Sun J, Chang C. Corrigendum to &quot;The deadly coronaviruses: The 2003 SARS pandemic and the 2020 novel coronavirus epidemic in China&quot; [J. Autoimmun. 109C (2020) 102434]. J Autoimmun. 2020 Jul;111:102487. doi: 10.1016/j.jaut.2020.102487. Epub 2020 May 15.</citation>
+    <PMID>32423578</PMID>
+  </reference>
+  <reference>
+    <citation>Yang Y, Peng F, Wang R, Yange M, Guan K, Jiang T, Xu G, Sun J, Chang C. The deadly coronaviruses: The 2003 SARS pandemic and the 2020 novel coronavirus epidemic in China. J Autoimmun. 2020 May;109:102434. doi: 10.1016/j.jaut.2020.102434. Epub 2020 Mar 3. Review. Erratum in: J Autoimmun. 2020 Jul;111:102487.</citation>
+    <PMID>32143990</PMID>
+  </reference>
+  <reference>
+    <citation>Chien JY, Hsueh PR, Cheng WC, Yu CJ, Yang PC. Temporal changes in cytokine/chemokine profiles and pulmonary involvement in severe acute respiratory syndrome. Respirology. 2006 Nov;11(6):715-22.</citation>
+    <PMID>17052299</PMID>
+  </reference>
+  <reference>
+    <citation>Wang CH, Liu CY, Wan YL, Chou CL, Huang KH, Lin HC, Lin SM, Lin TY, Chung KF, Kuo HP. Persistence of lung inflammation and lung cytokines with high-resolution CT abnormalities during recovery from SARS. Respir Res. 2005 May 11;6:42.</citation>
+    <PMID>15888207</PMID>
+  </reference>
+  <reference>
+    <citation>Atri D, Siddiqi HK, Lang JP, Nauffal V, Morrow DA, Bohula EA. COVID-19 for the Cardiologist: Basic Virology, Epidemiology, Cardiac Manifestations, and Potential Therapeutic Strategies. JACC Basic Transl Sci. 2020 Apr 10;5(5):518-536. doi: 10.1016/j.jacbts.2020.04.002. eCollection 2020 May. Review.</citation>
+    <PMID>32292848</PMID>
+  </reference>
+  <reference>
+    <citation>Ruan L, Wen M, Zeng Q, Chen C, Huang S, Yang S, Yang J, Wang J, Hu Y, Ding S, Zhang Y, Zhang H, Feng Y, Jin K, Zhuge Q. New Measures for the Coronavirus Disease 2019 Response: A Lesson From the Wenzhou Experience. Clin Infect Dis. 2020 Jul 28;71(15):866-869. doi: 10.1093/cid/ciaa386.</citation>
+    <PMID>32246149</PMID>
+  </reference>
+  <reference>
+    <citation>Ruan Q, Yang K, Wang W, Jiang L, Song J. Correction to: Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 Jun;46(6):1294-1297. doi: 10.1007/s00134-020-06028-z.</citation>
+    <PMID>32253449</PMID>
+  </reference>
+  <reference>
+    <citation>Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 May;46(5):846-848. doi: 10.1007/s00134-020-05991-x. Epub 2020 Mar 3. Erratum in: Intensive Care Med. 2020 Apr 6;:.</citation>
+    <PMID>32125452</PMID>
+  </reference>
+  <reference>
+    <citation>Munford RS, Pugin J. Normal responses to injury prevent systemic inflammation and can be immunosuppressive. Am J Respir Crit Care Med. 2001 Feb;163(2):316-21. Review.</citation>
+    <PMID>11179099</PMID>
+  </reference>
+  <reference>
+    <citation>Liu A, Zhang X, He H, Zhou L, Naito Y, Sugita S, Lee JW. Therapeutic potential of mesenchymal stem/stromal cell-derived secretome and vesicles for lung injury and disease. Expert Opin Biol Ther. 2020 Feb;20(2):125-140. doi: 10.1080/14712598.2020.1689954. Epub 2019 Nov 18. Review.</citation>
+    <PMID>31701782</PMID>
+  </reference>
+  <reference>
+    <citation>Tu YF, Chien CS, Yarmishyn AA, Lin YY, Luo YH, Lin YT, Lai WY, Yang DM, Chou SJ, Yang YP, Wang ML, Chiou SH. A Review of SARS-CoV-2 and the Ongoing Clinical Trials. Int J Mol Sci. 2020 Apr 10;21(7). pii: E2657. doi: 10.3390/ijms21072657. Review.</citation>
+    <PMID>32290293</PMID>
+  </reference>
+  <reference>
+    <citation>Chiappelli F, Khakshooy A, Greenberg G. CoViD-19 Immunopathology and Immunotherapy. Bioinformation. 2020 Mar 31;16(3):219-222. doi: 10.6026/97320630016219. eCollection 2020.</citation>
+    <PMID>32308263</PMID>
+  </reference>
+  <reference>
+    <citation>Ringden O, Le Blanc K. Mesenchymal stem cells for treatment of acute and chronic graft-versus-host disease, tissue toxicity and hemorrhages. Best Pract Res Clin Haematol. 2011 Mar;24(1):65-72. doi: 10.1016/j.beha.2011.01.003. Epub 2011 Feb 25. Review.</citation>
+    <PMID>21396594</PMID>
+  </reference>
+  <reference>
+    <citation>Chang YS, Choi SJ, Ahn SY, Sung DK, Sung SI, Yoo HS, Oh WI, Park WS. Timing of umbilical cord blood derived mesenchymal stem cells transplantation determines therapeutic efficacy in the neonatal hyperoxic lung injury. PLoS One. 2013;8(1):e52419. doi: 10.1371/journal.pone.0052419. Epub 2013 Jan 21.</citation>
+    <PMID>23349686</PMID>
+  </reference>
+  <reference>
+    <citation>Gao Y, Sun J, Dong C, Zhao M, Hu Y, Jin F. Extracellular Vesicles Derived from Adipose Mesenchymal Stem Cells Alleviate PM2.5-Induced Lung Injury and Pulmonary Fibrosis. Med Sci Monit. 2020 Apr 18;26:e922782. doi: 10.12659/MSM.922782.</citation>
+    <PMID>32304204</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 15, 2021</study_first_posted>
+  <last_update_submitted>March 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Novel Corona Virus Pneumonia</keyword>
+  <keyword>Exosomes</keyword>
+  <keyword>MSC</keyword>
+  <keyword>Acute Respiratory Distress Syndrome</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2478">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04784481</url>
+  </required_header>
+  <id_info>
+    <org_study_id>5077-410-CH2020</org_study_id>
+    <nct_id>NCT04784481</nct_id>
+  </id_info>
+  <brief_title>Ivermectin Reproposing for Mild Stage COVID-19 Outpatients</brief_title>
+  <acronym>IVER-Leve</acronym>
+  <official_title>Ivermectin Reproposing for COVID-19 Treatment in Outpatients With Mild Stage</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ministry of Public Health, Argentina</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ministry of Public Health, Argentina</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      IMPORTANCE: The emergence of COVID-19 requires alternative treatments based on the reuse of&#xD;
+      drugs as strategies to prevent the progression of the disease, mainly in patients infected&#xD;
+      with SARS-COV-2.&#xD;
+&#xD;
+      OBJECTIVE: To evaluate the use of Ivermectin in mild-stage outpatients to healed and / or&#xD;
+      reverse the progression of COVI-19 disease towards the development of moderate or severe&#xD;
+      stages.&#xD;
+&#xD;
+      PARTICIPANTS, DESIGN AND SETTING: Cluster Assigned Clinical Trial (2:1) in outpatients, n =&#xD;
+      234. The subjects were divided into experimental (EG) and control groups (CG). The EG&#xD;
+      received Ivermectin orally 4 drops of 6 mg = 24 mg every 7 days for 4 weeks. All participants&#xD;
+      were evaluated by physical examination COVID-19 diagnosed with positive RT-PCR at the&#xD;
+      beginning, and final of the protocol. Differences between the variables were determined using&#xD;
+      the Chi-square test. The proportion test was applied to assessment the progressive of symptom&#xD;
+      numbers. The bivariate test was applied to calculate the chance of patient received medical&#xD;
+      release, and logistical regression test were used to assess the probability of medical&#xD;
+      release in association with other variables (age, sex, and comorbidities). The level of&#xD;
+      statistical significance was reached when p&lt; 0.05.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Technical Design:&#xD;
+&#xD;
+      Clinical trial assigned by groups 2:1. The conglomerate of outpatients belonging to the urban&#xD;
+      area was assigned to the Experimental Group (EG) and the outpatients from the peri-urban area&#xD;
+      were assigned to the Control Group (CG). The criteria for this choice were based on the&#xD;
+      geographical distribution of Health Services, locomotion, and logistics in current times of&#xD;
+      pandemic. The 2:1 ratio obeyed the criterion that the greatest number of outpatients received&#xD;
+      the intervention protocol.&#xD;
+&#xD;
+      Sample Size:&#xD;
+&#xD;
+      Sample size was determined by the test comparing two proportions. It were considered the&#xD;
+      following parameters to bilateral test: N = 30,000 Total operating area population for&#xD;
+      services network of Primary Care; 95% confidence level, 3% precision, 5% proportion, n = 201&#xD;
+      sample size without loss, 15% expected proportion of losses. The sample size calculated was n&#xD;
+      = 237 participants.&#xD;
+&#xD;
+      Participants:&#xD;
+&#xD;
+      The total group n = 240 enrolled outpatients from the urban area and peri urban. They&#xD;
+      participated in the study from 1st September 2020 to 30th January 2021. The health coverage&#xD;
+      service was administered by the Health System of the State of Tucumán (SI.PRO.SA, Tucumán,&#xD;
+      Argentina). The people who agreed to participate in the study gave their informed consent&#xD;
+      before starting the study (Research Ethics Committee / Health Research Directorate, file&#xD;
+      number 054/2020).&#xD;
+&#xD;
+      Intervention Protocol:&#xD;
+&#xD;
+      The EG received protocol symptomatic treatment plus Ivermectin orally 4 drops of 6 mg = 24 mg&#xD;
+      every 7 days for 4 weeks (with lunch), CG received symptomatic treatment (500mg paracetamol&#xD;
+      every 6 or 8h, no more than 4 tablets daily; 100mg aspirin, 1 tablet per day with breakfast;&#xD;
+      150mg Ranitidine, 1 tablet in the morning, and 1 tablet at night). Patients with&#xD;
+      comorbidities continued with the basic medication. All participants were evaluated by&#xD;
+      physical examination COVID-19 diagnosed with positive RT-PCR at the beginning, and final of&#xD;
+      the protocol. A medical examination was carried out between 5th and 9th day, and outpatients&#xD;
+      were evaluated every day from the beginning of the study. Enrolled subjects completed symptom&#xD;
+      questionnaires (including reporting of any adverse effects of treatment), physical&#xD;
+      examinations, and received medical release 4 weeks after the start of the intervention, and&#xD;
+      remote clinical telemedicine follow-up.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 20, 2020</start_date>
+  <completion_date type="Actual">January 18, 2021</completion_date>
+  <primary_completion_date type="Actual">December 20, 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Cluster Assigned Clinical Trial (2:1). Experimental Group vs Control Group.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion test</measure>
+    <time_frame>from 5th to 9th day.</time_frame>
+    <description>a) Proportion of symptoms numbers (fever, diarrhea, taste and/or smell disturbance, SpO2, polyarthralgia, headache, body pain, abdominal pain, ALRI symptoms and signs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion test</measure>
+    <time_frame>from 10th to 14th day.</time_frame>
+    <description>Proportion of symptoms numbers (fever, diarrhea, taste and/or smell disturbance, SpO2, polyarthralgia, headache, body pain, abdominal pain, ALRI symptoms and signs)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Odd Ratio</measure>
+    <time_frame>28 days after enrollment</time_frame>
+    <description>Medical release: numbers of participants with absence of clinical symptoms relation to COVID-19 disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Odd Ratio and logistic regression test</measure>
+    <time_frame>28 days after enrollment</time_frame>
+    <description>Relative risk of being cured &quot;with&quot; or &quot;without&quot; treatment</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">240</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS (Severe Acute Respiratory Syndrome)</condition>
+  <arm_group>
+    <arm_group_label>Experimental Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The EG received Ivermectin orally 4 drops of 6 mg = 24 mg every 7 days for 4 weeks.&#xD;
+All participants were evaluated by physical examination COVID-19 diagnosed with positive RT-PCR at the beginning, and final of the protocol</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Conventional treatment. All participants were evaluated by physical examination COVID-19 diagnosed with positive RT-PCR at the beginning, and final of the protocol</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ivermectin</intervention_name>
+    <description>Experimental Group received Ivermectin orally 4 drops of 6 mg = 24 mg every 7 days for 4 weeks.</description>
+    <arm_group_label>Experimental Group</arm_group_label>
+    <other_name>N/D</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Outpatients infected by SARSCoV-2 confirmed either by RT-PCR test, Neo Kit or rapid&#xD;
+             test authorized by ANMAT or by close contact or epidemiological link;&#xD;
+&#xD;
+          -  Women of childbearing age with a negative pregnancy test;&#xD;
+&#xD;
+          -  Patients framed in the definition criteria of mild stage, that is; confirmed presence&#xD;
+             of two or more of the following symptoms: Fever less than 38.5 ° C, Isolated diarrheal&#xD;
+             episodes, Hyposmia or Hypogeusia, Mild desaturation (between 96 and 93%), Dyspnoea,&#xD;
+             Polyarthralgia Persistent headache, Abdominal pain, Erythema of the kidney ,&#xD;
+             nonspecific rash.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Hypersensitivity or allergy to Ivermectin;&#xD;
+&#xD;
+          -  Pregnant or lactating;&#xD;
+&#xD;
+          -  Children or adolescents under 18 years of age;&#xD;
+&#xD;
+          -  Patients with Neurological Pathology, Renal Insufficiency, Hepatic Insufficiency;&#xD;
+&#xD;
+          -  Weight less than 40kg;&#xD;
+&#xD;
+          -  Patients with concomitant use of drugs that act on GABA, barbiturate and&#xD;
+             benzodiazepine receptors;&#xD;
+&#xD;
+          -  Patients who have not completed / signed the informed consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rossana E. Chahla, MD. Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ministery of Health, Tucumán, Argentina</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>SI.PRO.SA, Ministerio de Salud Pública</name>
+      <address>
+        <city>Tucumán</city>
+        <zip>4000</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+  </location_countries>
+  <reference>
+    <citation>Bacchetti P, Leung JM. Sample size calculations in clinical research. Anesthesiology. 2002 Oct;97(4):1028-9; author reply 1029-32.</citation>
+    <PMID>12357184</PMID>
+  </reference>
+  <reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </reference>
+  <reference>
+    <citation>Ashburn TT, Thor KB. Drug repositioning: identifying and developing new uses for existing drugs. Nat Rev Drug Discov. 2004 Aug;3(8):673-83. Review.</citation>
+    <PMID>15286734</PMID>
+  </reference>
+  <reference>
+    <citation>Liu Z, Fang H, Reagan K, Xu X, Mendrick DL, Slikker W Jr, Tong W. In silico drug repositioning: what we need to know. Drug Discov Today. 2013 Feb;18(3-4):110-5. doi: 10.1016/j.drudis.2012.08.005. Epub 2012 Aug 28.</citation>
+    <PMID>22935104</PMID>
+  </reference>
+  <reference>
+    <citation>González Canga A, Sahagún Prieto AM, Diez Liébana MJ, Fernández Martínez N, Sierra Vega M, García Vieitez JJ. The pharmacokinetics and interactions of ivermectin in humans--a mini-review. AAPS J. 2008;10(1):42-6. doi: 10.1208/s12248-007-9000-9. Epub 2008 Jan 25. Review.</citation>
+    <PMID>18446504</PMID>
+  </reference>
+  <results_reference>
+    <citation>Caly L, Druce JD, Catton MG, Jans DA, Wagstaff KM. The FDA-approved drug ivermectin inhibits the replication of SARS-CoV-2 in vitro. Antiviral Res. 2020 Jun;178:104787. doi: 10.1016/j.antiviral.2020.104787. Epub 2020 Apr 3.</citation>
+    <PMID>32251768</PMID>
+  </results_reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 5, 2021</study_first_posted>
+  <last_update_submitted>March 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ministry of Public Health, Argentina</investigator_affiliation>
+    <investigator_full_name>Maria de los Angeles Peral de Bruno</investigator_full_name>
+    <investigator_title>Director of Research - Ministry of Health of Tucumán</investigator_title>
+  </responsible_party>
+  <keyword>Ivermectin</keyword>
+  <keyword>Outpatient</keyword>
+  <keyword>Mild stage</keyword>
+  <keyword>Health Primary Center</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ivermectin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>N/D</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

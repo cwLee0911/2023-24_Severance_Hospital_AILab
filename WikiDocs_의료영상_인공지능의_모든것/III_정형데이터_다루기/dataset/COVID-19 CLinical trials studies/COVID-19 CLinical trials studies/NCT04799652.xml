@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2322">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04799652</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHUB-Farid-vaccination</org_study_id>
+    <nct_id>NCT04799652</nct_id>
+  </id_info>
+  <brief_title>Are Surgeons Ready to Get the COVID-19 Vaccine?</brief_title>
+  <official_title>Are Surgeons Ready to Get the COVID-19 Vaccine?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brugmann University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Brugmann University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The COVID-19 pandemic continues to rage and most of the world is facing a second wave with&#xD;
+      continuous lockdown and strict measures aiming to control it. While vaccination is on its&#xD;
+      way, and has even started in several countries, trust and acceptance remain a challenge for&#xD;
+      an effective vaccination strategy, especially with the increasing vaccination hesitance in&#xD;
+      recent years . It is important to understand the main concerns towards the COVID-19 vaccine&#xD;
+      so they can be addressed in a constructive way - more specifically among health care&#xD;
+      professionals who are at the frontline of the pandemic.&#xD;
+&#xD;
+      The aim of this study is to evaluate whether surgeons are ready for the COVID-19 vaccine and&#xD;
+      to understand their main concerns towards the vaccine.&#xD;
+&#xD;
+      In an objective to evaluate the attitude of doctors towards the COVID vaccine and the effect&#xD;
+      of prolonged lockdown on their psychological burden, the investigators created an anonymous&#xD;
+      survey of 21 questions.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 15, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Perception and knowledge towards the vaccine</measure>
+    <time_frame>15 minutes</time_frame>
+    <description>Survey (21 items). Qualitative questionnaire about the vaccine.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">700</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Doctors within Belgian Hospitals</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Survey</intervention_name>
+    <description>Survey of 21 questions. The questions were divided into sections, evaluating demographics, COVID-19 test status and symptoms, the surgeon's opinion on the COVID-19 vaccination and their main concerns. The questionnaire was completed anonymously between 15/01/2021 and 24/01/2021, before the start of vaccination of health care professionals in a Belgian hospital.</description>
+    <arm_group_label>Doctors within Belgian Hospitals</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Physicians affiliated to Belgian Hospitals&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Physicians affiliated to Belgian Hospitals&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yasser Farid</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU Brugmann</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yasser Farid, MD</last_name>
+    <phone>322495255255</phone>
+    <email>yasser4500@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU Brugmann</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1020</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yasser Farid, MD</last_name>
+      <phone>322495255255</phone>
+      <email>yasser4500@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yasser Farid</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 16, 2021</study_first_posted>
+  <last_update_submitted>March 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brugmann University Hospital</investigator_affiliation>
+    <investigator_full_name>Pierre Wauthy</investigator_full_name>
+    <investigator_title>Medical Director of the CHU Brugmann</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

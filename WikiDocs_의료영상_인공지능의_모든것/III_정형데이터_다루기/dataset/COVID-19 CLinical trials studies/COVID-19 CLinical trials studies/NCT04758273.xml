@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2500">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04758273</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020L001-1A</org_study_id>
+    <nct_id>NCT04758273</nct_id>
+  </id_info>
+  <brief_title>A Safety and Immunogenicity Study of Inactivated SARS-CoV-2 Vaccine (Vero Cells) in Healthy Population Aged 18 Years and Above(COVID-19)</brief_title>
+  <official_title>Evaluation of the Safety and Immunogenicity of Inactivated SARS-CoV-2 Vaccine (Vero Cells) in Healthy Population Aged 18 Years and Above: a Randomized, Double-blind, Placebo Parallel-controlled Phase I Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beijing Minhai Biotechnology Co., Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Shenzhen Kangtai Biological Products Co., LTD</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Jiangsu Province Centers for Disease Control and Prevention</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Beijing Minhai Biotechnology Co., Ltd</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a randomized, double-blinded, and placebo controlled phase Ⅰ clinical trial of&#xD;
+      the SARS-CoV-2 inactivated vaccine to evaluate the safety and immunogenicity of the&#xD;
+      experimental vaccine in healthy adults ⩾18 years.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 7, 2020</start_date>
+  <completion_date type="Anticipated">February 28, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of adverse reactions/events</measure>
+    <time_frame>0-28 days after each dose of vaccination</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Serious Adverse Events (SAE)</measure>
+    <time_frame>within 12 months post full vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of abnormal indicators of laboratory safety examinations(including blood routine, blood biochemistry, urine routine and coagulation function)</measure>
+    <time_frame>Day 3 after each dose of vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The seropositive rates of SARS-CoV-2 neutralizing antibody</measure>
+    <time_frame>Day 14 and day 28 after each dose of vaccination, and 3, 6 and 12 months post full vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The seropositive level of SARS-CoV-2 neutralizing antibody</measure>
+    <time_frame>Day 14 and day 28 after each dose of vaccination, and 3, 6 and 12 months post full vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The seropositive rates of SARS-CoV-2 IgG antibody(tested by ELISA)</measure>
+    <time_frame>Day 14 and day 28 after each dose of vaccination, and 3, 6 and 12 months post full vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The seropositive level of SARS-CoV-2 IgG antibody(tested by ELISA)</measure>
+    <time_frame>Day 14 and day 28 after each dose of vaccination, and 3, 6 and 12 months post full vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of IFN-γ positive cells (by ELISpot)</measure>
+    <time_frame>Before second and third vaccination, day 28 post full vaccination(18~59years, 3 doses group); before second vaccination and day 14 post full vaccination(18~59years, 2 doses group); 3, 6 and 12 months post full vaccination(18~59years, both group）</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of IL-2、IL-4、IL-5、IL-6、TNFα、IFN-γ (by ELISA)</measure>
+    <time_frame>Before second and third vaccination, day 28 post full vaccination(18~59years, 3 doses group); before second vaccination and day 14 post full vaccination(18~59years, 2 doses group); 3, 6 and 12 months post full vaccination(18~59years, both group）</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>The SARS-CoV-2 antibody level of IgG1, IgG2, IgG3, IgG4 and Nucleoprotein</measure>
+    <time_frame>Day 14 and 28 after each dose, and 3, 6, 12 months post full vaccination(18~59years)</time_frame>
+  </other_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Actual">180</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>medium dosage on day 0, 14(18~59 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two doses of medium dosage inactivated SARS-CoV-2 vaccine on the schedule of day 0,14</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>high dosage on day 0, 14(18~59 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two doses of high dosage inactivated SARS-CoV-2 vaccine on the schedule of day 0,14</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo on day 0, 14(18~59years)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Two doses of placebo on the schedule of day 0,14</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>medium dosage on day 0, 28, 56(18~59 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three doses of medium dosage inactivated SARS-CoV-2 vaccine on the schedule of day 0,28,56</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>high dosage on day 0, 28, 56(18~59 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three doses of high dosage inactivated SARS-CoV-2 vaccine on the schedule of day 0,28,56</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo on day 0, 28, 56(18~59 years)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Three doses of placebo on the schedule of day 0,28,56</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>medium dosage on day 0, 28, 56(&gt;59 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three doses of medium dosage inactivated SARS-CoV-2 vaccine on the schedule of day 0,28,56</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>high dosage on day 0, 28, 56(&gt;59 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three doses of high dosage inactivated SARS-CoV-2 vaccine on the schedule of day 0,28,56</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo on day 0, 28, 56(&gt;59 years)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Three doses of placebo on the schedule of day 0,28,56</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>medium dosage inactivated SARS-CoV-2 vaccine</intervention_name>
+    <description>medium dosage</description>
+    <arm_group_label>medium dosage on day 0, 14(18~59 years)</arm_group_label>
+    <arm_group_label>medium dosage on day 0, 28, 56(18~59 years)</arm_group_label>
+    <arm_group_label>medium dosage on day 0, 28, 56(&gt;59 years)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>high dosage inactivated SARS-CoV-2 vaccine</intervention_name>
+    <description>high dosage</description>
+    <arm_group_label>high dosage on day 0, 14(18~59 years)</arm_group_label>
+    <arm_group_label>high dosage on day 0, 28, 56(18~59 years)</arm_group_label>
+    <arm_group_label>high dosage on day 0, 28, 56(&gt;59 years)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>placebo</description>
+    <arm_group_label>placebo on day 0, 14(18~59years)</arm_group_label>
+    <arm_group_label>placebo on day 0, 28, 56(18~59 years)</arm_group_label>
+    <arm_group_label>placebo on day 0, 28, 56(&gt;59 years)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy permanent residents aged 18 years and above;&#xD;
+&#xD;
+          2. Subjects agree to sign the informed consent forms voluntarily;&#xD;
+&#xD;
+          3. Subjects are able to comply with the requirements of the clinical trial protocol;&#xD;
+&#xD;
+          4. Armpit temperature &lt;=37.0 degree C;&#xD;
+&#xD;
+          5. Female subjects of childbearing age were not pregnant at the time of enrollment, were&#xD;
+             not breastfeeding, and had no birth plan within the first 3 months after enrollment;&#xD;
+             effective contraceptive measures had been taken within 2 weeks before enrollment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Within 14 days before vaccination, subjects have been abroad and to&#xD;
+             villages/communities experienced COVID-19 epidemics, and in contact with COVID-19&#xD;
+             cases or suspected cases. Subjects are under isolation observation, or living in the&#xD;
+             villages/communities with COVID-19 cases or suspected cases;&#xD;
+&#xD;
+          2. Confirmed cases, suspected cases or asymptomatic cases with COVID-19 (refer to&#xD;
+             Information System of China Disease Prevention and Control);&#xD;
+&#xD;
+          3. Subjects with history of SARS virus infection by self-reported;&#xD;
+&#xD;
+          4. Positive in throat swab through RT-PCR;&#xD;
+&#xD;
+          5. Positive in SARS-CoV-2 antibody test;&#xD;
+&#xD;
+          6. Subjects with abnormal indicators, such as blood biochemistry, blood routine, urine&#xD;
+             routine and coagulation function which might show clinical meaning, before&#xD;
+             administration;&#xD;
+&#xD;
+          7. Subjects with history of severe allergic reactions (such as acute anaphylaxis,&#xD;
+             urticaria, skin eczema, dyspnea, angioneurotic edema or abdominal pain) or allergy to&#xD;
+             known composition of inactivated SARS-CoV-2 vaccine;&#xD;
+&#xD;
+          8. Subjects with history of convulsion, epilepsy, encephalopathy or mental illness or&#xD;
+             family history;&#xD;
+&#xD;
+          9. Subjects with congenital malformations or developmental disorders, genetic defects,&#xD;
+             severe malnutrition, etc.;&#xD;
+&#xD;
+         10. Subjects with known or suspected diseases include: severe respiratory diseases, severe&#xD;
+             cardiovascular diseases, severe liver and kidney diseases, uncontrollable hypertension&#xD;
+             (systolic pressure &gt;=140 mmHg, diastolic pressure &gt;=90 mmHg; subjects aged &gt;=60 years&#xD;
+             with systolic pressure &gt;=150 mmHg, diastolic pressure &gt;=100 mmHg), diabetic&#xD;
+             complications, malignant tumors, various acute diseases or acute onset of chronic&#xD;
+             diseases;&#xD;
+&#xD;
+         11. Subjects diagnosed with congenital or acquired immune deficiency, HIV infection,&#xD;
+             lymphoma, leukemia or other autoimmune diseases;&#xD;
+&#xD;
+         12. Subjects with history of coagulation dysfunction (e.g. Coagulation factor deficiency,&#xD;
+             coagulation disease);&#xD;
+&#xD;
+         13. Subjects receiving anti-TB treatment;&#xD;
+&#xD;
+         14. Subjects receiving other research drugs within 6 months before vaccination;&#xD;
+&#xD;
+         15. Subjects receiving immunotherapy or inhibitor therapy within 3 months (consistently&#xD;
+             oral or infusion for more than 14 days);&#xD;
+&#xD;
+         16. Subjects receiving blood products within 3 months before administration;&#xD;
+&#xD;
+         17. Subjects vaccinated with live attenuated vaccine within 14 days before vaccination;&#xD;
+&#xD;
+         18. Subjects vaccinated with other vaccine within 7 days before vaccination;&#xD;
+&#xD;
+         19. The researchers shall judge the other conditions which might be not in compliance with&#xD;
+             the requirements of this clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Jiangsu Provincial Center for Diseases Control and Prevention</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 17, 2021</study_first_posted>
+  <last_update_submitted>February 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

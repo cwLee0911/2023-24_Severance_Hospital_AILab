@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2779">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04779424</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OZ8478</org_study_id>
+    <nct_id>NCT04779424</nct_id>
+  </id_info>
+  <brief_title>Prevalence and Incidence of Antibodies Against SARS-CoV-2 Among Primary Healthcare Providers in Belgium (COVID-19)</brief_title>
+  <acronym>CHARMING</acronym>
+  <official_title>Prevalence and Incidence of Antibodies Against SARS-CoV-2 Among Primary Healthcare Providers in Belgium During One Year of the COVID-19 Epidemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universiteit Antwerpen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sciensano</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Liege</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universiteit Antwerpen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This protocol focuses on the seroprevalence in primary care health care providers (PHCPs) in&#xD;
+      Belgium.&#xD;
+&#xD;
+      PHCPs manage the vast majority of COVID-19 and other patients and therefore are essential to&#xD;
+      organize health care efficiently. Currently however, evidence is lacking on&#xD;
+&#xD;
+        1. how many PHCPs get infected or diseased in Belgium,&#xD;
+&#xD;
+        2. the rate at which this happens,&#xD;
+&#xD;
+        3. their clinical spectrum,&#xD;
+&#xD;
+        4. their risk factors,&#xD;
+&#xD;
+        5. the effectiveness of the measures to prevent this from happening and&#xD;
+&#xD;
+        6. the accuracy of the immunological serology-based point-of-care test in a primary care&#xD;
+           setting.&#xD;
+&#xD;
+      This study will be set up as a prospective cohort study. All Belgian GPs in clinical practice&#xD;
+      will be invited to register online for participation in this national epidemiological study&#xD;
+      and will be asked to invite the other PHCPs in their practice to do the same. A model and&#xD;
+      demography-informed sample of registered GPs and other PHCPs will be selected. These&#xD;
+      participants will be asked at each testing point to perform a capillary blood sample antibody&#xD;
+      point of care test (OrientGene®) and complete an online questionnaire. All data analysis will&#xD;
+      be performed and reported after each relevant testing period and at the end of the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">November 15, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevalence of antibodies against SARS-CoV-2 in primary health care providers - T1</measure>
+    <time_frame>24/12/2020-08/01/2021</time_frame>
+    <description>We will assess the prevalence of antibodies against SARS-CoV-2 in primary health care providers (PHCPs; general practitioners (GPs) and other PHCPs in their practice) in Belgium at timepoint 1 using a self-administered and self-reported serological point of care test based on a capillary blood sample (OrientGene(r)).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevalence of antibodies against SARS-CoV-2 in primary health care providers - T2</measure>
+    <time_frame>25/01/2021-31/1/2021</time_frame>
+    <description>We will assess the prevalence of antibodies against SARS-CoV-2 in primary health care providers (PHCPs; general practitioners (GPs) and other PHCPs in their practice) in Belgium at timepoint 2 using a self-administered and self-reported serological point of care test based on a capillary blood sample (OrientGene(r)).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevalence of antibodies against SARS-CoV-2 in primary health care providers - T3</measure>
+    <time_frame>22-28/02/2021</time_frame>
+    <description>We will assess the prevalence of antibodies against SARS-CoV-2 in primary health care providers (PHCPs; general practitioners (GPs) and other PHCPs in their practice) in Belgium at timepoint 3 using a self-administered and self-reported serological point of care test based on a capillary blood sample (OrientGene(r)).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevalence of antibodies against SARS-CoV-2 in primary health care providers - T4</measure>
+    <time_frame>22-28/03/2021</time_frame>
+    <description>We will assess the prevalence of antibodies against SARS-CoV-2 in primary health care providers (PHCPs; general practitioners (GPs) and other PHCPs in their practice) in Belgium at timepoint 4 using a self-administered and self-reported serological point of care test based on a capillary blood sample (OrientGene(r)).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevalence of antibodies against SARS-CoV-2 in primary health care providers - T5</measure>
+    <time_frame>19-25/04/2021</time_frame>
+    <description>We will assess the prevalence of antibodies against SARS-CoV-2 in primary health care providers (PHCPs; general practitioners (GPs) and other PHCPs in their practice) in Belgium at timepoint 5 using a self-administered and self-reported serological point of care test based on a capillary blood sample (OrientGene(r)).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevalence of antibodies against SARS-CoV-2 in primary health care providers - T6</measure>
+    <time_frame>17-23/05/2021</time_frame>
+    <description>We will assess the prevalence of antibodies against SARS-CoV-2 in primary health care providers (PHCPs; general practitioners (GPs) and other PHCPs in their practice) in Belgium at timepoint 6 using a self-administered and self-reported serological point of care test based on a capillary blood sample (OrientGene(r)).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevalence of antibodies against SARS-CoV-2 in primary health care providers - T7</measure>
+    <time_frame>14-20/06/2021</time_frame>
+    <description>We will assess the prevalence of antibodies against SARS-CoV-2 in primary health care providers (PHCPs; general practitioners (GPs) and other PHCPs in their practice) in Belgium at timepoint 7 using a self-administered and self-reported serological point of care test based on a capillary blood sample (OrientGene(r)).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevalence of antibodies against SARS-CoV-2 in primary health care providers - T8</measure>
+    <time_frame>13-19/09/2021</time_frame>
+    <description>We will assess the prevalence of antibodies against SARS-CoV-2 in primary health care providers (PHCPs; general practitioners (GPs) and other PHCPs in their practice) in Belgium at timepoint 8 using a self-administered and self-reported serological point of care test based on a capillary blood sample (OrientGene(r)).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevalence of antibodies against SARS-CoV-2 in primary health care providers - T9</measure>
+    <time_frame>13-19/12/2021</time_frame>
+    <description>We will assess the prevalence of antibodies against SARS-CoV-2 in primary health care providers (PHCPs; general practitioners (GPs) and other PHCPs in their practice) in Belgium at timepoint 9 using a self-administered and self-reported serological point of care test based on a capillary blood sample (OrientGene(r)).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Monthly incidence of antibodies against SARS-CoV-2 in primary health care providers</measure>
+    <time_frame>24/12/2020-19/12/2021</time_frame>
+    <description>We will assess the monthly incidence of antibodies against SARS-CoV-2 in primary health care providers (PHCPs; general practitioners (GPs) and other PHCPs in their practice) in Belgium during a 12 month follow-up period using a self-administered and self-reported serological point of care test based on a capillary blood sample (OrientGene(r)).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Annual incidence of antibodies against SARS-CoV-2 in primary health care providers</measure>
+    <time_frame>24/12/2020-19/12/2021</time_frame>
+    <description>We will assess the annual incidence of antibodies against SARS-CoV-2 in primary health care providers (PHCPs; general practitioners (GPs) and other PHCPs in their practice) in Belgium during a 12 month follow-up period using a self-administered and self-reported serological point of care test based on a capillary blood sample (OrientGene(r)).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Longevity of antibodies against SARS-CoV-2 in primary health care providers</measure>
+    <time_frame>24/12/2020-19/12/2021</time_frame>
+    <description>We will assess the duration of the SARS-CoV-2 antibody response among seropositive PHCPs using a self-administered and self-reported serological point of care test based on a capillary blood sample (OrientGene(r)).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of asymptomatic cases among primary health care providers with antibodies against SARS-CoV-2</measure>
+    <time_frame>24/12/2020-19/12/2021</time_frame>
+    <description>We will assess the proportion of asymptomatic cases among (new) cases (that develop during follow-up) of primary health care providers (PHCPs) with antibodies against SARS-CoV-2 based on information collected using an online questionnaire.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determinants of of SARS-CoV-2 infection among primary health care providers</measure>
+    <time_frame>24/12/2020-19/12/2021</time_frame>
+    <description>We will assess the determinants of SARS-CoV-2 infection in primary health care providers (PHCPs), including PHCPs characteristics, availability and use of personal protective equipment, and exposure to COVID-19 patients, based on information collected using an online questionnaire.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Validation of a self-administered and self-reported serological point of care test in a primary care setting</measure>
+    <time_frame>25/01/2021-31/1/2021</time_frame>
+    <description>We will validate the immunological serology-based POCT in a primary care setting (Phase 3 validation) by assessing the sensitivity and specificity of a self-administerted and self-reported serological point of care test based on capillary blood sample (OrientGene(r)) against a reference standard (laboratory serological test based on serum blood sample). As reference standard the following testing algorithm will be use, i.e. serum samples will be tested first on the ELECSYS Anti-SARS-CoV-2 S assay (Roche, Basel, Switzerland), if the cut-off index (COI) is between 0.6-3.0 the sample will be tested on the ATELLICA IM SARS-CoV-2 assay (Siemens, Munich, Germany), and if discordant results it will be tested on the LIAISON SARS-CoV-2 S1/S2 IgG assay (DiaSorin, Saluggia, Italy), using a two out of three 'reference standard'.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Familiarisation with a self-administered and self-reported serological point of care test among primary health care providers</measure>
+    <time_frame>25/01/2021-31/1/2021</time_frame>
+    <description>We will assess the success rate and user-friendliness of a self-administered and self-reported serological point of care test (OrientGene(r)) based on information collected using an online questionnaire</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">5000</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Primary Health Care Providers (PHCPs)</arm_group_label>
+    <description>Any Belgian general practitioner (GP) (including those in professional training) currently working in primary care and any other primary health care providers (PHCPs) from the same GP practice who physically manage (examine, test, treat) patients/clients (frontline PHCP).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>POCT</intervention_name>
+    <description>Capillary blood sample antibody point of care test</description>
+    <arm_group_label>Primary Health Care Providers (PHCPs)</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      1. Capillary blood sample antibody point of care test&#xD;
+&#xD;
+        2. Serum blood sample&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Any Belgian general practitioner (GP) (including those in professional training) currently&#xD;
+        working in primary care and any other primary health care providers (PHCPs) from the same&#xD;
+        GP practice who physically manage (examine, test, treat) patients/clients (frontline PHCP).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Any Belgian general practitioner (GP) (including those in professional training)&#xD;
+             currently working in primary care and any other primary health care providers (PHCPs)&#xD;
+             from the same GP practice who physically manage (examine, test, treat)&#xD;
+             patients/clients (frontline PHCP), are able to comply with the study protocol and&#xD;
+             provided informed consent to participate in the study. Also PHCPs having been&#xD;
+             diagnosed with COVID-19 are included.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Staff hired on a temporary (interim) basis will be excluded as follow-up over time&#xD;
+             will be compromised.&#xD;
+&#xD;
+          -  Administrative staff or technical staff without any contact with patients/clients will&#xD;
+             also be excluded.&#xD;
+&#xD;
+          -  PHCPs who were not active during the inclusion period will automatically be excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Beatrice Scholtes, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Liege</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Elza Duysburgh, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sciensano</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Niels Adriaenssens</name>
+      <address>
+        <city>Wilrijk</city>
+        <state>Antwerp</state>
+        <zip>2610</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <link>
+    <url>https://www.sciensano.be/nl/biblio/prevalence-and-incidence-antibodies-against-sars-cov-2-among-primary-healthcare-providers-belgium</url>
+    <description>link to study protocol</description>
+  </link>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>March 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universiteit Antwerpen</investigator_affiliation>
+    <investigator_full_name>Samuel Coenen, MD PhD</investigator_full_name>
+    <investigator_title>Professor Clinical Epidemiology - Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>Seroepidemiologic Studies</keyword>
+  <keyword>Primary Health Care</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1694">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04745611</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL75102.068.20</org_study_id>
+    <nct_id>NCT04745611</nct_id>
+  </id_info>
+  <brief_title>Neurological and Neuropsychological Sequelae of COVID-19 Infection</brief_title>
+  <acronym>NeNeSCo</acronym>
+  <official_title>Neurological and Neuropsychological Sequelae of COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Maastricht University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hersenstichting</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>UMC Utrecht</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Maastricht University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 is known to affect the respiratory system but may also have an impact on other organ&#xD;
+      systems, including the brain. A number of severely ill patients also presents neurological&#xD;
+      symptoms that may be the result of COVID-19 associated brain damage. The aim of this study is&#xD;
+      to investigate the presence, type, and severity of brain damage as well as the neurological&#xD;
+      and neuropsychological sequelae of COVID-19 infection. Further, the impact of this infection&#xD;
+      on daily life functioning, quality of life, and the emotional well-being of family members&#xD;
+      will be assessed. In this multicenter study, 6-9 months after hospital discharge patients&#xD;
+      will undergo a 3-T MRI scan and a neuropsychological examination. Additionally, both patients&#xD;
+      and their family members will answer several questionnaires at 6- 9 and 12-15 months after&#xD;
+      hospital discharge. COVID-19 patients previously admitted to a general hospital ward will be&#xD;
+      compared with patients previously admitted to the intensive-care unit. The proposed study&#xD;
+      will create a more comprehensive picture of the prolonged COVID-19 effects on the brain,&#xD;
+      mental, and cognitive well-being. The findings will aid patient care and rehabilitation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19) is an infectious disease caused by Severe Acute&#xD;
+      Respiratory Syndrome Coronavirus 2 (SARS-CoV2). COVID-19 primarily affects the respiratory&#xD;
+      system. However, in severely ill patients damage is also reported to other organ systems&#xD;
+      including the heart, the kidneys, the circulatory, and gastrointestinal system. Further,&#xD;
+      research indicates an impact of the virus on the brain and, thereby, on cognition. Patients&#xD;
+      experience neurological symptoms, MR imaging implies the presence of brain abnormalities,&#xD;
+      specifically in severely ill patients and studies on cognition suggest problems with memory,&#xD;
+      attention, information processing and executive function. Preliminary clinical data also show&#xD;
+      that COVID-19 is associated with neurological and neuropsychiatric illness.&#xD;
+&#xD;
+      Brain damage and therefrom resulting emotional and cognitive deficits in ICU-treated patients&#xD;
+      are not uncommon findings. Post-intensive care syndrome (PICS) summarizes physical,&#xD;
+      cognitive, and mental impairments associated with ICU admission. PICS is assumed to be&#xD;
+      induced by a combination of patient-specific (e.g., psychiatric history), disease-related&#xD;
+      (e.g., hypoxemia), and ICU factors (e.g., invasive procedures). These factors can cause a&#xD;
+      variety of pathophysiologic states including atrophy, encephalopathy, and neuropathy,&#xD;
+      eventually leading to impairment and reduced quality of life. Additionally, ICU-admission has&#xD;
+      been found to also affect the mental health of patients´ family members (PICS-F). Many of&#xD;
+      these PICS-inducing factors can be assumed to occur during severe COVID-19 illness and&#xD;
+      treatment. Therefore, it is likely that COVID-19 patients and their family members exhibit&#xD;
+      PICS symptoms.&#xD;
+&#xD;
+      To date, it is not known to what extend COVID-19 related brain injury and therewith&#xD;
+      associated symptoms are present after the (sub)acute stages of illness and whether this will&#xD;
+      lead to long-term deficits in function. Further, it is to be determined whether COVID-19&#xD;
+      patients develop PICS syndrome and if so, whether the therewith associated symptoms are&#xD;
+      limited to ICU-treated patients or may generally affect the broader group of hospitalized&#xD;
+      COVID-19 patients.&#xD;
+&#xD;
+      The aim of this research is to fill these gaps in research through:&#xD;
+&#xD;
+      (1) the identification of COVID-19 related brain abnormalities, cognitive impairments, and&#xD;
+      emotional deficits after the (sub)acute stages of illness (i.e., 6-9 months post-hospital&#xD;
+      discharge), 2) a comparison of COVID-19 related brain abnormalities, cognitive impairments,&#xD;
+      and emotional deficits to historical PICS cohorts 3) a comparison between COVID-19 ICU&#xD;
+      survivors and COVID-19 non-ICU patients in order to assess a potential PICS gradient and 3) a&#xD;
+      follow-up examination of the aforementioned groups 6 months after the first assessment to&#xD;
+      gain insight into the persistence of deficits.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 12, 2020</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>12 Months</target_duration>
+  <primary_outcome>
+    <measure>Change in participation</measure>
+    <time_frame>1) 6-9 months and 2) 12-15 months after hospital discharge</time_frame>
+    <description>Life participation (social, occupational, mobility) measured by the Utrecht Scale for Evaluation of Rehabilitation-Participation - Restrictions subscale (USER-P-R). The subscale consists of 11 items. Each item score ranges from 0 (not possible at all) to 3 (no difficulty at all), resulting in a total minimum score of 0 and a total maximum score of 33 points, with a higher score indicating less participation restrictions.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in patient quality of life</measure>
+    <time_frame>1) 6-9 months and 2) 12-15 months after hospital discharge</time_frame>
+    <description>Quality of life measured by the EuroQol-5D-5L (EQ-5D-5L). The EQ-5D-5L consists of 5 items with 5 levels. The minimum total score is 5 and the maximum total score is 25, with higher scores indicating more problems.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Presence of MRI abnormalities</measure>
+    <time_frame>6-9 months after hospital discharge</time_frame>
+    <description>Presence or absence of MRI abnormalities assessed with a 3T cranial MRI scan</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neurological symptoms</measure>
+    <time_frame>6-9 months after hospital discharge</time_frame>
+    <description>Measures with the neurological and neuropsychological sequelae of COVID-19 questionnaire (NeNeSCo-Q), a questionnaire that has been created for the purpose of this study to assess the most common neurological symptoms (e.g., reduced sense of taste and/or smell, headaches, neuropathic pain) experienced by patients infected with COVID-19. The questionnaire consists of 9 items being rated with present (yes = 1) and not present (no = 0), resulting in a minimum total score of 0 and a maximum total score of 9.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Deficits in cognition</measure>
+    <time_frame>6-9 months after hospital discharge</time_frame>
+    <description>Deficits in general cognition are measured with the Montreal Cognitive Assessment (MoCA).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Deficits in memory</measure>
+    <time_frame>6-9 months after hospital discharge</time_frame>
+    <description>Measured with the Rey's auditory verbal learning test (RAVLT)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Deficits in visual attention &amp; task switching</measure>
+    <time_frame>6-9 months after hospital discharge</time_frame>
+    <description>Measured with Trail Making Test A/B (TMT)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Deficits in selective attention, cognitive flexibility &amp; processing speed</measure>
+    <time_frame>6-9 months after hospital discharge</time_frame>
+    <description>Measured with Stroop Test</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Deficits in working memory, attention &amp; executive function</measure>
+    <time_frame>6-9 months after hospital discharge</time_frame>
+    <description>Measured with Digit Span Coding</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in subjective cognitive complaints</measure>
+    <time_frame>1) 6-9 months and 2) 12-15 months after hospital discharge</time_frame>
+    <description>Assessed with the Checklist for post-IC cognitive complaints (CLC-IC)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in depression/anxiety</measure>
+    <time_frame>1) 6-9 months and 2) 12-15 months after hospital discharge</time_frame>
+    <description>Measured with the Hospital anxiety and depression scale</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in post-traumatic stress symptoms</measure>
+    <time_frame>1) 6-9 months and 2) 12-15 months after hospital discharge</time_frame>
+    <description>Measured with the Primary Care Post-Traumatic Stress Disorder (PC-PTSD-5) questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in family burden</measure>
+    <time_frame>1) 6-9 months and 2) 12-15 months after hospital discharge</time_frame>
+    <description>Measured with the Caregiver Strain Index (CSI)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in family quality of life</measure>
+    <time_frame>1) 6-9 months and 2) 12-15 months after hospital discharge</time_frame>
+    <description>Measured by the EQ-5D-5L. The EQ-5D-5L consists of 5 items with 5 levels. The minimum total score is 5 and the maximum total score is 25, with higher scores indicating more problems.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>MRI abnormalities (specific)</measure>
+    <time_frame>6-9 months after hospital discharge</time_frame>
+    <description>MRI abnormalities such as cerebral micro-infarctions / bleedings, and white matter hyperintensities.</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>COVID-19 Infection</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 non-ICU patients</arm_group_label>
+    <description>Patients who were admitted to one of six recruiting hospitals in the Netherlands due to COVID-19 during the first patient wave (march-june 2020) and who were not admitted to an intensive care unit.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 ICU patients</arm_group_label>
+    <description>Patients who were admitted to one of six recruiting hospitals in the Netherlands due to COVID-19 during the first patient wave (march-june 2020) and who were admitted to an intensive care unit.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 non-ICU family members</arm_group_label>
+    <description>Close family members of patients who were admitted to one of six recruiting hospitals in the Netherlands due to COVID-19 during the first patient wave (march-june 2020) and who were not admitted to an intensive care unit.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 ICU family members</arm_group_label>
+    <description>Close family members of patients who were admitted to one of six recruiting hospitals in the Netherlands due to COVID-19 during the first patient wave (march-june 2020) and who were admitted to an intensive care unit.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>MRI</intervention_name>
+    <description>3T cranial MRI with T1-, and T2 weighted imaging, a FLAIR sequence, diffusion-weighted imaging and susceptibility-weighted sequence</description>
+    <arm_group_label>COVID-19 ICU patients</arm_group_label>
+    <arm_group_label>COVID-19 non-ICU patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Neuropsychological assessment</intervention_name>
+    <description>Montreal Cognitive Assessment (MoCA), Rey-Auditory Verbal Learning Test (RAVLT), Trail making A/B, Stroop, Digit Span Coding, Judgement of line orientation (JOLO), Boston Naming Task (BNT), Controlled Oral Word Associations Task (COWAT), Category Fuency, Test of Memory Malingering (TOMM)</description>
+    <arm_group_label>COVID-19 ICU patients</arm_group_label>
+    <arm_group_label>COVID-19 non-ICU patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Questionnaires Patient</intervention_name>
+    <description>EuroQol-5D-5L (EQ-5D-5L), Utrecht Scale for Evaluation of Rehabilitation-Participation - Restrictions (USER-P-R), NeNeSCo-Q (questionnaire created for this study, including common neurological symptoms), Checklist for post-IC cognitive complaints (CLC-IC self-report), Hospital Anxiety and Depression Scale (HADS), Primary Care Post-Traumatic Stress Disorder (PC-PTSD-5), Utrecht Coping List (UCL) (subscale passive coping), PROMIS physical functioning short form, Items of Insomnia Severity Index (ISI) &amp; Pittsburgh Sleep Quality Index (PSQI), Fatigue Severity Scale (FSS), Social Support List (SSL-12-I)</description>
+    <arm_group_label>COVID-19 ICU patients</arm_group_label>
+    <arm_group_label>COVID-19 non-ICU patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Questionnaires Family</intervention_name>
+    <description>EuroQol-5D-5L (EQ-5D-5L), Utrecht Scale for Evaluation of Rehabilitation-Participation - Restrictions (USER-P-R), Checklist for post-IC cognitive complaints (CLC-IC proxy-report), Hospital Anxiety and Depression Scale (HADS), Primary Care Post-Traumatic Stress Disorder (PC-PTSD-5), Utrecht Coping List (UCL) (subscale passive coping), Social Support List (SSL-12-I), Caregiver Strain Index (CSI)</description>
+    <arm_group_label>COVID-19 ICU family members</arm_group_label>
+    <arm_group_label>COVID-19 non-ICU family members</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Former COVID-19 patients who were either admitted to the general hospital ward or the&#xD;
+        intensive care unit and their respective family members.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients:&#xD;
+&#xD;
+          -  Objectified COVID-19 infection for which ICU or non-ICU hospital admission was&#xD;
+             necessary at one of the participating hospitals&#xD;
+&#xD;
+          -  Age &gt; 18 years&#xD;
+&#xD;
+          -  Sufficient command of the Dutch language to follow test instructions and understand&#xD;
+             questionnaires&#xD;
+&#xD;
+          -  Informed consent.&#xD;
+&#xD;
+        Family members (if present):&#xD;
+&#xD;
+        Within the scope of this study, the term family member will be defined as a person who has&#xD;
+        good insight into the patient´s daily life functioning (before and after COVID-19&#xD;
+        infection). This person can be the spouse, partner, adult child or, in some cases, another&#xD;
+        individual that plays the most significant role in the patient´s life. The patient will&#xD;
+        decide who this family member is. We will check the following criteria:&#xD;
+&#xD;
+          -  Family member of a participant with COVID-19 infection as described above;&#xD;
+&#xD;
+          -  Requires participation of the aforementioned family member as COVID-19 patient&#xD;
+&#xD;
+          -  Age &gt; 18 years&#xD;
+&#xD;
+          -  Sufficient command of the Dutch language to understand questionnaires&#xD;
+&#xD;
+          -  Informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients:&#xD;
+&#xD;
+          -  objectified cognitive impairments before the hospital admission for the COVID-19&#xD;
+             infection&#xD;
+&#xD;
+          -  an unexpected incident leading to severe neurological damage occurring after hospital&#xD;
+             discharge (such as stroke or traumatic brain injury)&#xD;
+&#xD;
+          -  contra-indications for MRI scanning (e.g. metal implants, cardiac pacemaker,&#xD;
+             claustrophobia, pregnancy).&#xD;
+&#xD;
+        Family member: no exclusion criteria.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Caroline van Heugten, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Professor of clinical neuropsychology at Maastricht University,</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Simona Klinkhammer, MSc</last_name>
+    <phone>+31 43 3884117</phone>
+    <email>s.Klinkhammer@maastrichtuniversity.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Caroline van Heugten, Prof. Dr.</last_name>
+    <phone>+31 43 388 4091</phone>
+    <email>caroline.vanheugten@maastrichtuniversity.nl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Maastricht University</name>
+      <address>
+        <city>Maastricht</city>
+        <state>Limburg</state>
+        <zip>6229 ER</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Simona Klinkhammer, MSc</last_name>
+      <email>s.Klinkhammer@maastrichtuniversity.nl</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Amsterdam Universitair Medische Centra</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Janneke Horn, Prof. Dr.</last_name>
+      <email>j.horn@amsterdamumc.nl</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Medische Centra Utrecht</name>
+      <address>
+        <city>Utrecht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Anne Visser-Meilij, Dr.</last_name>
+      <email>j.m.a.visser-meilij@umcutrecht.nl</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <reference>
+    <citation>Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28.</citation>
+    <PMID>32109013</PMID>
+  </reference>
+  <reference>
+    <citation>Carod-Artal FJ. Neurological complications of coronavirus and COVID-19. Rev Neurol. 2020 May 1;70(9):311-322. doi: 10.33588/rn.7009.2020179. Review. English, Spanish.</citation>
+    <PMID>32329044</PMID>
+  </reference>
+  <reference>
+    <citation>Egbert AR, Cankurtaran S, Karpiak S. Brain abnormalities in COVID-19 acute/subacute phase: A rapid systematic review. Brain Behav Immun. 2020 Oct;89:543-554. doi: 10.1016/j.bbi.2020.07.014. Epub 2020 Jul 17.</citation>
+    <PMID>32682993</PMID>
+  </reference>
+  <reference>
+    <citation>Gulko E, Oleksk ML, Gomes W, Ali S, Mehta H, Overby P, Al-Mufti F, Rozenshtein A. MRI Brain Findings in 126 Patients with COVID-19: Initial Observations from a Descriptive Literature Review. AJNR Am J Neuroradiol. 2020 Dec;41(12):2199-2203. doi: 10.3174/ajnr.A6805. Epub 2020 Sep 3. Review.</citation>
+    <PMID>32883670</PMID>
+  </reference>
+  <reference>
+    <citation>Helms J, Kremer S, Merdji H, Clere-Jehl R, Schenck M, Kummerlen C, Collange O, Boulay C, Fafi-Kremer S, Ohana M, Anheim M, Meziani F. Neurologic Features in Severe SARS-CoV-2 Infection. N Engl J Med. 2020 Jun 4;382(23):2268-2270. doi: 10.1056/NEJMc2008597. Epub 2020 Apr 15.</citation>
+    <PMID>32294339</PMID>
+  </reference>
+  <reference>
+    <citation>Kandemirli SG, Dogan L, Sarikaya ZT, Kara S, Akinci C, Kaya D, Kaya Y, Yildirim D, Tuzuner F, Yildirim MS, Ozluk E, Gucyetmez B, Karaarslan E, Koyluoglu I, Demirel Kaya HS, Mammadov O, Kisa Ozdemir I, Afsar N, Citci Yalcinkaya B, Rasimoglu S, Guduk DE, Kedir Jima A, Ilksoz A, Ersoz V, Yonca Eren M, Celtik N, Arslan S, Korkmazer B, Dincer SS, Gulek E, Dikmen I, Yazici M, Unsal S, Ljama T, Demirel I, Ayyildiz A, Kesimci I, Bolsoy Deveci S, Tutuncu M, Kizilkilic O, Telci L, Zengin R, Dincer A, Akinci IO, Kocer N. Brain MRI Findings in Patients in the Intensive Care Unit with COVID-19 Infection. Radiology. 2020 Oct;297(1):E232-E235. doi: 10.1148/radiol.2020201697. Epub 2020 May 8.</citation>
+    <PMID>32384020</PMID>
+  </reference>
+  <reference>
+    <citation>Kremer S, Lersy F, de Sèze J, Ferré JC, Maamar A, Carsin-Nicol B, Collange O, Bonneville F, Adam G, Martin-Blondel G, Rafiq M, Geeraerts T, Delamarre L, Grand S, Krainik A, Caillard S, Constans JM, Metanbou S, Heintz A, Helms J, Schenck M, Lefèbvre N, Boutet C, Fabre X, Forestier G, de Beaurepaire I, Bornet G, Lacalm A, Oesterlé H, Bolognini F, Messié J, Hmeydia G, Benzakoun J, Oppenheim C, Bapst B, Megdiche I, Henry Feugeas MC, Khalil A, Gaudemer A, Jager L, Nesser P, Talla Mba Y, Hemmert C, Feuerstein P, Sebag N, Carré S, Alleg M, Lecocq C, Schmitt E, Anxionnat R, Zhu F, Comby PO, Ricolfi F, Thouant P, Desal H, Boulouis G, Berge J, Kazémi A, Pyatigorskaya N, Lecler A, Saleme S, Edjlali-Goujon M, Kerleroux B, Zorn PE, Matthieu M, Baloglu S, Ardellier FD, Willaume T, Brisset JC, Boulay C, Mutschler V, Hansmann Y, Mertes PM, Schneider F, Fafi-Kremer S, Ohana M, Meziani F, David JS, Meyer N, Anheim M, Cotton F. Brain MRI Findings in Severe COVID-19: A Retrospective Observational Study. Radiology. 2020 Nov;297(2):E242-E251. doi: 10.1148/radiol.2020202222. Epub 2020 Jun 16.</citation>
+    <PMID>32544034</PMID>
+  </reference>
+  <reference>
+    <citation>Lane-Fall MB, Kuza CM, Fakhry S, Kaplan LJ. The Lifetime Effects of Injury: Postintensive Care Syndrome and Posttraumatic Stress Disorder. Anesthesiol Clin. 2019 Mar;37(1):135-150. doi: 10.1016/j.anclin.2018.09.012. Epub 2018 Dec 19. Review.</citation>
+    <PMID>30711227</PMID>
+  </reference>
+  <reference>
+    <citation>Langerud AK, Rustøen T, Småstuen MC, Kongsgaard U, Stubhaug A. Health-related quality of life in intensive care survivors: Associations with social support, comorbidity, and pain interference. PLoS One. 2018 Jun 25;13(6):e0199656. doi: 10.1371/journal.pone.0199656. eCollection 2018.</citation>
+    <PMID>29940026</PMID>
+  </reference>
+  <reference>
+    <citation>Langerud AK, Rustøen T, Småstuen MC, Kongsgaard U, Stubhaug A. Intensive care survivor-reported symptoms: a longitudinal study of survivors' symptoms. Nurs Crit Care. 2018 Jan;23(1):48-54. doi: 10.1111/nicc.12330. Epub 2017 Dec 15.</citation>
+    <PMID>29243344</PMID>
+  </reference>
+  <reference>
+    <citation>Leonardi M, Padovani A, McArthur JC. Neurological manifestations associated with COVID-19: a review and a call for action. J Neurol. 2020 Jun;267(6):1573-1576. doi: 10.1007/s00415-020-09896-z. Epub 2020 May 20.</citation>
+    <PMID>32436101</PMID>
+  </reference>
+  <reference>
+    <citation>Needham DM, Davidson J, Cohen H, Hopkins RO, Weinert C, Wunsch H, Zawistowski C, Bemis-Dougherty A, Berney SC, Bienvenu OJ, Brady SL, Brodsky MB, Denehy L, Elliott D, Flatley C, Harabin AL, Jones C, Louis D, Meltzer W, Muldoon SR, Palmer JB, Perme C, Robinson M, Schmidt DM, Scruth E, Spill GR, Storey CP, Render M, Votto J, Harvey MA. Improving long-term outcomes after discharge from intensive care unit: report from a stakeholders' conference. Crit Care Med. 2012 Feb;40(2):502-9. doi: 10.1097/CCM.0b013e318232da75. Review.</citation>
+    <PMID>21946660</PMID>
+  </reference>
+  <reference>
+    <citation>Pandharipande PP, Girard TD, Jackson JC, Morandi A, Thompson JL, Pun BT, Brummel NE, Hughes CG, Vasilevskis EE, Shintani AK, Moons KG, Geevarghese SK, Canonico A, Hopkins RO, Bernard GR, Dittus RS, Ely EW; BRAIN-ICU Study Investigators. Long-term cognitive impairment after critical illness. N Engl J Med. 2013 Oct 3;369(14):1306-16. doi: 10.1056/NEJMoa1301372.</citation>
+    <PMID>24088092</PMID>
+  </reference>
+  <reference>
+    <citation>Rabinovitz B, Jaywant A, Fridman CB. Neuropsychological functioning in severe acute respiratory disorders caused by the coronavirus: Implications for the current COVID-19 pandemic. Clin Neuropsychol. 2020 Oct - Nov;34(7-8):1453-1479. doi: 10.1080/13854046.2020.1803408. Epub 2020 Sep 9. Review.</citation>
+    <PMID>32901580</PMID>
+  </reference>
+  <reference>
+    <citation>Soliman IW, de Lange DW, Peelen LM, Cremer OL, Slooter AJ, Pasma W, Kesecioglu J, van Dijk D. Single-center large-cohort study into quality of life in Dutch intensive care unit subgroups, 1 year after admission, using EuroQoL EQ-6D-3L. J Crit Care. 2015 Feb;30(1):181-6. doi: 10.1016/j.jcrc.2014.09.009. Epub 2014 Sep 22.</citation>
+    <PMID>25305070</PMID>
+  </reference>
+  <reference>
+    <citation>Varatharaj A, Thomas N, Ellul MA, Davies NWS, Pollak TA, Tenorio EL, Sultan M, Easton A, Breen G, Zandi M, Coles JP, Manji H, Al-Shahi Salman R, Menon DK, Nicholson TR, Benjamin LA, Carson A, Smith C, Turner MR, Solomon T, Kneen R, Pett SL, Galea I, Thomas RH, Michael BD; CoroNerve Study Group. Neurological and neuropsychiatric complications of COVID-19 in 153 patients: a UK-wide surveillance study. Lancet Psychiatry. 2020 Oct;7(10):875-882. doi: 10.1016/S2215-0366(20)30287-X. Epub 2020 Jun 25. Erratum in: Lancet Psychiatry. 2020 Jul 14;:.</citation>
+    <PMID>32593341</PMID>
+  </reference>
+  <reference>
+    <citation>Wintermann GB, Petrowski K, Weidner K, Strauß B, Rosendahl J. Impact of post-traumatic stress symptoms on the health-related quality of life in a cohort study with chronically critically ill patients and their partners: age matters. Crit Care. 2019 Feb 8;23(1):39. doi: 10.1186/s13054-019-2321-0.</citation>
+    <PMID>30736830</PMID>
+  </reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>January 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 9, 2021</study_first_posted>
+  <last_update_submitted>February 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Neurological</keyword>
+  <keyword>Neuropsychological</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Severe acute respiratory syndrome coronavirus-2</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Infection</keyword>
+  <keyword>Inflammation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

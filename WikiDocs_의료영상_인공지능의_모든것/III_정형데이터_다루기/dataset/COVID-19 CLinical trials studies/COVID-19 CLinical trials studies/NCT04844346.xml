@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2377">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04844346</url>
+  </required_header>
+  <id_info>
+    <org_study_id>METC 21-013</org_study_id>
+    <nct_id>NCT04844346</nct_id>
+  </id_info>
+  <brief_title>Plant Stanol Esters and COVID-19 Vaccination Response</brief_title>
+  <official_title>The Effect of Plant Stanol Ester Consumption on the Vaccination Response to a COVID-19 Vaccine</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Maastricht University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Raisio Nutrition Ltd.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Maastricht University Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Plant stanols are known to lower low-density lipoprotein cholesterol (LDL-C). However,&#xD;
+      studies have suggested that these compounds also beneficially influence the immune system,&#xD;
+      e.g. increasing vaccine-specific antibody titers. BMI has previously been negatively&#xD;
+      associated to vaccination responses. If plant stanols indeed have beneficial effect on the&#xD;
+      immune system, people with overweight or obesity might benefit from consuming plant stanols&#xD;
+      prior to receiving the COVID-19 vaccination. The primary objective of this study is to&#xD;
+      demonstrate clinical benefits of consumption of plant stanols (delivered via products&#xD;
+      enriched with plant stanol esters) on the vaccination response to a COVID-19 vaccine in&#xD;
+      overweight or obese patients. The main study endpoint is vaccination response to a COVID-19&#xD;
+      vaccine. Secondary endpoints include amongst others hematological, inflammatory and&#xD;
+      immunological parameters (e.g. hs-CRP, leukocyte differential count) and metabolic markers&#xD;
+      (e.g. blood lipid profiles, plasma glucose, serum insulin, HOMA-IR).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Vaccine specific antibody titers</measure>
+    <time_frame>Change T=0 and T= 4 weeks</time_frame>
+    <description>The response to the COVID-19 vaccine will be measured by quantifying specific antibody titers (vaccine specific IgG and IgM). These titers will be measured in blood samples collected weekly during the month after vaccination by suitable ELISAs.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Immune parameters (1)</measure>
+    <time_frame>T=-1 (start study), T=0 (day before vaccination), T=4 weeks after vaccination</time_frame>
+    <description>Cytokine production by PBMCs after stimulation with antiCD3-antiCD28 antiCD28 antibodies using the TruCulture system</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immune parameters (2)</measure>
+    <time_frame>T=-1 (start study), T=0 (day before vaccination), weekly in the month after vaccination (T1-T4)</time_frame>
+    <description>hsCRP</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Leukocyte count</measure>
+    <time_frame>T=-1 (start study), T=0 (day before vaccination), weekly in the month after vaccination (T1-T4)</time_frame>
+    <description>Number of leukocytes measured in EDTA plasma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Leukocyte differential count</measure>
+    <time_frame>T=-1 (start study), T=0 (day before vaccination), weekly in the month after vaccination (T1-T4)</time_frame>
+    <description>Number of subgroups of leukocytes measured in EDTA plasma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fasted metabolism (1)</measure>
+    <time_frame>T=-1 (start study), T=0 (day before vaccination), weekly in the month after vaccination (T1-T4)</time_frame>
+    <description>Serum non-cholesterol sterols and stanols</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fasted metabolism (2)</measure>
+    <time_frame>T=-1 (start study), T=0 (day before vaccination), weekly in the month after vaccination (T1-T4)</time_frame>
+    <description>Serum lipid and lipoprotein profile</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fasted metabolism (3)</measure>
+    <time_frame>T=-1 (start study), T=0 (day before vaccination), weekly in the month after vaccination (T1-T4)</time_frame>
+    <description>Glucose metabolism (including e.g. plasma glucose, serum insulin and calculated HOMA-IR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anthropometry (1)</measure>
+    <time_frame>T=-1 (start study), T=0 (day before vaccination), weekly in the month after vaccination (T1-T4)</time_frame>
+    <description>Body weight</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anthropometry (2)</measure>
+    <time_frame>T=-1 (start study)</time_frame>
+    <description>Height</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anthropometry (3)</measure>
+    <time_frame>T=-1 (start study), T=0 (day before vaccination), weekly in the month after vaccination (T1-T4)</time_frame>
+    <description>Waist circumference</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anthropometry (4)</measure>
+    <time_frame>T=-1 (start study), T=0 (day before vaccination), weekly in the month after vaccination (T1-T4)</time_frame>
+    <description>Hip circumference</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anthropometry (5)</measure>
+    <time_frame>T=-1 (start study), T=0 (day before vaccination), weekly in the month after vaccination (T1-T4)</time_frame>
+    <description>Waist-to-hip ratio</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diet</measure>
+    <time_frame>T=-1 (start study) and T=4 weeks after vaccination (end study)</time_frame>
+    <description>Food frequency questionnaire is used to determine if the participants maintain their habitual diet and to determine if the participants do not consume plant stanols and/or sterols outside the intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diary outcomes (1)</measure>
+    <time_frame>T=-1 (start study) until T=4 weeks after vaccination (end of study)</time_frame>
+    <description>General illness</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diary outcomes (2)</measure>
+    <time_frame>T=0 (day before vaccination) until T=4 weeks after vaccination (end of study)</time_frame>
+    <description>Side effects COVID-19 vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diary outcomes (3)</measure>
+    <time_frame>T=-1 (start study) until T=4 weeks after vaccination (end of study)</time_frame>
+    <description>Medication intake</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Overweight and Obesity</condition>
+  <arm_group>
+    <arm_group_label>Plant stanol group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This arm receives 4g of plant stanols per day (delivered as plant stanol esters) by consuming mini drinks (100 mL each).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>This arm receives mini drinks without added plant stanols (delivered as plant stanol esters).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Plant stanol mini drinks</intervention_name>
+    <description>Oat milk based mini drinks (100 mL) containing 2g plant stanols each (delivered as plant stanol esters).</description>
+    <arm_group_label>Plant stanol group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Placebo mini drinks</intervention_name>
+    <description>Oat milk based mini drinks (100 mL) without added plant stanols (delivered as plant stanol esters).</description>
+    <arm_group_label>Placebo group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVID-19 vaccine</intervention_name>
+    <description>First dose of one of the COVID-19 vaccines. Participants have to wait until they are invited to receive the vaccine by the government; this study does not interfere with national planning of the vaccines.</description>
+    <arm_group_label>Placebo group</arm_group_label>
+    <arm_group_label>Plant stanol group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women&#xD;
+&#xD;
+          -  Aged 18 years or older&#xD;
+&#xD;
+          -  BMI between 27 and 35 kg/m2&#xD;
+&#xD;
+          -  Currently not using products containing plant sterols or stanols (products with a&#xD;
+             cholesterol lowering claim of Becel ProActiv, Benecol, Danacol, store brands)&#xD;
+&#xD;
+          -  Willing to abstain from products containing plant sterols or stanols during the study&#xD;
+             (products with a cholesterol lowering claim of Becel ProActiv, Benecol, Danacol, store&#xD;
+             brands)&#xD;
+&#xD;
+          -  Willing to keep the intake of fish oil and vitamin supplements constant&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Already received COVID-19 vaccination&#xD;
+&#xD;
+          -  Already had a positive test for COVID-19 (this includes all types of tests, e.g. PCR&#xD;
+             tests or antibody tests)&#xD;
+&#xD;
+          -  Allergy to an ingredient of the mini drinks&#xD;
+&#xD;
+          -  Having donated blood within one month prior to the start of the study, or planning to&#xD;
+             donate blood during the study&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+&#xD;
+          -  Breastfeeding women&#xD;
+&#xD;
+          -  Excessive alcohol use (&gt;20 consumptions per week)&#xD;
+&#xD;
+          -  Regular use of soft or hard drugs&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jogchum Plat, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Maastricht University Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ronald P Mensink, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Maastricht University Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jogchum Plat, PhD</last_name>
+    <phone>+31433881309</phone>
+    <email>j.plat@maastrichtuniversity.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lieve van Brakel, MSc</last_name>
+    <phone>+31433882113</phone>
+    <email>lieve.vanbrakel@maastrichtuniversity.nl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Maastricht University Medical Center</name>
+      <address>
+        <city>Maastricht</city>
+        <state>Limburg</state>
+        <zip>6229ER</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Overweight</keyword>
+  <keyword>Obesity</keyword>
+  <keyword>COVID-19 vaccine</keyword>
+  <keyword>Immune system</keyword>
+  <keyword>Vaccination response</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Overweight</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

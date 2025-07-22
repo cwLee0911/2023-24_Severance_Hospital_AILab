@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5470">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04804072</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HPTN 094</org_study_id>
+    <nct_id>NCT04804072</nct_id>
+  </id_info>
+  <brief_title>INTEGRA: A Vanguard Study of Health Service Delivery in a Mobile Health Delivery Unit</brief_title>
+  <acronym>INTEGRA</acronym>
+  <official_title>INTEGRA: A Vanguard Study of Health Service Delivery in a Mobile Health Delivery Unit to Link Persons Who Inject Drugs to Integrated Care and Prevention for Addiction, HIV, HCV and Primary Care</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>HIV Prevention Trials Network</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>HIV Prevention Trials Network</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the efficacy of using a mobile health delivery unit&#xD;
+      (&quot;mobile unit&quot;) to deliver &quot;one stop&quot; integrated health services - particularly medication&#xD;
+      for opioid use disorder (MOUD) and medication for HIV treatment and prevention - to people&#xD;
+      who inject drugs (PWID) with opioid use disorder (OUD) to improve uptake and use of MOUD, and&#xD;
+      uptake and use of antiretroviral therapy (ART) or pre-exposure prophylaxis (PrEP).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study is to determine the efficacy of using a mobile health delivery unit&#xD;
+      (&quot;mobile unit&quot;) to deliver &quot;one stop&quot; integrated health services - particularly medication&#xD;
+      for opioid use disorder (MOUD) and medication for HIV treatment and prevention - to people&#xD;
+      who inject drugs (PWID) with opioid use disorder (OUD) to improve uptake and use of MOUD, and&#xD;
+      uptake and use of antiretroviral therapy (ART) or pre-exposure prophylaxis (PrEP). The&#xD;
+      intervention arm receiving health services in the mobile unit will be supported by peer&#xD;
+      navigation. An active control arm will receive peer navigation to health services available&#xD;
+      at community-based agencies. Impact (cost-effectiveness, mathematical modeling) and&#xD;
+      implementation factors (mixed methods to identify barriers and facilitators of the&#xD;
+      interventions) will contextualize findings from the efficacy analysis. The impact of the&#xD;
+      Coronavirus Disease 2019 (COVID-19) epidemic in the study population will also be assessed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2021</start_date>
+  <completion_date type="Anticipated">October 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, 1:1 study of 860 participants. Participants in the intervention arm will be provided integrated health services delivered in the mobile unit and peer navigation for 26 weeks. Participants in the active control arm will be provided 26 weeks of peer navigation to connect them to health services available at community-based agencies.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluate whether the intervention improves use of MOUD</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Evaluate whether the intervention improves use of MOUD, as measured at 26 weeks, by assessing the following endpoint:&#xD;
+• Documented current use of MOUD: alive, retained, with biological evidence of MOUD (any detectable medications) at the week 26 visit and a MOUD prescription current at 26 weeks after enrollment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate whether the intervention increases rates of viral suppression among HIV-positive individuals</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Evaluate whether the intervention increases rates of viral suppression among HIV-positive individuals, as measured at 26 weeks, by assessing the following endpoint:&#xD;
+• In the HIV-positive cohort: alive, retained, and virally suppressed (VL&lt;200 copies/mL) at the week 26 visit</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate whether the intervention increases use of PrEP among HIV-negative individuals</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Evaluate whether the intervention increases use of PrEP among HIV-negative individuals, as measured at 26 weeks, by assessing the following endpoint:&#xD;
+• In the HIV-negative cohort: alive, retained, HIV negative, with detectable PrEP drugs in dried blood spot (DBS) samples at the week 26 visit</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether the intervention improves use of MOUD</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Evaluate whether the intervention improves use of MOUD, compared to the active control condition, by assessing the following endpoints:&#xD;
+Documented current use of MOUD: alive, retained, with biological evidence of MOUD (any detectable medications) at the week 52 visit and a MOUD prescription current at 52 weeks after enrollment&#xD;
+Documented use of MOUD during the study: a MOUD prescription documented during the 52 weeks of study follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether the intervention increases rates of viral suppression among HIV-positive individuals</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Evaluate whether the intervention increases rates of viral suppression among HIV-positive individuals, compared to the active control condition, by assessing the following endpoint:&#xD;
+• In the HIV-positive cohort: alive, retained, and virally suppressed (VL &lt;200 copies/mL) at the week 52 visit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether the intervention increases use of PrEP among HIV-negative individuals</measure>
+    <time_frame>26 weeks and 52 weeks</time_frame>
+    <description>Evaluate whether the intervention increases use of PrEP among HIV-negative individuals, compared to the active control condition, by assessing the following endpoint(s):&#xD;
+In the HIV-negative cohort: alive, retained, HIV negative, with detectable PrEP drugs in DBS at the week 52 visit&#xD;
+In HIV-negative cohort: alive, retained, HIV negative, with protective levels of PrEP drugs in DBS samples at the week 26 and 52 visits</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether the intervention reduces opioid and polysubstance use at 26 and 52 weeks</measure>
+    <time_frame>26 weeks and 52 weeks</time_frame>
+    <description>Evaluate whether the intervention reduces opioid and polysubstance use at 26 and 52 weeks, compared to the active control condition, by assessing the following endpoint:&#xD;
+• Alive, retained, and no opioids (natural or synthetic), stimulants (methamphetamine, cocaine) or benzodiazepines detected in urine samples at the week 26 and 52 visits</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether the intervention reduces prevalence of bacterial STIs</measure>
+    <time_frame>26 weeks and 52 weeks</time_frame>
+    <description>Evaluate whether the intervention reduces prevalence of bacterial STIs, compared to the active control condition, by assessing the following endpoint:&#xD;
+• Alive, retained and no evidence of gonorrhea, chlamydia, or new or recurrent syphilis infection detected at the week 26 and 52 visits</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether the intervention reduces the rate of fatal overdose events by 26 and 52 weeks</measure>
+    <time_frame>26 weeks and 52 weeks</time_frame>
+    <description>Evaluate whether the intervention reduces the rate of fatal overdose events by 26 and 52 weeks, compared to the active control condition, by assessing the following endpoint:&#xD;
+• Death, with overdose as cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether the intervention reduces the rate of non-fatal overdose events by 26 and 52 weeks</measure>
+    <time_frame>26 weeks and 52 weeks</time_frame>
+    <description>Evaluate whether the intervention reduces the rate of non-fatal overdose events by 26 and 52 weeks, compared to the active control condition, by assessing the following endpoint:&#xD;
+• Self-report of non-fatal overdose, collected at week 26 and 52 visits</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess whether the intervention increases the proportion of participants with undetectable HCV RNA among those with chronic HCV infection at enrollment</measure>
+    <time_frame>26 weeks and 52 weeks</time_frame>
+    <description>Assess whether the intervention increases the proportion of participants with undetectable HCV RNA among those with chronic HCV infection at enrollment, compared to the active control condition, the following endpoint(s) will be assessed:&#xD;
+• Undetectable HCV RNA at the week 26 and 52 visits among participants with chronic HCV at enrollment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether the intervention reduces HCV incidence</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Evaluate whether the intervention reduces HCV incidence, compared to the active control condition, the following endpoint(s) will be assessed:&#xD;
+• HCV antibody positive at the week 52 visit among participants who are HCV antibody negative at enrollment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether 26 weeks of &quot;one stop&quot; integrated health services delivered in a mobile health delivery unit, supported by peer navigation, increases MOUD use</measure>
+    <time_frame>26 weeks and 52 weeks</time_frame>
+    <description>Evaluate whether 26 weeks of &quot;one stop&quot; integrated health services delivered in a mobile health delivery unit, supported by peer navigation, increases MOUD use, by assessing the following endpoint:&#xD;
+• In the intervention arm, change over time in the use of MOUD during the study, comparing documented use of MOUD (biological evidence of MOUD - any detectable medications - and a current MOUD prescription) at 26 and 52 weeks to documented use of MOUD at enrollment. MOUD use is assumed to be zero at enrollment due to study exclusion criteria. Follow-up endpoints will be defined as alive, retained, and having documented MOUD use.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether 26 weeks of &quot;one stop&quot; integrated health services delivered in a mobile health delivery unit, supported by peer navigation, increases viral suppression at 26 and 52 weeks</measure>
+    <time_frame>26 weeks and 52 weeks</time_frame>
+    <description>Evaluate whether 26 weeks of &quot;one stop&quot; integrated health services delivered in a mobile health delivery unit, supported by peer navigation, increases viral suppression at 26 and 52 weeks compared to enrollment, by assessing the following endpoint:&#xD;
+• In the intervention arm of the HIV-positive cohort: change over time in the proportion of people with viral suppression (VL&lt;200 copies/mL), comparing 26 and 52 weeks to enrollment. Follow-up endpoints will be defined as alive, retained, and virally suppressed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether 26 weeks of &quot;one stop&quot; integrated health services delivered in a mobile health delivery unit, supported by peer navigation, increases PrEP use at 26 and 52 weeks</measure>
+    <time_frame>26 weeks and 52 weeks</time_frame>
+    <description>Evaluate whether 26 weeks of &quot;one stop&quot; integrated health services delivered in a mobile health delivery unit, supported by peer navigation, increases PrEP use at 26 and 52 weeks compared to enrollment, by assessing the following endpoint:&#xD;
+• In the intervention arm of the HIV-negative cohort: change over time in the proportion of people with detectable PrEP drugs in DBS at 26 and 52 weeks compared to enrollment. Follow-up endpoints will be defined as alive, retained, and having detectable PrEP.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether 26 weeks of peer navigation to similar health services available at community-based agencies increases MOUD use at 26 and 52 weeks</measure>
+    <time_frame>26 weeks and 52 weeks</time_frame>
+    <description>Evaluate whether 26 weeks of peer navigation to similar health services available at community-based agencies increases MOUD use at 26 and 52 weeks compared to enrollment, by assessing the following endpoint:&#xD;
+• In the active control arm, change over time in the use of MOUD during the study, comparing documented use of MOUD (biological evidence of MOUD - any detectable medications - and a current MOUD prescription) at 26 and 52 weeks to documented MOUD use at enrollment. MOUD use is assumed to be zero at enrollment due to study exclusion criteria. Follow-up endpoints will be defined as alive, retained, and having documented MOUD use.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether 26 weeks of peer navigation to similar health services available at community-based agencies increases viral suppression at 26 and 52 weeks</measure>
+    <time_frame>26 weeks and 52 weeks</time_frame>
+    <description>Evaluate whether 26 weeks of peer navigation to similar health services available at community-based agencies increases viral suppression at 26 and 52 weeks compared to enrollment, by assessing the following endpoint:&#xD;
+• In the active control arm of the HIV-positive cohort: change over time in the proportion of people with viral suppression (VL&lt;200 copies/mL), comparing 26 and 52 weeks to enrollment. Follow-up endpoints will be defined as alive, retained, and virally suppressed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether 26 weeks of peer navigation to similar health services available at community-based agencies increases PrEP use at 26 and 52 weeks</measure>
+    <time_frame>26 weeks and 52 weeks</time_frame>
+    <description>Evaluate whether 26 weeks of peer navigation to similar health services available at community-based agencies increases PrEP use at 26 and 52 weeks compared to enrollment, by assessing the following endpoint:&#xD;
+• In the active control arm of the HIV-negative cohort: change over time in the proportion of people with detectable PrEP drugs in DBS at 26 and 52 weeks compared to enrollment. Follow-up endpoints will be defined as alive, retained, and having detectable PrEP.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the prevalence of SARS-CoV-2 seropositivity at baseline, 26 and 52 weeks</measure>
+    <time_frame>Baseline, 26 weeks, and 52 weeks</time_frame>
+    <description>Assess the prevalence of SARS-CoV-2 seropositivity at baseline, 26 and 52 weeks, the following endpoint will be assessed:&#xD;
+• Laboratory evidence of antibodies to SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Document the impact of the COVID-19 epidemic on participants' experiences of seeking, obtaining and/or maintaining health services, housing, food security and drugs</measure>
+    <time_frame>Up to 52 weeks</time_frame>
+    <description>Document the impact of the COVID-19 epidemic on participants' experiences of seeking, obtaining and/or maintaining health services, housing, food security and drugs, the team will:&#xD;
+• Document self-reported subjective experiences linked to COVID-19 when seeking MOUD, HIV care (ART, PrEP), STI testing and treatment, hepatitis screening and treatment, primary care, and harm reduction counseling.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">860</enrollment>
+  <condition>HIV Infections</condition>
+  <condition>Drug Use</condition>
+  <condition>Opioid Use</condition>
+  <condition>Opioid-use Disorder</condition>
+  <arm_group>
+    <arm_group_label>Integrated health services delivered in the mobile unit and peer navigation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the intervention arm will be provided integrated health services delivered in the mobile unit and peer navigation for 26 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Peer navigation to connect them to health services available at community-based agencies</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in the active control arm will be provided 26 weeks of peer navigation to connect them to health services available at community-based agencies.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Medication for opioid-use disorder (MOUD) for opioid-use disorder (OUD)</intervention_name>
+    <description>MOUD for OUD</description>
+    <arm_group_label>Integrated health services delivered in the mobile unit and peer navigation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>HIV testing</intervention_name>
+    <description>HIV testing</description>
+    <arm_group_label>Integrated health services delivered in the mobile unit and peer navigation</arm_group_label>
+    <arm_group_label>Peer navigation to connect them to health services available at community-based agencies</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HIV treatment for HIV-positive participants not already in care</intervention_name>
+    <description>HIV treatment for HIV-positive participants not already in care</description>
+    <arm_group_label>Integrated health services delivered in the mobile unit and peer navigation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PrEP for HIV-negative participants</intervention_name>
+    <description>PrEP for HIV-negative participants</description>
+    <arm_group_label>Integrated health services delivered in the mobile unit and peer navigation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Testing and referral for vaccination or treatment for hepatitis A virus (HAV) and hepatitis B virus (HBV)</intervention_name>
+    <description>Testing and referral for vaccination or treatment for HAV and HBV</description>
+    <arm_group_label>Integrated health services delivered in the mobile unit and peer navigation</arm_group_label>
+    <arm_group_label>Peer navigation to connect them to health services available at community-based agencies</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Testing and referral for treatment for hepatitis C virus (HCV)</intervention_name>
+    <description>Testing and referral for treatment for HCV</description>
+    <arm_group_label>Integrated health services delivered in the mobile unit and peer navigation</arm_group_label>
+    <arm_group_label>Peer navigation to connect them to health services available at community-based agencies</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Sexually transmitted infection (STI) testing and treatment</intervention_name>
+    <description>STI testing and treatment</description>
+    <arm_group_label>Integrated health services delivered in the mobile unit and peer navigation</arm_group_label>
+    <arm_group_label>Peer navigation to connect them to health services available at community-based agencies</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Primary care</intervention_name>
+    <description>Primary care</description>
+    <arm_group_label>Integrated health services delivered in the mobile unit and peer navigation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Harm reduction services</intervention_name>
+    <description>Harm reduction services</description>
+    <arm_group_label>Integrated health services delivered in the mobile unit and peer navigation</arm_group_label>
+    <arm_group_label>Peer navigation to connect them to health services available at community-based agencies</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Peer navigation</intervention_name>
+    <description>Peer navigation</description>
+    <arm_group_label>Integrated health services delivered in the mobile unit and peer navigation</arm_group_label>
+    <arm_group_label>Peer navigation to connect them to health services available at community-based agencies</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>COVID-19 testing and referral for further evaluation, care and/or treatment</intervention_name>
+    <description>COVID-19 testing and referral for further evaluation, care and/or treatment</description>
+    <arm_group_label>Integrated health services delivered in the mobile unit and peer navigation</arm_group_label>
+    <arm_group_label>Peer navigation to connect them to health services available at community-based agencies</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 to 60 years of age&#xD;
+&#xD;
+          -  Urine test positive for recent opioid use and with evidence of recent injection drug&#xD;
+             use (&quot;track marks&quot;)&#xD;
+&#xD;
+          -  Diagnosed with OUD per Diagnostic and Statistical Manual of Mental Disorders (DSM)-5&#xD;
+&#xD;
+          -  Able and willing to give informed consent&#xD;
+&#xD;
+          -  Willing to start MOUD treatment&#xD;
+&#xD;
+          -  Able to successfully complete an Assessment of Understanding&#xD;
+&#xD;
+          -  Self-reported sharing injection equipment and/or condomless sex in the last three&#xD;
+             months with partners of HIV-positive or unknown status&#xD;
+&#xD;
+          -  Able to provide adequate locator information&#xD;
+&#xD;
+          -  Confirmed HIV status, as defined in the HPTN 094 Study Specific Procedures Manual&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Received MOUD in the 30 days prior to enrollment by self-report&#xD;
+&#xD;
+          -  Co-enrollment in any other interventional study unless approved by the Clinical&#xD;
+             Management Committee (CMC)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sam Griffith, MAT</last_name>
+    <phone>919-544-7040</phone>
+    <email>sgriffith@fhi360.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Phil Andrew, RN</last_name>
+    <phone>919-544-7040</phone>
+    <email>pandrew@fhi360.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UCLA Vine Street Clinic</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>George Washington University CRS</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx Prevention Center CRS</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10451</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jessica Justman, MD</last_name>
+      <phone>212-342-0537</phone>
+      <email>jj2158@cumc.columbia.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jessica Justman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Penn Prevention CRS</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>David Metzger, MD</last_name>
+      <phone>215-746-7347</phone>
+      <email>dsm@pennmedicine.upenn.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Houston AIDS Research Team CRS</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Roberto Arduino, MD</last_name>
+      <phone>713-500-6731</phone>
+      <email>roberto.c.arduino@uth.tmc.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Hedegaard H, Miniño AM, Warner M. Drug Overdose Deaths in the United States, 1999-2018. NCHS Data Brief. 2020 Jan;(356):1-8.</citation>
+    <PMID>32487285</PMID>
+  </reference>
+  <reference>
+    <citation>Nicholson HL, Vincent J. Gender Differences in Prescription Opioid Misuse Among U.S. Black Adults. Subst Use Misuse. 2019;54(4):639-650. doi: 10.1080/10826084.2018.1531427. Epub 2018 Dec 13.</citation>
+    <PMID>30541373</PMID>
+  </reference>
+  <reference>
+    <citation>Allen B, Nolan ML, Kunins HV, Paone D. Racial Differences in Opioid Overdose Deaths in New York City, 2017. JAMA Intern Med. 2019 Apr 1;179(4):576-578. doi: 10.1001/jamainternmed.2018.7700.</citation>
+    <PMID>30742218</PMID>
+  </reference>
+  <reference>
+    <citation>Hedegaard H, Miniño AM, Warner M. Drug Overdose Deaths in the United States, 1999-2017. NCHS Data Brief. 2018 Nov;(329):1-8.</citation>
+    <PMID>30500323</PMID>
+  </reference>
+  <reference>
+    <citation>Ciccarone D. Fentanyl in the US heroin supply: A rapidly changing risk environment. Int J Drug Policy. 2017 Aug;46:107-111. doi: 10.1016/j.drugpo.2017.06.010. Epub 2017 Jul 20.</citation>
+    <PMID>28735776</PMID>
+  </reference>
+  <reference>
+    <citation>Ciccarone D. The triple wave epidemic: Supply and demand drivers of the US opioid overdose crisis. Int J Drug Policy. 2019 Sep;71:183-188. doi: 10.1016/j.drugpo.2019.01.010. Epub 2019 Feb 2.</citation>
+    <PMID>30718120</PMID>
+  </reference>
+  <reference>
+    <citation>Volkow ND, Frieden TR, Hyde PS, Cha SS. Medication-assisted therapies--tackling the opioid-overdose epidemic. N Engl J Med. 2014 May 29;370(22):2063-6. doi: 10.1056/NEJMp1402780. Epub 2014 Apr 23.</citation>
+    <PMID>24758595</PMID>
+  </reference>
+  <reference>
+    <citation>Kolodny A, Courtwright DT, Hwang CS, Kreiner P, Eadie JL, Clark TW, Alexander GC. The prescription opioid and heroin crisis: a public health approach to an epidemic of addiction. Annu Rev Public Health. 2015 Mar 18;36:559-74. doi: 10.1146/annurev-publhealth-031914-122957. Epub 2015 Jan 12. Review.</citation>
+    <PMID>25581144</PMID>
+  </reference>
+  <reference>
+    <citation>Compton WM, Jones CM, Baldwin GT. Relationship between Nonmedical Prescription-Opioid Use and Heroin Use. N Engl J Med. 2016 Jan 14;374(2):154-63. doi: 10.1056/NEJMra1508490. Review.</citation>
+    <PMID>26760086</PMID>
+  </reference>
+  <reference>
+    <citation>Compton WM, Volkow ND, Throckmorton DC, Lurie P. Expanded access to opioid overdose intervention: research, practice, and policy needs. Ann Intern Med. 2013 Jan 1;158(1):65-6. doi: 10.7326/0003-4819-158-1-201301010-00013.</citation>
+    <PMID>23277902</PMID>
+  </reference>
+  <reference>
+    <citation>Strathdee SA, Beyrer C. Threading the Needle--How to Stop the HIV Outbreak in Rural Indiana. N Engl J Med. 2015 Jul 30;373(5):397-9. doi: 10.1056/NEJMp1507252. Epub 2015 Jun 24.</citation>
+    <PMID>26106947</PMID>
+  </reference>
+  <reference>
+    <citation>Platt L, Easterbrook P, Gower E, McDonald B, Sabin K, McGowan C, Yanny I, Razavi H, Vickerman P. Prevalence and burden of HCV co-infection in people living with HIV: a global systematic review and meta-analysis. Lancet Infect Dis. 2016 Jul;16(7):797-808. doi: 10.1016/S1473-3099(15)00485-5. Epub 2016 Feb 25. Review.</citation>
+    <PMID>26922272</PMID>
+  </reference>
+  <reference>
+    <citation>Blanco C, Volkow ND. Management of opioid use disorder in the USA: present status and future directions. Lancet. 2019 Apr 27;393(10182):1760-1772. doi: 10.1016/S0140-6736(18)33078-2. Epub 2019 Mar 14. Review.</citation>
+    <PMID>30878228</PMID>
+  </reference>
+  <reference>
+    <citation>Peters PJ, Pontones P, Hoover KW, Patel MR, Galang RR, Shields J, Blosser SJ, Spiller MW, Combs B, Switzer WM, Conrad C, Gentry J, Khudyakov Y, Waterhouse D, Owen SM, Chapman E, Roseberry JC, McCants V, Weidle PJ, Broz D, Samandari T, Mermin J, Walthall J, Brooks JT, Duwve JM; Indiana HIV Outbreak Investigation Team. HIV Infection Linked to Injection Use of Oxymorphone in Indiana, 2014-2015. N Engl J Med. 2016 Jul 21;375(3):229-39. doi: 10.1056/NEJMoa1515195.</citation>
+    <PMID>27468059</PMID>
+  </reference>
+  <reference>
+    <citation>Cranston K, Alpren C, John B, Dawson E, Roosevelt K, Burrage A, Bryant J, Switzer WM, Breen C, Peters PJ, Stiles T, Murray A, Fukuda HD, Adih W, Goldman L, Panneer N, Callis B, Campbell EM, Randall L, France AM, Klevens RM, Lyss S, Onofrey S, Agnew-Brune C, Goulart M, Jia H, Tumpney M, McClung P, Dasgupta S, Bixler D, Hampton K; Amy Board, Jaeger JL, Buchacz K, DeMaria A Jr. Notes from the Field: HIV Diagnoses Among Persons Who Inject Drugs - Northeastern Massachusetts, 2015-2018. MMWR Morb Mortal Wkly Rep. 2019 Mar 15;68(10):253-254. doi: 10.15585/mmwr.mm6810a6.</citation>
+    <PMID>30870405</PMID>
+  </reference>
+  <reference>
+    <citation>Golden MR, Lechtenberg R, Glick SN, Dombrowski J, Duchin J, Reuer JR, Dhanireddy S, Neme S, Buskin SE. Outbreak of Human Immunodeficiency Virus Infection Among Heterosexual Persons Who Are Living Homeless and Inject Drugs - Seattle, Washington, 2018. MMWR Morb Mortal Wkly Rep. 2019 Apr 19;68(15):344-349. doi: 10.15585/mmwr.mm6815a2.</citation>
+    <PMID>30998671</PMID>
+  </reference>
+  <reference>
+    <citation>Williams AR, Nunes EV, Bisaga A, Pincus HA, Johnson KA, Campbell AN, Remien RH, Crystal S, Friedmann PD, Levin FR, Olfson M. Developing an opioid use disorder treatment cascade: A review of quality measures. J Subst Abuse Treat. 2018 Aug;91:57-68. doi: 10.1016/j.jsat.2018.06.001. Epub 2018 Jun 2. Review. Erratum in: J Subst Abuse Treat. 2018 Sep;92:99.</citation>
+    <PMID>29910015</PMID>
+  </reference>
+  <reference>
+    <citation>Malta M, Magnanini MM, Strathdee SA, Bastos FI. Adherence to antiretroviral therapy among HIV-infected drug users: a meta-analysis. AIDS Behav. 2010 Aug;14(4):731-47. doi: 10.1007/s10461-008-9489-7. Epub 2008 Nov 20.</citation>
+    <PMID>19020970</PMID>
+  </reference>
+  <reference>
+    <citation>Malta M, Ralil da Costa M, Bastos FI. The paradigm of universal access to HIV-treatment and human rights violation: how do we treat HIV-positive people who use drugs? Curr HIV/AIDS Rep. 2014 Mar;11(1):52-62. doi: 10.1007/s11904-013-0196-2. Review.</citation>
+    <PMID>24369409</PMID>
+  </reference>
+  <reference>
+    <citation>Volkow ND, Wargo EM. Overdose Prevention Through Medical Treatment of Opioid Use Disorders. Ann Intern Med. 2018 Aug 7;169(3):190-192. doi: 10.7326/M18-1397. Epub 2018 Jun 19.</citation>
+    <PMID>29913514</PMID>
+  </reference>
+  <reference>
+    <citation>Shoptaw S, Goodman-Meza D, Landovitz RJ. Collective Call to Action for HIV/AIDS Community-Based Collaborative Science in the Era of COVID-19. AIDS Behav. 2020 Jul;24(7):2013-2016. doi: 10.1007/s10461-020-02860-y.</citation>
+    <PMID>32300993</PMID>
+  </reference>
+  <reference>
+    <citation>Green TC, Bratberg J, Finnell DS. Opioid use disorder and the COVID 19 pandemic: A call to sustain regulatory easements and further expand access to treatment. Subst Abus. 2020;41(2):147-149. doi: 10.1080/08897077.2020.1752351.</citation>
+    <PMID>32314951</PMID>
+  </reference>
+  <reference>
+    <citation>National Academies of Sciences, Engineering, and Medicine; Health and Medicine Division; Board on Population Health and Public Health Practice; Committee on the Examination of the Integration of Opioid and Infectious Disease Prevention Efforts in Select Programs. Opportunities to Improve Opioid Use Disorder and Infectious Disease Services: Integrating Responses to a Dual Epidemic. Washington (DC): National Academies Press (US); 2020 Jan 23.</citation>
+    <PMID>32293827</PMID>
+  </reference>
+  <reference>
+    <citation>Iyengar S, Kravietz A, Bartholomew TS, Forrest D, Tookes HE. Baseline differences in characteristics and risk behaviors among people who inject drugs by syringe exchange program modality: an analysis of the Miami IDEA syringe exchange. Harm Reduct J. 2019 Jan 23;16(1):7. doi: 10.1186/s12954-019-0280-z.</citation>
+    <PMID>30674334</PMID>
+  </reference>
+  <reference>
+    <citation>Allen ST, Ruiz MS, Jones J. Assessing Syringe Exchange Program Access among Persons Who Inject Drugs (PWID) in the District of Columbia. J Urban Health. 2016 Feb;93(1):131-40. doi: 10.1007/s11524-015-0018-5.</citation>
+    <PMID>26786782</PMID>
+  </reference>
+  <reference>
+    <citation>Degenhardt L, Peacock A, Colledge S, Leung J, Grebely J, Vickerman P, Stone J, Cunningham EB, Trickey A, Dumchev K, Lynskey M, Griffiths P, Mattick RP, Hickman M, Larney S. Global prevalence of injecting drug use and sociodemographic characteristics and prevalence of HIV, HBV, and HCV in people who inject drugs: a multistage systematic review. Lancet Glob Health. 2017 Dec;5(12):e1192-e1207. doi: 10.1016/S2214-109X(17)30375-3. Epub 2017 Oct 23. Review. Erratum in: Lancet Glob Health. 2017 Nov 15;:.</citation>
+    <PMID>29074409</PMID>
+  </reference>
+  <reference>
+    <citation>Ait-Daoud N, Blevins D, Khanna S, Sharma S, Holstege CP, Amin P. Women and Addiction: An Update. Med Clin North Am. 2019 Jul;103(4):699-711. doi: 10.1016/j.mcna.2019.03.002. Review.</citation>
+    <PMID>31078201</PMID>
+  </reference>
+  <reference>
+    <citation>Palis H, Marchand K, Guh D, Brissette S, Lock K, MacDonald S, Harrison S, Anis AH, Krausz M, Marsh DC, Schechter MT, Oviedo-Joekes E. Men's and women's response to treatment and perceptions of outcomes in a randomized controlled trial of injectable opioid assisted treatment for severe opioid use disorder. Subst Abuse Treat Prev Policy. 2017 May 19;12(1):25. doi: 10.1186/s13011-017-0110-9.</citation>
+    <PMID>28526048</PMID>
+  </reference>
+  <reference>
+    <citation>Wejnert C, Hess KL, Hall HI, Van Handel M, Hayes D, Fulton P Jr, An Q, Koenig LJ, Prejean J, Valleroy LA. Vital Signs: Trends in HIV Diagnoses, Risk Behaviors, and Prevention Among Persons Who Inject Drugs - United States. MMWR Morb Mortal Wkly Rep. 2016 Dec 2;65(47):1336-1342. doi: 10.15585/mmwr.mm6547e1.</citation>
+    <PMID>27906906</PMID>
+  </reference>
+  <reference>
+    <citation>Lapham G, Boudreau DM, Johnson EA, Bobb JF, Matthews AG, McCormack J, Liu D, Samet JH, Saxon AJ, Campbell CI, Glass JE, Rossom RC, Murphy MT, Binswanger IA, Yarborough BJH, Bradley KA; PROUD Collaborative Investigators. Prevalence and treatment of opioid use disorders among primary care patients in six health systems. Drug Alcohol Depend. 2020 Feb 1;207:107732. doi: 10.1016/j.drugalcdep.2019.107732. Epub 2019 Nov 15.</citation>
+    <PMID>31835068</PMID>
+  </reference>
+  <reference>
+    <citation>Yu SWY, Hill C, Ricks ML, Bennet J, Oriol NE. The scope and impact of mobile health clinics in the United States: a literature review. Int J Equity Health. 2017 Oct 5;16(1):178. doi: 10.1186/s12939-017-0671-2. Review.</citation>
+    <PMID>28982362</PMID>
+  </reference>
+  <reference>
+    <citation>Curran GM, Bauer M, Mittman B, Pyne JM, Stetler C. Effectiveness-implementation hybrid designs: combining elements of clinical effectiveness and implementation research to enhance public health impact. Med Care. 2012 Mar;50(3):217-26. doi: 10.1097/MLR.0b013e3182408812.</citation>
+    <PMID>22310560</PMID>
+  </reference>
+  <reference>
+    <citation>Feldstein AC, Glasgow RE. A practical, robust implementation and sustainability model (PRISM) for integrating research findings into practice. Jt Comm J Qual Patient Saf. 2008 Apr;34(4):228-43.</citation>
+    <PMID>18468362</PMID>
+  </reference>
+  <reference>
+    <citation>Glasgow RE, Vogt TM, Boles SM. Evaluating the public health impact of health promotion interventions: the RE-AIM framework. Am J Public Health. 1999 Sep;89(9):1322-7. Review.</citation>
+    <PMID>10474547</PMID>
+  </reference>
+  <reference>
+    <citation>Miller WC, Hoffman IF, Hanscom BS, Ha TV, Dumchev K, Djoerban Z, Rose SM, Latkin CA, Metzger DS, Lancaster KE, Go VF, Dvoriak S, Mollan KR, Reifeis SA, Piwowar-Manning EM, Richardson P, Hudgens MG, Hamilton EL, Sugarman J, Eshleman SH, Susami H, Chu VA, Djauzi S, Kiriazova T, Bui DD, Strathdee SA, Burns DN. A scalable, integrated intervention to engage people who inject drugs in HIV care and medication-assisted treatment (HPTN 074): a randomised, controlled phase 3 feasibility and efficacy study. Lancet. 2018 Sep 1;392(10149):747-759. doi: 10.1016/S0140-6736(18)31487-9.</citation>
+    <PMID>30191830</PMID>
+  </reference>
+  <reference>
+    <citation>Morgan JR, Schackman BR, Leff JA, Linas BP, Walley AY. Injectable naltrexone, oral naltrexone, and buprenorphine utilization and discontinuation among individuals treated for opioid use disorder in a United States commercially insured population. J Subst Abuse Treat. 2018 Feb;85:90-96. doi: 10.1016/j.jsat.2017.07.001. Epub 2017 Jul 3.</citation>
+    <PMID>28733097</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 18, 2021</study_first_posted>
+  <last_update_submitted>March 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PrEP</keyword>
+  <keyword>MOUD</keyword>
+  <keyword>PWID</keyword>
+  <keyword>HIV</keyword>
+  <keyword>ART</keyword>
+  <keyword>Opioid Use Disorder</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>HIV Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Analgesics, Opioid</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Informed Consent Form</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 15, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/72/NCT04804072/Prot_ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

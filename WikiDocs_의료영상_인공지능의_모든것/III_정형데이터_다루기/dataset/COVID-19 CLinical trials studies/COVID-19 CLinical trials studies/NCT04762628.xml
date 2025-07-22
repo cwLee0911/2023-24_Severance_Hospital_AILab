@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2035">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04762628</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SaiseiMAF supplements COVID</org_study_id>
+    <nct_id>NCT04762628</nct_id>
+  </id_info>
+  <brief_title>Trial Efficacy of Saisei Pharma Dietary Supplements MAF Capsules, 148 mg and M Capsules, 148 mg in Hospitalized COVID-19 Patients</brief_title>
+  <acronym>SaiseiCovUKR</acronym>
+  <official_title>Randomized Trial to Assess the Efficacy and Safety of Dietary Supplements MAF Capsules, 148 mg and M Capsules, 148 mg in Addition to the Standard of Care (SOC) Compared SOC in the Treatment of Hospitalized With COVID-19 Patients Who Not Requiring the Mechanical Ventilation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Saisei Pharma</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Saisei Pharma</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The SaiseiCovUKR clinical study is a multicentric, randomize trail study targeting&#xD;
+      hospitalize with COVID-19 patients who not requiring the mechanical ventilation. This study&#xD;
+      aims to provide preliminary data on the activity and safety of MAF capsules and M capsules in&#xD;
+      the target population after 14 days of dosing. MAF capsules and M capsules are dietary&#xD;
+      supplements targeting gut's mucosal immunity to control local and systemic inflammation,&#xD;
+      limiting epithelial damage and prevent the accumulation of pathological macrophage&#xD;
+      populations in sites of SARS-CoV-2 infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      SaiSei Pharma is developing biologics using an enzymatical modification Vitamin D binging&#xD;
+      protein and other glycoproteins in biological substrates, which shown to in increase&#xD;
+      macrophages phagocytic and antigen processing activity without promoting proinflammatory&#xD;
+      profile on macrophages. Bovine colostrum is substrate MAF capsules and bovine whey for M&#xD;
+      capsules. Enteric capsules formulation of investigational dietary supplements targeting gut&#xD;
+      mucosa and its associated natural anti-inflammatory macrophages profile. The SaiseiCovUKR&#xD;
+      clinical study is multicentric, randomize, open-label in hospitalized with moderate and&#xD;
+      severe COVID-19 participants to provide data on the activity and safety of MAF capsules and M&#xD;
+      capsules in the target population after 14 days of dosing. The trial will use an adaptive&#xD;
+      design based on pre-specified criteria, using an independent external Data Monitoring&#xD;
+      Committee (DMC) to monitor safety, efficacy, and review data at appropriate intervals. The&#xD;
+      general objectives of the study are to obtain preliminary indication of activity of MAF&#xD;
+      capsules and M capsules on shortening time to the recovery and decreasing mortality in the&#xD;
+      target population (600 patients, age ≥ 18 years). The study results can provide a background&#xD;
+      for further investigation of studied dietary supplements as new drugs in COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 27, 2020</start_date>
+  <completion_date type="Anticipated">January 10, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The time to basic clinical improvement and to recovery defined as the following</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Hospitalized, not requiring supplemental oxygen, requires ongoing medical care&#xD;
+Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care&#xD;
+Not hospitalized, limitation on activities and/or requiring home oxygen&#xD;
+Not hospitalized, no limitations on activities</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>14-day Participant Mortality</measure>
+    <time_frame>Day 1 through Day 14</time_frame>
+    <description>The mortality rate will be determined as the proportion of participants who died by study Day 14</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>29-day Participant Mortality</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>The mortality rate will be determined as the proportion of participants who died by study Day 29</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants in Each Clinical Status Category as Assessed by a 9-Point Ordinal Scale on Day 14</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Clinical status derives from death, hospital discharge, and 9-Point Ordinal Scale as follows: score of &quot;8&quot; use for all days on or after the date of death; score of &quot;0&quot; use for all days on or after discharged alive date; last available assessment for missing value. The scale is as follows: 8. Death; 7. Hospitalized, on invasive mechanical ventilation with vasopressor or Extracorporeal Membrane Oxygenation; 6. Hospitalized, on invasive mechanical ventilation; 5. Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4. Hospitalized, requiring low flow supplemental oxygen; 3. Hospitalized, not requiring supplemental oxygen - requires ongoing medical care (coronavirus (COVID-19) related or otherwise; 2. Not hospitalized, limitation on activities and/or requiring home oxygen; 1. Not hospitalized, no limitation on activities; 0. No clinical or virological evidences of infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to an improvement of one category from admission on 9-Point Ordinal Scale</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Time to reach an improvement of one category from admission on 9-Point Ordinal Scale. The scale is as follows: 8. Death; 7. Hospitalized, on invasive mechanical ventilation with vasopressor or Extracorporeal Membrane Oxygenation; 6. Hospitalized, on invasive mechanical ventilation; 5. Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4. Hospitalized, requiring low flow supplemental oxygen; 3. Hospitalized, not requiring supplemental oxygen - requires ongoing medical care (coronavirus (COVID-19) related or otherwise; 2. Not hospitalized, limitation on activities and/or requiring home oxygen; 1. Not hospitalized, no limitation on activities; 0. No clinical or virological evidences of infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to an improvement of two categories from admission on 9-Point Ordinal Scale</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Time to reach an improvement of two categories from admission on 9-Point Ordinal Scale. The scale is as follows: 8. Death; 7. Hospitalized, on invasive mechanical ventilation with vasopressor or Extracorporeal Membrane Oxygenation; 6. Hospitalized, on invasive mechanical ventilation; 5. Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4. Hospitalized, requiring low flow supplemental oxygen; 3. Hospitalized, not requiring supplemental oxygen - requires ongoing medical care (coronavirus (COVID-19) related or otherwise; 2. Not hospitalized, limitation on activities and/or requiring home oxygen; 1. Not hospitalized, no limitation on activities; 0. No clinical or virological evidences of infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants in Each Clinical Status Category as Assessed by a 9-Point Ordinal Scale on Day at days 3, 5, 8, 11,14 and 29</measure>
+    <time_frame>Days 3, 5, 8, 11,14 and 29</time_frame>
+    <description>The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 8. Death; 7. Hospitalized, on invasive mechanical ventilation with vasopressor or Extracorporeal Membrane Oxygenation; 6. Hospitalized, on invasive mechanical ventilation; 5. Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4. Hospitalized, requiring low flow supplemental oxygen; 3. Hospitalized, not requiring supplemental oxygen - requires ongoing medical care (coronavirus (COVID-19) related or otherwise; 2. Not hospitalized, limitation on activities and/or requiring home oxygen; 1. Not hospitalized, no limitation on activities; 0. No clinical or virological evidences of infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in the ranking on 9-Point Ordinal Scale from baseline to days 3, 5, 8, 11, 14 and 29</measure>
+    <time_frame>Days 3, 5, 8, 11, 14 and 29</time_frame>
+    <description>The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 8. Death; 7. Hospitalized, on invasive mechanical ventilation with vasopressor or Extracorporeal Membrane Oxygenation; 6. Hospitalized, on invasive mechanical ventilation; 5. Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4. Hospitalized, requiring low flow supplemental oxygen; 3. Hospitalized, not requiring supplemental oxygen - requires ongoing medical care (coronavirus (COVID-19) related or otherwise; 2. Not hospitalized, limitation on activities and/or requiring home oxygen; 1. Not hospitalized, no limitation on activities; 0. No clinical or virological evidences of infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of conventional oxygen therapy Use</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Duration of conventional oxygen therapy use measures in days among participants who were on conventional oxygen therapy use at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of new conventional oxygen therapy Use</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Duration of new conventional oxygen therapy use measures in days among participants who were not on conventional oxygen therapy use at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Non-invasive Ventilation or High Flow Oxygen Use</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Duration of non-invasive ventilation or high flow oxygen use measures in days among participants who were on non-invasive ventilation or high-flow oxygen use at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of New Non-invasive Ventilation or High Flow Oxygen Use</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Duration of new non-invasive ventilation or high flow oxygen use measures in days among participants who were not on non-invasive ventilation or high-flow oxygen use at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Mechanical Ventilator or Extracorporeal Membrane Oxygenation (ECMO) Use</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Duration of Mechanical Ventilator or ECMO Use in days among all participants to whom it will be administrated</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Requiring New Oxygen Use</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>The percentage of participants requiring new oxygen determine as the percentage of participants not requiring oxygen at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Requiring New Non-invasive Ventilation or High-flow Oxygen Use</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>New non-invasive ventilation or high-flow oxygen use determines as the percentage of subjects not on non-invasive ventilation or high-flow oxygen at baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Requiring Ventilator or ECMO Use</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>The percentage of participants requiring Ventilator or ECMO Use</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidents of post-COVID-19 related symptoms at Day 29</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Incidents of all post-COVID-19 symptoms, which will be reported in the post-COVID-19 questionnaire form</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidents of post-COVID-19 related symptoms at Day 60</measure>
+    <time_frame>Day 60</time_frame>
+    <description>Incidents of all post-COVID-19 symptoms, which will be reported in the post-COVID-19 questionnaire form</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with post-COVID-19 related symptoms at Day 29</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Percentage of participants with presents post-COVID-19 related symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with post-COVID-19 related symptoms at Day 60</measure>
+    <time_frame>Day 60</time_frame>
+    <description>Percentage of participants with presents post-COVID-19 related symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Reporting Grade 3 and 4 Clinical and/or Laboratory Adverse Events (AEs)</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Grade 3 AEs are defined as events interrupting daily living activities, or significantly affects clinical status, or require intensive therapeutic intervention. Severe events are usually incapacitating. Grade 4 AEs are defined as potentially life threatening.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Reporting Serious Adverse Events (SAEs)</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>An SAE is defined as an AE or suspected adverse reaction is considered serious if, in the view of either the investigator or the sponsor, it results in death, a life-threatening AE, inpatient hospitalization or prolongation of existing hospitalization, a persistent or significant incapacity or substantial disruption of the ability to conduct normal life functions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Discontinued or Temporarily Suspended From Investigational dietary supplements</measure>
+    <time_frame>Day 1 through Day 14</time_frame>
+    <description>Participants may have discontinued from investigational dietary supplements due to products intolerability, applied mechanical ventilation, swallowing impairment, death. The discontinuation or temporary suspension intake of studied supplements for any reason will be collected.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Alanine Transaminase (ALT)</measure>
+    <time_frame>Days 1, 7, 14 and 29</time_frame>
+    <description>To evaluate ALT blood will be collected at Days 1, 7, and 14 while participants are inpatient, and at Day 29, with the Day 1 assessment serving as the baseline. Participants who will be discharged will have blood collected if infection control measures allowed for in-person visits after discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Aspartate Transaminase (AST)</measure>
+    <time_frame>Days 1, 7, 14 and 29</time_frame>
+    <description>To evaluate AST blood will be collected at Days 1, 7, and 14 while participants are inpatient, and at Day 29, with the Day 1 assessment serving as the baseline. Participants who will be discharged will have blood collected if infection control measures allowed for in-person visits after discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Total Bilirubin</measure>
+    <time_frame>Days 1, 7, 14 and 29</time_frame>
+    <description>To evaluate Total Bilirubin blood will be collected at Days 1, 7, and 14 while participants are inpatient, and at Day 29, with the Day 1 assessment serving as the baseline. Participants who will be discharged will have blood collected if infection control measures allowed for in-person visits after discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Creatinine</measure>
+    <time_frame>Days 1, 7, 14 and 29</time_frame>
+    <description>To evaluate serum Creatinine blood will be collected at Days 1, 7, and 14 while participants are inpatient, and at Day 29, with the Day 1 assessment serving as the baseline. Participants who will be discharged will have blood collected if infection control measures allowed for in-person visits after discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Glucose</measure>
+    <time_frame>Days 1, 7, 14 and 29</time_frame>
+    <description>To evaluate serum Glucose blood will be collected at Days 1, 7, and 14 while participants are inpatient, and at Day 29, with the Day 1 assessment serving as the baseline. Participants who will be discharged will have blood collected if infection control measures allowed for in-person visits after discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Hemoglobin</measure>
+    <time_frame>Days 1, 7, 14 and 29</time_frame>
+    <description>To evaluate Hemoglobin blood will be collected at Days 1, 7, and 14 while participants are inpatient, and at Day 29, with the Day 1 assessment serving as the baseline. Participants who will be discharged will have blood collected if infection control measures allowed for in-person visits after discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Platelets</measure>
+    <time_frame>Days 1, 7, 14 and 29</time_frame>
+    <description>To evaluate Platelets blood will be collected at Days 1, 7, and 14 while participants are inpatient, and at Day 29, with the Day 1 assessment serving as the baseline. Participants who will be discharged will have blood collected if infection control measures allowed for in-person visits after discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in White Blood Cell Count (WBC)</measure>
+    <time_frame>Days 1, 7, 14 and 29</time_frame>
+    <description>To evaluate WBC blood will be collected at Days 1, 7, and 14 while participants are inpatient, and at Day 29, with the Day 1 assessment serving as the baseline. Participants who will be discharged will have blood collected if infection control measures allowed for in-person visits after discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Lymphocytes</measure>
+    <time_frame>Days 1, 7, 14 and 29</time_frame>
+    <description>To evaluate Lymphocytes blood will be collected at Days 1, 7, and 14 while participants are inpatient, and at Day 29, with the Day 1 assessment serving as the baseline. Participants who will be discharged will have blood collected if infection control measures allowed for in-person visits after discharge.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change From Baseline in C-Reactive Protein</measure>
+    <time_frame>Days 1, 7 and 14</time_frame>
+    <description>To evaluate C-Reactive Protein, blood will be collected at Days 1, 7 and 14 while participants are inpatient, with the Day 1 assessment serving as the baseline. Participants who will be discharged will have blood collected if infection control measures allowed for in-person visits after discharge</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change From Baseline in D-Dimer</measure>
+    <time_frame>Days 1, 7 and 14</time_frame>
+    <description>To evaluate D-Dimer, blood will be collected at Days 1, 7 and 14 while participants are inpatient, with the Day 1 assessment serving as the baseline. Participants who will be discharged will have blood collected if infection control measures allowed for in-person visits after discharge</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change From Baseline in Lactate Dehydrogenase</measure>
+    <time_frame>Days 1, 7 and 14</time_frame>
+    <description>To evaluate Lactate Dehydrogenase, blood will be collected at Days 1, 7 and 14 while participants are inpatient, with the Day 1 assessment serving as the baseline. Participants who will be discharged will have blood collected if infection control measures allowed for in-person visits after discharge</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change From Baseline in Ferritin</measure>
+    <time_frame>Days 1, 7 and 14</time_frame>
+    <description>To evaluate Ferritin, blood will be collected at Days 1, 7 and 14 while participants are inpatient, with the Day 1 assessment serving as the baseline. Participants who will be discharged will have blood collected if infection control measures allowed for in-person visits after discharge</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">600</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>MAF capsules</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>MAF capsules 148 mg TID for 14 days + Standard of care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>M capsules</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>M capsules 148 mg TID for 14 days + Standard of care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Comparison</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard of care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>MAF capsules 148 mg</intervention_name>
+    <description>enteric capsules based on enzymatically treated bovine colostrum</description>
+    <arm_group_label>MAF capsules</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>M capsules 148 mg</intervention_name>
+    <description>enteric capsules based on enzymatically treated bovine whey</description>
+    <arm_group_label>M capsules</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>Standard of care</description>
+    <arm_group_label>Comparison</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients found positive RT-PCR for SARS-CoV-2 in any specimen on 4 days prior to&#xD;
+             randomization, those who are hospitalized with evidence of respiratory disease during&#xD;
+             clinical assessment or imaging&#xD;
+&#xD;
+          2. Male or non-pregnant female adult ≥18 years of age subject (or legally authorized&#xD;
+             representative) provides informed consent prior to initiation of any study procedures&#xD;
+&#xD;
+          3. Subject (or legally authorized representative) understands and agrees to comply with&#xD;
+             planned study procedures&#xD;
+&#xD;
+          4. Has illness of not more than 7 days duration&#xD;
+&#xD;
+          5. At the time of enrolment does not require immediate resuscitation or mechanical&#xD;
+             ventilation&#xD;
+&#xD;
+          6. Respiration rate ≤ 29 per minute&#xD;
+&#xD;
+          7. SpO2 ≤ 95% on room air&#xD;
+&#xD;
+          8. Agrees to not participate in another clinical trial through Day 29&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnant or breastfeeding woman&#xD;
+&#xD;
+          2. Known allergy to dairy products&#xD;
+&#xD;
+          3. On corticosteroids for COVID-19 therapy at the time of screening&#xD;
+&#xD;
+          4. Subjects who are taking corticosteroids or other immunosuppressive drugs for other&#xD;
+             medical conditions&#xD;
+&#xD;
+          5. Concurrent malignancy requiring chemotherapy&#xD;
+&#xD;
+          6. Known renal insufficiency with glomerular filtration rate (eGFR) &lt; 30 ml/min&#xD;
+             (including patients receiving hemodialysis or hemofiltration).&#xD;
+&#xD;
+          7. ALT or AST &gt; 5 times the upper limit of normal&#xD;
+&#xD;
+          8. Subjects receiving other Immune-Based Therapy for COVID-19, such as convalescent&#xD;
+             plasma, immunoglobulin products, interferons&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>The Central Hospital of Rubizhne, Infection Disease Department</name>
+      <address>
+        <city>Rubizhne</city>
+        <state>Luhansk Region</state>
+        <zip>93012</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal Kharkiv Regional Infectious Diseases Clinical Hospital</name>
+      <address>
+        <city>Kharkiv</city>
+        <zip>61000</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Ukraine</country>
+  </location_countries>
+  <reference>
+    <citation>Kawakatsu K, Ishikawa M, Mashiba R, Tran NK, Akamatsu M, Nishikata T. Characteristic Morphological Changes and Rapid Actin Accumulation in Serum-MAF-treated Macrophages. Anticancer Res. 2019 Aug;39(8):4533-4537. doi: 10.21873/anticanres.13630.</citation>
+    <PMID>31366556</PMID>
+  </reference>
+  <reference>
+    <citation>Uto Y, Kawai T, Sasaki T, Hamada K, Yamada H, Kuchiike D, Kubo K, Inui T, Mette M, Tokunaga K, Hayakawa A, Go A, Oosaki T. Degalactosylated/Desialylated Bovine Colostrum Induces Macrophage Phagocytic Activity Independently of Inflammatory Cytokine Production. Anticancer Res. 2015 Aug;35(8):4487-92.</citation>
+    <PMID>26168491</PMID>
+  </reference>
+  <reference>
+    <citation>Greilberger J, Herwig R. Vitamin D - Deglycosylated Vitamin D Binding Protein Dimer: Positive Synergistic Effects on Recognition, Activation, Phagocytosis and Oxidative Stress on Macrophages. Clin Lab. 2020 Jan 1;66(1). doi: 10.7754/Clin.Lab.2019.191121.</citation>
+    <PMID>32013346</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Colostrum MAF</keyword>
+  <keyword>Supplements</keyword>
+  <keyword>Oxygen supply</keyword>
+  <keyword>Mortality</keyword>
+  <keyword>Clinical improvement</keyword>
+  <keyword>lymphocyte depletion prevention</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The data will be shared via ISARIC COVID-19 Clinical Database.</ipd_description>
+    <ipd_time_frame>Data will be indefinitely available for requesting</ipd_time_frame>
+    <ipd_access_criteria>Reasonable request to investigators</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

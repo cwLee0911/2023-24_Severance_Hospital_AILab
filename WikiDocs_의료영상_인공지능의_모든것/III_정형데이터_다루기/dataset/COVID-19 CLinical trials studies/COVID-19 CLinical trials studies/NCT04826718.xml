@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2393">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04826718</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RIA2020ER-3049</org_study_id>
+    <nct_id>NCT04826718</nct_id>
+  </id_info>
+  <brief_title>SARS-CoV-2 Infection Among Health Care Workers</brief_title>
+  <official_title>Associated Factors in the Transmission and Dynamics of SARS-CoV-2 Infection Among Health Care Workers in Hospitals on the Islands of Santiago and São Vicente in Cabo Verde</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidade de Cabo Verde</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Southern Denmark</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Institute of Hygiene and Tropical Medicine, NOVA University, Lisbon, Portugal</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Public Health of Cape Verde, Praia, Cape Verde</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centro de Investigacao em Saude de Manhica</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>European and Developing Countries Clinical Trials Partnership (EDCTP)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Bandim Health Project, Bissau, Guinea-Bissau</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universidade de Cabo Verde</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The present study finds opportunities and justifications, taking into consideration that the&#xD;
+      nature of professional practice in health needs scientific evidence resulting from systematic&#xD;
+      and systemic studies to strengthen the basis for the decisions made to have an impact on&#xD;
+      various levels, from the patient to health management itself. In addition, Cabo Verdean&#xD;
+      authorities may benefit from new evidence obtained by this study. It intends, in a growing&#xD;
+      number of health professionals exposed or infected with SARS-CoV-2, involved at the front&#xD;
+      line, in the different health structures of the country, to contribute to substantiate a&#xD;
+      better perception of the problem and the required solutions. Therefore, assessing the&#xD;
+      potential risk factors for SARS-CoV-2 infection among healthcare workers will be essential to&#xD;
+      characterize virus transmission, preventing future infections in them and providing the&#xD;
+      associated healthcare. Due to the advances and important changes described, questions arise&#xD;
+      that guide this research and allow us to identify the problem.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The problem is stated in the following starting questions:&#xD;
+&#xD;
+      - What conditions are associated with infection and non-infection by SARS-CoV-2 among health&#xD;
+      professionals working in the three hospitals on the islands of Santiago and São Vicente? Who&#xD;
+      are they (gender, age group, profession, type of contact, etc)? Where do they work (sector)?&#xD;
+      When and how did the infection occur?&#xD;
+&#xD;
+        -  What is the frequency of antibody presence in professionals with confirmed SARS-CoV-2&#xD;
+           infection?&#xD;
+&#xD;
+        -  How long do anti-SARS-CoV-2 antibodies last?&#xD;
+&#xD;
+        -  What is the impact of infection on unplanned absenteeism?&#xD;
+&#xD;
+        -  What complaints persist after SARS-CoV-2 infection?&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 19, 2021</start_date>
+  <completion_date type="Anticipated">November 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>6 Months</target_duration>
+  <primary_outcome>
+    <measure>Presence of anti-SARS-CoV-2 Acs</measure>
+    <time_frame>From April to July 2021</time_frame>
+    <description>Time from infection to presence of Anti-SARS-CoV-2 antibodies</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Duration of anti-SARS-CoV-2 Acs</measure>
+    <time_frame>From June to December 2021</time_frame>
+    <description>Time from duration of Anti-SARS-CoV-2 Antibodies</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Unplanned Absenteeism</measure>
+    <time_frame>From June to December 2021</time_frame>
+    <description>Unplanned absenteeism following SARS-CoV-2 infection</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total number of days absent from work due to COVID-19</measure>
+    <time_frame>From June to December 2021</time_frame>
+    <description>Absenteeism due to COVID-19 related symptoms</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>BCG</condition>
+  <condition>Health Care Worker</condition>
+  <arm_group>
+    <arm_group_label>Cases</arm_group_label>
+    <description>Professionals who report positive SARS-CoV-2 infection confirmed by performing a positive PCR test and/or positive Rapid Antigen Test in the period prior to the interview</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <description>Professionals who report no SARS-CoV-2 infection by either of the cited methods in the period prior to the interview and/or suspected COVID-19 in the period prior to the interview</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>SARS-CoV-2 Serology</intervention_name>
+    <description>Capillary blood collection, for diagnosis of anti-SARS-CoV-2 Antibodies by rapid test, will be done at the first interview, for all controls.&#xD;
+Collection of peripheral venous blood, in the cradle area, for analysis of the presence and duration of anti-SARS-CoV-2 Antibodies will be done at the first interview, and after 3 and 6 months from selection, for all cases.&#xD;
+The serological diagnosis consists of testing for Anti-SARS-CoV-2 antibodies in a blood sample, and whole blood, plasma, or serum can be used. The tests of choice will be based on the principle of immunoassay by immunochromatography and/or ELISA.</description>
+    <arm_group_label>Cases</arm_group_label>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The population of the study is composed of health professionals working in the Hospitals of&#xD;
+        the islands of Santiago and S. Vicente.&#xD;
+&#xD;
+        In addition to measuring infection-related exposures, specific SARS-CoV-2 infection-related&#xD;
+        parameters will also be assessed for cases, including presence and duration of&#xD;
+        anti-SARS-CoV-2 antibodies; absenteeism due to infection; and self-reported symptomatology&#xD;
+        due to SARS-CoV-2/ COVID-19 infection. Cases will additionally be followed up for a period&#xD;
+        of 6 months to measure unplanned, infection-related absenteeism and illness-related&#xD;
+        symptomatology.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Being a healthcare professional working in one of the hospitals where the study will&#xD;
+             take place&#xD;
+&#xD;
+          -  Be aged ≥18 years;&#xD;
+&#xD;
+          -  Cases: SARS-CoV-2 infection confirmed by PCR test and/or Rapid Antigen Test;&#xD;
+&#xD;
+          -  Control: Negative rapid test for anti-SARS-CoV-2 antibodies.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Case: Confirmation of diagnosis test for SARS-CoV-2 without indication of specimen&#xD;
+             collection date.&#xD;
+&#xD;
+          -  Control: Suspected SARS-CoV-2 infection.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Universidade de Cabo Verde</name>
+      <address>
+        <city>Praia</city>
+        <state>Santiago</state>
+        <zip>379C</zip>
+        <country>Cape Verde</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Isabel Ines Araújo, PhD</last_name>
+      <phone>+2389948948</phone>
+      <email>iniza.araujo@adm.unicv.edu.cv</email>
+    </contact>
+    <contact_backup>
+      <last_name>Antonio Pedro Delgado, PhD</last_name>
+      <phone>+2389811344</phone>
+      <email>antoniop.delgado@docente.unicv.edu.cv</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Cape Verde</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 31, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>March 31, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5206">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04797208</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B01121</org_study_id>
+    <nct_id>NCT04797208</nct_id>
+  </id_info>
+  <brief_title>Remote Glucose Monitoring in Hospital Settings</brief_title>
+  <acronym>REMOTE-CGM</acronym>
+  <official_title>A Pilot Randomised Study to Assess Use of Real-time Continuous Glucose Monitoring in Comparison to Conventional Capillary Blood Glucose Monitoring During COVID-19 Pandemic in Hospitalised Patients With Diabetes Mellitus.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Manchester University NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Manchester Academic Health Science Centre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Manchester University NHS Foundation Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Use of real-time continuous glucose monitoring (RT-CGM) systems in inpatient settings&#xD;
+      especially during the COVID-19 pandemic, may allow hospital staff to remotely monitor glucose&#xD;
+      while reducing viral exposure and preserving use of PPE. RT-CGM may be of benefit to&#xD;
+      inpatients with unstable glycaemia and at risk of severe hypoglycaemia, as it can&#xD;
+      automatically alert the treating clinical team of hypo and hyperglycaemia. This is of&#xD;
+      clinical relevance as up to 45% of inpatients with diabetes were found to have asymptomatic&#xD;
+      hypoglycaemia events in hospital, especially overnight. It may therefore provide a safer&#xD;
+      method of monitoring glycaemia in hospital compared to conventional bedside capillary glucose&#xD;
+      testing, by minimising the likelihood of hyper- and hypoglycaemic events and their known&#xD;
+      associated worse outcomes.&#xD;
+&#xD;
+      The aim of this pilot study is to to demonstrate that use of Dexcom G6 RT-CGM may provide a&#xD;
+      safer and effective method of monitoring glycemia in hospital. Data from this pilot study&#xD;
+      will be used to design and implement a larger multi-centre pivotal trial.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hyperglycaemia in hospitalized patients is becoming a common clinical problem due to the&#xD;
+      increasing prevalence of diabetes mellitus. Hyperglycaemia in this cohort can also occur in&#xD;
+      patients with previously undiagnosed diabetes, or during acute illness in those with&#xD;
+      previously normal glucose tolerance. A growing body of evidence currently suggest that the&#xD;
+      degree of hyperglycaemia upon admission and the duration of hyperglycaemia during their&#xD;
+      illness are associated with adverse outcomes. In-patient hyperglycaemia is now widely&#xD;
+      recognised as a poor prognostic marker in terms of morbidity and mortality, increased length&#xD;
+      of stay and cost to the healthcare system. Analysis of data from nine randomised controlled&#xD;
+      trials and ten observational studies reported that treatment of hyperglycaemia in&#xD;
+      non-critically ill patients was associated with reduction in the risk of infection (relative&#xD;
+      risk, 0.41;95% confidence interval, 0.21-0.77).&#xD;
+&#xD;
+      The current management of inpatient hyperglycaemia in non-critical care is still far from&#xD;
+      ideal, and vary widely between different centres . The discordance between clinical evidence&#xD;
+      and practice is due to a number of factors which could potentially undermine patient care and&#xD;
+      safety. Of these, hypoglycaemia remains one the biggest barriers to managing in-patient&#xD;
+      hyperglycaemia. Hypoglycaemia is associated with increased length of stay (up to 2.3 times&#xD;
+      higher) and inpatient mortality. A recent meta-analyses reported that intensive glycaemic&#xD;
+      control on non-critical care patients is associated with a trend of increased risk of&#xD;
+      hypoglycaemia. Optimal glycaemic inpatient glucose targets still remain an intensely debated&#xD;
+      subject. Consensus from the American Association of Clinical Endocrinologists (AACE) and&#xD;
+      American Diabetes Association (ADA) recommended specified targets for hospitalised patients,&#xD;
+      of fasting or pre-meal blood glucose &lt;7.8mmol/l and random blood glucose &lt;10mmol/l.&#xD;
+&#xD;
+      Outpatient use of real-time continuous glucose monitoring (RT-CGM) is gradually increasing.&#xD;
+      Its implementation in the outpatient setting has been supported by robust scientific and&#xD;
+      clinical studies, showing benefits in glycaemic control, minimising hypoglycaemia and&#xD;
+      improving patient experience. Extending use of RT-CGM systems to inpatient settings&#xD;
+      especially during the COVID-19 pandemic may allow hospital staff to remotely monitor glucose&#xD;
+      while reducing viral exposure through frequent patient contact and preserving personal&#xD;
+      protective equipment (PPE). RT-CGM may be of benefit to inpatients with unstable glycemia&#xD;
+      (i.e. COVID-19 patients receiving dexamethasone therapy) and at risk of severe hypoglycemia,&#xD;
+      as it can automatically alert the treating clinical team of hypo- and hyperglycemia. Use of&#xD;
+      RT-CGM in hospital could therefore potentially benefits patients by improving their glycaemic&#xD;
+      control, and healthcare professionals working in busy general ward settings by providing&#xD;
+      remote real-time glucose monitoring from the patient every 10 minutes.&#xD;
+&#xD;
+      The main objective of this study is to assess the efficacy of RT-CGM in maintaining glucose&#xD;
+      levels within the target range (5.6 to 10.0 mmol/l) compared to conventional glucose&#xD;
+      monitoring in hospitalised insulin-treated T2D. Other objectives include evaluating safety of&#xD;
+      RT-CGM in terms of reducing the incidence of hypoglycaemia, severe hyperglycaemia, and&#xD;
+      collecting feedback of participants and healthcare professionals using RT-CGM in the general&#xD;
+      ward settings.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2021</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time in range</measure>
+    <time_frame>Up to 10 days</time_frame>
+    <description>% of time spent in target glucose sensor range (5.6-10.0mmol/l)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time above range</measure>
+    <time_frame>Up to 10 days</time_frame>
+    <description>% of time spent above target glucose sensor range (&gt;10.0mmol/l)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time below range</measure>
+    <time_frame>Up to 10 days</time_frame>
+    <description>% of time spent below target glucose sensor range (&lt;5.6mmol/l)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Average sensor glucose</measure>
+    <time_frame>Up to 10 days</time_frame>
+    <description>Mean glucose values as recorded by CGM</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glucose variability</measure>
+    <time_frame>Up to 10 days</time_frame>
+    <description>Coefficient of variation of glucose levels, as recorded by CGM</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level 1 hypoglycaemia</measure>
+    <time_frame>Up to 10 days</time_frame>
+    <description>% of time with sensor glucose values between 3.0 - 3.9 mmol/l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level 2 hypoglycaemia</measure>
+    <time_frame>Up to 10 days</time_frame>
+    <description>% of time with sensor glucose values &lt;3.0 mmol/l</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Severe hypoglycaemia</measure>
+    <time_frame>Up to 10 days</time_frame>
+    <description>Frequency of Level 3 (severe hypoglycaemia) events and number of hypoglycaemia treatments required</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Significant hyperglycaemia</measure>
+    <time_frame>Up to 10 days</time_frame>
+    <description>Frequency of significant hyperglycaemia (&gt;20mmol/l) events</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Usability</measure>
+    <time_frame>Up to 10 days</time_frame>
+    <description>Feedback and experience of using CGM from participants and healthcare professionals</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Diabetes Mellitus, Type 2</condition>
+  <condition>Hyperglycemia Stress</condition>
+  <condition>Hypoglycemia</condition>
+  <arm_group>
+    <arm_group_label>Real-Time CGM</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will have a subcutaneous RT-CGM inserted by a member of the research team. CGM's low and high glucose alerts will be activated. The treating clinical team will be able to remotely monitor glucose data and be notified of low glucose alerts through the linked handset. Hyper- and hypo-glycemia management including insulin dose adjustments by the treating clinical team, will be guided by sensor glucose levels and trends according to written guidelines during the study. Glucose level during and post-hypoglycaemia treatment will be confirmed by capillary blood glucose (CBG) measurements (using the NovaStat® glucometer or similar CE-marked glucose meter).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Capillary blood glucose with masked CGM</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This group will have their glucose monitored in hospital using the NovaStat® glucometer or similar CE-marked glucose meter) and insulin dose adjusted by the treating clinical team as per usual hospital guidelines. A masked subcutaneous CGM will be inserted by a member of the research team to collect glucose values (glucose values will not be displayed and no glucose alerts will be available). This will removed at the end of the study by the research team.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Real-Time CGM</intervention_name>
+    <description>Participants will be wearing a real-time continuous glucose sensor which will enable their glucose levels to be remotely monitored. High and Low glucose alerts will also be available.</description>
+    <arm_group_label>Real-Time CGM</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Capillary blood glucose testing with masked CGM</intervention_name>
+    <description>Participants will have their glucose monitored in hospital in the conventional manner using the NovaStat® glucometer or similar CE-marked glucose meter) and insulin dose adjusted by the treating clinical team as per usual hospital guidelines. A masked subcutaneous CGM will be inserted for data collection only.</description>
+    <arm_group_label>Capillary blood glucose with masked CGM</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Aged 18 years or older&#xD;
+&#xD;
+          2. Diagnosed with Type 2 diabetes&#xD;
+&#xD;
+          3. Currently receiving treatment with subcutaneous insulin alone, or in combination with&#xD;
+             oral glucose-lowering medication(s)&#xD;
+&#xD;
+          4. At least one CBG level &gt; 10mmol/l&#xD;
+&#xD;
+          5. Have the ability to consent in English&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Autoimmune type 1 diabetes&#xD;
+&#xD;
+          2. Known or suspected allergy against insulin&#xD;
+&#xD;
+          3. Current or planned pregnancy or breast feeding&#xD;
+&#xD;
+          4. Current in-patient in intensive care unit&#xD;
+&#xD;
+          5. Planned surgery during study period&#xD;
+&#xD;
+          6. Any physical or psychological disease or medication(s) likely to interfere with the&#xD;
+             conduct of the study and interpretation of the study results, as judged by the study&#xD;
+             clinician.&#xD;
+&#xD;
+          7. Likely discharge earlier than 72 hours&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 15, 2021</study_first_posted>
+  <last_update_submitted>March 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Inpatient diabetes</keyword>
+  <keyword>Real-time continuous glucose monitoring</keyword>
+  <keyword>Glucose sensors</keyword>
+  <keyword>Remote monitoring</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+    <mesh_term>Hypoglycemia</mesh_term>
+    <mesh_term>Hyperglycemia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>We may consider reasonable written request.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

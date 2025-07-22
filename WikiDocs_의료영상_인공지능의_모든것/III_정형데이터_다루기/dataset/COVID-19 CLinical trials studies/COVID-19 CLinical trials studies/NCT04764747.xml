@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1874">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04764747</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CP in COVID-19 patients</org_study_id>
+    <nct_id>NCT04764747</nct_id>
+  </id_info>
+  <brief_title>Effectiveness of Convalescent Plasma in Hospitalized Patients With COVID-19</brief_title>
+  <official_title>Evaluating Effectiveness of Convalescent Plasma and Factors Influencing Therapeutic Outcome in Hospitalized Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kufa University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Kufa University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multicenter retrospective cohort study from June to August 2020 on hospitalized COVID-19&#xD;
+      patients admitted to Al-Hakeem and Al-Amal hospital in Al-Najaf Governorate, Iraq, in order&#xD;
+      to evaluating the effectiveness of plasma therapy in hospitalized patients with COVID-19 and&#xD;
+      analyzing factors that affect therapeutic outcome, either related to patients or related to&#xD;
+      donors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronavirus Disease 2019 (COVID-19) is a contagious disease with high rate of fatality caused&#xD;
+      by severe acute respiratory syndrome coronavirus 2 (SARS-COV-2). In Wuhan, the capital of&#xD;
+      China's Hubei province, the disease was first detected in December 2019 and has since spread&#xD;
+      globally, resulting in the continuing 2019 and 2020 coronavirus pandemic. The World Health&#xD;
+      Organization (WHO) has proclaimed that on 30 January 2020, the outbreak will be a public&#xD;
+      health emergency of international concern and will be known as a pandemic on 11 March 2020.&#xD;
+      To date, no unique antiviral therapy or effective disease-containing vaccine exists.&#xD;
+      Therefore, it is an urgent need to look for an alternative strategy for COVID-19 treatment,&#xD;
+      especially among severe patients. For more than a century, convalescent plasma (CP) therapy,&#xD;
+      a classic adaptive immunotherapy, has been used to prevent and treat many infectious&#xD;
+      diseases. CP therapy has been successfully used in the treatment of severe acute respiratory&#xD;
+      syndrome (SARS), Middle east respiratory syndrome (MERS), and the 2009 H1N1 pandemic with&#xD;
+      adequate effectiveness and protection over the past two decades. For patients with serious or&#xD;
+      life-threatening COVID-19, the US Food and Drug Administration (FDA) recently approved the&#xD;
+      emerging use of convalescent plasma. While the use of convalescent plasma looks promising,&#xD;
+      there is still little evidence supporting its use in the treatment of COVID-19 and its use is&#xD;
+      therefore still investigational.&#xD;
+&#xD;
+      Also, there is lack of standardization and evidence-based rationale in donor eligibility&#xD;
+      requirements account for factors such as age, sex, weight, symptom course, antibody titer and&#xD;
+      it is association with clinical outcome. Additionally, recipient related factors including&#xD;
+      age, sex, weight, disease severity, time of CP use and concomitant treatment must be&#xD;
+      considered in prediction the response to CP therapy and this may help to explain the varied&#xD;
+      therapeutic effects of CP seen in a variety of studies. Considering the above-mentioned facts&#xD;
+      and high number of patients treated with CP in AL Najaf-Hakeem hospital and Amal hospital we&#xD;
+      designed this study to evaluate the effectiveness of CP therapy in hospitalized patients with&#xD;
+      COVID-19 and find patients and donor related factors to predicts the responders and not&#xD;
+      responders.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to clinical improvement</measure>
+    <time_frame>14 days</time_frame>
+    <description>modified six-point ordinal scale of COVID-19</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Find the prediction factors associated with good outcome of patients on CP therapy</measure>
+    <time_frame>14 days</time_frame>
+    <description>Demographic data and clinical parameters of patients associated with positive therapeutic outcome for CP measured as number of patients discharge from hospital with complete recovery (negative PCR for COVID-19). The association determined by univariate and multivariate analysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to negative PCR</measure>
+    <time_frame>14 days</time_frame>
+    <description>number of days required for patients to be have negative PCR (free viral load)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate</measure>
+    <time_frame>21 days</time_frame>
+    <description>number of deaths</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital stay time</measure>
+    <time_frame>21 days</time_frame>
+    <description>duration of stay in hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse effect of plasma therapy</measure>
+    <time_frame>21 days</time_frame>
+    <description>to asses the frequency of adverse effect of convalescent plasma</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Hospitalized patients diagnosed with COVID-19&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult 18 years old or older.&#xD;
+&#xD;
+          -  COVID-19 confirmed by reverse transcriptase-polymerase chain reaction (RT-PCR).&#xD;
+&#xD;
+          -  hospitalized adult patients with COVID-19.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with history of alleragy to plasma transfusion.&#xD;
+&#xD;
+          -  Patients with history of autoimmune disease or selective IgA deficiency.&#xD;
+&#xD;
+          -  Patients with suspected coronavirus.&#xD;
+&#xD;
+          -  Patients with incomplete data in his record.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ms.Ph. Zainab Hadi</last_name>
+    <phone>07728250857</phone>
+    <email>zainabhadi1991@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Assist.Prof.Dr.Hayder Ch. Assad</last_name>
+    <phone>07705652560</phone>
+    <email>hayderc.allmi@uokufa.edu.iq</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Al-Amal Hospital</name>
+      <address>
+        <city>Najaf</city>
+        <country>Iraq</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dr. Tariq Amir</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Al-Hakeem Hospital</name>
+      <address>
+        <city>Najaf</city>
+        <country>Iraq</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dr. Raed Abd Ali</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Iraq</country>
+  </location_countries>
+  <reference>
+    <citation>Chauhan S. Comprehensive review of coronavirus disease 2019 (COVID-19). Biomed J. 2020 Aug;43(4):334-340. doi: 10.1016/j.bj.2020.05.023. Epub 2020 Jun 1. Review.</citation>
+    <PMID>32788071</PMID>
+  </reference>
+  <reference>
+    <citation>Li L, Zhang W, Hu Y, Tong X, Zheng S, Yang J, Kong Y, Ren L, Wei Q, Mei H, Hu C, Tao C, Yang R, Wang J, Yu Y, Guo Y, Wu X, Xu Z, Zeng L, Xiong N, Chen L, Wang J, Man N, Liu Y, Xu H, Deng E, Zhang X, Li C, Wang C, Su S, Zhang L, Wang J, Wu Y, Liu Z. Effect of Convalescent Plasma Therapy on Time to Clinical Improvement in Patients With Severe and Life-threatening COVID-19: A Randomized Clinical Trial. JAMA. 2020 Aug 4;324(5):460-470. doi: 10.1001/jama.2020.10044. Erratum in: JAMA. 2020 Aug 4;324(5):519.</citation>
+    <PMID>32492084</PMID>
+  </reference>
+  <reference>
+    <citation>Duan K, Liu B, Li C, Zhang H, Yu T, Qu J, Zhou M, Chen L, Meng S, Hu Y, Peng C, Yuan M, Huang J, Wang Z, Yu J, Gao X, Wang D, Yu X, Li L, Zhang J, Wu X, Li B, Xu Y, Chen W, Peng Y, Hu Y, Lin L, Liu X, Huang S, Zhou Z, Zhang L, Wang Y, Zhang Z, Deng K, Xia Z, Gong Q, Zhang W, Zheng X, Liu Y, Yang H, Zhou D, Yu D, Hou J, Shi Z, Chen S, Chen Z, Zhang X, Yang X. Effectiveness of convalescent plasma therapy in severe COVID-19 patients. Proc Natl Acad Sci U S A. 2020 Apr 28;117(17):9490-9496. doi: 10.1073/pnas.2004168117. Epub 2020 Apr 6.</citation>
+    <PMID>32253318</PMID>
+  </reference>
+  <reference>
+    <citation>Farhat RM, Mousa MA, Daas EJ, Glassberg MK. Treatment of COVID-19: Perspective on Convalescent Plasma Transfusion. Front Med (Lausanne). 2020 Jul 28;7:435. doi: 10.3389/fmed.2020.00435. eCollection 2020.</citation>
+    <PMID>32850916</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Kufa University</investigator_affiliation>
+    <investigator_full_name>Zainab Hadi Ibadi</investigator_full_name>
+    <investigator_title>Ms.Ph. Zainab Hadi Ibadi</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

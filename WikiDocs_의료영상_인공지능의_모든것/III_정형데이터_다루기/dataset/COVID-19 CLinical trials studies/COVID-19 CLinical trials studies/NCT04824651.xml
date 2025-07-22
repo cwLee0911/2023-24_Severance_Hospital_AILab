@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1462">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04824651</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ANRS0001S</org_study_id>
+    <nct_id>NCT04824651</nct_id>
+  </id_info>
+  <brief_title>Covid-19 Vaccine Cohort in Specific Populations</brief_title>
+  <acronym>COV-POPART</acronym>
+  <official_title>Covid-19 Vaccine Cohort in Specific Populations</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ANRS, Emerging Infectious Diseases</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Institut National de la Santé Et de la Recherche Médicale, France</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>ANRS, Emerging Infectious Diseases</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multicentre national cohort study with prospective data collection and biological specimen&#xD;
+      collection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary Objective&#xD;
+&#xD;
+      1.Evaluate in a standardized manner in each subpopulation the humoral immune response to&#xD;
+      Covid-19 vaccination at 1, 6, 12, 24 months (M) after the last dose of vaccine (1 or 2 dose&#xD;
+      schedule depending on the vaccines).&#xD;
+&#xD;
+      Secondary objectives&#xD;
+&#xD;
+        1. Compare the humoral immune response at 1, 6, 12, 24 months after the last vaccine dose&#xD;
+           (1 or 2 dose schedule depending on the vaccine) of each subpopulation with a control&#xD;
+           group of subjects without the chronic diseases of interest .&#xD;
+&#xD;
+        2. In each subpopulation, study the factors associated with the humoral immune response at&#xD;
+           1 month and the persistence of the humoral immune response at 6, 12, 24 months as a&#xD;
+           function of age, stage of disease, treatments, type of vaccine (as well as&#xD;
+           characteristics specific to the subpopulations studied).&#xD;
+&#xD;
+        3. Compare the humoral immune response between different specific subpopulations.&#xD;
+&#xD;
+        4. Study the seroconversion for anti-nucleoprotein antibodies.&#xD;
+&#xD;
+        5. Immuno-virologically characterize vaccine failures (SARS-CoV2 infection) during&#xD;
+           follow-up.&#xD;
+&#xD;
+        6. Identify genetic determinants of the immune response based on the underlying pathology&#xD;
+           and ongoing treatments if applicable (response and resistance to vaccination).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 25, 2021</start_date>
+  <completion_date type="Anticipated">September 25, 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 25, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Humoral immunity to Covid-19 vaccination using 2 serological criteria:</measure>
+    <time_frame>Month 1</time_frame>
+    <description>Anti-Spike (test 1) and anti RBD (test 2) antibodies (quantitative Elisa) and seroneutralization for participants having test 1 and / or test 2 positive: percentage of patients with a titre ≥40.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Humoral immunity to Covid-19 vaccination using 2 serological criteria:</measure>
+    <time_frame>Month 6</time_frame>
+    <description>Anti-Spike (test 1) and anti RBD (test 2) antibodies (quantitative Elisa) and seroneutralization for participants having test 1 and / or test 2 positive: percentage of patients with a titre ≥40.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Humoral immunity to Covid-19 vaccination using 2 serological criteria:</measure>
+    <time_frame>Month 12</time_frame>
+    <description>Anti-Spike (test 1) and anti RBD (test 2) antibodies (quantitative Elisa) and seroneutralization for participants having test 1 and / or test 2 positive: percentage of patients with a titre ≥40.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Humoral immunity to Covid-19 vaccination using 2 serological criteria:</measure>
+    <time_frame>Month 24</time_frame>
+    <description>Anti-Spike (test 1) and anti RBD (test 2) antibodies (quantitative Elisa) and seroneutralization for participants having test 1 and / or test 2 positive: percentage of patients with a titre ≥40.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants seroconverting for Anti Nucleoprotein AB</measure>
+    <time_frame>Month 1</time_frame>
+    <description>(qualitative Elisa)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants seroconverting for Anti Nucleoprotein AB</measure>
+    <time_frame>Month 6</time_frame>
+    <description>(qualitative Elisa)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants seroconverting for Anti Nucleoprotein AB</measure>
+    <time_frame>Month 12</time_frame>
+    <description>(qualitative Elisa)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants seroconverting for Anti Nucleoprotein AB</measure>
+    <time_frame>Month 24</time_frame>
+    <description>(qualitative Elisa)</description>
+  </primary_outcome>
+  <number_of_groups>13</number_of_groups>
+  <enrollment type="Anticipated">10500</enrollment>
+  <condition>Immune Deficiency</condition>
+  <arm_group>
+    <arm_group_label>Solid cancer</arm_group_label>
+    <description>800 participants</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Solid organ transplantation</arm_group_label>
+    <description>700 participants</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Allogeneic hematopoietic stem cell transplantation</arm_group_label>
+    <description>350 participants</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Chronic renal failure</arm_group_label>
+    <description>Patients with chronic renal failure stage 4, 5 who receive dialysis or not 350 participants</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Autoimmune and autoinflammatory systemic diseases</arm_group_label>
+    <description>Systemic lupus erythematosus ,Systemic Vasculitides,...&#xD;
+750 participants</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Multiple sclerosis/ Neuromyelitis optica diseases</arm_group_label>
+    <description>MS defined by Mac Donald et al. 2017 and Neuromyelitis optica defined by Wingerchuk et al. 2015 ; 600 participants</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Chronic inflammatory rheumatism</arm_group_label>
+    <description>Ankylosing spondylitis and rheumatoid polyarthritis&#xD;
+750 participants</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hypogammaglobulinemia</arm_group_label>
+    <description>300 participants</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Obese non diabetic</arm_group_label>
+    <description>BMI&gt;30 1400 participants</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Diabetic (type I and II) obese or not</arm_group_label>
+    <description>1400 participants</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>People living with HIV-1</arm_group_label>
+    <description>1400 participants</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Senior group (free from chronic conditions of interest listed above)</arm_group_label>
+    <description>≥75 years 450 participants</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group (free from chronic conditions of interest listed above)</arm_group_label>
+    <description>18 to 74 years 1400 participants</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVID-19 vaccine</intervention_name>
+    <description>Vaccination done as part of France's COVID-19 Vaccination Campaign</description>
+    <arm_group_label>Allogeneic hematopoietic stem cell transplantation</arm_group_label>
+    <arm_group_label>Autoimmune and autoinflammatory systemic diseases</arm_group_label>
+    <arm_group_label>Chronic inflammatory rheumatism</arm_group_label>
+    <arm_group_label>Chronic renal failure</arm_group_label>
+    <arm_group_label>Control group (free from chronic conditions of interest listed above)</arm_group_label>
+    <arm_group_label>Diabetic (type I and II) obese or not</arm_group_label>
+    <arm_group_label>Hypogammaglobulinemia</arm_group_label>
+    <arm_group_label>Multiple sclerosis/ Neuromyelitis optica diseases</arm_group_label>
+    <arm_group_label>Obese non diabetic</arm_group_label>
+    <arm_group_label>People living with HIV-1</arm_group_label>
+    <arm_group_label>Senior group (free from chronic conditions of interest listed above)</arm_group_label>
+    <arm_group_label>Solid cancer</arm_group_label>
+    <arm_group_label>Solid organ transplantation</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Laboratory tests:&#xD;
+&#xD;
+      PCR SARS-Cov2 (Severe Acute Respiratory Syndrome-related Coronavirus-2) Serology (research&#xD;
+      Anti-Spike - Anti RBD (Receptor Binding Domain) + neutralization tests) peripheral blood&#xD;
+      mononuclear cell : PBMC (immunity testing) total blood for DNA bank Plasma bank RNA bank&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        It is planned to include 10 500 participants.&#xD;
+&#xD;
+        The specific populations of the study are:&#xD;
+&#xD;
+        Patients with solid cancer Patients transplanted solid organs Allogeneic hematopoietic stem&#xD;
+        cell transplantation patients Patients with chronic kidney failure disease and dialysis&#xD;
+        Patients with Multiple Sclerosis / Neuromyelitis optica spectrum disorder Patients with&#xD;
+        Chronic inflammatory rheumatism Patients with Autoimmune and autoinflammatory systemic&#xD;
+        diseases Patients with Hypogammaglobulinemia Patients obese non diabetic Patients diabetic&#xD;
+        (type I and II) obese or not People with HIV-1 (only)&#xD;
+&#xD;
+        Control group (free from chronic conditions of interest listed above):&#xD;
+&#xD;
+        18 to 74 years&#xD;
+&#xD;
+        ≥75 years (senior group)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria :&#xD;
+&#xD;
+        Inclusion criteria General inclusion criteria for patients with a chronic condition of&#xD;
+        interest&#xD;
+&#xD;
+          -  Be 18 years or older&#xD;
+&#xD;
+          -  Present at least one pathology listed in the part listed above&#xD;
+&#xD;
+          -  Get vaccinated against Covid-19 as part of the national vaccination campaign&#xD;
+&#xD;
+          -  Accept the conditions of participation corresponding to each sub-population&#xD;
+&#xD;
+          -  Commit to respecting the schedule of visits provided in the research protocol&#xD;
+&#xD;
+          -  Plan to reside in France for at least 2.5 years from inclusion date&#xD;
+&#xD;
+          -  Give their free, informed and written consent (at the latest on the day of inclusion&#xD;
+             and before any examination / samples / vaccination) by signing the consent form&#xD;
+&#xD;
+          -  Be a member of or beneficiary of a social security scheme (State Medical Aid is not a&#xD;
+             social security scheme).&#xD;
+&#xD;
+        Inclusion criteria specific to Solid Organ Transplantation&#xD;
+&#xD;
+          -  Not presenting intercurrent infections (cholangitis)&#xD;
+&#xD;
+          -  No prior anaphylaxis and cellular or humoral rejection within 3 months&#xD;
+&#xD;
+          -  Having more than 3 months of remission after treatment with Thymoglobulin or Rituximab&#xD;
+             (for lung transplant recipients)&#xD;
+&#xD;
+        Inclusion criteria for control subjects&#xD;
+&#xD;
+          -  Being older than 18&#xD;
+&#xD;
+          -  Get vaccinated against Covid-19 as part of the national vaccination campaign&#xD;
+&#xD;
+          -  Be free from the chronic conditions of interest listed in the context section&#xD;
+&#xD;
+          -  Commit to respecting the schedule of visits provided in the research protocol&#xD;
+&#xD;
+          -  Plan to reside in France for at least 2.5 years from inclusion date&#xD;
+&#xD;
+          -  Give their free, informed and written consent (at the latest on the day of inclusion&#xD;
+             and before any examination / samples / vaccination) by signing the consent form, which&#xD;
+             appears at the end of this document.&#xD;
+&#xD;
+          -  Be a member of or beneficiary of a social security scheme (State Medical Aid is not a&#xD;
+             social security scheme).&#xD;
+&#xD;
+        General non inclusion Criteria:&#xD;
+&#xD;
+          -  Be under protective supervision (guardian or curatorship)&#xD;
+&#xD;
+          -  Present a contraindication to Covid-19 vaccination&#xD;
+&#xD;
+          -  Have a known or suspected allergy to any component of the vaccine&#xD;
+&#xD;
+          -  Have had at-risk contact with a confirmed Covid-19 person in the last 7 days&#xD;
+&#xD;
+          -  Have presented clinical signs suggestive of Covid-19 in the last 7 days.&#xD;
+&#xD;
+          -  Have an acute febrile episode on inclusion / vaccination&#xD;
+&#xD;
+          -  Have had a documented Covid-19 Infection (PCR or antigenic test)&#xD;
+&#xD;
+          -  Have already received an injection of a Covid-19 vaccine&#xD;
+&#xD;
+          -  Have received a vaccine in the last 15 days&#xD;
+&#xD;
+          -  Refuse that their Social Security number is collected for accessing the National&#xD;
+             Health Data System (NSDS)/Data Health Hub national health databases&#xD;
+&#xD;
+          -  For safety reasons, people participating in this research must agree to not enter in a&#xD;
+             vaccine clinical trial during the entire period of inclusion and follow-up of the&#xD;
+             research&#xD;
+&#xD;
+        Specific non inclusion criteria for patients with a chronic condition of interest&#xD;
+&#xD;
+        •Being a pregnant or breastfeeding woman&#xD;
+&#xD;
+        Specific non inclusion criteria for PLWHIV&#xD;
+&#xD;
+          -  Being infected with HIV-2&#xD;
+&#xD;
+          -  Presenting another cause for immunosuppression (undergoing immunosuppressive&#xD;
+             treatment, biotherapy)&#xD;
+&#xD;
+          -  Presenting a non controlled opportunistic infection&#xD;
+&#xD;
+        Specific non-inclusion of healthy volunteers (control group 18-74 years old and senior&#xD;
+        group)&#xD;
+&#xD;
+          -  Have cognitive disorders that do not allow free and informed consent to be given&#xD;
+&#xD;
+          -  Have one or more of the chronic conditions of interest listed above or affected by any&#xD;
+             other pathology or treatment that may affect the immune response&#xD;
+             (autoimmune/inflammatory pathology or immune deficiency not listed above, liver&#xD;
+             failure, immunosuppressive therapy (like oral corticosteroids at &gt;= 10 mg/d Prednisone&#xD;
+             equivalent for more than 15 days) or radiotherapy within 6 months prior to inclusion&#xD;
+             or planned for the duration of the study&#xD;
+&#xD;
+          -  Life expectancy of less than 2 years&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Linda Wittkop, MDPhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU de Bordeaux, Université de Bordeaux</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Paul Loubet, MDPhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU de Nimes, Université de Nimes</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Odile Launay, MDPhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistance Publique des Hôpitaux de Paris, Université de Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Laure Esterle, PhD</last_name>
+    <phone>+33 5 57 57 92 71</phone>
+    <email>laure.esterle@u-bordeaux.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Julie Longobardi</last_name>
+    <phone>+33 5 57 57 13 92</phone>
+    <email>julie.longobardi@u-bordeaux.fr</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://www.covireivac.fr/vous-allez-etre-vaccine-contre-la-covid-19-faites-progresser-les-connaissances-en-participant-a-la-cohorte-anrs-cov-popart/</url>
+    <description>communication to the general public</description>
+  </link>
+  <link>
+    <url>https://www.anrs.fr/fr/presse/communiques-de-presse/801/la-recherche-vaccinale-covid-19-se-poursuit-au-sein-de-la</url>
+    <description>press release</description>
+  </link>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19 vaccine</keyword>
+  <keyword>Immunogenicity</keyword>
+  <keyword>Immunosuppression</keyword>
+  <keyword>Population at risk</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immunologic Deficiency Syndromes</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

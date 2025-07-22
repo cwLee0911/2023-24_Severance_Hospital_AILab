@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2139">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04760639</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00102970</org_study_id>
+    <nct_id>NCT04760639</nct_id>
+  </id_info>
+  <brief_title>COVID Breath Test - Ancon</brief_title>
+  <official_title>Breath Test Feasibility Trial for COVID-19 Infection Diagnosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of South Carolina</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medical University of South Carolina</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to look at the effectiveness of a new technology call Nanotechnology&#xD;
+      Biomarker Tagging (NBT) in detecting COVID-19 infection using breath samples of patients.&#xD;
+      Participation in this study is expected to take less than one month and will consist of a&#xD;
+      breath sample being taken by the research team, a cheek swab being taken by the research&#xD;
+      team, a questionnaire that will be completed by the participant with the help of the research&#xD;
+      teams, and a review of your medical record.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 16, 2020</start_date>
+  <completion_date type="Anticipated">April 16, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 16, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Provide an adequate sample and compare the signals given from the two groups.</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>The samples from the participants will be analyzed to identify the different signals given from Covid-19 positive patients and Covid-19 negative patients</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Test group</arm_group_label>
+    <description>Participants who have a positive Covid-19 Test or negative Covid-19 test who provide a breath sample.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Breath test</intervention_name>
+    <description>Participants provide a breath sample</description>
+    <arm_group_label>Test group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will consist of particpants who are receiving Covid-19 testing, as&#xD;
+        well as in-patient and out-patients with Covid-19.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 years and older&#xD;
+&#xD;
+          -  Patients that present for COVID-19 testing, have tested Covid negative, or Covid&#xD;
+             Positive patients.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unable to consent&#xD;
+&#xD;
+          -  Patients on a ventilator&#xD;
+&#xD;
+          -  Pregnant Women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Michael F Balassone</last_name>
+    <phone>843-6792-6696</phone>
+    <email>Balassom@musc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Gerard A Silvestri, MD</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael F Balassone</last_name>
+      <phone>843-792-6696</phone>
+      <email>Balassom@musc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Gerard A Silvestri, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 18, 2021</study_first_posted>
+  <last_update_submitted>February 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Medical University of South Carolina</investigator_affiliation>
+    <investigator_full_name>Gerard Silvestri, MD</investigator_full_name>
+    <investigator_title>Professor of Medicine</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="159">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04756869</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUM00180076</org_study_id>
+    <nct_id>NCT04756869</nct_id>
+  </id_info>
+  <brief_title>Monitoring Health Care Workers at Risk for COVID-19 Using Wearable Sensors and Smartphone Technology</brief_title>
+  <official_title>Monitoring Health Care Workers at Risk for COVID-19 Using Wearable Sensors and Smartphone Technology</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Michigan</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This prospective study of health care workers utilizes wearable sensors, surveys and symptom&#xD;
+      logs, and biospecimens in an effort to improve self-monitoring practices for COVID-19 among&#xD;
+      health care workers and to provide key data for the development of a predictive model for&#xD;
+      early detection of COVID-19 infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Health care workers work on the front lines of the COVID-19 pandemic, so early detection of&#xD;
+      COVID-19 infection is especially important in this population in order to prevent the spread&#xD;
+      of disease among the health care workforce, their patients, and their families. However,&#xD;
+      standard symptomatic COVID-19 testing is insufficient to protect health care workers and&#xD;
+      prevent the spread of disease. This study utilizes continuous physiological data from&#xD;
+      wearable sensors and surveys completed via smartphone technology, in conjunction with&#xD;
+      biospecimens, in order to assist health care workers in their self-monitoring for COVID-19&#xD;
+      infection. Subjects will wear smart watches and temperature monitoring patches to collect&#xD;
+      continuous heart rate and temperature data. Subjects will also complete baseline and exit&#xD;
+      surveys, in addition to daily mood and symptom logging surveys. Finally, subjects will&#xD;
+      provide biospecimens - nasal and saliva samples and optional blood samples. Using wearable&#xD;
+      sensor data in conjunction with survey data and biospecimens, this study aims to prevent the&#xD;
+      spread of COVID-19 among health care workers, their patients, and their families, and to&#xD;
+      eventually develop a predictive model for early detection of COVID-19 infection.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">April 28, 2020</start_date>
+  <completion_date type="Anticipated">January 2023</completion_date>
+  <primary_completion_date type="Actual">January 16, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of Wearing Fitbit Watch</measure>
+    <time_frame>30 days</time_frame>
+    <description>Feasibility is defined as wearing the Fitbit Watch for at least 8 hours a day, 5 days a week (~40 hours/week or 160 hours/30 days).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of Wearing TempTraq Patch</measure>
+    <time_frame>30 days</time_frame>
+    <description>Feasibility is defined as wearing the TempTraq for at least 8 hours a day, five days a week (~40 hours/week or 160 hours/30 days).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Survey Completion Rate</measure>
+    <time_frame>30 days</time_frame>
+    <description>This outcome is measured by the percentage of subjects that complete their surveys, estimating that at least 50% of subjects will complete the baseline and exit surveys, and at least 50% of subjects will complete at least 50% of the daily symptom surveys.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Clinical Health Outcomes</measure>
+    <time_frame>2 years</time_frame>
+    <description>Detection of SARS-CoV-2 using any of the following: biospecimens, self-reported test results, a database of COVID-19 testing and results maintained in Employee Health at Michigan Medicine, and subjects' electronic medical records</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">226</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Health Care Workers at Risk for COVID-19</arm_group_label>
+    <description>Health care workers at risk for COVID-19 will be monitored using wearing sensors and smartphone technology.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID-19 Monitoring Using Wearable Sensors and Smartphone Technology</intervention_name>
+    <description>Health care workers are on-study for 30 days, in which they wear a smart watch and temperature patches up to daily. Subjects also may provide nasal and saliva samples up to daily during the study period, and they may opt-in to blood samples lasting up to 1 year after study completion. Through a smartphone app, participants complete surveys at baseline and at study completion, as well as daily mood surveys and symptom-reporting surveys. Finally, exit interviews occur at the end of the study period, and follow-up interviews may occur at specified timepoints up to 1 year after study completion.</description>
+    <arm_group_label>Health Care Workers at Risk for COVID-19</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Subjects will provide self-collected nasal and saliva samples up to daily during the study&#xD;
+      period. These samples will be used to test for SARS-CoV-2, which will help to establish an&#xD;
+      estimate of the asymptomatic carrier frequency in the health care worker population. Subjects&#xD;
+      can also opt-in to providing blood samples at up to three time points within a year of&#xD;
+      enrollment, with a goal of determining baseline and changes in antibody titers to SARS-CoV-2,&#xD;
+      as well as obtaining specimens for the measurement of other immunologic parameters and&#xD;
+      biomarkers - including immune cell profiling and DNA/RNA-seq analysis. Subjects that receive&#xD;
+      a diagnosis of COVID-19 while on-study may provide additional nasal swabs, saliva, and/or&#xD;
+      blood specimens up to 1 year after study completion.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Health care workers at Michigan Medicine at risk for COVID-19&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult Michigan Medicine health care workers age 18 years and older.&#xD;
+&#xD;
+          -  Health care workers who are involved in direct (in-person) face-to-face patient care&#xD;
+             or health care workers who are not involved in direct (in-person) face-to-face patient&#xD;
+             care but work on units where COVID-19 patients are/will likely be treated.&#xD;
+&#xD;
+          -  Possession of a smartphone (Apple or Android).&#xD;
+&#xD;
+          -  Ability to understand and demonstrate willingness to remotely sign a written informed&#xD;
+             consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unwilling or unable to comply with the study procedures or to allow the study team&#xD;
+             access to health data.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sung Choi, MD, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Michigan Medicine</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 16, 2021</study_first_posted>
+  <last_update_submitted>February 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Sung Won Choi</investigator_full_name>
+    <investigator_title>Edith S Briskin and Shirley K Schlafer Foundation Research Professor of Pediatrics and Associate Professor of Pediatrics and Communicable Diseases</investigator_title>
+  </responsible_party>
+  <keyword>mobile health</keyword>
+  <keyword>wearable sensors</keyword>
+  <keyword>COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data (IPD) will be shared with other researchers when the appropriate Data Use Agreement (DUA) is in place. What IPD will be shared is undecided at this time.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

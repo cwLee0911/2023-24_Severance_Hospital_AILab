@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2768">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04802083</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ECU-COV-402</org_study_id>
+    <nct_id>NCT04802083</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Soliris Expanded Access Protocol</brief_title>
+  <official_title>SOLIRIS® (Eculizumab) for the Treatment of Participants With Coronavirus Disease 2019 (COVID-19) - An Expanded Access Protocol</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alexion Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Alexion Pharmaceuticals</source>
+  <brief_summary>
+    <textblock>
+      This protocol provides participants with COVID-19 access to Soliris.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open-label, multicenter, expanded access protocol that will provide access to&#xD;
+      Soliris for participants diagnosed with severe acute respiratory syndrome coronavirus 2&#xD;
+      (SARS-COV-2) infection with a clinical presentation consistent with COVID-19 associated organ&#xD;
+      injury, such as acute respiratory distress syndrome, stroke, or acute renal failure.&#xD;
+      Participants who qualify for emergency treatment (whether in an inpatient or outpatient&#xD;
+      setting) will be offered the opportunity to receive up to 7 infusions of Soliris over&#xD;
+      approximately 4 weeks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Available</overall_status>
+  <study_type>Expanded Access</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <expanded_access_info>
+    <expanded_access_type_intermediate>Yes</expanded_access_type_intermediate>
+  </expanded_access_info>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Eculizumab</intervention_name>
+    <description>Eculizumab 900-1200 mg will be administered intravenously.</description>
+    <other_name>Soliris, monoclonal antibody</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Males or females ≥ 18 years of age and body weight ≥ 40 kg.&#xD;
+&#xD;
+          2. Confirmed diagnosis of SARS-COV-2 infection by any method used by the institution (eg,&#xD;
+             via reverse transcriptase polymerase chain reaction and/or antibody test).&#xD;
+&#xD;
+          3. Willing to receive vaccination against Neisseria meningitidis and prophylactic&#xD;
+             antibiotics against meningococcal infections if the participant has not been&#xD;
+             vaccinated within 5 years prior to Day 1.&#xD;
+&#xD;
+          4. In the opinion of the Investigator, the participant is suitable to be enrolled in the&#xD;
+             expanded access protocol (EAP), based on the participant's overall clinical condition&#xD;
+             and the known Soliris benefit/risk profile.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Unresolved Neisseria meningitidis infection.&#xD;
+&#xD;
+          2. Known hypersensitivity to murine proteins or to an excipient of Soliris.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Alexion Pharmaceuticals, Inc.</last_name>
+    <phone>855-75202356</phone>
+    <email>alexionaccess@alexion.com</email>
+  </overall_contact>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 17, 2021</study_first_posted>
+  <last_update_submitted>March 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Soliris</keyword>
+  <keyword>eculizumab</keyword>
+  <keyword>C5 inhibitor</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-COV-2</keyword>
+  <keyword>acute lung injury</keyword>
+  <keyword>severe pneumonia</keyword>
+  <keyword>acute respiratory distress syndrome</keyword>
+  <keyword>severe acute respiratory syndrome coronavirus 2</keyword>
+  <keyword>severe acute respiratory syndrome</keyword>
+  <keyword>multi-organ injury</keyword>
+  <keyword>hospitalization</keyword>
+  <keyword>antibodies, monoclonal, humanized</keyword>
+  <keyword>emergency treatment</keyword>
+  <keyword>viral</keyword>
+  <keyword>expanded access</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

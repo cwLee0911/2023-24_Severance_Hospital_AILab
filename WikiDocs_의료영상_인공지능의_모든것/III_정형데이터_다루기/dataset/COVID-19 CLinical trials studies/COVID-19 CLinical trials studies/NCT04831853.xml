@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3801">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04831853</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RBHP 2020 MOISSET 2</org_study_id>
+    <secondary_id>2020-A02913-36</secondary_id>
+    <nct_id>NCT04831853</nct_id>
+  </id_info>
+  <brief_title>Self- Versus Conventional-swabbing for COVID-19 Screening (COVISWAB)</brief_title>
+  <acronym>COVISWAB</acronym>
+  <official_title>Comparison for Sensitivity and Tolerance of Self-swabbing and Conventional Nasopharyngeal Swabbing for SARS-CoV-2 Detection for Pain, Discomfort and Acceptability: a Randomized Controlled Non-inferiority Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Clermont-Ferrand</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Clermont-Ferrand</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Self-swabbing requires less personal protective equipment and could allow to test more people&#xD;
+      and even to do quick self-diagnosis if antigenic tests are available.&#xD;
+&#xD;
+      In a preliminary study on 190 medical students, the investigators have shown that self and&#xD;
+      conventional swabbing were identically well-accepted with equivalent level of pain and&#xD;
+      discomfort induced by swabbing. In a sub-group of this sample, the investigators have shown&#xD;
+      that the quality of the 2 sampling methods were equivalent.&#xD;
+&#xD;
+      The goal of this large study in the general population is to confirm these findings in an&#xD;
+      adequately powered study. Such results would allow to develop self-swabbing for large&#xD;
+      screening campaigns and eventually self-diagnosis using antigenic tests.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      All consecutive subjects coming to the 2 dedicated centers for COVID-19 screening in&#xD;
+      Clermont-Ferrand University hospital (one for medical students and one for the general&#xD;
+      population) will be asked to be included in the present study. They will be randomly assigned&#xD;
+      to either supervised self-swabbing followed by conventional swabbing led by a healthcare&#xD;
+      professional or the other way round.&#xD;
+&#xD;
+      All the subjects will have to complete a brief questionnaire including demographical&#xD;
+      characteristics (age, sex, height, weight, eye color), potential symptoms (asthenia, fever,&#xD;
+      anosmia…) anticipated pain and discomfort and previous nasopharyngeal swabbing experience.&#xD;
+      Pain, discomfort and overall acceptability of the procedure will be completed just after&#xD;
+      completion of the swabbing.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized sequence of supervised self-swabbing and conventional swabbing for SARS-CoV-2 screening</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Non-inferiority of self-swabbing compared to conventional swabbing concerning diagnosis sensitivity</measure>
+    <time_frame>5 minutes after the end of the procedure of nasopharyngeal swabbing</time_frame>
+    <description>assessed using consistency of COVID-19 RT-PCR results for both sampling modalities (Self- swabbing versus conventional-swabbing). If non-inferiority is confirmed on this criterion, pain will be tested.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between age, sex and swabbing-induced pain</measure>
+    <time_frame>5 minutes after the end of the procedure</time_frame>
+    <description>Score on the pain numeric rating scale (0 to 10; higher scores meaning more pain)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between eye color and swabbing-induced pain</measure>
+    <time_frame>5 minutes after the end of the procedure</time_frame>
+    <description>Eye-color self-reported by the subject on a validated 14 item scale and pain score on the numeric rating scale (NRS) (0 to 10; higher scores meaning more pain)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between eye color and swabbing-induced discomfort</measure>
+    <time_frame>5 minutes after the end of the procedure</time_frame>
+    <description>Eye-color self-reported by the subject on a validated 14 item scale and discomfort score on numeric rating scale (0 to 10; higher scores meaning more discomfort)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between symptoms (fever, headache, asthenia, anosmia, agueusia, cough, dyspnea, muscle pain, sore throat, diarrhea) and swabbing-induced pain</measure>
+    <time_frame>5 minutes after the end of the procedure</time_frame>
+    <description>symptoms self-reported by the subject and pain score on numeric rating scale (0 to 10; higher scores meaning more pain)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between body mass index and swabbing-induced pain</measure>
+    <time_frame>5 minutes after the end of the procedure</time_frame>
+    <description>symptoms self-reported by the subject and pain score on numeric rating scale (0 to 10; higher scores meaning more pain)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between anticipated pain and actual pain</measure>
+    <time_frame>5 minutes after the end of the procedure</time_frame>
+    <description>anticipated and actual pain self-reported on numeric rating scale (0 to 10; higher scores meaning more pain)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between anticipated discomfort and actual discomfort.</measure>
+    <time_frame>5 minutes after the end of the procedure</time_frame>
+    <description>anticipated and actual discomfort self-reported on numeric rating scale (0 to 10; higher scores meaning more pain)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Richness assessment for respiratory cells</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Ct value of beta-globin gene</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Non-inferiority of self-swabbing compared to conventional swabbing concerning pain</measure>
+    <time_frame>5 minutes after the end of the procedure of nasopharyngeal swabbing</time_frame>
+    <description>assessed using a Numerical Rating Scale (0 indicating no pain and 10 the worst imaginable pain). If non-inferiority is confirmed on this criterion, discomfort will be tested</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Non-inferiority of self-swabbing compared to conventional swabbing concerning pain discomfort</measure>
+    <time_frame>5 minutes after the end of the procedure of nasopharyngeal swabbing</time_frame>
+    <description>assessed using a Numerical Rating Scale (0 indicating no discomfort and 10 the worst imaginable discomfort). If non-inferiority is confirmed on this criterion, acceptability will be tested</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Non-inferiority of self-swabbing compared to conventional swabbing concerning acceptability</measure>
+    <time_frame>5 minutes after the end of the procedure of nasopharyngeal swabbing</time_frame>
+    <description>assessed using a Numerical Rating Scale (0 indicating that the procedure is not acceptable at all and 10 that the procedure is perfectly well accepted).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Supervised self-swabbing followed by conventional swabbing</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>the subjects will first benefit from a 5 minutes explanation on how to perform self-swabbing and will then performed the swabbing under the supervision of a trained healthcare professional</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventional swabbing followed by supervised self-swabbing</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>the subject will undergo conventional nasopharyngeal swabbing performed by a trained healthcare professional first.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>nasopharyngeal swabbing procedure (self swabbing first)</intervention_name>
+    <description>Patient realises the nasal swabbing himself first, then undergoes conventionnal swabbing</description>
+    <arm_group_label>Supervised self-swabbing followed by conventional swabbing</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>nasopharyngeal swabbing procedure (conventionnal swabbing first)</intervention_name>
+    <description>patient undergoes conventionnal swabbing first then realises the nasal swabbing himself</description>
+    <arm_group_label>Conventional swabbing followed by supervised self-swabbing</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Any subject coming for nasopharyngeal swabbing for SARS-CoV-2 screening&#xD;
+&#xD;
+          -  Fluent in French (both oral and written)&#xD;
+&#xD;
+          -  Able to give an eclaired consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contra-indication to nasopharyngeal swabbing&#xD;
+&#xD;
+          -  Refusal to participate&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Xavier MOISSET</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Clermont-Ferrand</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lise LACLAUTRE</last_name>
+    <phone>+33473754963</phone>
+    <email>promo_interne_drci@chu-clermontferrand.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU de Clermont-Ferrand</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <zip>63000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lise Laclautre</last_name>
+      <phone>+33473754963</phone>
+      <email>promo_interne_drci@chu-clermontferrand.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Xavier Moisset</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jean Beytout</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Cécile Henquell</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Laurent Gerbaud</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Claire Aumerand</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>April 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2021</study_first_posted>
+  <last_update_submitted>April 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Nasopharyngeal swabbing</keyword>
+  <keyword>Self-swabbing</keyword>
+  <keyword>pain</keyword>
+  <keyword>Sensitivity</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

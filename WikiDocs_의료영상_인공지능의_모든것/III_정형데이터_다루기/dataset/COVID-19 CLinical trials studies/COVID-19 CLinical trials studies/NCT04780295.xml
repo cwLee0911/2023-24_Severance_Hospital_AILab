@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2553">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04780295</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CTH C010</org_study_id>
+    <secondary_id>DRKS00022277</secondary_id>
+    <nct_id>NCT04780295</nct_id>
+  </id_info>
+  <brief_title>COvid-19 REgistry on THROMBOSIS Complications</brief_title>
+  <acronym>CORE-THROMB</acronym>
+  <official_title>COvid-19 REgistry on THROMBOSIS Complications Associated With Hospitalization: the CORE-THROMBOSIS</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Prof. Stavros Konstantinides, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Zurich</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johannes Gutenberg University Mainz</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This online-based, observational retrospective registry aims to (i) study the rate of&#xD;
+      cardiovascular events, encompassing venous thromboembolic and arterial events, in consecutive&#xD;
+      hospitalized patients with coronavirus (Covid19), (ii) investigate the prevalent use of&#xD;
+      thromboprophylaxis, (iii) describe the use of imaging tests for the detection of&#xD;
+      cardiovascular events in patients with Covid19. This will also facilitate and constitute the&#xD;
+      basis for the conduction of interventional thromboprophylaxis studies in patients with&#xD;
+      Covid19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 15, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Fatal or non-fatal venous thromboembolism (VTE)</measure>
+    <time_frame>during index hospitalization for Covid19</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fatal or non-fatal cardiovascular events, encompassing stroke and myocardial infarction</measure>
+    <time_frame>during index hospitalization for Covid19</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>All-cause death</measure>
+    <time_frame>during index hospitalization for Covid19</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of cardiovascular risk factors</measure>
+    <time_frame>at baseline/enrollment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospitalization</measure>
+    <time_frame>first index hospitalization for Covid19</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalent use of in-hospital thromboprophylaxis</measure>
+    <time_frame>during index hospitalization for Covid19</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In-hospital course of D-dimer (μg/mL)</measure>
+    <time_frame>during index hospitalization for Covid19</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In-hospital course of Troponin (ng/ml)</measure>
+    <time_frame>during index hospitalization for Covid19</time_frame>
+  </secondary_outcome>
+  <enrollment type="Anticipated">5000</enrollment>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Given the observational nature of this registry, no exclusion criteria will be applied.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Hospitalized patients aged ≥ 18 years with a positive test for severe acute respiratory&#xD;
+        syndrome corona virus 2 (SARS-CoV2)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stavros Konstantinides, MD, Prof</last_name>
+    <role>Study Chair</role>
+    <affiliation>University Medical Center Mainz, Johannes Gutenberg University Mainz</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stavros Konstantinides, MD, Prof</last_name>
+    <phone>+49 6131 17-8382</phone>
+    <email>Stavros.Konstantinides@unimedizin-mainz.de</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Unicamp (Universidade Estadual de Campinas; University of Campinas)</name>
+      <address>
+        <city>Campinas</city>
+        <zip>13083-970</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joyce M. Annichino Bizzacchi, MD</last_name>
+      <email>joyce@unicamp.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sírio-Libanês</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01308-050</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Carolina Kassab Wroclawski, MD</last_name>
+      <email>carolinakassab@hotmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Campanha Anhembi</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>02012-021</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Tassiana S. Pitta Diaz, MD</last_name>
+      <email>tassiana.pitta@iabas.org.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Amager and Hvidovre Hospital</name>
+      <address>
+        <city>Hvidovre</city>
+        <zip>2650</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Klaus Nielsen Jeschke, MD</last_name>
+      <email>talpadanica@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DRK Kliniken Berlin Köpenick</name>
+      <address>
+        <city>Berlin Köpenick</city>
+        <zip>12559</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christian Opitz, MD, Prof</last_name>
+      <email>c.opitz@drk-kliniken-berlin.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DRK Kliniken Berlin Westend</name>
+      <address>
+        <city>Berlin Westend</city>
+        <zip>14050</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christian Opitz, MD, Prof</last_name>
+      <email>c.opitz@drk-kliniken-berlin.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Koeln</name>
+      <address>
+        <city>Cologne</city>
+        <zip>50937</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephan Rosenkranz, MD, Prof</last_name>
+      <email>stephan.rosenkranz@uk-koeln.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Augusta-Krankenhaus Duesseldorf</name>
+      <address>
+        <city>Duesseldorf</city>
+        <zip>40472</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anamaria Wolf-Puetz, MD</last_name>
+      <email>anamaria.wolf-puetz@vkkd-kliniken.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitäts-Herzzentrum Freiburg</name>
+      <address>
+        <city>Freiburg</city>
+        <zip>79106</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Duerschmied, MD, Prof</last_name>
+      <email>daniel.duerschmied@universitaets-herzzentrum.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum des Saarlandes und Medizinische Fakultät der Universität des Saarlandes</name>
+      <address>
+        <city>Homburg</city>
+        <zip>66421</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Heinrike Wilkens, MD, Prof</last_name>
+      <email>anamaria.wolf-puetz@vkkd-kliniken.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsmedizin Mainz</name>
+      <address>
+        <city>Mainz</city>
+        <zip>55131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stavros Konstantinides, MD, Prof</last_name>
+      <email>stavros.konstantinides@unimedizin-mainz.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Krankenhaus Neuwittelsbach</name>
+      <address>
+        <city>Munich</city>
+        <zip>80639</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hanno Leuchte, MD</last_name>
+      <email>dr.leuchte@krankenhaus-neuwittelsbach.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Paracelsus Medizinische Privatuniversität am Klinikum Nuernberg</name>
+      <address>
+        <city>Nuremberg</city>
+        <zip>90419</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joachim Ficker, MD, Prof</last_name>
+      <email>Joachim.Ficker@klinikum-nuernberg.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mater Misericordiae University Hospital</name>
+      <address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Barry Kevane, MD</last_name>
+      <email>barrykevane@mater.ie</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Bologna</name>
+      <address>
+        <city>Bologna</city>
+        <zip>40126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stefano Nava, MD</last_name>
+      <email>stefano.nava@unibo.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Socio Sanitaria Territoriale (ASST) Lariana</name>
+      <address>
+        <city>Como</city>
+        <zip>22100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Claudio Sorino, MD</last_name>
+      <email>claudio.sorino@hsacomo.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Sacra Famiglia Fatebenefratelli</name>
+      <address>
+        <city>Erba</city>
+        <zip>22036</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Davide Agnelli, MD</last_name>
+      <email>davideagnelli@interfree.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Ospedaliero Santa Croce di Fano</name>
+      <address>
+        <city>Fano</city>
+        <zip>61032</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luciano Mucci, MD</last_name>
+      <email>luciano.mucci@ospedalimarchenord.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Ospedale Policlinico San Martino</name>
+      <address>
+        <city>Genova</city>
+        <zip>16132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giorgio Ghigliotti, MD</last_name>
+      <email>gghiglio@unige.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile di Guastalla - Azienda Unità Sanitaria Locale (AUSL) Reggio Emilia</name>
+      <address>
+        <city>Guastalla</city>
+        <zip>42016</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elisabetta Teopompi, MD</last_name>
+      <email>Elisabetta.Teopompi@ausl.re.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera di Padova</name>
+      <address>
+        <city>Padova</city>
+        <zip>35128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Giampiero Avruscio, MD</last_name>
+      <email>giampiero.avruscio@aopd.veneto.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Maggiore di Parma - Azienda Ospedaliero Universitaria di Parma</name>
+      <address>
+        <city>Parma</city>
+        <zip>43126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pietro Rossetti, MD</last_name>
+      <email>prossetti@ao.pr.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Maggiore di Parma - Azienda Ospedaliero Universitaria di Parma</name>
+      <address>
+        <city>Parma</city>
+        <zip>43126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alessandro Vignali, MD</last_name>
+      <email>avignali@ao.pr.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS Policlinico San Matteo</name>
+      <address>
+        <city>Pavia</city>
+        <zip>27100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alessandro Pecci, MD</last_name>
+      <email>alessandro.pecci@unipv.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile di Castel San Giovanni - Azienda Unità Sanitaria Locale (AUSL) di Piacenza</name>
+      <address>
+        <city>Piacenza</city>
+        <zip>29015</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniela Aschieri, MD</last_name>
+      <email>daschieri@ausl.pc.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Maria Nuova Hospital - Azienda Unità Sanitaria Locale (AUSL) IRCCS di Reggio Emilia</name>
+      <address>
+        <city>Reggio Emilia</city>
+        <zip>42123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Matteo Iotti, MD</last_name>
+      <email>iotti.matteo@ausl.re.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Humanitas Clinical and Research Hospital</name>
+      <address>
+        <city>Rozzano</city>
+        <zip>20089</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Corrado Lodigiani, MD</last_name>
+      <email>corrado.lodigiani@humanitas.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Università degli studi dell' Insubria (University of Insubria)</name>
+      <address>
+        <city>Varese</city>
+        <zip>21100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Francesco Dentali, MD</last_name>
+      <email>Francesco.Dentali@asst-settelaghi.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Cardiologia Ignacio Chavez (National Institute of Cardiology Igancio Chavez)</name>
+      <address>
+        <city>Mexico City</city>
+        <zip>14080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Flavio A. Grimaldo Gomez, MD</last_name>
+      <email>dr.grimaldo@yahoo.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Quirónsalud</name>
+      <address>
+        <city>Málaga</city>
+        <zip>29004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alejandro Rodriguez Morata, MD</last_name>
+      <email>alejandro.rmorata@quironsalud.es</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Erdem Medical Center</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34768</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Savaş Özsu, MD</last_name>
+      <email>savasozsu@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>Denmark</country>
+    <country>Germany</country>
+    <country>Ireland</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Spain</country>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>March 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Johannes Gutenberg University Mainz</investigator_affiliation>
+    <investigator_full_name>Prof. Stavros Konstantinides, MD</investigator_full_name>
+    <investigator_title>Prof Stavros Konstantinides, MD, Medical Director of the &quot;Center for Thrombosis and Hemostasis&quot; (CTH) at the University Medical Center Mainaz</investigator_title>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>thromboembolism</keyword>
+  <keyword>thromboprophylaxis</keyword>
+  <keyword>pulmonary embolism</keyword>
+  <keyword>anticoagulation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Thrombosis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

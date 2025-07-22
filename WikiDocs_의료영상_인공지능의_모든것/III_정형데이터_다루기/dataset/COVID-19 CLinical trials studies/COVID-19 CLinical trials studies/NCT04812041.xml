@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3577">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04812041</url>
+  </required_header>
+  <id_info>
+    <org_study_id>E1-21-1461</org_study_id>
+    <nct_id>NCT04812041</nct_id>
+  </id_info>
+  <brief_title>Relationship Between Delirium Severity by CAM-ICU 7 and 4C Mortality Score of the COVID-19 Patients in ICU</brief_title>
+  <official_title>Relationship Between Delirium Severity by CAM-ICU 7 and 4C Mortality Score of the COVID-19 Patients in ICU</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ankara City Hospital Bilkent</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ankara City Hospital Bilkent</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Aim: to investigate whether the 4C Mortality score, which measures the severity of COVID-19,&#xD;
+      and the CAM-ICU 7 score , which measures the severity of delirium, in ICU. To compare two&#xD;
+      scores in terms of the number of days without intubation and 28 day mortality rates in ICU.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 21, 2021</start_date>
+  <completion_date type="Anticipated">May 25, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 15, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <target_duration>1 Month</target_duration>
+  <primary_outcome>
+    <measure>28 day mortality</measure>
+    <time_frame>28 days</time_frame>
+    <description>28 day mortality</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Delirium</condition>
+  <condition>Covid19</condition>
+  <condition>Intensive Care Unit Delirium</condition>
+  <arm_group>
+    <arm_group_label>Intensive care unit delirium</arm_group_label>
+    <description>Covid-19 patients in ICU are screened for delirium and rated the severity with CAM-ICU 7 scores.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>CAM-ICU 7 score</intervention_name>
+    <description>A 7-point rating scale (0-7) was derived from the CAM-ICU and RASS assessments 0-2: no delirium, 3-5: mild to moderate delirium, and 6-7: severe delirium.</description>
+    <arm_group_label>Intensive care unit delirium</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>4C Mortality Score</intervention_name>
+    <description>4C Mortality Scores of the patients will be calculated, according to age, gender, number of comorbidities, respiratory rate, SpO2, GCS, urea, and CRP parameters</description>
+    <arm_group_label>Intensive care unit delirium</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients hospitalized in the intensive care unit diagnosed with COVID-19 will participate&#xD;
+        in the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:Patients hospitalized in the intensive care unit diagnosed with COVID-19&#xD;
+        will include in the study&#xD;
+&#xD;
+        Exclusion Criteria:there is no exclusion criteria&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>betül aytaç, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>ankara ch bilkent</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ismail aytaç, MD</last_name>
+    <phone>+905056340369</phone>
+    <email>aytacismail1972@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ankara City Hospital</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06800</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>İsmail Aytac</last_name>
+      <phone>+905056340369</phone>
+      <email>aytacismail1972@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <results_reference>
+    <citation>Khan BA, Perkins AJ, Gao S, Hui SL, Campbell NL, Farber MO, Chlan LL, Boustani MA. The Confusion Assessment Method for the ICU-7 Delirium Severity Scale: A Novel Delirium Severity Instrument for Use in the ICU. Crit Care Med. 2017 May;45(5):851-857. doi: 10.1097/CCM.0000000000002368.</citation>
+    <PMID>28263192</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Knight SR, Ho A, Pius R, Buchan I, Carson G, Drake TM, Dunning J, Fairfield CJ, Gamble C, Green CA, Gupta R, Halpin S, Hardwick HE, Holden KA, Horby PW, Jackson C, Mclean KA, Merson L, Nguyen-Van-Tam JS, Norman L, Noursadeghi M, Olliaro PL, Pritchard MG, Russell CD, Shaw CA, Sheikh A, Solomon T, Sudlow C, Swann OV, Turtle LC, Openshaw PJ, Baillie JK, Semple MG, Docherty AB, Harrison EM; ISARIC4C investigators. Risk stratification of patients admitted to hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: development and validation of the 4C Mortality Score. BMJ. 2020 Sep 9;370:m3339. doi: 10.1136/bmj.m3339. Erratum in: BMJ. 2020 Nov 13;371:m4334.</citation>
+    <PMID>32907855</PMID>
+  </results_reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 23, 2021</study_first_posted>
+  <last_update_submitted>March 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ankara City Hospital Bilkent</investigator_affiliation>
+    <investigator_full_name>ismail aytaç</investigator_full_name>
+    <investigator_title>medical doctor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Delirium</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

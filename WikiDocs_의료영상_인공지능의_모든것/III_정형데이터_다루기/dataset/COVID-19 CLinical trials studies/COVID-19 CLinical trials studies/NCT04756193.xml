@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3330">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04756193</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20.0836</org_study_id>
+    <nct_id>NCT04756193</nct_id>
+  </id_info>
+  <brief_title>Evaluate Long Term Cardiovascular and Pulmonary Complications After COVID-19 With Point of Care Ultrasound</brief_title>
+  <official_title>Evaluate Long Term Cardiovascular and Pulmonary Complications After COVID-19 With Point of Care Ultrasound</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Louisville</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Louisville</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We hypothesize that recovered COVID-19 patients suffer long term cardiovascular and pulmonary&#xD;
+      complications, which can be detected by point of care ultrasound. The goal is to&#xD;
+      comprehensively delineate the long term cardiovascular and pulmonary ultrasound findings in&#xD;
+      recovered COVID-19 patients, identify risks factors for prolonged heart/lung injury, evaluate&#xD;
+      long term effects of applied treatment, and assess late medication/vaccine side effects in&#xD;
+      COVID-19 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Aim 1: To examine the long term cardiac involvements of recovered COVID-19 patients at 3, 6,&#xD;
+      12 months after being discharged from the hospital or symptom resolution with&#xD;
+      electrocardiogram (ECG) and echocardiography. 12 lead ECG will be obtained for all patients.&#xD;
+      Transthoracic echocardiography will be performed using GE Vivid E9 ultrasound system to&#xD;
+      measure left ventricular (LV) dimensions, LV volumes and LV ejection fraction (EF), wall&#xD;
+      thickness, LV mass, and LV remodeling index. LV diastolic function will be characterized by&#xD;
+      maximum velocities of mitral inflow E and A waves, E/A ratio, E/E' ratio (maximum myocardial&#xD;
+      velocities (E') of the lateral mitral annulus), isovolumetric relaxation time, tricuspid&#xD;
+      regurgitation velocity, and left atrial volumes. Right-ventricular function will be assessed&#xD;
+      by tricuspid annular plane systolic excursion (TAPSE), pulmonary acceleration time, and by&#xD;
+      estimation of systolic pulmonary artery pressure. We will evaluate mitral, aortic, tricuspid&#xD;
+      and pulmonic valvular stenosis and regurgitation. In addition, speckle tracking&#xD;
+      echocardiography will be used to detect subclinical impairment of myocardium in patients who&#xD;
+      have grossly normal LVEF. Lastly, inferior vena cava will be measured to assess patients'&#xD;
+      volume status.&#xD;
+&#xD;
+      Aim 2: To evaluate long term pulmonary involvements of recovered COVID-19 patients at 3, 6,&#xD;
+      12 months after being discharged from the hospital or symptom resolution with pulse oximetry,&#xD;
+      bedside spirometry and lung ultrasound. Pulse oximetry, bedside spirometry, and lung&#xD;
+      ultrasonography (LUS) will be performed for all patients. The pathological LUS features for&#xD;
+      every zone will be reported as: (1) normal appearance (A lines, &lt; 3 B lines), (2) pathologic&#xD;
+      B lines (≥3 B lines), (3) confluent B lines, (4) thickening of the pleura with pleural line&#xD;
+      irregularities (subpleural consolidation &lt; 1 cm), (5) consolidation (≥ 1 cm), (6) pleural&#xD;
+      effusion. The LUS score, used as a correlate of loss of lung tissue aeration, as well as a&#xD;
+      normalized LUS score corrected for the number of examined zone, will be calculated in every&#xD;
+      patient.&#xD;
+&#xD;
+      Aim 3: To diagnose long term vascular involvements of recovered COVID-19 patients at 3, 6, 12&#xD;
+      months after being discharged from the hospital or symptom resolution with vascular&#xD;
+      ultrasound. A trained physician or sonographer will use high resolution gray-scale imaging,&#xD;
+      color Doppler ultrasound and spectral analysis with pulse wave Doppler to examine bilateral&#xD;
+      upper/lower extremity venous and arterial systems and carotid arteries for thrombosis,&#xD;
+      atheroma, and stenosis.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Echocardiographic strain measurements of the left, right heart</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>strain is a measurement of systolic function of the heart, unit is %. The more negative means better outcome</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Lung ultrasound measurements</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>lung ultrasound scores, B line numbers</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Vascular ultrasound findings</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>High resolution gray-scale imaging, color Doppler ultrasound and spectral analysis (cm/s) with pulse wave Doppler to examine bilateral upper/lower extremity venous and arterial systems and carotid arteries for thrombosis, atheroma, and stenosis.</description>
+  </other_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Covid19</condition>
+  <condition>Echocardiography</condition>
+  <condition>Ultrasound</condition>
+  <arm_group>
+    <arm_group_label>Asymptomatic/Mild COVID-19 Group</arm_group_label>
+    <description>50 confirmed COVID-19 patients who showed no or only mild respiratory/GI symptoms (not admitted to the hospital at all)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderate COVID-19 Group</arm_group_label>
+    <description>50 confirmed COVID-19 patients who were able to maintain oxygen saturation above 92% (or above 90% for patients with chronic lung disease) with up to 4 L/min oxygen via nasal prongs (admitted to the hospital, but never to the ICU and no obvious cardiac complications during the stay)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Severe COVID-19 Group</arm_group_label>
+    <description>50 confirmed COVID-19 patients who had oxygen saturation lower than 92% at rest and PaO2/FiO2 between 200 and 300 (High-flow oxygen group, mostly in the ICU, and may have some cardiac complications)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Critical COVID-19 Group</arm_group_label>
+    <description>50 confirmed COVID-19 patients who had PaO2/FiO2 less than 200 or required mechanical ventilation (in the ICU, need mechanical ventilation and more likely to have cardiac complications)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <description>50 age and sex-matched controls from our hospital admission database</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Point of care ultrasound including echocardiography, lung ultrasound, vascular ultrasound</intervention_name>
+    <description>Point of care ultrasound including echocardiography, lung ultrasound, vascular ultrasound, ECG, pulse oximetry, blood draw, spirometry</description>
+    <arm_group_label>Asymptomatic/Mild COVID-19 Group</arm_group_label>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_label>Critical COVID-19 Group</arm_group_label>
+    <arm_group_label>Moderate COVID-19 Group</arm_group_label>
+    <arm_group_label>Severe COVID-19 Group</arm_group_label>
+    <other_name>ECG, pulse oximetry, blood draw, spirometry</other_name>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Asymptomatic/Mild Group: 50 confirmed COVID-19 patients who showed no or only mild&#xD;
+        respiratory/GI symptoms; Moderate Group: 50 confirmed COVID-19 patients who were able to&#xD;
+        maintain oxygen saturation above 92% (or above 90% for patients with chronic lung disease)&#xD;
+        with up to 4 L/min oxygen via nasal prongs; Severe Group: 50 confirmed COVID-19 patients&#xD;
+        who had oxygen saturation less than 92% at rest and PaO2/FiO2 between 200 and 300; Critical&#xD;
+        Group: 50 confirmed COVID-19 patients who had PaO2/FiO2 less than 200 or required&#xD;
+        mechanical ventilation. Control Group: 50 age and sex-matched controls.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  &gt;18 years of age&#xD;
+&#xD;
+          -  Consent to participate in this research&#xD;
+&#xD;
+          -  Confirmed SARS-CoV-2 infection by RT-PCR or serological tests.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Refusal to participate in this research&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jiapeng Huang, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Louisville</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jiapeng Huang, MD, PhD</last_name>
+    <phone>5028528157</phone>
+    <email>jiapeng.huang@louisville.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Louisville Health</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jiapeng Huang, MD, PhD</last_name>
+      <phone>502-852-8157</phone>
+      <email>jiapeng.huang@louisville.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jiapeng Huang, Md, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 16, 2021</study_first_posted>
+  <last_update_submitted>February 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Louisville</investigator_affiliation>
+    <investigator_full_name>Jiapeng Huang</investigator_full_name>
+    <investigator_title>Professor of Anesthesiology</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

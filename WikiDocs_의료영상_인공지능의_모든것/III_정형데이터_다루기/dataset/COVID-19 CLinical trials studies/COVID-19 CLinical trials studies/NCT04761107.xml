@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3887">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04761107</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GCO 20-1053</org_study_id>
+    <secondary_id>STUDY-20-01467</secondary_id>
+    <nct_id>NCT04761107</nct_id>
+  </id_info>
+  <brief_title>Impact of COVID-19 on GU Disease</brief_title>
+  <official_title>Mitigating Risk of COVID-19 for Clinical Management of Genitourinary Diseases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Icahn School of Medicine at Mount Sinai</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Icahn School of Medicine at Mount Sinai</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to identify patients with GU disease with active or&#xD;
+      past COVID-19 infection.&#xD;
+&#xD;
+      Participants will be asked to:&#xD;
+&#xD;
+        -  Complete an Online COVID-19 Questionnaire.&#xD;
+&#xD;
+        -  Disclose if the patient has or had Genitourinary cancer or benign urologic condition&#xD;
+&#xD;
+        -  Provide urine specimen for research&#xD;
+&#xD;
+        -  Provide 4 tablespoons of blood for testing blood for research.&#xD;
+&#xD;
+        -  Provide permission to access medical records, such as patient lab results, medical&#xD;
+           history, imaging reports, etc.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 has a higher incidence in males compared to females and cancer patients have a&#xD;
+      higher risk of contracting COVID-19, and developing complications, and deteriorate more&#xD;
+      rapidly. COVID19 pandemic poses significant challenges in clinical decision-making, which has&#xD;
+      impacted management of GU patients. In order to mitigate the risk associated with COVID19&#xD;
+      pandemic while also providing the best clinical care for patients a screening approach is&#xD;
+      essential. Clinicians taking care of cancer patients will be expected not only to understand&#xD;
+      impact of COVID19 but also incorporate a triage tool to decide which patients need immediate&#xD;
+      treatment. This prospective study presented in this IRB is about establishing a screening&#xD;
+      tool for GU patients with pre-existing cancer or with benign urological disease (e.g. BPH,&#xD;
+      kidney stone, bladder infection, urinary tract infections etc) and for those who are dealing&#xD;
+      with decisions for biopsy, active surveillance, surgery, radiation, hormonal and&#xD;
+      chemotherapy.&#xD;
+&#xD;
+      The study team is expecting to enroll 15240 subjects under this study.&#xD;
+&#xD;
+      Procedures involved in the study:&#xD;
+&#xD;
+        1. Consenting patients for the study.&#xD;
+&#xD;
+        2. Screening/Baseline REDCap survey to determine their COVID-19 symptoms.&#xD;
+&#xD;
+        3. Blood sample collection: This will be obtained for research studies including immune&#xD;
+           monitoring assays&#xD;
+&#xD;
+        4. Urine sample collection for bio-marker analysis.&#xD;
+&#xD;
+        5. Data collection from medical records, such as:&#xD;
+&#xD;
+             -  Clinical diagnoses, including date of confirmation of SARS-CoV-2 infection&#xD;
+&#xD;
+             -  Any pertinent medical history, including concomitant medications, and comorbidities&#xD;
+                that pre- date enrollment in the study, or that occur during enrollment in the&#xD;
+                study&#xD;
+&#xD;
+             -  Laboratory values from time of blood procurement&#xD;
+&#xD;
+             -  All imaging (X-ray, MRI, CAT, PAT, PSMA, Ultrasound, and Pathology etc.) performed&#xD;
+                from time of initial diagnosis until death, and any needed imaging that pre- date&#xD;
+                enrollment that may serve as a comparative to pre/post treatment imaging.&#xD;
+&#xD;
+             -  Collection time of samples in relation to study treatment&#xD;
+&#xD;
+             -  Demographic data&#xD;
+&#xD;
+             -  REDCap questionnaire, COVID-19 symptoms and severity of the symptoms&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 18, 2021</start_date>
+  <completion_date type="Anticipated">February 2026</completion_date>
+  <primary_completion_date type="Anticipated">February 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of patients with a new diagnosis of GU</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Proportion of patients with a new diagnosis of GU cancer and with active or past infection with SARS-Co-V-2</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of GU cancer patients, with active disease or in remission</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Proportion of GU cancer patients, with active disease or in remission and with active or past infection with SARS-Co-V-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with the benign urologic condition</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Proportion of patients with the benign urologic condition and with active or past infection with SARS-Co-V-2</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">15240</enrollment>
+  <condition>COVID-19 Infection</condition>
+  <condition>Genitourinary Cancer</condition>
+  <condition>Benign Urologic Conditions</condition>
+  <arm_group>
+    <arm_group_label>GU participants with active or past infection of SARS-Co-V-2</arm_group_label>
+    <description>GU patients from medical records with active or past infection of SARS-Co-V-2</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      1. Peripheral blood - plasma and serum for PBMCs and aliquots.&#xD;
+&#xD;
+        2. Urine&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients seen in the Urology Department at Mount Sinai.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects must be men and women 40 years of age or older&#xD;
+&#xD;
+          -  Subjects at risk or with GU cancer (Prostate, Bladder, Kidney)&#xD;
+&#xD;
+          -  Subjects with benign GU disorders ( BPH, UTI, Bladder infection and kidney stone)&#xD;
+&#xD;
+          -  Subjects must have a GU disease that requires clinic visit as determined by physician&#xD;
+             or healthcare provider following a telehealth appointment&#xD;
+&#xD;
+          -  Willing and able to provide blood and urine samples&#xD;
+&#xD;
+          -  Willing and able to complete a questionnaire to determine the COVID-19 symptoms.&#xD;
+&#xD;
+          -  Willing and able to sign informed consent form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Men and women below 40 years of age&#xD;
+&#xD;
+          -  Subjects do not have a GU disease&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ashutosh K Tewari, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Dimple Chakravarty, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sujit S Nair, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dimple Chakravarty, PhD</last_name>
+    <phone>212-241-3233</phone>
+    <email>dimple.chakravarty@mountsinai.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kamala Bhatt, MBA</last_name>
+    <phone>212-241-5745</phone>
+    <email>kamala.bhatt@mountsinai.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine at Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kamala Bhatt, MBA</last_name>
+      <phone>212-241-5745</phone>
+      <email>kamala.bhatt@mountsinai.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Cristina Pasat-karasik, RN</last_name>
+      <phone>347-466-2783</phone>
+      <email>Cristina.Pasat-karasik@mountsinai.org</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Chakravarty D, Nair SS, Hammouda N, Ratnani P, Gharib Y, Wagaskar V, Mohamed N, Lundon D, Dovey Z, Kyprianou N, Tewari AK. Sex differences in SARS-CoV-2 infection rates and the potential link to prostate cancer. Commun Biol. 2020 Jul 8;3(1):374. doi: 10.1038/s42003-020-1088-9. Review.</citation>
+    <PMID>32641750</PMID>
+  </reference>
+  <reference>
+    <citation>Lundon DJ, Kelly BD, Nair S, Bolton DM, Kyprianou N, Wiklund P, Tewari A. Early mortality risk stratification after SARS-CoV-2 infection. Med Intensiva. 2020 Jul 4. pii: S0210-5691(20)30219-9. doi: 10.1016/j.medin.2020.06.011. [Epub ahead of print] English, Spanish.</citation>
+    <PMID>32912654</PMID>
+  </reference>
+  <reference>
+    <citation>Pavlova IP, Nair SS, Kyprianou N, Tewari AK. The Rapid Coronavirus Antibody Test: Can We Improve Accuracy? Front Med (Lausanne). 2020 Sep 2;7:569. doi: 10.3389/fmed.2020.00569. eCollection 2020.</citation>
+    <PMID>32984390</PMID>
+  </reference>
+  <reference>
+    <citation>Theise ND, Arment AR, Chakravarty D, Gregg JMH, Jacobson IM, Jung KH, Nair SS, Tewari AK, Thurston AW, Van Drie J, Westover JB. Clinical stage molecule PT150 is a modulator of glucocorticoid and androgen receptors with antiviral activity against SARS-CoV-2. Cell Cycle. 2020 Dec;19(24):3632-3638. doi: 10.1080/15384101.2020.1859752. Epub 2020 Dec 11.</citation>
+    <PMID>33305659</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>February 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 18, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Icahn School of Medicine at Mount Sinai</investigator_affiliation>
+    <investigator_full_name>Ashutosh Kumar Tewari</investigator_full_name>
+    <investigator_title>Professor and System Chair, Urology</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19 Infection</keyword>
+  <keyword>Biomarkers</keyword>
+  <keyword>Prostate cancer, BPH</keyword>
+  <keyword>Bladder cancer, Urinary tract infection</keyword>
+  <keyword>Kidney stone, Kidney cancer</keyword>
+  <keyword>Malignant disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Urogenital Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All of the individual participant data collected during the trial, after deidentification.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Beginning 9 months and ending 36 months following article publication.</ipd_time_frame>
+    <ipd_access_criteria>Investigators whose proposed use of the data has been approved by an independent review committee (&quot;learned intermediary&quot;) identified for this purpose.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

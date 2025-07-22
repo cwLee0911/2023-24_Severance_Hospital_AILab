@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="155">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04767958</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20200858-01T</org_study_id>
+    <nct_id>NCT04767958</nct_id>
+  </id_info>
+  <brief_title>The RAPID COVID Study - Application of Point-of-Care COVID-19 Testing</brief_title>
+  <acronym>RAPID COVID</acronym>
+  <official_title>The RAPID COVID Study - Application of Point-of-Care COVID-19 Testing to Optimize Patient Care, Resource Allocation and Safety for Frontline Staff</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ottawa Heart Institute Research Corporation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ottawa Heart Institute Research Corporation</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is being conducted to study the use and application of a point-of-care (POC)&#xD;
+      Covid-19 test developed by Spartan BioSciences and recently approved for clinical use by&#xD;
+      Health Canada.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This RAPID COVID-19 study is a prospective, unblinded clinical trial. POC testing utilizing&#xD;
+      the Spartan Cube COVID-19 platform will be performed on a cohort of 2200 hospitalized&#xD;
+      patients who have been tested for COVID-19.&#xD;
+&#xD;
+      This cohort will be divided into three groups:&#xD;
+&#xD;
+        1. patients consulted upon by ICU, internal medicine, or cardiology for admission to the&#xD;
+           hospital&#xD;
+&#xD;
+        2. patients undergoing cardiac testing and/or procedures&#xD;
+&#xD;
+        3. patients awaiting surgery The results from the POC test will be compared to the results&#xD;
+           from the traditional hospital core lab test to determine sensitivity and specificity of&#xD;
+           the POC test.&#xD;
+&#xD;
+      An additional cohort of 500 quarantined health care workers will have the POC test performed&#xD;
+      and compared with the results from the traditional hospital core lab test.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 19, 2021</start_date>
+  <completion_date type="Anticipated">July 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is a cohort study of participants falling into one of four groups.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sensitivity of POC testing as compared to core lab testing</measure>
+    <time_frame>3 months</time_frame>
+    <description>Specificity, positive/negative predictive values will be derived</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence in which decision making would have been altered by POC testing</measure>
+    <time_frame>12 months</time_frame>
+    <description>examples include: ventilation decisions, use of ICU/isolation rooms, use of PPE, additional testing</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>In hospital outcomes</measure>
+    <time_frame>16 months</time_frame>
+    <description>In hospital outcomes include death, pneumonia, intubation, myocardial infarction, urgent revascularization,mechanical device support, transplant</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Length of hospital admission</measure>
+    <time_frame>16 months</time_frame>
+    <description>Total number of days in hospital will be collected</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">2500</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Patients consulted upon by ICU, internal medicine, or cardiology for hospital admission</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients will have both standard care and point-of-care (experimental) NP swabs performed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>patients undergoing cardiac testing/procedures</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients will have both standard care and point-of-care (experimental) NP swabs performed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>patients awaiting surgery</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients will have both standard care and point-of-care (experimental) NP swabs performed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Health Care Workers</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Health Care Workers who are being screened for COVID-19 will have both standard care and point-of-care NP swabs performed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Spartan COVID-19 Platform</intervention_name>
+    <description>Nasal-pharyngeal swab for testing on the Spartan Covid-19 platform</description>
+    <arm_group_label>Health Care Workers</arm_group_label>
+    <arm_group_label>Patients consulted upon by ICU, internal medicine, or cardiology for hospital admission</arm_group_label>
+    <arm_group_label>patients awaiting surgery</arm_group_label>
+    <arm_group_label>patients undergoing cardiac testing/procedures</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  participants &gt;/= 18 years of age&#xD;
+&#xD;
+          -  patients for whom POC testing would change their course of treatment (in opinion of&#xD;
+             treatment team)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  patients in whom conventional COVID-19 testing would not have otherwise been performed&#xD;
+&#xD;
+          -  patients in whom immediate COVID-19 testing would not alter short-term treatment&#xD;
+&#xD;
+          -  patients who refuse consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Dr. Derek So</last_name>
+    <phone>613-696-7000</phone>
+    <phone_ext>67332</phone_ext>
+    <email>dso@ottawaheart.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Poppy MacPhee</last_name>
+    <phone>613-696-7000</phone>
+    <phone_ext>14646</phone_ext>
+    <email>pmacphee@ottawaheart.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Ottawa Heart Institute</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1Y4W7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Poppy MacPhee, BScN</last_name>
+      <phone>613-761-4646</phone>
+      <email>pmacphee@ottawaheart.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Derek So, MD FRCPC FACC</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 23, 2021</study_first_posted>
+  <last_update_submitted>March 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

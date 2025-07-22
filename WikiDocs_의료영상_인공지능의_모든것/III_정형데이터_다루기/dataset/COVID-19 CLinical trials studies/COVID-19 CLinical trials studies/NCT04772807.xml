@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5710">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04772807</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P2020/502</org_study_id>
+    <secondary_id>Sponsor study reference</secondary_id>
+    <nct_id>NCT04772807</nct_id>
+  </id_info>
+  <brief_title>Validation of Kinocardiography, a New Technology Measuring Cardiac Mechanical Activity Via Accelerometers and Gyroscopes</brief_title>
+  <official_title>Validation of Kinocardiography, a New Technology Measuring Cardiac Mechanical Activity Via Accelerometers and Gyroscopes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Erasme University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Erasme University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Kinocardiographic measures mechanical and electrical function of the heart. The proposed&#xD;
+      solution is based on measurements of body vibrations. By measuring these movements on the&#xD;
+      surface of the body, it is possible to deduce, taking into account the individual's weight&#xD;
+      and size, the quality of the heartbeat that caused this vibration. The technique developed&#xD;
+      consists of a device measuring these vibrations at two places in the body: on the torso&#xD;
+      (Seismocardiography) and on the lower back (Ballistocardiography). The first measurement is a&#xD;
+      reflection of the local strength of the heartbeat as well as the transmission of blood to the&#xD;
+      body's main artery, the aorta. The second measurement, in the lower back, is the result of&#xD;
+      the contraction and movement of blood within the arterial system. Based on these two&#xD;
+      measurements, the energy produced by the heart and transmitted to the torso or the whole body&#xD;
+      is calculated. The energy over an entire cardiac cycle and the distribution of that energy&#xD;
+      within a heartbeat are used to characterize the mechanical function of the heart.&#xD;
+&#xD;
+      Clinical studies carried out previously have demonstrated the repeatability of&#xD;
+      kinocardiographic measurements (KCG) and their robustness with respect to the use of&#xD;
+      different sensors.&#xD;
+&#xD;
+      KCG measurements also showed a high sensitivity (&gt; 94%) to different hemodynamic states&#xD;
+      induced by the injection of active inotropic agents, i.e. dobutamine also used as a treatment&#xD;
+      for heart failure in an advanced stage. In a randomized, double-blind, cross-over study&#xD;
+      controlled by Placebo, these measurements showed a strong correlation (r = 0.8, p &lt;0.0001)&#xD;
+      with cardiac output measured by echocardiography. The technique has also demonstrated its&#xD;
+      ability to track changes in cardiac mechanical function during expiratory voluntary apnea.&#xD;
+&#xD;
+      KCG measurements were also evaluated during a micro-gravity simulation in Bedrest on 23&#xD;
+      healthy volunteers. The measurements tracked cardiac deconditioning in the control group&#xD;
+      compared to the exercise group similarly to cardiac MRI measurements. Subsequently, KCG&#xD;
+      metrics showed an ability to distinguish reduced ejection fraction (HFrEF) heart failure&#xD;
+      patients from non-insufficient patients. These latest results also showed that the chest&#xD;
+      sensor alone was sufficient to separate HFrEF patients from normative patients, laying the&#xD;
+      foundation for possible use of the smartphone alone.&#xD;
+&#xD;
+      The prototype of a mobile application, named OKCARDIO, makes it possible to take measurements&#xD;
+      perfectly similar to the Kino thoracic sensor, but to date have never been used it in a&#xD;
+      clinical study. Such a tool would allow anyone with a smartphone-type mobile phone to measure&#xD;
+      their cardiac mechanical function themselves and make it available to the attending&#xD;
+      physician.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 5, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of KCG measurement performed by the patients themselves</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Feasibility is assessed by a repeatability score, namely the intraclass correlation coefficients ranging from 0, a non repeatable measure to 1 a perfectly repeatable measure .The score is computed between measure done at the hospital by a professional and the one done by the patient at the hospital and at home.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Validation of KCG parameters by comparisons from different modalities: Kinocardiograph device and OKCARDIO smartphone application.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Repeatability of OKCARDIO smartphone application recorded by an experimented operator and by the patient</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Compliance percentage of patients measuring KCG at home with the OKCARDIO smartphone application or the Kinocardiograph device.</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean and interquartile ranges of KCG derived HRV over the observation period.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Mean and interquartile ranges of KCG derived HRV over the observation period in patients with active clinical syndromes that may be concomitant in the field of cardiac disorders (hypertension, atrial fibrillation, ischemia, valvulopathy, heart-failure,…) and pulmonary (asthma, infection,..). These clinical diagnoses are supported by the physical examination and the patient's medical record at inclusion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean and interquartile ranges of KCG derived HR over the observation period.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Mean and interquartile ranges of KCG derived HR over the observation period in patients with active clinical syndromes that may be concomitant in the field of cardiac disorders (hypertension, atrial fibrillation, ischemia, valvulopathy, heart-failure,…) and pulmonary (asthma, infection,..). These clinical diagnoses are supported by the physical examination and the patient's medical record at inclusion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events related to the use of the Kinocardiograph devices and/or OKCARDIO smartphone. Count of adverse events.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean and interquartile ranges of KCG parameters (Kinetic Energy, namely iK) over the observation period.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Build a predictive score on a selection of several kinocardiography parameters based on machine learning algorithms with the aim to sort patients according to their pathological status.</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <number_of_groups>8</number_of_groups>
+  <enrollment type="Anticipated">320</enrollment>
+  <condition>Atrial Fibrillation</condition>
+  <condition>Hypertension</condition>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>Healthy</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients infected by COVID- 19 with no symptoms</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients infected by COVID- 19 with symptoms</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients diagnosed with atrial fibrillation</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hypertensive patients</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Heart failure patients, EF &lt; 40%</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Heart failure patients, EF &gt; 40% and &lt; 60%</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Heart failure patients, EF &gt; 60%</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Kinocardiograph</intervention_name>
+    <description>Measure with the Kinocardiograph device and the Okcardio application installed on a smartphone</description>
+    <arm_group_label>Healthy</arm_group_label>
+    <arm_group_label>Heart failure patients, EF &lt; 40%</arm_group_label>
+    <arm_group_label>Heart failure patients, EF &gt; 40% and &lt; 60%</arm_group_label>
+    <arm_group_label>Heart failure patients, EF &gt; 60%</arm_group_label>
+    <arm_group_label>Hypertensive patients</arm_group_label>
+    <arm_group_label>Patients diagnosed with atrial fibrillation</arm_group_label>
+    <arm_group_label>Patients infected by COVID- 19 with no symptoms</arm_group_label>
+    <arm_group_label>Patients infected by COVID- 19 with symptoms</arm_group_label>
+    <other_name>OKCARDIO smart application</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients in the ambulatory routine of the cardiology department at the Erasme hospital&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults aged above 18 years old.&#xD;
+&#xD;
+          -  BMI (Body Mass Index) is below 50 kg/m2.&#xD;
+&#xD;
+          -  Fit in one of the groups&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients younger than 18 years old.&#xD;
+&#xD;
+          -  BMI (Body Mass Index) higher than 50 kg/m2.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Philippe van de Borne, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Erasme</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Philippe van de Borne, Professor</last_name>
+    <phone>02 555 39 60</phone>
+    <phone_ext>+32</phone_ext>
+    <email>Philippe.Van.de.Borne@erasme.ulb.ac.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Amin Hossein, MD</last_name>
+    <phone>02 555 32 75</phone>
+    <phone_ext>+32</phone_ext>
+    <email>amin.hossein@ulb.be</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Erasme Hospital</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Amin Hossein, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <reference>
+    <citation>Hossein A, Mirica DC, Rabineau J, Rio JID, Morra S, Gorlier D, Nonclercq A, van de Borne P, Migeotte PF. Accurate Detection of Dobutamine-induced Haemodynamic Changes by Kino-Cardiography: A Randomised Double-Blind Placebo-Controlled Validation Study. Sci Rep. 2019 Jul 19;9(1):10479. doi: 10.1038/s41598-019-46823-3. Erratum in: Sci Rep. 2020 Mar 20;10(1):5459.</citation>
+    <PMID>31324831</PMID>
+  </reference>
+  <reference>
+    <citation>Rabineau J, Hossein A, Landreani F, Haut B, Mulder E, Luchitskaya E, Tank J, Caiani EG, van de Borne P, Migeotte PF. Cardiovascular adaptation to simulated microgravity and countermeasure efficacy assessed by ballistocardiography and seismocardiography. Sci Rep. 2020 Oct 19;10(1):17694. doi: 10.1038/s41598-020-74150-5.</citation>
+    <PMID>33077727</PMID>
+  </reference>
+  <reference>
+    <citation>Hossein A, Rabineau J, Gorlier D, Del Rio JIJ, van de Borne P, Migeotte PF, Nonclercq A. Kinocardiography Derived from Ballistocardiography and Seismocardiography Shows High Repeatability in Healthy Subjects. Sensors (Basel). 2021 Jan 26;21(3). pii: 815. doi: 10.3390/s21030815.</citation>
+    <PMID>33530417</PMID>
+  </reference>
+  <reference>
+    <citation>Morra S, Hossein A, Rabineau J, Gorlier D, Racape J, Migeotte PF, van de Borne P. Assessment of left ventricular twist by 3D ballistocardiography and seismocardiography compared with 2D STI echocardiography in a context of enhanced inotropism in healthy subjects. Sci Rep. 2021 Jan 12;11(1):683. doi: 10.1038/s41598-020-79933-4.</citation>
+    <PMID>33436841</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 26, 2021</study_first_posted>
+  <last_update_submitted>February 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atrial Fibrillation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

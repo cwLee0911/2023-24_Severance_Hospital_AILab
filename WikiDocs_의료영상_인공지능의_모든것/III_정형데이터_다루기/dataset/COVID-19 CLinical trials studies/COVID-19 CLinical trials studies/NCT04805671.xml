@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2592">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04805671</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ADG20-TRMT-001</org_study_id>
+    <nct_id>NCT04805671</nct_id>
+  </id_info>
+  <brief_title>Evaluation of ADG20 for the Treatment of Mild or Moderate COVID-19</brief_title>
+  <acronym>STAMP</acronym>
+  <official_title>A Phase 1/2/3 Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of ADG20 in the Treatment of Ambulatory Participants With Mild or Moderate COVID-19 (STAMP)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Adagio Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Adagio Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This placebo controlled study is intended to generate safety and efficacy data in order to&#xD;
+      provide a treatment option for COVID-19 in patients with a high risk of disease progression&#xD;
+      based on age or co-morbid medical conditions.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">January 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, double-blind, placebo controlled</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The investigator, participant and sponsor personnel involved in study intervention and study evaluation will be unaware of the intervention assignments. Investigators will remain blinded to each participant's assigned study treatment throughout the course of the study.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of treatment-emergent adverse events</measure>
+    <time_frame>Through day 29</time_frame>
+    <description>Phase 1/2/3</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of solicited injection site reactions (IM injection only)</measure>
+    <time_frame>Through Day 4</time_frame>
+    <description>Phase 1/2/3</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Viral load &gt;5 (log10 copies/mL) on Day 7 (+/- 1) based on nasopharyngeal sampling</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Phase 2</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of COVID-19 related hospitalizations or all-cause death</measure>
+    <time_frame>Through Day 29</time_frame>
+    <description>Phase 3</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of COVID-19 -related medically attended visits</measure>
+    <time_frame>Through Day 29</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of COVID-19 -related emergency room visits, hospitalization, or all cause-death</measure>
+    <time_frame>Through Day 29</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of severe/critical COVID-19 or all cause death</measure>
+    <time_frame>Through Day 29</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to sustained recovery defined as sustained improvement or resolution of COVID-19 symptoms</measure>
+    <time_frame>Through Day 29</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of all-cause mortality</measure>
+    <time_frame>Through Day 29, Day 60 and Day 90</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in SARS-CoV-2 viral load (log10 copies/mL) assessed by RT-qPCR from saliva samples (and NP samples for Day 7)</measure>
+    <time_frame>Days 3, 5, 7, 11 and 14 (saliva); Day 7 (NP swab)</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of SARS-CoV-2 shedding assessed by RT-qPCR from saliva samples</measure>
+    <time_frame>Through Day 29</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral load &gt;5 (log10 copies/mL) on Day 7 (+/- 1) based on nasopharyngeal sampling</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Phase 3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 clearance assessed by RT-qPCR from saliva samples (and NP samples for Day 7)</measure>
+    <time_frame>Days 5, 7, 11, 14, 21, and 29 (NP samples for Day 7)</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 viral load assessed by RT-qPCR from saliva samples</measure>
+    <time_frame>Baseline, Day 7, 11, 14, 21 or 29</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment emergent adverse events</measure>
+    <time_frame>14 months</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: Cmax for ADG20</measure>
+    <time_frame>11 months</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: Time to Cmax (Tmax) for ADG20</measure>
+    <time_frame>11 months</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: Area under the curve for ADG20</measure>
+    <time_frame>11 months</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: Half-life of ADG20</measure>
+    <time_frame>11 months</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: Clearance of ADG20</measure>
+    <time_frame>11 months</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK Parameter: volume of distribution of ADG20</measure>
+    <time_frame>11 months</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of ADA to ADG20</measure>
+    <time_frame>11 months</time_frame>
+    <description>Phase 1/2/3</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">1728</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>ADG20 IV</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be dosed on Day 1 with ADG20 IV</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ADG20 IM</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be dosed on Day 1 with ADG20 IM</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo IM</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will be dosed on Day 1 with placebo IM</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo IV</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will be dosed on Day 1 with placebo IV</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ADG20</intervention_name>
+    <description>Single dose of ADG20</description>
+    <arm_group_label>ADG20 IM</arm_group_label>
+    <arm_group_label>ADG20 IV</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Normal saline</intervention_name>
+    <description>Single dose of normal saline</description>
+    <arm_group_label>Placebo IM</arm_group_label>
+    <arm_group_label>Placebo IV</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Has had SARS-CoV-2 positive antigen, RT-PCR, or other locally approved molecular&#xD;
+             diagnostic assay obtained within 5 days prior to randomization&#xD;
+&#xD;
+          -  Has had symptoms consistent with COVID-19 with onset 5 days before randomization&#xD;
+&#xD;
+          -  Has one or more COVID-19-related signs or symptoms on the day of randomization&#xD;
+&#xD;
+          -  Is &gt; 55 years of age or is 18 to ≤55 years of age with one or more preexisting medical&#xD;
+             conditions that place the participant at high risk of progression of COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Is currently hospitalized or in the opinion of the investigator is anticipated to&#xD;
+             require hospitalization within 48 hours of randomization.&#xD;
+&#xD;
+          -  Has severe COVID-19 or is on supplemental oxygen&#xD;
+&#xD;
+          -  Has a history of a positive SARS-CoV-2 antibody serology test&#xD;
+&#xD;
+          -  Has participated, within the last 30 days, in a clinical study involving an&#xD;
+             investigational intervention&#xD;
+&#xD;
+          -  Has received a SARS-CoV-2 vaccine, monoclonal antibody, or plasma from a person who&#xD;
+             recovered from COVID-19 any time prior to participation in the study&#xD;
+&#xD;
+        NOTE: Other protocol defined inclusion/exclusion criteria apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Study Inquiry</last_name>
+    <phone>+1 781-819-0080</phone>
+    <email>ClinicalTrials@adagiotx.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Adagio Investigative site</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Adagio Investigative site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Adagio Investigative site</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30328</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 18, 2021</study_first_posted>
+  <last_update_submitted>March 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2794">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04836260</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-02989</org_study_id>
+    <nct_id>NCT04836260</nct_id>
+  </id_info>
+  <brief_title>Preemptive Use of Convalescent Plasma for High-risk Patients With COVID-19</brief_title>
+  <official_title>Preemptive Use of Convalescent Plasma for High-risk Patients With SARS-CoV-2 Infection: Phase III-IV Non-controlled Non-randomised Swiss Multicentric Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Geneva</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Hospital, Basel, Switzerland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ospedale Regionale di Lugano</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hôpital Fribourgeois</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Geneva</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Convalescent plasma therapy has been recognized as safe and plasma transfusion is routinely&#xD;
+      used in clinical practice. A recent study showed that early administration of convalescent&#xD;
+      plasma can decrease the risk of complications in specific high-risk population.&#xD;
+&#xD;
+      The aim of the present study is to offer convalescent plasma therapy to immunocompromised&#xD;
+      patients and older adults in the early phase of a SARS-Cov-2 infection in order to accelerate&#xD;
+      viral clearance and prevent complication&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open-label non-controlled, non-randomised interventional study. Study population&#xD;
+      consist in immunocompromised patients and older adults with or without co-morbidities.&#xD;
+&#xD;
+      Included patients will receive at least one unit of convalescent plasma with NTAB titer&#xD;
+      ≥1:160 or equivalent at maximum 3-7 days after diagnosis by RT-PCR or symptom onset or if&#xD;
+      having mild-moderate disease (WHO scale &lt;4).&#xD;
+&#xD;
+      Patients will be followed-up up to 28 days to assess progression to WHO scale 4 disease, and&#xD;
+      28-days mortality and viral load kinetics.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 8, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>open-label non-controlled, non-randomised interventional study</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of patient that progress to WHO 8 ordinal scale ≥ 4 (oxygen requirement)</measure>
+    <time_frame>7 days after plasma infusion</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of patient that progress to WHO 8 ordinal scale ≥ 4 (oxygen requirement)</measure>
+    <time_frame>14 days after plasma infusion</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of death</measure>
+    <time_frame>28 days after plasma infusion</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with cleared nasopharyngeal viral load</measure>
+    <time_frame>7 days after plasma infusion</time_frame>
+    <description>Cleared viral load is defined as CT value ≥30</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with cleared nasopharyngeal viral load</measure>
+    <time_frame>14 days after plasma infusion</time_frame>
+    <description>Cleared viral load is defined as CT value ≥30</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Proportion of patients that progress to WHO 8 ordinal scale ≥ 4 (oxygen requirement)</measure>
+    <time_frame>21 days after plasma infusion</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of patients with cleared nasopharyngeal viral load</measure>
+    <time_frame>21 days after plasma infusion</time_frame>
+    <description>Will be evaluated if CT&lt; 30 at 14 days</description>
+  </other_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <condition>Immuno-Deficiency</condition>
+  <condition>Old Age; Debility</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SARS-CoV-2 convalescent plasma</intervention_name>
+    <description>Included patients will receive at least one unit of convalescent plasma with NTAB titer ≥1:160 at maximum 3-7 days after diagnosis by RT-PCR or symptom onset. A second unit of plasma from a different donor can be proposed 24h after the first unit if immunocompromised and/or the patient received less than 3-5ml/kg of plasma volume. Additional units can be exceptionnally infused, at the investigator discretion.</description>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Immunocompromised patients defined as&#xD;
+&#xD;
+               1. Solid organ transplant ≤1 year before inclusion or treated for acute or chronic&#xD;
+                  rejection episode or&#xD;
+&#xD;
+               2. Allogeneic stem cell transplant recipients ≤2 years before inclusion or treated&#xD;
+                  for acute GvHD ≥grade 2 or chronic moderate-severe GvHD or&#xD;
+&#xD;
+               3. Active solid or haematological oncological disease with curative perspectives or&#xD;
+&#xD;
+               4. HIV infection with CD4&lt;350 or&#xD;
+&#xD;
+               5. Hypogammaglobulinemia and other severe genetic immunological defect or&#xD;
+&#xD;
+               6. Auto-immune disease with biological immunosuppressive treatment* or&#xD;
+&#xD;
+               7. Other significant immunosuppressive condition such as IgG &lt;6, treamtent with&#xD;
+                  Rituximab or other biological lymphopenic treatment AND&#xD;
+&#xD;
+                    -  Age ≥ 18 years old and&#xD;
+&#xD;
+                    -  2 distinct ABO group determination and&#xD;
+&#xD;
+                    -  Positive RT-PCR for SARS-CoV-2 on a respiratory tract sample of ≤ 7 days and&#xD;
+                       days post symptom onset (DPOS) ≤ 7 days at inclusion and/or&#xD;
+&#xD;
+                    -  No oxygen requirement (WHO 8 ordinal scale &lt; 4): asymptomatic, mild or&#xD;
+                       moderate disease, or O2 saturation ≥ 90% at room temperature and&#xD;
+&#xD;
+                    -  Compatible ABO donor with neutralizing antibodies (NTAB) ≥1 :160 or&#xD;
+                       equivalent according to predefined antibody commercial assays cut-offs (see&#xD;
+                       Study procedures)&#xD;
+&#xD;
+                    -  RT-PCR on a respiratory tract sample with CT value&lt;20 or ascending kinetics&#xD;
+                       at the time of infusion (highly suggested but not necessary)&#xD;
+&#xD;
+          2. Older adults defined as Age ≥ 75 years old or ≥ 65 years old with at least one&#xD;
+             co-existing condition&#xD;
+&#xD;
+               -  Arterial hypertension under pharmacological treatment&#xD;
+&#xD;
+               -  Diabetes in treatment&#xD;
+&#xD;
+               -  Obesity (BMI ≥ 30 kg/m2)&#xD;
+&#xD;
+               -  Chronic obstructive pulmonary disease stade GOLD ≥2&#xD;
+&#xD;
+               -  Respiratory insufficiency due to any pneumopathy or neurologic disease.&#xD;
+&#xD;
+               -  Cardiovascular disease as defined by either known coronary heart disease, history&#xD;
+                  of ischemic or hemorrhagic stroke or cardiac insufficiency (ejection fraction&#xD;
+                  &lt;40%)&#xD;
+&#xD;
+               -  Chronic kidney disease (GFR&lt;60 ml/min) AND&#xD;
+&#xD;
+               -  2 distinct ABO group determination and&#xD;
+&#xD;
+               -  Positive RT-PCR for SARS-CoV-2 on a respiratory tract sample of ≤ 3 days and days&#xD;
+                  post symptom onset (DPOS) ≤ 3 days at inclusion or RT-PCR on a respiratory tract&#xD;
+                  sample with CT value&lt;20 or ascending kinetics at the time of perfusion and&#xD;
+&#xD;
+               -  No additional oxygen requirement compared to baseline (WHO 8 ordinal scale &lt; 4):&#xD;
+                  asymptomatic, mild or moderate disease and&#xD;
+&#xD;
+               -  Compatible ABO donor with neutralizing antibodies (NTAB) ≥1 :160 or equivalent&#xD;
+                  according to predefined antibody commercial assays cut-offs (see Study&#xD;
+                  procedures)&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+        Seroconversion at the time of inclusion&#xD;
+&#xD;
+          -  Palliative care&#xD;
+&#xD;
+          -  No signed informed consent&#xD;
+&#xD;
+          -  History of previous transfusion-related Grade 3 adverse event according to Swissmedic&#xD;
+             definitions&#xD;
+&#xD;
+          -  Disseminated intravascular coagulopathy (depending on specialist evaluation)&#xD;
+&#xD;
+          -  Uncontrolled acute hypervolemia&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Laurent Kaiser, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Geneva</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Enos Bernasconi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ospedale Regionale di Lugano</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Véronique Erard, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>HFR-Fribourg Hôpital Cantonal</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Maja Weisser, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Klinik Infektiologie &amp; Spitalhygiene</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Diem-Lan Vu Cantero, MD, PhD</last_name>
+    <phone>+41795535512</phone>
+    <email>diem-lan.vu@hcuge.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nina Khanna, MD</last_name>
+    <phone>+41613287325</phone>
+    <email>nina.khanna@usb.ch</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Universitätsspital Basel</name>
+      <address>
+        <city>Basel</city>
+        <zip>4031</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nina Khanna, MD</last_name>
+      <phone>+41613287325</phone>
+      <email>nina.khanna@usb.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maja Weisser, MD</last_name>
+      <phone>+413286742</phone>
+      <email>maja.weisser@usb.ch</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Andreas Buser, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>HFR-Fribourg Hôpital Cantonal</name>
+      <address>
+        <city>Fribourg</city>
+        <zip>1708</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Véronique Erard, MD</last_name>
+      <phone>+41 26 3060836</phone>
+      <email>Veronique.erard@h-fr.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Emmanuel Levrat, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Geneva University Hospitals</name>
+      <address>
+        <city>Geneva</city>
+        <zip>1205</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Diem-Lan Vu Cantero, MD, PhD</last_name>
+      <phone>+41795535512</phone>
+      <email>diem-lan.vu@hcuge.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Laurent Kaiser, MD</last_name>
+      <phone>+41795533420</phone>
+      <email>laurent.kaiser@hcuge.ch</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sophie Waldvogel-Abramowski, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Regionale di Lugano</name>
+      <address>
+        <city>Lugano</city>
+        <zip>6900</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Enos Bernasconi, MD</last_name>
+      <phone>+41918116022</phone>
+      <email>Enos.Bernasconi@eoc.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Stefano Fontana, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital, Geneva</investigator_affiliation>
+    <investigator_full_name>Diem-Lan Vu</investigator_full_name>
+    <investigator_title>MD, PhD</investigator_title>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Convalescent plasma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immunologic Deficiency Syndromes</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

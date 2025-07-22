@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2763">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04843761</url>
+  </required_header>
+  <id_info>
+    <org_study_id>015 / ACTIV-3b</org_study_id>
+    <nct_id>NCT04843761</nct_id>
+  </id_info>
+  <brief_title>ACTIV-3b: Therapeutics for Severely Ill Inpatients With COVID-19</brief_title>
+  <acronym>TESICO</acronym>
+  <official_title>A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and Efficacy of Investigational Therapeutics for Hospitalized Patients With Acute Respiratory Distress Syndrome Associated With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>International Network for Strategic Initiatives in Global HIV Trials (INSIGHT)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Copenhagen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Medical Research Council</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Kirby Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Washington D.C. Veterans Affairs Medical Center</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AIDS Clinical Trials Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>US Department of Veterans Affairs</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Prevention and Early Treatment of Acute Lung Injury (PETAL)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cardiothoracic Surgical Trials Network (CTSN)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>NeuroRx, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study looks at the safety and effectiveness of different drugs in treating COVID-19 in&#xD;
+      people who have been hospitalized with the infection and who have acute respiratory failure.&#xD;
+      Participants in the study will be treated with either a study drug plus current standard of&#xD;
+      care (SOC), or with placebo plus current SOC.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a master protocol to evaluate the safety and efficacy of investigational agents aimed&#xD;
+      at improving outcomes for patients with acute respiratory failure related to COVID-19.&#xD;
+&#xD;
+      Trials within this protocol will be adaptive, randomized, blinded and initially&#xD;
+      placebo-controlled. Participants will receive standard of care (SOC) treatment as part of the&#xD;
+      protocol. If an investigational agent shows superiority over placebo, SOC for the study of&#xD;
+      future investigational agents may be modified accordingly.&#xD;
+&#xD;
+      The international trials within this protocol will be conducted in up to several hundred&#xD;
+      clinical sites. Participating sites are affiliated with networks funded by the United States&#xD;
+      National Institutes of Health (NIH) and the US Department of Veterans Affairs.&#xD;
+&#xD;
+      The protocol is for a phase III platform study that allows investigational drugs to be added&#xD;
+      and dropped during the course of the study. This allows for efficient testing of new drugs&#xD;
+      against control within the same trial infrastructure. When more than one agent is being&#xD;
+      tested concurrently, participants may be randomly allocated across agents (as well as between&#xD;
+      the agent and its placebo) so the same control group can be shared, when feasible. In some&#xD;
+      situations, a factorial design may be used to study multiple agents.&#xD;
+&#xD;
+      Participants will be followed for 90 days following randomization for the primary endpoint&#xD;
+      and most secondary endpoints. Selected secondary endpoints will be measured at 180 days.&#xD;
+&#xD;
+      This study is planned to provide 80% power to detect an odds ratio of 1.5 for improvement in&#xD;
+      recovery status at Day 90 for an investigational agent versus placebo with use of the ordinal&#xD;
+      outcome. The planned sample size is 640 participants (320 per group) for each investigational&#xD;
+      agent/placebo. Sample size may be re-estimated before enrollment is complete based on an&#xD;
+      assessment of whether the pooled proportions of the outcome are still consistent with&#xD;
+      adequate power for the hypothesized difference measured by the odds ratio.&#xD;
+&#xD;
+      Randomization will be stratified by study site pharmacy and by receipt of invasive mechanical&#xD;
+      ventilation, or ECMO at enrollment. Other agent-specific stratification factors may be&#xD;
+      considered.&#xD;
+&#xD;
+      Investigational agents suitable for testing in the inpatient setting will be prioritized&#xD;
+      based on in vitro data, preclinical data, phase I pharmacokinetic and safety data, and&#xD;
+      clinical data from completed and ongoing trials. In some cases, a vanguard cohort/initial&#xD;
+      pilot phase may be incorporated into the trial.&#xD;
+&#xD;
+      An independent Data and Safety Monitoring Board (DSMB) will review interim safety and&#xD;
+      efficacy data at least monthly. Pre-specified guidelines will be established to recommend&#xD;
+      early stopping of the trial for evidence of harm or substantial efficacy. The DSMB may&#xD;
+      recommend discontinuation of an investigational agent if the risks are judged to outweigh the&#xD;
+      benefits.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">April 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to recovery</measure>
+    <time_frame>Thru Day 90</time_frame>
+    <description>Recovery categorized as 1 (Best): At home an off oxygen for ≥ 77 consecutive days; 2: At home and off oxygen for 49-76 consecutive days; 3: At home and off oxygen for 1-48 consecutive days; 4: Not hospitalized and either at home on oxygen or not at home; 5: Hospitalized for medical care or in hospice care; 6 (Worst): Dead.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>Thru Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Composite of time to recovery, free/not free of respiratory support and mortality</measure>
+    <time_frame>Thru Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time from randomization to recovery</measure>
+    <time_frame>Thru Day 90</time_frame>
+    <description>Recovery defined as alive, at home and off oxygen (treating death as competing risk)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days alive outside short-term acute care hospital</measure>
+    <time_frame>Up to Day 90</time_frame>
+    <description>Using &quot;last off&quot; method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of clinical organ failure</measure>
+    <time_frame>Thru Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Composite of death, clinical organ failure or serious infections</measure>
+    <time_frame>Thru Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Composite of cardiovascular events and thromboembolic events</measure>
+    <time_frame>Thru Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Composite of grade 3 and 4 clinical adverse events, serious adverse events (SAEs) or death</measure>
+    <time_frame>Thru Days 5 and 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of infusion reactions</measure>
+    <time_frame>Thru Day 180</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants for whom infusion was interrupted or stopped prior to completion for any reason</measure>
+    <time_frame>Thru Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants for whom infusion was interrupted or stopped prior to completion due to adverse event</measure>
+    <time_frame>Thru Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Composite of hospital readmissions or death</measure>
+    <time_frame>Thru Day 180</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of no home use of supplemental oxygen above pre-morbid oxygen use</measure>
+    <time_frame>14 days</time_frame>
+    <description>Measured as: Alive at home for an uninterrupted 14 day period and no use of continuous supplemental oxygen at end of 14 day time period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to hospital discharge from initial hospitalization</measure>
+    <time_frame>Thru Day 180</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Composite of death or serious clinical COVID-19 related events</measure>
+    <time_frame>Thru Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary ordinal outcome</measure>
+    <time_frame>Days 1-7, 14 and 28</time_frame>
+    <description>Oxygen requirements measured by 7 categories (1 = least severe, 7 = most severe). The participant's highest (i.e. most severe) observed score is used.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary+ ordinal outcome</measure>
+    <time_frame>Days 1-7</time_frame>
+    <description>Extrapulmonary complications and respiratory dysfunction measured by 7 categories (1= least severe, 7 = most severe). The participant's highest (i.e. most severe) observed score is used.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Composite of SAEs or death</measure>
+    <time_frame>Thru Day 180</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SARS-CoV-2 neutralizing antibody levels</measure>
+    <time_frame>Baseline to Days 1, 3, 5, 28 and 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in overall titers of antibodies</measure>
+    <time_frame>Baseline to Days 1, 3, 5, 28 and 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in neutralizing antibody levels</measure>
+    <time_frame>Baseline to Days 1, 3, 5, 28 and 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of home use of supplemental oxygen above pre-morbid oxygen use</measure>
+    <time_frame>Thru Day 180</time_frame>
+    <description>Measured as: Alive at home and no use of continuous supplemental oxygen for an uninterrupted 14 day period</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">640</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Remdesivir plus SOC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Remdesivir Placebo plus SOC</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>VIP plus SOC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>VIP Placebo plus SOC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>Administered by IV infusion, daily for 10 days. Initial loading dose is 200 mg with all subsequent doses 100 mg.</description>
+    <arm_group_label>Remdesivir plus SOC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir placebo</intervention_name>
+    <description>Commercially available 0.9% sodium chloride solution. Administered by IV infusion.</description>
+    <arm_group_label>Remdesivir Placebo plus SOC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>VIP</intervention_name>
+    <description>Administered by IV infusion over 12 hours per day for 3 days.</description>
+    <arm_group_label>VIP plus SOC</arm_group_label>
+    <other_name>Vasoactive Intestinal Peptide</other_name>
+    <other_name>aviptadil</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VIP Placebo</intervention_name>
+    <description>Commercially available 0.9% sodium chloride solution. Administered by IV infusion.</description>
+    <arm_group_label>VIP Placebo plus SOC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Corticosteroid</intervention_name>
+    <description>In line with NIH treatment guidelines, corticosteroids such as dexamethasone, prednisone, methylprednisolone or hydrocortisone may be administered as SOC.</description>
+    <arm_group_label>Remdesivir Placebo plus SOC</arm_group_label>
+    <arm_group_label>Remdesivir plus SOC</arm_group_label>
+    <arm_group_label>VIP Placebo plus SOC</arm_group_label>
+    <arm_group_label>VIP plus SOC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Signed informed consent.&#xD;
+&#xD;
+          -  Requiring admission to hospital for acute medical care (not for purely public health&#xD;
+             or quarantine purposes).&#xD;
+&#xD;
+          -  Current respiratory failure (i.e. receipt of high-flow nasal cannula, non-invasive&#xD;
+             ventilation, invasive mechanical ventilation, or ECMO (extracorporeal membrane&#xD;
+             oxygenation) used to treat acute hypoxemic respiratory failure).&#xD;
+&#xD;
+          -  SARS-CoV-2 (COVID-19) infection, documented by a nucleic acid test (NAT) or equivalent&#xD;
+             testing with most recent rest within 14 days prior to randomization.&#xD;
+&#xD;
+          -  Respiratory failure is believed to be due to SARS-CoV-2 pneumonia.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known allergy to investigational agent or vehicle.&#xD;
+&#xD;
+          -  More than 4 days since initiation of support for respiratory failure.&#xD;
+&#xD;
+          -  Chronic/home mechanical ventilation (invasive or non-invasive) for chronic lung or&#xD;
+             neuromuscular disease (non-invasive ventilation used solely for sleep-disordered&#xD;
+             breathing is not an exclusion).&#xD;
+&#xD;
+          -  Moribund patient (i.e. not expected to survive 24 hours).&#xD;
+&#xD;
+          -  Active use of &quot;comfort care&quot; or other hospice-equivalent standard of care.&#xD;
+&#xD;
+          -  Expected inability to participate in study procedures.&#xD;
+&#xD;
+          -  In the opinion of the investigator, any condition for which, participation would not&#xD;
+             be in the best interest of the participant or that could limit protocol-specified&#xD;
+             assessments.&#xD;
+&#xD;
+          -  Previous enrollment in TESICO&#xD;
+&#xD;
+        Agent-specific exclusion criteria&#xD;
+&#xD;
+          -  Prior receipt of any dose of remdesivir during present illness (remdesivir agent).&#xD;
+&#xD;
+          -  GFR (glomerular filtration rate) &lt; 30 ml/min and not receiving dialysis (remdesivir&#xD;
+             agent).&#xD;
+&#xD;
+          -  ALT (alanine aminotransferase) or AST (aspartate aminotransferase) &gt; 10 times upper&#xD;
+             limit of normal (remdesivir agent).&#xD;
+&#xD;
+          -  Unwillingness to commit to avoid sex that may result in pregnancy for at least 7 days&#xD;
+             after completion of remdesivir vs. placebo (remdesivir agent).&#xD;
+&#xD;
+          -  Refractory hypotension (aviptadil agent).&#xD;
+&#xD;
+          -  Severe diarrhea (Aviptadil agent).&#xD;
+&#xD;
+          -  Current C. difficile infection (aviptadil agent).&#xD;
+&#xD;
+          -  Pregnancy or current breast-feeding (aviptadil agent).&#xD;
+&#xD;
+          -  End-stage liver disease (aviptadil agent).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Samuel Brown, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Intermountain Medical Center/University of Utah</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Prof. James Neaton</last_name>
+    <role>Study Chair</role>
+    <affiliation>INSIGHT Statistical and Coordinating Centre, University of Minnesota</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>If interested in participating in this study, please contact the appropriate site or</last_name>
+    <phone>send email to</phone>
+    <email>tico@insight-trials.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Do not include personal information in email. Type ACTIV-3 in subject line.</last_name>
+  </overall_contact_backup>
+  <link>
+    <url>http://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm</url>
+    <description>FDA Safety Alerts and Recalls</description>
+  </link>
+  <link>
+    <url>https://www.cdc.gov/coronavirus/2019-nCoV/index.html</url>
+    <description>CDC (Centers for Disease Control and Prevention): Coronavirus (COVID-19) website</description>
+  </link>
+  <link>
+    <url>https://www.niaid.nih.gov/clinical-trials/participant-guide</url>
+    <description>A Participant's Guide to Clinical Trials (NIAID)</description>
+  </link>
+  <link>
+    <url>https://www.niaid.nih.gov/clinical-trials/find-a-clinical-trial</url>
+    <description>Find a Clinical Trial (NIAID)</description>
+  </link>
+  <link>
+    <url>https://www.niaid.nih.gov/clinical-trials</url>
+    <description>Clinical Trials at NIAID</description>
+  </link>
+  <link>
+    <url>https://www.niaid.nih.gov/</url>
+    <description>National Institute for Allergy and Infectious Diseases (NIAID)</description>
+  </link>
+  <link>
+    <url>https://www.covid19treatmentguidelines.nih.gov/</url>
+    <description>NIH COVID-19 treatment guidelines</description>
+  </link>
+  <link>
+    <url>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/patient-management</url>
+    <description>WHO COVID-19 treatment guidelines</description>
+  </link>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>COVID 19</keyword>
+  <keyword>Coronaviridae Infections</keyword>
+  <keyword>Coronavirus Infections</keyword>
+  <keyword>RNA Virus Infections</keyword>
+  <keyword>Virus Diseases</keyword>
+  <keyword>Nidovirales Infections</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>SARS Coronavirus</keyword>
+  <keyword>ACTIV-3</keyword>
+  <keyword>ACTIV3</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vasoactive Intestinal Peptide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

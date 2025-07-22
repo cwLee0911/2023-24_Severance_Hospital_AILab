@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4874">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04747678</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ahmed19782020</org_study_id>
+    <nct_id>NCT04747678</nct_id>
+  </id_info>
+  <brief_title>Adverse Effects of Ivermectin Used in Egypt During COVID-19</brief_title>
+  <official_title>Tolerability and Adverse Effects of Using Multiple Doses of Ivermectin in Egypt During Covid 19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Menoufia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Menoufia University</source>
+  <brief_summary>
+    <textblock>
+      retrograde study of common and rare adverse effects of multiple doses of ivermectin used&#xD;
+      during the coivd 19 pandemic in egypt&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      ivermectin was used in Egypt during the pandemic of covid-19 and it was registered in the MOH&#xD;
+      protocol that has been published in November 2020 the study will document the adverse effects&#xD;
+      of many patients used ivermectin as aprophylaxis and as a treatment with multiple dose&#xD;
+      regimens&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Anticipated">February 3, 2021</start_date>
+  <completion_date type="Anticipated">March 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Crossover</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <target_duration>30 Days</target_duration>
+  <primary_outcome>
+    <measure>all adverse effects will be collected from people used Ivermectin in between September 2020 to December 2020</measure>
+    <time_frame>the data will be collected from February 2021 to march 2021</time_frame>
+    <description>all data will be collected from retrospective manner as a retrospective study</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>all data will be arranged according to time and dose manner</measure>
+    <time_frame>February to match 2021</time_frame>
+    <description>data for each dose will be identified together</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid19</condition>
+  <condition>Ivermectin Poisoning</condition>
+  <condition>Drug Toxicity</condition>
+  <condition>Drug Side Effect</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ivermectin</intervention_name>
+    <description>retrograde study of common and rare adverse effects of multiple doses of ivermectin used during the coivd 19 pandemic in egypt</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        all healthy and diseased people who used ivermectin the last three months either as a&#xD;
+        treatment or as a prophylaxis with mention of the doses used and the adverse effects&#xD;
+        experienced during and after the usage&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  all people used ivermectin as a treatment or as a prophylactic in covid 19 pandemic in&#xD;
+             egypt with explained dose&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Ahmed Mansour</name>
+      <address>
+        <city>Shibīn Al Kawm</city>
+        <state>Menoufia</state>
+        <zip>24222</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 10, 2021</study_first_posted>
+  <last_update_submitted>February 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Menoufia University</investigator_affiliation>
+    <investigator_full_name>ahmed mohamed esmat fahim mansour</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Poisoning</mesh_term>
+    <mesh_term>Drug-Related Side Effects and Adverse Reactions</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ivermectin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

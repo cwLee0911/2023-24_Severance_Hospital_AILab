@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4089">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04808895</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EudraCT 2020-006130-12</org_study_id>
+    <nct_id>NCT04808895</nct_id>
+  </id_info>
+  <brief_title>Acetylsalicylic Acid in the Prevention of Severe SARS-CoV2 Pneumonia in Hospitalised Patients With COVID-19</brief_title>
+  <acronym>Asperum</acronym>
+  <official_title>Multicenter Randomized, Double-blind, Placebo-controlled, Clinical Trial of Acetylsalicylic Acid in the Prevention of Severe SARS-CoV2 Pneumonia in Hospitalised Patients (Asperum)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Azienda Ospedaliera Universitaria Integrata Verona</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Azienda Ospedaliera Universitaria Integrata Verona</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Inflammatory diseases favour the onset of venous thromboembolic events in hospitalized&#xD;
+      patients. Thromboprophylaxis with a fixed dose of heparin/low molecular weight heparin (LMWH)&#xD;
+      is recommended if concomitant inflammatory disease. In severe acute respiratory syndrome&#xD;
+      coronavirus 2 (SARS-CoV2) pneumonia an inflammation-dependent thrombotic process occurs and&#xD;
+      platelet activation may promote thrombosis and amplify inflammation, as indicated by previous&#xD;
+      experimental evidence, and the similarities with atherothrombosis and thrombotic&#xD;
+      microangiopathies. Antiplatelet agents represent the cornerstone in the prevention and&#xD;
+      treatment of atherosclerotic arterial thromboembolism, with limited efficacy in the context&#xD;
+      of venous thromboembolism. The use of acetylsalicylic acid may improve inflammation and&#xD;
+      respiratory function in humans as indicated by the results of observational studies. There&#xD;
+      are no validated protocols for thrombosis prevention in Covid-19. There is scientific&#xD;
+      rationale to consider acetylsalicylic acid for the prevention of thrombosis in the pulmonary&#xD;
+      circulation and attenuation of inflammation. This is supported by numerous demonstrations of&#xD;
+      the anti-inflammatory activity of antiplatelet agents and the evidence of improvement in&#xD;
+      respiratory function both in human and experimental pathology. The hypothesis underlying the&#xD;
+      present study project is that in Covid-19 platelet activation occurs through an&#xD;
+      inflammation-dependent mechanism and that early antithrombotic prophylaxis in non-critical&#xD;
+      patients could reduce the incidence of pulmonary thrombosis and respiratory and multi-organ&#xD;
+      failure improving clinical outcome in patients with SARS-CoV2 pneumonia. The prevention of&#xD;
+      thrombogenic platelet activity with acetylsalicylic acid could be superior to fixed dose&#xD;
+      enoxaparin alone. The proposed treatment is feasible in all coronavirus disease 2019&#xD;
+      (COVID-19) patients, regardless of the treatment regimen (antivirals, anti-inflammatory&#xD;
+      drugs), except for specific contraindications. To this aim, the investigators a randomised,&#xD;
+      placebo-controlled, double blind, parallel arms study to investigate the potential protection&#xD;
+      of acetylsalicylic acid towards the progression of lung failure in patients admitted to a&#xD;
+      medical ward for SARS-CoV-2 pneumonia. A 15-day treatment period is considered. Primary&#xD;
+      endpoint is the occurrence of one of the following events: admission to an intensive care&#xD;
+      unit, requirement of mechanical ventilation, PaO2/FiO2 less than 150 mm Hg.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Severe respiratory failure and multi-organ damage in coronavirus disease 2019 (COVID-19)&#xD;
+      patients have not a unitary pathophysiological interpretation. There is evidence of an&#xD;
+      association between the clinical entity of the disease and its severity with the plasma&#xD;
+      levels of D-dimer and inflammatory indexes. On the basis of retrospective investigations&#xD;
+      there is accumulating evidence of alterations in the haemostatic parameters that with&#xD;
+      increased D-dimer values, increased coagulation time and platelets may be predictors of worse&#xD;
+      prognosis. A systematic survey conducted in the coronavirus disease 2019 (COVID-19) Centre of&#xD;
+      the AOUI Verona, as part of the Database and Study on the role of platelets in the clinical&#xD;
+      manifestations of COVID-19 (Ethics Committee CESC Verona and Rovigo approved) revealed by&#xD;
+      means of computerized tomography (CT) angiograph in patients with a persistent respiratory&#xD;
+      deficit and very high D-dimer values mainly multiple, bilateral vascular occlusions involving&#xD;
+      the segmental and subsegmental branches of the pulmonary arteries. This finding is suggestive&#xD;
+      of a frequent and clinically relevant thrombotic process in a appreciable number&#xD;
+      (approximately 20%) of patients with COVID-19 pneumonia hospitalized in medical wards. It is&#xD;
+      a well-established clinical notion that acute and chronic inflammatory diseases may favour&#xD;
+      the onset of venous thromboembolic events in hospitalized patients. Thromboprophylaxis with a&#xD;
+      fixed dose of heparin/low molecular weight heparin (LMWH) is recommended for medical patient&#xD;
+      with concomitant neoplasia or inflammatory disease. It is conceivable that under conditions,&#xD;
+      such as SARS-CoV2 pneumonia, an inflammation-dependent thrombotic process takes place and&#xD;
+      that platelet activation may play a pathogenic role both in the thrombotic process and in the&#xD;
+      amplification of the inflammatory process. In fact, there is experimental evidence that&#xD;
+      platelet activation in inflammation would lead to accelerated coagulation and a thrombotic&#xD;
+      vascular occlusion, with similarities to what is widely documented in atherothrombosis and&#xD;
+      thrombotic microangiopathies. The administration of antiplatelet drugs represents the&#xD;
+      cornerstone for the prevention and treatment of arterial thromboembolism in atherosclerotic&#xD;
+      disease and has also shown some limited efficacy also in the context of venous and arterial&#xD;
+      thromboembolism associated with atrial fibrillation. The use of acetylsalicylic acid may&#xD;
+      improve inflammation and respiratory function in humans as indicated by the results of&#xD;
+      observational studies. There are currently no validated protocols for thrombosis prevention&#xD;
+      in the field of pulmonary viral diseases, in particular COVID-19. There is scientific&#xD;
+      rationale to consider acetylsalicylic acid for the prevention of thrombosis in the pulmonary&#xD;
+      circulation and attenuation of inflammation. This is supported by numerous demonstrations of&#xD;
+      the anti-inflammatory activity of antiplatelet agents and the evidence of improvement in&#xD;
+      respiratory function both in human and experimental pathology. A retrospective observational&#xD;
+      study showed that patients with COVID-19 pneumonia treated with acetyl salicylic acid had a&#xD;
+      lower incidence of progression to respiratory failure requiring mechanical ventilation,&#xD;
+      without evidence of increased incidence of bleeding complications. The hypothesis underlying&#xD;
+      the present study project is that in Covid-19 platelet activation occurs via an&#xD;
+      inflammation-dependent mechanism and that early antithrombotic prophylaxis in non-critical&#xD;
+      patients, like those admitted to medical wards, could reduce the incidence of pulmonary&#xD;
+      thrombosis as well as respiratory and multi-organ failure, contributing to improve clinical&#xD;
+      outcome of the patients with pneumonia caused by SARS-CoV2 viruses. The anticoagulant&#xD;
+      activity exerted by a fixed dose of enoxaparin (4000U/day), recommended in patients with the&#xD;
+      described clinical features, according to a note of the &quot;Italian Medicines Agency&quot; (AIFA),&#xD;
+      together with the prevention of thrombogenic activity of platelets by acetylsalicylic acid&#xD;
+      could prevent aggravation of COVID-19 patients to a greater extent than enoxaparin alone&#xD;
+      given at the same dose. Early initiation of treatment should mitigate the presentation of&#xD;
+      pneumonia. The proposed treatment is feasible in all coronavirus disease 2019 (COVID-19)&#xD;
+      patients, regardless of the treatment regimen (antivirals, anti-inflammatory drugs), except&#xD;
+      for specific contraindications. To this aim, it was designed a randomised,&#xD;
+      placebo-controlled, double blind, parallel arms study to investigate the potential protection&#xD;
+      of acetylsalicylic acid towards the progression of lung failure in patients admitted to a&#xD;
+      medical ward for SARS-CoV-2 pneumonia. A 15-day treatment period is considered. Primary&#xD;
+      endpoint is the occurrence of one of the following events: admission to an intensive care&#xD;
+      unit, requirement of mechanical ventilation, PaO2/FiO2 less than 150 mm Hg.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Experimental phase 3 drug trial, randomized 1:1, double-blind, multicentre in patients treated with acetylsalicylic acid vs placebo.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Use of placebo tablets of the same shape, colour of the investigational drug. Identical time and route of administration.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevention of clinical worsening</measure>
+    <time_frame>day 15</time_frame>
+    <description>Transfer to ICU</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevention of lung function worsening</measure>
+    <time_frame>day 15</time_frame>
+    <description>PaO2/FiO2 lower than 150 mm Hg</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevention of death</measure>
+    <time_frame>day 15</time_frame>
+    <description>Death for any cause</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in body temperature</measure>
+    <time_frame>Daily for 15 days</time_frame>
+    <description>Body temperature</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in oxygen saturation</measure>
+    <time_frame>Daily for 15 days</time_frame>
+    <description>Oxygen saturation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in blood gases</measure>
+    <time_frame>Daily for 15 days</time_frame>
+    <description>blood gas analysis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in blood cell count</measure>
+    <time_frame>Daily for 15 days</time_frame>
+    <description>blood cell count</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in blood oxygen</measure>
+    <time_frame>Daily for 15 days</time_frame>
+    <description>Oxygen administration when O2 saturation &lt;92%</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in clinical markers of lung function</measure>
+    <time_frame>Daily for 15 days</time_frame>
+    <description>PaO2/FiO2; progression of disease at Rx</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in clinical markers of liver damage</measure>
+    <time_frame>Daily for 15 days</time_frame>
+    <description>markers of organ damage (ALT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in clinical markers of hearth damage</measure>
+    <time_frame>Daily for 15 days</time_frame>
+    <description>markers of organ damage (troponin)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in clinical markers of renal damage</measure>
+    <time_frame>Daily for 15 days</time_frame>
+    <description>markers of organ damage (creatinine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on blood cell count</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>Inflammatory markers (blood cell count)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on CRP</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>Inflammatory markers (CRP)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on D-dimer</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>Inflammatory markers (D-dimer)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on interleukin-1</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>Inflammatory markers ( IL-1)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on interleukin-6</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>Inflammatory markers (IL-6)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on fibrinogen</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>Inflammatory markers (fibrinogen)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on plasma albumin</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>Inflammatory markers (albumin)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on protrombin time</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>platelet and hemostatic markets (prothrombin time)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on activated partial thromboplastin time</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>platelet and hemostatic markets (activated partial thromboplastin time)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on serum thromboxane</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>platelet and hemostatic markets ( serum TxB2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on thromboxane metabolite</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>platelet and hemostatic markets (urinary 11-dehydro TXB2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on platelet count</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>platelet and hemostatic markets (platelet count)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on reticulated platelets</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>platelet and hemostatic markets (reticulated platelets)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on platelet/leukocyte conjugates</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>platelet and hemostatic markets (platelets/leukocytes conjugates)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on plasma P-selectin</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>platelet and hemostatic markets (plasma P-selectin)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects on P-selectin expression</measure>
+    <time_frame>Baseline, day 1, 2, 7 and 15.</time_frame>
+    <description>platelet and hemostatic markets (platelet expression of P-selectin)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clincal mixed outcome of lung function, ROX score</measure>
+    <time_frame>Days 7 and 15</time_frame>
+    <description>ROX score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clincal mixed outcome of lung function, SOfa score</measure>
+    <time_frame>Days 7 and 15</time_frame>
+    <description>SOfa score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clincal mixed outcome of lung function, Apache index</measure>
+    <time_frame>Days 7 and 15</time_frame>
+    <description>Apache index</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clincal mixed outcome of lung function, need to perform CT scan due to worsening of blood gases</measure>
+    <time_frame>Days 7 and 15</time_frame>
+    <description>need to perform CT scan due to worsening of blood gases</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clincal mixed outcome of lung function, need to transfer the patient to ICU</measure>
+    <time_frame>Days 7 and 15</time_frame>
+    <description>need to transfer the patient to ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clincal mixed outcome of lung function, need for mechanical ventilation</measure>
+    <time_frame>Days 7 and 15</time_frame>
+    <description>need for mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clincal mixed outcome of lung function, days without need of mechanical ventilation</measure>
+    <time_frame>Days 7 and 15</time_frame>
+    <description>days without need of mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clincal mixed outcome of lung function, venous thromboembolism</measure>
+    <time_frame>Days 7 and 15</time_frame>
+    <description>venous thromboembolism</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clincal mixed outcome of lung function, pulmonary thrombosis</measure>
+    <time_frame>Days 7 and 15</time_frame>
+    <description>pulmonary thrombosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clincal mixed outcome of lung function, cardiovascular event</measure>
+    <time_frame>Days 7 and 15</time_frame>
+    <description>cardiovascular event</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clincal mixed outcome of lung function, death</measure>
+    <time_frame>Days 7 and 15</time_frame>
+    <description>death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clincal mixed outcome of lung function, multiorgan failure</measure>
+    <time_frame>Days 7 and 15</time_frame>
+    <description>multiorgan failure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clincal mixed outcome of lung function, discharge due to resolution of signs and symptoms</measure>
+    <time_frame>Days 7 and 15</time_frame>
+    <description>discharge due to resolution of signs and symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety outcomes, Major or clinically relevant bleeding</measure>
+    <time_frame>days 1,2,7 and 15</time_frame>
+    <description>Major or clinically relevant bleeding</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety outcomes, total bleeding based on ISTH bleeding score</measure>
+    <time_frame>days 1,2,7 and 15</time_frame>
+    <description>total bleeding based on ISTH bleeding score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety outcomes, minor bleeding according to ISTH BS</measure>
+    <time_frame>days 1,2,7 and 15</time_frame>
+    <description>minor bleeding according to ISTH BS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety outcomes, decrease in platelet count below 100x109/L</measure>
+    <time_frame>days 1,2,7 and 15</time_frame>
+    <description>decrease in platelet count below 100x109/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety outcomes, decrease of al least 2 g/dl Hb levels</measure>
+    <time_frame>days 1,2,7 and 15</time_frame>
+    <description>decrease of al least 2 g/dl Hb levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety outcomes, need for blood transfusion</measure>
+    <time_frame>days 1,2,7 and 15</time_frame>
+    <description>need for blood transfusion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety outcomes, alterations of clinical or laboratory parameters</measure>
+    <time_frame>days 1,2,7 and 15</time_frame>
+    <description>alterations of clinical or laboratory parameters</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">204</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Thrombosis Pulmonary</condition>
+  <arm_group>
+    <arm_group_label>Acetylsalicylic acid</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Tablets of 100 mg acetylsalicylic acid (one 100 mg daily dose. On the first day a loading dose of 300 mg will be administered)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Tablets of placebo, identical to active comparator (one tablet daily dose. On the first day 3 tablets will be administered)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Acetylsalicylic acid</intervention_name>
+    <description>administration of one tablet daily for 15 days. On the first day a loading dose of 300 mg will be administered</description>
+    <arm_group_label>Acetylsalicylic acid</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>administration of one tablet daily for 15 days. On the first day 3 tablets will be administered</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  in a medical area ward dedicated to Covid-19 patients&#xD;
+&#xD;
+          -  Positivity by RT_PCR of the search for genetic material of SARS-CoV2&#xD;
+&#xD;
+          -  Covid-19 pneumonia with moderate clinical picture based on clinical parameters&#xD;
+&#xD;
+          -  O2 saturation&gt; 94% with maximum FiO2 32%&#xD;
+&#xD;
+          -  Respiratory acts &lt;30 / minute&#xD;
+&#xD;
+          -  age &gt;18 years&#xD;
+&#xD;
+          -  Consent to participate in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any Antithrombotic treatment including acetylsalicylic acid&#xD;
+&#xD;
+          -  Active Bacterial infection&#xD;
+&#xD;
+          -  Active or in maintenance therapy neoplasm&#xD;
+&#xD;
+          -  Inability to provide consent&#xD;
+&#xD;
+          -  Any contraindication to the acetylsalicylic acid use&#xD;
+&#xD;
+          -  Active peptic disease&#xD;
+&#xD;
+          -  Active Major pathological bleeding&#xD;
+&#xD;
+          -  Recent (&lt;30 days) major bleeding&#xD;
+&#xD;
+          -  Recent intracranial bleeding&#xD;
+&#xD;
+          -  Need to use therapeutic doses of oral anticoagulants or heparins&#xD;
+&#xD;
+          -  Need to use combination antiplatelet drugs for clinical indication&#xD;
+&#xD;
+          -  Hypersensitivity to acetylsalicylic acid or to any of the excipients&#xD;
+&#xD;
+          -  Hypersensitivity to non-steroidal anti-inflammatory drugs (NSAIDs)&#xD;
+&#xD;
+          -  Severe hepatic insufficiency (Child-Pugh class C).&#xD;
+&#xD;
+          -  Severe heart failure (NYHA class 3-4)&#xD;
+&#xD;
+          -  Platelet count less than 150000 / mmc&#xD;
+&#xD;
+          -  Haemostasis alteration (INR&gt; 1.5, APTT&gt; 1.5)&#xD;
+&#xD;
+          -  Plasma fibrinogen &lt;100 mg / dL&#xD;
+&#xD;
+          -  Blood pressure &gt;160/100 mmHg&#xD;
+&#xD;
+          -  Concomitant treatment with serotonin reuptake inhibitors&#xD;
+&#xD;
+          -  Participation in another pharmacological clinical trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pietro Minuz, Professor</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Verona, AOUI Verona</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marco Cattaneo, Professor</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Milan</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Roberto Leone, Professor</last_name>
+    <role>Study Director</role>
+    <affiliation>Universita di Verona</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pietro Minuz, Professor</last_name>
+    <phone>+39 045-8124414</phone>
+    <email>pietro.minuz@univr.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marco Cattaneo, Professor</last_name>
+    <phone>+390250323095</phone>
+    <email>marco.cattaneo@unimi.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Universitaria Integrata Verona</name>
+      <address>
+        <city>Verona</city>
+        <zip>37126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Ackermann M, Verleden SE, Kuehnel M, Haverich A, Welte T, Laenger F, Vanstapel A, Werlein C, Stark H, Tzankov A, Li WW, Li VW, Mentzer SJ, Jonigk D. Pulmonary Vascular Endothelialitis, Thrombosis, and Angiogenesis in Covid-19. N Engl J Med. 2020 Jul 9;383(2):120-128. doi: 10.1056/NEJMoa2015432. Epub 2020 May 21.</citation>
+    <PMID>32437596</PMID>
+  </reference>
+  <reference>
+    <citation>Becattini C, Agnelli G, Schenone A, Eichinger S, Bucherini E, Silingardi M, Bianchi M, Moia M, Ageno W, Vandelli MR, Grandone E, Prandoni P; WARFASA Investigators. Aspirin for preventing the recurrence of venous thromboembolism. N Engl J Med. 2012 May 24;366(21):1959-67. doi: 10.1056/NEJMoa1114238. Erratum in: N Engl J Med. 2012 Oct 18;367(16):1573.</citation>
+    <PMID>22621626</PMID>
+  </reference>
+  <reference>
+    <citation>Bianconi V, Violi F, Fallarino F, Pignatelli P, Sahebkar A, Pirro M. Is Acetylsalicylic Acid a Safe and Potentially Useful Choice for Adult Patients with COVID-19 ? Drugs. 2020 Sep;80(14):1383-1396. doi: 10.1007/s40265-020-01365-1. Review.</citation>
+    <PMID>32705604</PMID>
+  </reference>
+  <reference>
+    <citation>Carestia A, Davis RP, Grosjean H, Lau MW, Jenne CN. Acetylsalicylic acid inhibits intravascular coagulation during Staphylococcus aureus-induced sepsis in mice. Blood. 2020 Apr 9;135(15):1281-1286. doi: 10.1182/blood.2019002783.</citation>
+    <PMID>31951648</PMID>
+  </reference>
+  <reference>
+    <citation>Cattaneo M, Bertinato EM, Birocchi S, Brizio C, Malavolta D, Manzoni M, Muscarella G, Orlandi M. Pulmonary Embolism or Pulmonary Thrombosis in COVID-19? Is the Recommendation to Use High-Dose Heparin for Thromboprophylaxis Justified? Thromb Haemost. 2020 Aug;120(8):1230-1232. doi: 10.1055/s-0040-1712097. Epub 2020 Apr 29.</citation>
+    <PMID>32349132</PMID>
+  </reference>
+  <reference>
+    <citation>Chen G, Wu D, Guo W, Cao Y, Huang D, Wang H, Wang T, Zhang X, Chen H, Yu H, Zhang X, Zhang M, Wu S, Song J, Chen T, Han M, Li S, Luo X, Zhao J, Ning Q. Clinical and immunological features of severe and moderate coronavirus disease 2019. J Clin Invest. 2020 May 1;130(5):2620-2629. doi: 10.1172/JCI137244.</citation>
+    <PMID>32217835</PMID>
+  </reference>
+  <reference>
+    <citation>Chow JH, Khanna AK, Kethireddy S, Yamane D, Levine A, Jackson AM, McCurdy MT, Tabatabai A, Kumar G, Park P, Benjenk I, Menaker J, Ahmed N, Glidewell E, Presutto E, Cain S, Haridasa N, Field W, Fowler JG, Trinh D, Johnson KN, Kaur A, Lee A, Sebastian K, Ulrich A, Peña S, Carpenter R, Sudhakar S, Uppal P, Fedeles BT, Sachs A, Dahbour L, Teeter W, Tanaka K, Galvagno SM, Herr DL, Scalea TM, Mazzeffi MA. Aspirin Use Is Associated With Decreased Mechanical Ventilation, Intensive Care Unit Admission, and In-Hospital Mortality in Hospitalized Patients With Coronavirus Disease 2019. Anesth Analg. 2021 Apr 1;132(4):930-941. doi: 10.1213/ANE.0000000000005292.</citation>
+    <PMID>33093359</PMID>
+  </reference>
+  <reference>
+    <citation>Connors JM, Levy JH. COVID-19 and its implications for thrombosis and anticoagulation. Blood. 2020 Jun 4;135(23):2033-2040. doi: 10.1182/blood.2020006000.</citation>
+    <PMID>32339221</PMID>
+  </reference>
+  <reference>
+    <citation>Gu SX, Tyagi T, Jain K, Gu VW, Lee SH, Hwa JM, Kwan JM, Krause DS, Lee AI, Halene S, Martin KA, Chun HJ, Hwa J. Thrombocytopathy and endotheliopathy: crucial contributors to COVID-19 thromboinflammation. Nat Rev Cardiol. 2021 Mar;18(3):194-209. doi: 10.1038/s41569-020-00469-1. Epub 2020 Nov 19. Review.</citation>
+    <PMID>33214651</PMID>
+  </reference>
+  <reference>
+    <citation>Jackson SP, Darbousset R, Schoenwaelder SM. Thromboinflammation: challenges of therapeutically targeting coagulation and other host defense mechanisms. Blood. 2019 Feb 28;133(9):906-918. doi: 10.1182/blood-2018-11-882993. Epub 2019 Jan 14. Review.</citation>
+    <PMID>30642917</PMID>
+  </reference>
+  <reference>
+    <citation>Hottz ED, Azevedo-Quintanilha IG, Palhinha L, Teixeira L, Barreto EA, Pão CRR, Righy C, Franco S, Souza TML, Kurtz P, Bozza FA, Bozza PT. Platelet activation and platelet-monocyte aggregate formation trigger tissue factor expression in patients with severe COVID-19. Blood. 2020 Sep 10;136(11):1330-1341. doi: 10.1182/blood.2020007252.</citation>
+    <PMID>32678428</PMID>
+  </reference>
+  <reference>
+    <citation>Koupenova M, Corkrey HA, Vitseva O, Manni G, Pang CJ, Clancy L, Yao C, Rade J, Levy D, Wang JP, Finberg RW, Kurt-Jones EA, Freedman JE. The role of platelets in mediating a response to human influenza infection. Nat Commun. 2019 Apr 16;10(1):1780. doi: 10.1038/s41467-019-09607-x.</citation>
+    <PMID>30992428</PMID>
+  </reference>
+  <reference>
+    <citation>Margraf A, Zarbock A. Platelets in Inflammation and Resolution. J Immunol. 2019 Nov 1;203(9):2357-2367. doi: 10.4049/jimmunol.1900899. Review.</citation>
+    <PMID>31636134</PMID>
+  </reference>
+  <reference>
+    <citation>Marongiu F, Mameli A, Grandone E, Barcellona D. Pulmonary Thrombosis: A Clinical Pathological Entity Distinct from Pulmonary Embolism? Semin Thromb Hemost. 2019 Nov;45(8):778-783. doi: 10.1055/s-0039-1696942. Epub 2019 Sep 19. Review.</citation>
+    <PMID>31537029</PMID>
+  </reference>
+  <reference>
+    <citation>Middleton EA, He XY, Denorme F, Campbell RA, Ng D, Salvatore SP, Mostyka M, Baxter-Stoltzfus A, Borczuk AC, Loda M, Cody MJ, Manne BK, Portier I, Harris ES, Petrey AC, Beswick EJ, Caulin AF, Iovino A, Abegglen LM, Weyrich AS, Rondina MT, Egeblad M, Schiffman JD, Yost CC. Neutrophil extracellular traps contribute to immunothrombosis in COVID-19 acute respiratory distress syndrome. Blood. 2020 Sep 3;136(10):1169-1179. doi: 10.1182/blood.2020007008.</citation>
+    <PMID>32597954</PMID>
+  </reference>
+  <reference>
+    <citation>Minuz P, Mansueto G, Mazzaferri F, Fava C, Dalbeni A, Ambrosetti MC, Sibani M, Tacconelli E. High rate of pulmonary thromboembolism in patients with SARS-CoV-2 pneumonia. Clin Microbiol Infect. 2020 Nov;26(11):1572-1573. doi: 10.1016/j.cmi.2020.06.011. Epub 2020 Jun 18.</citation>
+    <PMID>32565320</PMID>
+  </reference>
+  <reference>
+    <citation>Patrono C, Baigent C. Role of aspirin in primary prevention of cardiovascular disease. Nat Rev Cardiol. 2019 Nov;16(11):675-686. doi: 10.1038/s41569-019-0225-y. Epub 2019 Jun 26. Review.</citation>
+    <PMID>31243390</PMID>
+  </reference>
+  <reference>
+    <citation>Pulavendran S, Rudd JM, Maram P, Thomas PG, Akhilesh R, Malayer JR, Chow VTK, Teluguakula N. Combination Therapy Targeting Platelet Activation and Virus Replication Protects Mice against Lethal Influenza Pneumonia. Am J Respir Cell Mol Biol. 2019 Dec;61(6):689-701. doi: 10.1165/rcmb.2018-0196OC.</citation>
+    <PMID>31070937</PMID>
+  </reference>
+  <reference>
+    <citation>Scavone M, Rizzo J, Femia EA, Podda GM, Bossi E, Caberlon S, Paroni R, Cattaneo M. Patients with Essential Thrombocythemia may be Poor Responders to Enteric-Coated Aspirin, but not to Plain Aspirin. Thromb Haemost. 2020 Oct;120(10):1442-1453. doi: 10.1055/s-0040-1714351. Epub 2020 Jul 27.</citation>
+    <PMID>32717754</PMID>
+  </reference>
+  <reference>
+    <citation>Sexton TR, Zhang G, Macaulay TE, Callahan LA, Charnigo R, Vsevolozhskaya OA, Li Z, Smyth S. Ticagrelor Reduces Thromboinflammatory Markers in Patients With Pneumonia. JACC Basic Transl Sci. 2018 Aug 28;3(4):435-449. doi: 10.1016/j.jacbts.2018.05.005. eCollection 2018 Aug.</citation>
+    <PMID>30175268</PMID>
+  </reference>
+  <reference>
+    <citation>Simes J, Becattini C, Agnelli G, Eikelboom JW, Kirby AC, Mister R, Prandoni P, Brighton TA; INSPIRE Study Investigators (International Collaboration of Aspirin Trials for Recurrent Venous Thromboembolism). Aspirin for the prevention of recurrent venous thromboembolism: the INSPIRE collaboration. Circulation. 2014 Sep 23;130(13):1062-71. doi: 10.1161/CIRCULATIONAHA.114.008828. Epub 2014 Aug 25.</citation>
+    <PMID>25156992</PMID>
+  </reference>
+  <reference>
+    <citation>Tang N, Li D, Wang X, Sun Z. Abnormal coagulation parameters are associated with poor prognosis in patients with novel coronavirus pneumonia. J Thromb Haemost. 2020 Apr;18(4):844-847. doi: 10.1111/jth.14768. Epub 2020 Mar 13.</citation>
+    <PMID>32073213</PMID>
+  </reference>
+  <reference>
+    <citation>Taus F, Salvagno G, Canè S, Fava C, Mazzaferri F, Carrara E, Petrova V, Barouni RM, Dima F, Dalbeni A, Romano S, Poli G, Benati M, De Nitto S, Mansueto G, Iezzi M, Tacconelli E, Lippi G, Bronte V, Minuz P. Platelets Promote Thromboinflammation in SARS-CoV-2 Pneumonia. Arterioscler Thromb Vasc Biol. 2020 Dec;40(12):2975-2989. doi: 10.1161/ATVBAHA.120.315175. Epub 2020 Oct 14.</citation>
+    <PMID>33052054</PMID>
+  </reference>
+  <reference>
+    <citation>Varga Z, Flammer AJ, Steiger P, Haberecker M, Andermatt R, Zinkernagel AS, Mehra MR, Schuepbach RA, Ruschitzka F, Moch H. Endothelial cell infection and endotheliitis in COVID-19. Lancet. 2020 May 2;395(10234):1417-1418. doi: 10.1016/S0140-6736(20)30937-5. Epub 2020 Apr 21.</citation>
+    <PMID>32325026</PMID>
+  </reference>
+  <reference>
+    <citation>Wichmann D, Sperhake JP, Lütgehetmann M, Steurer S, Edler C, Heinemann A, Heinrich F, Mushumba H, Kniep I, Schröder AS, Burdelski C, de Heer G, Nierhaus A, Frings D, Pfefferle S, Becker H, Bredereke-Wiedling H, de Weerth A, Paschen HR, Sheikhzadeh-Eggers S, Stang A, Schmiedel S, Bokemeyer C, Addo MM, Aepfelbacher M, Püschel K, Kluge S. Autopsy Findings and Venous Thromboembolism in Patients With COVID-19: A Prospective Cohort Study. Ann Intern Med. 2020 Aug 18;173(4):268-277. doi: 10.7326/M20-2003. Epub 2020 May 6.</citation>
+    <PMID>32374815</PMID>
+  </reference>
+  <reference>
+    <citation>Yin S, Huang M, Li D, Tang N. Difference of coagulation features between severe pneumonia induced by SARS-CoV2 and non-SARS-CoV2. J Thromb Thrombolysis. 2020 Apr 3. doi: 10.1007/s11239-020-02105-8. [Epub ahead of print]</citation>
+    <PMID>32246317</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 22, 2021</study_first_posted>
+  <last_update_submitted>March 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Acetylsalicylic acid</keyword>
+  <keyword>Heparin</keyword>
+  <keyword>Pulmonary thrombosis</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Platelets</keyword>
+  <keyword>Inflammation</keyword>
+  <keyword>Respiratoty failure</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Thrombosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aspirin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

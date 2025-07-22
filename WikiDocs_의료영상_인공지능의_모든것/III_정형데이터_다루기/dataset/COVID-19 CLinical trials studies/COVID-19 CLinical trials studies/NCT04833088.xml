@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5570">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04833088</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SAIRE FOCUSGR</org_study_id>
+    <nct_id>NCT04833088</nct_id>
+  </id_info>
+  <brief_title>Exploratory Study About the Implementation of Technology in the Rehabilitation</brief_title>
+  <official_title>Exploratory Study About the Implementation of Technology in the Rehabilitation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vrije Universiteit Brussel</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Universitair Ziekenhuis Brussel</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AZ Sint Maria Halle</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Odisee University college for applied sciences</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Erasmushogeschool Brussels</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vrije Universiteit Brussel</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This qualitative study aims to identify the needs and recommendations of both patients and&#xD;
+      healthcare professionals in terms of rehabilitation technology, more specific three&#xD;
+      pre-defined user scenarios. These scenario were developed based on brainstorm sessions with&#xD;
+      healthcare professionals from the rehabilitation ward of UZ Brussel and AZ Sint-Maria Halle.&#xD;
+      The purpose of this study is to create an overview of recommendations that will be used to&#xD;
+      develop the smart devices in a later stage of the SAIRE project.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      STUDY DESIGN Based on the aforementioned user scenarios, an explorative qualitive study will&#xD;
+      be conducted investigating the recommendations and requirements of both patients and&#xD;
+      healthcare professionals in the development of the smart devices. Focus groups will be&#xD;
+      organized at UZ Brussel and AZ Sint Maria Halle to collect data from the participants. These&#xD;
+      discussions will be organized until data saturation is reached. Based on expectations, the&#xD;
+      investigators estimate on average 3 focus groups for every user scenario will be needed. The&#xD;
+      recommendations proposed in these focus group discussions will be analyzed and tested in the&#xD;
+      lab to determine what smart devices are eligible for rehabilitation. The data will also be&#xD;
+      used to develop AI algorithms that will be implemented in the smart devices.&#xD;
+&#xD;
+      USER SCENARIOS The first scenario focuses on the registration and triggering of movement of&#xD;
+      the upper limb in patients with spatial neglect. The aim is to develop a low-budget smart&#xD;
+      device that stimulates and analyzes movement of the affected side and gives feedback when&#xD;
+      needed.&#xD;
+&#xD;
+      The second user scenario aims to combine different smart devices and AI algorithms to create&#xD;
+      a mobile device that can be placed on a walking aid. This smart device will give feedback in&#xD;
+      terms of stride length and cadence through visual and auditive cues. A combination of sensor&#xD;
+      analysis and computer vision will monitor the gait pattern of the patient and correct where&#xD;
+      needed. These sensors will also incorporate a fall detection system that sends out a signal&#xD;
+      when a fall is detected.&#xD;
+&#xD;
+      The third and final scenario describes a smart intravenous (IV) pole that monitors the&#xD;
+      location of the patient relative to the IV pole and automatically follows the patient during&#xD;
+      walking. This device consists of a tracker and an accelerometer placed on the patient, and a&#xD;
+      motorized IV pole that follows the patient and avoid obstacles through computer vision.&#xD;
+      Additionally, a fall detection system will be integrated to monitor falls.&#xD;
+&#xD;
+      PROCEDURE Firstly, with regard to the Sars-COV-2 pandemic, all obligated prevention measure&#xD;
+      will be followed when conducting the focus group discussion. All participants and researchers&#xD;
+      will wear face masks, maintain distance (1.5 meters) and frequently disinfect hands using&#xD;
+      alcohol-based hand sanitizer. Additionally, an adequate ventilation of the room will be&#xD;
+      maintained. If necessary, the focus group discussions will be organized online, using&#xD;
+      Microsoft Teams (Microsoft, USA).&#xD;
+&#xD;
+      Before the start of the focus groups, all participants will be asked to complete a form&#xD;
+      focusing on sociodemographic characteristics (age, gender, occupation, …). After this form is&#xD;
+      collected, the focus group starts.&#xD;
+&#xD;
+      Each focus group discussion will be led by one moderator and one assistant.The moderator&#xD;
+      directs the discussion and ensures that all participants are involved. The observer on the&#xD;
+      other hand takes notes of the conversation with a focus on verbal and non-verbal signs,&#xD;
+      seating of the participants and unexpected interruptions. Additionally, the observer also&#xD;
+      watches the time limit of approximately one hour (with regard to limited concentration&#xD;
+      duration) and ensures no key issues are overlooked. All focus groups will be recorded, after&#xD;
+      obtaining ethical approval of the participants. As mentioned before, data-collection will be&#xD;
+      completed after data saturation is reached, and no new data is gathered from the&#xD;
+      participants.&#xD;
+&#xD;
+      The focus group discussions start with an introduction in which the moderator presents him or&#xD;
+      herself and the observer, and explains the purpose of the study. Secondly, the participants&#xD;
+      are asked to shortly introduce themselves and describe any previous experience with smart&#xD;
+      devices or technology in their rehabilitation plan (what was good, what could have been&#xD;
+      better, …). Thirdly, a short presentation is given that creates a global picture of the user&#xD;
+      scenarios. Finally, the discussion between the participants and the moderator is started&#xD;
+      following a question guide. If necessary, side questions are used to refocus the conversation&#xD;
+      and avoid off-topic discussions.&#xD;
+&#xD;
+      ANALYSIS Firstly, a descriptive analysis will be done for the sociodemographic&#xD;
+      characteristics of the participants based on the completed forms, using SPSS 27 (IBM, USA).&#xD;
+&#xD;
+      Secondly, the data from the focus group discussion will be analyzed. The recorded focus&#xD;
+      groups will be transcribed verbatim using Word (Microsoft, USA). A thematic content analysis&#xD;
+      will be performed by the researchers using NVivo (QRS International, USA). For this analysis&#xD;
+      the six steps of Braun and Clarke (2006) will be followed. Firstly, the researchers will&#xD;
+      familiarize themselves with the data through repeated reading of the data. Secondly, the&#xD;
+      initial codes will be generated as the researchers begin to take notes on relevant data&#xD;
+      items. Once the entire data set is coded, the researcher will start collating the data in&#xD;
+      preparation of the third step. For this next step, the researchers will scan the collated&#xD;
+      data and take note of all themes that are potentially of relevance to form a thematic map.&#xD;
+      The forth step in the thematic analysis involves reviewing the themes. This review will be&#xD;
+      done both within each theme, as between different themes. All codes within a theme will be&#xD;
+      checked to ensure a proper fit within the theme, and all individual themes will be assessed&#xD;
+      in relation to the entire data set, to see whether the thematic map accurately represents the&#xD;
+      data. In the fifth step, the researchers will define each theme. Additionally, for each&#xD;
+      theme, the importance to the broader study topic will be described. Lastly, the final&#xD;
+      analysis will be written based on all previous steps. The researchers will first analyze the&#xD;
+      data separately. Afterwards, both researchers will compare their analysis and adjust until&#xD;
+      agreement is reached. Data will be stored on a secure and locked server of the&#xD;
+      Erasmushogeschool Brussel and will be kept five years after final publication of the study&#xD;
+      results.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2021</start_date>
+  <completion_date type="Anticipated">April 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overview of needs and requirements for the development of the three predefined user scenarios</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Recurring themes in the transcribed data of the focus groups will be identified and checked for relevance in terms of the research question (e.g. key functionalities of the device, aesthetic requirements, ...). These relevant themes will then be combined to create an overview for every user scenario individually.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Stroke</condition>
+  <condition>Parkinson Disease</condition>
+  <condition>Covid19</condition>
+  <condition>Neglect, Hemispatial</condition>
+  <arm_group>
+    <arm_group_label>Healthcare professionals</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients who suffer from spatial neglect</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients who have walking difficulties</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients who require long term use of an IV-stand</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Focus group discussions</intervention_name>
+    <description>Focus group discussions will be organized to investigate the needs and requirements of the participants in terms of three pre-defined user scenarios.</description>
+    <arm_group_label>Healthcare professionals</arm_group_label>
+    <arm_group_label>Patients who have walking difficulties</arm_group_label>
+    <arm_group_label>Patients who require long term use of an IV-stand</arm_group_label>
+    <arm_group_label>Patients who suffer from spatial neglect</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria user scenario 1:&#xD;
+&#xD;
+          -  adult (≥ 18 years)&#xD;
+&#xD;
+          -  diagnosed with stroke (as defined by the World Health Organization) and suffering from&#xD;
+             spatial neglect&#xD;
+&#xD;
+          -  able to verbally answer questions&#xD;
+&#xD;
+          -  ability to give informed consent&#xD;
+&#xD;
+        Exclusion Criteria user scenario 1:&#xD;
+&#xD;
+          -  severe cognitive disability (based on assessment of the healthcare professionals)&#xD;
+&#xD;
+        Inclusion criteria scenario 2:&#xD;
+&#xD;
+          -  adult (≥ 18 years)&#xD;
+&#xD;
+          -  suffering from gait problems (e.g. frail elderly, Parkinson Disease, recovering from&#xD;
+             COVID-19)&#xD;
+&#xD;
+          -  able to verbally answer questions&#xD;
+&#xD;
+          -  ability to give informed consent&#xD;
+&#xD;
+        Exclusion Criteria user scenario 2:&#xD;
+&#xD;
+          -  severe cognitive disability (based on assessment of the healthcare professionals)&#xD;
+&#xD;
+        Inclusion criteria scenario 3:&#xD;
+&#xD;
+          -  adult (≥ 18 years)&#xD;
+&#xD;
+          -  requires intensive use of an IV-stand during hospitalisation&#xD;
+&#xD;
+          -  able to verbally answer questions&#xD;
+&#xD;
+          -  ability to give informed consent&#xD;
+&#xD;
+        Exclusion Criteria user scenario 3:&#xD;
+&#xD;
+          -  severe cognitive disability (based on assessment of the healthcare professionals)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eva Swinnen, Prof. Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vrije Universiteit Brussel</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ruben Debeuf</last_name>
+    <phone>0032478821658</phone>
+    <email>ruben.debeuf@vub.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Eva Swinnen, Prof. Ph.D</last_name>
+    <phone>003224774527</phone>
+    <email>eva.swinnen@vub.be</email>
+  </overall_contact_backup>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 6, 2021</study_first_posted>
+  <last_update_submitted>April 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Vrije Universiteit Brussel</investigator_affiliation>
+    <investigator_full_name>Ruben Debeuf</investigator_full_name>
+    <investigator_title>The Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+    <mesh_term>Perceptual Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="593">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04801940</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A095848</org_study_id>
+    <nct_id>NCT04801940</nct_id>
+  </id_info>
+  <brief_title>HElping Alleviate the Longer-term Consequences of COVID-19 (HEAL-COVID)</brief_title>
+  <acronym>HEAL-COVID</acronym>
+  <official_title>HElping Alleviate the Longer-term Consequences of COVID-19 (HEAL-COVID): a National Platform Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cambridge University Hospitals NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Liverpool</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cambridge University Hospitals NHS Foundation Trust (joint Sponsor)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The University of Cambridge (joint Sponsor)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Cambridge University Hospitals NHS Foundation Trust</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      HEAL-COVID is jointly Sponsored by Cambridge University Hospitals NHS Foundation Trust and&#xD;
+      The University of Cambridge.&#xD;
+&#xD;
+      The acute effects of COVID-19 are now well described. Evidence is emerging of serious&#xD;
+      longer-term complications occurring in the convalescent phase of the illness in a significant&#xD;
+      proportion of patients; particularly cardiovascular and pulmonary complications.&#xD;
+&#xD;
+      The ill-defined syndrome, &quot;Long COVID&quot; is likely to include a constellation of different&#xD;
+      conditions traversing post-ICU syndromes, significant cardiopulmonary complications,&#xD;
+      post-viral syndromes and exacerbations of underlying conditions. Patients have reported a&#xD;
+      range of longer-term symptoms associated with Long COVID that have significant impacts on&#xD;
+      their quality of life.&#xD;
+&#xD;
+      To date, there has been little work evaluating treatments in the convalescent phase of&#xD;
+      COVID-19. HEAL-COVID aims to evaluate the impact of treatments on longer-term morbidity,&#xD;
+      mortality, re-hospitalisation, symptom burden and quality of life associated with COVID-19.&#xD;
+&#xD;
+      The first two treatment arms are Apixaban and Atorvastatin, with further treatment arms to be&#xD;
+      added at the direction of the UK COVID-19 Therapeutic Advisory Panel (UKCTAP).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND: In December 2019, a cluster of patients with pneumonia of unknown cause was&#xD;
+      described in Wuhan, China. Named SARS-CoV-2 due to its resemblance to the coronavirus&#xD;
+      responsible for severe acute respiratory syndrome (SARS-CoV), COVID-19 is the infectious&#xD;
+      disease caused by SARS-CoV-2. Despite historically unprecedented public health measures,&#xD;
+      SARS-CoV-2 has rapidly spread across the world. The World Health Organisation (WHO) declared&#xD;
+      the COVID-19 outbreak a public health emergency of international concern on 30th January&#xD;
+      2020.&#xD;
+&#xD;
+      The acute effects of COVID-19 are now well described. Evidence is emerging of serious&#xD;
+      longer-term complications occurring in the convalescent phase of the illness in a significant&#xD;
+      proportion of patients. COVID-19 is a new disease, the natural history of which remains&#xD;
+      uncertain. Recent data highlight that ~20% of patients develop new or worsened&#xD;
+      cardiopulmonary symptoms at 40-60-days after hospital discharge. A unique feature of COVID-19&#xD;
+      is the high incidence of these cardiovascular and pulmonary complications that may carry&#xD;
+      long-term implications for morbidity and mortality including venous thromboembolism,&#xD;
+      persistent lung inflammation, and pulmonary fibrosis; increasingly it appears these may not&#xD;
+      be confined to the acute phase of the illness, but rather may also occur during the&#xD;
+      convalescent phase of the illness, thus providing a major contribution to the ill-defined&#xD;
+      syndrome &quot;Long COVID&quot;.&#xD;
+&#xD;
+      &quot;Long COVID&quot; is likely to include a constellation of different conditions traversing post-ICU&#xD;
+      syndromes, significant cardiopulmonary complications, post-viral syndromes and exacerbations&#xD;
+      of underlying conditions. Patients have reported a range of long-term symptoms associated&#xD;
+      with Long COVID that have significant impact on their quality of life. Though there have been&#xD;
+      effective acute treatments, there has been little work evaluating longer-term treatment aimed&#xD;
+      at reducing longer-term complications. To investigate the role of medium-term convalescent&#xD;
+      treatment targeting known and emerging complications, an adaptive platform trial will enrol&#xD;
+      patients at the point of hospital discharge from across centres in the UK.&#xD;
+&#xD;
+      OBJECTIVES: HEAL-COVID is an adaptive platform trial design to provide reliable evidence on&#xD;
+      the efficacy of post-hospitalisation treatments to improve longer-term clinical outcomes from&#xD;
+      COVID-19.&#xD;
+&#xD;
+      In early 2021, when the trial commenced, there were no treatments being assessed in&#xD;
+      randomised controlled trials targeting the post-hospital phase of COVID-19. Longer-term&#xD;
+      outcomes for COVID-19 are currently unclear, but early data suggest a significant burden of&#xD;
+      mortality and morbidity. In this situation, even treatments with only a moderate impact on&#xD;
+      survival or on hospital resource use are worthwhile. Therefore, the focus of HEAL-COVID is&#xD;
+      the impact of candidate treatments on mortality and the need for rehospitalisation.&#xD;
+&#xD;
+      The primary objective is to determine whether interventions in the post-hospital&#xD;
+      (convalescent) phase of COVID-19 improve longer-term mortality/morbidity outcomes.&#xD;
+&#xD;
+      The secondary objectives of HEAL-COVID are to evaluate treatment-specific and patient&#xD;
+      reported outcomes of COVID-19 and their response to intervention, as well as to estimate the&#xD;
+      cost-effectiveness of treatments.&#xD;
+&#xD;
+      ELIGIBILITY AND RANDOMISATION: The HEAL-COVID trial aims to recruit 877 patients per active&#xD;
+      arm and an equal number of matched controls based on sample size calculations described&#xD;
+      further in the publicly available trial protocol (www. heal-covid.net). All patients or a&#xD;
+      representative must provide written, informed consent before any study procedures occur and&#xD;
+      must meet all eligibility criteria.&#xD;
+&#xD;
+      ADAPTIVE DESIGN: New therapeutic arms will be commenced on the recommendation of the UK&#xD;
+      COVID-19 Therapeutics Advisory Panel (UK-CTAP), in discussion with the Chief Medical Officer&#xD;
+      for England, if approved by the Chief Investigator/Sponsor. New treatments will be added to&#xD;
+      the platform by recruiting additional participants to the study.&#xD;
+&#xD;
+      Interim analyses will be undertaken once 181 events have been observed across both arms in&#xD;
+      the comparison. The Independent Data &amp; Safety Monitoring Committee (IDSMC) may recommend that&#xD;
+      the treatment arms be discontinued for lack of benefit, or safety reasons.&#xD;
+&#xD;
+      SIMPLICITY OF PROCEDURES: To facilitate collaboration, even in hospitals that suddenly become&#xD;
+      overloaded, patient enrolment (via a secure web-based randomisation and data capture system)&#xD;
+      and all other trial procedures are greatly streamlined. Informed consent is simple and data&#xD;
+      entry is minimal. Randomisation via the internet is simple and quick, at the end of which the&#xD;
+      allocated treatment is displayed on the screen and can be printed or downloaded. Follow-up&#xD;
+      information is collected via routinely collected data.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">January 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomisation will use equal probability between all active treatments a given patient is eligible for and Standard Care (SC) as the control arm (i.e. a patient that is eligible for two treatments and SC will be randomized 1:1:1 between the three arms).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hospital free survival.</measure>
+    <time_frame>12 months.</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital readmission after discharge from index hospital admission</measure>
+    <time_frame>12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Suspected Serious Adverse Reactions</measure>
+    <time_frame>12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>FACIT-Fatigue</measure>
+    <time_frame>12 months</time_frame>
+    <description>The Functional Assessment of Chronic Illness Therapy -Fatigue Scale (FACIT-Fatigue) is a 13-item measure that assesses self-reported fatigue and its impact upon daily activities and function. It has been validated for use across a range of populations. The FACIT-Fatigue has a 7-day recall period and is scored on a 5-point Likert Scale from &quot;0-Not at all&quot;- to &quot;4-Very much&quot;. Individual items scores are summed (2 items of are reversed scored), multiplied by 13 and then divided by the number of items answered with a higher score indicating less fatigue and better quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified MRC Dyspnoea Scale</measure>
+    <time_frame>12 months</time_frame>
+    <description>The modified Medical Research Council (MRC) Dyspnoea Scale is a modification to the widely used MRC Dyspnoea scale. The item has a 24-hour recall period and is scored on a 5-point Likert scale from &quot;0 - I only get breathless with strenuous exercise&quot; to &quot;4 - I was breathless when dressing, talking or at rest&quot;. It is a new measure developed specifically for COVID-19 trials, but has a high degree of conceptual overlap with its parent clinical measure, the MRC Dyspnoea scale, which is in widescale clinical practice.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 core outcome measure for recovery</measure>
+    <time_frame>12 months</time_frame>
+    <description>The COVID-19 core outcome measure for recovery is a single item intending to measure a return to the pre-illness state. The item has a same day recall period and is scored on a 5-point Likert scale from &quot;0 - Completely recovered&quot; to &quot;5 - Not recovered at all&quot;. It is a new measure developed specifically for COVID-19 trials, but is similar to widely used global clinical impression scales common to many clinical trials.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Health Questionnaire-2 (PHQ-2)</measure>
+    <time_frame>12 months</time_frame>
+    <description>The PHQ-2 is a screening tool for depression derived from the PHQ-9. It comprises the first 2 items of the PHQ-9 (depressed mood and anhedonia). The PHQ-2 has a recall period of 2 weeks. It has a global score (0-6, no weighting). A higher score indicates increased likeliness of underlying depressive disorder. The recommended cut-off score for further investigation is ≥ 3. The PHQ-2 has been validated in many studies and has shown sensitivity of 83% and specificity of 92%.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Generalized Anxiety Disorder-2 (GAD-2)</measure>
+    <time_frame>12 months</time_frame>
+    <description>The GAD-2 is a screening tool for generalised anxiety disorder derived from the GAD-7. It comprises the first 2 items of the GAD-7, which are considered as the core anxiety symptoms (&quot;feeling nervous, anxious or on edge&quot;/Not being able to stop or control worrying&quot;). The GAD-2 performs well as a screening tool for three other common anxiety disorders (panic disorder, social anxiety disorder, and PTSD). It has a recall period of two weeks. The GAD-2 has a global score (0-6, no weighting). A higher score indicates increased likeliness of underlying anxiety disorder. The recommended cut-off score for further investigation is ≥ 3. The GAD-2 has been validated in many studies and has retained the same psychometrics properties of the GAD-7 (86% sensitivity/83% specificity).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PTSD Checklist (PCL-2)</measure>
+    <time_frame>12 months</time_frame>
+    <description>The PCL-2 is an abbreviated version of the PTSD Checklist - Civilian version (PCL-C) and is used to screen people for PTSD. It comprises 2 items (intrusive memories/distress associated with reminders of the traumatic event). It has a recall period of one month. An individual is considered to have screened positive if the sum of these two items is ≥ 4. Previous studies have shown that the PCL-2 has good psychometric properties and have shown sensitivity of 0.97 and specificity of 0.58.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life using the EQ5D-5L</measure>
+    <time_frame>12 months</time_frame>
+    <description>The Euroqol EQ-5D-5L comprises 5 items plus 1 visual analogue scale. It has been widely validated across a range of diseases and used to assess health outcome from a wide variety of interventions on a common scale, for purposes of evaluation, allocation and monitoring. It is used by the National Institute for Health and Care Excellence (NICE) in health technology assessment. EQ-5D-5L, takes only a few minutes to complete and has a same day recall period. Utilities may be estimated from responses to the EQ-5D-5L, and applying the 3L cross-walk value set.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intervention tolerability using the FACT-GP5</measure>
+    <time_frame>12 months</time_frame>
+    <description>The single FACT-G item, GP5, &quot;I am bothered by side effects of treatment,&quot; is a summary measure of the overall impact of treatment, based upon its association with the number and degree of adverse events in clinical trials. The single item has demonstrated a significant relationship to overall quality of life as indicated by ability to enjoy life. It has a 7-day recall period and is scored on a 5-point Likert Scale from &quot;0-Not at all&quot;- to &quot;4-Very much&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Additional disease specific systemic symptoms</measure>
+    <time_frame>12 months</time_frame>
+    <description>Additional disease specific symptomatic questions are informed by data from the Office for National Statistics (ONS) and the Long-COVID research group (https://patientresearchcovid19.com).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Incremental cost-effectiveness</measure>
+    <time_frame>12 months.</time_frame>
+    <description>From the perspective of healthcare resource use and based on quality-adjusted life years estimated from responses to the EQ-5D-5L.</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">2631</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Standard Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participant receives usual post-hospital care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Apixaban</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Intervention: Drug: Apixaban.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Atorvastatin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Intervention: Drug: Atorvastatin.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Apixaban</intervention_name>
+    <description>Apixaban 2.5mg orally twice daily for 14 days.</description>
+    <arm_group_label>Apixaban</arm_group_label>
+    <other_name>Elquis</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atorvastatin</intervention_name>
+    <description>Atorvastatin 40mg orally twice daily for 12 months.</description>
+    <arm_group_label>Atorvastatin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  greater than or equal to 18 years of age.&#xD;
+&#xD;
+          -  hospitalised with estimated hospital discharge within 5 days.&#xD;
+&#xD;
+          -  SARS-CoV-2 infection associated disease (laboratory confirmed SARS-CoV-2 infection) on&#xD;
+             this hospital admission.&#xD;
+&#xD;
+          -  written informed consent obtained from participant or participant's legal&#xD;
+             representative.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  known hypersensitivity to trial medication (patient will be excluded from specific&#xD;
+             arm).&#xD;
+&#xD;
+          -  long-term pre-hospital administration of trial medication (patient will be excluded&#xD;
+             from specific arm).&#xD;
+&#xD;
+          -  previous medical history of significant complication with trial medication or trial&#xD;
+             medication drug class.&#xD;
+&#xD;
+          -  medical history that might, in the opinion of the attending clinician, put the patient&#xD;
+             at significant risk if he/she were to participate in the trial.&#xD;
+&#xD;
+          -  participant not expected to survive 14 days from hospital discharge.&#xD;
+&#xD;
+        The presence of any of the following will preclude participant inclusion in the Apixaban&#xD;
+        arm:&#xD;
+&#xD;
+          -  active clinically significant bleeding.&#xD;
+&#xD;
+          -  Childs-Pugh C, or worse, chronic liver disease&#xD;
+&#xD;
+          -  known pregnancy or breast-feeding&#xD;
+&#xD;
+          -  coagulopathy: INR greater than 1.7 or platelet count below 70&#xD;
+&#xD;
+          -  lesion or condition considered by the investigator as a significant risk factor for&#xD;
+             major bleeding. This may include recent gastrointestinal ulceration, presence of&#xD;
+             malignant neoplasms at high risk of bleeding, recent brain or spinal injury, recent&#xD;
+             brain, spinal or ophthalmic surgery, recent intracranial haemorrhage, known or&#xD;
+             suspected oesophageal varices, arteriovenous malformations, vascular aneurysms, or&#xD;
+             major intraspinal or intracerebral vascular abnormalities.&#xD;
+&#xD;
+          -  concomitant treatment following discharge with any other anticoagulant agent,&#xD;
+             including but not limited to unfractionated heparin, low molecular weight heparins&#xD;
+             (e.g. enoxaparin, dalteparin), heparin derivatives (e.g. fondaparinux), and other oral&#xD;
+             anticoagulants (e.g. warfarin, rivaroxaban, dabigatran).&#xD;
+&#xD;
+        The presence of any of the following will preclude participant inclusion in the&#xD;
+        Atorvastatin arm:&#xD;
+&#xD;
+          -  Childs-Pugh C, or worse, chronic liver disease&#xD;
+&#xD;
+          -  unexplained persistent elevations of serum transaminases exceeding five times the&#xD;
+             upper limit of normal.&#xD;
+&#xD;
+          -  known pregnancy or breast-feeding.&#xD;
+&#xD;
+          -  treatment with the hepatitis C antivirals lecaprevir/pibrentasvir, ciclosporin or HIV&#xD;
+             protease inhibitors.&#xD;
+&#xD;
+          -  serum creatine kinase concentration exceeding 10 times the upper limit of normal.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Charlotte Summers</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Cambridge</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>HEAL-COVID Team</last_name>
+    <phone>+44 (0) 151 794 0222</phone>
+    <email>trial.team@heal-covid.net</email>
+  </overall_contact>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 17, 2021</study_first_posted>
+  <last_update_submitted>March 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cambridge University Hospitals NHS Foundation Trust</investigator_affiliation>
+    <investigator_full_name>HEAL-COVID Trial Team</investigator_full_name>
+    <investigator_title>Trial Manager</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Apixaban</mesh_term>
+    <mesh_term>Atorvastatin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>At the end of the trial, after the primary results have been published, all requests for access to trial data will be reviewed by the Trial Management Group and where possible access will be granted.</ipd_description>
+    <ipd_access_criteria>Proposals for data sharing can be submitted for consideration via contact details on the HEAL-COVID website.</ipd_access_criteria>
+    <ipd_url>http://www.heal-covid.net</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

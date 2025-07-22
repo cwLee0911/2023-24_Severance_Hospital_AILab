@@ -1,0 +1,1611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2744">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04744415</url>
+  </required_header>
+  <id_info>
+    <org_study_id>K22</org_study_id>
+    <nct_id>NCT04744415</nct_id>
+  </id_info>
+  <brief_title>Hospitalizations During Pandemia in the Italian Coronary Care Unit Network</brief_title>
+  <acronym>BLITZ-COVID19</acronym>
+  <official_title>Epidemiology of the Hospitalizations in the Italian Coronary Care Unit Network at the Time of Covid19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Heart Care Foundation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Heart Care Foundation</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multicentre, national, observational, retrospective and prospective study.&#xD;
+&#xD;
+      The BLITZ-COVID19 study aims at describing the epidemiology of admissions to Italian&#xD;
+      Cardiology Intensive Care Units in the COVID-19 infection pandemia, the main aspects of the&#xD;
+      clinical management of inpatients, their short-term outcome, the absorption of resources&#xD;
+      related to their admission.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The BLITZ-COVID19 study, aims at describing the epidemiology of admissions to Italian&#xD;
+      Cardiology Intensive Care Units .&#xD;
+&#xD;
+      The study is observational, multicentre, national and involves the collection of clinical&#xD;
+      data, both retrospectively and prospectively, using a web-based system. In conducting the&#xD;
+      study, no drugs are tested, nor are diagnostic tests or non-pharmacological therapies&#xD;
+      performed other than those that each participating cardiologist decides to perform following&#xD;
+      the rules of normal clinical practice. Diagnostic procedures and pharmacological and&#xD;
+      non-pharmacological therapies habitually prescribed for cardiovascular pathologies, which are&#xD;
+      the object of hospitalization, and those used in the event of a COVID-19 infection, will be&#xD;
+      recorded in the database.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 9, 2020</start_date>
+  <completion_date type="Anticipated">February 9, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 9, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>Impact that COVID-19 infection may have had on the in-hospital mortality</measure>
+    <time_frame>Enrollment</time_frame>
+    <description>Impact that COVID-19 infection may have had on the in-hospital mortality of the various clinical conditions admitted to ICU</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Epidemiology and management of patients admitted to ICU</measure>
+    <time_frame>Enrollment</time_frame>
+    <description>The different diagnoses of discharge from the ICU and their frequency will be described. All hospitalized cardiac and non-cardiac pathologies will be listed, with particular reference to any COVID-19 infection.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Epidemiology and management of patients admitted to ICU</measure>
+    <time_frame>Enrollment</time_frame>
+    <description>Description of the main therapeutic decision in patients hospitalized for the most relevant pathologies</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">4000</enrollment>
+  <condition>Management and Epidemiology of Patients Admitted in ICU</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Epidemiology of admissions</intervention_name>
+    <description>Cardiology Intensive Care Unit admission</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients aged ≥18 years admitted with any diagnoses to ICU in the specified periods of&#xD;
+        30 days each.&#xD;
+&#xD;
+        Retrospecitve phase:(March 1-30, 2020 in the Northern or Centre-North regions; March&#xD;
+        15-April 13, 2020 in the Southern or Ventre_South Regions and island.&#xD;
+&#xD;
+        Perspective phase (depending by the IRB approval) in the following periods:&#xD;
+&#xD;
+        November 9-December 8, 2020; November 23-December 22, 2020; January 11-February 9, 2021.&#xD;
+&#xD;
+        (Retrospective study) or in the&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - All patients aged ≥18 years admitted with any diagnosis to one of the participating ICU&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - Refuse to signe consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michele M Gulizia, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Heart Care Foundation</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michele M Gulizia, MD</last_name>
+    <phone>055/5101361</phone>
+    <email>blitzcovid19@anmco.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ospedale Santo Spirito - Sc Cardiologia</name>
+      <address>
+        <city>Casale Monferrato</city>
+        <state>AL</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Scientifico Inrca - Uo Cardiologia/Utic/Telecardiologia</name>
+      <address>
+        <city>Ancona</city>
+        <state>AN</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roberto Antonicelli, MD</last_name>
+      <email>r.antonicelli@inrca.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Generale Regionale-Po U. Parini - U.O. Cardiologia E Cure Intensive Card.</name>
+      <address>
+        <city>Aosta</city>
+        <state>AO</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giampiero Leone, MD</last_name>
+      <email>gleone@ausl.vda.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Po Sant'Ottone Frangipane - U.O.C. Cardiologia - Utic</name>
+      <address>
+        <city>Ariano Irpino</city>
+        <state>AV</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carmela Dragonetti, MD</last_name>
+      <email>dragonetticarmen@libero.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Aorn San Giuseppe Moscati - U.O. Cardiologia/Utic 'D. Rotiroti'</name>
+      <address>
+        <city>Avellino</city>
+        <state>AV</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Miulli - U.O.C. Cardiologia - Utic</name>
+      <address>
+        <city>Acquaviva Delle Fonti</city>
+        <state>BA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aou Policlinico - Uoc Cardiologia Ospedaliera</name>
+      <address>
+        <city>Bari</city>
+        <state>BA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carlo D'Agostino, MD</last_name>
+      <email>carlo.dagostino@policlinico.ba.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Di Venere - U.O.C. Di Cardiologia</name>
+      <address>
+        <city>Bari</city>
+        <state>BA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Massimo V. Bonfantino, MD</last_name>
+      <email>enzobonfy@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Paolo - Cardiologia-Utic</name>
+      <address>
+        <city>Bari</city>
+        <state>BA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pasquale Caldarola, MD</last_name>
+      <email>pascald1506@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Di Bentivoglio - U.O. Di Cardiologia</name>
+      <address>
+        <city>Bentivoglio</city>
+        <state>BO</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Maggiore - U.O. Di Cardiologia</name>
+      <address>
+        <city>Bologna</city>
+        <state>BO</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Silvia Zagnoni, MD</last_name>
+      <email>zagnonis@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Asst Spedali Civili - Cardiologia</name>
+      <address>
+        <city>Brescia</city>
+        <state>BS</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elio Gorga, MD</last_name>
+      <email>eliogorga@yahoo.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale L. Bonomo - Cardiologia - Utic</name>
+      <address>
+        <city>Andria</city>
+        <state>BT</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Generale Regionale - Divisione Di Cardiologia</name>
+      <address>
+        <city>Bolzano</city>
+        <state>BZ</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Arnas G. Brotzu - Cardiologia Con Utic</name>
+      <address>
+        <city>Cagliari</city>
+        <state>CA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. Cagliari Policlinico Monserrato - Sc Cardiologia Utic Emodinamica</name>
+      <address>
+        <city>Monserrato</city>
+        <state>CA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale A. Cardarelli - U.O. Cardiologia E Utic</name>
+      <address>
+        <city>Campobasso</city>
+        <state>CB</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Angela R. Colavita, MD</last_name>
+      <email>angelarita.colavita@asrem.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Ospedaliero Moscati - U.O.C. Cardiologia-Utic</name>
+      <address>
+        <city>Aversa</city>
+        <state>CE</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luciano Fattore, MD</last_name>
+      <email>luciano.fattore@libero.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Az. Ospedaliera S. Anna E S. Sebastiano - U.O. Cardiologia-Utic</name>
+      <address>
+        <city>Caserta</city>
+        <state>CE</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile Ave Gratia Plena - U.O. Di Cardiologia E Utic</name>
+      <address>
+        <city>Piedimonte Matese</city>
+        <state>CE</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Giuseppe E Melorio - U.O.C. Cardiologia Utic</name>
+      <address>
+        <city>Santa Maria Capua Vetere</city>
+        <state>CE</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pietro Iodice, MD</last_name>
+      <email>pietro.iodice@aslcaserta.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Ospedaliero San Rocco - U.O.C. Cardiologia - Utic</name>
+      <address>
+        <city>Sessa Aurunca</city>
+        <state>CE</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Pio Da Pietrelcina - Cardiologia</name>
+      <address>
+        <city>Vasto</city>
+        <state>CH</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giacomo Levantesi, MD</last_name>
+      <email>levagiac@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Regina Montis Regalis - U.O. Cardiologia-Utic</name>
+      <address>
+        <city>Mondovì</city>
+        <state>CN</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>MAURO FEOLA, MD</last_name>
+      <email>mauro.feola@aslcn1.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Maggiore Ss. Annunziata - Sc Cardiologia</name>
+      <address>
+        <city>Savigliano</city>
+        <state>CN</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Moriggia Pelascini - Unita' Operativa Di Cardiologia</name>
+      <address>
+        <city>Gravedona</city>
+        <state>CO</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale S. Anna - U.O.C. Di Cardiologia</name>
+      <address>
+        <city>San Fermo Della Battaglia</city>
+        <state>CO</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>P.O. Garibaldi Centro - U.O.C. Cardiologia</name>
+      <address>
+        <city>Catania</city>
+        <state>CT</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Cuore Morgagni - U.F. Utic Ed Emodinamica</name>
+      <address>
+        <city>Pedara</city>
+        <state>CT</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Salvatore Tolaro, MD</last_name>
+      <email>stolaro@centrocuore.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Arcispedale Sant'Anna - U.O. Cardiologia - Utic</name>
+      <address>
+        <city>Ferrara</city>
+        <state>FE</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gabriele Guardigli, MD</last_name>
+      <email>gabri.guardigli@libero.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedali Riuniti - S.C. Di Cardiologia Univ.-Utic</name>
+      <address>
+        <city>Foggia</city>
+        <state>FG</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Natale D. Brunetti, MD</last_name>
+      <email>natale.brunetti@unifg.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Casa Sollievo Della Sofferenza - Cardiologia - Utic - Riabil Cardiologica</name>
+      <address>
+        <city>San Giovanni Rotondo</city>
+        <state>FG</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aldo Russo, MD</last_name>
+      <email>a.russo@operapadrepio.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Ospedaliero T. Masselli Mascia - S.C. Cardiologia - Utic - Riabil. Card.</name>
+      <address>
+        <city>San Severo</city>
+        <state>FG</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Santa Maria Annunziata - Cardiologia</name>
+      <address>
+        <city>Bagno A Ripoli</city>
+        <state>FI</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Giuseppe - Cardiologia</name>
+      <address>
+        <city>Empoli</city>
+        <state>FI</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benedetta Bellandi, MD</last_name>
+      <email>benedetta.bellandi@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Aou Careggi - Cardiologia Interventistica</name>
+      <address>
+        <city>Firenze</city>
+        <state>FI</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Renato Valenti, MD</last_name>
+      <email>renato.valenti2@tin.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Giovanni Di Dio - Cardiologia</name>
+      <address>
+        <city>Firenze</city>
+        <state>FI</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Massimo Milli, MD</last_name>
+      <email>massimo.milli@uslcentro.toscana.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Santa Maria Nuova - Hdu Cardiologica/Utic</name>
+      <address>
+        <city>Firenze</city>
+        <state>FI</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>E.O. Ospedali Galliera - S. C. Cardiologia</name>
+      <address>
+        <city>Genova</city>
+        <state>GE</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Ospedaliero - U.O. Cardiologia</name>
+      <address>
+        <city>Sanremo</city>
+        <state>IM</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Federico Sanchez, MD</last_name>
+      <email>f.sanchez@asl1.liguria.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile Sacro Cuore Di Gesu' - Uo Cardiologia Utic</name>
+      <address>
+        <city>Gallipoli</city>
+        <state>LE</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giovanni C. Piccinni, MD</last_name>
+      <email>giancarlopiccinni@yahoo.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Ignazio Veris Delli Ponti - Uoc Cardiologia-Utic</name>
+      <address>
+        <city>Scorrano</city>
+        <state>LE</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eugenio Vilei, MD</last_name>
+      <email>eugeniovilei@hotmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Osp. Cardinale G. Panico - U.O. Cardiologia - Utic</name>
+      <address>
+        <city>Tricase</city>
+        <state>LE</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedali Riuniti - U.O.C. Cardiologia E Utic</name>
+      <address>
+        <city>Livorno</city>
+        <state>LI</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Umberto Baldini, MD</last_name>
+      <email>umberto.baldini@uslnordovest.toscana.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nuovo Ospedale Versilia - Sc Cardiologia</name>
+      <address>
+        <city>Lido Di Camaiore</city>
+        <state>LU</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giancarlo Casolo, MD</last_name>
+      <email>giancarlo.casolo@uslnordovest.toscana.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Gerardo - U.O. Cardiologia-Utic</name>
+      <address>
+        <city>Monza</city>
+        <state>MB</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrea Mauro, MD</last_name>
+      <email>a.mauro@hsgerardo.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Aor Papardo - U.O. Cardiologia Con Utic</name>
+      <address>
+        <city>Messina</city>
+        <state>ME</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Piemonte - Cardiologia E Utic</name>
+      <address>
+        <city>Messina</city>
+        <state>ME</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Salvina Quattrocchi, MD</last_name>
+      <email>salvina.quattrocchi@irccsme.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Cardiologico Monzino - Terapia Intensiva Cardiologica (Utic)</name>
+      <address>
+        <city>Milano</city>
+        <state>MI</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeness Campodonico, MD</last_name>
+      <email>jeness.campodonico@ccfm.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Irccs Policlinico Multimedica - Uo Di Cardiologia</name>
+      <address>
+        <city>Sesto San Giovanni</city>
+        <state>MI</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roberto F Pedretti, MD</last_name>
+      <email>robertofrancoenrico.pedretti@multimedica.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile Di Baggiovara - U.O. Di Cardiologia</name>
+      <address>
+        <city>Modena</city>
+        <state>MO</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stefania Sansoni, MD</last_name>
+      <email>sansoni.stefania@aou.mo.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Francesco - Cardiologia - Utic</name>
+      <address>
+        <city>Nuoro</city>
+        <state>NU</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gavino Casu, MD</last_name>
+      <email>gcasu61@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione G. Giglio - U.O. Cardiologia E Utic</name>
+      <address>
+        <city>Cefalù</city>
+        <state>PA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aor Villa Sofia-Cervello P.O. Cervello - U.O. Cardiologia - Cervello</name>
+      <address>
+        <city>Palermo</city>
+        <state>PA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Franceso Pitrolo, MD</last_name>
+      <email>fpitrolo@neomedia.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Aor Villa Sofia-Cervello Po Villa Sofia - U.O.C. Cardiologia E Utic - Villa Sofia</name>
+      <address>
+        <city>Palermo</city>
+        <state>PA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Franco Ingrillì, MD</last_name>
+      <email>francoingrilli1956@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile 'Guglielmo Da Saliceto' - Uo Cardiologia</name>
+      <address>
+        <city>Piacenza</city>
+        <state>PC</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stefano Ferraro, MD</last_name>
+      <email>S.Ferraro@ausl.pc.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile Dello Spirito Santo - Utic E Cardiologia Interventistica</name>
+      <address>
+        <city>Pescara</city>
+        <state>PE</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Leonardo Paloscia, MD</last_name>
+      <email>leonardo.paloscia@ausl.pe.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Ospedaliero Citta' Di Castello - U.O. Di Cardiologia</name>
+      <address>
+        <city>Città Di Castello</city>
+        <state>PG</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Gubbio-Gualdo Tadino - U.O. Di Utic E Cardiologia</name>
+      <address>
+        <city>Gubbio</city>
+        <state>PG</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Generale Provinciale Lotti - U.O. Malattie Cardiovascolari Vde E Avc</name>
+      <address>
+        <city>Pontedera</city>
+        <state>PI</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giulia Aguzzi, MD</last_name>
+      <email>giuliaguzzi@yahoo.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Di Pordenone - S.O.C. Cardiologia</name>
+      <address>
+        <city>Pordenone</city>
+        <state>PN</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniela Pavan, MD</last_name>
+      <email>daniela.pavan@asfo.sanita.fvg.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Ss. Cosma E Damiano - U. O. Cardiologia - Utic</name>
+      <address>
+        <city>Pescia</city>
+        <state>Point</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Santo Stefano - U.O. Cardiologia</name>
+      <address>
+        <city>Prato</city>
+        <state>PO</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Generale Di Zona - U.O. Cardiologia - Utic</name>
+      <address>
+        <city>Lagonegro</city>
+        <state>PZ</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera San Carlo - Ssd Utic</name>
+      <address>
+        <city>Potenza</city>
+        <state>PZ</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giovanni A. Paternò, MD</last_name>
+      <email>giannipat3@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Per Gli Infermi - U.O. Cardiologia - Utic</name>
+      <address>
+        <city>Faenza</city>
+        <state>RA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile Santa Maria Delle Croci - U.O. Di Cardiologia</name>
+      <address>
+        <city>Ravenna</city>
+        <state>RA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrea Rubboli, MD</last_name>
+      <email>andrea.rubboli@auslromagna.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>P.O. San Camillo de Lellis - U.O.C. Cardiologia</name>
+      <address>
+        <city>Rieti</city>
+        <state>RI</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile San Paolo - U.O. Cardiologia - Utic</name>
+      <address>
+        <city>Civitavecchia</city>
+        <state>RM</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marco Di Gennaro, MD</last_name>
+      <email>marco.digennaro@aslrmf.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale S. Maria Goretti - Uoc Malattie Cardiovascolari</name>
+      <address>
+        <city>Latina</city>
+        <state>RM</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Francesco Versaci, MD</last_name>
+      <email>francescoversaci@yahoo.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Aurelia Hospital - U.O.C Cardiologia</name>
+      <address>
+        <city>Roma</city>
+        <state>RM</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Citta' Di Roma - Cardiologia-Utic</name>
+      <address>
+        <city>Roma</city>
+        <state>RM</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>European Hospital - U.O. Cardiologia Interventistica</name>
+      <address>
+        <city>Roma</city>
+        <state>RM</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Fatebenefratelli - U.O.C. Cardiologia</name>
+      <address>
+        <city>Roma</city>
+        <state>RM</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Camillo - Uoc Cardiologia</name>
+      <address>
+        <city>Roma</city>
+        <state>RM</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Sandro Pertini - Uoc Cardiologia</name>
+      <address>
+        <city>Roma</city>
+        <state>RM</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giuseppe Farraiuolo, MD</last_name>
+      <email>giuseppe.ferraiuolo@aslroma2.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Sant'Andrea Di Roma - U.O.C. Cardiologia</name>
+      <address>
+        <city>Roma</city>
+        <state>RM</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Santa Maria Della Misericordia - U.O.C. Cardiologia</name>
+      <address>
+        <city>Rovigo</city>
+        <state>RO</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Loris Roncon, MD</last_name>
+      <email>loris.roncon@aulss5.veneto.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Osped. S. Maria Della Speranza - U.O. Di Cardiologia</name>
+      <address>
+        <city>Battipaglia</city>
+        <state>SA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>P.O. Nocera-Pagani - Osp. Umberto I - Uoc Cardiologia - Utic</name>
+      <address>
+        <city>Nocera Inferiore</city>
+        <state>SA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antonello D'Andrea, MD</last_name>
+      <email>antonellodandrea@libero.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Ospedaliero Luigi Curto - Uo Cardiologia-Utic</name>
+      <address>
+        <city>Polla</city>
+        <state>SA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aou S. Giovanni Di Dio-Ruggi D'Aragona - U.O.C. Utic</name>
+      <address>
+        <city>Salerno</city>
+        <state>SA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Luca - U.O. Utic - Cardiologia</name>
+      <address>
+        <city>Vallo Della Lucania</city>
+        <state>SA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Dell'Alta Val D'Elsa - Uosd Cardiologia-Utic</name>
+      <address>
+        <city>Poggibonsi</city>
+        <state>SI</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aou Senese Ospedale S. Maria Alle Scotte - U.O.C. Cardiologia Clinico-Chirurg. Utic</name>
+      <address>
+        <city>Siena</city>
+        <state>SI</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Serafina Valente, MD</last_name>
+      <email>seravalente@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile - U.O. Cardiologia</name>
+      <address>
+        <city>Sondrio</city>
+        <state>SO</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale S. Andrea - S.C. Cardiologia</name>
+      <address>
+        <city>La Spezia</city>
+        <state>SP</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alberto Menozzi, MD</last_name>
+      <email>albemenozzi@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale E. Muscatello - U.O. Di Cardiologia - Utic</name>
+      <address>
+        <city>Augusta</city>
+        <state>SR</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale G. Di Maria - Cardiologia Utic</name>
+      <address>
+        <city>Avola</city>
+        <state>SR</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paolo Costa, MD</last_name>
+      <email>dott.paolocosta@alice.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>P.O. Lentini - U.O. Di Cardiologia Con Utic</name>
+      <address>
+        <city>Lentini</city>
+        <state>SR</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Nostra Signora Di Bonaria - U.O.C. Cardiologia E Utic</name>
+      <address>
+        <city>San Gavino Monreale</city>
+        <state>SU</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Santa Maria Del Carmine - Cardiologia</name>
+      <address>
+        <city>Rovereto</city>
+        <state>TN</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Santa Chiara - Divisione Di Cardiologia</name>
+      <address>
+        <city>Trento</city>
+        <state>TN</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Po S. Antonio Abate Di Trapani - U.O.C. Di Cardiologia E Utic</name>
+      <address>
+        <city>Erice</city>
+        <state>TP</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Santa Maria Dei Battuti - U.O. Di Cardiologia</name>
+      <address>
+        <city>Conegliano</city>
+        <state>TV</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roberto Mantovan, MD</last_name>
+      <email>roberto.mantovan@aulss2.veneto.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Pou Santa Maria Della Misericordia - S.O.C. Cardiologia</name>
+      <address>
+        <city>Udine</city>
+        <state>UD</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marzia De Biasio, MD</last_name>
+      <email>marzia.debiasio@asuiud.sanita.fvg.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Ospedaliero Di Saronno - U.O.C. Di Cardiologia</name>
+      <address>
+        <city>Saronno</city>
+        <state>VA</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile - U.O. Cardiologia</name>
+      <address>
+        <city>Mirano</city>
+        <state>VE</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile - U.O.C. Cardiologia</name>
+      <address>
+        <city>Arzignano</city>
+        <state>VI</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile San Bortolo - U.O.C. Cardiologia</name>
+      <address>
+        <city>Vicenza</city>
+        <state>VI</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Mater Salutis - U.O.C. Cardiologia</name>
+      <address>
+        <city>Legnago</city>
+        <state>VR</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Casa Di Cura Dr. Pederzoli - Servizio Di Cardiologia</name>
+      <address>
+        <city>Peschiera Del Garda</city>
+        <state>VR</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Ss. Trinita' - S.C. Di Cardiologia</name>
+      <address>
+        <city>Borgomanero</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>PIERFRANCO DELLAVESA, MD</last_name>
+      <email>Pierfranco.dellavesa@asl.novara.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Leonardo - U.O. Di Cardiologia-Utic</name>
+      <address>
+        <city>Castellammare Di Stabia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raffaele Longobardi, MD</last_name>
+      <email>raffaelelongobardi1@alice.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Giovanni Di Dio - Uo Cardiologia - Utic</name>
+      <address>
+        <city>Frattamaggiore</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Generale Di Zona - U.O. Cardiologia - Utic</name>
+      <address>
+        <city>Giugliano In Campania</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Anna Rizzoli - Cardiologia-Utic</name>
+      <address>
+        <city>Lacco Ameno</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aorn Cardarelli - U.O. Cardiologia Con Utic</name>
+      <address>
+        <city>Napoli</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Mediterranea - U.O. Di Cardiologia</name>
+      <address>
+        <city>Napoli</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bruno Golia, MD</last_name>
+      <email>drbrunogolia@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Dei Pellegrini - Uoc Cardiologia-Utic</name>
+      <address>
+        <city>Napoli</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Del Mare - U.O. Cardiologia Con Utic</name>
+      <address>
+        <city>Napoli</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bernardino Tuccillo, MD</last_name>
+      <email>bernardino.tuccillo@libero.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Pres. Ospedaliero S. Maria Della Pieta' - U.O. Cardiologia E Utic</name>
+      <address>
+        <city>Nola</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aou Maggiore Della Carita' - Cardiologia Ii</name>
+      <address>
+        <city>Novara</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lidia Rossi, MD</last_name>
+      <email>rossilidia7@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>PO San Filippo neri - ASL Roma1</name>
+      <address>
+        <city>Roma</city>
+        <zip>00135</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Furio Colivicchi, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>February 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 9, 2021</study_first_posted>
+  <last_update_submitted>February 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Still to be decided</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

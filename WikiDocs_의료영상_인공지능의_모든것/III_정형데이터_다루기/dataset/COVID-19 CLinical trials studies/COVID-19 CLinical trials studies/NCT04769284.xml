@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3978">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04769284</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Mental health student</org_study_id>
+    <nct_id>NCT04769284</nct_id>
+  </id_info>
+  <brief_title>Psychological State of Students of Health Sciences During COVID-19</brief_title>
+  <official_title>Psychological State of University Students of Health Sciences During COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yolanda Marcen Roman</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Universidad de Zaragoza</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Instituto de Investigación Sanitaria Aragón</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      University students report high levels of stress, anxiety and depression every year, which,&#xD;
+      according to some research, responsible for university administration and popular media,&#xD;
+      constitutes a global crisis of mental health of students at these levels.&#xD;
+&#xD;
+      Exposure to academic stress directly compromises students' motivation and attitudes towards&#xD;
+      learning.&#xD;
+&#xD;
+      High levels of perceived distress in the face of inadequate resources to deal with the&#xD;
+      situation leaves people at risk of developing major psychiatric problems, especially when&#xD;
+      this distress is prolonged or severe.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Main goal:Study the impact of socio-demographic, personal and health factors that determine&#xD;
+      the performance / perception of pandemic stress) in students of Bachelor's degrees in Health&#xD;
+      Sciences.&#xD;
+&#xD;
+      Secondary objectives:&#xD;
+&#xD;
+        -  Analyze the relationship between socio-demographic and personal characteristics and the&#xD;
+           perception of stress related to the Covid-19 pandemic.&#xD;
+&#xD;
+        -  Identify the relationship between the perception of stress related to the Covid-19&#xD;
+           pandemic and the role of gender / physical activity and the academic performance of&#xD;
+           undergraduate students in Health Sciences.&#xD;
+&#xD;
+      Methodology All variables will be obtained only once by means of a survey through google&#xD;
+      form. The questionnaire will be disseminated to all students of the degrees, by institutional&#xD;
+      email, through direct contact with the delegates of each course. After the first two weeks, a&#xD;
+      reminder will be made following the same routes. There will be no follow-up.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 12, 2021</start_date>
+  <completion_date type="Actual">February 21, 2021</completion_date>
+  <primary_completion_date type="Actual">February 20, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Modified version of EPP-10 related to COVID-19 (EPP-10-C)</measure>
+    <time_frame>3 minutes</time_frame>
+    <description>EEP-10-C; modified version of the 10-item perceived stress scale (EEP-10), it is also composed of 10 items; each offers 5 response options: never, almost never, occasionally, almost always, and always. Items 1, 2, 3, 6, 9 and 10 are scored directly from 0 to 4 and items 4, 5, 7 and 8, conversely, from 4 to 0</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Abbreviated Goldberg Anxiety Scale EADG</measure>
+    <time_frame>3 minutes</time_frame>
+    <description>It examines four fundamental psychiatric areas: depression, anxiety, social inadequacy, and hypochondria. It contains 9 questions and the cut-off points are equal to or greater than 4 for the anxiety scale, and equal to or greater than 2 for the depression scale.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Gender stereotypes: Short version of the Bem Sex Rol Inventory (BRSI).</measure>
+    <time_frame>4 minutes</time_frame>
+    <description>The 12-item questionnaire collected 6 instrumental or masculine items (strong personality, acts as a leader, has the character of a leader, dominant personality, defender of their beliefs and makes decisions easily), and 6 expressive or feminine items (tender, gentle, warm, affectionate, understanding and sensitive to the needs of others). People answered each of the questions about their self-perception, using a 7-point Likert-type scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Short International Physical Activity Questionnaire (IPAQ)</measure>
+    <time_frame>4 minutes</time_frame>
+    <description>The IPAQ consists of 7 questions about the frequency, duration and intensity of activity (moderate and intense) carried out in the last seven days, as well as walking and sitting time in a work day.&#xD;
+Reference Mets values are: walking 3.3 Mets, moderate physical activity: 4 Mets, vigorous physical activity: 8 Mets.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Sociodemographic variables</measure>
+    <time_frame>4 minutes</time_frame>
+    <description>An ad-hoc questionnaire was designed that included sociodemographic variables related to the characteristics of the students. The variables sex, age, qualification, employment situation, coexistence situation, economic situation, origin environment, country of origin were collected.</description>
+  </other_outcome>
+  <enrollment type="Actual">332</enrollment>
+  <condition>Stress, Psychological</condition>
+  <condition>Anxiety</condition>
+  <condition>Depression</condition>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Mental health student</intervention_name>
+    <description>An ad-hoc questionnaire was designed that included sociodemographic variables related to the characteristics of the students. The variables sex, age, degree, employment situation, coexistence situation, economic situation, origin environment, country of origin, time of residence in the Spanish State were collected.&#xD;
+Personal variables:&#xD;
+Gender stereotypes: Short version of the Bem Sex Rol Inventory (BRSI).&#xD;
+International Physical Activity Questionnaire (IPAQ)&#xD;
+Abbreviated Goldberg Anxiety Scale EADG&#xD;
+Modified version of EPP-10 related to COVID-19 (EPP-10-C)</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will be made up of nursing, physiotherapy and occupational therapy&#xD;
+        students from the Faculty of Health Sciences of Zaragoza. Students will be able to answer&#xD;
+        the questions through their electronic devices. At no time will it be known which student&#xD;
+        has responded since he is totally anonymous and voluntary.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Students of the degree of nursing, occupational therapy and physiotherapy belonging to&#xD;
+             the Faculty of Health Sciences&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Not belonging to any degree in Health Sciences of the Faculty of Health Sciences&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>men woman non-binary others</gender_description>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Beatriz F Rodríguez Roca</last_name>
+    <role>Study Director</role>
+    <affiliation>Zaragoza´s University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Estela F Calatayud Sanz</last_name>
+    <role>Study Director</role>
+    <affiliation>Zaragoza´s University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Isabel F Gómez Soria</last_name>
+    <role>Study Director</role>
+    <affiliation>Zaragoza´s University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ángel M Gasch Gallén</last_name>
+    <role>Study Director</role>
+    <affiliation>Zaragoza´s University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Faculty of Health Sciences. Zaragoza's University</name>
+      <address>
+        <city>Zaragoza</city>
+        <zip>50009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <results_reference>
+    <citation>Bao Y, Sun Y, Meng S, Shi J, Lu L. 2019-nCoV epidemic: address mental health care to empower society. Lancet. 2020 Feb 22;395(10224):e37-e38. doi: 10.1016/S0140-6736(20)30309-3. Epub 2020 Feb 7.</citation>
+    <PMID>32043982</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global health concern. Lancet. 2020 Feb 15;395(10223):470-473. doi: 10.1016/S0140-6736(20)30185-9. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 29;:.</citation>
+    <PMID>31986257</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Odriozola-González P, Planchuelo-Gómez Á, Irurtia MJ, de Luis-García R. Psychological symptoms of the outbreak of the COVID-19 confinement in Spain. J Health Psychol. 2020 Oct 30:1359105320967086. doi: 10.1177/1359105320967086. [Epub ahead of print]</citation>
+    <PMID>33124471</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Rothan HA, Byrareddy SN. The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak. J Autoimmun. 2020 May;109:102433. doi: 10.1016/j.jaut.2020.102433. Epub 2020 Feb 26. Review.</citation>
+    <PMID>32113704</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Adhikari SP, Meng S, Wu YJ, Mao YP, Ye RX, Wang QZ, Sun C, Sylvia S, Rozelle S, Raat H, Zhou H. Epidemiology, causes, clinical manifestation and diagnosis, prevention and control of coronavirus disease (COVID-19) during the early outbreak period: a scoping review. Infect Dis Poverty. 2020 Mar 17;9(1):29. doi: 10.1186/s40249-020-00646-x. Review.</citation>
+    <PMID>32183901</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Brooks SK, Webster RK, Smith LE, Woodland L, Wessely S, Greenberg N, Rubin GJ. The psychological impact of quarantine and how to reduce it: rapid review of the evidence. Lancet. 2020 Mar 14;395(10227):912-920. doi: 10.1016/S0140-6736(20)30460-8. Epub 2020 Feb 26. Review.</citation>
+    <PMID>32112714</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang C, Pan R, Wan X, Tan Y, Xu L, Ho CS, Ho RC. Immediate Psychological Responses and Associated Factors during the Initial Stage of the 2019 Coronavirus Disease (COVID-19) Epidemic among the General Population in China. Int J Environ Res Public Health. 2020 Mar 6;17(5). pii: E1729. doi: 10.3390/ijerph17051729.</citation>
+    <PMID>32155789</PMID>
+  </results_reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 24, 2021</study_first_posted>
+  <last_update_submitted>February 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Instituto de Investigación Sanitaria Aragón</investigator_affiliation>
+    <investigator_full_name>Yolanda Marcen Roman</investigator_full_name>
+    <investigator_title>Principal investigador</investigator_title>
+  </responsible_party>
+  <keyword>university students</keyword>
+  <keyword>physical activity</keyword>
+  <keyword>gender stereotype</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stress, Psychological</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>The study design could be reported</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

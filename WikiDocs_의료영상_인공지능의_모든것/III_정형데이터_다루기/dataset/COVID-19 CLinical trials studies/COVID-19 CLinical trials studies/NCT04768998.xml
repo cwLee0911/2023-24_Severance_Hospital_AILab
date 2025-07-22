@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3800">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04768998</url>
+  </required_header>
+  <id_info>
+    <org_study_id>01KX2021</org_study_id>
+    <nct_id>NCT04768998</nct_id>
+  </id_info>
+  <brief_title>Intersectoral Platform (SÜP) of the National Pandemic Cohort Network (NAPKON)</brief_title>
+  <acronym>SUEP-NAPKON</acronym>
+  <official_title>Intersectoral Platform (SÜP) of the National Pandemic Cohort Network (NAPKON)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Goethe University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Nationwide Network of University Medicine (NUM) on Covid-19</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Goethe University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The intersectoral platform is part of the National Pandemic Cohort Network (NAPKON) and will&#xD;
+      be used to provide a comprehensive and harmonized collection of data and biomaterial for&#xD;
+      researchers from national consortia, pharmaceutical companies and for participation in&#xD;
+      international research collaborations for the purpose of studying COVID-19 disease and future&#xD;
+      pandemics.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The intersectoral platform is part of the National Pandemic Cohort Network (NAPKON), which,&#xD;
+      together and in interaction with other components of the National Research Network of&#xD;
+      University Medicine on COVID-19 (NUM), provides the essential basis for the successful&#xD;
+      understanding and thus combating pandemics using the example of coronavirus disease 2019&#xD;
+      (COVID-19). NAPKON represents a sustainable, integrative and comprehensive concept that&#xD;
+      provides benefits for society as a whole in defending against and coping with pandemics,&#xD;
+      especially at the level of public health care, in hospital and patient management and from&#xD;
+      the individual patient's perspective.&#xD;
+&#xD;
+      The intersectoral platform records data and biomaterial of severe acute respiratory syndrome&#xD;
+      coronavirus type 2 (SARS-CoV-2)-infected patients through a network of university clinics,&#xD;
+      hospitals at all levels of care, general practitioners and specialist practices with&#xD;
+      appropriate study experience and infrastructure. The longitudinal phenotyping programme&#xD;
+      tracks patients for up to one year and collects detailed and harmonized clinical data as well&#xD;
+      as biomaterial. Follow-up data is enriched by patient-reported outcomes (PROM) and&#xD;
+      recruitment is intensified by focusing on hot-spot regions. Mobile study teams are used to&#xD;
+      reach, among others, long-term care and rehabilitation facilities, thus mapping all&#xD;
+      structural elements of the German care network.&#xD;
+&#xD;
+      The primary aim of the intersectoral platform is to provide a comprehensive and harmonized&#xD;
+      collection of data and biomaterial for researchers from national consortia, pharmaceutical&#xD;
+      companies and for participation in international research collaborations for the purpose of&#xD;
+      studying COVID-19 disease and future pandemics.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 4, 2020</start_date>
+  <completion_date type="Anticipated">September 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Longitudinal collection of data and biomaterial</measure>
+    <time_frame>day 1 of enrollment in the study, immediately before discharge, 3 and 12 months after diagnosis</time_frame>
+    <description>To provide a comprehensive and harmonised collection of data and biomaterial for researchers from national consortia, pharmaceutical companies and for participation in international research collaborations for the purpose of studying COVID-19 and future pandemics.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of cases of SARS-CoV-2 infection</measure>
+    <time_frame>12 months</time_frame>
+    <description>Determine the number of cases of SARS-CoV-2 according to:&#xD;
+Severity of the disease&#xD;
+Deaths&#xD;
+Treatment status&#xD;
+Lengths of hospitalization&#xD;
+Duration of oxygen therapy&#xD;
+Underlying disease</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in concentration of inflammatory parameters.</measure>
+    <time_frame>Assessement at each study visit until discharge or death, assessed up to 12 months</time_frame>
+    <description>The changes of inflammatory parameters such as C-reactive protein (CRP) [mg/l], will be recorded and evaluated at all visits during the acute phase, if provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in concentration of cardiac parameters.</measure>
+    <time_frame>Assessement at each study visit until discharge or death, assessed up to 12 months</time_frame>
+    <description>The changes of Fibrinogen [µmol/l] will be recorded and evaluated at all visits during the acute phase, if provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in concentration of urine parameters.</measure>
+    <time_frame>Assessment of the urine parameters will be performed at all visits during the acute phase until discharge or death, assessed up to 12 months</time_frame>
+    <description>The changes in concentration of urine parameters such as Albumine ([mg/g Creatinin], will be recorded and evaluated, if provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Patient-reported Quality of life recorded with the help of the European Quality of Life 5 Dimensions 5 Level Version (Eq5d5l) questionnaire.</measure>
+    <time_frame>Date of admission, immediately before discharge, 3, 6, 12 months after first diagnosis</time_frame>
+    <description>Health related quality of life after hospital discharge will be assessed with the questionnaire European Quality of Life 5 Dimensions 5 Level Version (Eq5d5l)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in body temperature.</measure>
+    <time_frame>Assessement at each study visit until discharge or death, assessed up to 12 months</time_frame>
+    <description>Assessment of the patient´s body temperature will be performed at all visits during the acute phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood pressure.</measure>
+    <time_frame>Assessement at each study visit until discharge or death, assessed up to 12 months</time_frame>
+    <description>Assessment of the patient´s blood pressure will be performed at all visits during the acute phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in heart rate.</measure>
+    <time_frame>Assessement at each study visit until discharge or death, assessed up to 12 months</time_frame>
+    <description>Assessment of the patient´s heart rate will be performed at all visits during the acute phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in breath frequency.</measure>
+    <time_frame>Assessement at each study visit until discharge or death, assessed up to 12 months</time_frame>
+    <description>Assessment of the patient´s breath frequency will be performed at all visits during the acute phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in peripheral oxygen saturation.</measure>
+    <time_frame>Assessement at each study visit until discharge or death, assessed up to 12 months</time_frame>
+    <description>Assessment of the patient´s peripheral oxygen saturation will be performed at all visits during the acute phase.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">6550</enrollment>
+  <condition>Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)</condition>
+  <arm_group>
+    <arm_group_label>Intersectoral Platform (SÜP) of the National Pandemic Cohort Network (NAPKON)</arm_group_label>
+    <description>Streamlined sampling of biomaterials and core data elements (GErman Corona COnsensus data set GECOO), with other NAPKON study platforms (HAP, POP).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Populationbased Platform (POP) of the National Pandemic Cohort Network (NAPKON)</arm_group_label>
+    <description>Streamlined sampling of biomaterials and core data elements (GErman Corona COnsensus data set GECOO), with other NAPKON study platforms (HAP, SUEP).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-Resolution Platform (HAP) of the National Pandemic Cohort Network (NAPKON)</arm_group_label>
+    <description>Streamlined sampling of biomaterials and core data elements (GErman Corona COnsensus data set GECOO), with other NAPKON study platforms (POP, SUEP).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Observational of different courses of SARS-CoV-2 infection in different phases (acute vs. post-acute) and settings</intervention_name>
+    <description>Observatory Cohorts focusing (I) on subjects after SARS-CoV-2 infection that are recruited from the general population (POP), and on subjects with acute SARS-CoV-2 infections recruited (II) in university hospital high-care settings or (III) general health care.</description>
+    <arm_group_label>High-Resolution Platform (HAP) of the National Pandemic Cohort Network (NAPKON)</arm_group_label>
+    <arm_group_label>Intersectoral Platform (SÜP) of the National Pandemic Cohort Network (NAPKON)</arm_group_label>
+    <arm_group_label>Populationbased Platform (POP) of the National Pandemic Cohort Network (NAPKON)</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood, respiratory samples (nose and throat swab, endotracheal aspirate, nasopharyngeal&#xD;
+      aspirate), urine&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This study will enrol eligible patients (in- and outpatients) with confirmed SARS-CoV-2&#xD;
+        infection.&#xD;
+&#xD;
+        Data and biospecimens will be collected during predefined study visits and patients are&#xD;
+        monitored up to 12 months after diagnosis.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥18 years&#xD;
+&#xD;
+          2. Compliance with the case definition (a-c):&#xD;
+&#xD;
+               1. Polymerase chain reaction (PCR) or rapid test diagnosis from nasopharynx,&#xD;
+                  bronchoalveolar lavage, oropharynx, stool and/or blood&#xD;
+&#xD;
+               2. or a combination of:&#xD;
+&#xD;
+                    -  negative molecular detection of SARS-CoV-2 AND&#xD;
+&#xD;
+                    -  characteristic radiological findings AND&#xD;
+&#xD;
+                    -  respiratory tract infection AND&#xD;
+&#xD;
+                    -  absence of a more likely cause of disease, in particular other chronic lung&#xD;
+                       diseases AND&#xD;
+&#xD;
+                    -  Negative test for influenza&#xD;
+&#xD;
+               3. or (control group) a combination of:&#xD;
+&#xD;
+                    -  negative molecular detection of SARS-CoV-2 AND&#xD;
+&#xD;
+                    -  respiratory tract infection AND&#xD;
+&#xD;
+                    -  absence of a more likely cause of disease, in particular other chronic lung&#xD;
+                       diseases AND&#xD;
+&#xD;
+                    -  attempt of pathogen identification from respiratory material with at least&#xD;
+                       culture and influenza test&#xD;
+&#xD;
+          3. The baseline visit needs to be performed a maximum of 7 days (168h) after sampling and&#xD;
+             4 days (96h) after the case definition is available.&#xD;
+&#xD;
+          4. Signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Age &lt;18 years&#xD;
+&#xD;
+          2. Paediatric patients will not be included at the beginning of the study (amendment in&#xD;
+             preparation).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jörg J Vehreschild, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johann Wolfgang Goethe-Universität Frankfurt am Main</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jörg J Vehreschild, Prof.</last_name>
+    <phone>+49 221 478-88794</phone>
+    <email>Janne.Vehreschild@kgu.de</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>RWTH Aachen</name>
+      <address>
+        <city>Aachen</city>
+        <zip>52074</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Augsburg</name>
+      <address>
+        <city>Augsburg</city>
+        <zip>86156</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Charité Berlin</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10117</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Bielefeld</name>
+      <address>
+        <city>Bielefeld</city>
+        <zip>33604</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Ruhr-University Bochum</name>
+      <address>
+        <city>Bochum</city>
+        <zip>44801</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Bonn</name>
+      <address>
+        <city>Bonn</city>
+        <zip>53127</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Cologne</name>
+      <address>
+        <city>Cologne</city>
+        <zip>50937</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Carl Gustav Carus Dresden</name>
+      <address>
+        <city>Dresden</city>
+        <zip>01307</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Dusseldorf</name>
+      <address>
+        <city>Dusseldorf</city>
+        <zip>40225</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Erlangen</name>
+      <address>
+        <city>Erlangen</city>
+        <zip>91054</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Essen</name>
+      <address>
+        <city>Essen</city>
+        <zip>45147</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Johann Wolfgang Goethe University</name>
+      <address>
+        <city>Frankfurt am Main</city>
+        <zip>60590</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Freiburg</name>
+      <address>
+        <city>Freiburg</city>
+        <zip>79106</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Greifswald</name>
+      <address>
+        <city>Greifswald</city>
+        <zip>17475</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Göttingen</name>
+      <address>
+        <city>Göttingen</city>
+        <zip>37075</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Halle</name>
+      <address>
+        <city>Halle/Saale</city>
+        <zip>06097</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Hamburg-Eppendorf</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>20251</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital MMH Hannover</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Heidelberg</name>
+      <address>
+        <city>Heidelberg</city>
+        <zip>69120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital UKS Homburg</name>
+      <address>
+        <city>Homburg</city>
+        <zip>66421</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Jena</name>
+      <address>
+        <city>Jena</city>
+        <zip>07740</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital UKSH Schleswig-Holstein</name>
+      <address>
+        <city>Kiel</city>
+        <zip>24105</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Leipzig</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>04103</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital UKSH Schleswig-Holstein</name>
+      <address>
+        <city>Lübeck</city>
+        <zip>23538</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Mannheim</name>
+      <address>
+        <city>Mannheim</city>
+        <zip>68167</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Giessen/Marburg</name>
+      <address>
+        <city>Marburg</city>
+        <zip>35043</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital LMU Munich</name>
+      <address>
+        <city>Munich</city>
+        <zip>80336</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital TUM Munich</name>
+      <address>
+        <city>Munich</city>
+        <zip>81664</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Münster</name>
+      <address>
+        <city>Münster</city>
+        <zip>48149</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Oldenburg</name>
+      <address>
+        <city>Oldenburg</city>
+        <zip>26133</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Regensburg</name>
+      <address>
+        <city>Regensburg</city>
+        <zip>93053</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Tübingen</name>
+      <address>
+        <city>Tübingen</city>
+        <zip>72106</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Ulm</name>
+      <address>
+        <city>Ulm</city>
+        <zip>89070</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Würzburg</name>
+      <address>
+        <city>Würzburg</city>
+        <zip>97080</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <link>
+    <url>https://napkon.de/</url>
+    <description>More information on the study and the cross-sectoral platform is provided on the National Pandemic Cohort Network (NAPKON) website.</description>
+  </link>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 24, 2021</study_first_posted>
+  <last_update_submitted>February 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Goethe University</investigator_affiliation>
+    <investigator_full_name>Janne Vehreschild</investigator_full_name>
+    <investigator_title>Prof. Dr. med</investigator_title>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Cohort</keyword>
+  <keyword>NAPKON</keyword>
+  <keyword>NAPKON-SÜP</keyword>
+  <keyword>Quality of life</keyword>
+  <keyword>longterm morbidity</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Please see use and access conditions according to www.napkon.de</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

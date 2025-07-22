@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="690">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04766294</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Soh-Med-21-02-20</org_study_id>
+    <nct_id>NCT04766294</nct_id>
+  </id_info>
+  <brief_title>Macrophage Activation Markers in COVID-19 Patients</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>Is the Severity of COVID-19 in Obese and Diabetic Patients Linked to High Serum Levels of MMP-7, MMP-9, TGF-β and PDGF Macrophage Activation Markers?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sohag University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sohag University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is aiming to find the relation between the severity of COVID-19 in diabetic and&#xD;
+      obese patients and the high serum levels of matrix metalloproteinase-7 (MMP-7),matrix&#xD;
+      metalloproteinase-9 (MMP-9), TGF-β and PDGF Macrophage Activation Markers&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Acute respiratory distress syndrome (ARDS) commonly occurs in COVID-19 patients who are&#xD;
+      diabetic and obese, ARDS is characterized by inflammation and pulmonary fibrosis mediated by&#xD;
+      cytokines and biomarkers released from activated alveolar macrophages, also cytokine storm&#xD;
+      may occurs leading to multiple organ failure. These sequelae of COVID-19 disease in obese and&#xD;
+      diabetic patients are attributed to elevated plasma lipopolysaccharide which is the main&#xD;
+      activator of M1 and M2 macrophages. chronic activation of macrophages leads to production of&#xD;
+      profibrotic markers as transforming growth factor-β (TGF-β), platelet-derived growth factor&#xD;
+      (PDGF), matrix metalloproteinase-7 (MMP7) and matrix metalloproteinase-9 (MMP9) which promote&#xD;
+      fibrogenesis. In this research, we measure circulatory alveolar macrophage activation markers&#xD;
+      in COVID-19 obese patients with type 1 and type 2 diabetes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 25, 2020</start_date>
+  <completion_date type="Anticipated">April 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 15, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Measurement of matrix metalloproteinase-7 &quot;MMP-7&quot; serum level (pg/ml) as a biomarker of macrophage activation</measure>
+    <time_frame>MMP-7 is measured after admission of patients to isolation hospital along 7 days interval for 21 days, 3 plasma samples are collected on the 7th day of admission, day 14 and day 21</time_frame>
+    <description>ELISA &quot;Enzyme linked immunosorbent assay&quot; technique.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of matrix metalloproteinase-9 &quot;MMP-9&quot; serum level (pg/L) as a biomarker of macrophage activation</measure>
+    <time_frame>MMP-9 is measured after admission of patients to isolation hospital along 7 days interval for 21 days, 3 plasma samples are collected on the 7th day of admission, day 14 and day 21</time_frame>
+    <description>ELISA &quot;Enzyme linked immunosorbent assay&quot; technique.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of transforming growth factor B &quot;TGF-B&quot; serum level ( pg/ml) as a biomarker of macrophage activation</measure>
+    <time_frame>TGF-B is measured after admission of patients to isolation hospital along 7 days interval for 21 days, 3 plasma samples are collected on the 7th day of admission, day 14 and day 21</time_frame>
+    <description>ELISA &quot;Enzyme linked immunosorbent assay&quot; technique.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of platelet derived growth factor &quot;PDGF&quot; serum level (ng/ml) as a biomarker of macrophage activation</measure>
+    <time_frame>PDGF is measured after admission of patients to isolation hospital along 7 days interval for 21 days, 3 plasma samples are collected on the 7th day of admission, day 14 and day 21</time_frame>
+    <description>ELISA &quot;Enzyme linked immunosorbent assay&quot; technique.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>COVID-19</condition>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        COVID-19 patients admitted to isolation hospital in Sohag &quot;Sohag teaching hospital&quot;.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Overweight patients with body mass index higher than 25 and obese patients with body&#xD;
+             mass index higher than 30 were selected to be included&#xD;
+&#xD;
+          -  Type one and type two diabetes mellitus patients were also included&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nahed Fathallah, lecturer</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sohag University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nahed Fathallah, lecturer</last_name>
+    <phone>01142283865</phone>
+    <email>nanafahmy_783@yahoo.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Asmaa Nasr-Eldin, A.professor</last_name>
+    <phone>+201028090703</phone>
+    <email>asmaanasreldin81@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Faculty of medicine - sohag university</name>
+      <address>
+        <city>Sohag</city>
+        <zip>82524</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hassan Elnoamany, Professor</last_name>
+      <phone>+201142283865</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Mona Fattouh, Professor</last_name>
+      <phone>+201009222054</phone>
+      <email>monarahman2002@yahoo.co.uk</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Asmaa Nasr-Eldin, A.professor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 23, 2021</study_first_posted>
+  <last_update_submitted>February 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sohag University</investigator_affiliation>
+    <investigator_full_name>Nahed Fathallah Fahmy</investigator_full_name>
+    <investigator_title>lecturer of Medical Microbiology &amp; Immunology department -Faculty of medicine- Sohag university</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

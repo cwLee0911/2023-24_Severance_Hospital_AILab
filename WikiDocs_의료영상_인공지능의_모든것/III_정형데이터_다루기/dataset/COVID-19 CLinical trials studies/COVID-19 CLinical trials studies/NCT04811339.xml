@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1536">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04811339</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SABER-C 20.0636</org_study_id>
+    <nct_id>NCT04811339</nct_id>
+  </id_info>
+  <brief_title>Studies of COVID-19 Patients Treated With Oral Bismuth Subsalicylate (Pepto-Bismol)</brief_title>
+  <acronym>SABER-C</acronym>
+  <official_title>Pilot and Randomized, Controlled Studies to Assess Stool Frequency of COVID + Patients Treated With Oral Bismuth Subsalicylate (Pepto-Bismol): SABER-C and Lite-SABER-C (Specific Administration of Bismuth for Early Recovery of COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Louisville</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Procter and Gamble</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Louisville</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The CDC and WHO have deemed the COVID-19 virus a global pandemic of unprecedented severity in&#xD;
+      modern times. In 2019, this novel Coronavirus (COVID-19) emerged from the Asian continent and&#xD;
+      has now caused upwards of 1million deaths and over 6 million infections globally. Currently,&#xD;
+      the estimated global economic impact is over 5 Trillion dollars. Understanding the host&#xD;
+      response to pathogens, specifically the cellular and humoral responses, has played an&#xD;
+      important role in new non-antibiotic therapies. Bismuth subsalicylate (Pepto-Bismol) has a&#xD;
+      potential role in the clearance and/or recurrence of enteric viral infections.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Readily available over-the-counter (OTC) medication for symptomatic relief and appropriate&#xD;
+      oral hydration can be health saving measures of great convenience for those affected by&#xD;
+      enteric bacterial and viral infections. BSS is a non-proprietary monograph product that is&#xD;
+      available in the USA and abroad, over-the-counter (OTC). Of all OTC medications for&#xD;
+      traveller's diarrhea (TD), bismuth subsalicylate (BSS) has the greatest antimicrobial&#xD;
+      activity against pathogenic bacteria .BSS has also exhibited significant inhibition on viral&#xD;
+      invasion of host cells and viral efficacy. Both BSS and bismuth oxychloride (BiOCl, which is&#xD;
+      formed in the stomach after ingestion of BSS) at low concentration (0.004-0.13mg/mL)&#xD;
+      significantly reduced NoV RNA levels, suggesting an in vivo antiviral mechanism. BSS has also&#xD;
+      been shown to have antiviral activity since it inhibited replication of 4 strains of&#xD;
+      rotavirus in tissue culture cells and caused a dose-dependent reduction in the growth of&#xD;
+      several enteric viruses.&#xD;
+&#xD;
+      Historically, BSS has been indicated and effectively used for the treatment of TD or enteric&#xD;
+      infection, mainly when vomiting occurs. Although the safety and efficacy of BSS is well&#xD;
+      known, some of the research done with BSS resides within the industry and have not been&#xD;
+      published. We have recently completed an extensive meta-analysis using unpublished clinical&#xD;
+      studies regarding BSS safety and efficacy. Meta-analyses of randomized controlled clinical&#xD;
+      trials were performed with studies specifically designed to capture prevention of&#xD;
+      manifestation and relief of diarrhea.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 2, 2020</start_date>
+  <completion_date type="Anticipated">August 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Open label trial of Bismuth subsalicylate (10 patients) followed by placebo controlled study (25 patients) for mild to moderate COVID-19+ patients.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Member of research team not involved in patient care.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Measure of daily stool frequency for patients with COVID treated with Bismuth</measure>
+    <time_frame>3 or 5 days, with follow-up dates to be determined</time_frame>
+    <description>Number of bowel movements per day.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Detection of salivary COVID virus by PCR, to measure time in days to clearance. COVID testing and bacterial microbiota response</measure>
+    <time_frame>Daily for 3 or 5 days, with follow up dates to be determined.</time_frame>
+    <description>Daily assessment for COVID-19 by PCR.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">35</enrollment>
+  <condition>Diarrhea</condition>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>BSS&amp;PBO</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients will be assigned to the treatment group for the first 10 patients treated with open label BSS.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SOC control group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The Subsequent 25 patients will be randomized to either placebo or BSS. The patients will be assigned by envelope containing a symbol for either active drug or placebo (or other suitable randomization event) by a member of the research team not directly involved in the clinical trial.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>open label BSS (pepto Bismol)</intervention_name>
+    <description>Pepto bismol (bismuth subsalicylate)</description>
+    <arm_group_label>BSS&amp;PBO</arm_group_label>
+    <arm_group_label>SOC control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        To be eligible to participate in the study, patients must meet the following criteria:&#xD;
+        Ability to provide written or remote informed consent (telephone and DocuSign) Ability to&#xD;
+        comply with study requirements, Men or women 18 to 85 years of age, inclusive Current&#xD;
+        diagnosis of an initial occurrence of non-severe, non-complicated COV+ infection as defined&#xD;
+        by:&#xD;
+&#xD;
+          -  Presence COVID-19 in the saliva using POC QRT- PCR assay..&#xD;
+&#xD;
+          -  Management in an outpatient (i.e., non-hospital) or inpatient setting NOT on a&#xD;
+             ventilator.&#xD;
+&#xD;
+          -  Alert and awake&#xD;
+&#xD;
+          -  Able to chew the study drug completely.&#xD;
+&#xD;
+          -  Women should fulfill one of the following criteria:&#xD;
+&#xD;
+          -  Answer in the affirmative that &quot;they are not or could not be pregnant&quot;&#xD;
+&#xD;
+          -  Post-menopausal; either amenorrhea ≥12 months or follicle stimulating hormone &gt;20&#xD;
+             mIU/mL&#xD;
+&#xD;
+          -  Surgically sterile; hysterectomy, bilateral oophorectomy, or tubal ligation.&#xD;
+&#xD;
+          -  Women of childbearing potential participating in heterosexual sexual relations must be&#xD;
+             willing to use adequate contraception from Screening through the 21 Day visit, per&#xD;
+             Section 10.2.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients with any of the following will be excluded from admission into the study:&#xD;
+&#xD;
+          -  Existence of an intra-abdominal abscess, enteric fistula, or symptomatic bowel&#xD;
+             obstruction&#xD;
+&#xD;
+          -  History of allergy to salicylates.&#xD;
+&#xD;
+          -  History of short gut syndrome, active ulcer or recent history of GI bleeding or&#xD;
+             melena.&#xD;
+&#xD;
+          -  Systemic chemotherapy for the treatment of cancer during the 60 days prior to consent&#xD;
+             or planned during the study&#xD;
+&#xD;
+          -  Active use of remdisivir.&#xD;
+&#xD;
+          -  vaccination for COVID within 30 days.&#xD;
+&#xD;
+          -  Current use of drugs that control diarrhea or affect peristalsis (e.g., loperamide.&#xD;
+             Opiates can be used in hospitalized patients and with outpatients if they are&#xD;
+             prescribed to a patient), or any anticipated use during the study&#xD;
+&#xD;
+          -  Active drug, chemical, or alcohol dependency as determined by Investigator through&#xD;
+             history or urine toxicology screen&#xD;
+&#xD;
+          -  Enrollment in any other investigational drug or device study known to interfere with&#xD;
+             Pepto bismol (bismuth subsalicylate) within the GI tract, within 30 days prior to&#xD;
+             Randomization (Day 1) or within 5 half-lives of the last dose of the previous&#xD;
+             investigational compound, whichever is longer. Vaccines are not exclusionary as they&#xD;
+             do not interfere with the mechanism of the study drug.&#xD;
+&#xD;
+          -  Severe acute illness unrelated to COVID-19&#xD;
+&#xD;
+          -  Pregnant, breast-feeding, or considering becoming pregnant during the study&#xD;
+&#xD;
+          -  Planned hospitalization or surgery during the study&#xD;
+&#xD;
+          -  Any medical, psychiatric, social, or other circumstances that may interfere with study&#xD;
+             compliance, completion, or accurate assessment of study outcomes&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Bruce Yacyshyn, MD</last_name>
+    <phone>502-852-6991</phone>
+    <email>Bruce.Yacyshyn@louisville.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>James T Collins-Co-PI, PhD</last_name>
+    <phone>502-852-3741</phone>
+    <email>James.Collins.1@louisville.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Louisville</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bruce Yacyshyn, MD</last_name>
+      <phone>502-852-6991</phone>
+      <email>bruce.yacyshyn@louisville.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Bruce Yacyshyn, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 23, 2021</study_first_posted>
+  <last_update_submitted>March 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Louisville</investigator_affiliation>
+    <investigator_full_name>Bruce Yacyshyn</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diarrhea</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bismuth subsalicylate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

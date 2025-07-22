@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1865">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04799743</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HKCOVID19Resveratrol</org_study_id>
+    <nct_id>NCT04799743</nct_id>
+  </id_info>
+  <brief_title>The Anti-fibrotic Therapeutic Effects of Resveratrol for Discharged COVID-19 Patients</brief_title>
+  <acronym>HKCOVID19Res</acronym>
+  <official_title>A Pilot Randomized Controlled Clinical Study of Resveratrol for Discharged COVID 19 Patients in Order to Evaluate Its Therapeutic Effects Against Fibrosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hong Kong Baptist University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital Authority, Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hong Kong Baptist University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A randomized controlled trial (RCT) will be conducted to evaluate the anti-fibrotic&#xD;
+      therapeutic effects of resveratrol on the clinical symptoms in discharged COVID-19 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The proposed study will be a randomized controlled trial (RCT) to evaluate the anti-fibrotic&#xD;
+      therapeutic effects of resveratrol on the clinical symptoms in discharged COVID-19 patients.&#xD;
+      The target population will be post-discharge patients recovering from COVID-19. Eligible&#xD;
+      participants will be recruited from the ongoing special Chinese Medicine program for&#xD;
+      discharged patients collaborated with Hong Kong Hospital Authority. Thirty (30) participants&#xD;
+      will be randomly assigned to resveratrol group and placebo group with 1:1 ratio. The&#xD;
+      participants will receive six months of treatment (1 g, orally and once daily) and three&#xD;
+      months of follow-up. The total duration of the clinical study is 9 months. The study protocol&#xD;
+      will be submitted to the Ethics Committee for review and approval. Participants will be&#xD;
+      enrolled and signed written informed consent.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">May 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, Double-Blind, Placebo-Controlled Parallel Group Clinical Trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The participants will be randomly assigned to resveratrol group and placebo group with 1:1 ratio. Block randomization with block size of 6 will be carried out in 1:1 ratio according to the sequence generated with Random Allocation Software (Version 2.0.0), Isfahan, Iran. Treatments will be assigned according to the codes which are kept in opaque sealed envelopes with consecutive randomization numbers. Treatment assignments will not be revealed and blinded to patients and PI (outcome assessor) until the whole study is completed.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The handheld basic spirometry</measure>
+    <time_frame>9 months</time_frame>
+    <description>Lung function will be assessed by the handheld basic spirometry (forced expiratory volume, FEV and forced vital capacity, FVC). FEV is the parameter to measure how much air the participants can force from their lungs in one second. Lower FEV-1 readings indicate more significant obstruction. FVC is the largest amount of air that the participants can forcefully exhale after breathing in as deeply as they can. A lower than normal FVC reading indicates restricted breathing. The participants will be trained to check these measurements at home and record the data in the patient diary.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PRO scores</measure>
+    <time_frame>9 months</time_frame>
+    <description>All the symptoms will be measured by PRO scores according to the clinical symptoms of COVID-19 rehabilitation patients. The scores will be ranged from 0-4: &quot;0&quot; indicates none; &quot;1&quot; indicates mild; &quot;2&quot; indicates moderate; &quot;3&quot; indicates moderately severe; and '4&quot; indicates severe.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Borg Category-Ratio 0-10 Scale</measure>
+    <time_frame>9 months</time_frame>
+    <description>We will also use Borg Category-Ratio 0-10 Scale (Borg CR10 Scale) to measure dyspnea as recommended by the American College of Sports Medicine (ACSM) guidelines for patients with pulmonary diseases (Asha et al., 2012). The Borg Category Ratio 10 (CR10) Scale® (Borg Dyspnea Scale), will be used to rate the patients' dyspnea and overall fatigue level.&#xD;
+Scale:&#xD;
+0=Rest; 0.5=Really Really Easy; 1=Really Easy; 2=Easy; 3=Moderate; 4=Sort of Hard; 5,6=Hard; 7,8,9=Really Hard; 10=Maximal</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Lung Function Questionnaire with 6-min walk-test</measure>
+    <time_frame>9 months</time_frame>
+    <description>Lung Function Questionnaire is a simple, brief, self-administered instrument to identify patients appropriate for lung function evaluation by 5 items about the breathing problems and/or frequent cough. It was validated in Chinese and widely used in primary care (Hanania et al., 2010).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the World Health Organization Quality of Life Brief Assessment [WHOQOL-BREF (HK)]</measure>
+    <time_frame>9 months</time_frame>
+    <description>WHOQOL-BREF (HK) (Leung, K F., et al., 2005) was validated in Hong Kong and widely use in academia and clinicians since 1997. This is a 5-point Likert scale with a total of 28 Questions to identify the perceived QOL of the participants. There are four domains namely Physical Health, Psychological, Social and Environment domains with a maximum of 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Body constitution questionnaires</measure>
+    <time_frame>9 months</time_frame>
+    <description>In 2009, the classification of body constitutions into nine specific types has been recognized by China Association of Chinese Medicine as the standard of body constitution (China Association of Chinese Medicine, 2009). Our research team also validated this questionnaire in Cantonese. The related version of questionnaire will be applied in this study. It is a self-rating scale with good reliability and validity. It contains nine subscales: gentleness, qi-deficiency, yang-deficiency, yin-deficiency, phlegm-dampness, dampness-heat, blood-stasis, qi-depression, and special diathesis. Score of each subscale is standardized from 0 to 100. Gentleness type is a balanced one with higher score indicating a better constitution status, while the other eight types are pathological types with higher score indicating worse constitution status.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>Resveratrol group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Resveratrol group (treatment group) will be instructed to consume with capsules (1.0 g, orally once a day) for six months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo group (control group) will be instructed to orally take placebo (edible paraffin, 1.0) once a day.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Resveratrol</intervention_name>
+    <description>Resveratrol has been used as a food supplement. Its antiviral properties have been well studied including its inhibitory effect against the coronavirus MERS-CoV. Our previous in vitro and in vivo studies found that the compound had other health benefits such as anti-fibrotic effect.The anti-fibrotic effect will add an extra benefit for resveratrol to fight against COVID-19 as lungs are the most affected organs by the coronavirus, which may result in prolonged fibrotic damage of the lungs even when a patient is recovered from the COVID-19 disease.</description>
+    <arm_group_label>Resveratrol group</arm_group_label>
+    <other_name>Resveratrol Capsule</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo capsules</intervention_name>
+    <description>The placebo consist of mainly starch and microcrystalline cellulose, the usage and dosage are the same as the investigational drug.</description>
+    <arm_group_label>Placebo group</arm_group_label>
+    <other_name>Study drug</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants will be the patients aged 18-65 years old who have been previously&#xD;
+             diagnosed to be infected with COVID-19 and discharged from local hospitals after&#xD;
+             treatment with western medicines, and with negative results from COVID-19 virus&#xD;
+             detection. The subjects will be evaluated for potential pulmonary fibrosis and those&#xD;
+             who present with the condition resulting from COVID-19 infection will be included.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants will be excluded if they have one or more of the followings: 1) inability&#xD;
+             to communicate (e.g. cognitive impairment); 2) history of Chinese medicine allergies;&#xD;
+             3) incompetent in giving consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bian Zhaoxiang, MD.,PH.D</last_name>
+    <role>Study Director</role>
+    <affiliation>Hong Kong Chinese Medicine Clinical Study Centre</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zhong Linda, MD.,PH.D</last_name>
+    <phone>852-34116523</phone>
+    <email>ldzhong0305@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Linda Zhong</name>
+      <address>
+        <city>Kowloon Tong</city>
+        <state>Kowloon</state>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 16, 2021</study_first_posted>
+  <last_update_submitted>March 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hong Kong Baptist University</investigator_affiliation>
+    <investigator_full_name>Zhong Lidan</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>rehabilitation</keyword>
+  <keyword>Chinese medicine</keyword>
+  <keyword>randomized controlled trial</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Resveratrol</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

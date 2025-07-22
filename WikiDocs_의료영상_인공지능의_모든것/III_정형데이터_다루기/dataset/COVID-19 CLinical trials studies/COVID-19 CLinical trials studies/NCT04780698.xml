@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="101">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04780698</url>
+  </required_header>
+  <id_info>
+    <org_study_id>27042</org_study_id>
+    <nct_id>NCT04780698</nct_id>
+  </id_info>
+  <brief_title>DCI COVID-19 Surveillance Project</brief_title>
+  <official_title>DCI COVID-19 Surveillance Project</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Temple University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Dialysis Clinic, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Temple University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective longitudinal census study conducted at a single center (DCI Inc., Henry&#xD;
+      Avenue, Philadelphia). The purpose of this study is to gain information about COVID-19&#xD;
+      infection and antibody response in an in-center dialysis population. The investigators&#xD;
+      hypothesize that screening and surveillance for COVID-19 positive test (viral infection) and&#xD;
+      antibodies response to infection (potential immunity) in a dialysis center population within&#xD;
+      a high-prevalence region can provide foundational information to guide approaches toward&#xD;
+      prevention of COVID-19 related illness in a susceptible population. Participants will be&#xD;
+      given a questionnaire initially and monthly over the study period to find out whether they&#xD;
+      have had COVID-19 infection, hospitalization, or symptoms. A nasopharyngeal swab test for&#xD;
+      COVID-19 infection and a blood sample for COVID-19 antibody will be collected monthly for the&#xD;
+      study period.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of COVID-19 infection in the cohort</measure>
+    <time_frame>monthly through study completion (average of 6 months)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Link the presence of COVID-19 infection to COVID-19 antibody formation (seroconversion) from quantitative and qualitative testing</measure>
+    <time_frame>monthly through study completion (average of 6 months)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of COVID-19 reinfection</measure>
+    <time_frame>monthly through study completion (average of 6 months)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Presence of antibodies in cases of reinfection</measure>
+    <time_frame>monthly through study completion (average of 6 months)</time_frame>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Study Cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>SARS-CoV-2 RT-PCR Assay for Detection of COVID-19 Infection</intervention_name>
+    <description>COVID-19 infection and antibody testing</description>
+    <arm_group_label>Study Cohort</arm_group_label>
+    <other_name>Beckman Coulter Access SARS-CoV-2 IgG Antibody Test</other_name>
+    <other_name>Mount Sinai COVID-19 ELISA IgG Antibody Test</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients who receive in-center chronic dialysis (&gt;3 months) at DCI Henry Avenue&#xD;
+&#xD;
+          -  Patients who are able to consent for study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients receiving transient hemodialysis at DCI or receiving hemodialysis for Acute&#xD;
+             Renal Failure&#xD;
+&#xD;
+          -  Patients who are unable to consent&#xD;
+&#xD;
+          -  Patients who are receiving other forms of dialysis therapy (e.g. home hemodialysis,&#xD;
+             peritoneal dialysis)&#xD;
+&#xD;
+          -  Patients whose life expectancy is &lt;12 months&#xD;
+&#xD;
+          -  Patients who are planning to leave the dialysis center within 12 months&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Crystal A Gadegbeku, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Temple University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sally B Quinn, RN, MSN</last_name>
+    <phone>215-707-7576</phone>
+    <email>Sally.Quinn@tuhs.temple.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jean Lee, MD</last_name>
+    <phone>215-707-0744</phone>
+    <email>jean.lee@tuhs.temple.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Dialysis Clinic, Inc.</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19129</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>March 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Immunoglobulins</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

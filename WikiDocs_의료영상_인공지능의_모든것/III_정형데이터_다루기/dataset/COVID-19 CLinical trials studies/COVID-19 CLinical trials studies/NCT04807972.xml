@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5732">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04807972</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M20-732</org_study_id>
+    <secondary_id>2020-005767-31</secondary_id>
+    <nct_id>NCT04807972</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate Adverse Events and Change in Disease Activity When Intravenous (IV) Infusion of ABBV-927 is Administered in Combination With IV Modified FOLFIRINOX (mFFX) With or Without IV Budigalimab Compared to mFFX in Adult Participants With Untreated Pancreatic Cancer Metastasis</brief_title>
+  <official_title>A Phase 1b/2, Randomized, Controlled, Open-Label Study Evaluating the Safety and Efficacy of ABBV-927 Administered in Combination With Modified FOLFIRINOX (mFFX) With or Without Budigalimab Compared to mFFX in Subjects With Untreated Metastatic Pancreatic Adenocarcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AbbVie</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Metastatic Pancreatic Cancer Disease is one of the most aggressive and deadliest forms of&#xD;
+      cancer with very poor survival. This study will evaluate adverse events and change in disease&#xD;
+      activity in participants 18 to 75 years of age with a body weight greater than or equal to 35&#xD;
+      kg with Metastatic Pancreatic Cancer Disease treated with Intravenous (IV) infusion of&#xD;
+      modified FOLFIRINOX (mFFX) combined with IV infusions of ABBV-927 with or without&#xD;
+      Budigalimab.&#xD;
+&#xD;
+      ABBV-927 and Budigalimab are the investigational drugs being developed for treatment of&#xD;
+      Metastatic Pancreatic Cancer Disease. In this study, doctors will enroll participants between&#xD;
+      18 and 75 years of age with a body weight greater than or equal to 35 kg diagnosed diagnosed&#xD;
+      with Metastatic Pancreatic Cancer Disease in 4 different groups, called treatment arms. Each&#xD;
+      group will receive different treatments. Approximately 129 adult participants will be&#xD;
+      enrolled in the study across approximately 27 sites worldwide.&#xD;
+&#xD;
+      Participants will receive ABBV-927 and Budigalimab as Intravenous (IV) Infusion in Phase 1b&#xD;
+      and Phase 2 on day 3 of every 28 day cycle, modified FOLFIRINOX as IV Infusion in Phase 1b&#xD;
+      and Phase 2 on Day1 and Day 15 of every 28 day cycle up to maximum of 2 years.&#xD;
+&#xD;
+      There may be higher treatment burden for participants in this trial compared to their&#xD;
+      standard of care. Participants will attend regular visits during the study at a hospital or&#xD;
+      clinic. The effect of the treatment will be checked by medical assessments, blood tests,&#xD;
+      checking for side effects and completing questionnaires.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 13, 2021</start_date>
+  <completion_date type="Anticipated">October 15, 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 15, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase 1b: Percentage of participants experiencing Adverse Events</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <description>An adverse event (AE) is defined as any untoward medical occurrence in a patient or clinical investigation participant administered a pharmaceutical product and which does not necessarily have a causal relationship with this treatment. The investigator assesses the relationship of each event to the use of study drug as either probably related, possibly related, probably not related or not related.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 1b: Number of Participants with Potentially Clinically Significant (PCS) Laboratory (Hematological and Chemistry) Values</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <description>Baseline values and changes from baseline will be summarized for each scheduled post-baseline visit for laboratory data as applicable. If more than one measurement exists for a participant on a particular day and time, an arithmetic average will be calculated. This average will be that participant's measurement for that day. For participants that do not have any post-baseline measurements, only their baseline values will be summarized.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 1b: Number of Participants with Potentially Clinically Significant (PCS) Vital Signs</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <description>Baseline values and changes from baseline will be summarized for each scheduled post-baseline visit for vital signs data.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 1b: Number of Participants with Dose Limiting Toxicities (DLT)</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <description>A DLT is defined as any serious AE for which a clear alternative cause cannot be established (e.g., attributed to the disease under study, another disease, or to a concomitant medication [e.g., COVID-19 vaccine] by the investigator or AbbVie Therapeutic Area (TA) MD) that occurs during the DLT observation period, and is not listed as a predefined exception in the protocol.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 2: Overall Survival</measure>
+    <time_frame>48 months.</time_frame>
+    <description>Overall survival is defined as the time between the date of randomization and death due to any cause.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Maximum Plasma Concentration (Cmax)</measure>
+    <time_frame>Up to approximately 3 months</time_frame>
+    <description>The maximum plasma concentration (Cmax; measured in ng/mL) is the highest concentration that a drug achieves in the blood after administration in a dosing interval.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Time to Maximum Observed Plasma Concentration (Tmax)</measure>
+    <time_frame>Up to approximately 3 months</time_frame>
+    <description>The time to maximum plasma concentration (Tmax; measured in hours) is the time it takes for a drug to achieve Cmax.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Area Under the Concentration-time Curve Over the Time Interval (AUC) in Plasma</measure>
+    <time_frame>Up to approximately 3 months.</time_frame>
+    <description>The area under the plasma concentration-time curve (AUC; measured in ng*hr/mL) is a method of measurement of the total exposure of a drug in blood plasma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Objective Response Rate (ORR)</measure>
+    <time_frame>Up to approximately 27 months</time_frame>
+    <description>ORR is defined as the percentage of participants whose best overall response is either complete response (CR) or partial response (PR) per investigator assessment according to RECIST version 1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Clinical Benefit Rate (CBR)</measure>
+    <time_frame>Up to approximately 27 months</time_frame>
+    <description>Clinical Benefit Rate (CBR) is defined as the percentage of participants whose best overall response is either Complete Response (CR), Partial Response (PR), or stable disease (SD) according to RECIST version 1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Duration of Response (DOR) for Participants Who Achieve a Documented Confirmed Response of CR/PR</measure>
+    <time_frame>Up to approximately 27 months</time_frame>
+    <description>DOR is defined as the time from the initial response of CR/PR per investigator review according to RECIST version 1.1 criteria to the first occurrence of radiographic disease progression, clinical progression or death from any cause whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Progression Free Survival (PFS)</measure>
+    <time_frame>Up to approximately 24 months after study drug discontinuation</time_frame>
+    <description>PFS is defined as the time from randomization to a documented radiographic disease progression according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1, clinical progression or death from any cause, whichever occurs earlier.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b and Phase 2: Quality of Life(QoL)-Measure Participant Overall Perceptions of Their Change in Pancreatic Cancer Symptoms includes the Patient Global Impression of Severity (PGIS) and the the Patient Global Impression of Change (PGIC)</measure>
+    <time_frame>Up to approximately 25 months</time_frame>
+    <description>Patient Global Impression of Severity (PGIS) and Patient Global Impression of Change (PGIC) will measure participants' overall perceptions of their pancreatic cancer symptoms over time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2: Percentage of Participants Experiencing Adverse Events</measure>
+    <time_frame>Up to approximately 27 months.</time_frame>
+    <description>An adverse event (AE) is defined as any untoward medical occurrence in a participant or clinical investigation participant administered a pharmaceutical product and which does not necessarily have a causal relationship with this treatment.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">129</enrollment>
+  <condition>Pancreatic Cancer</condition>
+  <arm_group>
+    <arm_group_label>Phase 1b Dose Escalation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive escalating doses of ABBV-927 in combination with modified FOLFIRINOX (mFFX) and Budigalimab.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2 Cohort A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive modified FOLFIRINOX on Day 1 and Day 15 of each 28 day cycle.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2 Cohort B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive modified FOLFIRINOX (Day 1 and Day 15) + ABBV-927 in each 28 day cycle.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2 Cohort C Expansion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive modified FOLFIRINOX (Day 1 and Day 15) + ABBV 927 and Budigalimab as Intravenous (IV) Infusion in each 28 day cycle.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ABBV-927</intervention_name>
+    <description>Intravenous (IV) Infusion</description>
+    <arm_group_label>Phase 1b Dose Escalation</arm_group_label>
+    <arm_group_label>Phase 2 Cohort B</arm_group_label>
+    <arm_group_label>Phase 2 Cohort C Expansion</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Budigalimab</intervention_name>
+    <description>Intravenous (IV) Infusion</description>
+    <arm_group_label>Phase 1b Dose Escalation</arm_group_label>
+    <arm_group_label>Phase 2 Cohort C Expansion</arm_group_label>
+    <other_name>ABBV-181</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>modified FOLFIRINOX</intervention_name>
+    <description>Intravenous (IV) Infusion</description>
+    <arm_group_label>Phase 1b Dose Escalation</arm_group_label>
+    <arm_group_label>Phase 2 Cohort A</arm_group_label>
+    <arm_group_label>Phase 2 Cohort B</arm_group_label>
+    <arm_group_label>Phase 2 Cohort C Expansion</arm_group_label>
+    <other_name>mFFX</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Body weight &gt;= 35 kg.&#xD;
+&#xD;
+          -  Histologically or cytologically confirmed diagnosis of pancreatic adenocarcinoma with&#xD;
+             metastatic disease.&#xD;
+&#xD;
+          -  Measurable disease per Response Evaluation Criteria for Solid Tumors Version 1.1&#xD;
+             (RECIST v1.1).&#xD;
+&#xD;
+          -  Prior history of or clinically stable concurrent malignancy are eligible for&#xD;
+             enrollment provided the malignancy is clinically insignificant, no treatment is&#xD;
+             required, and the participant is clinically stable.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants with locally advanced disease.&#xD;
+&#xD;
+          -  Participants with neuroendocrine (carcinoid, islet cell) or acinar pancreatic&#xD;
+             carcinoma.&#xD;
+&#xD;
+          -  Prior radiotherapy, surgery, or systemic anti-cancer therapy for the treatment of&#xD;
+             metastatic pancreatic adenocarcinoma.&#xD;
+&#xD;
+          -  Prior radiotherapy, surgery, or systemic anti-cancer therapy in the adjuvant setting,&#xD;
+             or earlier, within the last 4 months.&#xD;
+&#xD;
+          -  Prior radiotherapy to any measurable metastatic lesion at any time.&#xD;
+&#xD;
+          -  Clinically significant third-space fluid accumulation (e.g., ascites or pleural&#xD;
+             effusion).&#xD;
+&#xD;
+          -  Known metastases to the central nervous system (CNS).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>AbbVie Inc.</last_name>
+    <role>Study Director</role>
+    <affiliation>AbbVie</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ABBVIE CALL CENTER</last_name>
+    <phone>844-663-3742</phone>
+    <email>abbvieclinicaltrials@abbvie.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Yale University, Yale Cancer Center /ID# 227685</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510-3206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University /ID# 226713</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ Hosp Cleveland /ID# 226807</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pan American Center for Oncology Trials, LLC /ID# 228210</name>
+      <address>
+        <city>Rio Piedras</city>
+        <zip>00935</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 19, 2021</study_first_posted>
+  <last_update_submitted>March 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Metastatic Pancreatic Cancer Disease</keyword>
+  <keyword>ABBV-927</keyword>
+  <keyword>Modified Folfirinox (mFFX)</keyword>
+  <keyword>Budigalimab</keyword>
+  <keyword>ABBV-181</keyword>
+  <keyword>Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Folfirinox</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>AbbVie is committed to responsible data sharing regarding the clinical trials we sponsor. This includes access to anonymized, individual and trial-level data (analysis data sets), as well as other information (e.g., protocols and clinical study reports), as long as the trials are not part of an ongoing or planned regulatory submission. This includes requests for clinical trial data for unlicensed products and indications.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data requests can be submitted at any time and the data will be accessible for 12 months, with possible extensions considered.</ipd_time_frame>
+    <ipd_access_criteria>Access to this clinical trial data can be requested by any qualified researchers who engage in rigorous, independent scientific research, and will be provided following review and approval of a research proposal and Statistical Analysis Plan (SAP) and execution of a Data Sharing Agreement (DSA). For more information on the process, or to submit a request, visit the following link.</ipd_access_criteria>
+    <ipd_url>https://www.abbvie.com/our-science/clinical-trials/clinical-trials-data-and-information-sharing/data-and-information-sharing-with-qualified-researchers.html</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

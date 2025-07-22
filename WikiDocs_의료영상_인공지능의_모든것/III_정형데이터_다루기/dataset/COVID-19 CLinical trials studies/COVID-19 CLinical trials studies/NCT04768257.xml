@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="275">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04768257</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CEID/HU/2020/51</org_study_id>
+    <nct_id>NCT04768257</nct_id>
+  </id_info>
+  <brief_title>Physical Activity Post COVID-19</brief_title>
+  <acronym>PA-COVID19</acronym>
+  <official_title>Physical Activity Post Coronavirus (COVID-19). A Longitudinal Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alcala</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Professional College of Physiotherapists of the Community of Madrid (CPFCM)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Hospital of Guadalajara (HUGU)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Alcala</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to characterize functional status and physical activity of&#xD;
+      patients with COVID-19 after hospital discharge.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Interested patients will be contacted and informed consent obtained. Then, participants will&#xD;
+      be assessed through a set of tests and questionnaires to register data regarding: physical&#xD;
+      activity; functional capacity; muscle strength; health-related quality of life; symptoms&#xD;
+      (dyspnea, fatigue, anxiety and depression); lung function; sociodemographics and&#xD;
+      anthropometrics. Data collection will occur at baseline (at discharge from hospital or at&#xD;
+      patients' home), at 12 weeks and 6 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">December 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Physical activity (PA) patterns (steps/day) from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Patients will wear a tri-axial accelerometer for 1 week. A valid assessment will be a minimum of two days with at least 8 hours of wearing time, weekends excluded.&#xD;
+The minute-by-minute output of the number of steps and metabolic equivalents of task (METs) will be exported.&#xD;
+Using a statistical package, we will be calculate: Total daily step count (steps/day).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Physical activity (PA) patterns (time spent in moderate-to-vigorous PA) from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Patients will wear a tri-axial accelerometer for 1 week. A valid assessment will be a minimum of two days with at least 8 hours of wearing time, weekends excluded.&#xD;
+The minute-by-minute output of the number of steps and metabolic equivalents of task (METs) will be exported.&#xD;
+Using a statistical package, we will be calculate: Total time spent in moderate-to-vigorous PA (MVPA, hours and minutes).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Physical activity (PA) patterns (time spent in moderate-to-vigorous PA, in bouts of 10 minutes) from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Patients will wear a tri-axial accelerometer for 1 week. A valid assessment will be a minimum of two days with at least 8 hours of wearing time, weekends excluded.&#xD;
+The minute-by-minute output of the number of steps and metabolic equivalents of task (METs) will be exported.&#xD;
+Using a statistical package, we will be calculate: Time spent in moderate-to-vigorous PA (MVPA), performed in bouts of at least 10 minutes (hours and minutes).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Physical activity (PA) patterns (Mean duration of bouts of moderate-to-vigorous PA) from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Patients will wear a tri-axial accelerometer for 1 week. A valid assessment will be a minimum of two days with at least 8 hours of wearing time, weekends excluded.&#xD;
+The minute-by-minute output of the number of steps and metabolic equivalents of task (METs) will be exported.&#xD;
+Using a statistical package, we will be calculate: Mean duration of bouts of moderate-to-vigorous PA (MVPA, hours and minutes).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Physical activity (PA) patterns (total time in sedentary behaviour -lying or sitting-) from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Patients will wear a tri-axial accelerometer for 1 week. A valid assessment will be a minimum of two days with at least 8 hours of wearing time, weekends excluded.&#xD;
+The minute-by-minute output of the number of steps and metabolic equivalents of task (METs) will be exported.&#xD;
+Using a statistical package, we will be calculate: Total time in sedentary behaviour (lying and/or sitting, hours and minutes).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Physical activity (PA) patterns (mean duration of a sedentary bout) from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Patients will wear a tri-axial accelerometer for 1 week. A valid assessment will be a minimum of two days with at least 8 hours of wearing time, weekends excluded.&#xD;
+The minute-by-minute output of the number of steps and metabolic equivalents of task (METs) will be exported.&#xD;
+Using a statistical package, we will be calculate: Mean duration of a sedentary bout (hours and minutes).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in functional capacity (six-minutes walking test) from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Six-minutes walking test/distance [6MWT/6MWD]. Patients will be asked to walk as far as possible in 6 min along a flat 30m corridor. Standardised instructions and encouragement will be given during the test, following European Respiratory Society/American Thoracic Society statement.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in functional capacity (one-minute sit-to-stand test) from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>One-minute sit-to-stand [1minSTS]. Patients will sit and stand from a chair, without the aid of the upper limbs, many times as they can in a 1-min bout. Afterwards, the results will be compared to age- and sex-matched reference values.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in isometric quadriceps strength from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Isometric quadriceps strength (dynamometer). A hand-held dynamometer will be used to assess isometric strength of both legs. Participants will be seated at the edge of a treatment table, positioned near their maximal knee extension (0º), and with arms across the chest. The dynamometer will be positioned two fingers width above the lateral malleolus on the anterior aspect of the tibia.&#xD;
+Four warm-ups will be allowed, on each at 25, 50, 75, and 100% of perceived effort, gradually building up to a maximal effort over 1 to 2 seconds.&#xD;
+The tester will perform two make tests with the subject exerting 100% effort for 3 seconds. Average peak force of the two trials will be used to determine quadriceps muscle performance. The make test will entail the examiner giving appropriate resistance to the muscle force in order to ensure isometric conditions.&#xD;
+After allowing 1 minute of rest, the procedure will be repeated at 60º of knee flexion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in handgrip force from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Handgrip force (dynamometer). A hand-held dynamometer will be used to measure isometric strength of the grip. Participants will be seated on a straight back chair with both feet flat on the floor. Arm positioning will be demonstrated by the examiner: the tested arm will have the elbow bended to 90º, the forearm and wrist in neutral position, and the fingers flexed as needed for a maximal contraction, while the not-tested arm will assume an adducted and neutrally rotated shoulder position.&#xD;
+Subjects will be instructed to breathe in through their nose and blow out through pursed lips while making a maximum grip effort. At this time, a verbal encouragement will be given by the examiner (e.g., &quot;Squeeze! Harder! Harder! Relax!&quot;). Four minutes or more of rest will be allowed between each grip assessment. The average score among 3 trials will be recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in maximal inspiratory and expiratory pressures from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Maximal respiratory pressures will be measured using a specific device; then, the highest value of 3 attempts will be selected to obtain a reliable average, excluding pressure peaks lower than one second. Participants will be asked to sit with their neck and chest in an upright position and their feet flat on the floor. The results will be read using the reference values provided by Black and Hyatt equations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in health-related quality of life from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Health-related quality of life (EQ-5D-5L questionnaire). The EQ-5D-5L consists of two parts: the descriptive system and a visual analogue scale (VAS). The descriptive system addresses five different dimensions (mobility, self-care, usual activities. pain/discomfort, and anxiety/depression), each with a five-point Likert-scale; the answering pattern can be transferred to a utility between 0 and 1 (the higher the better) by distinct (nation-specific) scoring algorithms. On the other hand, the VAS allows valuing current health on a 0-100 mm scale, with higher values indicating better health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in dyspnea symptom from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Dyspnea - modified Medical Research Council (mMRC) scale. The mMRC dyspnea scale consists of five grades of increasing severity. A higher score indicates a greater impact of dyspnea on activities of daily life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in fatigue symptom from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Fatigue - Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scale.&#xD;
+The FACIT-F scale consists of many items to produce a global score, and each item can be scored from 0 to 4 (from &quot;not at all&quot; to &quot;very much&quot;). It covers different aspects of fatigue (physical, functional, emotional, and social consequences) with regard to the previous seven days. A higher score reflects less fatigue.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in anxiety and depression symptoms from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Anxiety and depression-The Hospital Anxiety and Depression Scale (HADS). The HADS consists of two subscales (HADS-A, for anxiety disorders, and HADS-D, for depression) both containing seven intermingled items. A higher score implies a more severe case.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Forced expiratory volume in the first second (FEV1) assessed using spirometry at baseline (at hospital discharge or patient's home)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Forced expiratory volume in the first second (FEV1, milliliters)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Forced vital capacity (FVC) assessed using spirometry at baseline (at hospital discharge or patient's home)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Forced vital capacity (FVC, milliliters)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ratio between Forced expiratory volume in the first second and Forced vital capacity (FEV1/FVC) assessed using spirometry at baseline (at hospital discharge or patient's home)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Ratio between Forced expiratory volume in the first second and Forced vital capacity (FEV1/FVC, percentage)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sociodemographics (age) at baseline (at hospital discharge or patient's home)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Sociodemographics (age in years).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sociodemographics (sex) at baseline (at hospital discharge or patient's home)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Sociodemographics (sex, assessed as male/female).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anthropometrics (height) at baseline (at hospital discharge or patient's home)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Anthropometrics (height in meters).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in anthropometrics (weight) from baseline (at hospital discharge or patient's home) at 12 weeks and 6 months</measure>
+    <time_frame>Baseline, 12 weeks and 6 months</time_frame>
+    <description>Anthropometrics (weight in kilograms).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relevant clinical history (diagnosis with lung or cardiovascular disease) at baseline</measure>
+    <time_frame>Baseline</time_frame>
+    <description>We will report the presence of any relevant clinical history related to lung or cardiovascular disease, cardiovascular risk or immunosuppressed status (for instance, due to cancer treatment or other pathology).</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">195</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Patients with COVID-19, treated in intensive care</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients with COVID-19, treated in hospital ward</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients with COVID-19, treated at home</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Physical activity</intervention_name>
+    <description>We will assess physical activity patterns of patients at baseline (at discharge from hospital or at patients' home), at 12 weeks and 6 months, through an objective measurement (triaxial accelerometer).</description>
+    <arm_group_label>Patients with COVID-19, treated at home</arm_group_label>
+    <arm_group_label>Patients with COVID-19, treated in hospital ward</arm_group_label>
+    <arm_group_label>Patients with COVID-19, treated in intensive care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Three cohorts of patients affected from SARS-CoV-2; 1-treated in intensive care; 2-treated&#xD;
+        in hospital ward and 3-treated at home. Groups will be age and gender matched.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  At least, 18 years of age;&#xD;
+&#xD;
+          -  Diagnosis with COVID-19;&#xD;
+&#xD;
+          -  Stable condition at hospital discharge or after 21 days of being treated at home&#xD;
+             (needed time to recover from an acute respiratory infection; however, patients treated&#xD;
+             at home should report a negative result in polymerase chain reaction [PCR] test).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presence of signs of cognitive impairment or significant cardiovascular, neurological,&#xD;
+             and/or musculoskeletal disease, which may prevent the assessment tests and therefore&#xD;
+             limit participation. In particular, reasons for exclusion will be the following:&#xD;
+             cognitive disorders, such as sequelae of Alzheimer's disease, senile dementia;&#xD;
+             comprehension disorders, such as Wernicke's aphasia; cognitive-motor disorders, such&#xD;
+             as hemiparesis/hemiplegia due to stroke; musculoskeletal disorders, such as&#xD;
+             unconsolidated fractures, external prostheses (including replacements in amputees);&#xD;
+             cardiovascular disorders, such as unstable angina, recent acute myocardial infarction,&#xD;
+             among others.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nicola Sante Diciolla, PT, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Alcalá</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nicola Sante Diciolla, PT, MSc</last_name>
+    <phone>+34695069558</phone>
+    <email>nicola.s.diciolla@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>María José Yuste Sánchez, PT, PhD</last_name>
+    <phone>+34636737107</phone>
+    <email>marijo.yuste@uah.es</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Rabinovich RA, Louvaris Z, Raste Y, Langer D, Van Remoortel H, Giavedoni S, Burtin C, Regueiro EM, Vogiatzis I, Hopkinson NS, Polkey MI, Wilson FJ, Macnee W, Westerterp KR, Troosters T; PROactive Consortium. Validity of physical activity monitors during daily life in patients with COPD. Eur Respir J. 2013 Nov;42(5):1205-15. doi: 10.1183/09031936.00134312. Epub 2013 Feb 8.</citation>
+    <PMID>23397303</PMID>
+  </reference>
+  <reference>
+    <citation>Demeyer H, Burtin C, Van Remoortel H, Hornikx M, Langer D, Decramer M, Gosselink R, Janssens W, Troosters T. Standardizing the analysis of physical activity in patients with COPD following a pulmonary rehabilitation program. Chest. 2014 Aug;146(2):318-327. doi: 10.1378/chest.13-1968.</citation>
+    <PMID>24603844</PMID>
+  </reference>
+  <reference>
+    <citation>Holland AE, Spruit MA, Troosters T, Puhan MA, Pepin V, Saey D, McCormack MC, Carlin BW, Sciurba FC, Pitta F, Wanger J, MacIntyre N, Kaminsky DA, Culver BH, Revill SM, Hernandes NA, Andrianopoulos V, Camillo CA, Mitchell KE, Lee AL, Hill CJ, Singh SJ. An official European Respiratory Society/American Thoracic Society technical standard: field walking tests in chronic respiratory disease. Eur Respir J. 2014 Dec;44(6):1428-46. doi: 10.1183/09031936.00150314. Epub 2014 Oct 30. Review.</citation>
+    <PMID>25359355</PMID>
+  </reference>
+  <reference>
+    <citation>Bohannon RW. Sit-to-stand test for measuring performance of lower extremity muscles. Percept Mot Skills. 1995 Feb;80(1):163-6.</citation>
+    <PMID>7624188</PMID>
+  </reference>
+  <reference>
+    <citation>Deones VL, Wiley SC, Worrell T. Assessment of quadriceps muscle performance by a hand-held dynamometer and an isokinetic dynamometer. J Orthop Sports Phys Ther. 1994 Dec;20(6):296-301.</citation>
+    <PMID>7849749</PMID>
+  </reference>
+  <reference>
+    <citation>Hamilton GF, McDonald C, Chenier TC. Measurement of grip strength: validity and reliability of the sphygmomanometer and jamar grip dynamometer. J Orthop Sports Phys Ther. 1992;16(5):215-9.</citation>
+    <PMID>18796752</PMID>
+  </reference>
+  <reference>
+    <citation>Szentes BL, Kreuter M, Bahmer T, Birring SS, Claussen M, Waelscher J, Leidl R, Schwarzkopf L. Quality of life assessment in interstitial lung diseases:a comparison of the disease-specific K-BILD with the generic EQ-5D-5L. Respir Res. 2018 May 25;19(1):101. doi: 10.1186/s12931-018-0808-x.</citation>
+    <PMID>29801506</PMID>
+  </reference>
+  <reference>
+    <citation>Bestall JC, Paul EA, Garrod R, Garnham R, Jones PW, Wedzicha JA. Usefulness of the Medical Research Council (MRC) dyspnoea scale as a measure of disability in patients with chronic obstructive pulmonary disease. Thorax. 1999 Jul;54(7):581-6.</citation>
+    <PMID>10377201</PMID>
+  </reference>
+  <reference>
+    <citation>Hewlett S, Dures E, Almeida C. Measures of fatigue: Bristol Rheumatoid Arthritis Fatigue Multi-Dimensional Questionnaire (BRAF MDQ), Bristol Rheumatoid Arthritis Fatigue Numerical Rating Scales (BRAF NRS) for severity, effect, and coping, Chalder Fatigue Questionnaire (CFQ), Checklist Individual Strength (CIS20R and CIS8R), Fatigue Severity Scale (FSS), Functional Assessment Chronic Illness Therapy (Fatigue) (FACIT-F), Multi-Dimensional Assessment of Fatigue (MAF), Multi-Dimensional Fatigue Inventory (MFI), Pediatric Quality Of Life (PedsQL) Multi-Dimensional Fatigue Scale, Profile of Fatigue (ProF), Short Form 36 Vitality Subscale (SF-36 VT), and Visual Analog Scales (VAS). Arthritis Care Res (Hoboken). 2011 Nov;63 Suppl 11:S263-86. doi: 10.1002/acr.20579. Review.</citation>
+    <PMID>22588750</PMID>
+  </reference>
+  <reference>
+    <citation>Bjelland I, Dahl AA, Haug TT, Neckelmann D. The validity of the Hospital Anxiety and Depression Scale. An updated literature review. J Psychosom Res. 2002 Feb;52(2):69-77. Review.</citation>
+    <PMID>11832252</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 24, 2021</study_first_posted>
+  <last_update_submitted>February 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Alcala</investigator_affiliation>
+    <investigator_full_name>Nicola Sante Diciolla</investigator_full_name>
+    <investigator_title>Associate Researcher, PhD Student</investigator_title>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Physical activity</keyword>
+  <keyword>Exercise capacity</keyword>
+  <keyword>Functional capacity</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data will be shared after drafting the final version of the database.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Data will be available once the final version of the database will be considered completed for one year.</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4347">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04769154</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BIO-2020-0049</org_study_id>
+    <nct_id>NCT04769154</nct_id>
+  </id_info>
+  <brief_title>Airway Management in the Intensive Care and Regular Hospital Units During COVID-19 Pandemic</brief_title>
+  <official_title>Airway Management in the Intensive Care and Regular Hospital Units During COVID-19 Pandemic: A Prospective Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>American University of Beirut Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>American University of Beirut Medical Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this descriptive observational study is to evaluate endotracheal intubation during&#xD;
+      COVID-19 pandemic at the AUBMC outside the OR (excluding the Emergency Department (ED)) and&#xD;
+      compare the success and complication rates with previous literature and international&#xD;
+      benchmarks. The investigators will assess the rate of successful endotracheal intubations at&#xD;
+      first attempt, the total number of attempts at endotracheal intubation, the devices used for&#xD;
+      endotracheal intubation (direct laryngoscopy, video laryngoscopy, endotracheal boogie, Fiber&#xD;
+      optic etc.…), the anesthetic drugs given before intubation, the Cormack-Lehane score&#xD;
+      (compared with previous score if present for the same patient), the MACOCHA score in addition&#xD;
+      to the complication rates including but not limited to events of hypotension (SBP &lt; 80 mmHg),&#xD;
+      severe hypoxemia (SpO2 &lt; 85%), respiratory or cardiac arrest.&#xD;
+&#xD;
+      The investigators hypothesize that endotracheal intubation outside the OR at AUBMC has higher&#xD;
+      success rates and lower complication rates as compared to the literature. The investigators&#xD;
+      believe this is due to the fact that the devices and teams available for intubation outside&#xD;
+      the OR are highly efficient and very versatile compared to other facilities.&#xD;
+&#xD;
+      The primary outcome of this study is to assess the success rate of endotracheal intubation at&#xD;
+      first attempt outside the operating room with direct laryngoscopy or with the use of an&#xD;
+      assisting device. The secondary outcomes will identify adverse events; mainly hypoxemia (SpO2&#xD;
+      &lt; 85%) and hypotension (SBP &lt; 80 mmHg).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">February 2023</completion_date>
+  <primary_completion_date type="Anticipated">February 2023</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>The success rate of endotracheal intubation at first attempt</measure>
+    <time_frame>During endotracheal intubation</time_frame>
+    <description>The success rate of endotracheal intubation at first attempt outside the OR with direct laryngoscopy or the use of an assisting device</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events (Hypoxemia)</measure>
+    <time_frame>During the procedure</time_frame>
+    <description>Hypoxemia (SpO2 &lt; 85%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events (Hypotension)</measure>
+    <time_frame>During the procedure</time_frame>
+    <description>Hypotension (SBP &lt; 80 mmHg)</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Airway Management</condition>
+  <condition>Intensive Care Unit</condition>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients requiring elective or emergent endotracheal intubation&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients undergoing elective or emergent intubation on regular floors or ICU or COVID&#xD;
+             patients.&#xD;
+&#xD;
+          -  Patients above 18 years of age.&#xD;
+&#xD;
+          -  Intubation done by an anesthesia provider with at least 2 years of experience&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients in the ED.&#xD;
+&#xD;
+          -  Patients intubated by non-anesthesia providers.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 24, 2021</study_first_posted>
+  <last_update_submitted>February 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>American University of Beirut Medical Center</investigator_affiliation>
+    <investigator_full_name>Dr. Marie Awad</investigator_full_name>
+    <investigator_title>Professor and Chairperson</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1971">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04840940</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MACOSX</org_study_id>
+    <nct_id>NCT04840940</nct_id>
+  </id_info>
+  <brief_title>Presepsin Biomarker for Ventilator-associated Pneumonia Diagnosis in COVID-19 Patients</brief_title>
+  <official_title>Presepsin as an Early Biomarker for Ventilator-associated Pneumonia (VAP) Diagnosis in COVID-19 Patients: a Prospective Double Blind Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>San Luigi Gonzaga Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>San Luigi Gonzaga Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is observational and double blind. It evaluates the validity of presepsin (a serum&#xD;
+      biomarker of bacterial infections) as early biomarker of Ventilator Associated Pneumonia. It&#xD;
+      will be measured at day 0 (ICU admission) and every 48 hours in every patient with Sars-Cov 2&#xD;
+      interstitial pneumonia requiring invasive mechanical ventilation (see inclusion ad exclusion&#xD;
+      criteria) until Day 30, ICU discharge or ICU death. There will be no change in clinical&#xD;
+      practice and in pneumonia diagnosis. We will examine how the elevation of presepsin level&#xD;
+      could be an early marker of ventilator associated pneumonia or a marker of bacterial&#xD;
+      pneumonia at ICU admission, before the micriobiological results or clinical diagnosis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will be a single center, double blind observational study.&#xD;
+&#xD;
+      Measurements of presepsin blood level will be performed in all patients with interstitial&#xD;
+      Sars-Cov-2 pneumonia admitted to ICU, at the time of the start of invasive mechanical&#xD;
+      ventilation and every 48 hours for the first 30 days of ICU stay. Surveillance respiratory&#xD;
+      samples (endotracheal aspiration) will be performed according to clinical practice (at ICU&#xD;
+      admission and every Mondays and Thursdays in all patients undergoing invasive mechanical&#xD;
+      ventilation).&#xD;
+&#xD;
+      In all patients admitted to ICU with invasive mechanically ventilation, a broncoalveolar&#xD;
+      lavage with rapid microbiological method (film array for the research of the main respiratory&#xD;
+      pathogens) will be performed, according to common clinical practice.&#xD;
+&#xD;
+      VAP diagnosis will be made based upon the evidence of new lung infiltrates (chest radiography&#xD;
+      or chest computed tomography) in association with the presence of a pathogen isolated in the&#xD;
+      non-invasive respiratory sample with semi-quantitative method, according to IDSA and American&#xD;
+      Thoracic Society guidelines, as well as the presence of other sign of infection (fever,&#xD;
+      leukocytosis, worsening of oxygenation).&#xD;
+&#xD;
+      The attending physician in charge of the patient enrolled, clinically making the diagnosis of&#xD;
+      VAP will be blinded of presepsin levels. As a consequence, during the study period, no&#xD;
+      variation of the clinical practice applied will be performed, and no influence on the care&#xD;
+      provided to patients included will be determined by the measurement of plasma presepsin.&#xD;
+&#xD;
+      In the current study, we aim to answer to the following questions:&#xD;
+&#xD;
+        -  Does a high level of plasma presepsin in patients with a Sars Cov 2 interstitial&#xD;
+           pneumonia at the time of ICU admission predict the presence of a bacterial respiratory&#xD;
+           co-infection?&#xD;
+&#xD;
+        -  Do presepsin levels early predict the occurrence of VAP in patients with COVID-19&#xD;
+           disease?&#xD;
+&#xD;
+        -  Does such variation become evident at the time of VAC, therefore anticipating the&#xD;
+           diagnosis of IVAC? The latter issue might be particularly important in order to commence&#xD;
+           antibiotic therapy earlier than the diagnosis of IVAC.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 21, 2020</start_date>
+  <completion_date type="Anticipated">December 21, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 21, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To evaluate daily variations of presepsin levels as an early marker of VAP in COVID 19 patients</measure>
+    <time_frame>Time from ICU admission to day 30 or to ICU discharge or to ICU death</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate whether presepsin level can predict the presence of a bacterial respiratory co-infection at the time of ICU admission in patient with Sars CoV 2 interstitial pneumonia.</measure>
+    <time_frame>Time from ICU admission to day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the role of circulating presepsin time course during the treatment of VAP as a clinical marker of the adequacy of the antibiotic therapy applied.</measure>
+    <time_frame>Time from ICU admission to day 30 or to ICU discharge or to ICU death</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evalute whether plasma levels of presepsin may distinguish the presence of VAP versus VAT (ventilator associated tracheobronchitis).</measure>
+    <time_frame>Time from ICU admission to day 30 or to ICU discharge or to ICU death</time_frame>
+  </secondary_outcome>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Ventilator Associated Pneumonia</condition>
+  <condition>Covid19</condition>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Presepsin serum level&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients requiring invasive mechanical ventilation for Sars-Cov 2 interstitial pneumonia&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ICU patients with Sars Cov 2 interstitial pneumonia requiring invasive mechanical&#xD;
+             ventilation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age less than 18 years&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Chronic renal failure stage III or more&#xD;
+&#xD;
+          -  End stage liver disease&#xD;
+&#xD;
+          -  Patients already present in the ICU at the beginning of the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Pietro Caironi</last_name>
+    <phone>0039 0119026510</phone>
+    <email>pietro.caironi@unito.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Pietro Caironi</last_name>
+    <phone>00390119026510</phone>
+    <email>pietro.caironi@unito.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>SCDU Anestesia e Rianimazione, AOU San Luigi Gonzaga</name>
+      <address>
+        <city>Orbassano</city>
+        <state>Turin</state>
+        <zip>10043</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pietro Caironi</last_name>
+      <phone>00390119026510</phone>
+      <email>pietro.caironi@unito.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <results_reference>
+    <citation>Kalil AC, Metersky ML, Klompas M, Muscedere J, Sweeney DA, Palmer LB, Napolitano LM, O'Grady NP, Bartlett JG, Carratalà J, El Solh AA, Ewig S, Fey PD, File TM Jr, Restrepo MI, Roberts JA, Waterer GW, Cruse P, Knight SL, Brozek JL. Management of Adults With Hospital-acquired and Ventilator-associated Pneumonia: 2016 Clinical Practice Guidelines by the Infectious Diseases Society of America and the American Thoracic Society. Clin Infect Dis. 2016 Sep 1;63(5):e61-e111. doi: 10.1093/cid/ciw353. Epub 2016 Jul 14. Erratum in: Clin Infect Dis. 2017 May 1;64(9):1298. Erratum in: Clin Infect Dis. 2017 Oct 15;65(8):1435. Clin Infect Dis. 2017 Nov 29;65(12):2161.</citation>
+    <PMID>27418577</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Melsen WG, Rovers MM, Groenwold RH, Bergmans DC, Camus C, Bauer TT, Hanisch EW, Klarin B, Koeman M, Krueger WA, Lacherade JC, Lorente L, Memish ZA, Morrow LE, Nardi G, van Nieuwenhoven CA, O'Keefe GE, Nakos G, Scannapieco FA, Seguin P, Staudinger T, Topeli A, Ferrer M, Bonten MJ. Attributable mortality of ventilator-associated pneumonia: a meta-analysis of individual patient data from randomised prevention studies. Lancet Infect Dis. 2013 Aug;13(8):665-71. doi: 10.1016/S1473-3099(13)70081-1. Epub 2013 Apr 25.</citation>
+    <PMID>23622939</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Magill SS, Klompas M, Balk R, Burns SM, Deutschman CS, Diekema D, Fridkin S, Greene L, Guh A, Gutterman D, Hammer B, Henderson D, Hess D, Hill NS, Horan T, Kollef M, Levy M, Septimus E, VanAntwerpen C, Wright D, Lipsett P. Developing a new, national approach to surveillance for ventilator-associated events*. Crit Care Med. 2013 Nov;41(11):2467-75. doi: 10.1097/CCM.0b013e3182a262db.</citation>
+    <PMID>24162674</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Erb CT, Patel B, Orr JE, Bice T, Richards JB, Metersky ML, Wilson KC, Thomson CC. Management of Adults with Hospital-acquired and Ventilator-associated Pneumonia. Ann Am Thorac Soc. 2016 Dec;13(12):2258-2260.</citation>
+    <PMID>27925784</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Berton DC, Kalil AC, Teixeira PJ. Quantitative versus qualitative cultures of respiratory secretions for clinical outcomes in patients with ventilator-associated pneumonia. Cochrane Database Syst Rev. 2012 Jan 18;1:CD006482. doi: 10.1002/14651858.CD006482.pub3. Review. Update in: Cochrane Database Syst Rev. 2014;10:CD006482.</citation>
+    <PMID>22258968</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Fagon JY. Biological markers and diagnosis of ventilator-associated pneumonia. Crit Care. 2011;15(2):130. doi: 10.1186/cc10050. Epub 2011 Mar 9.</citation>
+    <PMID>21418551</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Luyt CE, Combes A, Reynaud C, Hekimian G, Nieszkowska A, Tonnellier M, Aubry A, Trouillet JL, Bernard M, Chastre J. Usefulness of procalcitonin for the diagnosis of ventilator-associated pneumonia. Intensive Care Med. 2008 Aug;34(8):1434-40. doi: 10.1007/s00134-008-1112-x. Epub 2008 Apr 18.</citation>
+    <PMID>18421435</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Luyt CE, Guérin V, Combes A, Trouillet JL, Ayed SB, Bernard M, Gibert C, Chastre J. Procalcitonin kinetics as a prognostic marker of ventilator-associated pneumonia. Am J Respir Crit Care Med. 2005 Jan 1;171(1):48-53. Epub 2004 Sep 24.</citation>
+    <PMID>15447947</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>COVID-ICU Group on behalf of the REVA Network and the COVID-ICU Investigators. Clinical characteristics and day-90 outcomes of 4244 critically ill adults with COVID-19: a prospective cohort study. Intensive Care Med. 2021 Jan;47(1):60-73. doi: 10.1007/s00134-020-06294-x. Epub 2020 Oct 29.</citation>
+    <PMID>33211135</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mussap M, Noto A, Fravega M, Fanos V. Soluble CD14 subtype presepsin (sCD14-ST) and lipopolysaccharide binding protein (LBP) in neonatal sepsis: new clinical and analytical perspectives for two old biomarkers. J Matern Fetal Neonatal Med. 2011 Oct;24 Suppl 2:12-4. doi: 10.3109/14767058.2011.601923. Review.</citation>
+    <PMID>21740312</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Okamura Y, Yokoi H. Development of a point-of-care assay system for measurement of presepsin (sCD14-ST). Clin Chim Acta. 2011 Nov 20;412(23-24):2157-61. doi: 10.1016/j.cca.2011.07.024. Epub 2011 Aug 3.</citation>
+    <PMID>21839732</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wu CC, Lan HM, Han ST, Chaou CH, Yeh CF, Liu SH, Li CH, Blaney GN 3rd, Liu ZY, Chen KF. Comparison of diagnostic accuracy in sepsis between presepsin, procalcitonin, and C-reactive protein: a systematic review and meta-analysis. Ann Intensive Care. 2017 Sep 6;7(1):91. doi: 10.1186/s13613-017-0316-z.</citation>
+    <PMID>28875483</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Masson S, Caironi P, Fanizza C, Thomae R, Bernasconi R, Noto A, Oggioni R, Pasetti GS, Romero M, Tognoni G, Latini R, Gattinoni L. Circulating presepsin (soluble CD14 subtype) as a marker of host response in patients with severe sepsis or septic shock: data from the multicenter, randomized ALBIOS trial. Intensive Care Med. 2015 Jan;41(1):12-20. doi: 10.1007/s00134-014-3514-2. Epub 2014 Oct 16. Erratum in: Intensive Care Med. 2015 Sep;41(9):1736.</citation>
+    <PMID>25319385</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Masson S, Caironi P, Spanuth E, Thomae R, Panigada M, Sangiorgi G, Fumagalli R, Mauri T, Isgrò S, Fanizza C, Romero M, Tognoni G, Latini R, Gattinoni L; ALBIOS Study Investigators. Presepsin (soluble CD14 subtype) and procalcitonin levels for mortality prediction in sepsis: data from the Albumin Italian Outcome Sepsis trial. Crit Care. 2014 Jan 7;18(1):R6. doi: 10.1186/cc13183.</citation>
+    <PMID>24393424</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Klouche K, Cristol JP, Devin J, Gilles V, Kuster N, Larcher R, Amigues L, Corne P, Jonquet O, Dupuy AM. Diagnostic and prognostic value of soluble CD14 subtype (Presepsin) for sepsis and community-acquired pneumonia in ICU patients. Ann Intensive Care. 2016 Dec;6(1):59. doi: 10.1186/s13613-016-0160-6. Epub 2016 Jul 7.</citation>
+    <PMID>27389015</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zaninotto M, Mion MM, Cosma C, Rinaldi D, Plebani M. Presepsin in risk stratification of SARS-CoV-2 patients. Clin Chim Acta. 2020 Aug;507:161-163. doi: 10.1016/j.cca.2020.04.020. Epub 2020 Apr 22.</citation>
+    <PMID>32333860</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Fukada A, Kitagawa Y, Matsuoka M, Sakai J, Imai K, Tarumoto N, Orihara Y, Kawamura R, Takeuchi S, Maesaki S, Maeda T. Presepsin as a predictive biomarker of severity in COVID-19: A case series. J Med Virol. 2021 Jan;93(1):99-101. doi: 10.1002/jmv.26164. Epub 2020 Jun 24.</citation>
+    <PMID>32530491</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Schirinzi A, Cazzolla AP, Lovero R, Lo Muzio L, Testa NF, Ciavarella D, Palmieri G, Pozzessere P, Procacci V, Di Serio F, Santacroce L. New Insights in Laboratory Testing for COVID-19 Patients: Looking for the Role and Predictive Value of Human epididymis secretory protein 4 (HE4) and the Innate Immunity of the Oral Cavity and Respiratory Tract. Microorganisms. 2020 Nov 2;8(11). pii: E1718. doi: 10.3390/microorganisms8111718.</citation>
+    <PMID>33147871</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nagata T, Yasuda Y, Ando M, Abe T, Katsuno T, Kato S, Tsuboi N, Matsuo S, Maruyama S. Clinical impact of kidney function on presepsin levels. PLoS One. 2015 Jun 1;10(6):e0129159. doi: 10.1371/journal.pone.0129159. eCollection 2015.</citation>
+    <PMID>26030716</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ferrarese A, Frigo AC, Mion MM, Plebani M, Russo FP, Germani G, Gambato M, Cillo U, Cattelan A, Burra P, Senzolo M. Diagnostic and prognostic role of presepsin in patients with cirrhosis and bacterial infection. Clin Chem Lab Med. 2020 Oct 23. pii: cclm-2020-1212. doi: 10.1515/cclm-2020-1212. [Epub ahead of print]</citation>
+    <PMID>33095752</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhang X, Liu D, Liu YN, Wang R, Xie LX. The accuracy of presepsin (sCD14-ST) for the diagnosis of sepsis in adults: a meta-analysis. Crit Care. 2015 Sep 11;19:323. doi: 10.1186/s13054-015-1032-4.</citation>
+    <PMID>26357898</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Memar MY, Baghi HB. Presepsin: A promising biomarker for the detection of bacterial infections. Biomed Pharmacother. 2019 Mar;111:649-656. doi: 10.1016/j.biopha.2018.12.124. Epub 2019 Jan 3. Review.</citation>
+    <PMID>30611989</PMID>
+  </results_reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 12, 2021</study_first_posted>
+  <last_update_submitted>April 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>San Luigi Gonzaga Hospital</investigator_affiliation>
+    <investigator_full_name>Pietro Caironi</investigator_full_name>
+    <investigator_title>Director, Department of Anesthesia and Critical Care</investigator_title>
+  </responsible_party>
+  <keyword>Presepsin</keyword>
+  <keyword>VAP</keyword>
+  <keyword>Mechanical ventilation</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Ventilator associated pneumonia</keyword>
+  <keyword>Sars-Cov-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia, Ventilator-Associated</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

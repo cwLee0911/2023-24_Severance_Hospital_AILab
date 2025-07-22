@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4112">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04750356</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UCLH 134617</org_study_id>
+    <nct_id>NCT04750356</nct_id>
+  </id_info>
+  <brief_title>SARS-CoV-2 (COVID-19) Longitudinal Study: Understanding Susceptibility, Transmission and Disease Severity (Legacy Study)</brief_title>
+  <official_title>SARS-CoV-2 Longitudinal Study: Understanding Susceptibility, Transmission and Disease Severity</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University College, London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Francis Crick Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University College, London</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aims to investigate SARS-CoV-2 susceptibility, transmission and disease severity in&#xD;
+      healthcare workers and patients.&#xD;
+&#xD;
+      Residual specimens from an existing collection of samples in viral inactivating buffer and&#xD;
+      derivatives and serum from the Crick COVID-19 Consortium Testing centre (Cohort A1) and&#xD;
+      additional biological material collected prospectively (Cohorts A2 and B) will be used for&#xD;
+      research into SARS-CoV-2 transmission, evolution and immune control. This testing centre is a&#xD;
+      partnership between UCLH and The Francis Crick Institute to provide COVID 19 RT PCR testing&#xD;
+      for healthcare workers (HCWs) and patients in London Hospitals and care homes. A third group&#xD;
+      (Cohort C) of the study will allow for collaborative work with other REC approved research&#xD;
+      studies that have used the Crick COVID-19 Consortium Testing centre and will involve the use&#xD;
+      of study samples already collected from each study to be analysed under the SARS-CoV-2&#xD;
+      Longitudinal Study end points&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 27, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SARS-CoV-2 susceptibility in healthcare workers and patients</measure>
+    <time_frame>24 months</time_frame>
+    <description>To investigate SARS-CoV-2 susceptibility by examining the number of positive SARS-CoV-2 result per participant</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SARS-CoV-2 transmission in healthcare workers and patients</measure>
+    <time_frame>24 months</time_frame>
+    <description>To investigate SARS-CoV-2 transmission by analysis of samples sequencing data from each study centre and across study centres</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SARS-CoV-2 severity in healthcare workers and patients</measure>
+    <time_frame>24 months</time_frame>
+    <description>To investigate SARS-CoV-2 severity by review of symptom severity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SARS-CoV-2 severity in healthcare workers and patients</measure>
+    <time_frame>24 months</time_frame>
+    <description>To investigate SARS-CoV-2 severity by review of any hospital admissions</description>
+  </primary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">6000</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Cohort A1</arm_group_label>
+    <description>Healthcare workers and patients that have previously undertaken a swab or serology test to detect for the presence of SARS-CoV-2. Without the need to seek retrospective consent for the SARS CoV 2 Longitudinal Study, residual samples and derivatives from the Crick COVID -9 Consortium Testing centre and data will be used for the study</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort A2</arm_group_label>
+    <description>3,000 SARS-CoV-2 positive and 3,000 SARS-CoV-2 negative participants (randomly selected) from cohort A1 will be prospectively consented to the study. In addition, vaccine status will also be used to stratify the participants and recruit to the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B</arm_group_label>
+    <description>Employees at participating centres including but not limited to UCLH and The Francis Crick Institute who have their serology tested and/or are swabbed for viral (SARS-CoV-2 and seasonal viruses) detection as well as participants who are vaccinated will be prospectively consented to the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort C</arm_group_label>
+    <description>Individuals recruited to other REC approved research studies where their samples are processed by the Crick COVID 19 Consortium Testing centre will also be consented in their existing study to allow the use of leftover study samples already collected and to be collected, for use in this longitudinal study.</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blod samples and nasal and throat swabs&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Individuals who have previously provided samples for SARS-CoV-2 testing at the Crick COVID&#xD;
+        19 Consortium Testing centre&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Individuals who have previously provided nasal throat swab samples for SARS-CoV-2&#xD;
+             testing at the Crick COVID 19 Consortium Testing centre.&#xD;
+&#xD;
+          -  ≥18 years of age&#xD;
+&#xD;
+          -  To enrol in the SARS-CoV-2 positive cohort of the study, the participant should have a&#xD;
+             positive RT qPCR result&#xD;
+&#xD;
+          -  Employees based at the participating sites including who had their serology and/or&#xD;
+             swab tested (for recruitment to Cohort B)&#xD;
+&#xD;
+          -  Participants enrolled in other studies who had their samples processed by using the&#xD;
+             Crick COVID 19 Consortium Testing centre (for recruitment to Cohort C).&#xD;
+&#xD;
+          -  Written informed consent (except Cohort A1)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Charles Swanton</last_name>
+    <phone>020 3796 0000</phone>
+    <email>crick-legacy@crick.ac.uk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Francis Crick Institute</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>C Swanton</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UCLH</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>B Williams</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 11, 2021</study_first_posted>
+  <last_update_submitted>February 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4198">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04844658</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHOPIN</org_study_id>
+    <nct_id>NCT04844658</nct_id>
+  </id_info>
+  <brief_title>Covid-19, Hospitalized, PatIents, Nasafytol</brief_title>
+  <official_title>A Comparative Randomized Clinical Trial on Covid-19 Positive Hospitalized Patients Treated With NASAFYTOL</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tilman S.A.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Artialis</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Tilman S.A.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to evaluate the efficacy and safety of NASAFYTOL® on COVID-19&#xD;
+      positive hospitalized patients as a supportive treatment to standard-of-care in improving&#xD;
+      clinical parameters safely during hospital admission (maximum 14 days).&#xD;
+&#xD;
+      The study is a standard-of-care comparative, open, parallel two-arms and randomized trial in&#xD;
+      50 adult patients positive to COVID-19 infection and hospitalized. It will be monocentric but&#xD;
+      may be extended to several investigation sites (multicentric) depending on the evolution of&#xD;
+      the epidemic within the hospitals.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      50 patients (25 per arm) infected with COVID-19 and hospitalized (depending on the progress&#xD;
+      of the pandemic and therefore the presence of COVID-19 patients, this number could reach 100&#xD;
+      (50 per arm)). The first ten sentinel patients will be monitored at the safety level before&#xD;
+      enrolling the rest of the participants.&#xD;
+&#xD;
+      The efficacy and safety of NASAFYTOL® will be evaluated using the following outcome measures:&#xD;
+&#xD;
+        1. Improvement of clinical condition of the patient defined by the COVID-19 WHO ordinal&#xD;
+           Outcomes score. This scale reflects a range from uninfected to dead, where 0 is &quot;no&#xD;
+           clinical or virological evidence of infection&quot;, 1 is &quot;no limitation of activities&quot;, 2 is&#xD;
+           &quot;limitation of activities&quot;, 3 is &quot;hospitalized, no oxygen therapy&quot;, 4 is &quot;oxygen by mask&#xD;
+           or nasal prongs&quot;, 5 is &quot;non-invasive ventilation or high-flow oxygen&quot;, 6 is &quot;intubation&#xD;
+           and mechanical ventilation&quot;, 7 is &quot;ventilation + additional organ support - pressors,&#xD;
+           RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)&quot;, and 8 is&#xD;
+           &quot;death&quot;.&#xD;
+&#xD;
+             -  Time to a 1-point decrease&#xD;
+&#xD;
+             -  Score at 14 days (or at hospital leave if &lt;14 days) post randomization&#xD;
+&#xD;
+        2. Duration (days) of hospitalization&#xD;
+&#xD;
+        3. In-hospital mortality&#xD;
+&#xD;
+        4. Temperature (fever):&#xD;
+&#xD;
+             -  Time to resolution of fever for at least 48 hours without antipyretics for 48 hours&#xD;
+                - Defined as ≤36.6°C (axilla), ≤37.2°C (oral) or ≤37.8°C (rectal or tympanic)&#xD;
+&#xD;
+             -  Proportion of participants with normalization at day 14 (or at hospital leave if&#xD;
+                &lt;14 days)&#xD;
+&#xD;
+        5. Need of oxygen therapy&#xD;
+&#xD;
+        6. Tolerance as defined by the Incidence of Adverse Events (AE) and Serious Adverse Events&#xD;
+           (SAE)&#xD;
+&#xD;
+        7. Compliance using the pill count&#xD;
+&#xD;
+        8. Blood test:&#xD;
+&#xD;
+             -  C-reactive proteins : Time to halving of (or achieve normal ) CRP levels compared&#xD;
+                to peak value during trial&#xD;
+&#xD;
+             -  Hematological values (included Lymphocyte Count) and others routine laboratory&#xD;
+                parameters (LDH, albumin, etc.): Time to normalization&#xD;
+&#xD;
+             -  Vitamin D serum concentration: comparison of concentration between inclusion and&#xD;
+                end of trial and between the 2 arms.&#xD;
+&#xD;
+           Optional outcome measures will be perform if data is available from routine practice:&#xD;
+&#xD;
+        9. Blood tests between inclusion and end of trial&#xD;
+&#xD;
+       10. Radiological response - Thoracic CT scan or Chest XR&#xD;
+&#xD;
+       11. Oxygenation PaO2 (partial pressure of oxygen) / FiO2 (fraction of inspired oxygen, FiO2)&#xD;
+           ratio (or P/F ratio) :&#xD;
+&#xD;
+             -  Time to improvement (TBD) in oxygenation for at least 48 hours&#xD;
+&#xD;
+             -  Proportion of participants with normalization at day 14 (or at hospital leave if&#xD;
+                &lt;14 days)&#xD;
+&#xD;
+       12. Time until negative RT-PCR&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 17, 2021</start_date>
+  <completion_date type="Anticipated">September 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Improvement of the patient's clinical condition based on the WHO ordinal outcomes score</measure>
+    <time_frame>day 14</time_frame>
+    <description>Time to a 1-point decrease on the ordinal scale. The ordinal scale reflects a range score from uninfected to dead, where 0 is &quot;no clinical or virological evidence of infection&quot;, 1 is &quot;no limitation of activities&quot;, 2 is &quot;limitation of activities&quot;, 3 is &quot;hospitalized, no oxygen therapy&quot;, 4 is &quot;oxygen by mask or nasal prongs&quot;, 5 is &quot;non-invasive ventilation or high-flow oxygen&quot;, 6 is &quot;intubation and mechanical ventilation&quot;, 7 is &quot;ventilation + additional organ support - pressors, RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)&quot;, and 8 is &quot;death&quot;.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Improvement of the patient's clinical condition based on the WHO ordinal outcomes score</measure>
+    <time_frame>day 14</time_frame>
+    <description>Ordinal score at 14 days (or at hospital leave if &lt;14 days) post randomization. The ordinal scale reflects a range score from uninfected to dead, where 0 is &quot;no clinical or virological evidence of infection&quot;, 1 is &quot;no limitation of activities&quot;, 2 is &quot;limitation of activities&quot;, 3 is &quot;hospitalized, no oxygen therapy&quot;, 4 is &quot;oxygen by mask or nasal prongs&quot;, 5 is &quot;non-invasive ventilation or high-flow oxygen&quot;, 6 is &quot;intubation and mechanical ventilation&quot;, 7 is &quot;ventilation + additional organ support - pressors, RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)&quot;, and 8 is &quot;death&quot;.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>day 14</time_frame>
+    <description>Number of days hospitalization</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>In-hospital mortality</measure>
+    <time_frame>day 14</time_frame>
+    <description>Number of deads</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Temperature (fever)</measure>
+    <time_frame>day 14</time_frame>
+    <description>Time to resolution of fever for at least 48 hours without antipyretics for 48 hours - Defined as ≤36.6°C (axilla), ≤37.2°C (oral) or ≤37.8°C (rectal or tympanic)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Temperature (fever)</measure>
+    <time_frame>day 14</time_frame>
+    <description>Proportion of participants with normalization at day 14 (or at hospital leave if &lt;14 days)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Need of oxygen therapy</measure>
+    <time_frame>day 14</time_frame>
+    <description>Proportion of participants with oxygen therapy</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerance as defined by the Incidence of Adverse Events (AE)</measure>
+    <time_frame>day 14</time_frame>
+    <description>Numbers of Adverse Events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerance as defined by the incident of Serious Adverse Events (SAE)</measure>
+    <time_frame>day 14</time_frame>
+    <description>Numbers of Serious Adverse Events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Compliance using the pill count</measure>
+    <time_frame>day 14</time_frame>
+    <description>Numbers of Pill count taken by the patient</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood test</measure>
+    <time_frame>day 14</time_frame>
+    <description>C-reactive proteins : Time to halving of (or achieve normal ) CRP levels compared to peak value during trial</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood test</measure>
+    <time_frame>day 14</time_frame>
+    <description>Hematological values (included Lymphocyte Count) and others routine laboratory parameters (LDH, albumin, etc.): Time to normalization</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood test</measure>
+    <time_frame>day 14</time_frame>
+    <description>Vitamin D serum concentration: comparison of concentration between inclusion and end of trial and between the 2 arms.</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Radiological response (exploratory)</measure>
+    <time_frame>day 14</time_frame>
+    <description>Thoracic CT scan or Chest XR if available</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Oxygenation</measure>
+    <time_frame>day 14</time_frame>
+    <description>Time to improvement in oxygenation ratio for at least 48 hours. PaO2 (partial pressure of oxygen) / FiO2 (fraction of inspired oxygen, FiO2) ratio (or P/F ratio)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Oxygenation</measure>
+    <time_frame>day 14</time_frame>
+    <description>Proportion of participants with ratio normalization at day 14 (or at hospital leave if &lt;14 days) PaO2 (partial pressure of oxygen) / FiO2 (fraction of inspired oxygen, FiO2) ratio (or P/F ratio)</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Coronavirus Infection</condition>
+  <arm_group>
+    <arm_group_label>NASAFYTOL®</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Minimum 25 patients will receive NASAFYTOL® as a supportive therapy to standard treatment of hospitalized patients infected with COVID-19.&#xD;
+For each patient, 8 capsules of NASAFYTOL® taken orally per day (4 capsules in the morning and 4 capsules in the evening) in support of the standard COVID-19 treatment in force in the hospital during the period of hospitalization and maximum for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FULTIUM® - D3 800</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Minimum 25 patients will receive vitamin D , FULTIUM® - D3 800 as a supportive treatment to standard treatment of hospitalized patients infected with COVID-19.&#xD;
+For each patient,1 capsule of Vitamin D taken orally per day (1 capsule in the morning) in support of the standard COVID-19 treatment in force in the hospital for the duration of the hospitalization and maximum for 14 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>NASAFYTOL®</intervention_name>
+    <description>Dietary supplement presented as green soft gel capsules of 1008 mg, containing&#xD;
+A highly bioavailable mixture of turmeric extract or curcumin (hydrophobic polyphenol of rhizomes of Curcuma longa L.),&#xD;
+And natural quercetin from Sophora japonica L. (pagoda tree or Chinese scholar tree) and vitamin D3 (at 60 % of the nutrient reference values).&#xD;
+NASAFYTOL® is an innovative formulation based on Polysorbate 80 (Tween 80R) designed to increase the bioavailability of the active components in humans. To improve the stability of the active ingredients in the capsule, the presence of a weak acid (citric acid) is essential..</description>
+    <arm_group_label>NASAFYTOL®</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>FULTIUM® -D3 800</intervention_name>
+    <description>Vitamin D , FULTIUM® - D3 800 is a blue soft capsule that contains 800 UI (20 µg) of D3 vitamin (cholecalciferol).</description>
+    <arm_group_label>FULTIUM® - D3 800</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult ≥ 18 years of age at the time of inclusion in the study;&#xD;
+&#xD;
+          -  Has laboratory-confirmed SARS-CoV-2 infection as determined by RT-PCR, or other&#xD;
+             commercial or public health assay in any specimen as diagnosed within 72 hours prior&#xD;
+             to randomization;&#xD;
+&#xD;
+          -  Severity of 3-4-5 according to the WHO 7-point ordinal scale (3: hospitalized, no&#xD;
+             oxygen therapy; 4: hospitalized, oxygen by mask or nasal prongs; 5:non-invasive&#xD;
+             ventilation or high-flow oxygen);&#xD;
+&#xD;
+          -  Subject (or authorized legal representative) who can provide oral or written informed&#xD;
+             consent before beginning any study procedure;&#xD;
+&#xD;
+          -  Understand and agree to abide by the study procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contra-indication to NASAFYTOL® or constituents (incl. Vit D): hypersensitivity or&#xD;
+             allergy to product components;&#xD;
+&#xD;
+          -  Swallowing disorder or inability to take oral caps;&#xD;
+&#xD;
+          -  Presence of comorbidities that imply a poor prognosis (according to clinical&#xD;
+             judgment);&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding women; If patient is a female of childbearing potential,&#xD;
+             patient must use an effective means of birth control (oral, intravaginal or&#xD;
+             transdermal oestrogen-progestogen combined hormonal contraceptives or intrauterine&#xD;
+             devices or sexual abstinence);&#xD;
+&#xD;
+          -  Serious or active bacterial infections or documented sepsis by pathogens other than&#xD;
+             SARS-CoV-2;&#xD;
+&#xD;
+          -  Patients participating in clinical trials of other products; Patients presenting acute&#xD;
+             impairment of renal function or nephrolithiasis; ALT/AST&gt; 5 times the normal limit, or&#xD;
+             Neutropenia (Absolute neutrophil count &lt; 500/uL), or Thrombocytopenia (Platelets &lt;&#xD;
+             50,000/uL).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Bérénice Costes, Ph.D.</last_name>
+    <phone>+32(0)42427766</phone>
+    <email>berenice.costes@artialis.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Yves Henrotin, Pr; PhD.</last_name>
+    <email>yhenrotin@ulg.ac.be</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Delta Hospital</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1160</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean Gérain, MD.</last_name>
+      <email>jean.gerain@chirec.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jean Gérain, MD.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

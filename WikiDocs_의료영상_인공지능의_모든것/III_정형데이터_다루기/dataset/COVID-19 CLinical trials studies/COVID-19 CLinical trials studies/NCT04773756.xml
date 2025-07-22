@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4037">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04773756</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0305032</org_study_id>
+    <nct_id>NCT04773756</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Sofosbuvir and Daclatasvir Combo in COIVD-19 Patients in Egypt</brief_title>
+  <official_title>Evaluation of Sofosbuvir and Daclatasvir Combo in COIVD-19 Patients in Egypt (Single Center Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alexandria University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Alexandria University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Sofosbuvir has been recently recommended as a possible antiviral for COVID-19, based on&#xD;
+      structural studies and multiple alignment analysis. By comparing the positive-stranded RNA&#xD;
+      genomes of HCV and SARS-CoV-2, it has been postulated that sofosbuvir might be an optimal&#xD;
+      nucleotide analogue to repurpose for COVID-19 treatment&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 1, 2020</start_date>
+  <completion_date type="Actual">December 12, 2020</completion_date>
+  <primary_completion_date type="Actual">November 30, 2020</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>evaluate the combined effect of Sofosbuvir and Daclatasvir in treatment of patients with mild-moderate Covid-19.</measure>
+    <time_frame>it is estimated to be 2 weeks</time_frame>
+    <description>The study assesses the incidence of resolution of symptoms in COVID patients after taking Sofosbuvir and Daclatasvir for 14 days by doing PCR and the result to be negative</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">54</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Sofosbuvir / Daclatsvir</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>A drug used in the treatment of HCV infection, given in the same dose 400mg and 60 mg respectively once daily for 14 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sofosbuvir 400 MG/ Daclatasvir 60mg</intervention_name>
+    <description>Giving these two drugs for treatment of COVID patients</description>
+    <arm_group_label>Sofosbuvir / Daclatsvir</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  mild- moderate COVID-19 confirmed by PCR&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients on renal dialysis&#xD;
+&#xD;
+          2. Severe COVID-19 cases&#xD;
+&#xD;
+          3. Patients on amiodarone therapy (given the reported FDA warning of an interaction&#xD;
+             between amiodarone and sofosbuvir that might lead to severe bradycardia).&#xD;
+&#xD;
+          4. Children &lt; 12 years&#xD;
+&#xD;
+          5. Pregnant and breast feeding women&#xD;
+&#xD;
+          6. Exacerbation of hepatitis B&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Amr Abd elmoety, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Alexandria University, Faculty of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Amr Aly Abd elmoety</name>
+      <address>
+        <city>Alexandria</city>
+        <zip>21521</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 26, 2021</study_first_posted>
+  <last_update_submitted>February 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Alexandria University</investigator_affiliation>
+    <investigator_full_name>Amr Aly Abd Elmoety</investigator_full_name>
+    <investigator_title>Professor, Internal Medicine Department</investigator_title>
+  </responsible_party>
+  <keyword>Sofosbuvir</keyword>
+  <keyword>Daclatasvir</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sofosbuvir</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

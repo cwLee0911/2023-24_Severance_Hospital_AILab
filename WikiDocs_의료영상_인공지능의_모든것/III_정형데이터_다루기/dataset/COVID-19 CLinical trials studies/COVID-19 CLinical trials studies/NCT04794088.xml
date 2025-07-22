@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1807">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04794088</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INVENT COVID</org_study_id>
+    <nct_id>NCT04794088</nct_id>
+  </id_info>
+  <brief_title>Intravenous Imatinib in Mechanically Ventilated COVID-19 Patients</brief_title>
+  <acronym>INVENT COVID</acronym>
+  <official_title>A Randomised, Double-blind, Placebo-controlled Study to Investigate the Safety and Efficacy of Intravenous Imatinib Mesylate (Impentri®) in Subjects With Acute Respiratory Distress Syndrome Induced by COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dr. Jurjan Aman</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Simbec Orion</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Exvastat Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>KABS laboratories</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>VU University Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The SARS-CoV2 pandemic and resulting COVID-19 infection has led to a large increase in the&#xD;
+      number of patients with acute respiratory distress syndrome (ARDS). ARDS is a severe,&#xD;
+      life-threatening medical condition characterised by inflammation and fluid in the lungs.&#xD;
+      There is no proven therapy to reduce fluid leak, also known as pulmonary oedema, in ARDS.&#xD;
+      However, recent studies have discovered that imatinib strengthens the cell barrier and&#xD;
+      prevents fluid leak in the lungs in inflammatory conditions, while leaving the immune&#xD;
+      response intact. The investigators hypothesize that imatinib limits pulmonary oedema observed&#xD;
+      in ARDS due to COVID-19, and may thus help to reverse hypoxemic respiratory failure and to&#xD;
+      hasten recovery.&#xD;
+&#xD;
+      The hypothesis will be tested by conducting a randomised, double-blind, parallel-group,&#xD;
+      placebo-controlled multi-centre clinical study of intravenous imatinib in 90&#xD;
+      mechanically-ventilated, adult subjects with COVID-19-related ARDS.&#xD;
+&#xD;
+      Study participants will receive the study drug (imatinib or placebo) twice daily for a period&#xD;
+      of 7 days. The effect of the intervention will be tested by measuring extravascular lung&#xD;
+      water (i.e. pulmonary oedema) difference between day 1 and day 4, using a PiCCO catheter (=&#xD;
+      pulse contour cardiac monitoring device).&#xD;
+&#xD;
+      Other measurements will include regular blood tests to investigate the safety and the&#xD;
+      pharmacokinetic properties of imatinib, as well as biomarkers of inflammation and cellular&#xD;
+      dysfunction. Furthermore, parameters of ventilation and morbidity and mortality will be&#xD;
+      recorded as secondary outcome measures.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. INTRODUCTION&#xD;
+&#xD;
+           1.1 Background of ARDS due to COVID-19&#xD;
+&#xD;
+           The COVID-19 pandemic has led to an unanticipated increase of the number of patients&#xD;
+           with ARDS admitted to the ICU, contributing to high morbidity and mortality, as well as&#xD;
+           an unprecedented consumption of medical resources. COVID-19 is caused by a coronavirus&#xD;
+           (scientific name: SARS-CoV-2), a non-segmented, positive sense RNA virus. Although most&#xD;
+           SARS-CoV-2 infections have an asymptomatic or mild course of disease (80%), COVID-19 has&#xD;
+           a detrimental course in a minority of patients (20%), particularly in older patients or&#xD;
+           patients with pulmonary or cardiovascular comorbidities. In these cases, COVID-19&#xD;
+           infection is characterized by damage to the alveolocapillary wall and extensive&#xD;
+           pulmonary capillary leak. The alveolar flooding results in impairment of oxygen&#xD;
+           diffusion and severe hypoxemic respiratory failure. In Chinese registries these cases of&#xD;
+           COVID-19 disease were classified as either 'severe' in case of low oxygen saturation or&#xD;
+           'critical' when invasive mechanical ventilation was needed or multi-organ failure&#xD;
+           occurred. Radiological imaging demonstrates extensive ground glass opacities, consistent&#xD;
+           with alveolar oedema.&#xD;
+&#xD;
+           Radiological as well as pathological examination demonstrated that critical COVID-19&#xD;
+           infections closely mimic Acute Respiratory Distress Syndrome (ARDS), a condition&#xD;
+           characterized by damage to the alveolo-capillary membrane by various insults. Mortality&#xD;
+           in ICU treated 'critical' COVID-19 patients is comparable to mortality in ARDS patients.&#xD;
+           Of the patients admitted with COVID-19 infection to hospital, 17-35% develop ARDS,&#xD;
+           requiring ICU admission or even invasive mechanical ventilation (29-91%). According to&#xD;
+           recent reviews, mortality may mount up to 15-20% (hospitalized patients) to even 40% in&#xD;
+           ICU patients. For these reasons, the current COVID-19 pandemic has resulted in a huge&#xD;
+           increase in the incidence of ARDS with a homogenous aetiology i.e., SARS-CoV2 infection.&#xD;
+&#xD;
+           According to the Berlin definition, ARDS is '…an acute diffuse, inflammatory lung&#xD;
+           injury, leading to increased pulmonary vascular permeability, increased lung weight, and&#xD;
+           loss of aerated lung tissue…[with] hypoxemia and bilateral radiographic opacities,&#xD;
+           associated with increased venous admixture, increased physiological dead space and&#xD;
+           decreased lung compliance'. It is characterised by an acute onset, with bilateral&#xD;
+           infiltrates on chest imaging due to pulmonary oedema, and with severe hypoxemia despite&#xD;
+           mechanical ventilation. Pathophysiologically, ARDS results from an overwhelming&#xD;
+           inflammatory process involving alveolar epithelial and vascular endothelial injury in&#xD;
+           the lung which can be infective and non-infective in origin. The early phase of ARDS is&#xD;
+           characterized by alveolar flooding with protein-rich fluid due to increased vascular&#xD;
+           permeability. Pulmonary oedema then leads to the clinical manifestation of poor lung&#xD;
+           compliance, severe hypoxaemia, and bilateral inﬁltrates on chest radiograph. It also&#xD;
+           leads to alveolar epithelial injury of type I cells, which contributes further to the&#xD;
+           pulmonary oedema. Despite decades of efforts, there is currently no registered drug to&#xD;
+           target pulmonary vascular permeability in ARDS.&#xD;
+&#xD;
+           Current treatment of patients with 'critical' COVID-19 consists of supportive measures,&#xD;
+           including oxygen supplementation, diuretics and (non)-invasive mechanical ventilation.&#xD;
+           Current guidelines prescribe dexamethasone and remdesivir for patients with hypoxemia.&#xD;
+           Although remdesivir and dexamethasone target key pathophysiological processes of&#xD;
+           COVID-19 like viral replication and inflammatory damage, respectively, there is&#xD;
+           currently no proven benefit of pharmacological intervention to reverse pulmonary&#xD;
+           vascular leak and oedema.&#xD;
+&#xD;
+           1.2 Rationale for intervention Earlier studies demonstrate that the anti-leukemic drug&#xD;
+           imatinib effectively and consistently protects against pulmonary vascular leak and&#xD;
+           alveolar oedema during inflammatory stimuli. In 2008, a patient with acute respiratory&#xD;
+           failure due to widespread pulmonary oedema was treated with imatinib mesylate for&#xD;
+           another indication than the acute respiratory failure itself. However, initiation of the&#xD;
+           imatinib treatment (200mg/day) was followed by a surprisingly fast reversal of&#xD;
+           respiratory failure. The reversal of respiratory failure was paralleled by decrease in&#xD;
+           pulmonary oedema on radiological imaging, resulting in the hypothesis that imatinib&#xD;
+           directly protects the pulmonary endothelial barrier. This unexpected effect of imatinib&#xD;
+           was published in 2008. The hypothesis was tested in an extensive preclinical study,&#xD;
+           evaluating the effect of imatinib on endothelial barrier function in several conditions.&#xD;
+           These studies demonstrated that imatinib protects the endothelial barrier under&#xD;
+           inflammatory conditions, both in in vitro models using several types of endothelial&#xD;
+           cells and various inflammatory mediators, and in vivo, using various animal models for&#xD;
+           vascular leak. The protective effects of imatinib were confirmed by several studies by&#xD;
+           independent research groups.&#xD;
+&#xD;
+           After the publication of the first case report and the preclinical evidence for a&#xD;
+           protective effect of imatinib on the endothelial barrier, imatinib (300mg/day) was&#xD;
+           associated with clinical improvement of acute respiratory failure in 1 patient in an&#xD;
+           independent hospital. In addition, imatinib has been used in a compassionate use setting&#xD;
+           in 2 additional patients in the investigators' hospital - in both cases initiation of&#xD;
+           imatinib therapy (200-400mg/day) was followed by reversal of vascular leak and/or&#xD;
+           respiratory failure. Although these cases should be interpreted with caution, they&#xD;
+           consistently suggest a beneficial effect of imatinib on pulmonary vascular leak and/or&#xD;
+           respiratory failure. To date, one case report using oral imatinib to successfully treat&#xD;
+           COVID-19 pneumonia has been published. The protective effects of imatinib at the&#xD;
+           endothelial level 2-10μM were found at concentrations that are comparable to plasma&#xD;
+           levels found in patients treated with imatinib for CML (2-5μM), indicating that regular&#xD;
+           dosing schemes of imatinib are sufficient to induce its protective effect on the&#xD;
+           endothelial barrier. Indeed, preliminary data from the COUNTER-COVID study, which&#xD;
+           evaluates the effect of oral imatinib mesylate in hospitalized patients with COVID-19,&#xD;
+           demonstrate that dosing of 400mg/day orally is sufficient to reach target levels&#xD;
+           described above.&#xD;
+&#xD;
+           Based on the observations that the optimal protective effect of imatinib on the&#xD;
+           endothelial barrier ranges between 2-10μM, together with previous pharmacokinetic&#xD;
+           studies after intravenous imatinib, the investigators propose a dosing scheme of 200mg&#xD;
+           b.i.d. This dosing scheme was shown to provide plasma levels that correspond to the&#xD;
+           2-10μM range found in prior in vitro studies. The current study will evaluate the effect&#xD;
+           of intravenous imatinib on pulmonary oedema as measured by EVLWi. Several arguments&#xD;
+           drive the use of intravenous imatinib in the current study: 1) since most ICU patients&#xD;
+           are intubated, oral administration is suboptimal. 2) Intestinal uptake in mechanically&#xD;
+           ventilated ICU patients is often impaired due to intestinal oedema. 3) by intravenous&#xD;
+           administration, imatinib directly reaches the target organ, i.e., the endothelium,&#xD;
+           requiring lower dosing and fewer side-effects. A detailed analysis on dosing and route&#xD;
+           of administration is provided in the Investigators Brochure.&#xD;
+&#xD;
+           Concerning safety, imatinib was shown to have mild or no effects on the immune response.&#xD;
+           Although developed to target leukemic cells, imatinib hardly affects healthy leucocytes&#xD;
+           and a normal lymphocytic response was observed in lymphocytes from patients treated with&#xD;
+           imatinib. Of particular relevance for the current protocol, it was shown that treatment&#xD;
+           with imatinib does not affect the control of primary viral infections. The investigators&#xD;
+           demonstrated in a healthy volunteer model of lung injury that imatinib did not affect&#xD;
+           the immune response to LPS inhalation in healthy human subjects. Finally, the first&#xD;
+           interim analysis of the COUNTER-COVID study, which tests oral imatinib in COVID-19&#xD;
+           patients admitted to hospital with hypoxemia, did not reveal safety concerns after&#xD;
+           inclusion of the first 140 patients.&#xD;
+&#xD;
+           Altogether, substantial evidence indicates that imatinib is an ideal candidate for&#xD;
+           treatment of the pulmonary complications of SARS-CoV2 like ARDS, since it protects&#xD;
+           against vascular leak and alveolar oedema thereby reducing hypoxemic respiratory&#xD;
+           failure. The current study seeks to directly measure the effect of intravenous imatinib&#xD;
+           on pulmonary vascular leak in COVID-19 ARDS. COVID-19 offers a homogenous cause of ARDS,&#xD;
+           however, the available evidence indicates that ARDS due to other causes will respond&#xD;
+           similarly to imatinib. Therefore, the identification of a compound that reverses&#xD;
+           pulmonary vascular leak may benefit well beyond COVID-19 ARDS and provide a first&#xD;
+           treatment for other forms of ARDS as well.&#xD;
+&#xD;
+        2. OBJECTIVES&#xD;
+&#xD;
+           Primary:&#xD;
+&#xD;
+             -  Efficacy: To evaluate the effect of intravenous imatinib compared to standard of&#xD;
+                care on limiting development of extravascular lung water in invasively&#xD;
+                mechanically-ventilated subjects with COVID-19-related ARDS.&#xD;
+&#xD;
+           Secondary:&#xD;
+&#xD;
+             -  Efficacy: To evaluate the effect of intravenous imatinib compared to standard of&#xD;
+                care on patient outcomes in mechanically-ventilated subjects with COVID-19-related&#xD;
+                ARDS.&#xD;
+&#xD;
+             -  Safety: To evaluate the safety and tolerability of intravenous imatinib compared to&#xD;
+                standard of care in mechanically-ventilated subjects with COVID-19-related ARDS&#xD;
+&#xD;
+             -  Pharmacokinetics: To determine imatinib pharmacokinetics in subjects with&#xD;
+                COVID-19-related ARDS.&#xD;
+&#xD;
+        3. STUDY DESIGN This is a randomised, double-blind, parallel-group, placebo-controlled,&#xD;
+           multi-centre clinical study comparing intravenous imatinib mesylate with placebo in&#xD;
+           invasively mechanically-ventilated subjects with COVID-19-related ARDS. The study will&#xD;
+           enrol 90 subjects (45 subjects/treatment arm; see sample size calculation). In this&#xD;
+           two-arm study, eligible subjects will be randomly allocated to receive imatinib mesylate&#xD;
+           or placebo in a 1:1 ratio. Importantly, the inclusion will be extended to all-cause ARDS&#xD;
+           if recruitment drops to below a predefined threshold (see inclusion criteria). Besides&#xD;
+           the randomisation to treatment of placebo, all subjects will be cared for using local&#xD;
+           treatment protocols as standard of care. At each of the participating centres, standard&#xD;
+           treatment protocols may include: COVID-19-specific medication (e.g. remdesivir and&#xD;
+           dexamethasone), low tidal volume ventilation, conservative fluid management and prone&#xD;
+           positioning in case of persistent low PaO2/FiO2.&#xD;
+&#xD;
+           For eligibility criteria and outcome measures, see separate section.&#xD;
+&#xD;
+        4. SAMPLE SIZE CALCULATION The number of subjects scheduled for inclusion in the study is&#xD;
+           90, including 45 subjects in the placebo arm and 45 subjects in the imatinib mesylate&#xD;
+           arm.&#xD;
+&#xD;
+           Sample size calculations were done with the formula: zα/2 - zπ = (n/2)1/2 * (μ1 - μ2)/σ,&#xD;
+           in which zα/2-zπ = 2,8 (α = 5% en π = 80%). The change (Δ) in EVLWi between Day 0 and&#xD;
+           Day 4 is the primary outcome. The investigators expect the baseline EVLWi to be around&#xD;
+           17ml/kg, as previously described for patients with moderate-severe ARDS. In the placebo&#xD;
+           group the ΔEVLW Day 0 and Day 4 is expected to be 0.5 (μ1), based on previously&#xD;
+           literature from collaborating groups; in the imatinib group the ΔEVLWi is expected to be&#xD;
+           -4 (μ2). This is considered a clinically relevant difference as this difference was&#xD;
+           found to independently predict ARDS mortality in another clinical study. The expected&#xD;
+           treatment effect is based on the imatinib effect observed in preclinical data: 25%&#xD;
+           reduction in vascular leak. The sigma (σ) for ΔEVLWi is set at 7.0, based on previous&#xD;
+           EVLWi studies. Using the equation above, this yields 76 subjects with 38 subjects/arm.&#xD;
+           Taking into account a drop-out rate of 15%, a total of 90 subjects will be recruited.&#xD;
+&#xD;
+        5. TREATMENT OF SUBJECTS&#xD;
+&#xD;
+           5.1 Investigational product/treatment Subjects will undergo 1:1 randomisation to receive&#xD;
+           intravenous imatinib (200mg bid) or placebo for 7 days.&#xD;
+&#xD;
+           5.2 Interactions Imatinib is a substrate for CYP3A4 and P-gp. It inhibits CYP3A4, CYP2D6&#xD;
+           and CYP2C9.&#xD;
+&#xD;
+           Most relevant interactions for the study population include:&#xD;
+&#xD;
+           • Strong induction of CYP3A4. The following drugs are contra-indicated for the study:&#xD;
+           Carbamazepine, efavirenz, enzalutamide, phenobarbital, phenytoin, hypericum, mitotane,&#xD;
+           nevirapine, primidone, rifabutin, rifampicin.&#xD;
+&#xD;
+             -  CYP3A4 inhibition. In general, imatinib is relatively insensitive to CYP3A4&#xD;
+                inhibition, as imatinib may rely on enzymes other than CYP3A4 for its metabolism.&#xD;
+                Therefore, there is no need for adjustment, but recording of the following drugs in&#xD;
+                the eCRF is important: azoles.&#xD;
+&#xD;
+             -  Imatinib may change the concentration of other CYP3A4, CYP2D6 and CYP2C9-dependent&#xD;
+                drugs, including anticoagulants, cyclosporine, simvastatin etc. All relevant&#xD;
+                co-medication will be registered.&#xD;
+&#xD;
+        6. INVESTIGATIONAL PRODUCT&#xD;
+&#xD;
+           6.1 Dosage and Administration A 25ml volume of IMP will be administered over 2-hours as&#xD;
+           an intravenous infusion. This corresponds to a dose of 200mg imatinib (100mg/h), or 25ml&#xD;
+           placebo (12.5ml/h). Treatment will be administered twice daily (400 mg total daily&#xD;
+           imatinib dose) for up to 7 days, or until patient is discharged from critical care, if&#xD;
+           earlier. The first dose of IMP will occur on Day 1, as soon as possible after&#xD;
+           randomisation. IMP should be administered 12h (± 2h) apart between 06:00 - 10:00 in the&#xD;
+           morning and 18:00 - 22:00 in the evening. On Day 1, the first dose of IMP may be&#xD;
+           administered between 04:00 and 12:00 (08:00± 4h) and the second dose between 16:00 and&#xD;
+           24:00 (20:00± 4h). Patients commencing treatment after 12:00 on Day 1 should receive&#xD;
+           only one dose of IMP (between 16:00 and 24:00).&#xD;
+&#xD;
+        7. Randomisation, blinding and treatment allocation Randomisation: Before randomisation,&#xD;
+           the study physician will check all inclusion and exclusion criteria and will enters&#xD;
+           these in the web-based application (Castor). Screening and placement of the PiCCO&#xD;
+           catheter is performed as part of a deferred consent procedure. For subjects who meet the&#xD;
+           eligibility criteria, the patient's legal representative will be asked for informed&#xD;
+           consent(§11.2.2). When informed consent is provided, subjects will be randomized 1:1 to&#xD;
+           receive placebo or imatinib. Randomisation will take place via Castor using variable&#xD;
+           block sizes with stratification per participating centre. The pharmacist will check&#xD;
+           relevant drug interactions before dispensing medication.&#xD;
+&#xD;
+           Blinding: Subjects, clinical staff and investigators will be blinded for study&#xD;
+           medication. Blinding will be guaranteed be covering the syringes containing the IMP so&#xD;
+           that the content will not be visible from the outside.&#xD;
+&#xD;
+           Code breaking is allowed in any of the following circumstances:&#xD;
+&#xD;
+           • Treatment of an individual in a medical emergency where knowledge of the treatment&#xD;
+           allocation is required.&#xD;
+&#xD;
+           • In the event of a Suspected Unexpected Serious Adverse Reaction (SUSAR) the subject&#xD;
+           will be unblinded, if this is required for treatment of the SUSAR.&#xD;
+&#xD;
+           • In the event that the ICU staff / researcher is accidentally exposed to study&#xD;
+           medication.&#xD;
+&#xD;
+        8. SAFETY REPORTING&#xD;
+&#xD;
+           8.1 Temporary halt for reasons of subject safety In accordance to section 10, subsection&#xD;
+           4, of the WMO, the sponsor may suspend the study if there are sufficient grounds that&#xD;
+           continuation of the study will jeopardise subject health or safety. The sponsor will&#xD;
+           notify the accredited METC without undue delay of a temporary halt including the reason&#xD;
+           for such an action. The study will be suspended pending a further positive decision by&#xD;
+           the accredited METC. The investigator will take care that all subjects are kept&#xD;
+           informed.&#xD;
+&#xD;
+           8.2 AEs, SAEs and SUSARs: Due to the nature of disease, the incidence of AEs and SAEs,&#xD;
+           as well as the risk of death due to the underlying condition is high (the hospital&#xD;
+           mortality in ventilated ICU patients is 21%). In clinical studies conducted in patients&#xD;
+           with ARDS, changes in vital parameters are frequent, including temporary changes in&#xD;
+           blood pressure and gas exchange parameters, as are deviations in laboratory values and&#xD;
+           ECG values.&#xD;
+&#xD;
+           AE Reporting:&#xD;
+&#xD;
+           Given the high incidence of adverse events inherent to the nature of the underlying&#xD;
+           condition (i.e., ARDS), given the safety of imatinib as observed in COVID-19 pneumonitis&#xD;
+           before (COUNTER-COVID study), and given the regular recording of vital signs and blood&#xD;
+           and ECG parameters as safety indicators in the eCRF, the investigators propose not to&#xD;
+           report AEs in a standard fashion, except for the following events:&#xD;
+&#xD;
+           • Pulmonary embolism, as detected on contrast enhance chest CT, not leading to&#xD;
+           circulatory of pulmonary instability.&#xD;
+&#xD;
+           • Occurrence of infections, requiring initiation of antibiotic therapy&#xD;
+&#xD;
+           • Non-life-threatening infusion reactions, including but not limited to skin rash.&#xD;
+&#xD;
+           SAE Reporting:&#xD;
+&#xD;
+           Given the high incidence of adverse events inherent to the nature of the underlying&#xD;
+           condition (i.e., ARDS), and given the safety of imatinib as observed in COVID-19&#xD;
+           pneumonitis before (COUNTER-COVID study), the investigators propose not to report all&#xD;
+           serious events as SAEs.&#xD;
+&#xD;
+           The following SAEs will be reported:&#xD;
+&#xD;
+           • Death due to any cause&#xD;
+&#xD;
+           • Cardiopulmonary: The need for extracorporeal membrane oxygenation; Cardiac events like&#xD;
+           arrythmias requiring CPR or medical resuscitation; Thrombo-embolic events with&#xD;
+           life-threatening circulatory or pulmonary instability&#xD;
+&#xD;
+           • Spontaneous bleeding, requiring blood transfusion or surgical intervention.&#xD;
+&#xD;
+           • Myocardial infarction&#xD;
+&#xD;
+           • Renal: the need for renal replacement therapy&#xD;
+&#xD;
+           • Hepatic: Liver failure (hepatic SOFA score &gt;4)&#xD;
+&#xD;
+           • Haematology: Thrombocytopenia (&lt;50^109/L), diffuse intravascular coagulation,&#xD;
+           leukocytopenia (&lt;2^109/L), anaemia (haemoglobin &lt;4mmol/L).&#xD;
+&#xD;
+             -  Central Nervous System: Intracranial bleeding or ischemic stroke.&#xD;
+&#xD;
+             -  Life-threatening infusion reactions, requiring intensification of existing&#xD;
+                intensive care treatment, including additional vasopressor, fluid support,&#xD;
+                corticosteroids and antihistamines.&#xD;
+&#xD;
+             -  Any unexpected serious event judged as an &quot;untoward medical occurrence&quot;.&#xD;
+&#xD;
+           Reporting of Suspected unexpected serious adverse reactions (SUSARs):&#xD;
+&#xD;
+             -  SUSARs that have arisen during this clinical trial that was assessed by the METC;&#xD;
+&#xD;
+             -  SUSARs that have arisen in other clinical trials of the same sponsor and with the&#xD;
+                same medicinal product, and that could have consequences for the safety of the&#xD;
+                subjects involved in this clinical trial that was assessed by the METC.&#xD;
+&#xD;
+      10. STATISTICAL ANALYSIS The statistical analysis will be performed using the program SPSS&#xD;
+      version 22.0 or R. Continuous data will be tested for normal distribution using a&#xD;
+      Kolmogorov-Smirnov test. In case of normal distribution, continuous data will be presented as&#xD;
+      mean ± standard deviation, in case of non-normal distribution, continuous data will be&#xD;
+      presented as median ± interquartile (IQR) range. Categorical data will be presented as&#xD;
+      absolute number (%). The continuous variables and the categorical data will be presented&#xD;
+      quantitatively in tables and in figures. Missing data will be accepted after maximal efforts&#xD;
+      to retrieve data.&#xD;
+&#xD;
+      10.1 Primary study parameter(s) The primary endpoint is the change in extravascular lung&#xD;
+      water index (ΔEVLWi) between Day 1 (baseline) and Day 4. The primary endpoint will be&#xD;
+      represented mean ± standard deviation, in case of non-normal distribution, continuous data&#xD;
+      will be presented as median ± interquartile (IQR) range, and tested for statistical&#xD;
+      difference using a t-test or a Mann-Whitney U test in case of non-normal distribution. In&#xD;
+      addition, ANCOVA analysis will be performed.&#xD;
+&#xD;
+      10.2 Secondary study parameter(s) For all parameters, statistical comparison will be&#xD;
+      performed between placebo and imatinib group.&#xD;
+&#xD;
+      Plasma concentrations of imatinib at Ctrough will be described by descriptive statistics,&#xD;
+      including mean, SD, minimum, maximum, and median.&#xD;
+&#xD;
+      11. ETHICAL CONSIDERATIONS 11.1 Regulation statement The general principles of informed&#xD;
+      consent, ethics review and data management will be in line with good clinical practice (GCP).&#xD;
+      The study will be conducted according to the principles of the Declaration of Helsinki (2013)&#xD;
+      and in accordance with the Medical Research Involving Human Subjects Act (WMO).&#xD;
+&#xD;
+      11.2 Recruitment and consent 11.2.1 Recruitment Subjects will be recruited on the emergency&#xD;
+      units of the AUMC, locations AMC and VUMC, and the Onze Lieve Vrouwe Gasthuis, location&#xD;
+      Amsterdam Oost. Two additional centres are under consideration. With a minimum of 5 active&#xD;
+      centres and an anticipated duration of the trial of 18 months, and a target number of&#xD;
+      inclusions of 90 subjects, this means that 90/5=18 subjects per centre need to be enrolled,&#xD;
+      which amounts to &lt;0.25 subjects/centre/week. When considering the AMC and VUMC as&#xD;
+      representative hospitals, the required rate of inclusion/centre is far below the current rate&#xD;
+      of presentations/centre.&#xD;
+&#xD;
+      11.2.2 Deferred consent For this trial deferred consent is asked and the investigators appeal&#xD;
+      to the emergency procedure for consent in medical research as stated in article 6, paragraph&#xD;
+      4 of the WMO, similar to a presently running trial of ventilation in a similar patient&#xD;
+      cohort, the 'REstricted versus Liberal positive end-expiratory pressure in patients without&#xD;
+      Acute respiratory distress syndrome (RELAx)' - a multicenter randomized controlled trial&#xD;
+      (NL60402.018.17).&#xD;
+&#xD;
+      Pulmonary vascular leak is a phenomenon that is observed early in the course of ARDS.&#xD;
+      Previously, an early 'exudative' phase (the first 3-5 days in the course of ARDS) was&#xD;
+      distinguished from a 'reorganising/proliferative' phase (Day 5 and further in the course of&#xD;
+      disease). Although this distinction is formally abandoned, it is generally accepted that the&#xD;
+      early course of ARDS is characterised by pulmonary vascular leak and alveolar exudates, in&#xD;
+      which the pulmonary oedema is the main cause of hypoxemia. Based on preclinical and early&#xD;
+      clinical data there is a reasonable chance that patients will benefit from the&#xD;
+      vasculoprotective effect of imatinib, especially in the early, exudative phase. The short&#xD;
+      extent of this exudative phase in time (days) indicates a limited window-of-opportunity to&#xD;
+      apply therapies directed at preserving or restoring the alveolocapillary barrier. For this&#xD;
+      reason, the investigators consider it of utmost importance to initiate the vasculoprotective&#xD;
+      treatment with imatinib as soon as possible (i.e., within 48 hours after ICU admission), not&#xD;
+      doing so would largely reduce validity of this trial. Additionally, the potential benefit&#xD;
+      from the intervention (which would not be available outside of given trial) is likely highest&#xD;
+      in the early phases.&#xD;
+&#xD;
+      Subjects admitted to the ICU with ARDS are, without exception, incompetent to give informed&#xD;
+      consent. Persons who may take the role of legal representative in accordance with the WGBO&#xD;
+      are: a predefined representative, husband or wife, registered partner or other life partner,&#xD;
+      a parent or child, brother or sister, and incidentally a curator appointed the judge.&#xD;
+      However, obtaining informed consent from a legal representative in this situation usually&#xD;
+      takes much time, even by an experienced research team (see Textbox A). Reasons include the&#xD;
+      absence of a legal representative within the first 48h after admission, and early after&#xD;
+      admission to the ICU the legal representatives are far more concerned about the wellbeing of&#xD;
+      the patient then participation in a trial.&#xD;
+&#xD;
+      For these reasons, the investigators opt for using deferred consent, where informed consent&#xD;
+      from a legal representative must be obtained as soon as possible, but always within 48 hours&#xD;
+      after intubation. While awaiting deferred consent, subjects will undergo screening and first&#xD;
+      baseline measurements. A PiCCO catheter will be placed (if not already in place), and the&#xD;
+      baseline EVLW and PCP measurement, as well as thoracic ultrasound in a subpopulation will be&#xD;
+      performed. The placement of a central venous catheter is part of standard care in intubated&#xD;
+      subjects. When deferred consent is provided the patient will continue study participation by&#xD;
+      randomisation and administration of the first IMP dose. When deferred consent is not obtained&#xD;
+      due to absence of a legal representative in the first 48 hours, or if a legal representative&#xD;
+      denies participation within the time window of 48 hours, the patient will not be enrolled and&#xD;
+      screening data will no longer be used. In that case, the PiCCO catheter will be used as&#xD;
+      arterial line as part of standard care, resulting in no net additional study procedures on&#xD;
+      top of standard care with the exception of the procedures needed to assess eligibility for&#xD;
+      the study.&#xD;
+&#xD;
+      Further consent will be sought from the patient if they recover sufficiently and regain&#xD;
+      decision-making capacity while in hospital.&#xD;
+&#xD;
+      11.2.3 No consent in subjects who die before obtaining deferred consent In case a patient&#xD;
+      dies before informed consent could be obtained from the legal representative, the&#xD;
+      investigators propose that the data collected during screening and at baseline will no longer&#xD;
+      be used. This will be recorded as a screening failure, and the reason for failure will be&#xD;
+      recorded.&#xD;
+&#xD;
+      11.2.4 Conclusion deferred consent Critically ill subjects in need of ventilation are,&#xD;
+      without exception, incapable to give informed consent at the moment of ICU admission. Patient&#xD;
+      screening, eligibility checking and placing the PICCO catheter instead of a &quot;normal arterial&#xD;
+      line&quot; are part of the study procedures but cannot wait until informed consent is obtained&#xD;
+      from a legal representative. Therefore, a deferred consent procedure is relevant for the&#xD;
+      current study. IStudy medication will only be administrered after informed consent.&#xD;
+&#xD;
+      11.2.5 Consent procedure&#xD;
+&#xD;
+      The recruitment of study subjects is as follows:&#xD;
+&#xD;
+        1. Approach of subjects (if patient is a candidate for study participation)&#xD;
+&#xD;
+             1. In cases where a legal representative is present / accessible at ICU admission:&#xD;
+&#xD;
+                The treating physician asks the legal representative if they would consider&#xD;
+                participation in a clinical trial for which they may be eligible and obtains their&#xD;
+                permission, for a member of the study team to contact them&#xD;
+&#xD;
+             2. If their legal representative is not present / accessible at ICU admission:&#xD;
+&#xD;
+           The treating physician contacts the study team who initiate the deferred consent&#xD;
+           procedure. During the deferred consent period, a member of the study team will regularly&#xD;
+           attempt to contact the patient's legal representative to obtain consent.&#xD;
+&#xD;
+        2. Informed consent The investigator gives the patient information and consent statement to&#xD;
+           the patient's legal representative answering any questions about the study they may have&#xD;
+           and providing additional information when requested. The legal representative has at&#xD;
+           least 6 hours to read and consider whether to provide consent. The informed consent form&#xD;
+           is signed within 48 hours from ICU admission.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 14, 2021</start_date>
+  <completion_date type="Anticipated">February 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomised, double-blind, parallel-group, placebo-controlled multi-centre clinical trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double-blinded trial in which the study participant and legal representative, as well as the treating nurses, physicians and researchers are blinded from viewing randomisation allocation.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in extravascular lung water index</measure>
+    <time_frame>Measurements conducted on days 1 - 7. Change measured between Day 1 and Day 4</time_frame>
+    <description>Change in extravascular lung water index (EVLWi) between day 1 and day 4, measured by PiCCO catheter.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary vascular permeability</measure>
+    <time_frame>PVPi measured and recorded on days 1 - 7.</time_frame>
+    <description>Pulmonary vascular permeability index (PVPi) measurement using PiCCO catheter.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PaO2/FiO2 ratio as measure of gas-exchange</measure>
+    <time_frame>Recorded on days 1, 2, 4, 7, 10 and, if available, day 28.</time_frame>
+    <description>PaO2/FiO2 ratio (PaO2 in mmHg) recorded from electronic patient chart.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygenation index as measure of gas-exchange</measure>
+    <time_frame>Recorded on days 1, 2, 4, 7, 10 and, if available, day 28.</time_frame>
+    <description>Oxygenation index (i.e. mean airway pressure (in cmH2O)*FiO2*100/PaO2) recorded from electronic patient chart.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Driving pressure as an indicator of global lung strain</measure>
+    <time_frame>Recorded on days 1, 2, 4, 7, 10 and, if available, day 28.</time_frame>
+    <description>Driving pressure (plateau pressure - positive end expiratory pressure (PEEP)) in cmH2O, calculated using the respective parameters recorded in the electronic patient chart.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compliance as a measure of respiratory mechanics</measure>
+    <time_frame>Recorded on days 1, 2, 4, 7, 10 and, if available, day 28.</time_frame>
+    <description>Compliance (tidal volume/driving pressure) in ml/cm H2O, calculated using the respective parameters recorded in the electronic patient chart.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical power as quantification of the energy load delivered to the lung per positive pressure breath</measure>
+    <time_frame>Recorded on days 1, 2, 4, 7, 10 and, if available, day 28.</time_frame>
+    <description>Mechanical power (0.098*respiratory rate*tidal volume/1000*PEEP + pressure above PEEP) in J/min, calculated using the respective parameters recorded in the electronic patient chart.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pro-inflammatory cytokines</measure>
+    <time_frame>All markers measured on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>Pro-inflammatory cytokines IL-6 and IL-8 as biomarkers of inflammation measured in blood samples.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Matrix metalloproteinases as markers of inflammation</measure>
+    <time_frame>All markers measured on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>Matrix metalloproteinases as biomarkers of inflammation measured in blood samples.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-dimer as an inflammatory biomarker</measure>
+    <time_frame>All markers measured on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>D-dimer (in mcg/ml) as a biomarker of inflammation measured in blood samples.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Angiopoietin-1 and -2 as biomarkers of endothelial activation and injury</measure>
+    <time_frame>All markers measured on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>Measurement of plasma biomarkers of endothelial activation and injury such as angiopoietin-1 and -2 measured in blood samples.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Soluble thrombomodulin as a biomarker of endothelial activation and injury</measure>
+    <time_frame>All markers measured on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>Measurement of plasma biomarkers of endothelial activation and injury such as soluble thrombomodulin measured in blood samples.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Surfactant as biomarker of lung epithelial injury</measure>
+    <time_frame>All markers measured on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>Measurement of surfactant as a biomarker of lung injury, measured in blood samples.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Protein biomarkers of lung epithelial injury</measure>
+    <time_frame>All markers measured on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>Measurement of proteins implicated in epithelial injury such as protein D measured in blood samples.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SOFA score as organ function and outcome measure</measure>
+    <time_frame>The SOFA score will be recorded on days 1, 2, 4, 7, 10 and, if available, day 28.</time_frame>
+    <description>Sequential Organ Failure Assessment (SOFA) score (minimum 0, maximum 24 points whereby 24 points is the worst outcome, indicating a mortality &gt;90%) recorded as a measure of organ function and outcome. The SOFA score uses the following parameters to score clinical condition: patient on mechanical ventilation (yes or no), Glasgow Coma Scale (as a measure of neurological status), total serum bilirubin (as a measure of liver function), number of platelets, mean arterial pressure / need for the use of vasopressors, serum creatinine (as a measure of kidney function).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WHO ordinal scale for clinical improvement as functional outcome measure</measure>
+    <time_frame>The WHO ordinal scale will be recorded on days 1, 2, 4, 7, 10 and, if available, day 28.</time_frame>
+    <description>The WHO Ordinal Scale for Clinical Improvement (0 to 8, where a higher value indicates worse outcome) describes clinical condition using the following categories: Uninfected, Ambulatory (no limitation of activities), Ambulatory (limitation of activities), Hospitalized (no O2 therapy), Hospitalized (O2 by nasal prongs or mask), Hospitalized (O2 by NIV or HFNO), Hospitalized ( invasive menchanical ventilation), Hospitalized (requiring organ support (vasopressors, CVVH, ECMO)), Death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Morbidity and mortality outcomes</measure>
+    <time_frame>All measures are recorded as days until day 28.</time_frame>
+    <description>Morbidity and mortality will be described using the following:&#xD;
+Number of ventilator-free days until day 28&#xD;
+Duration of mechanical ventilation in days until day 28&#xD;
+Length of ICU stay in days until day 28&#xD;
+Hospital length of stay in days until day 28&#xD;
+Number of days alive until day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>28-day mortality</measure>
+    <time_frame>28-day mortality will be recorded in percentage of patients deceased until day 28.</time_frame>
+    <description>Mortality will be recorded as 28-day mortality (in %).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemoglobin cell count as drug safety parameter</measure>
+    <time_frame>All drug safety parameters are measured and recorded on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>Haemoglobin (in mmol/L) as a measure of drug safety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood cell count as drug safety parameter</measure>
+    <time_frame>All drug safety parameters are measured and recorded on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>Blood cell count, i.e. thrombocytes and leucocytes (both x10^9/L) as a measure of drug safety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum creatinine as measure of kidney function</measure>
+    <time_frame>All drug safety parameters are measured and recorded on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>Kidney function, i.e. serum creatinine (mmol/L) as a measure of drug safety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimated glomerular filtration rate as measure of kidney function</measure>
+    <time_frame>All drug safety parameters are measured and recorded on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>Estimated glomerular filtration rate (in ml/min) as a measure of drug safety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Electrolytes as drug safety parameters</measure>
+    <time_frame>All drug safety parameters are measured and recorded on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>Electrolytes sodium and potassium (both in mmol/L) recorded as a measure of kidney function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liver enzymes as drug safety parameter</measure>
+    <time_frame>All drug safety parameters are measured and recorded on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>Liver enzymes, i.e., AST, ALT, Alkaline Phosphatase, γ-glutamyl transferase (all in U/L).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum bilirubin as drug safety parameter</measure>
+    <time_frame>All drug safety parameters are measured and recorded on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>Total serum bilirubin (in micromol/L) as a measure of liver function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NT-proBNP as drug safety parameter</measure>
+    <time_frame>All drug safety parameters are measured and recorded on days 1, 2, 4, 7 and 10.</time_frame>
+    <description>NT-proBNP (in pg/ml), i.e. B-type natriuretic peptide, as a biomarker of cardiac stress and strain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reporting of adverse and serious adverse events</measure>
+    <time_frame>Adverse and serious adverse events will be recorded daily until day 28.</time_frame>
+    <description>The following events will be recorded:&#xD;
+Adverse events:&#xD;
+Pulmonary embolism, not leading to circulatory of pulmonary instability.&#xD;
+Infections requiring antibiotic therapy&#xD;
+Non-life-threatening infusion reactions.&#xD;
+Serious adverse events:&#xD;
+Death (any cause)&#xD;
+Cardiopulmonary:&#xD;
+Extracorporeal membrane oxygenation&#xD;
+Arrythmias requiring resuscitation.&#xD;
+Thrombo-embolic events with life-threatening circulatory or pulmonary instability&#xD;
+Spontaneous bleeding, requiring blood transfusion or surgical intervention.&#xD;
+Myocardial infarction&#xD;
+Renal replacement therapy&#xD;
+Liver failure (bilirubin SOFA score &gt;4)&#xD;
+Thrombocytopenia (&lt;50^109/L), diffuse intravascular coagulation, leukopenia (&lt;2^109/L), anaemia (Hb &lt;4mmol/L).&#xD;
+Intracranial bleeding or ischemic stroke.&#xD;
+Life-threatening infusion reactions, requiring additional vasopressor, fluid support, corticosteroids and antihistamines.&#xD;
+Any unexpected serious event judged as an &quot;untoward medical occurrence&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Corrected QT interval on ECG</measure>
+    <time_frame>The corrected QT interval on ECG will be recorded on days 1 - 10.</time_frame>
+    <description>The corrected QT interval on ECG will be recorded using a 12-lead ECG.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total concentration as a pharmacokinetic measure of imatinib</measure>
+    <time_frame>Measurements on day 1 at moment of infusion (i.e. T0) and 2, 4 and 8 hours after start of IMP infusion. Further measurements once daily on days 2, 4 and 7.</time_frame>
+    <description>Measurement of imatinib total concentration (Cmax) in blood samples.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Free fraction as a pharmacokinetic measure of imatinib</measure>
+    <time_frame>Measurements on day 1 at moment of infusion (i.e. T0) and 2, 4 and 8 hours after start of IMP infusion. Further measurements once daily on days 2, 4 and 7.</time_frame>
+    <description>Measurement of imatinib free fraction (ƒP) in blood samples.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Imatinib metabolite AGP</measure>
+    <time_frame>Measurements on day 1 at moment of infusion (i.e. T0) and 2, 4 and 8 hours after start of IMP infusion. Further measurements once daily on days 2, 4 and 7.</time_frame>
+    <description>Measurement imatinib metabolite AGP (alpha-1-acid glycoprotein in mg/ml) in blood samples.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Imatinib metabolite albumin</measure>
+    <time_frame>Measurements on day 1 at moment of infusion (i.e. T0) and 2, 4 and 8 hours after start of IMP infusion. Further measurements once daily on days 2, 4 and 7.</time_frame>
+    <description>Measurement imatinib metabolite albumin (in g/L).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Thoracic ultrasound</measure>
+    <time_frame>Measurements on day 1 and day 4.</time_frame>
+    <description>Thoracic ultrasound will be performed in a subset of 35-40 patients to evaluate and compare extravascular lung water measurements obtained by PiCCO.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Baseline demographic parameters</measure>
+    <time_frame>Baseline demographics collected at baseline (day 0).</time_frame>
+    <description>Other parameters collected will be:&#xD;
+Baseline demographics collected will include: age, sex, race, intoxications.&#xD;
+Medical history and comorbidity;&#xD;
+Vital parameters;&#xD;
+Use of concomittant medication.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Medical history and comorbidities</measure>
+    <time_frame>Medical history collected at baseline (day 0).</time_frame>
+    <description>Medical history and comorbidities will include all relevant medical history (i.e. systemic, metabolic, cardiac, pulmonary, malignancies, previous immuno-, chemo- or thoracic radiotherapy) and all elements pertaining to the Charlson comorbidity index.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Heart rate as vital parameter</measure>
+    <time_frame>Collected on days 1 - 7,10 and, if available, 28.</time_frame>
+    <description>Heart rate (beats/min) will be recorded daily as part of vital parameters.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mean arterial blood pressure as vital parameter</measure>
+    <time_frame>Collected on days 1 - 7,10 and, if available, 28.</time_frame>
+    <description>Mean arterial blood pressure (mmHg) will be recorded daily as part of vital parameters.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Respiratory rate as vital parameter</measure>
+    <time_frame>Collected on days 1 - 7,10 and, if available, 28.</time_frame>
+    <description>Respiratory rate (breaths/min) will be recorded daily as part of vital parameters.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Temperature as vital parameter</measure>
+    <time_frame>Collected on days 1 - 7,10 and, if available, 28.</time_frame>
+    <description>Temperature (in degrees Celsius) will be recorded daily as part of vital parameters.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Oxygen saturation as vital parameter</measure>
+    <time_frame>Collected on days 1 - 7,10 and, if available, 28.</time_frame>
+    <description>Oxygen saturation (SpO2) will be recorded daily as part of vital parameters.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Cumulative fluid balance and urine production</measure>
+    <time_frame>Collected on days 1 - 7,10 and, if available, 28.</time_frame>
+    <description>Cumulative fluid balance and cumulative urine production (both in L per 24 hours) will be recorded daily as part of vital parameters.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Concomitant medication</measure>
+    <time_frame>Concomitant medication will be collected on days 1 - 7,10 and, if available, 28.</time_frame>
+    <description>The use of relevant concomitant medication will be recorded. Medication of particular important include: anticoagulant therapy, immune modulators (tocilizumab and corticosteroids) and the use of CYP-3A4 inhibitors.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>ARDS</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>Covid19</condition>
+  <condition>Endothelial Dysfunction</condition>
+  <condition>Pulmonary Edema</condition>
+  <arm_group>
+    <arm_group_label>Intravenous imatinib mesylate (Impentri®)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receiving the active investigational medicinal product will be receiving imatinib 200mg b.i.d. (administered as an 8 mg/mL solution for i.v. infusion) for 7 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo solution</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients receiving the placebo comparator will be receiving the same amount of intravenous solution, however containing 0.01M acetate buffer with 1.9% glycerol.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Imatinib Mesylate intravenous solution</intervention_name>
+    <description>A 25ml volume of IMP will be administered over 2-hours as an intravenous infusion. This corresponds to a dose of 200mg imatinib (100mg/h).</description>
+    <arm_group_label>Intravenous imatinib mesylate (Impentri®)</arm_group_label>
+    <other_name>Imatinib</other_name>
+    <other_name>Impetri</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>A 25ml volume of IMP will be administered over 2-hours as an intravenous infusion. This corresponds to a dose of 25ml placebo (12.5ml/h).</description>
+    <arm_group_label>Placebo solution</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years;&#xD;
+&#xD;
+          -  Moderate-severe ARDS, as defined by Berlin definition for ARDS (onset within 1 week of&#xD;
+             a known clinical insult or new or worsening respiratory symptoms, bilateral opacities&#xD;
+             not fully explained by effusions, lobar/lung collapse, or nodules, respiratory failure&#xD;
+             not fully explained by cardiac failure or fluid overload and P/F ratio ≤200 mmHg with&#xD;
+             PEEP ≥5 cmH2O), and intubated for mechanical ventilation.&#xD;
+&#xD;
+          -  PCR positive for SARS-CoV2 within the current disease episode.&#xD;
+&#xD;
+          -  Provision of signed written informed consent from the patient or patient's legally&#xD;
+             authorised representative;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Persistent septic shock (&gt;24h) with a Mean Arterial Pressure (MAP) ≤ 65 mm Hg and&#xD;
+             serum lactate level &gt; 4 mmol/L (36 mg/dL) despite adequate volume resuscitation and&#xD;
+             vasopressor use (norepinephrine &gt; 0.2 μg/kg/min) for &gt; 6 hours;&#xD;
+&#xD;
+          -  Pre-existing chronic pulmonary disease, including:&#xD;
+&#xD;
+               -  Known diagnosis of Interstitial Lung disease&#xD;
+&#xD;
+               -  Known diagnosis of COPD GOLD Stage IV or FEV1&lt;30% predicted&#xD;
+&#xD;
+               -  DLCO &lt;45% (if test results are available)&#xD;
+&#xD;
+               -  Total lung capacity (TLC) &lt; 60% of predicted (if test results are available);&#xD;
+&#xD;
+          -  Chronic home oxygen treatment;&#xD;
+&#xD;
+          -  Pre-existing heart failure with a known left ventricular ejection fraction &lt;40%;&#xD;
+&#xD;
+          -  Active treatment of haematological or non-haematological cancer with targeted immuno-&#xD;
+             or chemotherapy, or thoracic radiotherapy in the last year;&#xD;
+&#xD;
+          -  Currently receiving extracorporeal life support (ECLS);&#xD;
+&#xD;
+          -  Severe chronic liver disease with Child-Pugh score &gt; 12;&#xD;
+&#xD;
+          -  Subjects in whom a decision to withdraw medical care is made (e.g. palliative&#xD;
+             setting);&#xD;
+&#xD;
+          -  Inability of the ICU staff to initiate IMP administration within 48 hours of&#xD;
+             intubation;&#xD;
+&#xD;
+          -  Known to be pregnant or breast-feeding;&#xD;
+&#xD;
+          -  Enrolled in a concomitant clinical trial of an investigational medicinal product;&#xD;
+&#xD;
+          -  White blood count &lt; 2.5x109/l;&#xD;
+&#xD;
+          -  Haemoglobin &lt; 4.0 mmol/l;&#xD;
+&#xD;
+          -  Thrombocytes &lt; 50x109/l;&#xD;
+&#xD;
+          -  The use of strong CYP3A4 inducers, including the following drugs:&#xD;
+&#xD;
+               -  Carbamazepine, efavirenz, enzalutamide, fenobarbital, fenytoine, hypericum,&#xD;
+                  mitotaan, nevirapine, primidon, rifabutine, rifampicine;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jurjan Aman, Dr.</last_name>
+    <role>Study Director</role>
+    <affiliation>Amsterdam Universitair Medische Centra, location VUmc</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jurjan Aman, Dr.</last_name>
+    <phone>020-4441896</phone>
+    <email>j.aman@amsterdamumc.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lieuwe DJ Bos, Dr.</last_name>
+    <phone>020-5664356</phone>
+    <email>l.d.bos@amsterdamumc.nl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Amsterdam Universitair Medische Centra, location VUmc</name>
+      <address>
+        <city>Amsterdam</city>
+        <state>Noord-Holland</state>
+        <zip>1081 HV</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jurjan Aman, Dr.</last_name>
+      <phone>020-4441896</phone>
+      <email>j.aman@amsterdamumc.nl</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lieuwe DJ Bos, Dr.</last_name>
+      <phone>020-5664356</phone>
+      <email>l.d.bos@amsterdamumc.nl</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Amsterdam Universitair Medische Centra, location AMC</name>
+      <address>
+        <city>Amsterdam</city>
+        <state>Noord-Holland</state>
+        <zip>1105 AZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lieuwe DJ Bos, Dr.</last_name>
+      <phone>020-5664356</phone>
+      <email>l.d.bos@amsterdamumc.nl</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marcus J Schultz, Prof. dr.</last_name>
+      <phone>020-5662209</phone>
+      <email>m.j.schultz@amsterdamumc.nl</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <reference>
+    <citation>Aman J, van Bezu J, Damanafshan A, Huveneers S, Eringa EC, Vogel SM, Groeneveld AB, Vonk Noordegraaf A, van Hinsbergh VW, van Nieuw Amerongen GP. Effective treatment of edema and endothelial barrier dysfunction with imatinib. Circulation. 2012 Dec 4;126(23):2728-38. doi: 10.1161/CIRCULATIONAHA.112.134304. Epub 2012 Oct 25.</citation>
+    <PMID>23099479</PMID>
+  </reference>
+  <reference>
+    <citation>Breccia M, Abruzzese E, Bocchia M, Bonifacio M, Castagnetti F, Fava C, Galimberti S, Gozzini A, Gugliotta G, Iurlo A, Latagliata R, Luciano L, Pregno P, Rege-Cambrin G, Rosti G, Stagno F, Tiribelli M, Foà R, Saglio G; Campus CML working group. Chronic myeloid leukemia management at the time of the COVID-19 pandemic in Italy. A campus CML survey. Leukemia. 2020 Aug;34(8):2260-2261. doi: 10.1038/s41375-020-0904-z. Epub 2020 Jun 18.</citation>
+    <PMID>32555369</PMID>
+  </reference>
+  <reference>
+    <citation>Chislock EM, Pendergast AM. Abl family kinases regulate endothelial barrier function in vitro and in mice. PLoS One. 2013 Dec 19;8(12):e85231. doi: 10.1371/journal.pone.0085231. eCollection 2013.</citation>
+    <PMID>24367707</PMID>
+  </reference>
+  <reference>
+    <citation>Coleman CM, Sisk JM, Mingo RM, Nelson EA, White JM, Frieman MB. Abelson Kinase Inhibitors Are Potent Inhibitors of Severe Acute Respiratory Syndrome Coronavirus and Middle East Respiratory Syndrome Coronavirus Fusion. J Virol. 2016 Sep 12;90(19):8924-33. doi: 10.1128/JVI.01429-16. Print 2016 Oct 1.</citation>
+    <PMID>27466418</PMID>
+  </reference>
+  <reference>
+    <citation>Kim IK, Rhee CK, Yeo CD, Kang HH, Lee DG, Lee SH, Kim JW. Effect of tyrosine kinase inhibitors, imatinib and nilotinib, in murine lipopolysaccharide-induced acute lung injury during neutropenia recovery. Crit Care. 2013 Jun 20;17(3):R114. doi: 10.1186/cc12786.</citation>
+    <PMID>23787115</PMID>
+  </reference>
+  <reference>
+    <citation>Kurimoto N, Nan YS, Chen ZY, Feng GG, Komatsu T, Kandatsu N, Ko J, Kawai N, Ishikawa N. Effects of specific signal transduction inhibitors on increased permeability across rat endothelial monolayers induced by neuropeptide Y or VEGF. Am J Physiol Heart Circ Physiol. 2004 Jul;287(1):H100-6. Epub 2004 Feb 19.</citation>
+    <PMID>14975929</PMID>
+  </reference>
+  <reference>
+    <citation>Langberg MK, Berglund-Nord C, Cohn-Cedermark G, Haugnes HS, Tandstad T, Langberg CW. Imatinib may reduce chemotherapy-induced pneumonitis. A report on four cases from the SWENOTECA. Acta Oncol. 2018 Oct;57(10):1401-1406. doi: 10.1080/0284186X.2018.1479072. Epub 2018 Jun 5.</citation>
+    <PMID>29869895</PMID>
+  </reference>
+  <reference>
+    <citation>Letsiou E, Rizzo AN, Sammani S, Naureckas P, Jacobson JR, Garcia JG, Dudek SM. Differential and opposing effects of imatinib on LPS- and ventilator-induced lung injury. Am J Physiol Lung Cell Mol Physiol. 2015 Feb 1;308(3):L259-69. doi: 10.1152/ajplung.00323.2014. Epub 2014 Dec 5.</citation>
+    <PMID>25480336</PMID>
+  </reference>
+  <reference>
+    <citation>Morales-Ortega A, Bernal-Bello D, Llarena-Barroso C, Frutos-Pérez B, Duarte-Millán MÁ, García de Viedma-García V, Farfán-Sedano AI, Canalejo-Castrillero E, Ruiz-Giardín JM, Ruiz-Ruiz J, San Martín-López JV. Imatinib for COVID-19: A case report. Clin Immunol. 2020 Sep;218:108518. doi: 10.1016/j.clim.2020.108518. Epub 2020 Jun 27.</citation>
+    <PMID>32599278</PMID>
+  </reference>
+  <reference>
+    <citation>Mumprecht S, Matter M, Pavelic V, Ochsenbein AF. Imatinib mesylate selectively impairs expansion of memory cytotoxic T cells without affecting the control of primary viral infections. Blood. 2006 Nov 15;108(10):3406-13. Epub 2006 Jul 27.</citation>
+    <PMID>16873671</PMID>
+  </reference>
+  <reference>
+    <citation>Overbeek MJ, van Nieuw Amerongen GP, Boonstra A, Smit EF, Vonk-Noordegraaf A. Possible role of imatinib in clinical pulmonary veno-occlusive disease. Eur Respir J. 2008 Jul;32(1):232-5. doi: 10.1183/09031936.00054407.</citation>
+    <PMID>18591341</PMID>
+  </reference>
+  <reference>
+    <citation>Peng B, Dutreix C, Mehring G, Hayes MJ, Ben-Am M, Seiberling M, Pokorny R, Capdeville R, Lloyd P. Absolute bioavailability of imatinib (Glivec) orally versus intravenous infusion. J Clin Pharmacol. 2004 Feb;44(2):158-62.</citation>
+    <PMID>14747424</PMID>
+  </reference>
+  <reference>
+    <citation>Reeves PM, Bommarius B, Lebeis S, McNulty S, Christensen J, Swimm A, Chahroudi A, Chavan R, Feinberg MB, Veach D, Bornmann W, Sherman M, Kalman D. Disabling poxvirus pathogenesis by inhibition of Abl-family tyrosine kinases. Nat Med. 2005 Jul;11(7):731-9. Epub 2005 Jun 26. Erratum in: Nat Med. 2005 Dec;11(12):1361.</citation>
+    <PMID>15980865</PMID>
+  </reference>
+  <reference>
+    <citation>Rhee CK, Lee SH, Yoon HK, Kim SC, Lee SY, Kwon SS, Kim YK, Kim KH, Kim TJ, Kim JW. Effect of nilotinib on bleomycin-induced acute lung injury and pulmonary fibrosis in mice. Respiration. 2011;82(3):273-87. doi: 10.1159/000327719. Epub 2011 Jun 9.</citation>
+    <PMID>21659722</PMID>
+  </reference>
+  <reference>
+    <citation>Rizzo AN, Aman J, van Nieuw Amerongen GP, Dudek SM. Targeting Abl kinases to regulate vascular leak during sepsis and acute respiratory distress syndrome. Arterioscler Thromb Vasc Biol. 2015 May;35(5):1071-9. doi: 10.1161/ATVBAHA.115.305085. Epub 2015 Mar 26. Review.</citation>
+    <PMID>25814671</PMID>
+  </reference>
+  <reference>
+    <citation>Singh N, Kumar L, Meena R, Velpandian T. Drug monitoring of imatinib levels in patients undergoing therapy for chronic myeloid leukaemia: comparing plasma levels of responders and non-responders. Eur J Clin Pharmacol. 2009 Jun;65(6):545-9. doi: 10.1007/s00228-009-0621-z. Epub 2009 Feb 12.</citation>
+    <PMID>19214491</PMID>
+  </reference>
+  <reference>
+    <citation>Stephens RS, Johnston L, Servinsky L, Kim BS, Damarla M. The tyrosine kinase inhibitor imatinib prevents lung injury and death after intravenous LPS in mice. Physiol Rep. 2015 Nov;3(11). pii: e12589. doi: 10.14814/phy2.12589.</citation>
+    <PMID>26620257</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 11, 2021</study_first_posted>
+  <last_update_submitted>March 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>VU University Medical Center</investigator_affiliation>
+    <investigator_full_name>Dr. Jurjan Aman</investigator_full_name>
+    <investigator_title>Dr. J. Aman, Trial Coordinator</investigator_title>
+  </responsible_party>
+  <keyword>ARDS</keyword>
+  <keyword>Acute Respiratory Distress Syndrome</keyword>
+  <keyword>COVID19</keyword>
+  <keyword>IMATINIB</keyword>
+  <keyword>IMATINIB MESYLATE</keyword>
+  <keyword>ENDOTHELIAL DYSFUNCTION</keyword>
+  <keyword>PULMONARY VASCULAR LEAK</keyword>
+  <keyword>PULMONARY EDEMA</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Pulmonary Edema</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Imatinib Mesylate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1441">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04391309</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DAIT COVID-19-003</org_study_id>
+    <secondary_id>NIAID CRMS ID#: 38756</secondary_id>
+    <secondary_id>UM1AI109565</secondary_id>
+    <nct_id>NCT04391309</nct_id>
+  </id_info>
+  <brief_title>COVID-19 and Anti-CD14 Treatment Trial</brief_title>
+  <acronym>CaTT</acronym>
+  <official_title>Phase 2, Randomized, Double-Blind, Placebo-Controlled Study of the Effect of Anti-CD14 Treatment in Hospitalized Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Washington</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Implicit Bioscience</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Vanderbilt University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>PPD</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to address the following objectives:&#xD;
+&#xD;
+        1. To determine the efficacy of IC14, an anti-CD14 chimeric monoclonal antibody, in&#xD;
+           patients hospitalized with respiratory disease and hypoxemia due to SARS-CoV-2, in terms&#xD;
+           of improving the time to resolution of disease.&#xD;
+&#xD;
+        2. To determine the efficacy of IC14 in reducing the severity of respiratory disease in&#xD;
+           patients hospitalized with respiratory disease due to SARS-CoV-2.&#xD;
+&#xD;
+        3. To determine the safety of IC14 in patients hospitalized with respiratory disease due to&#xD;
+           SARS-CoV-2.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multicenter, randomized, double-blind, placebo-controlled study of IC14, an&#xD;
+      antibody to CD14, in reducing the severity of respiratory disease in hospitalized Coronavirus&#xD;
+      Disease 2019 (COVID-19) patients.&#xD;
+&#xD;
+      Participants will be randomized to IC14 or matching placebo and followed for 60 days after&#xD;
+      randomization. The study drug will be administered daily on Days 1-4 by intravenous infusion.&#xD;
+      All participants will receive standard of care antiviral therapy with remdesivir.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 12, 2021</start_date>
+  <completion_date type="Anticipated">February 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, Double-Blind, Placebo-Controlled</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Placebo consists of identical-appearing diluent</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to Clinical Recovery</measure>
+    <time_frame>Day 0-28</time_frame>
+    <description>The Primary Endpoint is time to clinical recovery, defined as the time from baseline to the first day that a subject is in categories 1, 2, or 3 on the Eight-Point Ordinal Scale through Day 28 (range 1 [best] to 8 [worst]). The Eight-Point Ordinal Scale is an assessment of the clinical status on each study day. The Scale is defined as follows:&#xD;
+Not hospitalized, no limitations on activities&#xD;
+Not hospitalized, limitation on activities and/or requiring home oxygen&#xD;
+Hospitalized, not requiring supplemental oxygen-no longer requires ongoing medical care&#xD;
+Hospitalized, not requiring supplemental oxygen-requiring ongoing medical care (COVID-19-related or otherwise)&#xD;
+Hospitalized, requiring supplemental oxygen&#xD;
+Hospitalized, on non-invasive ventilation or high-flow oxygen devices&#xD;
+Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO)&#xD;
+Death</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Days Alive and Free of Any Episodes of Acute Respiratory Failure through Day 28</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Defined by need for any of the following oxygen delivery resources:&#xD;
+High-flow nasal cannula (flow rates ≥30L/min with FiO2 ≥0.4)&#xD;
+Noninvasive positive-pressure ventilation through nasal or face mask, or nasal plugs&#xD;
+Endotracheal intubation and mechanical ventilation&#xD;
+Extracorporeal membrane oxygenation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change in the Ordinal Scale (Range 1 [Best] to 8 [Worst])</measure>
+    <time_frame>Days 0-14 and Days 0-28</time_frame>
+    <description>Ordinal scale as defined above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ordinal Scale Value on Day 14 (Range 1 [Best] to 8 [Worst])</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Ordinal scale as defined above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-Cause Mortality through Days 28 and 60</measure>
+    <time_frame>Days 0-28 and Days 0-60</time_frame>
+    <description>Mortality due to all causes during the observation period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants Alive and Free of Any Episode of Acute Respiratory Failure through Day 28</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Defined by need for any of the following oxygen delivery resources:&#xD;
+High-flow nasal cannula (flow rates ≥30L/min with FiO2 ≥0.4)&#xD;
+Noninvasive positive-pressure ventilation&#xD;
+Endotracheal intubation and mechanical ventilation&#xD;
+Extracorporeal membrane oxygenation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days Alive and Free of Invasive Mechanical Ventilation through Day 28</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Invasive mechanical ventilation defined above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants Alive and Free of Invasive Mechanical Ventilation through Day 28</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Invasive mechanical ventilation defined above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants Alive and Discharged from the Hospital through Day 28</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Discharged from hospital and alive</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants who Begin Corticosteroid Therapy for Worsening COVID-19 Illness after Randomization</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Initiation of systemic corticosteroid therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serious Adverse Events (SAEs)</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Cumulative incidence of serious adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events (AEs)</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Cumulative incidence of Grade 3 and 4 clinical and/or laboratory adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of IC14 as Measured by Change from Baseline in ALT and AST Liver Function Tests</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Serum liver function tests, hepatic/metabolic biomarkers:&#xD;
+serum alanine aminotransferase (ALT/SGPT), and&#xD;
+serum aspartate aminotransferase (AST/SGOT)&#xD;
+Unit of Measure: U/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of IC14 as Measured by Change from Baseline in Liver Function Measured by Total Bilirubin</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Serum total bilirubin, an hepatic/metabolic biomarker.&#xD;
+Unit of Measure: mg/dL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of IC14 as Measured by Change from Baseline in Serum Creatinine</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Evaluation of kidney function by serum creatinine laboratory test.&#xD;
+Unit of Measure mg/dL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of IC14 as Measured by Change from Baseline in Hemoglobin</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>A hematologic measure (g/dL).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of IC14 as Measured by Change from Baseline in White Blood Cell Count</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Hematologic measure: White Blood Cell (WBC) count.&#xD;
+Unit of Measure: 1.0x10^3/mcL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of IC14 as Measured by Change from Baseline in Differential White Blood Count</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Hematology parameters: differential white blood cells (WBC) count (neutrophils, lymphocytes, monocytes, eosinophil's, and basophils).&#xD;
+Unit of measure (absolute): K/mcL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of IC14 as Measured by Change from Baseline in Platelet Count</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Hematologic/coagulation parameter.&#xD;
+Unit of Measure: 1.0x10^3/mcL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of IC14 as Measured by Change from Baseline in Prothrombin Time</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Coagulation function. Unit of measure: seconds</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>EXPLORATORY: Change in Sequential Organ Failure Assessment (SOFA) Score from Baseline to Days 7, 14, 21 and 28</measure>
+    <time_frame>Days 0-7, Days 0-14, Days 0-21, and Days 0-28</time_frame>
+    <description>Sequential Organ Failure Assessment score (range 0 [best] to 24 [worst])</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>EXPLORATORY: Worst SOFA Score from Baseline to Day 28</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Sequential Organ Failure Assessment score (range 0 [best] to 24 [worst])</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>EXPLORATORY: Time from Baseline to Improvement in One Category Using an Ordinal Scale through Day 28</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Ordinal scale defined above (range 1 [best] to 8 [worst])</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>EXPLORATORY: Time from Baseline to Improvement in Two Categories Using an Ordinal Scale through Day 28</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Ordinal scale defined above (range 1 [best] to 8 [worst])</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>EXPLORATORY: Proportion of Participants with Negative Nasal Swabs for SARS CoV2 Virus</measure>
+    <time_frame>Up to Day 14</time_frame>
+    <description>Nasal swab culture for SARS COV2</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>EXPLORATORY: Change from Baseline in Pro-Inflammatory Cytokines</measure>
+    <time_frame>Days 0, 4, 7, 14 and 21</time_frame>
+    <description>Pro-inflammatory cytokines are involved in the up-regulation of inflammatory reactions.&#xD;
+Exploratory blood serum samples evaluated by ELISA assay, will include the following:&#xD;
+Tumor Necrosis Factor-alpha (TNF-α),&#xD;
+Interleukin-1 beta (IL-1B),&#xD;
+Interleukin-6 (IL-6),&#xD;
+Interleukin-8 (IL-8),&#xD;
+Interleukin-10 (IL-10), and&#xD;
+granulocyte-macrophage colony-stimulating factor (GM-CSF)&#xD;
+Unit of Measure: pg/mL</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>EXPLORATORY: Change from Baseline in C-Reactive Protein (CRP)</measure>
+    <time_frame>Days 0, 4, 7, 14 and 21</time_frame>
+    <description>An inflammatory biomarker.&#xD;
+Unit of Measure: mg/L</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>EXPLORATORY: Change from Baseline in Ferritin</measure>
+    <time_frame>Days 0, 4, 7, 14 and 21</time_frame>
+    <description>An inflammatory biomarker.&#xD;
+Unit of Measure: mcg/L</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>EXPLORATORY: Change from Baseline in Lactate Dehydrogenase (LDH)</measure>
+    <time_frame>Days 0, 4, 7, 14 and 21</time_frame>
+    <description>An inflammatory biomarker.&#xD;
+Unit of Measure:U/L</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Coronavirus Disease 2019 (COVID-19)</condition>
+  <condition>Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)</condition>
+  <arm_group>
+    <arm_group_label>anti-CD14 + SOC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Anti-CD14: 150 participants randomized to 4 mg/kg on Day 1, 2 mg/kg on Days 2-4 intravenously.&#xD;
+Standard of Care (SOC): All participants will receive remdesivir (antiviral) according to current approved dosing for COVID-19 illness.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + SOC</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>150 participants randomized to Placebo diluent on Days 1-4 intravenously.&#xD;
+Standard of Care (SOC): All participants will receive remdesivir (antiviral) according to current approved dosing for COVID-19 illness.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>anti-CD14</intervention_name>
+    <description>4 mg/kg on Day 1, 2 mg/kg on Days 2-4 administered intravenously (IV)</description>
+    <arm_group_label>anti-CD14 + SOC</arm_group_label>
+    <other_name>monoclonal antibody to CD14</other_name>
+    <other_name>IC14</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo administered intravenously on Days 1-4</description>
+    <arm_group_label>Placebo + SOC</arm_group_label>
+    <other_name>Placebo for anti-CD14</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>remdesivir</intervention_name>
+    <description>Remdesivir administered intravenously for 5 days beginning with a 200 mg loading dose on Day 1, followed by 100 mg/day on Days 2-5.</description>
+    <arm_group_label>Placebo + SOC</arm_group_label>
+    <arm_group_label>anti-CD14 + SOC</arm_group_label>
+    <other_name>Veklury®</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients included in the study must meet all the following criteria:&#xD;
+&#xD;
+          -  Patient or legally authorized representative able to provide informed consent&#xD;
+&#xD;
+          -  Presence of SARS-CoV-2 infection documented by positive RT-PCR testing or history of&#xD;
+             positive RT-PCR test for SARS-CoV-2 within 7 days of screening&#xD;
+&#xD;
+          -  Radiologic findings compatible with diagnosis of SARS-CoV-2 pulmonary infection&#xD;
+&#xD;
+          -  Hypoxemia as defined by any of the following:&#xD;
+&#xD;
+               -  SpO2 ≤94% on room air, or&#xD;
+&#xD;
+               -  Requirement for ≥2L/m O2 per standard nasal cannula to maintain SpO2≥94%, but not&#xD;
+                  requiring high-flow nasal cannula (defined as ≥30 L/m), and&#xD;
+&#xD;
+          -  Negative pregnancy test for women of childbearing potential and, must be willing to&#xD;
+             use birth control for the duration of the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        An individual fulfilling any of the following criteria should be excluded from enrollment&#xD;
+        in the study:&#xD;
+&#xD;
+          -  Receiving non-invasive positive-pressure ventilation through nasal mask, face mask, or&#xD;
+             nasal plugs&#xD;
+&#xD;
+          -  Receiving invasive mechanical ventilation&#xD;
+&#xD;
+          -  Patient, surrogate, or physician not committed to full support&#xD;
+&#xD;
+             --Exception: a participant will not be excluded if he/she would receive all supportive&#xD;
+             care other than attempts at resuscitation from cardiac arrest)&#xD;
+&#xD;
+          -  Anticipated survival &lt;48 hours&#xD;
+&#xD;
+          -  Underlying malignancy, or other condition, with estimated life expectancy of less than&#xD;
+             two months&#xD;
+&#xD;
+          -  Significant pre-existing organ dysfunction prior to randomization&#xD;
+&#xD;
+               -  Lung: Currently receiving home oxygen therapy as documented in medical record&#xD;
+&#xD;
+               -  Heart: Pre-existing congestive heart failure defined as an ejection fraction &lt;20%&#xD;
+                  as documented in the medical record&#xD;
+&#xD;
+               -  Renal: End-stage renal disease requiring renal replacement therapy or eGFR &lt;30&#xD;
+                  mL/min&#xD;
+&#xD;
+               -  Liver: Severe chronic liver disease defined as Child-Pugh Class C or AST or ALT&#xD;
+                  &gt;5x upper limit of normal&#xD;
+&#xD;
+               -  Hematologic: Baseline platelet count &lt;50,000/mm^3&#xD;
+&#xD;
+          -  Presence of co-existing infection, including, but not limited to:&#xD;
+&#xD;
+               -  HIV infection not virally suppressed and with pre-hospitalization CD4 counts ≤&#xD;
+                  500 cell/mm^3&#xD;
+&#xD;
+               -  Active tuberculosis or a history of inadequately treated tuberculosis&#xD;
+&#xD;
+               -  Active hepatitis B or hepatitis C viral infection&#xD;
+&#xD;
+          -  Ongoing immunosuppression&#xD;
+&#xD;
+               -  Solid organ transplant recipient&#xD;
+&#xD;
+               -  High-dose corticosteroids (equivalent to &gt;20 mg/prednisone/day) within the past&#xD;
+                  28 days, except for dexamethasone except for dexamethasone or equivalent&#xD;
+                  treatment for COVID-19 illness&#xD;
+&#xD;
+               -  Oncolytic drug therapy within the past 14 days&#xD;
+&#xD;
+          -  Current treatment, or treatment within 30 days or five half-lives (whichever is&#xD;
+             longer) with etanercept (Enbrel®), infliximab (Remicade®), adalimumab (Humira®),&#xD;
+             certolizumab (Cimzia®), golimumab (Simponi®), anakinra (Kineret®), rilonacept&#xD;
+             (Arcalyst®), tocilizumab (Actemra®), sarilumab (Kevzara®), siltuximab (Sylvant®), or&#xD;
+             other potent immunosuppressant or immunomodulatory drugs or treatments&#xD;
+&#xD;
+          -  Current treatment with an anti-viral medication for COVID-19 (e.g. hydroxychloroquine,&#xD;
+             lopinavir/ritonavir), other than remdesivir&#xD;
+&#xD;
+          -  Current enrollment in an interventional trial for COVID-19&#xD;
+&#xD;
+          -  History of hypersensitivity or idiosyncratic reaction to IC14&#xD;
+&#xD;
+          -  Women who are currently breastfeeding&#xD;
+&#xD;
+          -  Received a live-attenuated vaccine within 30 days prior to enrollment&#xD;
+&#xD;
+          -  Received five or more doses of remdesivir, including the loading dose, outside of the&#xD;
+             study as treatment for COVID-19, or&#xD;
+&#xD;
+          -  Any condition that in the opinion of the treating physician will increase the risk for&#xD;
+             the participant.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark M. Wurfel, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Washington: Division of Pulmonary, Critical Care and Sleep Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Thomas R. Martin, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Washington: Division of Pulmonary, Critical Care and Sleep Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Harbor - UCLA Medical Center</name>
+      <address>
+        <city>Torrance</city>
+        <state>California</state>
+        <zip>90502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Dong Chang, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami Medical Center</name>
+      <address>
+        <city>Miami Beach</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Gregory E. Holt, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sarasota Memorial Health Care System</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34236</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tamela Fonseca</last_name>
+      <phone>941-228-1752</phone>
+      <email>Tamela-Fonseca@smh.com</email>
+    </contact>
+    <investigator>
+      <last_name>Kirk G. Voelker, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University Medical Center</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alex Hall</last_name>
+      <phone>404-778-1585</phone>
+      <email>alex.hall@emory.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Carmen Polito, MD, MSc</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Health</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Julia B. Garcia-Diaz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Carl B. Shanholtz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Baystate Medical Center</name>
+      <address>
+        <city>Springfield</city>
+        <state>Massachusetts</state>
+        <zip>01199</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alison Griffin</last_name>
+      <phone>413-794-0903</phone>
+      <email>Alison.Griffin@baystatehealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jay S. Steingrub, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Abhijit Duggal, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Jesse Roman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Mason Medical Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Carmen R. Mikacenic, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Harborview Medical Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Barnes</last_name>
+      <phone>206-295-0640</phone>
+      <email>barneeli@uw.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Mark M. Wurfel, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Medical Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Shane O'Mahony, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington Medical Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.niaid.nih.gov</url>
+    <description>National Institute of Allergy and Infectious Diseases (NIAID)</description>
+  </link>
+  <link>
+    <url>https://www.niaid.nih.gov/about/dait</url>
+    <description>Division of Allergy, Immunology, and Transplantation (DAIT)</description>
+  </link>
+  <link>
+    <url>https://www.cdc.gov/</url>
+    <description>Centers for Disease Control and Prevention -COVID-19 resources</description>
+  </link>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>May 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 18, 2020</study_first_posted>
+  <last_update_submitted>April 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>anti-CD14 (anti-CD14 chimeric monoclonal antibody)</keyword>
+  <keyword>randomized double-blind placebo-controlled clinical trial</keyword>
+  <keyword>hospitalized patients</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

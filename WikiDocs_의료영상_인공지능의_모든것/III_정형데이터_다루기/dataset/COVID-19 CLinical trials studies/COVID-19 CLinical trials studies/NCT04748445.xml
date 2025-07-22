@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4582">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04748445</url>
+  </required_header>
+  <id_info>
+    <org_study_id>X9001293</org_study_id>
+    <nct_id>NCT04748445</nct_id>
+  </id_info>
+  <brief_title>Acute Respiratory Illness Surveillance (AcRIS) With Mobile Application in a Low-Interventional Decentralized Study.</brief_title>
+  <official_title>Acute Respiratory Illness Surveillance (ARIS) by Monitoring Voice and Illness Symptom Changes Using a Mobile Application in a Low-Interventional Decentralized Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the AcRIS study is to obtain data to build a voice and symptom algorithm(s)&#xD;
+      for detection and monitoring of SARS-CoV-2 illness and characterize the relationship of&#xD;
+      symptoms and voice features for SARS-CoV-2 positive participants. Secondarily, data will&#xD;
+      further characterize self-reported voice and symptom profiles for acute respiratory illnesses&#xD;
+      in participants; this would benefit vaccine development across several key disease areas,&#xD;
+      including RSV and influenza virus, beyond the immediate application to SARS-CoV-2.&#xD;
+&#xD;
+      The study also models concepts of more efficient &quot;flexible&quot; clinical trials involving not&#xD;
+      only voice recognition, but also web-based participant recruitment, enhanced participant&#xD;
+      engagement, and remote sample collection that could make future clinical studies more&#xD;
+      efficient. The clinical data obtained in this observational study could provide the&#xD;
+      documentation of the technology's performance needed to enable its deployment in future&#xD;
+      interventional studies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Each subject will be required to stay in the study for 6 weeks. If the participant tests&#xD;
+      positive for any of the three viruses at swab #1 or swab #2, they will continue the study&#xD;
+      until the end of Week 8.&#xD;
+&#xD;
+      Participants will record acute respiratory illnesses and SARS-CoV-2 symptoms and voice data&#xD;
+      daily for up to a maximum of 8 weeks in both the well state and, should they become ill, the&#xD;
+      sick state, utilizing the Electronic diary on their Mobile application. Once enrolled, the&#xD;
+      participant will start recording symptoms and voice in the Electronic diary, with daily time&#xD;
+      commitment to this portion of the study expected to be 2-4 minutes. Two nasal self-swab&#xD;
+      collection kits will be ordered for delivery to the participant once they are enrolled in the&#xD;
+      study. The participant will be asked to self-swab when the test kit arrives (swab #1). The&#xD;
+      kit, including the specimen, will be returned to the central lab for RT-PCR&#xD;
+      SARS-CoV2/Influenza/RSV RT-PCR testing. The participant is expected to complete 3 phonemes&#xD;
+      and 5 lines of reading each day, in addition to score the self-reported symptoms in the&#xD;
+      Electronic diary. If participants become sick (self-report) with new or increased symptoms of&#xD;
+      respiratory illness including SARS-CoV-2 symptoms, they will be asked to self-swab (swab #2)&#xD;
+      and return the sample for central SARS-CoV-2/Influenza/RSV RT-PCR testing. If the participant&#xD;
+      does not develop any new or increased symptoms between swab #1 and end of Week 6, they will&#xD;
+      obtain a self-swab (swab #2) at Day 42.&#xD;
+&#xD;
+      If the participant tests positive for any of the three viruses at swab #1 or swab #2, they&#xD;
+      will continue the study until end of week 8. If they test negative for the three viruses at&#xD;
+      swab #1 and swab #2, they will exit the study at approximately the end of week 6 when the&#xD;
+      test results are returned. The results of the RT-PCR testing will be shared with&#xD;
+      participants.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 15, 2021</start_date>
+  <completion_date type="Anticipated">October 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 15, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in self-reported symptom scores (Likert scale from 0-7) in the Electronic diary from well to sick in symptomatic SARS-CoV-2 positive participants.</measure>
+    <time_frame>Day 1 to follow up (Week 6-8)</time_frame>
+    <description>Obtain data to build a voice and symptom algorithm(s) for detection and monitoring of SARS-CoV-2 illness and characterize the relationship of symptoms and voice features for SARS-CoV-2 positive participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in voice features; such as pitch, jitter, harmonicity, entropy, flatness, shimmer from the voice collection as captured by the Electronic diary from well to sick in symptomatic SARS-CoV-2 positive participants.</measure>
+    <time_frame>Day 1 to follow-up (Week6-8)</time_frame>
+    <description>Obtain data to build a voice and symptom algorithm(s) for detection and monitoring of SARS-CoV-2 illness and characterize the relationship of symptoms and voice features for SARS-CoV-2 positive participants.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of total days of voice recordings entered in the Electronic diary.</measure>
+    <time_frame>Day 1 to follow-up (Week 6-8)</time_frame>
+    <description>Assess compliance of the participants using the Electronic diary to collect data.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of total days of symptoms entered in the Electronic diary.</measure>
+    <time_frame>Day 1 to follow-up (Week6-8)</time_frame>
+    <description>Assess compliance of the participants using the Electronic diary to collect data.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of recordings with signal to noise ratio ≥ 20 dB that have duration ≥ 3 sec for phoneme and ≥ 10 sec for reading tasks.</measure>
+    <time_frame>Day 1 to follow-up (Week 6-8)</time_frame>
+    <description>Test the quality of the recording from the Electronic diary to collect data that is usable for interpretation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with SARS-CoV-2; and/or Influenza; and/or RSV RT-PCR based positivity in self-swabs.</measure>
+    <time_frame>Day 1 to follow-up (Week 6-8)</time_frame>
+    <description>Determine rates of positivity for SARS-CoV-2/Influenza/RSV infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants administering the self-swab at self-swab #1 and self-swab #2.</measure>
+    <time_frame>Day 1 to follow-up (Week 6-8)</time_frame>
+    <description>Evaluate the feasibility of obtaining self-swabs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants reporting symptoms in the Electronic diary, who have a self-swab collected at or around symptom onset.</measure>
+    <time_frame>Day 1 to follow-up (Week 6-8)</time_frame>
+    <description>Evaluate the feasibility of obtaining self-swabs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of self-swabs with valid (positive or negative) or invalid (non- reportable due to technical or self-collection failures) results.</measure>
+    <time_frame>Day 1 to follow-up (Week 6-8)</time_frame>
+    <description>Evaluate the feasibility of obtaining self-swabs.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">6250</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>All participants</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>SARS-CoV-2/Influenza/RSV RT-PCR</intervention_name>
+    <description>nasal swab</description>
+    <arm_group_label>All participants</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      SARS-CoV-2/Influenza/RSV RT-PCR&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Planned enrollment of approximately 6,250 participants 18 years of age or older in order to&#xD;
+        have a total of N of 100 participants with (1) confirmed negative SARS-CoV-2, RSV or&#xD;
+        Influenza RT-PCR (swab #1) and (2) confirmed positive SARS-CoV-2 RT-PCR (swab #2)&#xD;
+        symptomatic completers.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Participants are eligible to be included in the study only if all of the following criteria&#xD;
+        apply:&#xD;
+&#xD;
+        Age and Sex:&#xD;
+&#xD;
+          1. Male or female participants ≥18 years of age (or the minimum state specific age of&#xD;
+             consent if &gt;18), at Screening visit.&#xD;
+&#xD;
+             Type of Participant and Disease Characteristics:&#xD;
+&#xD;
+          2. Participants who are willing and able to comply with daily symptom and voice&#xD;
+             assessments on the electronic diary application and other study procedures, including&#xD;
+             self-collection of nasal swabs.&#xD;
+&#xD;
+          3. Expected to be available for the duration of the study.&#xD;
+&#xD;
+        Informed Consent:&#xD;
+&#xD;
+        4. Capable of giving signed informed consent&#xD;
+&#xD;
+        -&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Participants are excluded from the study if any of the following criteria apply:&#xD;
+&#xD;
+        Medical Conditions:&#xD;
+&#xD;
+          1. Participants who self-report any medical condition, recreational substance use, or&#xD;
+             medication use which would prevent them from completing study tasks or impair the&#xD;
+             providing of informed consent, or in the investigator's judgment, make the participant&#xD;
+             inappropriate for the study.&#xD;
+&#xD;
+          2. Prior/Concomitant Therapy: Participants who have been vaccinated with COVID-19 vaccine&#xD;
+             or are planning to get vaccinated during the 8 weeks of the study. Participants can&#xD;
+             continue to use all other prescription or non-prescription medications.&#xD;
+&#xD;
+             Prior/Concurrent Clinical Study Experience:&#xD;
+&#xD;
+          3. Previous administration with an investigational drug within 30 days of enrollment (or&#xD;
+             as determined by the local requirement) or planning to participate in an&#xD;
+             interventional trial during study conduct.&#xD;
+&#xD;
+             Diagnostic Assessments:&#xD;
+&#xD;
+          4. Screening diagnostic assessments are not required for eligibility purposes.&#xD;
+&#xD;
+             Other Exclusions:&#xD;
+&#xD;
+          5. Investigator site staff or Pfizer employees directly involved in the conduct of the&#xD;
+             study, site staff otherwise supervised by the investigator including vendors, and&#xD;
+             their respective family members.&#xD;
+&#xD;
+          6. Participants who use a mobile device that does not meet the minimum requirements of&#xD;
+             the Electronic diary.&#xD;
+&#xD;
+             -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+    <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+  </overall_contact>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=X9001293</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 10, 2021</study_first_posted>
+  <last_update_submitted>March 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid-19</keyword>
+  <keyword>Covid 19</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Flu</keyword>
+  <keyword>Influenza</keyword>
+  <keyword>RSV</keyword>
+  <keyword>Respiratory syncytial virus</keyword>
+  <keyword>Respiratory illness</keyword>
+  <keyword>Acute respiratory illness</keyword>
+  <keyword>remote trial</keyword>
+  <keyword>voice</keyword>
+  <keyword>AcRIS</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1196">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04765254</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ITH00131</org_study_id>
+    <nct_id>NCT04765254</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Infection in Diabetic Patients</brief_title>
+  <official_title>Clinical Features of Diabetic Patients With COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cairo University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cairo University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It was observed during the last period of COVID-19 pandemic that diabetic patients had a&#xD;
+      worse prognosis and more deteriorated clinical features than other patients&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Diabetic patients infected with SAR-COV-19 were reported to have worse prognosis and faster&#xD;
+      deterioration in addition to higher rate for ICU admission when compared to other infected&#xD;
+      patients. In this study authors aim to investigate the certain cause for their case&#xD;
+      deterioration to be modified for better prognosis&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 20, 2021</start_date>
+  <completion_date type="Anticipated">April 10, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 20, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Investigation of bad prognosis cause for covid-19 diabetic patients</measure>
+    <time_frame>30 days</time_frame>
+    <description>number of diabetic patients with deteriorated case and to find the best hypoglycemic drug used for diabetic patients with covid-19 infection</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Covid19</condition>
+  <condition>Diabete Type 2</condition>
+  <condition>Non Diabetic Patients</condition>
+  <condition>Chest CT Scan</condition>
+  <arm_group>
+    <arm_group_label>control group</arm_group_label>
+    <description>COVID-19 infected patients with no other comorbidities and they take the routine protocol from the Egyptian ministry of health</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>diabetic group</arm_group_label>
+    <description>COVID-19 infected patients with diabetes comorbidity and they receive the routine protocol for covid treatment in addition to their hypoglycemic drugs</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>no intervention as it is an observational study</intervention_name>
+    <description>both groups will be monitored for the disease progress or deterioration and mortality rate</description>
+    <arm_group_label>control group</arm_group_label>
+    <arm_group_label>diabetic group</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      serum samoles for routine CBC, D dimer and INR tests&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients infected with COVID-19 either diabetic or have no comorbidities, inpatients&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients infected with COVID-19 male or female 30 years old or more inpatients&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  have othe comorbidities other than type 2 diabetes mellitus pregnant women below 30&#xD;
+             years old&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Dalia Zaafar, PhD</last_name>
+    <phone>+201117922833</phone>
+    <email>dr.moda88@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Amal Ahmed, PhD</last_name>
+    <phone>+201224847367</phone>
+    <email>amalahmedhcp@yahoo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cairo University teaching hospitals</name>
+      <address>
+        <city>Cairo</city>
+        <state>Kasr Al Ainy</state>
+        <zip>11311</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amal Ahmed, PhD</last_name>
+      <phone>+201224847367</phone>
+      <email>amalahmedhcp@yahoo.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Dalia Zaafar, PhD</last_name>
+      <phone>+201117922833</phone>
+      <email>dr.moda88@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cairo University</investigator_affiliation>
+    <investigator_full_name>Dalia K. Zaafar</investigator_full_name>
+    <investigator_title>lecturer of pharmacology</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>prognosis</keyword>
+  <keyword>mortality rate</keyword>
+  <keyword>Diabetes Mellitus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

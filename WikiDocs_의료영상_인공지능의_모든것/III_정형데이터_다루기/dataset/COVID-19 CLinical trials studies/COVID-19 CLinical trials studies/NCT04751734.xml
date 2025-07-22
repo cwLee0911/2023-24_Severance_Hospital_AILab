@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="722">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04751734</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IATA-CSIC</org_study_id>
+    <nct_id>NCT04751734</nct_id>
+  </id_info>
+  <brief_title>Impact of Maternal COVID-19 Vaccines on Breast Milk</brief_title>
+  <acronym>MilkCorona</acronym>
+  <official_title>Impact of Maternal COVID-19 Vaccination on Breast Milk Antibodies, Milk Bioactive Compounds and Maternal-child Health</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institute of Agrochemistry and Food Technology, National Research Council</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital Clínico Universitario de Valencia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Sant Joan de Deu</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitario La Fe</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitario Doctor Peset</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fundacion Para La Investigacion Hospital La Fe</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universitat Jaume I</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Barcelona</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Institute of Agrochemistry and Food Technology, National Research Council</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      prospective multicenter study The main aim is to study the impact of maternal COVID-19&#xD;
+      vaccination on breast milk immune, microbiological, and metabolic profile.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">January 16, 2021</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Antibodies</measure>
+    <time_frame>1st year</time_frame>
+    <description>presence and levels of antibodies</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>breast milk bioactive composition</measure>
+    <time_frame>1st year</time_frame>
+    <description>immune profile (cytokines and growth factors, immunoglobulins)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>breast milk bioactive composition</measure>
+    <time_frame>1st year</time_frame>
+    <description>microbiota profile</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>breast milk bioactive composition</measure>
+    <time_frame>1st year</time_frame>
+    <description>metabolite profile</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>infant microbiota</measure>
+    <time_frame>1st year</time_frame>
+    <description>infant microbiota composition and diversity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>infant growth and development</measure>
+    <time_frame>1st year</time_frame>
+    <description>z-scores growth curves</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>COVID-19 Vaccines</condition>
+  <arm_group>
+    <arm_group_label>Vaccinations</arm_group_label>
+    <description>SARS-CoV-2 vaccination</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Covid vaccines</intervention_name>
+    <description>women within Priority groups for coronavirus (COVID-19) vaccination</description>
+    <arm_group_label>Vaccinations</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Women is Spain&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Priority groups for coronavirus (COVID-19) vaccination (health and social care&#xD;
+             workers) following breastfeeding practices and receiving vaccines.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  cessation of breastfeeding and vaccine side-effects requiring specific treatment&#xD;
+             and/or hospitalization.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Fundacion Investigacion Sanitaria INCLIVA</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario y Politecnico la Fe</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 12, 2021</study_first_posted>
+  <last_update_submitted>February 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Institute of Agrochemistry and Food Technology, National Research Council</investigator_affiliation>
+    <investigator_full_name>Maria Carmen Collado</investigator_full_name>
+    <investigator_title>Researcher</investigator_title>
+  </responsible_party>
+  <keyword>breast milk</keyword>
+  <keyword>microbiota</keyword>
+  <keyword>metabolites</keyword>
+  <keyword>immune compounds</keyword>
+  <keyword>growth and development</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5557">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04797481</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ER30631161</org_study_id>
+    <nct_id>NCT04797481</nct_id>
+  </id_info>
+  <brief_title>Pilot Testing of an Online Rehabilitation Intervention for People With Heart Failure (PORIAS-HF).</brief_title>
+  <acronym>PORIAS-HF</acronym>
+  <official_title>Pilot Testing of an Online Rehabilitation Intervention Aiming to Support People With Heart Failure.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sheffield Hallam University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>King's College London</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sheffield Teaching Hospitals NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sheffield Hallam University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The inability of the heart to pump out blood to the rest of the body organs is called heart&#xD;
+      failure (HF). HF affects almost 920,000 people in the UK, costing the NHS up to £2.33bn/year.&#xD;
+      Physical exercise programmes aiming to improve the heart's ability to pump out blood are used&#xD;
+      to a) reduce the risk of life-threatening events (e.g., heart attack), b) reduce admissions&#xD;
+      to hospital and c) improve individual's physical independence (e.g., walking unsupported,&#xD;
+      being able toperform daily essential activities). However, these physical exercise programmes&#xD;
+      have been cut short under the current COVID-19 pandemic, with support in most UK regions&#xD;
+      being restricted to online videos and advice. With many people with HF being asked to be&#xD;
+      &quot;shielded&quot; or &quot;self-isolate&quot; for an unknown duration, it is important to develop a reliable&#xD;
+      and cost-effective physical exercise service to support this clinical group. The research&#xD;
+      team has developed a novel physical exercise programme, fully-delivered online. Before&#xD;
+      assessing if it could improve clinical outcomes (e.g., heart's ability to pump out blood) and&#xD;
+      how cost-effective it could be, a 10-month pilot study is proposed that will assess if the&#xD;
+      proposed online physical exercise programme could be performed in people with HF. Thirty&#xD;
+      participants will be allocated at random into two groups: Group A will receive up to 24&#xD;
+      exercise sessions and up-to 3 lifestyle workshops, in addition to usual care over a 2-month&#xD;
+      period. Group B will receive a self-care exercise programme (≥3 sessions per week) for a&#xD;
+      two-month period in addition to usual care. Prior to the group random allocation, online&#xD;
+      assessments will be performed including demographics and clinical history, the ability to&#xD;
+      perform daily activities, sedentary or physical activity habits and quality of life. The&#xD;
+      assessments including interviews to assess participant's experiences will be repeated at 2&#xD;
+      months&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 27, 2021</start_date>
+  <completion_date type="Anticipated">March 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adherence</measure>
+    <time_frame>2 months</time_frame>
+    <description>Number of sessions completed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Acceptability of procedures.</measure>
+    <time_frame>2 months</time_frame>
+    <description>Acceptability of procedures will be assessed by examining reasons for drop-out in discontinuing participants and comparing attrition between groups</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Recruitment rates.</measure>
+    <time_frame>2 months.</time_frame>
+    <description>Recruitment rates will be measured as rate of invited participants who are eligible and consenting</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>30-second chair-stand test</measure>
+    <time_frame>Baseline.</time_frame>
+    <description>30-second chair-stand test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>30-second chair-stand test</measure>
+    <time_frame>2 months</time_frame>
+    <description>30-second chair-stand test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Step in place test</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Step in place test (2mins)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Step in place test</measure>
+    <time_frame>2 months</time_frame>
+    <description>Step in place test (2mins)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>arm curl test</measure>
+    <time_frame>baseline</time_frame>
+    <description>arm curl test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>arm curl test</measure>
+    <time_frame>2 months</time_frame>
+    <description>arm curl test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EQ5D-5L</measure>
+    <time_frame>baseline</time_frame>
+    <description>The EQ5D-5L questionnaire will be completed, to support assessment of quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EQ5D-5L</measure>
+    <time_frame>2 months</time_frame>
+    <description>The EQ5D-5L questionnaire will be completed, to support assessment of quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MLHFQ</measure>
+    <time_frame>Baseline.</time_frame>
+    <description>The MLHFQ questionnaire will be completed, to support assessment of quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MLHFQ</measure>
+    <time_frame>2 months</time_frame>
+    <description>The MLHFQ questionnaire will be completed, to support assessment of quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>BREQ-2</measure>
+    <time_frame>Baseline.</time_frame>
+    <description>The BREQ-2 questionnaire will be completed, to support assessment of quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>BREQ-2</measure>
+    <time_frame>2 months</time_frame>
+    <description>The BREQ-2 questionnaire will be completed, to support assessment of quality of life.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>Novel Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Novel Intervention Exercise group.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Self-managed Exercise group.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Exercise</intervention_name>
+    <description>Group A participants will be invited to attend up to 24 exercise sessions (2 sessions per week and a 3rd optional) and 2 virtual (online; a 3rd will be optional) HF workshops over 8 weeks. All sessions will be delivered via online platforms, with 1 facilitator supporting up to 8 participants simultaneously in each session.</description>
+    <arm_group_label>Novel Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Self-managed exercise</intervention_name>
+    <description>Group B participants will be provided with a self-care exercise programme. The exercise programme will be home-based with a mixture of online video calls and telephone support contacts, alternating once every other week. The video or telephone contacts will be mutually agreed by the patient and the facilitator at a mutually convenient time and will aim to support Group B participants, by offering advice and tracking progress. Patients will be provided with two exercise programmes: I) a chair-based exercise programme (DVD will be provided), and ii) a progressive walking training programme (a manual will be provided). Patients will be advised to exercise ≥3 times per week, starting from their own personal level and gradually building up over 8 weeks in session's duration, frequency of sessions per week, and walking pace.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt; 18 yrs. of either gender&#xD;
+&#xD;
+          -  Confirmed diagnosis (by echocardiography) of HF reduced left ventricular ejection&#xD;
+             fraction&#xD;
+&#xD;
+          -  Sinus rhythm N-Terminal pro-Brain Natriuretic Peptide (NTproBNP) is &gt;400 ng/L at the&#xD;
+             time of referral to the diagnostic clinic if in sinus rhythm.&#xD;
+&#xD;
+          -  Ability to exercise&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Non-ambulant status&#xD;
+&#xD;
+          -  Current pregnancy&#xD;
+&#xD;
+          -  Scheduled major cardiac surgery&#xD;
+&#xD;
+          -  The presence of an ICD or CRT-D device&#xD;
+&#xD;
+          -  Severe pulmonary hypertension defined as systolic PAP of &gt;60 mmHg&#xD;
+&#xD;
+          -  NYHA function class IV&#xD;
+&#xD;
+          -  Lack of internet connection&#xD;
+&#xD;
+          -  Inability/unwillingness to give informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Markos Klonizakis, D.Phil</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sheffield Hallam University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alexandros Mitropoulos, PhD</last_name>
+    <phone>01142253592</phone>
+    <email>heartresearch@shu.ac.uk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Sheffield Hallam University</name>
+      <address>
+        <city>Sheffield</city>
+        <state>Yorkshire</state>
+        <zip>S10 2BP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 15, 2021</study_first_posted>
+  <last_update_submitted>March 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

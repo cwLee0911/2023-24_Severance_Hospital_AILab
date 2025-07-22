@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4668">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04813796</url>
+  </required_header>
+  <id_info>
+    <org_study_id>mRNA-1283-P101</org_study_id>
+    <nct_id>NCT04813796</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate Safety, Reactogenicity, and Immunogenicity of mRNA-1283 and mRNA-1273 Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Vaccines in Healthy Adults Between 18 Years and 55 Years of Age</brief_title>
+  <official_title>A Phase 1, Randomized, Observer-Blind, Dose-Ranging Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of mRNA-1283 and mRNA-1273 SARS-CoV-2 Vaccine in Adults Aged 18-55 Years</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ModernaTX, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>ModernaTX, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary goal for this study is to evaluate the safety and reactogenicity of 3 dose levels&#xD;
+      of mRNA-1283 and 1 dose level of mRNA-1273 vaccine given to healthy adults in 2 doses, 28&#xD;
+      days apart, and 1 dose level of mRNA-1283 administered as a single dose to healthy adults.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 11, 2021</start_date>
+  <completion_date type="Anticipated">April 13, 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 13, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with Solicited Local and Systemic Reactogenicity Adverse Reactions (ARs)</measure>
+    <time_frame>Up to Day 36 (7 days after second dose)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Unsolicited Adverse Events (AEs)</measure>
+    <time_frame>Up to Day 57 (28 days after second dose)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Medically-Attended AEs (MAAEs), AE of Special Interest (AESIs), and Serious Adverse Events (SAEs)</measure>
+    <time_frame>Up to Day 394 (1 year after second dose)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean (GM) of SARS-CoV-2 Specific Neutralizing Antibody (nAb)</measure>
+    <time_frame>Day 1, Day 29, Day 36, Day 57, Day 209, and Day 394</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GM of SARS-CoV-2-Specific Binding Antibody (bAb)</measure>
+    <time_frame>Day 1, Day 29, Day 36, Day 57, Day 209, and Day 394</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seroconversion as Measured by an Increase of SARS-CoV-2-Specific nAb Titer or bAb Titer</measure>
+    <time_frame>Day 1, Day 29, Day 36, Day 57, Day 209, and Day 394</time_frame>
+    <description>Seroconversion measured as defined for the study.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">125</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>mRNA-1283 Dose Level 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 2 intramuscular (IM) injections of mRNA-1283 at Dose Level 1 on Day 1 and Day 29.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>mRNA-1283 Dose Level 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 2 IM injections of mRNA-1283 at Dose Level 2 on Day 1 and Day 29.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>mRNA-1283 Dose Level 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 2 IM injections of mRNA-1283 at Dose Level 3 on Day 1 and Day 29.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>mRNA-1273</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 2 IM injections of mRNA-1273 at a pre-specified dose for this study on Day 1 and Day 29.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo / mRNA-1283</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 1 IM injection of study drug-matching placebo on Day 1 and 1 IM injection of mRNA-1283 at a pre-specified dose on Day 29.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>mRNA-1283</intervention_name>
+    <description>Sterile liquid for injection</description>
+    <arm_group_label>Placebo / mRNA-1283</arm_group_label>
+    <arm_group_label>mRNA-1283 Dose Level 1</arm_group_label>
+    <arm_group_label>mRNA-1283 Dose Level 2</arm_group_label>
+    <arm_group_label>mRNA-1283 Dose Level 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>mRNA-1273</intervention_name>
+    <description>Sterile liquid for injection</description>
+    <arm_group_label>mRNA-1273</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>0.9% sodium chloride (normal saline) injection</description>
+    <arm_group_label>Placebo / mRNA-1283</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          -  Understands and agrees to comply with the study procedures and provides written&#xD;
+             informed consent.&#xD;
+&#xD;
+          -  According to the assessment of the investigator, is in good general health and can&#xD;
+             comply with study procedures.&#xD;
+&#xD;
+          -  Body mass index (BMI) of 18 kilograms/square meter (kg/m^2) to 35 kg/m^2 (inclusive)&#xD;
+             at the Screening Visit (Day 0).&#xD;
+&#xD;
+          -  For female participants of childbearing potential: negative pregnancy test, adequate&#xD;
+             contraception or has abstained from all activities that could result in pregnancy for&#xD;
+             at least 28 days prior to the first injection, agreement to continue adequate&#xD;
+             contraception or abstinence through 3 months following the second injection, and not&#xD;
+             currently breastfeeding.&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          -  Known history of SARS-CoV-2 infection or known exposure to someone with SARS-CoV-2&#xD;
+             infection or COVID-19 in the past 30 days.&#xD;
+&#xD;
+          -  Positive serology results for SARS-CoV-2 at the Screening Visit. A negative&#xD;
+             serological test for SARS-CoV-2, performed on a blood sample obtained at the Screening&#xD;
+             Visit, is required before a participant can be dosed.&#xD;
+&#xD;
+          -  Travel outside of the United States in the 28 days prior to the Screening Visit (Day&#xD;
+             0).&#xD;
+&#xD;
+          -  Prior administration of an investigational, authorized, or licensed CoV (for example,&#xD;
+             SARS-CoV-2, SARS-CoV, or Middle East Respiratory Syndrome [MERS]-CoV) vaccine, based&#xD;
+             on medical history interview.&#xD;
+&#xD;
+          -  Current treatment with investigational agents for prophylaxis against COVID-19.&#xD;
+&#xD;
+          -  Recent (within the last 12 months) use of a dermal filler.&#xD;
+&#xD;
+          -  Has a medical, psychiatric, or occupational condition that may pose additional risk as&#xD;
+             a result of participation or that could interfere with safety assessments or&#xD;
+             interpretation of results according to the investigator's judgment.&#xD;
+&#xD;
+          -  Has received systemic immunosuppressants or immune-modifying drugs for &gt;14 days in&#xD;
+             total within 6 months prior to Screening (for corticosteroids, 10 milligrams (mg)/day&#xD;
+             of prednisone equivalent) or is anticipating the need for immunosuppressive treatment&#xD;
+             at any time during participation in the study.&#xD;
+&#xD;
+          -  Has received or plans to receive any licensed vaccine 28 days prior to the first&#xD;
+             injection (Day 1) or plans to receive a licensed vaccine within 28 days before or&#xD;
+             after any study injection, with the exception of licensed influenza vaccines, which&#xD;
+             may be received more than 14 days before the first study injection or more than 14&#xD;
+             days after the second study injection.&#xD;
+&#xD;
+          -  Receipt of systemic immunoglobulins or blood products within 3 months prior to the&#xD;
+             Screening Visit (Day 0) or plans for receipt during the study.&#xD;
+&#xD;
+          -  Current use of any inhaled substance (for example, tobacco or cannabis smoke, nicotine&#xD;
+             vapors).&#xD;
+&#xD;
+          -  History of chronic smoking (1 cigarette a day) within 1 year of the Screening Visit.&#xD;
+&#xD;
+          -  Resides in a nursing home.&#xD;
+&#xD;
+          -  Has donated 450 milliliters (mL) of blood products within 28 days prior to the&#xD;
+             Screening Visit or plans to donate blood products during the study.&#xD;
+&#xD;
+          -  Participated in an interventional clinical study within 28 days prior to the Screening&#xD;
+             Visit based on the medical history interview or plans to do so while participating in&#xD;
+             this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Moderna Clinical Trials</last_name>
+    <phone>877-913-3286</phone>
+    <email>clinicaltrials@modernatx.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Optimal Research San Diego, LLC</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Optimal Research Melbourne, LLC</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Florida</state>
+        <zip>32934</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Optimal Research Illinois, LLC</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <zip>61614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Optimal Research Texas, LLC</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 24, 2021</study_first_posted>
+  <last_update_submitted>March 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>mRNA-1283 vaccine</keyword>
+  <keyword>mRNA-1273</keyword>
+  <keyword>mRNA-1273 vaccine</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>SARS-CoV-2 Vaccine</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Virus Diseases</keyword>
+  <keyword>Messenger RNA</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>COVID-19 Vaccine</keyword>
+  <keyword>Moderna</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2666">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04840082</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21015626</org_study_id>
+    <nct_id>NCT04840082</nct_id>
+  </id_info>
+  <brief_title>Optimal Length for Nasal Mid-turbinate and Nasopharyngeal Swabs</brief_title>
+  <official_title>Optimal Insertion Length for Nasal Mid-turbinate and Nasopharyngeal Swabs for Respiratory Virus Infection Diagnostic Testing - a Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rigshospitalet, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rigshospitalet, Denmark</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aim to explore the optimal swap insertion length for mid-turbinate and&#xD;
+      nasopharyngeal samples. Our clinical trial took place at a Covid-19 test center in&#xD;
+      Copenhagen. Participants consisted of voluntary citizens who were at the test center for a&#xD;
+      nasopharyngeal antigen quicktest. An endoscopic examination was performed simultaneous with&#xD;
+      the swap to measure the length from the vestibulum nasi to the posterior wall of the&#xD;
+      nasopharynx and the mid-turbinate.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 7, 2021</start_date>
+  <completion_date type="Actual">March 8, 2021</completion_date>
+  <primary_completion_date type="Actual">March 8, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Length from the vestibulum nasi to the posterior wall of the nasopharynx.</measure>
+    <time_frame>From inclusion at the testcenter until the COVID-19 testing was completed.</time_frame>
+    <description>Endoscopic measurement of the length from the vestibulum nasi to the posterior wall of the nasopharynx.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Length from the vestibulum nasi to the mid-turbinate.</measure>
+    <time_frame>From inclusion at the testcenter until the endoscopic examination was completed</time_frame>
+    <description>Endoscopic measurement of the length from the vestibulum nasi to the mid-turbinate.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">109</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Collecting of Clinical Specimens for COVID-19 Testing</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Nasopharyngeal swab is performed on all participants to collect specimens for Rapid antigen COVID-19 Testing</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Nasopharyngeal swab for COVID-19 testing</intervention_name>
+    <description>A nasopharyngeal swab was performed endoscopically video guided to measure the actual length from to the mid turbinate and the posterior nasopharyngeal wall</description>
+    <arm_group_label>Collecting of Clinical Specimens for COVID-19 Testing</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Referred for COVID-19 testing&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Nose patology&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <state>Copenhagen East</state>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 9, 2021</study_first_posted>
+  <last_update_submitted>April 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rigshospitalet, Denmark</investigator_affiliation>
+    <investigator_full_name>Tobias Todsen</investigator_full_name>
+    <investigator_title>MD, PhD, Ass. Prof</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

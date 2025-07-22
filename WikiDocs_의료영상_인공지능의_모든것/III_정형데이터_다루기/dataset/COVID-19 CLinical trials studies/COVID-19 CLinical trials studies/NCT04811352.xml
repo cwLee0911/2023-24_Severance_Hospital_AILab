@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4942">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04811352</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Uso_drogas</org_study_id>
+    <nct_id>NCT04811352</nct_id>
+  </id_info>
+  <brief_title>Drug Abuse During the COVID-19 Pandemic.</brief_title>
+  <official_title>Readiness for a Pandemic, and Factors Associated With Substance Abuse During the COVID-19 Pandemic - A Cross-Sectional Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto Mexicano del Seguro Social</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Instituto Mexicano del Seguro Social</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The pandemic we live through has put various sectors of the medical system and its&#xD;
+      tributaries to the test. The accumulation of external and internal stress has been completely&#xD;
+      correlated with the predisposition to psycho-emotional problems and, in turn, to drug use as&#xD;
+      an immature response for ego protection. That is why the economic, social, and psychological&#xD;
+      evaluation can help understand the current situation about drug abuse and how to help&#xD;
+      patients afflicted by it. The added stress of personal problems, work alterations, daily life&#xD;
+      in a pandemic, economic and varied responsibilities, and the understanding of the pandemic&#xD;
+      have predisposed and amplified the use of drugs to reduce emotional distress perceived by&#xD;
+      individuals. The hypothesis of this study is that the increment of stress and a lack of&#xD;
+      preparation for the pandemic are associated with increased drug abuse.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2021</start_date>
+  <completion_date type="Anticipated">June 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Behaviour on drug and substance abuse</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The survey inquires about the frequency and dosage of numerous substances such as coffee, alcohol, tobacco, and heroin since the pandemic started.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PHQ-9 Score</measure>
+    <time_frame>Baseline</time_frame>
+    <description>This inventory will be used to identify the presence and intensity of depressive disorders. The minimum score is 0, and the maximum score is 27.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GAD-7 Score</measure>
+    <time_frame>Baseline</time_frame>
+    <description>This questionnaire will be used to evaluate the presence and intensity of anxiety disorders. The minimum score is 0, and the maximum score is 21.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Substance Abuse</condition>
+  <condition>Stress, Psychological</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult Mexican general population during the COVID-19 pandemic.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  &gt; 18 years old&#xD;
+&#xD;
+          -  Willing to participate in the study&#xD;
+&#xD;
+          -  Patient currently with a paying job&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients without a paying job&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Centro Médico Nacional de Occidente</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alejandro González Ojeda, MD, Ph.D</last_name>
+      <phone>33 3668 3000</phone>
+      <email>avygail5@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 23, 2021</study_first_posted>
+  <last_update_submitted>March 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Instituto Mexicano del Seguro Social</investigator_affiliation>
+    <investigator_full_name>GONZALEZ-OJEDA ALEJANDRO</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>substance abuse</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>stress</keyword>
+  <keyword>economical impact</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Substance-Related Disorders</mesh_term>
+    <mesh_term>Stress, Psychological</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

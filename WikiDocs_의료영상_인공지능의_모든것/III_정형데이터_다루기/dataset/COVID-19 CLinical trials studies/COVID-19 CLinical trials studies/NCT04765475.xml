@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="507">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04765475</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00014147</org_study_id>
+    <nct_id>NCT04765475</nct_id>
+  </id_info>
+  <brief_title>Protecting Native Families From COVID-19</brief_title>
+  <official_title>Protecting Native Families From COVID-19 (PROTECT)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins Bloomberg School of Public Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Johns Hopkins Bloomberg School of Public Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to increase and hasten testing among those with COVID-19 symptoms&#xD;
+      and improve adherence to recommended strategies following positive test results in high-risk&#xD;
+      groups in the White Mountain Apache and Navajo Nation communities.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      As of late July 2020, the novel coronavirus, SARS-CoV-2 (severe acute respiratory syndrome&#xD;
+      coronavirus 2), continues to spread globally. Although knowledge about the pathogenesis,&#xD;
+      epidemiology and clinical aspects of the virus is improving every week, evidence-based&#xD;
+      interventions that promote testing, quarantine, isolation, symptom monitoring and&#xD;
+      care-seeking still elude us. Rigorously collected data about how to overcome barriers and&#xD;
+      promote testing, the cornerstone of our public health response, and the constellation of&#xD;
+      necessary preventive behaviors linked to testing is urgently needed to prevent the spread and&#xD;
+      toll of COVID-19. Study investigators will work with long-term Navajo Nation (NN) and White&#xD;
+      Mountain Apache Tribe (WMAT) partners to answer COVID-19 research questions foundational to&#xD;
+      the effectiveness of testing through evaluation of community-based evidence-informed&#xD;
+      interventions targeting enhanced symptom tracking and monitoring, uptake of rapid testing&#xD;
+      after symptom onset, care-seeking, and preventive behaviors.&#xD;
+&#xD;
+      The first case of COVID-19 was detected on Navajo Nation on March 17, 2020. As of August&#xD;
+      2020, over 8,500 cases and 400 deaths have occurred among a population of ~206,000 (4,126 per&#xD;
+      100,000). On the Fort Apache Reservation (WMAT), cases have been steadily increasing since&#xD;
+      the first documented illness on April 1. More than 2,200 cases and 32 deaths have occurred&#xD;
+      among a population of ~17,000 (12,353 per 100,000) (as of August 2020). Per capita, these&#xD;
+      disease rates are among the highest in the US. These communities also suffer some of the&#xD;
+      highest rates of underlying conditions (obesity, heart disease and diabetes), putting them at&#xD;
+      increased risk for severe COVID disease, complications and mortality.&#xD;
+&#xD;
+      Infectious diseases have been a threat to Indigenous peoples since the Europeans arrived.&#xD;
+      Historical records show that smallpox, cholera, scarlet fever, influenza and tuberculosis&#xD;
+      took more Indigenous lives than wars, enslavement, and starvation combined. Intentional germ&#xD;
+      warfare by federal officials to decrease American Indian and Alaska Native populations is a&#xD;
+      dark page in US history and a traumatizing memory for American Indian and Alaska Natives. The&#xD;
+      current pandemic is a profound reminder of endured injustice, simultaneously inciting trauma&#xD;
+      and tribal resilience to survive and thrive anew. In past respiratory viral pandemics,&#xD;
+      American Indian and Alaska Natives experienced more severe illness, with 4-5 times higher&#xD;
+      death rates vs. general US population. With COVID-19, there has been greater recognition of&#xD;
+      the social determinants that underlie these persistent health disparities. A number of&#xD;
+      factors including poverty, lack of running water, and sub-standard, overcrowded federal&#xD;
+      housing shared by multi-generational families contribute to increased risk. On Navajo Nation,&#xD;
+      between 30-40% of households lack running water. Up to one-third of Navajo Nation and White&#xD;
+      Mountain Apache Tribe homes lack reliable electricity, internet and cell phone&#xD;
+      infrastructure. Underlying conditions, driven by food and water insecurity, environmental&#xD;
+      toxins, and over a century of inadequate access to health services, exacerbate the&#xD;
+      susceptibility to and severity of COVID-19. Further, the acute psychosocial stress caused by&#xD;
+      the pandemic is leading to an increase in already disproportionate mental and behavioral&#xD;
+      health conditions, including substance abuse, depression, and anxiety, that contributes to&#xD;
+      more spread (through more sharing of substances), more avoidance or stigma related to testing&#xD;
+      positive, and ongoing cycles of greater fear and despair. Interventions designed for this&#xD;
+      project seek to address both physical and psychosocial effects of COVID-19.&#xD;
+&#xD;
+      This study will conduct research to understand how to expand and hasten testing when a person&#xD;
+      has symptoms or exposure, and preventive behaviors, isolation and care-seeking when positive,&#xD;
+      among elders, ages &gt;65 and young adults ages 18-34 years who have used alcohol or drugs in&#xD;
+      the past 6 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 8, 2021</start_date>
+  <completion_date type="Anticipated">September 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>Study investigators will employ a 2x2 factorial design to evaluate the relative merits of a brief culturally-tailored motivational interviewing (MI) intervention and an m-health intervention (COVID-19 daily symptom text messaging system-CS) among two high-risk and inter-related age groups-young adults and elders-on preventive behaviors, promoting rapid COVID-19 testing after symptom onset, and isolation and appropriate care-seeking among those who test positive.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Investigator)</masking>
+    <masking_description>The Research Program Assistants (responsible for collecting assessments) will be blinded to participant status as they will be functioning as independent evaluators.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>TESTING: Proportion tested for COVID-19</measure>
+    <time_frame>Percent of participants tested for COVID-19 after three months of study enrollment.</time_frame>
+    <description>Testing status will be assessed using Case Manager, Twilio (CS Group), iCare and State Notifiable Disease Surveillance. This outcome will be reported as a percentage.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>TESTING: Time to Test from Symptom Onset</measure>
+    <time_frame>The number of days between symptom onset and a COVID-19 test will be calculated for anyone who reports symptoms and or has a COVID-19 test over the course of the three-month study enrollment period</time_frame>
+    <description>Time to Test from Symptom Onset will be assessed by collecting information on date of testing and date of first symptom onset. The amount of time (measured in days) between testing and first symptom onset will be calculated.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CHANGE IN PROTECTIVE BEHAVIORS Over time - Recommended Practices</measure>
+    <time_frame>Change from baseline at 3-month post enrollment. (Longitudinal data analysis will be used incorporating data collected at baseline, 1-month, 2-month and 3-month post enrollment. Analyses will examine change from baseline at each of these timepoints).</time_frame>
+    <description>COVID-19 Recommended Practices (i.e. social distancing, mask wearing, etc.) will be assessed with a self-report checklist. Participants will be asked how often they have practiced recommended behaviors to prevent the spread of COVID-19 using a Likert Scale: 1 (not at all) to 5 (very often). A higher score equals a better outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PROTECTIVE BEHAVIORS - Days quarantined in the past month</measure>
+    <time_frame>The number of days quarantined per month (given quarantine was required/advised) over the 3-month enrollment period.</time_frame>
+    <description>In the past month, days quarantined or isolated will be assessed by showing participants a calendar tool which asks them to recall over the past 30-days which days they were quarantining. If participants answer &quot;yes&quot; to quarantining in the past month, they will be asked to mark each day they spent quarantining or social distancing from others on a calendar tool.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PROTECTIVE BEHAVIORS - Vaccine Acceptance</measure>
+    <time_frame>Baseline and 3 months only</time_frame>
+    <description>Potential vaccine acceptance will be assessed with vaccine acceptance questionnaire. Participants will be asked of their opinion about the effectiveness of recommended practices to stop the spread of COVID-19. Averaging 10 items; each marked on scale of 1 (Not effective at all) to 5 (Very effective). Participants will also be asked how much they trust and use (in the last one week) a list of sources for COVID-19 information. Averaging 10 items; each marked on scale of 1 (Not at all) to 5 (Completely). Participants will also be asked a series of questions of their experiences with receiving vaccinations, perceived benefits of vaccinations and perceptions or concerns about the potential COVID-19 vaccine.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cultural Identity and Connectedness</measure>
+    <time_frame>Baseline and 3 months only</time_frame>
+    <description>The Enculturation and Discrimination scale is a 27-item scale assessing self-reported cultural identity, connectedness and perceived discrimination. Items assessing cultural identity are marked on scale of 1 (Strongly Agree) to 5 (Strongly Disagree). Items assessing perceived discrimination are marked on scale of 1 (Never) to 5 (Many times).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Substance Use</measure>
+    <time_frame>Baseline and 3 months only</time_frame>
+    <description>The World Health Organization's (WHO) Alcohol, Smoking and Substance Involvement Screening Test (ASSIST) will be used to assess alcohol and substance use among participants. Scores range from 0 to 27+. Higher score is a worse outcome.&#xD;
+Alcohol:&#xD;
+Total score of 0-10 Low Risk/No intervention Total score of 11-26 Moderate Risk/Brief Intervention Total score of +27 High Risk/More intensive treatment&#xD;
+Other Drugs:&#xD;
+Total score of 0-3 Low Risk/No intervention Total score of 4-26 Moderate Risk/Brief Intervention Total score of +27 High Risk/More intensive treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Depression</measure>
+    <time_frame>Baseline and 3 months only</time_frame>
+    <description>The Center for Epidemiologic Studies Depression Scale (CES-D10) will be used to assess depression. The CES-D10 is a 10-item Likert scale questionnaire assessing depressive symptoms in the past week. The CES-D10 demonstrates strong validity in American Indian communities. Participants will answer &quot;Yes&quot; or &quot;No&quot; to each item on the scale. Higher score suggest greater severity of symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety</measure>
+    <time_frame>Baseline and 3 months only</time_frame>
+    <description>The PROMIS (Patient-Reported Outcomes Measurement Information System) Emotional Distress Anxiety Short Form will be used to assess symptoms of generalized anxiety disorder. Scores range from 1 to 4. Higher score connotes a worse outcome (i.e. more depression or anxiety). Averaging 10 items each scored on scale of 1 (not at all) to 4 (extremely).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Demographic</measure>
+    <time_frame>Baseline and 3 months only</time_frame>
+    <description>Age, gender, and household composition will be assessed with a demographics questionnaire.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>MotivationaI Interviewing Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this study group will receive a brief, culturally appropriate, and age-tailored motivational interviewing (MI) intervention targeting facilitators and barriers to appropriate testing, isolation, and care-seeking among young adults and elders. This group will also receive supportive services. Participants will be provided with referrals to needed medical, mental, or behavioral health care and a hygiene kit containing basic hygiene supplies. Additionally, participants will be provided with information on COVID-19 and nearby testing locations. This will include basic information about COVID-19, mask-wearing, how to prevent the spread in the home and managing stress during COVID-19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 Symptom Monitoring System Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this study group will receive daily COVID-19 symptom (CS) text-based monitoring system to prompt more rapid testing at the onset of symptoms. This group will also receive supportive services. Participants will be provided with referrals to needed medical, mental or behavioral health care and a hygiene kit containing basic hygiene supplies. Additionally, participants will be provided with information on COVID-19 and nearby testing locations. This will include basic information about COVID-19, mask-wearing, how to prevent the spread in the home and managing stress during COVID-19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MotivationaI Interviewing and COVID-19 Symptom Monitoring System Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this group will receive both motivational interviewing and daily COVID-19 symptom (CS) text-based monitoring system. This group will also receive supportive services. Participants will be provided with referrals to needed medical, mental or behavioral health care and a hygiene kit containing basic hygiene supplies. Additionally, participants will be provided with information on COVID-19 and nearby testing locations. This will include basic information about COVID-19, mask-wearing, how to prevent the spread in the home and managing stress during COVID-19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Participants in this group will only receive supportive services. Participants will be provided with referrals to needed medical, mental or behavioral health care and a hygiene kit containing basic hygiene supplies. Additionally, participants will be provided with information on COVID-19 and nearby testing locations. This will include basic information about COVID-19, mask wearing, how to prevent the spread in the home and managing stress during COVID-19</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Motivational Interviewing</intervention_name>
+    <description>A culturally-tailored brief motivational interviewing (MI) intervention to promote preventive behaviors and COVID-19 testing when experiencing symptoms, and isolation and care-seeking when positive among two important high-risk groups in American Indian and Alaska Native communities-ages 18-34 and elders (ages ≥65 years).</description>
+    <arm_group_label>MotivationaI Interviewing Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>COVID-19 Symptom Monitoring System</intervention_name>
+    <description>A daily COVID-19 symptoms (CS) monitoring system with alerts, ways for participants to request home testing after first symptoms, and Geographic Information System (GIS) routing for those responding to alerts.</description>
+    <arm_group_label>COVID-19 Symptom Monitoring System Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Motivational Interviewing and COVID-19 Symptom Monitoring System</intervention_name>
+    <description>A combination of: 1) a culturally-tailored brief motivational interviewing (MI) intervention to promote preventive behaviors and COVID-19 testing when experiencing symptoms, and isolation and care-seeking when positive among two important high-risk groups in American Indian and Alaska Native communities-ages 18-34 and elders (ages ≥65 years); 2) a daily COVID-19 symptoms (CS) monitoring system with alerts, ways for participants to request home testing after first symptoms, and Geographic Information System (GIS) routing for those responding to alerts</description>
+    <arm_group_label>MotivationaI Interviewing and COVID-19 Symptom Monitoring System Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Supportive Services</intervention_name>
+    <description>Provision of supportive services such as referrals to needed medical, mental or behavioral health care and delivery of a hygiene kit containing basic hygiene supplies. Participants will also be provided information on COVID-19 and nearby testing locations and basic information about COVID-19, mask wearing, how to prevent the spread in the home and managing stress during COVID-19.</description>
+    <arm_group_label>COVID-19 Symptom Monitoring System Group</arm_group_label>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_label>MotivationaI Interviewing Group</arm_group_label>
+    <arm_group_label>MotivationaI Interviewing and COVID-19 Symptom Monitoring System Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Tribal members who live within an approximately 1-hour radius of the Indian Health&#xD;
+             Service (IHS) /Tribal health facility within each of the three participating sites&#xD;
+             (Whiteriver, Arizona; Chinle, Arizona; Shiprock, New Mexico).&#xD;
+&#xD;
+          -  Elder participants must be ≥65 years old at the time of recruitment.&#xD;
+&#xD;
+          -  Young adults must be 18-34 years old with self-reported alcohol or drug use in the&#xD;
+             past 6 months.&#xD;
+&#xD;
+          -  Have access to a cell phone or reliable access to a family member's cell phone and be&#xD;
+             able to send/receive text messages.&#xD;
+&#xD;
+          -  Consent to participate in all study activities.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of COVID19 infection.&#xD;
+&#xD;
+          -  Inability to cognitively complete interventions and assessments.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Allison Barlow, PhD, MPH, MA</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mary Cwik, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Laura Hammitt, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mary Cwik, PhD</last_name>
+    <phone>4109556931</phone>
+    <email>mcwik1@jhu.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Johns Hopkins Center for American Indian Health Whiteriver Office</name>
+      <address>
+        <city>Whiteriver</city>
+        <state>Arizona</state>
+        <zip>85491</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Novalene Goklish</last_name>
+      <phone>928-338-5215</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>January 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>March 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Prevention Measures</keyword>
+  <keyword>Symptom Tracking</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Navajo Nation</keyword>
+  <keyword>White Mountain Apache Tribe</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Investigators only plan to share de-identified participant data with approved researchers.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4505">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04822818</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP200375-BEVA</org_study_id>
+    <nct_id>NCT04822818</nct_id>
+  </id_info>
+  <brief_title>EFFICACY and SAFETY OF BEVACIZUMAB (ZIRABEV®) IN PATIENTS WITH SEVERE HYPOXEMIC COVID-19</brief_title>
+  <acronym>BEVA</acronym>
+  <official_title>TRIAL EVALUATING EFFICACY and SAFETY OF BEVACIZUMAB (ZIRABEV®) IN PATIENTS WITH SEVERE HYPOXEMIC COVID-19, NESTED IN THE CORIMUNO-19 COHORT</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are the most frequent&#xD;
+      complications of the COVID-19 pandemic. In these conditions, hypoxemia may result from : i) a&#xD;
+      pulmonary vascular dilatation resulting from an impaired hypoxic pulmonary vasoconstriction&#xD;
+      and leading to ventilation-perfusion mismatching within the lungs and ii) thrombosis-mediated&#xD;
+      perfusion defects. Pulmonary vascular dilation might be due to a relative failure of the&#xD;
+      physiological acute hypoxic pulmonary vasoconstriction, in the context of an over-activation&#xD;
+      of a regional vasodilatation cascade, as part of a dysfunctional inflammatory process.&#xD;
+      Perfusion abnormalities associated with pulmonary vascular dilation are suggestive of&#xD;
+      intrapulmonary shunting toward areas where gas exchange is impaired, ultimately leading to a&#xD;
+      worsening ventilation-perfusion mismatch, a regional hypoxia and a profound hypoxemia.&#xD;
+&#xD;
+      Increased plasma levels of VEGF have been reported in moderate to severe COVID-19 pneumonia,&#xD;
+      highlighting the role of VEGF in the pathophysiology of the disease. A better prognosis has&#xD;
+      been reported in critically ill patients with lower levels of growth factors, HGF and VEGF-A&#xD;
+      at the time of ICU admission. Recent data of the study NCT 04275414 by Pang J et al have&#xD;
+      suggested that patients receiving a single-dose of bevacizumab have improved their oxygen&#xD;
+      support status in 92% of cases during a 28-day follow-up period, as compared with 62% of&#xD;
+      cases in an external cohort receiving standard care.&#xD;
+&#xD;
+      Correcting endothelial permeability and vasodilatation with VEGF-targeted therapy could allow&#xD;
+      repair damaged vascular endothelium, have an indirect anti-inflammatory effect (limiting&#xD;
+      alveolar exudation of circulating inflammatory and procoagulant mediators) and improve&#xD;
+      oxygenation and therefore reduce the proportion of patients with severe forms requiring ICU&#xD;
+      referral and finally patient death. This clinical trial will therefore focus on the specific&#xD;
+      efficacy of bevacizumab in COVID-19 patients with severe hypoxemia.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The time to recovery for a category 0 to 5 on the WHO Progression scale</measure>
+    <time_frame>28 days after randomization</time_frame>
+    <description>Defined as the first day on which the patient meets the criteria for category 0 to 5 on the OMS Progression scale</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical status on the OMS Progression scale</measure>
+    <time_frame>at 7, 14, and 28 days after randomization</time_frame>
+    <description>WHO progression scale:&#xD;
+Uninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2&gt;=150 OR SpO2/FIO2&gt;=200: 7 Mechanical ventilation, (pO2/FIO2&lt;150 OR SpO2/FIO2&lt;200) OR vasopressors (norepinephrine &gt;0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2&lt;150 AND vasopressors (norepinephrine &gt;0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>at 7, 14, and 28 days after randomization</time_frame>
+    <description>Time to death after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator free days</measure>
+    <time_frame>at 7, 14, and 28 days after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>High flow free days</measure>
+    <time_frame>at 7, 14, and 28 days after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to oxygen supply weaning</measure>
+    <time_frame>at 7, 14, and 28 days after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in VEGF plasma levels</measure>
+    <time_frame>at 7, and 14 days after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of the incidence of Grade 3 or 4 events will be will be described in each group with their 95% CI</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Description : defined according to CTCAE v5.0 will be will be described in each group with their 95% CI</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Adverse Event</measure>
+    <time_frame>Day 28, day 120 after randomization</time_frame>
+    <description>will be described in each group with their 95% CI</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">174</enrollment>
+  <condition>Corona Virus Infection</condition>
+  <condition>SARS (Severe Acute Respiratory Syndrome)</condition>
+  <condition>Virus Diseases</condition>
+  <condition>Coronaviridae Infections</condition>
+  <condition>Nidovirales Infections</condition>
+  <condition>RNA Virus Infections</condition>
+  <condition>Respiratory Tract Infections</condition>
+  <condition>Respiratory Tract Diseases</condition>
+  <arm_group>
+    <arm_group_label>Bevacizumab + SOC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Bevacizumab : 7.5 mg / kg (with a maximum of 750 mg) on day 1 (D1) SOC : patients will receive the best of standard of care including corticosteroids, anticoagulant, antibiotics and tociluzimab</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SOC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>SOC : patients will receive the best of standard of care including corticosteroids, anticoagulant, antibiotics and tociluzimab</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BEVA+SOC</intervention_name>
+    <description>Bevacizumab : 7.5 mg / kg (with a maximum of 750 mg) on day 1 (D1) SOC : patients will receive the best of standard of care including corticosteroids, anticoagulant, antibiotics and tociluzimab</description>
+    <arm_group_label>Bevacizumab + SOC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SOC</intervention_name>
+    <description>patients will receive the best of standard of care including corticosteroids, anticoagulant, antibiotics and tociluzimab</description>
+    <arm_group_label>SOC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients included in the CORIMUNO-19 cohort&#xD;
+&#xD;
+          -  Patients hospitalized in conventional ward or in the ICU belonging to the following&#xD;
+             groups: OMS Progression scale 6, 7, 8 AND no acute pulmonary embolism on CT-scan&#xD;
+             performed in the preceding 72 hours no pulmonary evident bacterial coinfection or&#xD;
+             superinfection evaluated by non-invasive procedures (serology, antigens, nasopharynx&#xD;
+             PCR, sputum examination, blood cultures…)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients in OMS progression class 9&#xD;
+&#xD;
+          -  Patients with exclusion criteria to the CORIMUNO-19 cohort&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Active cancer with ongoing treatment&#xD;
+&#xD;
+          -  acute use of NIV for COPD exacerbation or cardiac decompensation associated to&#xD;
+             COVID-19&#xD;
+&#xD;
+          -  Oxygen patient requiring long-term oxygen before hospitalization&#xD;
+&#xD;
+          -  Patient already included in an interventional research&#xD;
+&#xD;
+          -  Risk of bleeding especially hemoptysis, active venous or arterial thromboembolic&#xD;
+             disease and recent surgery during the last 3 weeks&#xD;
+&#xD;
+          -  Hypersensitivity to the active substance (bevacizumab) or to any of the excipients&#xD;
+             (sucrose, succinic acid, disodium edetate, polysorbate 80, sodium hydroxide, water for&#xD;
+             injection&#xD;
+&#xD;
+          -  Hypersensitivity to Chinese Hamster Ovary (CHO) cell products or other recombinant&#xD;
+             human or humanised antibodies&#xD;
+&#xD;
+          -  Persistant uncontrolled arterial hypertension after using to anti-hypertensive drugs&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jacques CADRANEL, PUPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistance Publique - Hôpitaux de Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jacques CADRANEL, PUPH</last_name>
+    <phone>0156016147</phone>
+    <email>jacques.cadranel@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Muriel FARTOUKH, PUPH</last_name>
+    <phone>01 56 01 65 72</phone>
+    <email>muriel.fartoukh@aphp.fr</email>
+  </overall_contact_backup>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2021</study_first_posted>
+  <last_update_submitted>March 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19 pneumonia</keyword>
+  <keyword>severe hypoxemia</keyword>
+  <keyword>VEGF</keyword>
+  <keyword>bevacizumab</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+    <mesh_term>Virus Diseases</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>RNA Virus Infections</mesh_term>
+    <mesh_term>Coronaviridae Infections</mesh_term>
+    <mesh_term>Nidovirales Infections</mesh_term>
+    <mesh_term>Respiratory Tract Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

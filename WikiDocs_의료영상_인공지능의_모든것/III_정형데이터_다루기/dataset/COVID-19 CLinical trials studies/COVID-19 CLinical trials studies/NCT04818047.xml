@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5404">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04818047</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHREB-Ethics ID #: REB16-1811</org_study_id>
+    <nct_id>NCT04818047</nct_id>
+  </id_info>
+  <brief_title>Adaptation and Pilot Testing of Web and Mobile Interface for the VID-KIDS Intervention</brief_title>
+  <acronym>VID-KIDS</acronym>
+  <official_title>VID-KIDS: Rapid User-Informed Web and Mobile Interface Development, Adaptation and Pilot Testing to Support Children's Mental Health and Development.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Calgary</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Alberta Health Services</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Calgary</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 has placed unprecedented strains on parents impacted by toxic stress (depression,&#xD;
+      addiction, intimate partner violence, and poverty) and reluctant to see mental health-service&#xD;
+      providers in home/clinic due to fears of infection. Due to the pandemic, Co-PI Letourneau&#xD;
+      ceased/delayed recruitment in VID-KIDS a CIHR-funded randomized controlled trials (RCT) of&#xD;
+      in-person (home or clinic) program designed to improve children's mental, emotional and&#xD;
+      behavioural (MEB) health and development via parent-child relationship intervention.&#xD;
+      Recognizing the heightened need for already vulnerable families to obtain safe parenting&#xD;
+      support to manage depressive symptoms/other stressors. Our primary knowledge user (D. McNeil,&#xD;
+      Scientific Director, Maternal Newborn Child and Youth Strategic Clinical Network, Alberta&#xD;
+      Health Services) advocated for online delivery of the VID-KIDS parent training program. In&#xD;
+      response, an interdisciplinary team from nursing and software engineering rapidly pivoted to&#xD;
+      an online delivery format. Critical barriers to using existing commercial technologies&#xD;
+      emerged, making it essential to develop and implement tailored, user-informed virtual care&#xD;
+      delivery platforms and tools safe, secure, user-friendly for families already stressed. This&#xD;
+      project aligns with the priority research area, Developing Innovative Adaptations of Services&#xD;
+      and/or Delivery, as innovative user interface design and integrated knowledge transfer&#xD;
+      approaches will be used to: (a) adapt VID-KIDS for virtual delivery; (b) develop virtual&#xD;
+      platforms (web-based applications) and tools (mobile apps) for flexible delivery of mental&#xD;
+      health supports for parents and training for professional facilitators; (c) integrate virtual&#xD;
+      mental health services into the primary care system promoting program uptake; and (d)&#xD;
+      design/test streamlined and intuitive virtual systems for nimble spread/scaleup. The project&#xD;
+      catalyzes and enriches the PIs' research program by crossing disciplines (nursing &amp;&#xD;
+      engineering) in cutting edge research that is responsive to trends in both mental health&#xD;
+      intervention and web-interface design. This will be foundational for future tri-council RCT&#xD;
+      grants, expanding our research into user-engaged technology-enabled delivery of needed&#xD;
+      community interventions, especially relevant to promoting the urgent mental health needs of&#xD;
+      Canadian families in the COVID-19 context of physical distancing.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      For Virtual Platform Background: Toxic stressors including parental depression, addictions,&#xD;
+      intimate partner violence or low-income undermine parent-child relationship quality, placing&#xD;
+      children at risk for mental, emotional and behavioural (MEB) health and development problems.&#xD;
+      COVID-19 has placed unprecedented strains on already vulnerable families. Postpartum&#xD;
+      depression (PPD), for example, affects ~19% of mothers and is considered toxic to children's&#xD;
+      mental health and development because it reduces maternal sensitivity and positive&#xD;
+      responsiveness to infant/child cues and bids for caring attention. While depressed mothers&#xD;
+      benefit from support, COVID-19 has reduced depressed mothers' access, placing their&#xD;
+      children's mental health and development at heightened risk. Exposure to toxic stress&#xD;
+      increases children's risk for poor lifetime mental health trajectories. Ensuring that parents&#xD;
+      and children receive support to address the impact of toxic stress, especially given service&#xD;
+      reductions associated with COVID-19, is crucial to promote children's' mental health. Our aim&#xD;
+      is to build on the success of two CIHR funded in-person (home or clinic) intervention program&#xD;
+      designed to improve parent-child relationship quality and children's MEB health and&#xD;
+      development by transitioning to virtual delivery. In response to ceased/delayed recruitment&#xD;
+      in both study and increased demand for parent-child mental health services related to the&#xD;
+      pandemic, the research team rapidly adapted to virtual delivery in collaboration with&#xD;
+      principal knowledge user (D McNeil, Scientific Director, Maternal Newborn Child and Youth&#xD;
+      Strategic Clinical Network, Alberta Health Services). Our efforts revealed unsurmountable&#xD;
+      barriers to using commercially available technologies and affirming the need to develop and&#xD;
+      implement user-informed virtual care delivery platforms and mobile tools.&#xD;
+&#xD;
+      VID-KIDS Program (Video Feedback Interaction Guidance Program for Depressed Mothers and their&#xD;
+      Infants), was designed specifically to help mothers with PPD to be sensitive and responsive&#xD;
+      to their infants, an ability that is undermined by the symptoms of depression, in order to&#xD;
+      promote healthy child development. As both program have been demonstrated to be effective in&#xD;
+      clinic and home visits, both are positioned for transition to virtual formats and the timing&#xD;
+      is ripe for rapid uptake in Canada.&#xD;
+&#xD;
+      Methods: Using integrated knowledge transfer (iKT) and participatory design approaches,&#xD;
+      investigators will develop and pilot test a virtual program for real-world implementation, by&#xD;
+      evaluating the impact of the beta prototypes on maternal-infant interaction quality and&#xD;
+      children's MEB health development. Interdisciplinary collaboration is vital to ensure the&#xD;
+      relevant expertise to develop accessible secure, safe, user-friendly and feasible virtual&#xD;
+      mental health intervention for VID-KIDS. To ensure usability of the virtual platforms,&#xD;
+      investigators will undertake four-phase study for VID-KIDS: Phases 1 and 2: Exploratory -&#xD;
+      user engagement to identify content and explore design challenges and user preferences,&#xD;
+      followed by prototyping of interface designs; Phase 3: Software Development - iterative&#xD;
+      design sessions with users to develop MVPs; and Phase 4: Pilot Test - beta test MVPs and&#xD;
+      refine user interface designs. The impact of the beta prototypes on parent-infant interaction&#xD;
+      quality and children's mental health and development will be assessed.&#xD;
+&#xD;
+      Relevant Research Areas: This project directly aligns with the priority research area,&#xD;
+      Developing Innovative Adaptations of Services and/or Delivery, in that user interface design&#xD;
+      (UID) and iKT approaches will be used to: (a) adapt the innovative VID-KIDS program for&#xD;
+      virtual delivery; (b) develop virtual platforms (web-based applications) and tools (mobile&#xD;
+      apps) for flexible delivery of mental health supports for parents and training for&#xD;
+      professional facilitators; (c) integrate virtual mental health services into the primary care&#xD;
+      system to promote program uptake; and (d) design/test streamlined and intuitive virtual&#xD;
+      systems that can be easily spread and scaled. T his work will set the stage for two&#xD;
+      tri-council randomized controlled trial (RCT) grants, expanding our research into&#xD;
+      user-engaged technology-enabled delivery of needed community interventions, especially&#xD;
+      relevant to promoting the mental health of Canadian families in the COVID-19 context of&#xD;
+      physical distancing.&#xD;
+&#xD;
+      For VID-KIDS Program Background &amp; Rationale: Affecting ~19% of mothers, postpartum depression&#xD;
+      (PPD) reduces maternal sensitivity and positive responsiveness to infant cues and bids for&#xD;
+      caring attention. Infants perceive these behaviours as stressful which stimulates the&#xD;
+      hypothalamic pituitary adrenal axis, triggering cortisol release which, at persistently&#xD;
+      elevated levels, inhibits neurogenesis during critical periods of brain development. Elevated&#xD;
+      infant cortisol of infants of mothers with PPD may explain later poor child cognitive&#xD;
+      development and hyperactivity and anxiety problems into adolescence. The negative&#xD;
+      developmental outcomes from poor quality interactions and disrupted cortisol patterns&#xD;
+      underscores the urgency for intervening. Treating PPD successfully, has not consistently&#xD;
+      improved maternal-infant (M-I) interaction quality and children's development. Parent&#xD;
+      training promoting sensitive, responsive interactions may help infants of depressed mothers&#xD;
+      develop optimally. Research Question &amp; Objectives: Conduct a randomized controlled trial&#xD;
+      (RCT) with depressed mothers of infants aged 2-6 months designed to alter negative M-I&#xD;
+      interaction and child development associated with PPD. Objective: examine effect of the&#xD;
+      intervention, VID-KIDS (&quot;video-feedback intervention to promote improved interactions between&#xD;
+      mothers and their kids&quot;), on: 1) M-I interaction; 2) infant cortisol patterns, infant&#xD;
+      development, maternal symptoms of PPD, anxiety, and parenting stress. Anticipate to improve:&#xD;
+      1) M-I interactions and infant development, infant cortisol; 2) symptoms of PPD, anxiety,&#xD;
+      parenting stress, and infant development. The investigators will conduct cost-benefit&#xD;
+      analyses. An additional objective is to collect infant buccal cells for future genetic/&#xD;
+      epigenetic analyses. Research has suggested biological sensitivity, assessed via genotyping&#xD;
+      specific genetic variants and alleles may confound effects of interventions of this nature.&#xD;
+      Intervention may affect the epigenome, particularly the number or nature of methylated DNA&#xD;
+      sites, of treated infants differently than untreated infants that may link to infant&#xD;
+      development. This portion of the study is optional for parents-they can opt out of buccal&#xD;
+      cell collection. Methods: The study will implement a parallel group RCT compared to resource&#xD;
+      and referral program (standard care) for mothers with PPD and their infants. After baseline&#xD;
+      assessment, over the following 9-weeks, mothers randomized to the intervention will receive&#xD;
+      3-video-feedback sessions during home visits conducted at 3-week intervals. Mothers&#xD;
+      randomized to the control condition will receive standard care. Both groups will be assessed&#xD;
+      at baseline, immediately following the 9-week treatment/standard care interval (post-test),&#xD;
+      then 2-months later (delayed post-test). Both control and intervention mothers will have&#xD;
+      access to standard care over the study period. Mothers' use of such health services will be&#xD;
+      documented. The investigators will adhere to CONSORT guidelines. Intervention description.&#xD;
+      Video-feedback interventionists will be trained by Co- PI Tryphonopoulos using a manualized&#xD;
+      curriculum of 7-themed modules offered in a 4-day workshop. Training modules will include: 1)&#xD;
+      Introduction to Video-feedback; 2) NCAST Keys to Caregiving Program; 3) Infant Engagement and&#xD;
+      Disengagement Cues (using NCAST's BabyCues: A Child's First Language Cards®; 4)&#xD;
+      Video-feedback Intervention Protocol; 5) Overview of Behaviours of Interest; 6) Case Studies;&#xD;
+      and 7) Examples of Strengths-Based Feedback.&#xD;
+&#xD;
+      The intervention follows an 8-step protocol:&#xD;
+&#xD;
+      Ice-breaking. Interventionist initiates rapport with the participant. Overview of Infant&#xD;
+      Engagement and Disengagement Cues. Using NCAST's BabyCues, interventionists review coloured&#xD;
+      photo cards that illustrate and explain the behavioural cues commonly seen in infants,&#xD;
+      including potent and subtle engaging and disengaging cues. NCAST Teaching Activity. Using the&#xD;
+      Nursing Child Assessment Teaching Scale (NCATS) protocols and elements, mothers are asked to&#xD;
+      perform a teaching task more advanced than their infant's age level. Recording Interaction.&#xD;
+      Mothers and infants are observed and video-recorded. Initial-Viewing. Specific feedback is&#xD;
+      not provided during the initial viewing. Mothers are asked to reflect on and point out any&#xD;
+      infant cues they recognize. Interventionist documents the presence or absence of infant cues&#xD;
+      and mother's response for later discussion. Second-Viewing. Interventionist and mother&#xD;
+      co-view the recorded interaction with opportunities provided for replay/slow review portions&#xD;
+      emphasizing sensitivity and responsiveness. Interventionist provides feedback: using praise&#xD;
+      reinforcing desired maternal behaviours; information on infant cues; appraisal of maternal&#xD;
+      response to infant distress; and use of cognitive growth fostering language. Third-Viewing.&#xD;
+      The final viewing, integrates all of the concepts discussed in the previous screenings, using&#xD;
+      positive reinforcement to emphasize optimal aspects of sensitivity, responsiveness and&#xD;
+      constructive feedback suggesting areas for growth. Post-viewing Debrief. Interventionist and&#xD;
+      mother conclude the video-feedback session discussing whatever interests the mother. Mothers&#xD;
+      are encouraged to make note their infants' engagement/disengagement cues and responses to&#xD;
+      these non-verbal behaviours. Video feedback sessions last 60-90min. Subsequent sessions&#xD;
+      follow same protocol (new teaching activities) and build on the previous interaction guidance&#xD;
+      discussions.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 15, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Nursing Child Assessment Satellite Training (NCAST) assessment scale will be used to evaluate Mother-Infant (M-I) interactions</measure>
+    <time_frame>through study completion, an average of 18 weeks</time_frame>
+    <description>Using the Nursing Child Assessment Satellite Training (NCAST) assessment scale will be used to evaluate Mother-Infant (M-I) interactions. See Study Detailed Description and Intervention arm for more information on the NCAST Program. Scale range from 0 - 73. A higher score means a better outcome, i.e. higher quality of parent-child interaction.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Post Partum Depression</condition>
+  <arm_group>
+    <arm_group_label>Experimental: VID-KIDS Intervention Program Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Experimental: VID-KIDS Intervention Program Group RN review photos of infant engagement/ disengagement cues. NCAST Teaching Activity, mothers asked to perform task advanced for infant's level, recorded. 1st-View, no feedback, mothers reveal infant cues. RN records infant/mother's response, later discussion. 2nd, RN and mother co-view interaction with time for replay/review parts of sensitivity and responsiveness. RN feedback: praising desired maternal behaviours; information on infant cues; maternal response to infant distress; and use of cognitive growth fostering language. 3rd, all concepts discussed in past views, use positive reinforcement to affirm aspects of sensitivity, useful feedback for areas of growth. Post-Debrief, RN and mother discuss interests of the mother. Mothers encouraged to note infants' engagement/disengagement cues.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>VID-KIDS Intervention Program</intervention_name>
+    <description>Investigators created VID-KIDS for mothers with PPD to improve sensitivity and positive responsiveness towards their infants. Video-feedback has the advantage of being visually concrete yet &quot;distant&quot; because the action and the feedback are not concurrent; this helps mothers maintain an element of objectivity that may minimize guilty feelings associated with potential perceived lack of parenting skills. Videofeedback interventionists are trained by investigators with manualized modules. Including: Introduction to Video-feedback; NCAST Keys to Caregiving Program; Infant Engagement and Disengagement Cues; Video-feedback Intervention Protocol; Overview of Behaviours of Interest; Case Studies; and Examples of Strengths-Based Feedback. VID-KIDS intervention follows an 8-step protocol.</description>
+    <arm_group_label>Experimental: VID-KIDS Intervention Program Group</arm_group_label>
+    <other_name>NCAST Program</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Recruitment will be conducted through Calgary Public Health's immunization program.&#xD;
+             Public Health RNs routinely screen mothers for PPD during infants' vaccination clinic&#xD;
+             appointments using the Edinburgh Postnatal Depression Scale (EPDS) at 2, 4, and 6&#xD;
+             months of age. EPDS scores&gt;12 are indicative of probable major depression with&#xD;
+             postpartum onset and make a mother eligible for our study. Approximately 500 mothers&#xD;
+             per year (40/month) screen &gt;12 on the EPDS. The investigators have agreed to support a&#xD;
+             part-time Calgary Public Health staff person to review screening records and contact&#xD;
+             potential participants to determine if they are willing to be contacted by a the&#xD;
+             VID-KIDS Project Manager for further information about the study. If mothers agree,&#xD;
+             then the VID-KIDS Project Manager will contact the mother to explain the study,&#xD;
+             further assess eligibility, and if appropriate conduct the informed consent procedure.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None as long as they meet Inclusion Criteria&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Must be new mothers suffering from PPD</gender_description>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>49 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nicole Letourneau</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Calgary</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nicole Letourneau</last_name>
+    <phone>403-210-3833</phone>
+    <email>nicole.letourneau@ucalgary.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Calgary</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 1N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicole Letourneau, PhD</last_name>
+      <phone>403-210-3833</phone>
+      <email>nicole.letourneau@ucalgary.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Andrea Deane, BSc</last_name>
+      <phone>4036787090</phone>
+      <email>andrea.deane@ahs.ca</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Maternal Newborn Child and Youth Strategic Clinical Network</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2W 1S7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carolyn M Campbell</last_name>
+      <phone>403-955-1451</phone>
+      <email>carolynm.campbell@albertahealthservices.ca</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 26, 2021</study_first_posted>
+  <last_update_submitted>March 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Calgary</investigator_affiliation>
+    <investigator_full_name>Nicole Letourneau</investigator_full_name>
+    <investigator_title>Co-Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>virtual mental health interventions</keyword>
+  <keyword>patient-engaged research</keyword>
+  <keyword>infant/child mental health</keyword>
+  <keyword>implementation science</keyword>
+  <keyword>participatory design methods</keyword>
+  <keyword>integrated knowledge transfer</keyword>
+  <keyword>psychosocial/health behavioural research</keyword>
+  <keyword>health services research</keyword>
+  <keyword>parent-child relationships</keyword>
+  <keyword>children's development</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression, Postpartum</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

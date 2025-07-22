@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2190">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04758299</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY2020_501</org_study_id>
+    <nct_id>NCT04758299</nct_id>
+  </id_info>
+  <brief_title>Understanding Communications Included With COVID-19 (Corona Virus Disease of 2019) Home Testing Kits</brief_title>
+  <official_title>At Home Self-testing Kits for SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus 2) : A Randomized Trial Assessing How Consumers Interpret and Act on Test Results</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Barry Dewitt</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Dartmouth College</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Carnegie Mellon University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To test competing sets of information for consumers on how to interpret hypothetical&#xD;
+      SARS-CoV-2 home test kit results and whether they report plans to take CDC-recommended&#xD;
+      actions to protect themselves and others given their test results and two critical aspects of&#xD;
+      their clinical context: symptoms, recent close exposures. Participants will be randomized to&#xD;
+      receive either information from the FDA authorized Ellume home test kit (the first kit&#xD;
+      authorized for over the counter use) for what actions to take for a negative or positive&#xD;
+      COVID-19 test (usual care) or a decision science-based design of similar length&#xD;
+      (intervention).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To test competing sets of information for consumers on how to interpret hypothetical&#xD;
+      SARS-CoV-2 home test kit results and whether they report plans to take CDC [Centers for&#xD;
+      Disease Control]-recommended actions to protect themselves and others given their test&#xD;
+      results and two critical aspects of their clinical context: symptoms, recent close exposures.&#xD;
+      Participants will be randomized to receive either information from the FDA authorized Ellume&#xD;
+      home test kit (the first kit authorized for over the counter use) for what actions to take&#xD;
+      for a negative or positive COVID-19 test (usual care) or a decision science-based design of&#xD;
+      similar length (intervention).&#xD;
+&#xD;
+      Participants will be randomized to receive either information from the FDA authorized Ellume&#xD;
+      home test kit for what actions to take for a negative or positive COVID-19 test (usual care)&#xD;
+      or a decision science-based design of similar length (intervention). They will be given time&#xD;
+      to read the documents and the opportunity to download a full &quot;instructions for use&quot; document&#xD;
+      (the FDA authorized for the ELLUME test kit). They will then be randomized to one of four&#xD;
+      conditions, asking them to imagine a clinical context: a person with no symptoms and no close&#xD;
+      COVID-19 contact, no symptoms and close contact,&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 13, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomized to receive either information from the FDA authorized home test kit for what actions to take for a negative or positive COVID-19 test (usual care) or a decision science-based design of similar length (intervention).&#xD;
+There are 4 groups (clinical scenarios) within each randomized arm (the scenarios are patient with no symptoms and no exposure; no symptoms and exposure; symptoms and no exposure; symptoms and exposure.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>choice of action to take with negative test</measure>
+    <time_frame>day 1</time_frame>
+    <description>choice of actions consistent with CDC-recommendations (eg, isolate or not) for various clinical scenarios (eg, with/without known exposure, with/without symptoms)&#xD;
+Which of the following are safe for Jamie to do over the next week about being around others? [safe, not safe]&#xD;
+Take no additional precautions.&#xD;
+Stay at home except to visit close family or friends. Take no additional precautions at home&#xD;
+Stay at home except when going to the grocery store. Take no additional precautions at home&#xD;
+Stay at home all the time, without exceptions. Take no additional precautions at home.&#xD;
+Stay at home all the time, without exceptions and avoid contact with others, including others in the household</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Likelihood of COVID-19 infection (qualitative)</measure>
+    <time_frame>day 1</time_frame>
+    <description>Judgments about the likelihood of COVID-19 infection with a negative or positive test result&#xD;
+How likely is it that Jamie is infected with COVID-19? (choose one)&#xD;
+Definitely yes&#xD;
+Very likely&#xD;
+Likely&#xD;
+Unlikely&#xD;
+Very Unlikely&#xD;
+Definitely not</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Likelihood of COVID-19 infection (quantitative)</measure>
+    <time_frame>day 1</time_frame>
+    <description>Judgments about the likelihood of COVID-19 infection with a negative ot positive test result&#xD;
+Response using a &quot;slider&quot; to capture numeric estimate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>safe practices</measure>
+    <time_frame>day 1</time_frame>
+    <description>Change in intent to practice standard public health practices to reduce COVID-19 transmission (hand washing, social distancing, masks) - question asked before and after seeing test result&#xD;
+What else do you think Jamie should do to protect himself and others from COVID-19? [choose: all of the time, most of the time, some of the time, a little of the time, none of the time] In general&#xD;
+Wash hands often&#xD;
+Avoid close contact with people who seem sick (e.g., cough, sneeze, fever)&#xD;
+Stay home&#xD;
+Outside your home&#xD;
+Try to avoid crowds&#xD;
+Wear a mask when around others&#xD;
+Keep 6 feet from others&#xD;
+Avoid contact with anyone</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ease of use of information rating</measure>
+    <time_frame>day 1</time_frame>
+    <description>how easy/hard is it to use information about interpreting test results&#xD;
+How easy or difficult was it to read the information about interpreting the test result?&quot; (check one)&#xD;
+Very difficult&#xD;
+Difficult&#xD;
+Neutral&#xD;
+Easy&#xD;
+Very easy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>usefulness of information rating</measure>
+    <time_frame>day 1</time_frame>
+    <description>how useful is the information about interpreting test results&#xD;
+The information about interpreting the home test kit results was (check one)&#xD;
+Extremely useful&#xD;
+Useful&#xD;
+Neutral&#xD;
+Useless&#xD;
+Completely useless</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>helpfulness of information for what to do given positive test result</measure>
+    <time_frame>day 1</time_frame>
+    <description>How helpful was the information for what to if test was positive&#xD;
+The information helped me know what to do if test result is positive&#xD;
+a. Strongly agree&#xD;
+Agree&#xD;
+Neutral&#xD;
+Disagree&#xD;
+Strongly disagree</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>helpfulness of information for what to do given negative test result</measure>
+    <time_frame>day 1</time_frame>
+    <description>How helpful was the information for what to if test was negative&#xD;
+The information helped me know what to do if test result is negative&#xD;
+a. Strongly agree&#xD;
+Agree&#xD;
+Neutral&#xD;
+Disagree&#xD;
+Strongly disagree</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess effect of the FDA authorized description of test accuracy</measure>
+    <time_frame>day 1</time_frame>
+    <description>According to the test's FDA-authorized label, a clinical study conducted in the USA in 2020 showed that the test &quot;correctly identified 96% of positive samples and 100% of negative samples in patients with symptoms. In people without symptoms the test correctly identified 91% of positive samples and 96% of negative samples.&quot;&#xD;
+Based on this information, if Jamie has COVID now, what is the chance that the test will be wrong and say that he does not?&#xD;
+RESPONSE (probability estimate) using slider</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>ordering postest probability of infection</measure>
+    <time_frame>day 1</time_frame>
+    <description>correct ordering of posttest probability of infection risk (derived from qualitative and quantitative ratings)</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>COVID-19 Testing</condition>
+  <condition>Decision Making</condition>
+  <arm_group>
+    <arm_group_label>Standard care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>information from an FDA authorized home test kit for what actions to take for a negative or positive COVID-19 test</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Decision science-based design</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Information from a decision science-based design (of similar length to the FDA authorized home test kit information) for what actions to take for a negative or positive COVID-19 test</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>decision science-based design</intervention_name>
+    <description>decision science-based design explaining actions to take for a negative or positive COVID-19 test</description>
+    <arm_group_label>Decision science-based design</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants must be &gt;18 years old, communicate in English, reside in the United&#xD;
+             States.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Respondents who complete the survey in under a minute.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Barry Dewitt</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Carnegie Mellon University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Steven Woloshin, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dartmouth College</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Tamar Krishnamurti, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Baruch Fischhoff, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Carnegie Mellon University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Barry Dewitt, PhD</last_name>
+    <phone>412-268-2670</phone>
+    <email>barrydewitt@cmu.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Carnegie Mellon University</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Barry Dewitt, PhD</last_name>
+      <phone>412-268-2670</phone>
+      <email>barrydewitt@cmu.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 17, 2021</study_first_posted>
+  <last_update_submitted>March 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Carnegie Mellon University</investigator_affiliation>
+    <investigator_full_name>Barry Dewitt</investigator_full_name>
+    <investigator_title>Postdoctoral Research Associate</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2823">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04843787</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SLV213-02</org_study_id>
+    <nct_id>NCT04843787</nct_id>
+  </id_info>
+  <brief_title>A Randomized, Double Blind, Placebo-Controlled, Multiple Ascending Dose Phase 2a Study of SLV213 in Ambulatory Individuals Positive for COVID-19</brief_title>
+  <official_title>A Randomized, Double Blind, Placebo-Controlled, Multiple Ascending Dose Phase 2a Study of SLV213 in Ambulatory Individuals Positive for COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kenneth Krantz, MD, PhD</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>FHI Clinical, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Selva Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase 2a trial recruits adult ambulatory patients who have been determined to be&#xD;
+      COVID-19 positive. The study drug SLV213 will be administered to examine its safety,&#xD;
+      tolerability and provide assessment of its effect on clinical symptoms of COVID-19. Blood&#xD;
+      samples will be taken pre-dose and at several time points post-dose for pharmacokinetic (PK)&#xD;
+      analysis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This double blind, placebo-controlled study will be conducted in two parts. Part A will&#xD;
+      determine the maximum tolerated dose (MTD) that will be used in Part B to confirm tolerance&#xD;
+      and provide assessment of the effect of SLV213 on clinical symptoms of COVID-19.&#xD;
+&#xD;
+      Part A will consist of three sequential cohorts of 12 subjects receiving treatment&#xD;
+      administered orally either twice a day or once a day for seven consecutive days. Subjects in&#xD;
+      each cohort will be randomized to one of two treatment arms, SLV213 (8 subjects) or placebo&#xD;
+      (4 subjects). After each cohort, a Selva Safety Review Committee (SRC) will evaluate the&#xD;
+      safety of the regimen before proceeding to dose the next cohort. If a cohort is deemed to&#xD;
+      have reached an intolerable dose level, the dose prior to that level will be the MTD. PK&#xD;
+      blood samples will be collected throughout the study.&#xD;
+&#xD;
+      In Part B of the study 45 subjects will be dosed at the MTD (30 SLV213 and 15 Placebo) to&#xD;
+      confirm tolerance, and to provide assessment of the effect of SLV213 on clinical symptoms of&#xD;
+      COVID-19. PK blood samples will be collected throughout the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2021</start_date>
+  <completion_date type="Anticipated">October 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Multiple Ascending Dose (MAD)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double-Blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Treatment-Emergent Adverse Events</measure>
+    <time_frame>21 days following treatment end</time_frame>
+    <description>Proportion of participants experiencing any treatment-emergent adverse events judged possibly or probably related to study drug vs. placebo (drug-related adverse events as determined by abnormal clinical laboratory tests, vitals signs, blood pressure monitoring and collection (systolic, diastolic, pulse pressure, heart rate and mean arterial pressure), physical exam and ECG parameters).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Symptom Improvements</measure>
+    <time_frame>21 days following treatment end</time_frame>
+    <description>Time from randomization to an improvement of two points (from the status at randomization) on the COVID19 symptom scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Symptom Resolution</measure>
+    <time_frame>21 days following treatment end</time_frame>
+    <description>Time from randomization to resolution of COVID-19 clinical symptoms (e.g. fever, cough, shortness of breath, etc. as described below). Resolution defined as the start of the first 24-hour period when all symptoms are rated as mild or absent and have remained this way for 24 hours</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Negative SARC-CoV-2 Testing</measure>
+    <time_frame>Through Day 8</time_frame>
+    <description>Time to two successive nasopharyngeal swabs negative for SARS-CoV-2 by PCR testing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 Viral Load Change</measure>
+    <time_frame>Baseline and Day 8</time_frame>
+    <description>Change in SARS-CoV-2 viral load measured in plasma samples (e.g., change in the slope of the SARS-CoV-2 log viral load assessed at baseline and Day 8)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SpO2/FiO2 Ratio Change</measure>
+    <time_frame>Baseline and Day 7</time_frame>
+    <description>Change in SpO2 (partial pressure of oxygen) / FiO2 (fraction of inspired oxygen, FiO2) ratio (or P/F ratio) assessed at baseline then day 7</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen Support</measure>
+    <time_frame>21 days following treatment end</time_frame>
+    <description>Number of days without oxygen by non-invasive ventilation/high flow nasal cannula or need for mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization</measure>
+    <time_frame>21 days following treatment end</time_frame>
+    <description>Proportion of subjects requiring hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Related Death</measure>
+    <time_frame>21 days following treatment end</time_frame>
+    <description>Proportion of subjects dying of COVID-19 related causes</description>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">81</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Experimental: Multiple Ascending Dose Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention: SLV213, 8 subjects will receive 200mg oral doses twice a day for seven consecutive days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Comparator: Multiple Ascending Dose Cohort 1</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Intervention: Placebo, 4 subjects will receive an equivalent number of oral doses twice a day for seven consecutive days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental: Multiple Ascending Dose Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention: SLV213, 8 subjects will receive 400mg oral doses twice a day for seven consecutive days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Comparator: Multiple Ascending Dose Cohort 2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Intervention: Placebo, 4 subjects will receive the equivalent number of oral doses twice a day for seven consecutive days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental: Multiple Ascending Dose Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention: SLV213, 8 subjects will receive 800mg oral doses once a day for seven consecutive days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Comparator: Multiple Ascending Dose Cohort 3</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Intervention: Placebo, 4 subjects will receive the equivalent number of oral doses once a day for seven consecutive days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental: Multiple Ascending Dose Cohort 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention: SLV213, 30 subjects will receive the MTD (200mg twice a day, 400mg twice a day or 800 mg once a day) oral doses for seven consecutive days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Comparator: Multiple Ascending Dose Cohort 4</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Intervention: Placebo, 15 subjects will receive the equivalent number of oral doses once a day or twice a day for seven consecutive days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SLV213</intervention_name>
+    <description>SLV213 oral capsule (200mg) BID</description>
+    <arm_group_label>Experimental: Multiple Ascending Dose Cohort 1</arm_group_label>
+    <arm_group_label>Experimental: Multiple Ascending Dose Cohort 4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SLV213</intervention_name>
+    <description>SLV213 oral capsule (400mg) BID</description>
+    <arm_group_label>Experimental: Multiple Ascending Dose Cohort 2</arm_group_label>
+    <arm_group_label>Experimental: Multiple Ascending Dose Cohort 4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SLV213</intervention_name>
+    <description>SLV213 oral capsule (800mg) QD</description>
+    <arm_group_label>Experimental: Multiple Ascending Dose Cohort 3</arm_group_label>
+    <arm_group_label>Experimental: Multiple Ascending Dose Cohort 4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo oral capsule (200mg) BID</description>
+    <arm_group_label>Placebo Comparator: Multiple Ascending Dose Cohort 1</arm_group_label>
+    <arm_group_label>Placebo Comparator: Multiple Ascending Dose Cohort 4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo oral capsule (400mg) BID</description>
+    <arm_group_label>Placebo Comparator: Multiple Ascending Dose Cohort 2</arm_group_label>
+    <arm_group_label>Placebo Comparator: Multiple Ascending Dose Cohort 4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo oral capsule (800mg) QD</description>
+    <arm_group_label>Placebo Comparator: Multiple Ascending Dose Cohort 3</arm_group_label>
+    <arm_group_label>Placebo Comparator: Multiple Ascending Dose Cohort 4</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Agree to participate in the trial by signing the IRB approved Informed Consent&#xD;
+&#xD;
+          2. Age ≥ 18 years of age&#xD;
+&#xD;
+          3. Positive diagnosis for COVID-19 by SARS-CoV-2 PCR by nasopharyngeal swab within the&#xD;
+             past 3 days&#xD;
+&#xD;
+          4. Two or more COVID-19 symptoms (at least one of which must be Respiratory) rated Mild&#xD;
+             or Moderate on the COVID-19 adapted FLU-PRO Plus scale&#xD;
+&#xD;
+          5. SpO2 ≥ 94 mm Hg&#xD;
+&#xD;
+          6. Ambulatory (not hospitalized) at the time of enrollment&#xD;
+&#xD;
+          7. At increased risk of developing more severe COVID-19 disease (at least one of the&#xD;
+             following):&#xD;
+&#xD;
+               1. Age ≥60 years&#xD;
+&#xD;
+               2. Presence of pulmonary disease, specifically moderate or severe persistent asthma,&#xD;
+                  chronic obstructive pulmonary disease, pulmonary hypertension, emphysema&#xD;
+&#xD;
+               3. Diabetes mellitus (type 1 or 2), requiring oral medication or insulin for&#xD;
+                  treatment&#xD;
+&#xD;
+               4. Cardiovascular disease, including Hypertension, requiring at least 1 oral&#xD;
+                  medication for treatment; congestive heart failure; coronary artery disease;&#xD;
+                  cardiomyopathy; pulmonary hypertension&#xD;
+&#xD;
+               5. Body mass index ≥30&#xD;
+&#xD;
+               6. Chronic renal disease (but not on dialysis)&#xD;
+&#xD;
+               7. Sickle cell disease or trait&#xD;
+&#xD;
+          8. Comorbid disease (as above) well controlled/stable in opinion of the Investigator&#xD;
+&#xD;
+          9. Normal (or stable if abnormal per comorbidity) baseline ECG&#xD;
+&#xD;
+         10. Men of child-bearing potential must use birth control with heterosexual partner(s)&#xD;
+             (abstinence or condoms)&#xD;
+&#xD;
+         11. Women of child-bearing potential must meet all the following criteria:&#xD;
+&#xD;
+               -  Use of birth control (abstinence, oral contraceptives, condoms, or intrauterine&#xD;
+                  device)&#xD;
+&#xD;
+               -  Test negative for β-subunit of HCG&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnant or lactating&#xD;
+&#xD;
+          2. Treatment with COVID-19 antiviral such as remdesivir or SARS-CoV-2 antibodies&#xD;
+&#xD;
+          3. Prior COVID-19 vaccination or prior recovery from documented COVID-19 infection&#xD;
+&#xD;
+          4. Severe or Critical COVID-19, as indicated by respiratory distress or shortness of&#xD;
+             breath at rest; Resp Rate ≥30/min; Heart rate ≥125/min; SpO2 ≤ 93% on room air or&#xD;
+             PaO2/FiO2 ≤ 300 if on supplemental O2&#xD;
+&#xD;
+          5. Positive HIV or positive Hepatitis Panel&#xD;
+&#xD;
+          6. Treatment with any medications known to be strongly metabolized by CYP3A4 or CYP2D6&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Julia Ortega</last_name>
+    <phone>+1 (240) 498-0176</phone>
+    <email>jortega@selvarx.com</email>
+  </overall_contact>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Selva Therapeutics, Inc.</investigator_affiliation>
+    <investigator_full_name>Kenneth Krantz, MD, PhD</investigator_full_name>
+    <investigator_title>Chief Medical Officer</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

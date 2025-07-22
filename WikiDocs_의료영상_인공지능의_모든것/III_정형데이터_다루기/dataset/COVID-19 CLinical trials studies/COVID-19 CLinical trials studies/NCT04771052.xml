@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="502">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04771052</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MP-31-2021-3770</org_study_id>
+    <nct_id>NCT04771052</nct_id>
+  </id_info>
+  <brief_title>Minimizing the Effects of COVID-19 Hospitalization With the COVID Rehabilitation Program for the Elderly</brief_title>
+  <acronym>CORE</acronym>
+  <official_title>Minimizing the Effects of COVID-19 Hospitalization With the COVID Rehabilitation Program for the Elderly: the CORE Trial in Response to the Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Université de Sherbrooke</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Université de Sherbrooke</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Although evidence from the management of other viral respiratory infections suggest that&#xD;
+      early multidisciplinary rehabilitation could mitigate the adverse effects of the severe form&#xD;
+      of the illness, and reduce the length of hospital stays (LOS), specific data for COVID-19 are&#xD;
+      lacking. Hence, in response to the current pandemic, we propose to implement and assess the&#xD;
+      impact of an early standardized multidisciplinary rehabilitation program tailored to frail&#xD;
+      older adults on 1) LOS, 2) post-discharge destination, 3) prognostic index and 4) functional&#xD;
+      capacity.&#xD;
+&#xD;
+      With a pragmatic multicenter controlled study, the COvid Rehabilitation Program for the&#xD;
+      Elderly (CORE) trial will allow to measure the effectiveness of a multidisciplinary program&#xD;
+      to minimize the effects of hospitalization and provide the required tools to rapidly&#xD;
+      implement an innovative strategy of care for older adults. Indeed, based on the results of&#xD;
+      this study, and with the support of scientific and professional organizations, a standardized&#xD;
+      program tailored to older adults with COVID-19 will be disseminated in Canada for all medical&#xD;
+      units dedicated to the management of the disease. Because of its pragmatic approach, this&#xD;
+      study will provide a sustainable multidisciplinary intervention that can be quickly&#xD;
+      implemented in any Canadian (or abroad) COVID-19 medical unit. Finally, given that COVID-19&#xD;
+      is the third coronavirus infection in the last 20 years, the expected results will provide&#xD;
+      guidelines, with decision tree algorithms, for implementation should another coronavirus or&#xD;
+      for that matter, any other such type of infection that surface in the future.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">September 1, 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Length of stay</measure>
+    <time_frame>1 day after discharge</time_frame>
+    <description>Length of stay in COVID and subacute unit (days)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Post-discharge destination</measure>
+    <time_frame>1 day after discharge</time_frame>
+    <description>(home; long-term care facilities; death) or transfer to a specialized subacute unit (e.g., rehabilitation geriatric unit)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Readmission rate 30 days after discharge</measure>
+    <time_frame>30 days after discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in patient prognosis</measure>
+    <time_frame>At baseline (± 2 days after admission in the COVID-19 unit) and before discharge (± 3 days)</time_frame>
+    <description>Evaluated using the COVID-19 vulnerability index (symptoms, medical history, and sociodemographic data)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in functional capacity (lower limb function)</measure>
+    <time_frame>At baseline (± 2 days after admission in the COVID-19 unit) and before discharge (± 3 days)</time_frame>
+    <description>Lower limb function is assessed using the 5-repetition sit-to-stand test (reported in seconds)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in functional capacity (handgrip strength)</measure>
+    <time_frame>At baseline (± 2 days after admission in the COVID-19 unit) and before discharge (± 3 days)</time_frame>
+    <description>Handgrip strength is measured using a handgrip dynamometer (reported in kg)</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">128</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>CORE program</arm_group_label>
+    <description>Patients admitted to a dedicated COVID-19 units (CHUS Hôtel-Dieu de Sherbrooke - CIUSSS de L'Estrie - CHUS) with medical clearance (physical deconditioning; hemodynamically stable; oxygen therapy by nasal cannula &lt; 4 L/min for saturation &gt; 92%; resting respiratory rate &lt; 24; and heart rate between 50 and 120 beats per minute).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <description>Patients admitted to a dedicated COVID-19 units (CHAUR de Trois-Rivières, CIUSSS de la Mauricie-et-du-Centre-du-Québec) receiving usual care, matched to CORE a patient with similar characteristics (sex, age, preadmission provenance).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID Rehabilitation Program for the Elderly (CORE)</intervention_name>
+    <description>In the intervention unit, two teams (core team: physiotherapists and service healthcare workers; specialized team: occupational therapist, registered dietician, social worker) are dedicated to the patients hospitalized in COVID-19 unit. To prevent malnutrition, caused by disease-associated inflammation, the Nutrition as Medicine program (prescribed small doses (30 or 60 mL; 2 kcal/mL) of oral nutrition supplement dispensed with medication pass, 1 to 4 times a day), has been systematically implemented (collective prescription). To improve muscle strength, balance and tissue oxygenation and concomitantly reduce immobilization and risk of falls, each patient has a private pedal exerciser, resistance elastic bands and free weights to perform a progressive, monitored and individualized rehabilitation program thrice a day.</description>
+    <arm_group_label>CORE program</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients admitted to the COVID unit at CHUS Hôtel-Dieu de Sherbrooke - CIUSSS de L'Estrie -&#xD;
+        CHUS (CORE program) or CHAUR de Trois-Rivières, CIUSSS de la&#xD;
+        Mauricie-et-du-Centre-du-Québec (Controls)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with medical clearance (physical deconditioning; hemodynamically stable;&#xD;
+             oxygen therapy by nasal cannula &lt; 4 L/min for saturation &gt; 92%; resting respiratory&#xD;
+             rate &lt; 24; and heart rate between 50 and 120 beats per minute). Controls were paired&#xD;
+             with those of the CORE program according to age, sex and pre-admission origin&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>CIUSSS de l'Estrie-Centre hospitalier universitaire de Sherbrooke (CHUS)</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1J 3H5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre hospitalier affilié universitaire régional (CHAUR)</name>
+      <address>
+        <city>Trois-Rivières</city>
+        <state>Quebec</state>
+        <zip>G8Z 3R9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 25, 2021</study_first_posted>
+  <last_update_submitted>February 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

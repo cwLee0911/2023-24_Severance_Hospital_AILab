@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5473">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04820387</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00252571</org_study_id>
+    <nct_id>NCT04820387</nct_id>
+  </id_info>
+  <brief_title>Assessment of Remote Vital Signs for Telemedicine Applications</brief_title>
+  <official_title>Assessment of Remote Vital Signs for Telemedicine Applications</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether vital signs can be extracted from video. A&#xD;
+      secondary purpose is to create a database, including raw video, of &quot;ground truth&quot;&#xD;
+      physiological data on human subjects in order to test current and/or future approaches&#xD;
+      developed to extract vital signs from video. This research may have an immediate impact on&#xD;
+      not only the assessment of risk for COVID-19 but also may provide a significant technological&#xD;
+      enhancement to Johns Hopkins Medicine's telemedicine capabilities.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study is to determine whether vital signs can be extracted from video. A&#xD;
+      secondary purpose is to create a database, including raw video, of &quot;ground truth&quot;&#xD;
+      physiological data on human subjects in order to test current and/or future approaches&#xD;
+      developed to extract vital signs from video. This research may have an immediate impact on&#xD;
+      not only the assessment of risk for COVID-19 but also may provide a significant technological&#xD;
+      enhancement to JHM's telemedicine capabilities. Participants may be asked to:&#xD;
+&#xD;
+        -  Complete surveys that include basic questions about participant, participant's&#xD;
+           personality, and participant's level of fitness. Participants will not be required to&#xD;
+           complete any of the surveys if participant does not feel comfortable doing so.&#xD;
+&#xD;
+        -  Provide a subjective assessment of whether participant feels physically well enough to&#xD;
+           participate in this experiment. If participant does not feel well on a particular day&#xD;
+           and wish to participate, the research team can schedule the participant for an alternate&#xD;
+           appointment.&#xD;
+&#xD;
+        -  Be fitted with several sensors that will measure participant's heart, participant's&#xD;
+           skin, participant's breathing, or other aspects of how participant's body is working.&#xD;
+           The sensors may be placed on participant's collarbone, below participant's ribs, on each&#xD;
+           forearm, on each ankle, and/or on participant's fingers using small stickers, medical&#xD;
+           tape, or similar means. The investigators may allow participants to place the sensors&#xD;
+           themselves under the supervision of a research team member or have the sensors placed&#xD;
+           for participants. If participant prefers, a research team member of the same sex will be&#xD;
+           available to assist sensor placement. The investigators may also place stickers or use&#xD;
+           non-permanent marker on participant's face to create clear reference points in the&#xD;
+           video.&#xD;
+&#xD;
+        -  Complete cognitive tasks that involve viewing simple items on the screen (such as&#xD;
+           colors, shapes, letters, words, or sentences), then making decisions, such as deciding&#xD;
+           whether to press a button, whether each item matches an earlier item, or whether to&#xD;
+           remember the item or not based on a simple rule.&#xD;
+&#xD;
+        -  Complete light to moderate exercise, such as pedaling on a stationary bicycle. The&#xD;
+           investigators will measure participant's resting heart rate, and then set a target heart&#xD;
+           rate of 20% higher for light exercise and 40% higher for moderate exercise. The American&#xD;
+           Heart Association defines moderate exercise as 50-70% of participant's maximum heart&#xD;
+           rate, which is estimated based on participant's age. To ensure a safe limit on&#xD;
+           participant's heart rate, the investigators will check that participant's target heart&#xD;
+           rates do not exceed 70% of participant's maximum estimated heart rate. If participants&#xD;
+           have health concerns about the level of exertion required, please discuss those concerns&#xD;
+           with the physician to determine whether it would be appropriate for participant to&#xD;
+           participate. Participants will only be required to make a single laboratory visit.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">September 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Ecologic or Community</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Quantification of SpO2 (percentage) from video</measure>
+    <time_frame>3 years</time_frame>
+    <description>The principal outcome is the capability to calculate a reliable and clinically useful measure of blood oxygenation from video. Our objective is to quantify SpO2 from video within +/- 0.5% from clinical standard.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical quality data obtained via contact sensors</measure>
+    <time_frame>3 years</time_frame>
+    <description>Develop a comprehensive dataset of ground truth physiological signals along with multiple standoff sensors against which to test current/future physiological extraction algorithms. The contact sensors will include blood pressure (BP), pulse oximetry (SpO2), photoplethysmography (PPG), respiration rate (RR), and electrocardiogram (ECG). The standoff sensors will collect still and moving images using an infrared (IR) sensor, hyperspectral imager (HSI), and multiple red-green-blue (RGB) cameras.&#xD;
+The dataset will be subjected to various advanced statistical analyses, to include machine learning approaches, to determine the accuracy (both in value and waveform) of algorithmic approaches to remote physiological measures. The long-term goal is to extract clinically useful physiological signals from video in order to provide a physician greater insight to the physiological functioning and/or psychophysiological state of the patient.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Telemedicine</condition>
+  <condition>Physiology</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Convenience&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age: 18-85&#xD;
+&#xD;
+          -  Fluent in English&#xD;
+&#xD;
+          -  Normal or corrected-to-normal vision&#xD;
+&#xD;
+          -  Able to participate in study activities&#xD;
+&#xD;
+          -  Passed Johns Hopkins Medicine Outpatient Office COVID-19 screening checklist within 24&#xD;
+             hours of study visit.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Hospitalization for heart failure, stroke or major cardiac event (myocardial&#xD;
+             infarction) within past 3 months.&#xD;
+&#xD;
+          -  History of chest pain during exercise (angina).&#xD;
+&#xD;
+          -  High blood pressure needing more than 1 medication for treatment.&#xD;
+&#xD;
+          -  Blood pressure at rest exceeding systolic blood pressure (SBP) 150 millimeters of&#xD;
+             Mercury (mmHg), diastolic blood pressure (DBP) 100 mmHg.&#xD;
+&#xD;
+          -  Heart rate at rest exceeding 100 beats per minute (bpm).&#xD;
+&#xD;
+          -  Abnormal ECG, indwelling pacemaker or cardiac defibrillator.&#xD;
+&#xD;
+          -  Home oxygen prescription.&#xD;
+&#xD;
+          -  Women who or are pregnant or suspect they may be pregnant.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Edward Chen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Edward Chen, MD</last_name>
+    <phone>410-550-5864</phone>
+    <email>chenedwa@jhmi.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Johns Hopkins Asthma &amp; Allergy Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Edward Chen, MD</last_name>
+      <phone>410-550-5864</phone>
+    </contact>
+    <investigator>
+      <last_name>Edward Chen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anissa Elayadi, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jason Spitaletta, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Panagis Galiatsatos, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 29, 2021</study_first_posted>
+  <last_update_submitted>March 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Telemedicine</keyword>
+  <keyword>Physiology</keyword>
+  <keyword>Vital Signs</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

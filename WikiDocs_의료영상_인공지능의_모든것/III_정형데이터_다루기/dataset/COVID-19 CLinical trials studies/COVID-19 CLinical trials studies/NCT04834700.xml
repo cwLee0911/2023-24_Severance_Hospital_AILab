@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5474">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04834700</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-09-174</org_study_id>
+    <nct_id>NCT04834700</nct_id>
+  </id_info>
+  <brief_title>Comparison of Hands-on Versus Online Learning About Ocular Ultrasound</brief_title>
+  <official_title>Comparison of Hands-on Versus Online Learning in Teaching Ultrasound Skills for Eye</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Samsung Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Samsung Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In patients who visit an emergency room with ocular symptoms, point-of-care ultrasound can&#xD;
+      quickly identify several emergency diseases. While training of eye ultrasound skills is&#xD;
+      useful for emergency physicians, hands-on education is risky in pandemic situation such as&#xD;
+      coronavirus disease 19 (COVID19). As a solution to this, non-face-to-face education via&#xD;
+      online has been on the rise. The investigators hypothesized that even an online education is&#xD;
+      enough to perform basic eye ultrasound by emergency physician.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Since the eye is an superficial organ, it has excellent access to ultrasound. Also, the eye&#xD;
+      has a liquid-filled structure (vitreous body), it is suitable for obtaining some important&#xD;
+      findings with bedside ultrasound. In patients who visit an emergency room with ocular&#xD;
+      symptoms, point-of-care ultrasound can quickly identify several emergency diseases. While&#xD;
+      training of eye ultrasound skills is useful for emergency physicians, hands-on education is&#xD;
+      risky in pandemic situation such as COVID19. As a solution to this, non-face-to-face&#xD;
+      education via online has been on the rise. The investigators hypothesized that even an online&#xD;
+      education is enough to perform basic eye ultrasound by emergency physician.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 17, 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>scan score</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>We make our own guideline to evaluate ocular ultrasound scans. The ocular ultrasound images performed participants are evaluated according to the guideline.&#xD;
+We compare the scores of the hands-on group and the online group to see if there is a significant difference between the two groups.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Optic nerve sheath diameter (ONSD)</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Two ultrasound experts measure the standard patient's ONSD and use it as a reference value.&#xD;
+The course of ocular ultrasound scanning involves measuring ONSD. We compare the measured ONSD of the hands-on group and the online group to see if there is a significant difference between the two groups.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Emergencies</condition>
+  <arm_group>
+    <arm_group_label>hands-on group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The doctors who participated in the study will be educated ocular ultrasound scanning method by hands-on about 20 minutes, and perform ocular ultrasound scans on two standard patients.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>online group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>The doctors who participated in the study will be educated ocular ultrasound scanning method by online lecture about 20 minutes, and perform ocular ultrasound scans on two standard patients.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>online group</intervention_name>
+    <description>In terms of teaching ultrasound, video lectures will be conducted rather than hands-on, which is the traditional method.</description>
+    <arm_group_label>online group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for doctors:&#xD;
+&#xD;
+          -  Those who have received basic ultrasound education but have not received ocular&#xD;
+             ultrasound education&#xD;
+&#xD;
+          -  Residents and interns working in the emergency room&#xD;
+&#xD;
+          -  Those who voluntarily agree to participate in the research through the recruitment&#xD;
+             announcement&#xD;
+&#xD;
+        Inclusion Criteria for standard patients:&#xD;
+&#xD;
+          -  Adults over 18 years of age without eye-related symptoms&#xD;
+&#xD;
+          -  Those who do not have unusual findings in the eye when scanning by ultrasound&#xD;
+&#xD;
+          -  Those who voluntarily agree to participate in the research through the recruitment&#xD;
+             announcement&#xD;
+&#xD;
+        Exclusion Criteria for standard patients:&#xD;
+&#xD;
+          -  Those with a history of ophthalmic diseases&#xD;
+&#xD;
+          -  Those who have a history of ophthalmic surgery such as lens implantation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hee Yoon, MD., PhD.</last_name>
+    <role>Study Director</role>
+    <affiliation>Samsung medical center, Emergency department</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hee Yoon, MD., PhD.</last_name>
+    <phone>+821099335581</phone>
+    <email>wildhi.yoon@samsung.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hee Yoon, PhD., MD.</last_name>
+      <phone>81-02-3410-2053</phone>
+      <email>wildhi.yoon@samsung.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>April 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2021</study_first_posted>
+  <last_update_submitted>April 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Emergencies</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

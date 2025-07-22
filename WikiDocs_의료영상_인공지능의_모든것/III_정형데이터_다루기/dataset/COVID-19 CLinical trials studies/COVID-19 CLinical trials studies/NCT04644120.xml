@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3043">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04644120</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M20-404</org_study_id>
+    <secondary_id>2020-005203-39</secondary_id>
+    <nct_id>NCT04644120</nct_id>
+  </id_info>
+  <brief_title>Study to Assess Adverse Events and How Intravenous (IV) ABBV-47D11 and IV ABBV-2B04 Given Alone and in Combination Moves Through the Body of Adult Participants With Coronavirus Disease 2019 (COVID-19)</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled, Phase 1 Study to Evaluate the Safety, Pharmacokinetics, and Pharmacodynamics of Single Ascending Doses of ABBV-47D11 and ABBV-2B04 as Monotherapy or Combination Therapy in Adults With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AbbVie</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute&#xD;
+      respiratory syndrome coronavirus 2 (SARS-CoV-2). Lung failure is the main cause of death&#xD;
+      related to COVID-19 infection. The main objective of this study is to evaluate the safety and&#xD;
+      tolerability of ABBV-47D11 and ABBV-2B04 given alone and in combination to participants with&#xD;
+      COVID-19 infection. In addition, this study will evaluate the pharmacokinetics (how the body&#xD;
+      handles the study drug) and anti-viral activity of the study drug.&#xD;
+&#xD;
+      ABBV-47D11 and ABBV-2B04 are investigational anti-SARS-CoV-2 monoclonal antibodies being&#xD;
+      developed for the treatment of COVID-19. Study will be conducted in two parts. In part A,&#xD;
+      participants will receive ABBV-47D11 or placebo. There is a 1 in 4 chance that participants&#xD;
+      will be assigned to placebo. In part B, participants will receive ABBV-2B04 alone or in&#xD;
+      combination with ABBV-47D11 or placebo. There is a 1 in 5 chance that participants will be&#xD;
+      assigned to placebo. Around 54 adult participants with COVID-19 will be enrolled in&#xD;
+      approximately 10 to 30 sites globally.&#xD;
+&#xD;
+      In part A participants will receive single intravenous (into the veins) infusion of&#xD;
+      ABBV-47D11 or placebo on Day 1. In part B participants will receive single intravenous (into&#xD;
+      the veins) infusion of ABBV-2B04 alone or in combination with ABBV-47D11 or placebo on Day 1.&#xD;
+      Participants will be followed up for 106 days.&#xD;
+&#xD;
+      There may be higher treatment burden for participants in this trial compared to their&#xD;
+      standard of care. The effect of the treatment will be checked by medical assessments, blood&#xD;
+      tests, nasal swabs and presence of side effects.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 10, 2020</start_date>
+  <completion_date type="Anticipated">September 5, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 5, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Study-Drug Related Grade 3 or Higher Adverse Events (AEs)</measure>
+    <time_frame>Up to Day 106</time_frame>
+    <description>An adverse event (AE) is defined as any untoward medical occurrence in a patient or clinical investigation participant administered a pharmaceutical product which does not necessarily have a causal relationship with this treatment. The investigator assesses the relationship of each event to the use of study drug.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Study-Drug Related Grade 3 or Higher Infusion-Related Reactions</measure>
+    <time_frame>Up to Day 106</time_frame>
+    <description>Participants will be assessed for the infusion-related reaction considered drug-related by the investigator.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Observed Serum Concentration (Cmax) of ABBV-47D11</measure>
+    <time_frame>Up to Day 85</time_frame>
+    <description>Maximum observed serum concentration (Cmax) of ABBV-47D11.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Cmax (Tmax) of ABBV-47D11</measure>
+    <time_frame>Up to Day 85</time_frame>
+    <description>Time to maximum serum concentration of ABBV-47D11.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Serum Concentration-Time Curve (AUC) From Day 1 (0 hour) to Day 29 (672 hour) (AUC0-672h) of ABBV-47D11</measure>
+    <time_frame>Up to Day 29</time_frame>
+    <description>Area Under the Serum Concentration-Time Curve (AUC) From Day 1 (0 hour) to Day 29 (672 hour) (AUC0-672h) of ABBV-47D11.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal Phase Elimination Half-Life (t1/2) of ABBV-47D11</measure>
+    <time_frame>Up to Day 85</time_frame>
+    <description>Terminal phase elimination half-life (t1/2) of ABBV-47D11.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC From Time 0 to Infinity (AUCinf) of ABBV-47D11</measure>
+    <time_frame>Up to Day 85</time_frame>
+    <description>AUC From Time 0 to Infinity (AUCinf) of ABBV-47D11.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Detection of Anti-Drug Antibodies (ADA) for ABBV-47D11</measure>
+    <time_frame>Up to Day 85</time_frame>
+    <description>Anti-drug antibodies will be detected using a tiered approach for ABBV-47D11.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Detection of Neutralizing Anti-Drug Antibodies (nADA) for ABBV-47D11</measure>
+    <time_frame>Up to Day 85</time_frame>
+    <description>Neutralizing anti-drug antibodies will be detected using a tiered approach for ABBV-47D11.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC for Change From Baseline (Day 1) in SARS-CoV-2 Ribose Nucleic Acid (RNA) Reverse Transcription-Polymerase Chain Reaction (RT-PCR)</measure>
+    <time_frame>Baseline (Day 1) through Day 29</time_frame>
+    <description>Area Under the Serum Concentration-Time Curve (AUC) of SARS-CoV-2 RNA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Negative SARS-CoV-2 by RT-PCR</measure>
+    <time_frame>Up to Day 29</time_frame>
+    <description>Number of days from Baseline (Day 1) to negative SARS-CoV-2 by RT-PCR.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Negative SARS-CoV-2 RNA by RT-PCR</measure>
+    <time_frame>Up to Day 15</time_frame>
+    <description>Number of participants with negative SARS-CoV-2 RNA by RT-PCR.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Observed Serum Concentration (Cmax) of ABBV-2B04</measure>
+    <time_frame>Up to Day 85</time_frame>
+    <description>Maximum observed serum concentration (Cmax) of ABBV-2B04.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Cmax (Tmax) of ABBV-2B04</measure>
+    <time_frame>Up to Day 85</time_frame>
+    <description>Time to maximum serum concentration of ABBV-2B04.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Serum Concentration-Time Curve (AUC) From Day 1 (0 hour) to Day 29 (672 hour) (AUC0-672h) of ABBV-2B04</measure>
+    <time_frame>Up to Day 29</time_frame>
+    <description>Area Under the Serum Concentration-Time Curve (AUC) From Day 1 (0 hour) to Day 29 (672 hour) (AUC0-672h) of ABBV-2B04.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal Phase Elimination Half-Life (t1/2) of ABBV-2B04</measure>
+    <time_frame>Up to Day 85</time_frame>
+    <description>Terminal phase elimination half-life (t1/2) of ABBV-2B04.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC From Time 0 to Infinity (AUCinf) of ABBV-2B04</measure>
+    <time_frame>Up to Day 85</time_frame>
+    <description>AUC From Time 0 to Infinity (AUCinf) of ABBV-2B04.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Detection of Anti-Drug Antibodies (ADA) for ABBV-2B04</measure>
+    <time_frame>Up to Day 85</time_frame>
+    <description>Anti-drug antibodies will be detected using a tiered approach for ABBV-2B04.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Detection of Neutralizing Anti-Drug Antibodies (nADA) for ABBV-2B04</measure>
+    <time_frame>Up to Day 85</time_frame>
+    <description>Neutralizing anti-drug antibodies will be detected using a tiered approach for ABBV-2B04.</description>
+  </secondary_outcome>
+  <number_of_arms>12</number_of_arms>
+  <enrollment type="Anticipated">54</enrollment>
+  <condition>CoronaVirus Disease-2019 (COVID-19)</condition>
+  <arm_group>
+    <arm_group_label>Part A: Group 1: ABBV-47D11 Dose A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive ABBV-47D11 Dose A on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A: Group 1: Placebo for ABBV-47D11</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive placebo for ABBV-47D11 on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A: Group 2: ABBV-47D11 Dose B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive ABBV-47D11 Dose B on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A: Group 2: Placebo for ABBV-47D11</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive placebo for ABBV-47D11 on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A: Group 3: ABBV-47D11 Dose C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive ABBV-47D11 Dose C on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A: Group 3: Placebo for ABBV-47D11</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive placebo for ABBV-47D11 on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: Group 1: ABBV-2B04 Dose A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive ABBV-2B04 Dose A on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: Group 1: ABBV-2B04 Dose A + ABBV-47D11</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive ABBV-2B04 Dose A in combination with ABBV-47D11 on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: Group 1: Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive Placebo for ABBV-2B04 followed by Placebo for ABBV-47D11 on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: Group 2: ABBV-2B04 Dose B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive ABBV-2B04 Dose B on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: Group 2: ABBV-2B04 Dose B + ABBV-47D11</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive ABBV-2B04 Dose B in combination with ABBV-47D11 on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: Group 2: Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive Placebo for ABBV-2B04 followed by Placebo for ABBV-47D11 on Day 1.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ABBV-47D11</intervention_name>
+    <description>Intravenous (IV) infusion.</description>
+    <arm_group_label>Part A: Group 1: ABBV-47D11 Dose A</arm_group_label>
+    <arm_group_label>Part A: Group 2: ABBV-47D11 Dose B</arm_group_label>
+    <arm_group_label>Part A: Group 3: ABBV-47D11 Dose C</arm_group_label>
+    <arm_group_label>Part B: Group 1: ABBV-2B04 Dose A + ABBV-47D11</arm_group_label>
+    <arm_group_label>Part B: Group 2: ABBV-2B04 Dose B + ABBV-47D11</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo for ABBV-47D11</intervention_name>
+    <description>Intravenous (IV) infusion.</description>
+    <arm_group_label>Part A: Group 1: Placebo for ABBV-47D11</arm_group_label>
+    <arm_group_label>Part A: Group 2: Placebo for ABBV-47D11</arm_group_label>
+    <arm_group_label>Part A: Group 3: Placebo for ABBV-47D11</arm_group_label>
+    <arm_group_label>Part B: Group 1: Placebo</arm_group_label>
+    <arm_group_label>Part B: Group 2: Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ABBV-2B04</intervention_name>
+    <description>Intervenous (IV) Infusion</description>
+    <arm_group_label>Part B: Group 1: ABBV-2B04 Dose A</arm_group_label>
+    <arm_group_label>Part B: Group 1: ABBV-2B04 Dose A + ABBV-47D11</arm_group_label>
+    <arm_group_label>Part B: Group 2: ABBV-2B04 Dose B</arm_group_label>
+    <arm_group_label>Part B: Group 2: ABBV-2B04 Dose B + ABBV-47D11</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo for ABBV-2B04</intervention_name>
+    <description>Intervenous (IV) Infusion</description>
+    <arm_group_label>Part B: Group 1: Placebo</arm_group_label>
+    <arm_group_label>Part B: Group 2: Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Confirmed SARS-CoV-2 infection based on initial nucleic acid or antigen testing from&#xD;
+             respiratory swab, saliva, or other bodily fluid within 7 days prior to randomization.&#xD;
+&#xD;
+          -  Must have &gt;= 1 symptom associated with COVID-19 with an onset of &lt;= 8 days prior to&#xD;
+             randomization.&#xD;
+&#xD;
+          -  Hospitalized or plans for hospital admission due to COVID-19 at the time of&#xD;
+             randomization or not currently hospitalized and does not have plans for hospital&#xD;
+             admission at the time of randomization, but is willing to be confined for ≥ 48 hours&#xD;
+             post-dose for the purposes of participating in this research study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have an oxygen saturation (SpO2) &lt; 88% on room air at rest for 5 minutes OR ratio of&#xD;
+             arterial partial pressure of oxygen to fraction of inspired oxygen (PaO2/FiO2) &lt;= 200&#xD;
+             mmHg at randomization.&#xD;
+&#xD;
+          -  Requiring high-flow nasal cannula oxygen therapy/non-invasive or invasive mechanical&#xD;
+             ventilation/extracorporeal membrane oxygenation (ECMO) or anticipated impending need&#xD;
+             for high-flow nasal cannula oxygen therapy/non-invasive or invasive mechanical&#xD;
+             ventilation/ECMO.&#xD;
+&#xD;
+          -  Prior treatment with a SARS-CoV-2 specific monoclonal antibody or convalescent&#xD;
+             COVID-19 plasma.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>AbbVie Inc.</last_name>
+    <role>Study Director</role>
+    <affiliation>AbbVie</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ABBVIE CALL CENTER</last_name>
+    <phone>844-663-3742</phone>
+    <email>abbvieclinicaltrials@abbvie.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Glendale Adventist Medical Center /ID# 225188</name>
+      <address>
+        <city>Glendale</city>
+        <state>California</state>
+        <zip>91206-4007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami /ID# 225038</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AdventHealth Orlando /ID# 225965</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803-1248</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Triple O Research Institute /ID# 228612</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407-3100</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Illinois Hospital and Health Sciences System /ID# 224323</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612-7232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pikeville Medical Center /ID# 224539</name>
+      <address>
+        <city>Pikeville</city>
+        <state>Kentucky</state>
+        <zip>41501-1689</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Univ Maryland School Medicine /ID# 227066</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Michigan State University /ID# 224907</name>
+      <address>
+        <city>East Lansing</city>
+        <state>Michigan</state>
+        <zip>48824</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Peter's University Hospital /ID# 225183</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08901-1766</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Prime Healthcare Services- St.Michael's LLC d/b/a Saint Michael's Medical Center /ID# 225258</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Christ Hospital /ID# 224541</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Prisma Health Upstate /ID# 224556</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605-4210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. David's Healthcare Partnership, L.P., LLP /ID# 225053</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78701-4082</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Budai Irgalmasrendi Korhaz /ID# 226015</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1023</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Semmelweis Egyetem /ID# 226016</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1085</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hadassah Ein Kerem Hospital /ID# 225827</name>
+      <address>
+        <city>Jerusalem</city>
+        <state>Yerushalayim</state>
+        <zip>91120</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sheba Medical Center /ID# 225857</name>
+      <address>
+        <city>Ramat Gan</city>
+        <zip>5266200</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Medisch Centrum Utrecht /ID# 225919</name>
+      <address>
+        <city>Utrecht</city>
+        <zip>3584 CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>San Juan Bautista School of Medicine /ID# 225963</name>
+      <address>
+        <city>Caguas</city>
+        <zip>00726</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Manati Medical Center /ID# 225936</name>
+      <address>
+        <city>Manati</city>
+        <zip>00674</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Hungary</country>
+    <country>Israel</country>
+    <country>Netherlands</country>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>November 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2020</study_first_posted>
+  <last_update_submitted>March 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>CoronaVirus Disease-2019</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Severe Acute Respiratory Syndrome Coronavirus-2</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>ABBV-47D11</keyword>
+  <keyword>ABBV-2B04</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

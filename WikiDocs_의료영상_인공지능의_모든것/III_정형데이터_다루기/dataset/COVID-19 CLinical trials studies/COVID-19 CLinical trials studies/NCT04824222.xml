@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="818">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04824222</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FeMToCOVID</org_study_id>
+    <secondary_id>2020-003915-84</secondary_id>
+    <nct_id>NCT04824222</nct_id>
+  </id_info>
+  <brief_title>The Impact of Fecal Microbiota Transplantation as an Immunomodulation on the Risk Reduction of COVID-19 Disease Progression With Escalating Cytokine Storm and Inflammatory Parameters</brief_title>
+  <acronym>FeMToCOVID</acronym>
+  <official_title>Two-stage Study: Phase II/III - With a Pilot Safety Assessment in an Open-label Study and Phase III - a Multicentre, Randomized, Double-blind, Placebo-controlled Evaluation of the Effect of Fecal Microbiota Transplantation as an Immunomodulation, in Addition to Standard Therapy, on the Risk Reduction of COVID19 Disease Progression With Escalating Cytokine Storm and Inflammation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of Warsaw</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Human Biome Institute, Poland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medical University of Warsaw</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The gut microbiota provides an intestinal biological barrier against pathogens and has a&#xD;
+      pivotal role in the maintenance of intestinal homeostasis and modulation of the host immune&#xD;
+      system. The gut microbiota in a dysbiotic state has increasingly been implicated in the&#xD;
+      pathogenesis and progression of numerous diseases. However, whether dysbiosis reflects&#xD;
+      changes caused by the disease itself, or should be considered as a driving step in the&#xD;
+      pathogenesis, is not always understood. Dysbiosis results in the disturbance of several&#xD;
+      metabolic pathways that influence immunological and mechanical processes both in and outside&#xD;
+      the intestine, and it impairs colonization resistance. These processes may be reverted by&#xD;
+      fecal microbiota transplantation (FMT). FMT is a type of treatment that relies on&#xD;
+      transferring the microbiota that targets and corrects intestinal dysbiosis. FMT is based on&#xD;
+      collecting stool from healthy donors and - after preparation - administering the material to&#xD;
+      an individual with a specific disease.&#xD;
+&#xD;
+      In summary, a subset of the symptoms associated with COVID-19 during the initial phase are&#xD;
+      intestinal complications, such as vomiting or diarrhea. Detecting these symptoms might not&#xD;
+      only lead to slowdown in transmission but also open the door to novel treatments that could&#xD;
+      reduce the severity of COVID-19.There is a positive correlation between severity of patient&#xD;
+      condition and level of proinflammatory cytokines (cytokine storm) in group of patients with&#xD;
+      COVID 19. Though numerous studies have been published on FMT for the treatment of certain&#xD;
+      diseases, there are only scarce studies on FMT for the treatment of SARS-CoV-2. Antiviral&#xD;
+      mechanism depended on the gut-lung axis was intimately proved in case of flu virus. The same&#xD;
+      dependency is observed in SARS CoV2 as well. That seems, good condition of intestinal&#xD;
+      microbiota could impact on antiviral effects and inhibits replication of virus. This leads to&#xD;
+      inhibit progress of inflammatory process in lung tissue. Silencing of inflammatory process&#xD;
+      through reestablish right influence of gut-lung axis could be fundamental meaning in&#xD;
+      arresting of cytokines storm and development of ARDS in patients with COVID-19.&#xD;
+&#xD;
+      The scientist rationale definitely argue a clear need to studies of gut wellbeing in COVID 19&#xD;
+      and using FMT to reduce development of COVID 19. According to our knowledge FeMToCOVID will&#xD;
+      be the first clinical trial with using of FMT in COVID 19. We postulate FMT in the beginning&#xD;
+      of cytokine storm during CIVUD-19 may act as an immunomodulation and stop the progression of&#xD;
+      the disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Phase II/III : 20 subjects - standard of care (SOC) + FMT capsules&#xD;
+Phase III :&#xD;
+173 subjects - arm with SOC + FMT capsules 173 subjects - arm with SOC + Placebo capsules</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Phase II/III - open label Phase III - double blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of adverse events after administration of IMP in the phase II/III</measure>
+    <time_frame>30 days</time_frame>
+    <description>The incidence of adverse events up to day 30 after administration of the product in the safety pilot group</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of patients requiring escalation of oxygen therapy in non-invasive and invasive methods in phase III</measure>
+    <time_frame>100 days</time_frame>
+    <description>Percentage of patients in the study and control groups requiring escalation of oxygen therapy in non-invasive methods (increasing FiO2 and / or the use of HFNOT and / or other non-invasive methods, e.g. CPAP) and / or invasive ventilation, ventilator therapy and / or hospitalization in the intensive care unit (corresponding to disease exacerbation at grade 5-7 on the COVID-19 Performance Status scale)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mortality during hospitalization, up to 14, 30, 60 and 100 days of observation in the study and control groups,</measure>
+    <time_frame>14, 30, 60, 100 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of complications secondary to COVID-19 (bacterial, fungal infections, sepsis, septic shock, multi-organ failure) by the 30th day of observation;</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Performance Status score during hospitalization from randomization to discharge from hospital or death, and to day 14 and 30 of observation in the study and control groups</measure>
+    <time_frame>14, 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The maximum degree of COVID-19 disease severity assessed in the COVID-19 Performance Status scale during hospitalization (until discharge from hospital or death)</measure>
+    <time_frame>until discharge or death</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NEWS (National Early Warning Score) 2 scores during hospitalization from randomization to discharge from hospital or death in the study and control groups</measure>
+    <time_frame>until discharge or death</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of the number of patients who were not able to take all capsules despite the lack of swallowing disorders in the initial evaluation,</measure>
+    <time_frame>hospitalization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of days with fever (temperature above 38.0°C) up to the 30th day of observation in the study and control groups,</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of hospitalization days up to the 30th day of observation in the study and control groups</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days of stay in the intensive care unit until the 30th day of observation in the study and control groups</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days of mechanical ventilation in convalescents up to the 30th day of observation in the study and control groups (if applicable)</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of days of non-invasive ventilation in convalescents up to the 30th day of observation in the study and control groups (if applicable)</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days of passive oxygen therapy in convalescents up to the 30th day of observation in the study and control groups (if applicable)</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of treatment up to day 100 of follow-up in the study and control and pilot groups (type, frequency, severity of adverse events [AE])</measure>
+    <time_frame>100 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">366</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>A - SOC+IMP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The FMT (fecal microbiota transplantation) will be administered along with the standard COVID 19 pharmacological treatment (SOC- Standard of care). The FMT will be administered orally in one dose - in double cover, gastro-resistant, enteric release capsules in 60g dose (about 30-50 frozen capsules).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B - SOC+placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Using standard COVID 19 pharmacological treatment (SOC- Standard of care). The placebo will be administered orally in one dose - in double cover, gastro-resistant, enteric release capsules with lactose (about 30-50 frozen capsules).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Human fecal microbiota, MBiotix HBI</intervention_name>
+    <description>The FMT will be administered orally in double cover, gastro-resistant, enteric release capsules in 60g dose (about 30-50 frozen capsules).</description>
+    <arm_group_label>A - SOC+IMP</arm_group_label>
+    <other_name>MBiotix HBI</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Double cover, gastro-resistant, enteric release capsules with lactose (about 30-50 frozen capsules)</description>
+    <arm_group_label>B - SOC+placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SOC</intervention_name>
+    <description>The standard COVID 19 pharmacological treatment</description>
+    <arm_group_label>A - SOC+IMP</arm_group_label>
+    <arm_group_label>B - SOC+placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subject has signed Informed Consent Form and is able to understand the purpose and&#xD;
+             procedures required for the study and is willing to participate in the study.&#xD;
+&#xD;
+          2. Male or female in aged 18 and older.&#xD;
+&#xD;
+          3. Expected survival time, not taking into account SARSCoV2 infection, is at least 6&#xD;
+             months.&#xD;
+&#xD;
+          4. Diagnosis of COVID 19 disease confirmed by SARSCoV2 PCR test (the validity of test 7&#xD;
+             days before the start of screening).&#xD;
+&#xD;
+          5. Hospitalization due to COVID 19 disease or disease with accompanied COVID 19.&#xD;
+&#xD;
+          6. Any of the following: use of oxygen therapy or oxygen therapy and remdesivir or use of&#xD;
+             oxygen therapy and convalescent plasma or use of oxygen therapy and remdesivir and&#xD;
+             convalescents plasma or no necessity of using oxygen therapy but necessity of using&#xD;
+             remdesivir or convalescents plasma or remdesivir and convalescents plasma (which&#xD;
+             corresponds to the disease severity of 4-6 points in COVID 19 Performance Status&#xD;
+             Scale).&#xD;
+&#xD;
+          7. Initially escalated inflammatory process, defined as compliance at least 2 parameters&#xD;
+             from group &quot;A&quot;, during 24 hours before including patient to the study or at least one&#xD;
+             parameter from group &quot;B&quot;.&#xD;
+&#xD;
+        Group &quot;A&quot;:&#xD;
+&#xD;
+          1. Plasma Amyloid A to lymphocyte count Ratio is greater than 100 (SAA/L&gt;100)&#xD;
+&#xD;
+          2. SAA &gt;100mg/l&#xD;
+&#xD;
+          3. Leukocytosis (WBC) over 10 k/ul with absolute lymphopenia under 1,0 k/ul&#xD;
+&#xD;
+          4. CRP &gt;100 mg/l and absolute lymphopenia&#xD;
+&#xD;
+          5. IL-6 &gt;25 pg/ml&#xD;
+&#xD;
+          6. Inflammatory changes in lung assessed based on high resolution computed tomography&#xD;
+             (HRCT) at least 2 points in COVID-CT scale.&#xD;
+&#xD;
+        Group &quot;B&quot;:&#xD;
+&#xD;
+        Inflammatory process progression during the hospitalization (optimally during 2 days and&#xD;
+        maximum during 7 days) compared to starting tests:&#xD;
+&#xD;
+          1. increase of plasma Amyloid A (SAA) to lymphocyte count ratio (SAA/L) by at least 25%&#xD;
+             compared to initial result (at least a day before)&#xD;
+&#xD;
+          2. increase of SAA concentration by at least 25% compared to initial result (at least a&#xD;
+             day before)&#xD;
+&#xD;
+          3. decline of absolute lymphocyte count in peripheral blood by at least 25% compared to&#xD;
+             the initial result (from one day ago)&#xD;
+&#xD;
+          4. increase of CRP by at least 50% compared to initial result (at least a day before)&#xD;
+&#xD;
+          5. increase of IL-6 by at least 25% compared to initial result (at least a day before)&#xD;
+&#xD;
+          6. progression of lung changes in CT compared to initial picture (assessed in COVID-CT&#xD;
+             scale; at least a day before)&#xD;
+&#xD;
+          7. decline of PaO2/FiO2 by at least 100 mmHg, but not lower than 200 mmHg&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Age &lt; 18 years old.&#xD;
+&#xD;
+          2. Inability to obtain Informed Consent.&#xD;
+&#xD;
+          3. Patient's impaired consciousness in opinion of investigator.&#xD;
+&#xD;
+          4. Swallowing difficulties before SARS-CoV 2 infection or related to SASRS-CoV 2&#xD;
+             infection (eg. Caused by dyspnea).&#xD;
+&#xD;
+          5. Severe food allergy.&#xD;
+&#xD;
+          6. At least 7 points in COVID-19 Performance Status.&#xD;
+&#xD;
+          7. Patients, who need blood transfusion in the day of study inclusion.&#xD;
+&#xD;
+          8. Significant intestinal passage disturbance, eg. bowel irritation, bowel obstruction,&#xD;
+             after bowel or stomach resection etc. diagnosed before COVID 19 diagnosis.&#xD;
+&#xD;
+          9. Stoma, perforation or abscess located in gastrointestinal tract area in the past.&#xD;
+&#xD;
+         10. Clinical significant systemic or localised infections, other than COVID 19, eg. lung&#xD;
+             abscess, pleural abscess, hepatitis, tuberculosis, sepsis ect.&#xD;
+&#xD;
+         11. Severe cardiac failure (NYHA III or more) before COVID 19 diagnosis.&#xD;
+&#xD;
+         12. Significant higher liver parameters: alanine aminotransferase or aspartate&#xD;
+             aminotransferase &gt; 500 U/l.&#xD;
+&#xD;
+         13. Important primary or secondary immune dysfunction - eg. AIDS, severe neutropenia&#xD;
+             (neutrophiles &lt; 0,5k/ul), inborn immunodeficiency, myelosuppression after chemotherapy&#xD;
+             etc.&#xD;
+&#xD;
+         14. Necessity of systemic antibiotic therapy in time of screening or inclusion to study.&#xD;
+&#xD;
+         15. Female in reproductive age with positive pregnancy test during screening.&#xD;
+&#xD;
+         16. Breast-feeding female.&#xD;
+&#xD;
+         17. Female after menopause:&#xD;
+&#xD;
+               1. After an ovariohysterectomy&#xD;
+&#xD;
+               2. Confirmed ovaries inactivity&#xD;
+&#xD;
+               3. Menopause defined as at least 12 months after last menstruation or FSH &gt; 40 IU/l.&#xD;
+&#xD;
+         18. Patients in severe systemic condition, it means comply at least on of the following:&#xD;
+&#xD;
+               1. Need mechanical ventilation&#xD;
+&#xD;
+               2. Ratio of PaO2/FiO2 lower than 200 mmHg&#xD;
+&#xD;
+               3. Need the vasopressors, because of the shock&#xD;
+&#xD;
+               4. Unconscious patients&#xD;
+&#xD;
+         19. Taking any experimental medication, except remdesivir and convalescents plasma or&#xD;
+             medication in other clinical trial within 30 days or if the time is shorter than 5&#xD;
+             half-lifes, depended which time will be longer before day &quot;0&quot;&#xD;
+&#xD;
+         20. Human Immunodeficiency Virus infection, active hepatitis B or C virus infection, fresh&#xD;
+             infection of CMV, EBV or influenza virus.&#xD;
+&#xD;
+         21. The co-existence of severe systemic disorder, which in opinion of investigator can&#xD;
+             endanger significant medication interactions or inability to follow protocol&#xD;
+&#xD;
+         22. Lactose intolerance.&#xD;
+&#xD;
+         23. The inability to administration testing capsule.&#xD;
+&#xD;
+         24. Other, conditions unexpected in protocol, which in opinion of investigator considers&#xD;
+             excluding from study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jarosław Biliński, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of Warsaw</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jarosław Biliński, MD, PhD</last_name>
+    <phone>0048225992818</phone>
+    <email>jaroslaw.bilinski@gmail.com</email>
+  </overall_contact>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID 19</keyword>
+  <keyword>FMT</keyword>
+  <keyword>fecal microbiota transplantation</keyword>
+  <keyword>MBiotix HBI</keyword>
+  <keyword>gut-lung axis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease Progression</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

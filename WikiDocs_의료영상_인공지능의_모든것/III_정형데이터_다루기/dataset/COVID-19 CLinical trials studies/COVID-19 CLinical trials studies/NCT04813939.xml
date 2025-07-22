@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1914">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04813939</url>
+  </required_header>
+  <id_info>
+    <org_study_id>042021</org_study_id>
+    <nct_id>NCT04813939</nct_id>
+  </id_info>
+  <brief_title>Is Bio-adrenomedullin (Bio-ADM) a Prognostic Factor in Patients With COVID-19 Treated in the ICU?</brief_title>
+  <official_title>Is Bio-adrenomedullin (Bio-ADM) a Prognostic Factor in Patients With COVID-19 Treated in the ICU?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of Warsaw</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medical University of Warsaw</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is prospective, observational study using point of care test to determine bio-ADM whole&#xD;
+      blood concentrations and its predictive value in patients with COVID-19 treated in the ICU.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      About 5% of all patients infected with the SARS-CoV-2 virus require treatment in the ICU. The&#xD;
+      main reason for admission to the ICU is acute hypoxemic respiratory failure, which in most&#xD;
+      cases is associated with the need for mechanical ventilation. The progression of lung damage&#xD;
+      affects not only alveoli but also endothelium of the pulmonary vessels. Occurring&#xD;
+      endotheliopathy is caused by direct infection with SARS-CoV-2 virus and activation of the&#xD;
+      immune system leading to an increased inflammatory reaction. Damage to the endothelium&#xD;
+      barrier with concomitant cytokine storm lead to activation of the coagulation system and&#xD;
+      formation of microthrombotic events in the vascular bed, resulting in thromboembolic&#xD;
+      complications and development of multiorgan failure. The reflection of the above&#xD;
+      pathophysiological phenomena in laboratory tests is a significant increase in the&#xD;
+      concentration of D-dimers. At present, no specific markers of endotheliopathy in patients&#xD;
+      with SARS-CoV-2 are known.&#xD;
+&#xD;
+      Adrenomedullin (ADM) is a peptide hormone that plays a key role in regulating the function of&#xD;
+      the endothelium, by modulating its integrity and permeability, it also has an effect on the&#xD;
+      vascular muscle, leading to vasodilation. Recently, the role of ADM has been intensively&#xD;
+      studied, including in sepsis. Several studies have confirmed an association between elevated&#xD;
+      ADM levels and poor prognosis in sepsis and septic shock. In these studies, measurements of&#xD;
+      various adrenomedullin precursors and free, biologically active adrenomedullin&#xD;
+      (bio-adrenomedullin, bio-ADM) were performed. The role of bio-ADM in the course of COVID -19&#xD;
+      remains unclear.&#xD;
+&#xD;
+      The aim of the study is to determine the baseline concentration of bio-ADM and to determine&#xD;
+      the dynamic of the concentration changes in three measurements in patients with COVID-19&#xD;
+      during ICU treatment. Additional measurement of bio-ADM will be performed as standard&#xD;
+      monitoring in patients suspected of septic complications of the course of COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 22, 2021</start_date>
+  <completion_date type="Anticipated">January 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>28-days</time_frame>
+    <description>28-day mortality will be assessed</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sequential Organ Failure Assessment (SOFA) Score and its changes over time</measure>
+    <time_frame>28-days</time_frame>
+    <description>Occurrence of multiorgan failure expressed in SOFA scores</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for catecholamines</measure>
+    <time_frame>28-days</time_frame>
+    <description>Need for catecholamines (drug, highest/lowest dose, duration)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for renal replacement therapy</measure>
+    <time_frame>28-days</time_frame>
+    <description>Need for renal replacement therapy (duration)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for mechanical ventilation</measure>
+    <time_frame>28-days</time_frame>
+    <description>Need for mechanical ventilation (duration)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of partial pressure of oxygen in arterial blood (PaO2) / fraction of inspired oxygen (FiO2) during treatment in ICU</measure>
+    <time_frame>28-days</time_frame>
+    <description>PaO2/FiO2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in D-dimer</measure>
+    <time_frame>28-days</time_frame>
+    <description>Changes in D-dimer (in ng/ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood lactate levels</measure>
+    <time_frame>28-days</time_frame>
+    <description>Changes in blood lactate levels (in mg/dl)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes C reactive protein (CRP)</measure>
+    <time_frame>28-days</time_frame>
+    <description>Changes CRP (in mg/l)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in procalcitonin levels</measure>
+    <time_frame>28-days</time_frame>
+    <description>Changes in procalcitonin levels (in ng/ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in creatinine levels</measure>
+    <time_frame>28-days</time_frame>
+    <description>Changes in creatinine levels (in mg/dl)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Sepsis complicating the course of COVID-19 during ICU treatment</measure>
+    <time_frame>28-days</time_frame>
+    <description>Occurrence of sepsis complicating the course of COVID-19 during ICU treatment</description>
+  </other_outcome>
+  <enrollment type="Anticipated">65</enrollment>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>IB10 sphingotest® bio-ADM® apparatus (Sphingotec GmbH, Hennigsdorf, Germany)</intervention_name>
+    <description>Point of care assessment of bio-adrenomedullin concentration will be performed using the IB10 sphingotest® bio-ADM® apparatus (Sphingotec GmbH, Hennigsdorf, Germany) on the 1,3,5-day ICU stay in COVID-19 patients. The method used is a double monoclonal sandwich immunoassay to measure the concentration of C-terminal amidated, biologically active adrenomedullin (bio-ADM) in whole blood. Additional measurement of bio-ADM will be performed as standard monitoring in patients suspected of septic complications of the course of COVID-19.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All consecutive patients from emergency department and intermediate department meeting the&#xD;
+        eligibility criteria will be enrolled to the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  age ≥ 18 years&#xD;
+&#xD;
+          -  polymerase chain reaction (PCR) confirmed COVID-19&#xD;
+&#xD;
+          -  severe stage of pneumonia caused by SARS-CoV-2 requiring oxygen therapy&#xD;
+&#xD;
+          -  informed consent to participate in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  qualification to palliative care&#xD;
+&#xD;
+          -  life expectancy &lt; 48 h&#xD;
+&#xD;
+          -  mechanical ventilation at the beginning of the hospitalization&#xD;
+&#xD;
+          -  transfer from other ICU&#xD;
+&#xD;
+          -  pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paweł Zatorski, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of Warsaw</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Paweł Zatorski, MD</last_name>
+    <phone>+48225021721</phone>
+    <email>pzatorski@wum.edu.pl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Medical University of Warsaw</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>05-002</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paweł Zatorski, MD</last_name>
+      <phone>+48225021721</phone>
+      <email>pzatorski@wum.edu.pl</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Poland</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 24, 2021</study_first_posted>
+  <last_update_submitted>March 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>bio-adrenomedullin</keyword>
+  <keyword>point of care</keyword>
+  <keyword>sepsis</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

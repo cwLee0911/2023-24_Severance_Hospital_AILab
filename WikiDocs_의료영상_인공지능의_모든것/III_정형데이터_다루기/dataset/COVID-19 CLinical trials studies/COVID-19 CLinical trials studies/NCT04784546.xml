@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2023">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04784546</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Gazi University PMR INF</org_study_id>
+    <nct_id>NCT04784546</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Muscle Strength, Functional Independence, Myalgia, Fatigue and Dyspnea in COVID-19 Infection</brief_title>
+  <official_title>Evaluation of Muscle Strength, Functional Independence, Myalgia Severity, Physical Fatigue and Dyspnea in Patients With COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gazi University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Gazi University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19) is a serious, acute infectious disease caused by Serious&#xD;
+      Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). COVID-19 can manifest itself in a wide&#xD;
+      variety of clinical scenarios. Asymptomatic disease, mild flu findings, pneumonia accompanied&#xD;
+      by acute respiratory failure, acute respiratory distress syndrome (ARDS) requiring&#xD;
+      hospitalization in the intensive care unit, and death are possible clinical consequences.&#xD;
+&#xD;
+      Myalgia, fatigue, and muscle weakness are reported regardless of the severity of the clinical&#xD;
+      presentation of COVID-19. Data on the prevalence and severity of muscle disorders and&#xD;
+      weakness during hospitalization and discharge due to COVID-19 disease are limited.&#xD;
+&#xD;
+      The aim of this study is to evaluate muscle strength, functional independence, myalgia&#xD;
+      severity, physical fatigue and dyspnea in hospitalized COVID-19 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19) is a serious, acute infectious disease caused by Serious&#xD;
+      Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). On March 11, 2020, the World Health&#xD;
+      Organization declared a pandemic due to COVID-19 disease transmitted from person to person.&#xD;
+      Positive COVID-19 patients are classified as asymptomatic, mild, moderate, severe and&#xD;
+      critical. Asymptomatic patients have no clinical symptoms, mild cases present with acute&#xD;
+      symptoms of respiratory tract infection and gastrointestinal complaints. Moderate patients&#xD;
+      experience pneumonia, they don't have clinically aberrant hypoxemia but they have positive&#xD;
+      findings on chest computerized tomography (CT) scans. Severe patients present with pneumonia&#xD;
+      ,they have hypoxemia and CT lesions while critical patients present with acute respiratory&#xD;
+      distress syndrome (ARDS), and shock, encephalopathy, myocardial injury, coagulation&#xD;
+      dysfunction, heart failure, acute kidney injury may accompany ARDS.&#xD;
+&#xD;
+      Myalgia, fatigue, and muscle weakness are reported regardless of the severity of the clinical&#xD;
+      presentation of COVID-19 disease. Data on the prevalence and severity of muscle disorders and&#xD;
+      weakness during hospitalization and discharge due to COVID-19 disease are limited.&#xD;
+&#xD;
+      Changes associated with critical disease myopathy triggered by the virus are reported in&#xD;
+      COVID-19 survivors.&#xD;
+&#xD;
+      In addition, immune-induced focal myofibril atrophy and necrosis have been documented in&#xD;
+      post-mortem examinations of patients with severe acute respiratory syndrome (SARS). An&#xD;
+      increase in the risk of acute sarcopenia and muscle weakness has been reported in survivors&#xD;
+      of COVID-19. Possible mechanisms of sarcopenia in COVID-19 disease are: suppression of muscle&#xD;
+      protein synthesis due to systemic inflammation and increased cytokine response, prolonged bed&#xD;
+      rest especially in intensive care patients, prolonged use of muscle relaxants to maintain the&#xD;
+      prone position, increased need for nutrients due to the catabolic state, inadequate nutrition&#xD;
+      due to decreased appetite and induction of muscle loss by dexamethasone used in COVID-19&#xD;
+      treatment.&#xD;
+&#xD;
+      The aim of this study is to evaluate muscle strength, functional independence, myalgia&#xD;
+      severity, physical fatigue and dyspnea in hospitalized COVID-19 patients and to investigate&#xD;
+      whether these variables differ between the mild, moderate and severe groups according to the&#xD;
+      severity of the disease. The secondary aim of the study is to investigate the relationship&#xD;
+      between muscle strength and prognostic markers of COVID-19 disease (lymphocyte count,&#xD;
+      D-dimer, c-reactive protein, ferritin).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2021</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline Muscle Strength at 1st week, 3rd week and 12th week.</measure>
+    <time_frame>Patients will be evaluated at the beginning of the inpatient treatment of COVID-19 infection, at the 1st week, 3 rd week and 12 th week.</time_frame>
+    <description>Hand grip strength will be used to assess muscle strength. Hand grip strength is an important indicator of overall muscle strength. Measurements will be made with a Jamar dynamometer. Measurements will be done in the standard position recommended by the American Hand Therapists Association; shoulder in adduction and neutral rotation, elbow in 90 degrees of flexion, and wrist in neutral position.&#xD;
+3 measurements will be made with 1-minute intervals between measurements and the highest value will be recorded in kg. Threshold value for hand grip strength is 28.6 in men and 16.4 in women.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline '5 Times Sit to Stand Test' at 1st week, 3rd week and 12th week.</measure>
+    <time_frame>Patients will be evaluated at the beginning of the inpatient treatment of COVID-19 infection, at the 1st week, 3 rd week and 12 th week.</time_frame>
+    <description>The 5 times sit to stand test will be used to assess the functional strength of the lower extremity and balance. The patient is asked to sit in a standard 43-45 cm high chair with his arms crossed on his shoulders and his back leaning against the chair. Then he is asked to stand up and sit up quickly 5 times. With the &quot;start&quot; command, the time elapsed until the person's pelvis touches the chair in the last repetition is recorded with a stopwatch.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Modified Borg Scale at 1st week, 3rd week and 12th week.</measure>
+    <time_frame>Patients will be evaluated at the beginning of the inpatient treatment of COVID-19 infection, at the 1st week, 3 rd week and 12 th week.</time_frame>
+    <description>This scale has been developed to measure the feeling of exertion and fatigue during physical activity. It is a scale that is frequently used to evaluate the severity of effort dyspnea and the severity of resting dyspnea. It is a 12-point scale that defines the severity of dyspnea according to their degrees. Descriptors are positioned on the scale, at different numbers, from 0 to 10. At one end of the scale '0' is labeled nothing at all' and at the other end, '10' is labeled' maximal.It will be used to measure symptoms of dyspnea and fatigue detected during rest and activities of daily living.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Barthel Index for Activities of Daily Living at 1st week, 3rd week and 12th week.</measure>
+    <time_frame>Patients will be evaluated at the beginning of the inpatient treatment of COVID-19 infection, at the 1st week, 3 rd week and 12 th week.</time_frame>
+    <description>It is a scale consisting of 10 items and measuring the performance in activities of daily living.Higher scores reflect better ability to function independently.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Visual Analog Scale at 1st week, 3rd week and 12th week.</measure>
+    <time_frame>Patients will be evaluated at the beginning of the inpatient treatment of COVID-19 infection, at the 1st week, 3 rd week and 12 th week.</time_frame>
+    <description>Myalgia will be assessed by visual analog scale (VAS). A Visual Analogue Scale (VAS) is a measurement instrument that tries to measure a characteristic or attitude that is believed to range across a continuum of values and cannot easily be directly measured. The amount of pain that a patient feels ranges across a continuum from none to an extreme amount of pain. Two extreme definitions of pain (0: no pain, 10: The most powerful pain one can experience) are written on both ends of a 100 mm line and the patient is asked to indicate where his condition is appropriate by drawing a line or by marking or pointing on this line.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Mild COVID-19 Infection Group</arm_group_label>
+    <description>Mild cases present with acute symptoms of respiratory tract infection and gastrointestinal complaints.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderate COVID-19 Infection Group</arm_group_label>
+    <description>Moderate patients experience pneumonia, they don't have clinically aberrant hypoxemia(O2 saturation is more than 90%) but they have positive findings on chest computerized tomography (CT) scans.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Severe COVID-19 Infection Group</arm_group_label>
+    <description>Severe patients present with pneumonia, they have hypoxemia (O2 saturation is less than 90%) and have positive findings on chest computerized tomography (CT) scans.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study cohort will consist of patients receiving inpatient treatment for mild, moderate&#xD;
+        and severe COVID-19 infection in a university hospital. Every subject meeting the criteria&#xD;
+        of inclusion is going to be included into the study via consecutive participant sampling&#xD;
+        method.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18-85 years of age&#xD;
+&#xD;
+          -  SARS-CoV-2 infection to be confirmed by polymerase chain reaction (PCR) test or&#xD;
+             presence of serious clinical and radiological suspicion in the endemic process&#xD;
+&#xD;
+          -  Being hospitalized for COVİD-19 infection&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Those who do not agree to participate in the study&#xD;
+&#xD;
+          -  Malignancy&#xD;
+&#xD;
+          -  Orthopedic and neurological comorbidities that may interfere with evaluations&#xD;
+&#xD;
+          -  Systemic rheumatic diseases&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ayça Utkan Karasu, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Gazi University Faculty of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Zafer Günendi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Gazi University Faculty of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ayça Utkan Karasu, MD</last_name>
+    <phone>905365759757</phone>
+    <email>ayca_utkan@yahoo.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Levent Karataş, MD</last_name>
+    <phone>905055629437</phone>
+    <email>dr.levent.karatas@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Gazi University Faculty of Medicine, Physical Medicine and Rehabilitation Department</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06560</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <reference>
+    <citation>Pollard CA, Morran MP, Nestor-Kalinoski AL. The COVID-19 pandemic: a global health crisis. Physiol Genomics. 2020 Nov 1;52(11):549-557. doi: 10.1152/physiolgenomics.00089.2020. Epub 2020 Sep 29. Review.</citation>
+    <PMID>32991251</PMID>
+  </reference>
+  <reference>
+    <citation>Paneroni M, Simonelli C, Saleri M, Bertacchini L, Venturelli M, Troosters T, Ambrosino N, Vitacca M. Muscle Strength and Physical Performance in Patients Without Previous Disabilities Recovering From COVID-19 Pneumonia. Am J Phys Med Rehabil. 2021 Feb 1;100(2):105-109. doi: 10.1097/PHM.0000000000001641.</citation>
+    <PMID>33181531</PMID>
+  </reference>
+  <reference>
+    <citation>Van Aerde N, Van den Berghe G, Wilmer A, Gosselink R, Hermans G; COVID-19 Consortium. Intensive care unit acquired muscle weakness in COVID-19 patients. Intensive Care Med. 2020 Nov;46(11):2083-2085. doi: 10.1007/s00134-020-06244-7. Epub 2020 Sep 28.</citation>
+    <PMID>32986233</PMID>
+  </reference>
+  <reference>
+    <citation>Leung TW, Wong KS, Hui AC, To KF, Lai ST, Ng WF, Ng HK. Myopathic changes associated with severe acute respiratory syndrome: a postmortem case series. Arch Neurol. 2005 Jul;62(7):1113-7.</citation>
+    <PMID>16009768</PMID>
+  </reference>
+  <reference>
+    <citation>Disser NP, De Micheli AJ, Schonk MM, Konnaris MA, Piacentini AN, Edon DL, Toresdahl BG, Rodeo SA, Casey EK, Mendias CL. Musculoskeletal Consequences of COVID-19. J Bone Joint Surg Am. 2020 Jul 15;102(14):1197-1204. doi: 10.2106/JBJS.20.00847.</citation>
+    <PMID>32675661</PMID>
+  </reference>
+  <reference>
+    <citation>Bagnato S, Boccagni C, Marino G, Prestandrea C, D'Agostino T, Rubino F. Critical illness myopathy after COVID-19. Int J Infect Dis. 2020 Oct;99:276-278. doi: 10.1016/j.ijid.2020.07.072. Epub 2020 Aug 5.</citation>
+    <PMID>32763444</PMID>
+  </reference>
+  <reference>
+    <citation>Welch C, Greig C, Masud T, Wilson D, Jackson TA. COVID-19 and Acute Sarcopenia. Aging Dis. 2020 Dec 1;11(6):1345-1351. doi: 10.14336/AD.2020.1014. eCollection 2020 Dec.</citation>
+    <PMID>33269092</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 5, 2021</study_first_posted>
+  <last_update_submitted>March 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Gazi University</investigator_affiliation>
+    <investigator_full_name>Ayça Utkan Karasu</investigator_full_name>
+    <investigator_title>medical doctor, principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>covid19</keyword>
+  <keyword>muscle weakness</keyword>
+  <keyword>functional independence</keyword>
+  <keyword>myalgia</keyword>
+  <keyword>fatigue</keyword>
+  <keyword>dyspnea</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Myalgia</mesh_term>
+    <mesh_term>Dyspnea</mesh_term>
+    <mesh_term>Fatigue</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is no plan to make individual participant data (IPD) available to other researchers.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

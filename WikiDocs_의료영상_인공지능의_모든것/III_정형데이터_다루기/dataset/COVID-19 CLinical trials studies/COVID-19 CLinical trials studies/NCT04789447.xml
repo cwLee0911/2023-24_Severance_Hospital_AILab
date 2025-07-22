@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2624">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04789447</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COP-19</org_study_id>
+    <nct_id>NCT04789447</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Prognosis of COVID-19 Patients With Only CT Findings, Only RT-PCR Positivity and Both of Them Positive</brief_title>
+  <official_title>Evaluation of Prognosis of COVID-19 Patient With Only CT Findings, Only RT-PCR Positivity and Both of Them Positive</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sultan Abdulhamid Han Training and Research Hospital, Istanbul, Turkey</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sultan Abdulhamid Han Training and Research Hospital, Istanbul, Turkey</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to Turkey in two Step 3 hospitals in the Covidien-19 clinical patients&#xD;
+      hospitalized with the diagnosis, laboratory and radiological characteristics, comorbidities,&#xD;
+      treatment received, hospitalization time, to examine the invasive mechanical ventilation&#xD;
+      needs and mortality rates, only with CT findings, only rrt- To determine whether there is a&#xD;
+      difference in prognosis between cases with PCR positivity and both of them are positive.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After the SARS-CoV-2 virus was first detected in Wuhan, China in December 2019, it spread&#xD;
+      rapidly all over the world, and the World Health Organization declared &quot;International Public&#xD;
+      Health Emergency&quot; in January 2020. The first Covid-19 case in our country was seen on March&#xD;
+      11, 2020, and then spread rapidly. SARS-CoV-2 virus, which is a member of the coronavirus&#xD;
+      family, has similar genetic and clinical characteristics to the SARS-CoV virus, which caused&#xD;
+      severe acute respiratory tract infection in 2003 and caused epidemics. Covid-19 patients also&#xD;
+      have clinical diversity in terms of laboratory and computed tomography (CT) findings. . In a&#xD;
+      study conducted, &quot;real-time reverse-transcriptase-polymerase chain reaction&quot; (rRT-PCR)&#xD;
+      positivity was found to be 83.3% and CT positivity was 97.2% . It is not known whether there&#xD;
+      is a difference in prognosis in patients with only CT findings, only rRT-PCR positivity, and&#xD;
+      both positive.&#xD;
+&#xD;
+      The purpose of this study, two tertier hospital in Turkey, laboratory and radiological&#xD;
+      characteristics, comorbidities, treatment received, hospitalization time, to examine the&#xD;
+      invasive mechanical ventilation needs and mortality rates, only with CT findings, only with&#xD;
+      positive RRT-PCR and to determine whether there is a difference between cases where both are&#xD;
+      positive.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 4, 2021</start_date>
+  <completion_date type="Anticipated">March 28, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 28, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>mortality</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>mortality during hospitalization and within 14 days after hospitalization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>need for intensive care</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>need for intensive care during hospitalization and within 14 days after hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>length stay</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>length stay in a hospital</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1200</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Pneumonia, Viral</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 patients in hospital</arm_group_label>
+    <description>All patients aged 18 years and over, positive for SARS-CoV-2 PCR test and / or Covid-19 treatment with signs of Covid-19 disease on CT</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients who are diagnosed with Covid-19 in a two tertier hospital in Turkey&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aaged 18 years and over,&#xD;
+&#xD;
+          -  Positive for SARS-CoV-2 PCR test and / or Covid-19 treatment with signs of Covid-19&#xD;
+             disease on CT&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with negative SARS-CoV-2 PCR test, pneumonia on CT but not given Covid-19&#xD;
+             treatment by not considering Covid-19 by their doctor will not be included.&#xD;
+&#xD;
+          -  Patients whose data are not available&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elif Yıldırım Ayaz, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sultan Abdülhamid Han Training and Rsearch Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Elif Yıldırım Ayaz, M.D.</last_name>
+    <phone>+2165422020</phone>
+    <email>drelifyildirim@hotmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Sultan Abdülhamid Han Training and Research Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34660</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elif Yıldırım Ayaz, M.D.</last_name>
+      <phone>+905325148300</phone>
+      <email>drelifyildirim@hotmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sultan Abdülhamid Han Training and Research Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elif Yıldırım Ayaz, M.D.</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 9, 2021</study_first_posted>
+  <last_update_submitted>March 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sultan Abdulhamid Han Training and Research Hospital, Istanbul, Turkey</investigator_affiliation>
+    <investigator_full_name>Elif Yıldırım Ayaz</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>covid19</keyword>
+  <keyword>computerised tomography</keyword>
+  <keyword>sarscov-2 pcr</keyword>
+  <keyword>mortality</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

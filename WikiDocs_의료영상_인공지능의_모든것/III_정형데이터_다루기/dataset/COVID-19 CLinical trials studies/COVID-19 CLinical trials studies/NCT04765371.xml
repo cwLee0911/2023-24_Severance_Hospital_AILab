@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4434">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04765371</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHRD1520</org_study_id>
+    <secondary_id>2020-005883-78</secondary_id>
+    <nct_id>NCT04765371</nct_id>
+  </id_info>
+  <brief_title>Comparison Between Prednisolone and Dexamethasone on Mortality in Patients on Oxygen Therapy, With CoViD-19</brief_title>
+  <acronym>COPreDex</acronym>
+  <official_title>Comparison Between Prednisolone and Dexamethasone on D28 Mortality in Patients on Oxygen Therapy, With CoViD-19: Multicenter, Randomized, Open-label Non-inferiority Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier René Dubos</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier René Dubos</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the study is to evaluate two differents regimens of corticosteroids (prednisolone&#xD;
+      versus dexamethasone) on D28 mortality in patients with CoViD 19 pneumonia requiring oxygen&#xD;
+      supplementation&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Low-dose glucocorticoid treatment is the only medication showing a significant reduction in&#xD;
+      mortality in cases of COVID-19 pneumonia requiring oxygen supplementation or ventilatory&#xD;
+      support.&#xD;
+&#xD;
+      Intravenous or oral dexamethasone are well evaluated in randomized study but other oral&#xD;
+      corticosteroids are not. Compared to dexamethasone, prednisolone is more available in France&#xD;
+      and easily taken by patients, especially in case of home medical care.&#xD;
+&#xD;
+      The pharmacokinetics/pharmacodynamics of prednisolone and dexamethasone are different. To&#xD;
+      obtain similar effects, prednisolone should be theoretically taken twice a day and at a&#xD;
+      superior dose than the strict prednisone equivalence of 6mg dexamethasone.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality assessment at D28</measure>
+    <time_frame>At Day 28</time_frame>
+    <description>Assessment of vital status at D28 in Dexamethason arms vs Prednisolone arms</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of clinical course in both groups (arms)</measure>
+    <time_frame>At Day 28</time_frame>
+    <description>The clinical course for each patient will be measured, for several items, and compared between both groups to see if a significant difference is observed.&#xD;
+Items, considered for comparison, are listed below :&#xD;
+Number of oxygen therapy days,&#xD;
+Number of patients requiring oxygen therapy increase (High-Flow Oxygen Therapy, CPAP/BIPAP, mechanical ventilation, ECMO)&#xD;
+Number of hospital days&#xD;
+Number of patient admitted in Resuscitation Unit /Intensive care Unit&#xD;
+Number of patient with organic damage other than lung&#xD;
+Number of disease-related infection other than SARS-Cov-2&#xD;
+Frequency and evolution of complication of corticosteroid therapy (Severity evaluated according to CTCAE (diabetes, acute psychosis or other adverse effect consider to be link to corticosteroide therapy by investigator))</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of evolution of respiratory symptoms in both groups (arms)</measure>
+    <time_frame>From Day 0 to Day 28</time_frame>
+    <description>Evolution of respiratory symptoms will be measured for each patient, for several items, and compared between both groups to see if a significant difference is observed.&#xD;
+Items, considered for comparison, are listed below :&#xD;
+Oxygen saturation rate,&#xD;
+Oxygen flow,&#xD;
+Respiratory rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of patient satisfaction towards the treatment</measure>
+    <time_frame>At Day 28</time_frame>
+    <description>Assessment of patient satisfaction with a satisfaction questionnaire (Likert-type scale) For each item, patient ticks : Very satisfied, Satisfied, Unsatisfied or Very unsatisfied</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison betwween D1 and D28 of patient quality of life evolution between randomization groups (arms)</measure>
+    <time_frame>At Day 1 and Day 28</time_frame>
+    <description>Measurement of patient quality of life evolution with EQ5D self-assessment questionnaire at day1 and day 28.&#xD;
+For item of mobility, autonomy and current activities, patient ticks : I have no problem, I have some problems or I am I am unable to do For item of pain and anxiety/depression, patient ticks : no, moderate or severe</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison betwween D1 and D28 of adverse events and adverse effects between randomization groups (arms)</measure>
+    <time_frame>At Day 28</time_frame>
+    <description>Measurement of adverse events number and adverse effects number during the 28 days of the study</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">220</enrollment>
+  <condition>Coronavirus Infection</condition>
+  <arm_group>
+    <arm_group_label>DEXAMETHASONE Arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will take 6 mg per day of Dexamethasone during 10 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PREDNISOLONE Arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will take 60 mg per day of Prednisolone during 10 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>DEXAMETHASONE</intervention_name>
+    <description>Patients will take 60 mg per day of Prednisolone (40 mg morning and 20 md evening) between D1 to D10</description>
+    <arm_group_label>DEXAMETHASONE Arm</arm_group_label>
+    <other_name>DEXAMETHASONE Arm</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PREDNISOLONE</intervention_name>
+    <description>Patients will take 60 mg per day of Prednisolone (40 mg morning and 20 md evening) between D1 to D10</description>
+    <arm_group_label>PREDNISOLONE Arm</arm_group_label>
+    <other_name>PREDNISOLONE Arm</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient ≥ 18 years old&#xD;
+&#xD;
+          -  Patient with SARS-CoV-2 pneumopathy documented by nasopharyngeal or bronchoalveolar&#xD;
+             lavage fluid RT-PCR or any documented clinical symptoms support by CT scan&#xD;
+&#xD;
+          -  Patient with SpaO2 ≤ 94 % in room air (90% for patient with respiratory failure) and&#xD;
+             requiring an oxygen therapy&#xD;
+&#xD;
+          -  Negative pregnancy test for women of childbearing age&#xD;
+&#xD;
+          -  Informed and written informed consent (IC) obtained&#xD;
+&#xD;
+          -  Patients with affiliation to the social security system&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient with corticosteroids as background treatment (≥ 10 mg equivalent)&#xD;
+&#xD;
+          -  Patient under supplemental oxygen &gt; 6 L/min&#xD;
+&#xD;
+          -  Immunocompromised patient (AIDS, bone marrow or solid organ transplants, etc.)&#xD;
+&#xD;
+          -  Patient who received a corticosteroid dose within 3 days for Covid-19&#xD;
+&#xD;
+          -  Medical history of hypersensitivity to Prednisolone or Dexamethasone; or lactose /&#xD;
+             galactose (excipients with known effect)&#xD;
+&#xD;
+          -  Another active virus such hepatitis, herpes, varicella, shingles ….&#xD;
+&#xD;
+          -  Psychotic state not controlled by treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dr Edouard DEVAUD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centre Hospitalier René Dubos</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Maryline Delattre</last_name>
+    <phone>0033130754131</phone>
+    <email>maryline.delattre@ght-novo.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Veronique Da Costa</last_name>
+    <phone>0033130755069</phone>
+    <email>veronique.dacosta@ght-novo.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Department of Emergency, Hospital Victor Dupouy</name>
+      <address>
+        <city>Argenteuil</city>
+        <zip>95100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dr Catherine LE GALL</last_name>
+      <phone>01 34 23 26 02</phone>
+      <email>catherine.legall@ch-argenteuil.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Pneumology and Infectious Medicine, Hospital Carnelle Portes de l'Oise</name>
+      <address>
+        <city>Beaumont</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dr Laetitia HACHELEF</last_name>
+      <phone>01 30 75 54 78</phone>
+      <email>laetitia.hachelef@ght-novo.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Infectious and Tropical Diseases, Hospital Simone Veil</name>
+      <address>
+        <city>Eaubonne</city>
+        <zip>95600</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dr Lise EL HAJJ</last_name>
+      <phone>01.34.06.62.20</phone>
+      <email>Lise.el-hajj@ch-simoneveil.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Infectious Medicine, Hospital of Gonesse</name>
+      <address>
+        <city>Gonesse</city>
+        <zip>95500</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dr Rachid SEHOUANE</last_name>
+      <phone>01.34.53.23.17</phone>
+      <email>rachid.sehouane@ght-novo.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Infectious and Tropical Diseases, Hospital René Dubos,</name>
+      <address>
+        <city>Pontoise</city>
+        <zip>95300</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dr Edouard DEVAUD</last_name>
+      <phone>01 30 75 49 74</phone>
+      <email>edouard.devaud@ght-novo.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Infectious and respiratory Diseases, Hospital Delafontaine</name>
+      <address>
+        <city>Saint-Denis</city>
+        <zip>93200</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dr Rémi LEFRANCOIS</last_name>
+      <phone>01.34.53.23.17</phone>
+      <email>remi.lefrancois@ch-stdenis.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Coronavirus Infections</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Corticostéroïdes</keyword>
+  <keyword>Severe form of COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Dexamethasone acetate</mesh_term>
+    <mesh_term>Prednisolone</mesh_term>
+    <mesh_term>Methylprednisolone Acetate</mesh_term>
+    <mesh_term>Methylprednisolone</mesh_term>
+    <mesh_term>Methylprednisolone Hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone acetate</mesh_term>
+    <mesh_term>Prednisolone hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone phosphate</mesh_term>
+    <mesh_term>BB 1101</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

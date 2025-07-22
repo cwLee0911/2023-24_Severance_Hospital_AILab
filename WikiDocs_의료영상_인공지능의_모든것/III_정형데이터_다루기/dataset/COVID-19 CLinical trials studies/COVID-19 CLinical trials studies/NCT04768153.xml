@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3234">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04768153</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20_RIPH3_04</org_study_id>
+    <nct_id>NCT04768153</nct_id>
+  </id_info>
+  <brief_title>Prioritising Prevention of COVID-19 in Persons With Cancer in the French West Indies</brief_title>
+  <acronym>RESILIENCE</acronym>
+  <official_title>Prioritising Prevention of COVID-19 in Persons With Cancer in the French West Indies: Monitoring Psychological Impact to Optimize Healthcare Delivery Strategies in Unique Public Health Circumstances</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Center of Martinique</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital Center of Martinique</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The public health council (Haut Conseil de Santé Publique) published a statement on 14 March&#xD;
+      2020 relating to the management of patients with severe forms of COVID-19, stipulating&#xD;
+      specific recommendations for patients with cancer.&#xD;
+&#xD;
+      The statement notes that patients with cancer at much higher risk (four to five times higher)&#xD;
+      of several respiratory complications, which develop very rapidly, especially if they had&#xD;
+      recently undergone surgery or chemotherapy in the previous few weeks, and that this risk&#xD;
+      could be life-threatening, on top of the cancer-related risk. In addition, the statement&#xD;
+      noted that:&#xD;
+&#xD;
+        -  COVID-19 appears to be more frequent in patients with cancer than among the general&#xD;
+           population (1% vs 0.29%)&#xD;
+&#xD;
+        -  Among those infected, the risk of severe respiratory complications requiring admission&#xD;
+           to the intensive care unit (ICU) is higher in patients with cancer than among those&#xD;
+           without (39% vs 8%, P=0.0003).&#xD;
+&#xD;
+        -  A history of chemotherapy or surgery in the previous months is an important prognostic&#xD;
+           factor for the development of severe respiratory complications (odds ratio (OR) = 5.34,&#xD;
+           P= 0.0026).&#xD;
+&#xD;
+        -  Deterioration of respiratory function occurs more quickly in patients with cancer (13 vs&#xD;
+           43 days, hazard ratio (HR) 3.56, 95% confidence interval (CI) [1.65-7.69]).&#xD;
+&#xD;
+      In addition, COVID-19 may lead to a change in the diagnostic and therapeutic management of&#xD;
+      patients with cancer, with potential consequences such as use of oral treatments at home,&#xD;
+      discontinuation of anticancer therapy depending on the context, or prioritization of&#xD;
+      management according to curative/palliative treatment type, age, and line of therapy.&#xD;
+&#xD;
+      International studies previously reported the psychological repercussions of major epidemics&#xD;
+      on the emotional state. The impact of COVID-19 on patients with cancer therefore warrants&#xD;
+      evaluation, among cancer patients in the French West Indies, in the current situation of&#xD;
+      nationwide lockdown.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 29, 2020</start_date>
+  <completion_date type="Anticipated">December 29, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 29, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluation of Psychiatric disorders</measure>
+    <time_frame>3 months after implementation of confinement in France</time_frame>
+    <description>Evaluation of presence of psychiatric disorders by questionnaire after the initiation of population-level confinement due to the COVID-19 epidemic</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluation of Psychiatric disorders</measure>
+    <time_frame>6 months after implementation of confinement in France</time_frame>
+    <description>Evaluation of presence of psychiatric disorders by questionnaire after the initiation of population-level confinement due to the COVID-19 epidemic</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">700</enrollment>
+  <condition>Cancer</condition>
+  <arm_group>
+    <arm_group_label>Patients</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Serology</intervention_name>
+    <description>Serological diagnosis of COVID-19 in patients with cancer from a sample of cancer patients, at 3 and 6 months after implementation of confinement in France</description>
+    <arm_group_label>Patients</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Realization of the COVID -19 serological profile of cancer patients&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Cancer patients followed at the Martinique University Hospital&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients aged 18 years or older living in the French West Indies&#xD;
+&#xD;
+          -  Patient with prevalent cancer of the prostate, breast, lung, colon or rectum&#xD;
+&#xD;
+          -  Patients who receive the information leaflet and do not express any opposition to the&#xD;
+             use of their personal medical data&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who are unable to answer the study questionnaires&#xD;
+&#xD;
+          -  Patients who do not speak fluent French&#xD;
+&#xD;
+          -  Persons under legal protection&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Clarisse JOACHIM-CONTARET</last_name>
+    <phone>+596596559674</phone>
+    <email>clarisse.joachim@chu-martinique.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mickaelle ROSE</last_name>
+    <phone>+596596592623</phone>
+    <email>mickaelle.rose@chu-martinique.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHU Martinique</name>
+      <address>
+        <city>Fort-de-France</city>
+        <zip>97261</zip>
+        <country>Martinique</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clarisse JOACHIM-CONTARET, MD</last_name>
+      <phone>+596596559674</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Martinique</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 24, 2021</study_first_posted>
+  <last_update_submitted>February 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Psychiatry</keyword>
+  <keyword>Public health</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

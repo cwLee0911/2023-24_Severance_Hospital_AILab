@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3523">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04798053</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHUBX 2020/36</org_study_id>
+    <nct_id>NCT04798053</nct_id>
+  </id_info>
+  <brief_title>Impact of COVID-19 Pandemic and Social Distancing on Mental Health of Chronic Inflammatory Rheumatism Affected Patients</brief_title>
+  <acronym>EMOPTION</acronym>
+  <official_title>Impact of COVID-19 Pandemic and Social Distancing on Mental Health of Chronic Inflammatory Rheumatism Affected Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Bordeaux</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Societe Francaise de Rhumatologie</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Bordeaux</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Recent studies have highlighted the consequences of COVID-19 pandemic and social distancing&#xD;
+      on mental health of individuals. The aim of this study is to evaluate those consequences&#xD;
+      within a sample of inflammatory chronic rheumatism affected patients, taking into account the&#xD;
+      well-known key role of stress in the set-up of such diseases.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The previous H1N1 and SRAS-1 pandemics, that required to containment and quarantine, have&#xD;
+      lead to the emergence of mental symptoms such as stress, anxiety, insomnia… The French&#xD;
+      COCONEL study during the COVID pandemic have shown the major psychological impact of this&#xD;
+      crisis on the population, leading to stress and fears.&#xD;
+&#xD;
+      Stressful life events are well-known factors of chronic inflammatory rheumatisms set-up or&#xD;
+      flare. The aim of this study is therefore to evaluate the psychological impact of COVID-19&#xD;
+      pandemic on chronic inflammatory rheumatism (CIR) affected patients.&#xD;
+&#xD;
+      A case-control prospective multicentric study will be performed on 212 CIR patients versus&#xD;
+      106 controls to compare the stress level in each group. Patient reported outcomes will be&#xD;
+      evaluated, using electronic questionnaires, as well as classical clinical informations on CIR&#xD;
+      evolution during a 6-months follow-up period. An ancillary study on 100 patients will also be&#xD;
+      realized to quantify cytokine serum levels and determinate transcriptomic profiles.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 8, 2021</start_date>
+  <completion_date type="Anticipated">October 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline stress level according to 10-item Perceived Stress Scale (PSS-10) at 3 months and 6 months after inclusion</measure>
+    <time_frame>At inclusion (day 0), 3 months and 6 months after inclusion</time_frame>
+    <description>that varies between 10 and 50 with higher values mean greater difficulties to deal with stress</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients affected by depression according to 9-item Patient Health Questionnaire (PHQ-9)</measure>
+    <time_frame>At inclusion (day 0), 3 months and 6 months after inclusion</time_frame>
+    <description>that varies between 0 and 27 with higher values mean greater severity of depression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients affected by anxiety symptoms according to State-Trait Anxiety Inventory questionnaire</measure>
+    <time_frame>At inclusion (day 0), 3 months and 6 months after inclusion</time_frame>
+    <description>that varies between 20 and 80 with higher values mean higher levels of anxiety</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients affected by post-traumatic stress disorder symptoms according to Post-traumatic stress disorder Check-List Scale (PCL-S) questionnaire</measure>
+    <time_frame>At inclusion (day 0), 3 months and 6 months after inclusion</time_frame>
+    <description>that varies between 17 and 85 with higher values mean greater intensity of stress disorder</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of tobacco consumption evolution compared to the pre-COVID19 pandemic (less, same or more)</measure>
+    <time_frame>At inclusion (day 0), 3 months and 6 months after inclusion</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of alcohol consumption evolution compared to the pre-COVID19 pandemic (less, same or more)</measure>
+    <time_frame>At inclusion (day 0), 3 months and 6 months after inclusion</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of drugs consumption evolution compared to the pre-COVID19 pandemic (less, same or more)</measure>
+    <time_frame>At inclusion (day 0), 3 months and 6 months after inclusion</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of CIR treatments compliance continuation compared to the pre-COVID19 pandemic (without any modification, intensification, diminution, discontinuation).</measure>
+    <time_frame>At inclusion (day 0), 3 months and 6 months after inclusion</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of chronic inflammatory rheumatism activity scores using Visual Analog Scale (VAS)</measure>
+    <time_frame>At inclusion (day 0), 3 months and 6 months after inclusion</time_frame>
+    <description>that varies between 0 and 100mm with higher value mean higher value means higher level of disease activity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the impact of COVID-19 diagnostic on the stress level according to 10-item Perceived Stress Scale (PSS-10)</measure>
+    <time_frame>At inclusion (day 0), 3 months and 6 months after inclusion</time_frame>
+    <description>that varies between 10 and 50 with higher values mean greater difficulties to deal with stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the impact of COVID-19 diagnostic on CIR activity using Visual Analog Scale (VAS)</measure>
+    <time_frame>At inclusion (day 0), 3 months and 6 months after inclusion</time_frame>
+    <description>that varies between 0 and 100mm with higher value mean higher value means higher level of disease activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Levels of pro-inflammatory cytokines in sera of CIR patients</measure>
+    <time_frame>At inclusion (day 0) and 6 months after inclusion</time_frame>
+    <description>TNF-alpha, IL1, IL6, IL10, IL12, IL17, TGF-beta), expressed in UI per milliliter.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">318</enrollment>
+  <condition>Covid19</condition>
+  <condition>Rheumatic Fever</condition>
+  <condition>Mental Disorder</condition>
+  <arm_group>
+    <arm_group_label>Patient affected by a chronic inflammatory rheumatism</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>patient affected by a chronic inflammatory rheumatism (rheumatoid arthritis, ankylosing spondylitis, psoriatic arthritis, Systemic lupus, Still disease, scleroderma…),</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Controls</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>patient affected by a non-inflammatory or degenerative musculo-skeletal disease during the containment period</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Questionnaire</intervention_name>
+    <description>14-item Perceived Stress Scale (PSS-14), 9-item Patient Health Questionnaire (PHQ-9 questionnaire), State Trait Inventory Anxiety questionnaire (STAI questionnaire), Post-traumatic Stress Disorder Checklist Scale (PCL-S questionnaire)</description>
+    <arm_group_label>Controls</arm_group_label>
+    <arm_group_label>Patient affected by a chronic inflammatory rheumatism</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>blood sample and salivary sample</intervention_name>
+    <description>10 ml whole blood for Peripheral blood and 2 ml saliva sample. Only for 100 cases.</description>
+    <arm_group_label>Patient affected by a chronic inflammatory rheumatism</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        For the cases:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  adult patient (age over 18 years old)&#xD;
+&#xD;
+          -  patient affected by a chronic inflammatory rheumatism (rheumatoid arthritis,&#xD;
+             ankylosing spondylitis, psoriatic arthritis, Systemic lupus, Still disease,&#xD;
+             scleroderma…)&#xD;
+&#xD;
+          -  patient without any language difficulty&#xD;
+&#xD;
+          -  affiliated to an health insurance system&#xD;
+&#xD;
+          -  and who agree to participate in the study&#xD;
+&#xD;
+        For controls :&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  adult patient (age over 18 years ol&#xD;
+&#xD;
+          -  patient affected by a non-inflammatory or degenerative musculo-skeletal disease during&#xD;
+             the containment period,&#xD;
+&#xD;
+          -  patient without any language difficulty,&#xD;
+&#xD;
+          -  affiliated to an health insurance system,&#xD;
+&#xD;
+          -  and who agree to participate in the study.&#xD;
+&#xD;
+        For cases and controls :&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  pregnant or lactating patient&#xD;
+&#xD;
+          -  psychiatric patient&#xD;
+&#xD;
+          -  patient under guardianship or other legal protection regimen.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thierry SCHAEVERBEKE, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU Bordeaux</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Thierry SCHAEVERBEKE, Prof</last_name>
+    <phone>(0)556795556</phone>
+    <phone_ext>+33</phone_ext>
+    <email>thierry.schaeverbeke@chu-bordeaux.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Thomas BARNETCHE, PhD</last_name>
+    <email>thomas.barnetche@chu-bordeaux.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHU de Bordeaux - service de rhumatologie</name>
+      <address>
+        <city>Bordeaux</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thierry SCHAEVERBEKE, Prof</last_name>
+      <phone>(0)556795556</phone>
+      <phone_ext>+33</phone_ext>
+      <email>thierry.schaeverbeke@chu-bordeaux.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Thomas BARNETCHE, PhD</last_name>
+      <email>thomas.barnetche@chu-bordeaux.fr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Thierry SCHAEVERBEKE, Prof</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HP - Hopital Henri Mondor - service de rhumatologie</name>
+      <address>
+        <city>Créteil</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Xavier CHEVALIER, Prof</last_name>
+      <email>xavier.chevalier@aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Xavier CHEVALIER, Prof</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU de Lille - Service de rhumatologie</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rene-Marc FLIPO, Prof</last_name>
+      <email>rene-marc.flipo@chru-lille.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Rene-Marc FLIPO, Prof</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Montpellier - service de rhumatologie</name>
+      <address>
+        <city>Montpellier</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jacques MOREL, Prof</last_name>
+      <email>j-morel@chu-montpellier.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Jacques MOREL, Prof</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HP - Hopital Cochin - service de rhumatologie</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jerome AVOUAC, Prof</last_name>
+      <email>jerome.avouac@aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Jerome AVOUAC, Prof</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Saint-Etienne - service de rhumatologie</name>
+      <address>
+        <city>Saint-Étienne</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Hubert MAROTTE, Prof</last_name>
+      <email>hubert.marotte@chu-st-etienne.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Hubert MAROTTE, Prof</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Toulouse - service de rhumatologie</name>
+      <address>
+        <city>Toulouse</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Arnaud CONSTANTIN, Prof</last_name>
+      <email>constantin.a@chu-toulouse.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Arnaud CONSTANTIN, Prof</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 15, 2021</study_first_posted>
+  <last_update_submitted>April 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>chronic inflammatory rheumatism</keyword>
+  <keyword>stress</keyword>
+  <keyword>Patient reported outcomes</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rheumatic Fever</mesh_term>
+    <mesh_term>Rheumatic Diseases</mesh_term>
+    <mesh_term>Collagen Diseases</mesh_term>
+    <mesh_term>Mental Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

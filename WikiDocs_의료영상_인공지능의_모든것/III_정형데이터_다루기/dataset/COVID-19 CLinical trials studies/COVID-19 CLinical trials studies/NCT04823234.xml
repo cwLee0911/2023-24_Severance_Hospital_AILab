@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2849">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04823234</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CEUR-2021-223</org_study_id>
+    <nct_id>NCT04823234</nct_id>
+  </id_info>
+  <brief_title>Lung Ultrasound Signs and Patterns in COVID-19 Pregnant Women</brief_title>
+  <acronym>PINK-CO</acronym>
+  <official_title>Lung Ultrasound Signs and Patterns in COVID-19 Pregnant Women - &quot;The PINK-CO Protocol&quot;</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Azienda Sanitaria-Universitaria Integrata di Udine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Azienda Sanitaria-Universitaria Integrata di Udine</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      SARS-CoV-2 impact on pregnant women is not well known yet. Some authors demonstrated that&#xD;
+      lung ultrasound can give similar results if compared to chest computed tomography and better&#xD;
+      results if compared to chest x-rays without radiations and limited risks for mother and&#xD;
+      fetus.&#xD;
+&#xD;
+      The Lung Ultrasound Score (LUS) can be used to asses the entity and monitor the evolution of&#xD;
+      lung impairment.&#xD;
+&#xD;
+      Some authors described an artifact, the &quot;light beam&quot;, as a typical ultrasound sign in&#xD;
+      COVID-19 positive patients.&#xD;
+&#xD;
+      With our study we hypothesize to understand the prevalence of this sign and other ultrasound&#xD;
+      signs in pregnant COVID-19 positive patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 10, 2021</start_date>
+  <completion_date type="Anticipated">September 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Light Beam</measure>
+    <time_frame>24 hours after admission</time_frame>
+    <description>Evaluate the prevalence of the light beam sign</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Ultrasound patterns</measure>
+    <time_frame>24 hours after admission</time_frame>
+    <description>Evaluate the prevalence of ultrasound signs and patterns during pregnancy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lung ultrasound score</measure>
+    <time_frame>24 hours after admission</time_frame>
+    <description>Evaluate if the Lung ultrasound score relates with the clinical presentation of the patient</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Illness severity</measure>
+    <time_frame>24 hours after admission</time_frame>
+    <description>Evaluate if the lung ultrasound score relates with the prognosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay</measure>
+    <time_frame>24 hours after admission</time_frame>
+    <description>Evaluate if the lung ultrasound score relates with the length of stay</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Pregnancy Complications</condition>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Lung ultrasound</intervention_name>
+    <description>Lung ultrasound signs in Covid 19 positive pregnant patients</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All pregnant COVID 19 positive patients admitted at our institution&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All pregnant COVID 19 positive patients admitted at our institution who had lung&#xD;
+             ultrasound performed&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  are &lt; 18 years old&#xD;
+&#xD;
+          -  history of rheumatic disease&#xD;
+&#xD;
+          -  history of spontaneous pneumothorax&#xD;
+&#xD;
+          -  fibrothorax&#xD;
+&#xD;
+          -  history of thoracic surgery&#xD;
+&#xD;
+          -  no consent given&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Luigi Vetrugno, MD</last_name>
+    <phone>+ 39 04325509</phone>
+    <email>uigi.vetrugno@asufc.sanita.fvg.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Anesthesiology and Intensive Care Clinic - Department of Medicine - ASUIUD</name>
+      <address>
+        <city>Udine</city>
+        <zip>33100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luigi Vetrugno, Doctor</last_name>
+      <phone>+393382873386</phone>
+      <email>luigi.vetrugno@asuiud.sanita.fvg.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tiziana Bove, Professor</last_name>
+      <phone>+393474785763</phone>
+      <email>tiziana.bove@asuiud.sanita.fvg.it</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Rasmussen SA, Smulian JC, Lednicky JA, Wen TS, Jamieson DJ. Coronavirus Disease 2019 (COVID-19) and pregnancy: what obstetricians need to know. Am J Obstet Gynecol. 2020 May;222(5):415-426. doi: 10.1016/j.ajog.2020.02.017. Epub 2020 Feb 24. Review.</citation>
+    <PMID>32105680</PMID>
+  </reference>
+  <reference>
+    <citation>Li J, Long X, Wang X, Fang F, Lv X, Zhang D, Sun Y, Hu S, Lin Z, Xiong N. Radiology indispensable for tracking COVID-19. Diagn Interv Imaging. 2021 Feb;102(2):69-75. doi: 10.1016/j.diii.2020.11.008. Epub 2020 Nov 24.</citation>
+    <PMID>33281082</PMID>
+  </reference>
+  <reference>
+    <citation>Vetrugno L, Bove T, Orso D, Barbariol F, Bassi F, Boero E, Ferrari G, Kong R. Our Italian experience using lung ultrasound for identification, grading and serial follow-up of severity of lung involvement for management of patients with COVID-19. Echocardiography. 2020 Apr;37(4):625-627. doi: 10.1111/echo.14664. Epub 2020 Apr 15. Review.</citation>
+    <PMID>32239532</PMID>
+  </reference>
+  <reference>
+    <citation>Convissar DL, Gibson LE, Berra L, Bittner EA, Chang MG. Application of Lung Ultrasound During the COVID-19 Pandemic: A Narrative Review. Anesth Analg. 2020 Aug;131(2):345-350. doi: 10.1213/ANE.0000000000004929. Review.</citation>
+    <PMID>32366774</PMID>
+  </reference>
+  <reference>
+    <citation>Lichtenstein D. Lung ultrasound in the critically ill. Curr Opin Crit Care. 2014 Jun;20(3):315-22. doi: 10.1097/MCC.0000000000000096. Review.</citation>
+    <PMID>24758984</PMID>
+  </reference>
+  <reference>
+    <citation>Bouhemad B, Mongodi S, Via G, Rouquette I. Ultrasound for &quot;lung monitoring&quot; of ventilated patients. Anesthesiology. 2015 Feb;122(2):437-47. doi: 10.1097/ALN.0000000000000558. Review.</citation>
+    <PMID>25501898</PMID>
+  </reference>
+  <reference>
+    <citation>Lichter Y, Topilsky Y, Taieb P, Banai A, Hochstadt A, Merdler I, Gal Oz A, Vine J, Goren O, Cohen B, Sapir O, Granot Y, Mann T, Friedman S, Angel Y, Adi N, Laufer-Perl M, Ingbir M, Arbel Y, Matot I, Szekely Y. Lung ultrasound predicts clinical course and outcomes in COVID-19 patients. Intensive Care Med. 2020 Oct;46(10):1873-1883. doi: 10.1007/s00134-020-06212-1. Epub 2020 Aug 28. Erratum in: Intensive Care Med. 2020 Sep 25;:.</citation>
+    <PMID>32860069</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2021</study_first_posted>
+  <last_update_submitted>March 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Azienda Sanitaria-Universitaria Integrata di Udine</investigator_affiliation>
+    <investigator_full_name>Luigi Vetrugno</investigator_full_name>
+    <investigator_title>Clinical Professor in Anesthesiology and Intensive Care</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pregnancy Complications</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

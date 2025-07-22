@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2438">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04823182</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SETANTA_Study_Protocol_V2.0</org_study_id>
+    <nct_id>NCT04823182</nct_id>
+  </id_info>
+  <brief_title>Study of HEarT DiseAse and ImmuNiTy After COVID-19 in Ireland</brief_title>
+  <acronym>SETANTA</acronym>
+  <official_title>Study of HEarT DiseAse and ImmuNiTy After COVID-19 in Ireland</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cardiovascular Research Institute Dublin</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cardiovascular Research Institute Dublin</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      SETANTA study will investigate the incidence of cardiac abnormalities as assessed by cardiac&#xD;
+      magnetic resonance imaging in unselected patients after acute SARS-CoV-2 infection and&#xD;
+      correlation with immunological response and biomarkers of coagulation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Approximately 100 participants from primary care will be enrolled via General Practitioner&#xD;
+      (GP) or Primary Care Centers in Dublin. A patient information sheet (PIS) will be made&#xD;
+      accessible to participants recovering from COVID-19 via their GP practice inviting the&#xD;
+      participants to contact Cardiovascular Research Institute Dublin. The participants, subject&#xD;
+      to suitability, will be invited for a site visit over two days, where upon explicit consent&#xD;
+      being granted, the Investigators will proceed with data collection. The study population&#xD;
+      includes participants who are recovering from COVID-19 in the community.&#xD;
+&#xD;
+      Primary Objective&#xD;
+&#xD;
+      To investigate the incidence of cardiac abnormalities as assessed by cardiac magnetic&#xD;
+      resonance imaging in unselected participants after acute SARS-CoV-2 infection and correlation&#xD;
+      with immunological response and biomarkers of coagulation.&#xD;
+&#xD;
+      Secondary Objectives&#xD;
+&#xD;
+        -  To investigate the incidence of SARS-CoV-2 immunity and&#xD;
+&#xD;
+        -  To investigate the extent of coagulopathy persistent after acute SARS-CoV-2 infection.&#xD;
+&#xD;
+      Follow-up data collection points will be at 1, 6- and 12-months including assessment of major&#xD;
+      adverse cardiovascular events (MACE) such as myocardial infarction (MI), revascularization,&#xD;
+      pulmonary embolism (PE), deep venous thromboembolism (DVT), incident heart failure and&#xD;
+      stroke. 'Patient reported outcome measures' via two quality of life (QOL) questionnaires will&#xD;
+      be administered at baseline and at 6 and 12 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 16, 2021</start_date>
+  <completion_date type="Anticipated">June 16, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 16, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>12 Months</target_duration>
+  <primary_outcome>
+    <measure>Left ventricular (LV) ejection fraction</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Cardiac Magnetic Resonance finding</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>LV end diastolic volume</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Cardiac Magnetic Resonance finding</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Right ventricular ejection fraction</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Cardiac Magnetic Resonance finding</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Native T1, T2</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Cardiac Magnetic Resonance finding</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Late gadolinium enhancement</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Cardiac Magnetic Resonance finding</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pericardial abnormalities</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Cardiac Magnetic Resonance finding</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Immunity parameters</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Anti-SARS-CoV-2 total antibody testing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Markers of coagulation and endothelial cell activation</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Including fibrinogen, D-dimer, von Willebrand factor antigen, von Willebrand factor propeptide, soluble thrombomodulin, activated protein C, and cytokine arrays</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Covid19</condition>
+  <condition>Cardiomyopathies</condition>
+  <arm_group>
+    <arm_group_label>Cases</arm_group_label>
+    <description>Cases - Recent COVID-19 infection ≥ 6 weeks and ≤ 12 months before enrolment, as evidenced by positive reverse-transcriptase polymerase chain reaction (RT-PCR) SARS-CoV-2 swab</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Cardiovascular Magnetic Resonance Imaging</intervention_name>
+    <description>The Cardiac MRI protocol consists of static T2 weighted in all three planes and T2 weighted imaging with fat saturation in the short axis plane.</description>
+    <arm_group_label>Cases</arm_group_label>
+    <other_name>Cardiac MRI</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Recent COVID-19 infection ≥ 6 weeks and ≤ 12 months before enrolment, as evidenced by&#xD;
+        positive reverse-transcriptase polymerase chain reaction (RT-PCR) SARS-CoV-2 swab&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients 18 years or older&#xD;
+&#xD;
+          2. Written informed consent&#xD;
+&#xD;
+          3. Recent COVID-19 infection ≥ 6 weeks and ≤ 12 months before enrolment, as evidenced by&#xD;
+             positive reverse-transcriptase polymerase chain reaction (RT-PCR) SARS-CoV-2 swab&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Prior history of myocarditis or ischemic heart disease&#xD;
+&#xD;
+          2. General contraindications for Magnetic Resonance Imaging e.g. Magnetic Resonance&#xD;
+             unsafe pacemaker, devices, implants etc.&#xD;
+&#xD;
+          3. Contraindication to gadolinium (estimated glomerular filtration rate &lt;30 ml/min)&#xD;
+&#xD;
+          4. Contraindication to Regadenoson, including cardiac conduction disease, asthma,&#xD;
+             seizures, pregnancy or breast-feeding&#xD;
+&#xD;
+          5. Inability to provide written informed consent, to fill out the safety questionnaire,&#xD;
+             or to fully cooperate with the scan and breath holds&#xD;
+&#xD;
+          6. Insufficient Cardiac Magnetic Resonance image quality&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert A Byrne, MB BCh PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CVRI Dublin at Mater Private Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Roisin Colleran, MB BCh</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CVRI Dublin at Mater Private Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Robert Byrne, MB BCh PhD</last_name>
+    <phone>0035312483186</phone>
+    <email>robert.byrne@materprivate.ie</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Amy Carswell, MSc</last_name>
+    <phone>00353858802094</phone>
+    <email>amy.carswell@materprivate.ie</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cardiovascular Research Institute Dublin</name>
+      <address>
+        <city>Dublin</city>
+        <zip>D07 KWR1</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amy Carswell, MSc</last_name>
+      <phone>00 353 85 880 2091</phone>
+      <email>amy.carswell@materprivate.ie</email>
+    </contact>
+    <contact_backup>
+      <last_name>Himanshu Rai, PhD</last_name>
+      <phone>00 353 87 1602779</phone>
+      <email>himanshu.rai@materprivate.ie</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Robert A Byrne, MB BCh PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Roisin Colleran, MB BCh</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Ireland</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2021</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cardiac Magnetic Resonance Imaging</keyword>
+  <keyword>COVID19</keyword>
+  <keyword>Cardiomyopathy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Cardiomyopathies</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

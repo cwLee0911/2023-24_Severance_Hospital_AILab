@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3079">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04746430</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GPRI-21001-COV</org_study_id>
+    <secondary_id>2021-000235-30</secondary_id>
+    <nct_id>NCT04746430</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Primary Care Platform for Early Treatment and Recovery (COPPER) Study</brief_title>
+  <acronym>COPPER</acronym>
+  <official_title>COVID-19 Primary Care Platform for Early Treatment and Recovery (COPPER) Study: an Open-label Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>General Practitioners Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Huisartsenzorg Drenthe</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>General Practitioners Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The COVID-19 coronavirus has led to a global pandemic of respiratory diseases with an&#xD;
+      increase in hospitalization and death risk. To keep COVID-19 manageable for healthcare, early&#xD;
+      treatment is urgently needed to avoid hospitalization. Dexamethasone can dampen the&#xD;
+      exaggerated cytokine response to COVID-19 and is a promising agent for preventing disease&#xD;
+      aggravation, hospitalization and death. However, the evidence on the effectiveness, safety&#xD;
+      and cost-effectiveness of dexamethasone treatment in primary care is inconclusive.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 16, 2021</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 2022</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized controlled trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hospitalization/death</measure>
+    <time_frame>28 days</time_frame>
+    <description>Time to first hospital admission or death</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Recovery</measure>
+    <time_frame>28 days</time_frame>
+    <description>To assess the effectiveness of early treatment with dexamethasone in reducing time to recovery inpatients who are carefully monitored by their GP after a consultation for deteriorating COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease severity</measure>
+    <time_frame>28 days</time_frame>
+    <description>To assess the effectiveness of early treatment with dexamethasone in reducing COVID-19 disease severity in patients who are remotely monitored by their GP after a consultation for deteriorating symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HCRU</measure>
+    <time_frame>28 days</time_frame>
+    <description>To assess the effectiveness of the intervention in reducing healthcare resource utilization (HCRU)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>6 mg dexamethasone prescribed during ten days and as a precaution combined with electronic monitoring of saturation and other signs and symptoms</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Only remote monitoring</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>6 mg dexamethasone prescribed during ten days and as a precaution combined with electronic monitoring of saturation and other signs and symptoms</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥18 years&#xD;
+&#xD;
+          -  A positive test for SARS-CoV-2&#xD;
+&#xD;
+          -  A GP consultation for deteriorating COVID-19 symptoms&#xD;
+&#xD;
+        Additional inclusion criteria in order to be eligible for randomization to the trial:&#xD;
+&#xD;
+        - Exercise-induced desaturation, defined as SpO2&lt;92% (&lt;90% for COPD patients) and/or an&#xD;
+        absolute drop of ≥4% in SpO2 after a 1-minute sit-to-stand test&#xD;
+&#xD;
+        OR&#xD;
+&#xD;
+        - SpO2&lt;92% (&lt;90% for COPD patients) in rest with GP's and patient's shared decision to keep&#xD;
+        patient at home despite this in itself being an indication for referral to hospital&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to understand and sign the written consent form&#xD;
+&#xD;
+          -  Inability to perform saturation measurements or sit-to-stand test&#xD;
+&#xD;
+          -  Not willing to be admitted to hospital&#xD;
+&#xD;
+          -  On the discretion of the recruiting clinician if he or she deems a patient not&#xD;
+             eligible&#xD;
+&#xD;
+        The following criterion will be used to exclude patients from randomization to the trial:&#xD;
+&#xD;
+          -  Contra-indication for dexamethasone&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Janwillem Kocks, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>General Practitioners Research Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marten Harbers, PhD</last_name>
+    <phone>+31 (0)50 2113898</phone>
+    <email>COPPER@gpri.nl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>GPRI</name>
+      <address>
+        <city>Groningen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Janwillem Kocks</last_name>
+      <phone>+31 (0)50 2113898</phone>
+      <email>copper@gpri.nl</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 9, 2021</study_first_posted>
+  <last_update_submitted>April 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

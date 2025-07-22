@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="329">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04756830</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IDOR_VAC_01</org_study_id>
+    <nct_id>NCT04756830</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess the Safety and Immunogenicity of the Coronavac Vaccine Against COVID-19</brief_title>
+  <official_title>An Open-label Uncontrolled Study to Assess the Safety and Immunogenicity of the Inactivated Adsorbed Vaccine Against COVID-19 (Coronavac) in Individuals Over 18 Years of Age During 24 Months of Follow-up</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>D'Or Institute for Research and Education</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Butantan Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>D'Or Institute for Research and Education</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label uncontrolled study in which all participants will receive two doses of&#xD;
+      the inactivated adsorbed vaccine against COVID-19, and will be followed up for safety and&#xD;
+      immunogenicity analysis for 24 months.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open-label uncontrolled study in which all participants will receive two doses of&#xD;
+      the inactivated adsorbed vaccine against COVID-19, and will be followed up for safety and&#xD;
+      immunogenicity analysis for 24 months. This study will assess safety and immunogenicity of&#xD;
+      the inactivated vaccine adsorbed against COVID-19 (CoronaVac) in a population of healthy&#xD;
+      individuals older than 18 years of age.&#xD;
+&#xD;
+      The estimated number of participants is 1200. Participants will be recruited within 3-4&#xD;
+      months. The total duration of the study is estimated to be 30 months after recruitment&#xD;
+      begins.&#xD;
+&#xD;
+      The participants will remain in the study for approximately 24 months. The study will be&#xD;
+      carried out at the clinical research center of the D'Or Institute for Research and Education&#xD;
+      (IDOR) located at the Hospital Glória D'Or, in the city of Rio de Janeiro, RJ, Brazil&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">June 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of local and systemic adverse reactions in the first 7 days after immunization</measure>
+    <time_frame>Seven days after each immunization</time_frame>
+    <description>Frequency of solicited and unsolicited local and systemic adverse reactions in the first 7 days after vaccination per age group (18-59 years old and 60 years old or older), attributed to the vaccine after causality assessment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Seroconversion rates</measure>
+    <time_frame>Two weeks after the second immunization</time_frame>
+    <description>Seroconversion rates in the second week after the second dose of the vaccine per age group (18-59 years and 60 years old or older).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of adverse reactions up to 28 days after immunization</measure>
+    <time_frame>28 days after the second immunization</time_frame>
+    <description>Frequency of unsolicited local and systemic adverse reactions up to 28 days after the second dose of the vaccine per age group (18-59 years old and 60 years old or older), attributed to the vaccine after causality assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of severe adverse events</measure>
+    <time_frame>Up to 12 months after first immunization</time_frame>
+    <description>Frequency of severe adverse events after vaccination, attributed to the vaccine after causality assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of adverse events of special interest</measure>
+    <time_frame>Up to 12 months after first immunization</time_frame>
+    <description>Frequency of adverse events of special interest after receiving, at least, one dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cell-mediated immune response</measure>
+    <time_frame>At inclusion and 4 weeks after the second vaccination</time_frame>
+    <description>Cell-mediated immune response at inclusion and four weeks after the second vaccination per age group (18-59 years old and 60 years old or older).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of detection of antibodies against SARS-CoV-2</measure>
+    <time_frame>At inclusion, and two weeks, 6 months, 12 months, 18 months and 24 months after the second vaccination</time_frame>
+    <description>Frequency of detection of antibodies against SARS-CoV-2 at inclusion, and two weeks, 6 months, 12 months, 18 months and 24 months after the second dose of the vaccine against COVID-19.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean titer of neutralizing antibodies</measure>
+    <time_frame>At inclusion, and two weeks, 6 months, 12 months, 18 months and 24 months after the second vaccination</time_frame>
+    <description>Geometric mean titer of neutralizing antibodies against SARS-CoV-2 at inclusion, and two weeks, 6 months, 12 months, 18 months and 24 months after the second dose of the vaccine against COVID-19.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Frequency of confirmed cases of COVID-19</measure>
+    <time_frame>Up to 24 months after inclusion</time_frame>
+    <description>Frequency of confirmed cases of COVID-19 per age group (18-59 years old and 60 years old or older) over 24 months.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Frequency of SARS-CoV-2 variants of concern (VOC)</measure>
+    <time_frame>Up to 24 months after inclusion</time_frame>
+    <description>Frequency of SARS-CoV-2 variants of concern (VOC) in confirmed cases of COVID-19.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Humoral and cellular immune response</measure>
+    <time_frame>Up to 24 months after inclusion</time_frame>
+    <description>Humoral and cellular immune response in confirmed cases of COVID-19</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">1200</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Vaccination</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>All participants will receive two doses of the inactivated adsorbed vaccine against COVID-19.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Adsorbed COVID-19 (inactivated) Vaccine</intervention_name>
+    <description>Participants will receive two doses with 14-days interval of adsorbed COVID-19 (inactivated) vaccine</description>
+    <arm_group_label>Vaccination</arm_group_label>
+    <other_name>CoronaVac</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults 18 years of age or older;&#xD;
+&#xD;
+          -  Agree with study procedures after reading and signing the Informed Consent Form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy (confirmed by positive β-hCG test), breastfeeding and / or expressing&#xD;
+             intention to have sexual practices with reproductive potential without using&#xD;
+             contraceptive methods in the three months following vaccination&#xD;
+&#xD;
+          -  Evidence of uncontrolled neurological, cardiac, pulmonary, hepatic or renal disease,&#xD;
+             according to anamnesis or physical examination. Significant changes in treatment or&#xD;
+             hospitalizations due to worsening of the condition in the last three months are&#xD;
+             indicators of uncontrolled disease;&#xD;
+&#xD;
+          -  Diseases with impaired immune system including: neoplasms (except basal cell&#xD;
+             carcinoma), congenital or acquired immunodeficiencies and autoimmune diseases not&#xD;
+             controlled according to anamnesis or physical examination. Significant changes in&#xD;
+             treatment or hospitalizations due to worsening of the condition in the last three&#xD;
+             months are indicators of uncontrolled disease;&#xD;
+&#xD;
+          -  Behavioral, cognitive or psychiatric illness that, in the opinion of the principal&#xD;
+             investigator or his medical representative, affects the participant's ability to&#xD;
+             understand and collaborate with the requirements of the study protocol&#xD;
+&#xD;
+          -  Any alcohol or drug abuse in the last 12 months prior to inclusion in the study that&#xD;
+             has caused medical, professional or family problems, as indicated by clinical history;&#xD;
+&#xD;
+          -  History of severe allergic reaction or anaphylaxis to the vaccine or components of the&#xD;
+             study vaccine;&#xD;
+&#xD;
+          -  History of asplenia;&#xD;
+&#xD;
+          -  Participation in another clinical trial with product administration under&#xD;
+             investigation during the six months prior to its inclusion in the study or scheduled&#xD;
+             participation in another clinical trial in the two years following inclusion;&#xD;
+&#xD;
+          -  Previous participation in a COVID-19 vaccine evaluation study or previous exposure to&#xD;
+             a COVID-19 vaccine;&#xD;
+&#xD;
+          -  Use of immunosuppressive therapies six months prior to inclusion in the study or its&#xD;
+             scheduled use within two years of inclusion. Immunosuppressive therapies will be&#xD;
+             considered: antineoplastic chemotherapy, radiation therapy, immunosuppressants to&#xD;
+             induce tolerance to transplants, among others.&#xD;
+&#xD;
+          -  Have received an immunosuppressive dose of corticosteroids in the last three months&#xD;
+             prior to inclusion in the study or scheduled administration of an immunosuppressive&#xD;
+             dose of corticosteroids for the three months following inclusion in the study. The&#xD;
+             dose of corticosteroids considered immunosuppressive is equivalent to prednisone at a&#xD;
+             dose of 20 mg / day for adults, for more than a week. The continuous use of topical or&#xD;
+             nasal corticosteroids is not considered immunosuppressive;&#xD;
+&#xD;
+          -  Have received blood products (transfusions or immunoglobulins) in the last three&#xD;
+             months before inclusion in the study, or scheduled administration of blood products or&#xD;
+             immunoglobulin in the two years following inclusion in the study;&#xD;
+&#xD;
+          -  Suspected or confirmed fever within 72 hours prior to vaccination or axillary&#xD;
+             temperature greater than 37.8 ° C * on the day of vaccination (inclusion may be&#xD;
+             postponed until the participant completes 72 hours without fever);&#xD;
+&#xD;
+          -  Possible or confirmed case of COVID-19 on the day of vaccination (vaccination can be&#xD;
+             postponed until the participant completes 72 hours without symptoms or the diagnosis&#xD;
+             is ruled out);&#xD;
+&#xD;
+          -  Have received vaccine with live attenuated virus in the last 28 days or inactivated&#xD;
+             vaccine in the last 14 days prior to their inclusion in the study, or have&#xD;
+             immunization scheduled for the first 28 days after their inclusion in the study;&#xD;
+&#xD;
+          -  History of bleeding disorders (for example, deficiency of clotting factors,&#xD;
+             coagulopathy, platelet dysfunction), or previous history of bleeding or significant&#xD;
+             bruising after IM injection or venipuncture.&#xD;
+&#xD;
+          -  Any other condition that, in the opinion of the principal investigator or his medical&#xD;
+             representative, could jeopardize the safety or rights of a potential participant or&#xD;
+             that would prevent him from complying with this protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jose Cerbino</last_name>
+    <phone>55 21 38836000</phone>
+    <email>jose.cerbino@idor.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Gloria D'Or - Hospitais Integrados da Gavea S/A</name>
+      <address>
+        <city>Rio De Janeiro</city>
+        <zip>22211-230</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jose Cerbino Neto, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>D'Or Institute for Research and Education</name>
+      <address>
+        <city>Rio De Janeiro</city>
+        <zip>22281100</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Natalia Zerbinatti Salvador</last_name>
+      <phone>55 21 3883 6000</phone>
+      <email>natalia.salvador@idor.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mayara Fraga Santos</last_name>
+      <phone>55 21 3883 6000</phone>
+      <email>mayara.fraga@idor.org</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 16, 2021</study_first_posted>
+  <last_update_submitted>February 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>D'Or Institute for Research and Education</investigator_affiliation>
+    <investigator_full_name>Jose Cerbino Neto</investigator_full_name>
+    <investigator_title>Senior Researcher</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

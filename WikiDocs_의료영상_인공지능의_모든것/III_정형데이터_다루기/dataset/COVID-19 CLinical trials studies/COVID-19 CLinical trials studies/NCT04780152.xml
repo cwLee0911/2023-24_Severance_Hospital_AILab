@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4529">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04780152</url>
+  </required_header>
+  <id_info>
+    <org_study_id>54/20</org_study_id>
+    <nct_id>NCT04780152</nct_id>
+  </id_info>
+  <brief_title>TDCS in Pediatric and Teenage Patients With Major Depressive Disorder During COVID-19 Pandemic</brief_title>
+  <official_title>Assessment of Efficacy and Safety of Anodal Transcranial Direct Current Stimulation (TDCS) in Pediatric and Teenage Patients With Major Depressive Disorder During COVID-19 Pandemics</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>El Instituto Nacional de Neurologia y Neurocirugia Manuel Velasco Suarez</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital Psiquiatrico Infantil Dr. Juan N. Navarro, Mexico</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>El Instituto Nacional de Neurologia y Neurocirugia Manuel Velasco Suarez</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess safety and efficacy of nodal transcranial direct&#xD;
+      current stimulation in pediatric and teenager population with major depressive disorder in&#xD;
+      the COVID-19 pandemic.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After being widely informed about the study and potential risks, all the patients giving&#xD;
+      voluntary informed consent will be randomized in a 1:1 ratio to a tDCS group (a-tDCS+&#xD;
+      standard treatment) or control group (placebo-simulations a-tDCS+ standard treatment).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">September 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 2022</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A multicentric, randomized, clinical trial, phase 2/3 of superiority, with two parallel arms, comparative, controlled with placebo, in which changes in a major depressive disorder scale will be assessed (change in CDI score measured at week 10 compared with initial score) comparing with basal score and between the two groups (&gt;40% measured at 2 weeks, 1,2, 3 months of treatment).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>In addition some of the personnel (evaluators, data analyst, result analyst) will be blinded in order to increase the internal validity of our study. A blind person is considered by the person that apply the intervention.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change of Children Depression Inventory score from the beginning to the end of the study</measure>
+    <time_frame>At the beginning of the study and at the end of weeks 2, 4, 8, and 12</time_frame>
+    <description>It is one of the most widely used self-applied scales to assess depressive symptoms in children and teenagers. The scale consists of 27 items, each item with 3 response options, where 0= absence of symptoms, 1= moderate symptoms, and 2= severe symptoms. The total score ranges from 0-54. The scale manual contains the psychometric properties reported by the author. It is recommended for use in children from 7-17 years old. a SCORE OF 20 was established as a cut-off point for indicating depression problems</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change of Columbia-Suicide Severity Rating Scale score from the beginning to the end of the study</measure>
+    <time_frame>At the beginning of the study and at the end of weeks 2, 4, 8, and 12</time_frame>
+    <description>The C-SSRS is a semi-structured interview which collects the onset, severity and frequency of behavior and thoughts related to suicide during the assessement period. Therefore, 4 constructs are measured.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of Young Mania Rating Scale score from the begining to the end of the study</measure>
+    <time_frame>At the beginning of the study and at the end of weeks 2, 4, 8, and 12</time_frame>
+    <description>It is an instrument for quantifying mania symptoms that consist of 11 items, each one with 5 response options, which reflect higher score if great intensity. It is applied by the clinician and is based on the subjective report of the patient during 48 hrs prior to the evaluation, as well as on the observation of the patient's behavior during the interview. The patient selects the intensity level of the symptom for each item with an option from 0 to 4.&#xD;
+The total range of the scale from 0-60 points where higher scores indicate a greater degree of manic characteristics; the minimum score to define new-onset mania or hypomania is 8 points at the end of the weeks 2, 4, 8 and 12 to assess mania or hypomania during the clinical trial.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">172</enrollment>
+  <condition>Major Depressive Disorder</condition>
+  <arm_group>
+    <arm_group_label>tDCS arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive 10 consecutive sessions followed by 1 session per week 10 weeks of tDCS (30 minutes and 2 mA) + fluoxetine (10 mg daily 2 weeks followed by 20 mg daily).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control arm</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participant receive 10 consecutive sessions followed by 1 session per week 10 weeks of placebo (30 minutes of placebo-simulation tDCS) + fluoxetine (10 mg daily 2 weeks followed by 20 mg daily).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Transcranial Direct Current Stimulation</intervention_name>
+    <description>Participants receive 10 consecutive sessions followed by 1 session per week 10 weeks of tDCS (30 minutes and 2 mA). Anodal stimulation will be applied on F3 according to the intentional 10/20 system, and the cathode will be applied on the contra lateral position (F4).</description>
+    <arm_group_label>tDCS arm</arm_group_label>
+    <other_name>TDCS</other_name>
+    <other_name>Anodal electric transcranial direct current stimulation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Placebo-simulation of transcranial direct current stimulation</intervention_name>
+    <description>Participants receive 10 consecutive sessions followed by 1 session per week 10 weeks of placebo (30 minutes of placebo-simulation tDCS). Placebo will be administered using the same stimulation parameters and the active treatment position of the electrodes, but current wil be aborted 30 seconds after the ascending slope has begun.</description>
+    <arm_group_label>Control arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fluoxetine Tablets</intervention_name>
+    <description>Every patient will receive 10 mg of fluoxetine daily the first 2 two weeks, followed by 20 mg daily.</description>
+    <arm_group_label>Control arm</arm_group_label>
+    <arm_group_label>tDCS arm</arm_group_label>
+    <other_name>Antidepressants</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Major Depressive Disorder (MDD) diagnosed through the clinical interview based on the&#xD;
+             Affective Disorders and Schizophrenia Agenda for schoolchildren-current version and&#xD;
+             for life K- SADS-PL for its acronym in English, with a single or recurrent episode&#xD;
+             lasting ≥4 weeks.&#xD;
+&#xD;
+          -  The current depressive episode must have a duration of less than 5 years and be at&#xD;
+             least greater than 2 months in which the patient meets the operational definition of&#xD;
+             MDD from the DSM-V.&#xD;
+&#xD;
+          -  CID scale with values equal to 17 or higher in the clinical evaluation.&#xD;
+&#xD;
+          -  No use of another medication during the intervention days.&#xD;
+&#xD;
+          -  They should not be taking antidepressants at the beginning of the study (last 4 weeks)&#xD;
+             or it must have passed the adequate time of &quot;washing&quot;/ clearance of antidepressant&#xD;
+             drugs established as 5 or more biological half-lifes or 5 days before the&#xD;
+             randomization.&#xD;
+&#xD;
+          -  To be able and willing to give their informed consent, both, the parent or tutor and&#xD;
+             the participant who is between the ages of 14-17 years. In the age group of 10-13&#xD;
+             years the assent of the patient and the consent of the parent or tutor.&#xD;
+&#xD;
+          -  Use of benzodiazepines (eg lorazepam) equivalent to 20 mg of diazepam and which&#xD;
+             remains stable during the study.&#xD;
+&#xD;
+          -  Patients with an unchanged drug treatment for MDD in the last 4 weeks and who agree to&#xD;
+             switch the fluoxetine at the time of randomization, meeting the previously described&#xD;
+             antidepressant criteria.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous skull surgery.&#xD;
+&#xD;
+          -  Recent skull injury (6 months).&#xD;
+&#xD;
+          -  Use of central nervous system stimulants.&#xD;
+&#xD;
+          -  Respiratory System infections.&#xD;
+&#xD;
+          -  Does NOT sign or is unable to sign informed consent or legal tutors/parents do not&#xD;
+             consent.&#xD;
+&#xD;
+          -  Clinical condition or anomaly, which in the researcher's opinion, compromises&#xD;
+             patient´s safety or data quality.&#xD;
+&#xD;
+          -  Uncontrolled co-existent medical condition, progressive cerebral disorder, severe&#xD;
+             systemic diseases, symptomatic disease, cardiac disease, skin chronic diseases or&#xD;
+             damaged scalp which could interfere with tDCS stimulation.&#xD;
+&#xD;
+          -  Any skull metal implant (excluding dental filling or titanium plates) or medical&#xD;
+             devices (cardiac pacemaker, deep cerebral stimulator, drug infusion pump, cochlear&#xD;
+             implant, vagus nerve stimulator).&#xD;
+&#xD;
+          -  Direct researcher relatives or personnel directly involved in the study.&#xD;
+&#xD;
+          -  Acute suicide risk measured through the Montgomery Asberg depression rating scale&#xD;
+             (MADRS) &gt;4 points or positivity of the 4th or 5th item of The Columbia Suicide&#xD;
+             Severity Rating Scale (C-SSRS).&#xD;
+&#xD;
+          -  Depression resistant to treatment with &gt;4 well indicated drugs during the current&#xD;
+             episode.&#xD;
+&#xD;
+          -  Bipolar disorder history or current mania symptoms.&#xD;
+&#xD;
+          -  Treatment with electroshock therapy concomitantly and during the last 12 months.&#xD;
+&#xD;
+          -  Other relevant psychiatric disorders according to the DSM 5 (except generalized&#xD;
+             anxiety disorder, specific phobia or separation anxiety disorder).&#xD;
+&#xD;
+          -  Previous treatment with tDCS for a different disease to the major depressive disorder.&#xD;
+&#xD;
+          -  Intellectual development disorder previously documented or clinical evaluation&#xD;
+             fulfilling the CIE-F79 criteria.&#xD;
+&#xD;
+          -  Due to the fact that treatment with tDCS has counter-indications, will be excluded:&#xD;
+             those with history of non provoked seizures, convulsive disorders, history of febrile&#xD;
+             seizure, family history of epilepsy or brain tumor, pregnancy.&#xD;
+&#xD;
+          -  Counter-indication or history of adverse reactions from mild to severe to fluoxetine.&#xD;
+&#xD;
+        Elimination criteria:&#xD;
+&#xD;
+          -  Patients that do not complete the neuropsychological assessment tests.&#xD;
+&#xD;
+          -  Interruption of the intervention of less than 50% of what was scheduled.&#xD;
+&#xD;
+          -  Onset of active suicidal ideation.&#xD;
+&#xD;
+          -  Active psychosis.&#xD;
+&#xD;
+          -  Start of emerging mania treatment.&#xD;
+&#xD;
+          -  Pregnancy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>10 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Daniel San Juan, M.D.</last_name>
+    <phone>(55)56063822</phone>
+    <phone_ext>2527</phone_ext>
+    <email>pegaso31@yahoo.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Angel R Chow, M.D</last_name>
+    <phone>(55)56063822</phone>
+    <phone_ext>1033</phone_ext>
+    <email>aaruizchow@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Neurología y Neurocirugía</name>
+      <address>
+        <city>Mexico City</city>
+        <state>Ciudad De México</state>
+        <zip>14269</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel San-Juan, MD</last_name>
+      <phone>525556063822</phone>
+      <phone_ext>2527</phone_ext>
+      <email>pegaso31@yahoo.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Angel R. Chow, MD</last_name>
+      <phone>525556063822</phone>
+      <phone_ext>1033</phone_ext>
+      <email>aaruizchow@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Daniel San-Juan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <reference>
+    <citation>(Editors) Medina Mora, M.E. &amp; Sarti Gutierrez, E.J. &amp; Real Quintanar, T. (2015) 'La depresión y otros trastornos psiquiátricos. Documento de postura.', Colección, p. 410. Available at: nfo@cempro.org.mx (reproducci? prohibida) (Accessed: 11 May 2020).</citation>
+  </reference>
+  <reference>
+    <citation>Abdallah CG, Sanacora G, Duman RS, Krystal JH. The neurobiology of depression, ketamine and rapid-acting antidepressants: Is it glutamate inhibition or activation? Pharmacol Ther. 2018 Oct;190:148-158. doi: 10.1016/j.pharmthera.2018.05.010. Epub 2018 May 25. Review.</citation>
+    <PMID>29803629</PMID>
+  </reference>
+  <reference>
+    <citation>Acosta-Hernández, M. E. et al. (2011) 'Depresión en la infancia y adolescencia: Enfermedad de nuestro tiempo', Archivos de Neurociencias, 16(1), pp. 20-25.</citation>
+  </reference>
+  <reference>
+    <citation>Al-Halabí S, Sáiz PA, Burón P, Garrido M, Benabarre A, Jiménez E, Cervilla J, Navarrete MI, Díaz-Mesa EM, García-Álvarez L, Muñiz J, Posner K, Oquendo MA, García-Portilla MP, Bobes J. Validation of a Spanish version of the Columbia-Suicide Severity Rating Scale (C-SSRS). Rev Psiquiatr Salud Ment. 2016 Jul-Sep;9(3):134-42. doi: 10.1016/j.rpsm.2016.02.002. Epub 2016 May 2. English, Spanish.</citation>
+    <PMID>27158026</PMID>
+  </reference>
+  <reference>
+    <citation>Alon, G., Syron, S. C. and Smith, G. V. (1998) 'Is Transcranial Electrical Stimulation (TCES) a Safe Intervention for Children with Cerebral Palsy?', Neurorehabilitation and Neural Repair, 12(2), pp. 65-71. doi: 10.1177/154596839801200204</citation>
+  </reference>
+  <reference>
+    <citation>Alonzo A, Fong J, Ball N, Martin D, Chand N, Loo C. Pilot trial of home-administered transcranial direct current stimulation for the treatment of depression. J Affect Disord. 2019 Jun 1;252:475-483. doi: 10.1016/j.jad.2019.04.041. Epub 2019 Apr 10.</citation>
+    <PMID>31005790</PMID>
+  </reference>
+  <reference>
+    <citation>Ardolino G, Bossi B, Barbieri S, Priori A. Non-synaptic mechanisms underlie the after-effects of cathodal transcutaneous direct current stimulation of the human brain. J Physiol. 2005 Oct 15;568(Pt 2):653-63. Epub 2005 Jul 21.</citation>
+    <PMID>16037080</PMID>
+  </reference>
+  <reference>
+    <citation>Bandeira ID, Guimarães RS, Jagersbacher JG, Barretto TL, de Jesus-Silva JR, Santos SN, Argollo N, Lucena R. Transcranial Direct Current Stimulation in Children and Adolescents With Attention-Deficit/Hyperactivity Disorder (ADHD): A Pilot Study. J Child Neurol. 2016 Jun;31(7):918-24. doi: 10.1177/0883073816630083. Epub 2016 Feb 15.</citation>
+    <PMID>26879095</PMID>
+  </reference>
+  <reference>
+    <citation>Batsikadze G, Moliadze V, Paulus W, Kuo MF, Nitsche MA. Partially non-linear stimulation intensity-dependent effects of direct current stimulation on motor cortex excitability in humans. J Physiol. 2013 Apr 1;591(7):1987-2000. doi: 10.1113/jphysiol.2012.249730. Epub 2013 Jan 21.</citation>
+    <PMID>23339180</PMID>
+  </reference>
+  <reference>
+    <citation>Belleau EL, Treadway MT, Pizzagalli DA. The Impact of Stress and Major Depressive Disorder on Hippocampal and Medial Prefrontal Cortex Morphology. Biol Psychiatry. 2019 Mar 15;85(6):443-453. doi: 10.1016/j.biopsych.2018.09.031. Epub 2018 Oct 10. Review.</citation>
+    <PMID>30470559</PMID>
+  </reference>
+  <reference>
+    <citation>Bernaras E, Jaureguizar J, Garaigordobil M. Child and Adolescent Depression: A Review of Theories, Evaluation Instruments, Prevention Programs, and Treatments. Front Psychol. 2019 Mar 20;10:543. doi: 10.3389/fpsyg.2019.00543. eCollection 2019. Review.</citation>
+    <PMID>30949092</PMID>
+  </reference>
+  <reference>
+    <citation>Bikson M, Esmaeilpour Z, Adair D, Kronberg G, Tyler WJ, Antal A, Datta A, Sabel BA, Nitsche MA, Loo C, Edwards D, Ekhtiari H, Knotkova H, Woods AJ, Hampstead BM, Badran BW, Peterchev AV. Transcranial electrical stimulation nomenclature. Brain Stimul. 2019 Nov - Dec;12(6):1349-1366. doi: 10.1016/j.brs.2019.07.010. Epub 2019 Jul 17. Review.</citation>
+    <PMID>31358456</PMID>
+  </reference>
+  <reference>
+    <citation>Birmaher B, Ryan ND, Williamson DE, Brent DA, Kaufman J, Dahl RE, Perel J, Nelson B. Childhood and adolescent depression: a review of the past 10 years. Part I. J Am Acad Child Adolesc Psychiatry. 1996 Nov;35(11):1427-39. Review.</citation>
+    <PMID>8936909</PMID>
+  </reference>
+  <reference>
+    <citation>Bobo WV, Shelton RC. Fluoxetine and olanzapine combination therapy in treatment-resistant major depression: review of efficacy and safety data. Expert Opin Pharmacother. 2009 Sep;10(13):2145-59. doi: 10.1517/14656560903130609. Review.</citation>
+    <PMID>19640209</PMID>
+  </reference>
+  <reference>
+    <citation>Bora E, Fornito A, Pantelis C, Yücel M. Gray matter abnormalities in Major Depressive Disorder: a meta-analysis of voxel based morphometry studies. J Affect Disord. 2012 Apr;138(1-2):9-18. doi: 10.1016/j.jad.2011.03.049. Epub 2011 Apr 20.</citation>
+    <PMID>21511342</PMID>
+  </reference>
+  <reference>
+    <citation>Bora E, Harrison BJ, Davey CG, Yücel M, Pantelis C. Meta-analysis of volumetric abnormalities in cortico-striatal-pallidal-thalamic circuits in major depressive disorder. Psychol Med. 2012 Apr;42(4):671-81. doi: 10.1017/S0033291711001668. Epub 2011 Sep 13. Review.</citation>
+    <PMID>21910935</PMID>
+  </reference>
+  <reference>
+    <citation>Brunoni AR, Nitsche MA, Bolognini N, Bikson M, Wagner T, Merabet L, Edwards DJ, Valero-Cabre A, Rotenberg A, Pascual-Leone A, Ferrucci R, Priori A, Boggio PS, Fregni F. Clinical research with transcranial direct current stimulation (tDCS): challenges and future directions. Brain Stimul. 2012 Jul;5(3):175-195. doi: 10.1016/j.brs.2011.03.002. Epub 2011 Apr 1. Review.</citation>
+    <PMID>22037126</PMID>
+  </reference>
+  <reference>
+    <citation>Brunoni AR, Kemp AH, Shiozawa P, Cordeiro Q, Valiengo LC, Goulart AC, Coprerski B, Lotufo PA, Brunoni D, Perez AB, Fregni F, Benseñor IM. Impact of 5-HTTLPR and BDNF polymorphisms on response to sertraline versus transcranial direct current stimulation: implications for the serotonergic system. Eur Neuropsychopharmacol. 2013 Nov;23(11):1530-40. doi: 10.1016/j.euroneuro.2013.03.009. Epub 2013 Apr 21.</citation>
+    <PMID>23615118</PMID>
+  </reference>
+  <reference>
+    <citation>Brunoni AR, Vanderhasselt MA, Boggio PS, Fregni F, Dantas EM, Mill JG, Lotufo PA, Benseñor IM. Polarity- and valence-dependent effects of prefrontal transcranial direct current stimulation on heart rate variability and salivary cortisol. Psychoneuroendocrinology. 2013 Jan;38(1):58-66. doi: 10.1016/j.psyneuen.2012.04.020. Epub 2012 May 22.</citation>
+    <PMID>22626867</PMID>
+  </reference>
+  <reference>
+    <citation>Brunoni AR, Valiengo L, Baccaro A, Zanão TA, de Oliveira JF, Goulart A, Boggio PS, Lotufo PA, Benseñor IM, Fregni F. The sertraline vs. electrical current therapy for treating depression clinical study: results from a factorial, randomized, controlled trial. JAMA Psychiatry. 2013 Apr;70(4):383-91. doi: 10.1001/2013.jamapsychiatry.32.</citation>
+    <PMID>23389323</PMID>
+  </reference>
+  <reference>
+    <citation>Brunoni AR, Moffa AH, Fregni F, Palm U, Padberg F, Blumberger DM, Daskalakis ZJ, Bennabi D, Haffen E, Alonzo A, Loo CK. Transcranial direct current stimulation for acute major depressive episodes: meta-analysis of individual patient data. Br J Psychiatry. 2016 Jun;208(6):522-31. doi: 10.1192/bjp.bp.115.164715. Epub 2016 Apr 7. Review.</citation>
+    <PMID>27056623</PMID>
+  </reference>
+  <reference>
+    <citation>Brunoni AR, Moffa AH, Sampaio-Junior B, Borrione L, Moreno ML, Fernandes RA, Veronezi BP, Nogueira BS, Aparicio LVM, Razza LB, Chamorro R, Tort LC, Fraguas R, Lotufo PA, Gattaz WF, Fregni F, Benseñor IM; ELECT-TDCS Investigators. Trial of Electrical Direct-Current Therapy versus Escitalopram for Depression. N Engl J Med. 2017 Jun 29;376(26):2523-2533. doi: 10.1056/NEJMoa1612999.</citation>
+    <PMID>28657871</PMID>
+  </reference>
+  <reference>
+    <citation>Burt T, Lisanby SH, Sackeim HA. Neuropsychiatric applications of transcranial magnetic stimulation: a meta analysis. Int J Neuropsychopharmacol. 2002 Mar;5(1):73-103. doi: 10.1017/S1461145702002791.</citation>
+    <PMID>12057034</PMID>
+  </reference>
+  <reference>
+    <citation>Canals J, Marti-Henneberg C, Fernández-Ballart J, Domènech E. A longitudinal study of depression in an urban Spanish pubertal population. Eur Child Adolesc Psychiatry. 1995 Apr;4(2):102-11.</citation>
+    <PMID>7796248</PMID>
+  </reference>
+  <reference>
+    <citation>CDC COVID-19 Response Team (2020) 'Morbidity and mortality weekly report (mmwr) - Coronavirus Disease 2019 in Children - United States, February 12-April 2, 2020', Morbidity and Mortality Weekly Report, 69, pp. 2-6. Available at: https://www.cdc.gov/coronavirus/2019-ncov/downloads/pui-form.pdf.</citation>
+  </reference>
+  <reference>
+    <citation>CDI. Inventario de Depresión Infantil (no date). Available at: http://web.teaediciones.com/CDI--INVENTARIO-DE-DEPRESION-INFANTIL.aspx (Accessed: 13 September 2020).</citation>
+  </reference>
+  <reference>
+    <citation>Chen CH, Ridler K, Suckling J, Williams S, Fu CH, Merlo-Pich E, Bullmore E. Brain imaging correlates of depressive symptom severity and predictors of symptom improvement after antidepressant treatment. Biol Psychiatry. 2007 Sep 1;62(5):407-14. Epub 2007 Jan 9.</citation>
+    <PMID>17217921</PMID>
+  </reference>
+  <reference>
+    <citation>Chesney E, Goodwin GM, Fazel S. Risks of all-cause and suicide mortality in mental disorders: a meta-review. World Psychiatry. 2014 Jun;13(2):153-60. doi: 10.1002/wps.20128.</citation>
+    <PMID>24890068</PMID>
+  </reference>
+  <reference>
+    <citation>Chhatbar PY, Kautz SA, Takacs I, Rowland NC, Revuelta GJ, George MS, Bikson M, Feng W. Evidence of transcranial direct current stimulation-generated electric fields at subthalamic level in human brain in vivo. Brain Stimul. 2018 Jul - Aug;11(4):727-733. doi: 10.1016/j.brs.2018.03.006. Epub 2018 Mar 13.</citation>
+    <PMID>29576498</PMID>
+  </reference>
+  <reference>
+    <citation>Cofré, F. et al. (2017) 'Guía Clínica', Rev Chil Obstet Ginecol, 82(2), pp. 83-123. Available at: http://www.revistasochog.cl/files/pdf/GC_010.pdf (Accessed: 24 April 2020).</citation>
+  </reference>
+  <reference>
+    <citation>Collange Grecco LA, de Almeida Carvalho Duarte N, Mendonça ME, Galli M, Fregni F, Oliveira CS. Effects of anodal transcranial direct current stimulation combined with virtual reality for improving gait in children with spastic diparetic cerebral palsy: a pilot, randomized, controlled, double-blind, clinical trial. Clin Rehabil. 2015 Dec;29(12):1212-23. doi: 10.1177/0269215514566997. Epub 2015 Jan 20.</citation>
+    <PMID>25604912</PMID>
+  </reference>
+  <reference>
+    <citation>Corfield EC, Yang Y, Martin NG, Nyholt DR. A continuum of genetic liability for minor and major depression. Transl Psychiatry. 2017 May 16;7(5):e1131. doi: 10.1038/tp.2017.99.</citation>
+    <PMID>28509901</PMID>
+  </reference>
+  <reference>
+    <citation>Cosmo C, Baptista AF, de Araújo AN, do Rosário RS, Miranda JG, Montoya P, de Sena EP. A Randomized, Double-Blind, Sham-Controlled Trial of Transcranial Direct Current Stimulation in Attention-Deficit/Hyperactivity Disorder. PLoS One. 2015 Aug 12;10(8):e0135371. doi: 10.1371/journal.pone.0135371. eCollection 2015.</citation>
+    <PMID>26267861</PMID>
+  </reference>
+  <reference>
+    <citation>Costanzo F, Menghini D, Casula L, Amendola A, Mazzone L, Valeri G, Vicari S. Transcranial Direct Current Stimulation Treatment in an Adolescent with Autism and Drug-Resistant Catatonia. Brain Stimul. 2015 Nov-Dec;8(6):1233-5. doi: 10.1016/j.brs.2015.08.009. Epub 2015 Aug 24.</citation>
+    <PMID>26590479</PMID>
+  </reference>
+  <reference>
+    <citation>Costanzo F, Varuzza C, Rossi S, Sdoia S, Varvara P, Oliveri M, Giacomo K, Vicari S, Menghini D. Evidence for reading improvement following tDCS treatment in children and adolescents with Dyslexia. Restor Neurol Neurosci. 2016;34(2):215-26. doi: 10.3233/RNN-150561.</citation>
+    <PMID>26890096</PMID>
+  </reference>
+  <reference>
+    <citation>Costanzo F, Varuzza C, Rossi S, Sdoia S, Varvara P, Oliveri M, Koch G, Vicari S, Menghini D. Reading changes in children and adolescents with dyslexia after transcranial direct current stimulation. Neuroreport. 2016 Mar 23;27(5):295-300. doi: 10.1097/WNR.0000000000000536.</citation>
+    <PMID>26848997</PMID>
+  </reference>
+  <reference>
+    <citation>Costello EJ, Mustillo S, Erkanli A, Keeler G, Angold A. Prevalence and development of psychiatric disorders in childhood and adolescence. Arch Gen Psychiatry. 2003 Aug;60(8):837-44.</citation>
+    <PMID>12912767</PMID>
+  </reference>
+  <reference>
+    <citation>Depression and Other Common Mental Disorders: Global Health Estimates. Geneva: World Health Organization; 2017. Licence: CC BY-NC-SA 3.0 IGO (2017).</citation>
+  </reference>
+  <reference>
+    <citation>Dichter GS, Gibbs D, Smoski MJ. A systematic review of relations between resting-state functional-MRI and treatment response in major depressive disorder. J Affect Disord. 2015 Feb 1;172:8-17. doi: 10.1016/j.jad.2014.09.028. Epub 2014 Sep 26. Review.</citation>
+    <PMID>25451389</PMID>
+  </reference>
+  <reference>
+    <citation>Ditye T, Jacobson L, Walsh V, Lavidor M. Modulating behavioral inhibition by tDCS combined with cognitive training. Exp Brain Res. 2012 Jun;219(3):363-8. doi: 10.1007/s00221-012-3098-4. Epub 2012 Apr 25.</citation>
+    <PMID>22532165</PMID>
+  </reference>
+  <reference>
+    <citation>Duman RS, Aghajanian GK, Sanacora G, Krystal JH. Synaptic plasticity and depression: new insights from stress and rapid-acting antidepressants. Nat Med. 2016 Mar;22(3):238-49. doi: 10.1038/nm.4050.</citation>
+    <PMID>26937618</PMID>
+  </reference>
+  <reference>
+    <citation>Duman RS, Sanacora G, Krystal JH. Altered Connectivity in Depression: GABA and Glutamate Neurotransmitter Deficits and Reversal by Novel Treatments. Neuron. 2019 Apr 3;102(1):75-90. doi: 10.1016/j.neuron.2019.03.013. Review.</citation>
+    <PMID>30946828</PMID>
+  </reference>
+  <reference>
+    <citation>East, M. and Surveillance, G. (2020) 'Home care for patients with COVID-19 presenting with mild symptoms and management of their contacts', (March), pp. 17-20. Available at: https://www.who.int/publications-detail/home-care-for-patients-with-suspected-novel-coronavirus-(ncov)-infection-presenting-with-mild-symptoms-and-management-of-contacts (Accessed: 3 April 2020).</citation>
+  </reference>
+  <reference>
+    <citation>Esmaeilpour Z, Shereen AD, Ghobadi-Azbari P, Datta A, Woods AJ, Ironside M, O'Shea J, Kirk U, Bikson M, Ekhtiari H. Methodology for tDCS integration with fMRI. Hum Brain Mapp. 2020 May;41(7):1950-1967. doi: 10.1002/hbm.24908. Epub 2019 Dec 24. Review.</citation>
+    <PMID>31872943</PMID>
+  </reference>
+  <reference>
+    <citation>'ESTADÍSTICAS A PROPÓSITO DEL DÍA MUNDIAL PARA LA PREVENCIÓN DEL SUICIDIO (10 DE SEPTIEMBRE)' DATOS NACIONALES (no date). Available at: http://www.who.int/mediacentre/news/releases/2004/pr61/es/, (Accessed: 20 June 2020).</citation>
+  </reference>
+  <reference>
+    <citation>Fang, Y. (2019) Depressive Disorders: Mechanisms, Measurement and Management, Depressive Disorders: Mechanisms, Measurement and Management. doi: 10.1007/978-981-32-9271-0.</citation>
+  </reference>
+  <reference>
+    <citation>Faria P, Fregni F, Sebastião F, Dias AI, Leal A. Feasibility of focal transcranial DC polarization with simultaneous EEG recording: preliminary assessment in healthy subjects and human epilepsy. Epilepsy Behav. 2012 Nov;25(3):417-25. doi: 10.1016/j.yebeh.2012.06.027. Epub 2012 Nov 1.</citation>
+    <PMID>23123281</PMID>
+  </reference>
+  <reference>
+    <citation>FDA greenlights Neuroelectrics to help patients with Major Depression at home amidst Covid-19 restrictions - Neuroelectrics Blog - Latest news about EEG &amp; Brain Stimulation (no date). Available at:https://www.neuroelectrics.com/blog/2020/05/15/fda-greenlights-neuroelectrics-to-treat-patients-with-major-depression-at-home/ (Accessed: 8 July 2020).</citation>
+  </reference>
+  <reference>
+    <citation>Fregni F, Boggio PS, Nitsche M, Bermpohl F, Antal A, Feredoes E, Marcolin MA, Rigonatti SP, Silva MT, Paulus W, Pascual-Leone A. Anodal transcranial direct current stimulation of prefrontal cortex enhances working memory. Exp Brain Res. 2005 Sep;166(1):23-30. Epub 2005 Jul 6.</citation>
+    <PMID>15999258</PMID>
+  </reference>
+  <reference>
+    <citation>Fregni F, Boggio PS, Mansur CG, Wagner T, Ferreira MJ, Lima MC, Rigonatti SP, Marcolin MA, Freedman SD, Nitsche MA, Pascual-Leone A. Transcranial direct current stimulation of the unaffected hemisphere in stroke patients. Neuroreport. 2005 Sep 28;16(14):1551-5.</citation>
+    <PMID>16148743</PMID>
+  </reference>
+  <reference>
+    <citation>Fregni F, Boggio PS, Santos MC, Lima M, Vieira AL, Rigonatti SP, Silva MT, Barbosa ER, Nitsche MA, Pascual-Leone A. Noninvasive cortical stimulation with transcranial direct current stimulation in Parkinson's disease. Mov Disord. 2006 Oct;21(10):1693-702.</citation>
+    <PMID>16817194</PMID>
+  </reference>
+  <reference>
+    <citation>Fregni F, Boggio PS, Nitsche MA, Marcolin MA, Rigonatti SP, Pascual-Leone A. Treatment of major depression with transcranial direct current stimulation. Bipolar Disord. 2006 Apr;8(2):203-4.</citation>
+    <PMID>16542193</PMID>
+  </reference>
+  <reference>
+    <citation>Fregni F, El-Hagrassy MM, Pacheco-Barrios K, Carvalho S, Leite J, Simis M, Brunelin J, Nakamura-Palacios EM, Marangolo P, Venkatasubramanian G, San-Juan D, Caumo W, Bikson M, Brunoni AR; Neuromodulation Center Working Group. Evidence-based guidelines and secondary meta-analysis for the use of transcranial direct current stimulation (tDCS) in neurological and psychiatric disorders. Int J Neuropsychopharmacol. 2020 Jul 26. pii: pyaa051. doi: 10.1093/ijnp/pyaa051. [Epub ahead of print]</citation>
+    <PMID>32710772</PMID>
+  </reference>
+  <reference>
+    <citation>Fritsch B, Reis J, Martinowich K, Schambra HM, Ji Y, Cohen LG, Lu B. Direct current stimulation promotes BDNF-dependent synaptic plasticity: potential implications for motor learning. Neuron. 2010 Apr 29;66(2):198-204. doi: 10.1016/j.neuron.2010.03.035.</citation>
+    <PMID>20434997</PMID>
+  </reference>
+  <reference>
+    <citation>Fu CH, Steiner H, Costafreda SG. Predictive neural biomarkers of clinical response in depression: a meta-analysis of functional and structural neuroimaging studies of pharmacological and psychological therapies. Neurobiol Dis. 2013 Apr;52:75-83. doi: 10.1016/j.nbd.2012.05.008. Epub 2012 Jun 1.</citation>
+    <PMID>22659303</PMID>
+  </reference>
+  <reference>
+    <citation>Gallegos J, Langley A, Villegas D. Anxiety, Depression, and Coping Skills Among Mexican School Children: A Comparison of Students With and Without Learning Disabilities. Learn Disabil Q. 2012 Feb 1;35(1). doi: 10.1177/0731948711428772.</citation>
+    <PMID>24223470</PMID>
+  </reference>
+  <reference>
+    <citation>Golberstein E, Gonzales G, Meara E. How do economic downturns affect the mental health of children? Evidence from the National Health Interview Survey. Health Econ. 2019 Aug;28(8):955-970. doi: 10.1002/hec.3885. Epub 2019 Jun 4.</citation>
+    <PMID>31165566</PMID>
+  </reference>
+  <reference>
+    <citation>Golberstein E, Wen H, Miller BF. Coronavirus Disease 2019 (COVID-19) and Mental Health for Children and Adolescents. JAMA Pediatr. 2020 Sep 1;174(9):819-820. doi: 10.1001/jamapediatrics.2020.1456.</citation>
+    <PMID>32286618</PMID>
+  </reference>
+  <reference>
+    <citation>Coronaviridae Study Group of the International Committee on Taxonomy of Viruses. The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nat Microbiol. 2020 Apr;5(4):536-544. doi: 10.1038/s41564-020-0695-z. Epub 2020 Mar 2.</citation>
+    <PMID>32123347</PMID>
+  </reference>
+  <reference>
+    <citation>Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28.</citation>
+    <PMID>32109013</PMID>
+  </reference>
+  <reference>
+    <citation>Hamani C, Mayberg H, Stone S, Laxton A, Haber S, Lozano AM. The subcallosal cingulate gyrus in the context of major depression. Biol Psychiatry. 2011 Feb 15;69(4):301-8. doi: 10.1016/j.biopsych.2010.09.034. Epub 2010 Dec 8. Review.</citation>
+    <PMID>21145043</PMID>
+  </reference>
+  <reference>
+    <citation>Hameed MQ, Dhamne SC, Gersner R, Kaye HL, Oberman LM, Pascual-Leone A, Rotenberg A. Transcranial Magnetic and Direct Current Stimulation in Children. Curr Neurol Neurosci Rep. 2017 Feb;17(2):11. doi: 10.1007/s11910-017-0719-0. Review.</citation>
+    <PMID>28229395</PMID>
+  </reference>
+  <reference>
+    <citation>Hasler G. Pathophysiology of depression: do we have any solid evidence of interest to clinicians? World Psychiatry. 2010 Oct;9(3):155-61.</citation>
+    <PMID>20975857</PMID>
+  </reference>
+  <reference>
+    <citation>Hedden, S. L. et al. (no date) Key Substance Use and Mental Health Indicators in the United States: Results from the 2015 National Survey on Drug Use and Health. Available at: http://www.samhsa.gov/data/ (Accessed: 26 April 2020).</citation>
+  </reference>
+  <reference>
+    <citation>Herwig U, Padberg F, Unger J, Spitzer M, Schönfeldt-Lecuona C. Transcranial magnetic stimulation in therapy studies: examination of the reliability of &quot;standard&quot; coil positioning by neuronavigation. Biol Psychiatry. 2001 Jul 1;50(1):58-61.</citation>
+    <PMID>11457424</PMID>
+  </reference>
+  <reference>
+    <citation>Hidalgo Vicario, M. H. and Rodríguez Hernández, P. R. (2013) DSM-5. manual diagnóstico y estadístico de los trastornos mentales. últimas novedades, Pediatria Integral.</citation>
+  </reference>
+  <reference>
+    <citation>Horvath, J. C., Najib, U. and Press, D. (2014) 'Transcranial magnetic stimulation (TMS) clinical applications: Therapeutics', Neuromethods. Humana Press Inc., 89, pp. 235-257. doi: 10.1007/978-1-4939-0879-0_12.</citation>
+  </reference>
+  <reference>
+    <citation>Huang Y, Liu AA, Lafon B, Friedman D, Dayan M, Wang X, Bikson M, Doyle WK, Devinsky O, Parra LC. Measurements and models of electric fields in the in vivo human brain during transcranial electric stimulation. Elife. 2017 Feb 7;6. pii: e18834. doi: 10.7554/eLife.18834. Erratum in: Elife. 2018 Feb 15;7:.</citation>
+    <PMID>28169833</PMID>
+  </reference>
+  <reference>
+    <citation>Huang Y, Parra LC. Can transcranial electric stimulation with multiple electrodes reach deep targets? Brain Stimul. 2019 Jan - Feb;12(1):30-40. doi: 10.1016/j.brs.2018.09.010. Epub 2018 Sep 26. Review.</citation>
+    <PMID>30297323</PMID>
+  </reference>
+  <reference>
+    <citation>Ilyukhina VA, Kozhushko NY, Matveev YK, Ponomareva EA, Chernysheva EM, Shaptilei MA. Transcranial micropolarization in the combined therapy of speech and general psychomotor retardation in children of late preschool age. Neurosci Behav Physiol. 2005 Nov;35(9):969-76.</citation>
+    <PMID>16270180</PMID>
+  </reference>
+  <reference>
+    <citation>INEGI COMUNICADO DE PRENSA NUM. 455/19 10 DE SEPTIEMBRE DE 2019 PÁGINA 1/9 - Buscar con Google (no date). Available at: https://www.google.com/search?sxsrf=ALeKk01JBW760RYZRSJRSP54SHpa-UGe8Q%3A1592707941359&amp;ei=ZcvuXp63FdiFtQbCzo_oAg&amp;q=INEGI+COMUNICADO+DE+PRENSA+NUM.+455%2F19+10+DE+SEPTIEMBRE+DE+2019+PÁGINA+1%2F9&amp;oq=INEGI+COMUNICADO+DE+PRENSA+NUM.+455%2F19+10+DE+SEPTIEMBRE+DE+2019+PÁGINA+1%2F9&amp;gs_lcp=CgZwc3ktYWIQAzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQR1AAWABgnBhoAHABeACAAQCIAQCSAQCYAQCqAQdnd3Mtd2l6&amp;sclient=psy-ab&amp;ved=0ahUKEwje_cy485HqAhXYQs0KHULnAy0Q4dUDCAw&amp;uact=5 (Accessed: 20 June 2020).</citation>
+  </reference>
+  <reference>
+    <citation>Marcela Cárdenas Miriam Feria Lino Palacios Francisco de la Peña GUÍAS, E. et al. (2010) CLÍNICAS PARA LA ATENCIÓN DE TRASTORNOS MENTALES Guía clínica para los trastornos de ansiedad en niños y adolescentes, Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz. Available at: https://s3.amazonaws.com/academia.edu.documents/40579737/trastornos_de_ansiedad.pdf?AWSAc cessKeyId=AKIAIWOWYYGZ2Y53UL3A&amp;Expires=1524569155&amp;Signature=VyM4VFWuFjyCkOY4Ml 7rnE2WN10%3D&amp;response-content-disposition=inline%3B filename%3DTrastornos_de_ansiedad. (Accessed: 14 April 2020).</citation>
+  </reference>
+  <reference>
+    <citation>Rey, Joseph M; Bella-Awusah, Tolulope T; Liu, J. (2017) 'Depresión E.1 Manual de Salud Mental Infantil y Adolescente de la IACAPAP de la Sociedad Asiática de Psiquiatría Infantil y Adolescente y Profesionales Afines Conflictos de interés: No se declaran', pp. 1-41.</citation>
+  </reference>
+  <reference>
+    <citation>Tamayo, J. M. et al. (2011) Definición e impacto de las depresiones resistentes/refractarias al tratamiento, Actualización por temas Salud Mental.</citation>
+  </reference>
+  <reference>
+    <citation>Tochoy, P. P. and Chaskel, R. (no date) 'Depresión en niños y adolescentes', pp. 30-38.</citation>
+  </reference>
+  <reference>
+    <citation>Ulloa-Flores, R. E. and De La Peña-Olvera, F. (2011) Tratamiento multimodal de niños y adolescentes con depresión, Artículo original Salud Mental.</citation>
+  </reference>
+  <reference>
+    <citation>World Health Organization (2020a) Situation Report-75 HIGHLIGHTS. Available at: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200404-sitrep-75-covid- 19.pdf?sfvrsn=99251b2b_2 (Accessed: 4 April 2020).</citation>
+  </reference>
+  <reference>
+    <citation>World Health Organization (2020b) WHO Director-General ' s remarks at the media briefing on 2019-nCoV on 11 February. Available at: https://www.who.int/dg/speeches/detail/who-director-general- s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020 (Accessed: 2 April 2020).</citation>
+  </reference>
+  <reference>
+    <citation>World Health Organization, W. (2020a) Situation Report-83 HIGHLIGHTS. Available at: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200412-sitrep-83-covid- 19.pdf?sfvrsn=697ce98d_4 (Accessed: 12 April 2020).</citation>
+  </reference>
+  <reference>
+    <citation>World Health Organization, W. (2020b) WHO Director-General's opening remarks at the media briefing on COVID-19 - 11 March 2020, WHO Director General's speeches. Available at: https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media- briefing-on-covid-19---3-march-2020 (Accessed: 2 April 2020).</citation>
+  </reference>
+  <results_reference>
+    <citation>Jiang N, Wei J, Li G, Wei B, Zhu FF, Hu Y. Effect of dry-electrode-based transcranial direct current stimulation on chronic low back pain and low back muscle activities: A double-blind sham-controlled study. Restor Neurol Neurosci. 2020;38(1):41-54. doi: 10.3233/RNN-190922.</citation>
+    <PMID>31683491</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kontoangelos K, Economou M, Papageorgiou C. Mental Health Effects of COVID-19 Pandemia: A Review of Clinical and Psychological Traits. Psychiatry Investig. 2020 Jun;17(6):491-505. doi: 10.30773/pi.2020.0161. Epub 2020 Jun 15.</citation>
+    <PMID>32570296</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kuo MF, Paulus W, Nitsche MA. Boosting focally-induced brain plasticity by dopamine. Cereb Cortex. 2008 Mar;18(3):648-51. Epub 2007 Jun 24.</citation>
+    <PMID>17591596</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kupfer DJ, Frank E, Phillips ML. Major depressive disorder: new clinical, neurobiological, and treatment perspectives. Lancet. 2012 Mar 17;379(9820):1045-55. doi: 10.1016/S0140-6736(11)60602-8. Epub 2011 Dec 19. Review.</citation>
+    <PMID>22189047</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lefaucheur JP, Antal A, Ayache SS, Benninger DH, Brunelin J, Cogiamanian F, Cotelli M, De Ridder D, Ferrucci R, Langguth B, Marangolo P, Mylius V, Nitsche MA, Padberg F, Palm U, Poulet E, Priori A, Rossi S, Schecklmann M, Vanneste S, Ziemann U, Garcia-Larrea L, Paulus W. Evidence-based guidelines on the therapeutic use of transcranial direct current stimulation (tDCS). Clin Neurophysiol. 2017 Jan;128(1):56-92. doi: 10.1016/j.clinph.2016.10.087. Epub 2016 Oct 29. Review.</citation>
+    <PMID>27866120</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lewinsohn PM, Rohde P, Seeley JR. Major depressive disorder in older adolescents: prevalence, risk factors, and clinical implications. Clin Psychol Rev. 1998 Nov;18(7):765-94. Review.</citation>
+    <PMID>9827321</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Liebetanz D, Nitsche MA, Tergau F, Paulus W. Pharmacological approach to the mechanisms of transcranial DC-stimulation-induced after-effects of human motor cortex excitability. Brain. 2002 Oct;125(Pt 10):2238-47.</citation>
+    <PMID>12244081</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Liebetanz D, Koch R, Mayenfels S, König F, Paulus W, Nitsche MA. Safety limits of cathodal transcranial direct current stimulation in rats. Clin Neurophysiol. 2009 Jun;120(6):1161-7. doi: 10.1016/j.clinph.2009.01.022. Epub 2009 Apr 28.</citation>
+    <PMID>19403329</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Loo CK, Sachdev P, Martin D, Pigot M, Alonzo A, Malhi GS, Lagopoulos J, Mitchell P. A double-blind, sham-controlled trial of transcranial direct current stimulation for the treatment of depression. Int J Neuropsychopharmacol. 2010 Feb;13(1):61-9. doi: 10.1017/S1461145709990411. Epub 2009 Aug 12.</citation>
+    <PMID>19671217</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Loo CK, Alonzo A, Martin D, Mitchell PB, Galvez V, Sachdev P. Transcranial direct current stimulation for depression: 3-week, randomised, sham-controlled trial. Br J Psychiatry. 2012 Jan;200(1):52-9. doi: 10.1192/bjp.bp.111.097634.</citation>
+    <PMID>22215866</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Loo CK, Husain MM, McDonald WM, Aaronson S, O'Reardon JP, Alonzo A, Weickert CS, Martin DM, McClintock SM, Mohan A, Lisanby SH; International Consortium of Research in tDCS (ICRT). International randomized-controlled trial of transcranial Direct Current Stimulation in depression. Brain Stimul. 2018 Jan - Feb;11(1):125-133. doi: 10.1016/j.brs.2017.10.011. Epub 2017 Oct 27.</citation>
+    <PMID>29111077</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Löscher W, Cole AJ, McLean MJ. Commentary: physical approaches for the treatment of epilepsy: electrical and magnetic stimulation and cooling. Neurotherapeutics. 2009 Apr;6(2):258-62. doi: 10.1016/j.nurt.2009.01.014. Review.</citation>
+    <PMID>19332318</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Maceira-Elvira P, Popa T, Schmid AC, Hummel FC. Feasibility of home-based, self-applied transcranial direct current stimulation to enhance motor learning in middle-aged and older adults. Brain Stimul. 2020 Jan - Feb;13(1):247-249. doi: 10.1016/j.brs.2019.08.014. Epub 2019 Sep 24.</citation>
+    <PMID>31575486</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Malhi GS, Mann JJ. Depression. Lancet. 2018 Nov 24;392(10161):2299-2312. doi: 10.1016/S0140-6736(18)31948-2. Epub 2018 Nov 2. Review.</citation>
+    <PMID>30396512</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mattai A, Miller R, Weisinger B, Greenstein D, Bakalar J, Tossell J, David C, Wassermann EM, Rapoport J, Gogtay N. Tolerability of transcranial direct current stimulation in childhood-onset schizophrenia. Brain Stimul. 2011 Oct;4(4):275-80. doi: 10.1016/j.brs.2011.01.001. Epub 2011 Feb 1.</citation>
+    <PMID>22032743</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mayberg HS, Brannan SK, Tekell JL, Silva JA, Mahurin RK, McGinnis S, Jerabek PA. Regional metabolic effects of fluoxetine in major depression: serial changes and relationship to clinical response. Biol Psychiatry. 2000 Oct 15;48(8):830-43.</citation>
+    <PMID>11063978</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>McCaig CD, Rajnicek AM, Song B, Zhao M. Controlling cell behavior electrically: current views and future potential. Physiol Rev. 2005 Jul;85(3):943-78. Review.</citation>
+    <PMID>15987799</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>McLaren ME, Nissim NR, Woods AJ. The effects of medication use in transcranial direct current stimulation: A brief review. Brain Stimul. 2018 Jan - Feb;11(1):52-58. doi: 10.1016/j.brs.2017.10.006. Epub 2017 Oct 12. Review.</citation>
+    <PMID>29066167</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Merzagora AC, Foffani G, Panyavin I, Mordillo-Mateos L, Aguilar J, Onaral B, Oliviero A. Prefrontal hemodynamic changes produced by anodal direct current stimulation. Neuroimage. 2010 Feb 1;49(3):2304-10. doi: 10.1016/j.neuroimage.2009.10.044. Epub 2009 Oct 21.</citation>
+    <PMID>19853048</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Munz MT, Prehn-Kristensen A, Thielking F, Mölle M, Göder R, Baving L. Slow oscillating transcranial direct current stimulation during non-rapid eye movement sleep improves behavioral inhibition in attention-deficit/hyperactivity disorder. Front Cell Neurosci. 2015 Aug 11;9:307. doi: 10.3389/fncel.2015.00307. eCollection 2015.</citation>
+    <PMID>26321911</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Murray CJ, Lopez AD. Global mortality, disability, and the contribution of risk factors: Global Burden of Disease Study. Lancet. 1997 May 17;349(9063):1436-42.</citation>
+    <PMID>9164317</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Musazzi L, Treccani G, Mallei A, Popoli M. The action of antidepressants on the glutamate system: regulation of glutamate release and glutamate receptors. Biol Psychiatry. 2013 Jun 15;73(12):1180-8. doi: 10.1016/j.biopsych.2012.11.009. Epub 2012 Dec 28. Review.</citation>
+    <PMID>23273725</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ngernyam N, Jensen MP, Auvichayapat N, Punjaruk W, Auvichayapat P. Transcranial Direct Current Stimulation in Neuropathic Pain. J Pain Relief. 2013 Apr 21;Suppl 3. pii: 001.</citation>
+    <PMID>25309825</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nitsche MA, Liebetanz D, Antal A, Lang N, Tergau F, Paulus W. Modulation of cortical excitability by weak direct current stimulation--technical, safety and functional aspects. Suppl Clin Neurophysiol. 2003;56:255-76. Review.</citation>
+    <PMID>14677403</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nitsche MA, Fricke K, Henschke U, Schlitterlau A, Liebetanz D, Lang N, Henning S, Tergau F, Paulus W. Pharmacological modulation of cortical excitability shifts induced by transcranial direct current stimulation in humans. J Physiol. 2003 Nov 15;553(Pt 1):293-301. Epub 2003 Aug 29.</citation>
+    <PMID>12949224</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nitsche MA, Liebetanz D, Schlitterlau A, Henschke U, Fricke K, Frommann K, Lang N, Henning S, Paulus W, Tergau F. GABAergic modulation of DC stimulation-induced motor cortex excitability shifts in humans. Eur J Neurosci. 2004 May;19(10):2720-6.</citation>
+    <PMID>15147306</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nitsche MA, Niehaus L, Hoffmann KT, Hengst S, Liebetanz D, Paulus W, Meyer BU. MRI study of human brain exposed to weak direct current stimulation of the frontal cortex. Clin Neurophysiol. 2004 Oct;115(10):2419-23.</citation>
+    <PMID>15351385</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nitsche MA, Seeber A, Frommann K, Klein CC, Rochford C, Nitsche MS, Fricke K, Liebetanz D, Lang N, Antal A, Paulus W, Tergau F. Modulating parameters of excitability during and after transcranial direct current stimulation of the human motor cortex. J Physiol. 2005 Oct 1;568(Pt 1):291-303. Epub 2005 Jul 7.</citation>
+    <PMID>16002441</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nitsche MA, Cohen LG, Wassermann EM, Priori A, Lang N, Antal A, Paulus W, Hummel F, Boggio PS, Fregni F, Pascual-Leone A. Transcranial direct current stimulation: State of the art 2008. Brain Stimul. 2008 Jul;1(3):206-23. doi: 10.1016/j.brs.2008.06.004. Epub 2008 Jul 1. Review.</citation>
+    <PMID>20633386</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nitsche MA, Paulus W. Excitability changes induced in the human motor cortex by weak transcranial direct current stimulation. J Physiol. 2000 Sep 15;527 Pt 3:633-9.</citation>
+    <PMID>10990547</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nitsche MA, Paulus W. Sustained excitability elevations induced by transcranial DC motor cortex stimulation in humans. Neurology. 2001 Nov 27;57(10):1899-901.</citation>
+    <PMID>11723286</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Opitz A, Falchier A, Yan CG, Yeagle EM, Linn GS, Megevand P, Thielscher A, Deborah A R, Milham MP, Mehta AD, Schroeder CE. Spatiotemporal structure of intracranial electric fields induced by transcranial electric stimulation in humans and nonhuman primates. Sci Rep. 2016 Aug 18;6:31236. doi: 10.1038/srep31236.</citation>
+    <PMID>27535462</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Otto WR, Geoghegan S, Posch LC, Bell LM, Coffin SE, Sammons JS, Harris RM, Odom John AR, Luan X, Gerber JS. The Epidemiology of Severe Acute Respiratory Syndrome Coronavirus 2 in a Pediatric Healthcare Network in the United States. J Pediatric Infect Dis Soc. 2020 Nov 10;9(5):523-529. doi: 10.1093/jpids/piaa074.</citation>
+    <PMID>32559282</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Palm U, Segmiller FM, Epple AN, Freisleder FJ, Koutsouleris N, Schulte-Körne G, Padberg F. Transcranial direct current stimulation in children and adolescents: a comprehensive review. J Neural Transm (Vienna). 2016 Oct;123(10):1219-34. doi: 10.1007/s00702-016-1572-z. Epub 2016 May 12. Review.</citation>
+    <PMID>27173384</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Paniccia M, Paniccia D, Thomas S, Taha T, Reed N. Clinical and non-clinical depression and anxiety in young people: A scoping review on heart rate variability. Auton Neurosci. 2017 Dec;208:1-14. doi: 10.1016/j.autneu.2017.08.008. Epub 2017 Aug 26. Review.</citation>
+    <PMID>28870754</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Pelletier SJ, Cicchetti F. Cellular and molecular mechanisms of action of transcranial direct current stimulation: evidence from in vitro and in vivo models. Int J Neuropsychopharmacol. 2014 Oct 31;18(2). pii: pyu047. doi: 10.1093/ijnp/pyu047. Review.</citation>
+    <PMID>25522391</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Posner K, Brown GK, Stanley B, Brent DA, Yershova KV, Oquendo MA, Currier GW, Melvin GA, Greenhill L, Shen S, Mann JJ. The Columbia-Suicide Severity Rating Scale: initial validity and internal consistency findings from three multisite studies with adolescents and adults. Am J Psychiatry. 2011 Dec;168(12):1266-77. doi: 10.1176/appi.ajp.2011.10111704.</citation>
+    <PMID>22193671</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Prehn-Kristensen A, Munz M, Göder R, Wilhelm I, Korr K, Vahl W, Wiesner CD, Baving L. Transcranial oscillatory direct current stimulation during sleep improves declarative memory consolidation in children with attention-deficit/hyperactivity disorder to a level comparable to healthy controls. Brain Stimul. 2014 Nov-Dec;7(6):793-9. doi: 10.1016/j.brs.2014.07.036. Epub 2014 Jul 23.</citation>
+    <PMID>25153776</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Priori A, Berardelli A, Rona S, Accornero N, Manfredi M. Polarization of the human motor cortex through the scalp. Neuroreport. 1998 Jul 13;9(10):2257-60.</citation>
+    <PMID>9694210</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Rafful C, Medina-Mora ME, Borges G, Benjet C, Orozco R. Depression, gender, and the treatment gap in Mexico. J Affect Disord. 2012 Apr;138(1-2):165-9. doi: 10.1016/j.jad.2011.12.040. Epub 2012 Feb 14.</citation>
+    <PMID>22341482</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Reato D, Rahman A, Bikson M, Parra LC. Low-intensity electrical stimulation affects network dynamics by modulating population rate and spike timing. J Neurosci. 2010 Nov 10;30(45):15067-79. doi: 10.1523/JNEUROSCI.2059-10.2010.</citation>
+    <PMID>21068312</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Rush AJ, Kraemer HC, Sackeim HA, Fava M, Trivedi MH, Frank E, Ninan PT, Thase ME, Gelenberg AJ, Kupfer DJ, Regier DA, Rosenbaum JF, Ray O, Schatzberg AF; ACNP Task Force. Report by the ACNP Task Force on response and remission in major depressive disorder. Neuropsychopharmacology. 2006 Sep;31(9):1841-53. Epub 2006 Jun 21. Review.</citation>
+    <PMID>16794566</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sacher J, Neumann J, Fünfstück T, Soliman A, Villringer A, Schroeter ML. Mapping the depressed brain: a meta-analysis of structural and functional alterations in major depressive disorder. J Affect Disord. 2012 Oct;140(2):142-8. doi: 10.1016/j.jad.2011.08.001. Epub 2011 Sep 3.</citation>
+    <PMID>21890211</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Salloum NC, Fava M, Ball S, Papakostas GI. Success and efficiency of phase 2/3 adjunctive trials for MDD funded by industry: a systematic review. Mol Psychiatry. 2020 Sep;25(9):1967-1974. doi: 10.1038/s41380-020-0646-3. Epub 2020 Jan 27. Review.</citation>
+    <PMID>31988433</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sämann PG, Höhn D, Chechko N, Kloiber S, Lucae S, Ising M, Holsboer F, Czisch M. Prediction of antidepressant treatment response from gray matter volume across diagnostic categories. Eur Neuropsychopharmacol. 2013 Nov;23(11):1503-15. doi: 10.1016/j.euroneuro.2013.07.004. Epub 2013 Aug 3.</citation>
+    <PMID>23920122</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>San-Juan D, Calcáneo Jde D, González-Aragón MF, Bermúdez Maldonado L, Avellán AM, Argumosa EV, Fregni F. Transcranial direct current stimulation in adolescent and adult Rasmussen's encephalitis. Epilepsy Behav. 2011 Jan;20(1):126-31. doi: 10.1016/j.yebeh.2010.10.031. Epub 2010 Dec 17.</citation>
+    <PMID>21167786</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Schestatsky P, Morales-Quezada L, Fregni F. Simultaneous EEG monitoring during transcranial direct current stimulation. J Vis Exp. 2013 Jun 17;(76). doi: 10.3791/50426.</citation>
+    <PMID>23851401</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Schneider HD, Hopp JP. The use of the Bilingual Aphasia Test for assessment and transcranial direct current stimulation to modulate language acquisition in minimally verbal children with autism. Clin Linguist Phon. 2011 Jun;25(6-7):640-54. doi: 10.3109/02699206.2011.570852. Epub 2011 Jun 1.</citation>
+    <PMID>21631313</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Segrave RA, Arnold S, Hoy K, Fitzgerald PB. Concurrent cognitive control training augments the antidepressant efficacy of tDCS: a pilot study. Brain Stimul. 2014 Mar-Apr;7(2):325-31. doi: 10.1016/j.brs.2013.12.008. Epub 2013 Dec 19.</citation>
+    <PMID>24486425</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sorbello M, El-Boghdadly K, Di Giacinto I, Cataldo R, Esposito C, Falcetta S, Merli G, Cortese G, Corso RM, Bressan F, Pintaudi S, Greif R, Donati A, Petrini F; Società Italiana di Anestesia Analgesia Rianimazione e Terapia Intensiva (SIAARTI) Airway Research Group, and The European Airway Management Society. The Italian coronavirus disease 2019 outbreak: recommendations from clinical practice. Anaesthesia. 2020 Jun;75(6):724-732. doi: 10.1111/anae.15049. Epub 2020 Mar 30.</citation>
+    <PMID>32221973</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Thair H, Holloway AL, Newport R, Smith AD. Transcranial Direct Current Stimulation (tDCS): A Beginner's Guide for Design and Implementation. Front Neurosci. 2017 Nov 22;11:641. doi: 10.3389/fnins.2017.00641. eCollection 2017.</citation>
+    <PMID>29213226</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Verity R, Okell LC, Dorigatti I, Winskill P, Whittaker C, Imai N, Cuomo-Dannenburg G, Thompson H, Walker PGT, Fu H, Dighe A, Griffin JT, Baguelin M, Bhatia S, Boonyasiri A, Cori A, Cucunubá Z, FitzJohn R, Gaythorpe K, Green W, Hamlet A, Hinsley W, Laydon D, Nedjati-Gilani G, Riley S, van Elsland S, Volz E, Wang H, Wang Y, Xi X, Donnelly CA, Ghani AC, Ferguson NM. Estimates of the severity of coronavirus disease 2019: a model-based analysis. Lancet Infect Dis. 2020 Jun;20(6):669-677. doi: 10.1016/S1473-3099(20)30243-7. Epub 2020 Mar 30. Erratum in: Lancet Infect Dis. 2020 Apr 15;:. Lancet Infect Dis. 2020 May 4;:.</citation>
+    <PMID>32240634</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Villamar MF, Volz MS, Bikson M, Datta A, Dasilva AF, Fregni F. Technique and considerations in the use of 4x1 ring high-definition transcranial direct current stimulation (HD-tDCS). J Vis Exp. 2013 Jul 14;(77):e50309. doi: 10.3791/50309.</citation>
+    <PMID>23893039</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Vöröslakos M, Takeuchi Y, Brinyiczki K, Zombori T, Oliva A, Fernández-Ruiz A, Kozák G, Kincses ZT, Iványi B, Buzsáki G, Berényi A. Direct effects of transcranial electric stimulation on brain circuits in rats and humans. Nat Commun. 2018 Feb 2;9(1):483. doi: 10.1038/s41467-018-02928-3.</citation>
+    <PMID>29396478</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global health concern. Lancet. 2020 Feb 15;395(10223):470-473. doi: 10.1016/S0140-6736(20)30185-9. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 29;:.</citation>
+    <PMID>31986257</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Xie X, Xue Q, Zhou Y, Zhu K, Liu Q, Zhang J, Song R. Mental Health Status Among Children in Home Confinement During the Coronavirus Disease 2019 Outbreak in Hubei Province, China. JAMA Pediatr. 2020 Sep 1;174(9):898-900. doi: 10.1001/jamapediatrics.2020.1619.</citation>
+    <PMID>32329784</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Yan T, Goldman RD. Time-to-effect of fluoxetine in children with depression. Can Fam Physician. 2019 Aug;65(8):549-551.</citation>
+    <PMID>31413023</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Yi Y, Lagniton PNP, Ye S, Li E, Xu RH. COVID-19: what has been learned and to be learned about the novel coronavirus disease. Int J Biol Sci. 2020 Mar 15;16(10):1753-1766. doi: 10.7150/ijbs.45134. eCollection 2020. Review.</citation>
+    <PMID>32226295</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Yip AG, George MS, Tendler A, Roth Y, Zangen A, Carpenter LL. 61% of unmedicated treatment resistant depression patients who did not respond to acute TMS treatment responded after four weeks of twice weekly deep TMS in the Brainsway pivotal trial. Brain Stimul. 2017 Jul - Aug;10(4):847-849. doi: 10.1016/j.brs.2017.02.013. Epub 2017 Mar 10.</citation>
+    <PMID>28330592</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zewdie E, Ciechanski P, Kuo HC, Giuffre A, Kahl C, King R, Cole L, Godfrey H, Seeger T, Swansburg R, Damji O, Rajapakse T, Hodge J, Nelson S, Selby B, Gan L, Jadavji Z, Larson JR, MacMaster F, Yang JF, Barlow K, Gorassini M, Brunton K, Kirton A. Safety and tolerability of transcranial magnetic and direct current stimulation in children: Prospective single center evidence from 3.5 million stimulations. Brain Stimul. 2020 May - Jun;13(3):565-575. doi: 10.1016/j.brs.2019.12.025. Epub 2019 Dec 30.</citation>
+    <PMID>32289678</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhou SJ, Zhang LG, Wang LL, Guo ZC, Wang JQ, Chen JC, Liu M, Chen X, Chen JX. Prevalence and socio-demographic correlates of psychological health problems in Chinese adolescents during the outbreak of COVID-19. Eur Child Adolesc Psychiatry. 2020 Jun;29(6):749-758. doi: 10.1007/s00787-020-01541-4. Epub 2020 May 3.</citation>
+    <PMID>32363492</PMID>
+  </results_reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>March 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>El Instituto Nacional de Neurologia y Neurocirugia Manuel Velasco Suarez</investigator_affiliation>
+    <investigator_full_name>DANIEL SAN JUAN ORTA</investigator_full_name>
+    <investigator_title>Master in Clinical Research</investigator_title>
+  </responsible_party>
+  <keyword>TDCS</keyword>
+  <keyword>Pediatrics</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Adolescents</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fluoxetine</mesh_term>
+    <mesh_term>Antidepressive Agents</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Personal data information will remain with strictly confidential character in the research center. However, personal data will be examined by all individuals related to the research project and/or those selected for its analysis, including representatives of Mexican health authorities and other regulatory agencies with inspection purposes.&#xD;
+If the data obtained through this study is published, the report will be written in a way no person could identify their personal data or identity, unless such information is officially required by any mexican or foreign authority.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

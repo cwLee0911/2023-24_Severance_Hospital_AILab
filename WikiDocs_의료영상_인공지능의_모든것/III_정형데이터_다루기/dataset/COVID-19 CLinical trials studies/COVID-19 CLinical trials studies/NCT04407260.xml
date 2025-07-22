@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4572">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04407260</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HoodStudy701</org_study_id>
+    <nct_id>NCT04407260</nct_id>
+  </id_info>
+  <brief_title>Use of Oxygen Hoods in Patients Failing on Conventional High-flow Oxygen Delivery Systems, Effects on Oxygenation, Mechanical Ventilation and Mortality Rates in Hypoxic COVID-19 Patients. Prospective Cohort Study.</brief_title>
+  <official_title>The Use of Oxygen Hoods in Patients Failing on Conventional High-flow Oxygen Delivery Systems, the Effects on Oxygenation, Mechanical Ventilation and Mortality Rates in Hypoxic Patients With COVID-19. A Prospective Controlled Cohort Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwell Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Northwell Health</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether the use of oxygen hoods as compared to conventional high-flow oxygen&#xD;
+      delivery systems, and the effects on oxygenation, mechanical ventilation and mortality rates&#xD;
+      in hypoxic patients with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To determine whether Oxygen hoods improve O2-saturation (SaO2), and how they effect length of&#xD;
+      hospitalization, and in-hospital mechanical ventilation and mortality rates in Covid-19&#xD;
+      patients when compared to conventional high-flow oxygen delivery systems. Oxy-hemoglobin&#xD;
+      saturation is continuously measured by pulse-oximetry including immediately before and after&#xD;
+      oxygen hood placement, and will be measured in controls.&#xD;
+&#xD;
+      Comparison/Control Group The control cohort includes COVID-19 patients presenting for&#xD;
+      treatment prior to 4/3/20 when hyperbaric oxygen hoods were not available. Patients&#xD;
+      maintained on, or those failing on conventional O2- delivery systems and subsequently&#xD;
+      receiving mechanical ventilation will be studied.&#xD;
+&#xD;
+      All patients included must have tested positive using PCR swabs and/or been diagnosed based&#xD;
+      on clinical/laboratory standard diagnostic criteria. Medical management will include evolving&#xD;
+      treatment regimens and other standard medical treatments widely used at time of study in all&#xD;
+      hypoxic COVID-19 patients.&#xD;
+&#xD;
+      Prognostic/confounding covariates are to be collected through Electronic Medical Record (EMR)&#xD;
+      chart review and compared between intervention and control cohorts. including: Age, Body Mass&#xD;
+      Index (BMI), Gender, Chronic Lung disease - COPD, Asthma (CLD), cardiovascular disease - CAD,&#xD;
+      CHF, Chronic Dysrhythmia (CVD), chronic kidney disease (CKD), Immunosuppression - History of&#xD;
+      Cancer, Immunosuppressive medication, HIV (Immunosuppression), Diabetes Mellitus (DM), and&#xD;
+      pertinent lab markers.&#xD;
+&#xD;
+      Routine follow-up evaluation is maintained until final in-hospital outcomes are known&#xD;
+      including:&#xD;
+&#xD;
+        1. Oxygen Difference pre/post-hood (SaO2 difference, %)&#xD;
+&#xD;
+        2. Intubation/MV status (Intubated)&#xD;
+&#xD;
+        3. Survival/Mortality (Expired)&#xD;
+&#xD;
+        4. Hospital Length of Stay (LOS, days)&#xD;
+&#xD;
+      Randomization/Blinding Randomization is not possible as it is unethical to deny a hypoxic&#xD;
+      patient an alternative approved means of oxygenation for patients failing on conventional&#xD;
+      oxygen delivery systems. No blinding of participants or investigators.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 6, 2020</start_date>
+  <completion_date type="Actual">May 1, 2020</completion_date>
+  <primary_completion_date type="Actual">May 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Oxygen saturation</measure>
+    <time_frame>3/6/2020 - 5/1/2020</time_frame>
+    <description>Continuous pulse oximetry monitoring</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>In-hospital Intubation/Mechanical Ventilation Status</measure>
+    <time_frame>3/6/2020 - 5/1/2020</time_frame>
+    <description>Intubation/mechanical Ventilation at any point during hospitalization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>In-hospital Mortality</measure>
+    <time_frame>3/6/2020 - 5/1/2020</time_frame>
+    <description>In-hospital Mortality status</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Length of Hospitalization</measure>
+    <time_frame>3/6/2020 - 5/1/2020</time_frame>
+    <description>Duration of hospitalization</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">136</enrollment>
+  <condition>COVID -19</condition>
+  <condition>Respiratory Failure</condition>
+  <condition>Hypoxia</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <description>Patients on oxygen hoods who have fail conventional high-flow oxygen delivery systems.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <description>Patients maintained on conventional high-flow oxygen delivery systems (such as non-rebreather masks, high-flow nasal cannula, BiPAP, CPAP) or who have failed on these conventional symptoms and were subsequently mechanically ventilated.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Oxygen Hood</intervention_name>
+    <description>High-Flow Oxygen Hood with neck dam and intake and exhaust tubing incorporating a Bacterial/Viral HEPA filter and optional PEEP attachment.</description>
+    <arm_group_label>Intervention</arm_group_label>
+    <other_name>Oxygen Helmets</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All COVID-19 patients presenting to the hospital prior to the availability of oxygen hoods&#xD;
+        were reviewed for eligibility and assignment to the control cohort.&#xD;
+&#xD;
+        All COVID-19 patients presenting to the hospital after the availability of oxygen hoods&#xD;
+        were reviewed for eligibility and assignment to the intervention cohort if they were&#xD;
+        failing on conventional high-flow oxygen delivery systems.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          -  Hospital census is reviewed for ALL patients seen in the Emergency Department admitted&#xD;
+             with COVID -19 diagnosis and experiencing hypoxia requiring supplemental high-flow&#xD;
+             oxygen delivery or who have required mechanical ventilation.&#xD;
+&#xD;
+          -  Consent (native language services provided).&#xD;
+&#xD;
+          -  No limitations/restrictions on age, sex, race/ethnicity, comorbidities, pregnancy&#xD;
+             status, DNR/DNI status.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          -  SaO2 &gt; 90% on conventional high-flow O2-delivery system.&#xD;
+&#xD;
+          -  Confinement anxiety post-oxygen hood placement with request for removal.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Dayya, DO, PhD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Phelps Hospital - Northwell Health</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Owen J O'Neill, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Phelps Hospital - Northwell Health</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Phelps Hospital</name>
+      <address>
+        <city>Sleepy Hollow</city>
+        <state>New York</state>
+        <zip>10591</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>1. Organization WH. Rolling updates on Coronavirus disease (COVID - 19) - Coronavirus disease (COVID-19) Situation Report.: World Health Organization, 2020. 2. Control CfD. Recommended Preparedness and Response Activities in Healthcare. Supplement C: Preparedness and Response In Healthcare Facilities. Public Health Guidance for Community-Level Preparedness and Response to Severe Acute Respiratory Syndrome (SARS) Version 2/3. 3. Richardson S HJ, Narasimhan M, et al Presenting Characteristics, Comorbidities, and Outcomes Among 5700 Patients Hospitalized With COVID-19 in the New York City Area. JAMA 2020 4. Berlin DA, Gulick RG, FJ M. Severe Covid-19. New England journal of Medicine 2020 5. Health. NDo. Amid Ongoing COVID-19 Pandemic, Governor Cuomo Announces State Department of Health Has Approved New Protocol to Allow BiPAP Machines to be Converted Into Ventilators. 6. L W, He W, Yu X, et al. Coronavirus disease 2019 in elderly patients: Characteristics and prognostic factors based on 4-week follow-up. Journal of Infection 2020;80(6):639-45. 7. Patel BK, Wolfe KS, MacKenzie E, et al. Effect of Noninvasive Ventilation Delivered by Helmet vs Face Mask on the Rate of Endotracheal Intubation in Patients With Acute Respiratory Distress Syndrome. A Randomized Clinical Trial. JAMA 2016;315(22):2435-41. 8. Patel BK, Wolfe KS, MacKenzie E, et al. One Year Outcomes in Patients with Acute Respiratory Distress Syndrome Enrolled in a Randomized Clinical Trial of Helmet versus Facemask Noninvasive Ventilation. July 4, 2018;Crit Care Med.(7):1078-84. . 9. K M. Oxygen Administration: What Is the Best Choice? Respiratory Therapy 2015 10. Department of Health and Human Services - Food and drug Administration - Concwence of CDRH OoDEO. Device Evaluation and Approval., 2002. 11. - UN-TBftLDC. Local production could solve shortages of essential pandemic-fighting equipment., 2020. 12. MEDICINE. ECFH. ECHM position on Hyperbaric Oxygen Therapy (HBOT) in multiplace hyperbaric chambers during coronavirus disease (COVID-19) outbreak. . 13. B L, A C, Z B, et al. COVID-19: Oxygen Escalation Therapy and Noninvasive Ventilation. EmDocs 2020. http://www.emdocs.net/covid-19-oxygen-escalation-therapy-and-noninvasive-ventilation/ (accessed April 15, 2020). 14. Prevention CfDCa. Evaluating and Testing Persons for Coronavirus Disease 2019 (COVID-19). 2020. 15. Prevention CfDCa. Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19). 2020. 16. Ashraf-Kashani N, R K. High-flow nasal oxygen therapy. BJA Education;17(2):57-62. 17. S R, R S, B W, et al. A comparison of facemask and respirator filtration test methods. J Occup Environ Hyg 2017;14(2):92-103. 18. JJ M, L G. Management of COVID-19 Respiratory Distress. JAMA 2020 19. IBM SPSS Statistics for Windows [program]. 25.0 version. Armonk, NY: IBM Corp., Released 2017. .</citation>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>May 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 29, 2020</study_first_posted>
+  <last_update_submitted>February 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Northwell Health</investigator_affiliation>
+    <investigator_full_name>David Dayya</investigator_full_name>
+    <investigator_title>Attending Physician</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+    <mesh_term>Hypoxia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>If other researchers are investigating similar research question will consider sharing IPD.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

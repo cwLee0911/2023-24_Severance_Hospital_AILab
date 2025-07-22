@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3777">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04836793</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-A00166-35</org_study_id>
+    <nct_id>NCT04836793</nct_id>
+  </id_info>
+  <brief_title>Study of Humoral and Cellular Immune Responses Following SARS-CoV-2 Vaccination to Predict Immune Responses in Cancer Patients</brief_title>
+  <acronym>CACO-VAC</acronym>
+  <official_title>Study of Humoral and Cellular Immune Responses Following SARS-CoV-2 Vaccination to Predict Immune Responses in Cancer Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Besancon</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Besancon</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      T-cell adaptive immunity is known to be required to sustain a long term immunoglobulin&#xD;
+      production and a long term memory against several infections. Previous results suggest a lack&#xD;
+      in the generation of T-cell responses against CoV-N, M and S proteins among cancer patients&#xD;
+      exposed to SARS-CoV-2 virus highlighting that cancer patients failed to mount a protective&#xD;
+      T-cell immunity. Given this context, our hypothesis is that COVID-19 vaccine candidates are&#xD;
+      not immunogenic in some cancer patients. Thus, the monitoring of CD4 and CD8 T-cell responses&#xD;
+      before and after vaccination might provide information related to the correlation between&#xD;
+      induction of CD4 T-cells (including helper follicular T-cells) by the vaccine and long-term&#xD;
+      IgG production (serological index). Additionally, the failure of COVID-19 vaccines in some&#xD;
+      patients should be monitor carefully in order to provide specific recommendations to avoid&#xD;
+      COVID-19 infections. The main objective is to assess humoral immune responses following&#xD;
+      COVID-19 vaccination in a population of cancer patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 15, 2021</start_date>
+  <completion_date type="Anticipated">March 25, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 25, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of virus-specific IgG at 3 months following COVID-19 vaccination measured in plasma to assess humoral immune responses</measure>
+    <time_frame>2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of virus-specific IgG at 6 months following COVID-19 vaccination measured in plasma to assess humoral immune responses.</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>magnitude and frequency of SARS-CoV-2 specific T-cell at 3 and 6 months following COVID-19 vaccination</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Cancer</condition>
+  <condition>Elderly Without Cancer</condition>
+  <condition>Healthy Aging</condition>
+  <arm_group>
+    <arm_group_label>Patients with cancer</arm_group_label>
+    <description>Patients with active treatment in adjuvant/induction setting,&#xD;
+Patients with active treatment in metastatic/relapse setting,&#xD;
+Patients without active treatment (last treatment above 6 months).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients without cancer but aged above 70 years</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy person</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Additional biological samples</intervention_name>
+    <description>Peripheral Blood Mononuclear Cell (PBMC) and plasma will be collected</description>
+    <arm_group_label>Healthy person</arm_group_label>
+    <arm_group_label>Patients with cancer</arm_group_label>
+    <arm_group_label>Patients without cancer but aged above 70 years</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      PBMC PLASMA&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients vaccinated against COVID-19&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        *Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female patients&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Not having developed a symptomatic form of COVID-19 within the last 3 months before&#xD;
+             inclusion&#xD;
+&#xD;
+          -  Eligible to the vaccination against SARS-Cov-2&#xD;
+&#xD;
+          -  Affiliation to French social security or receiving such a regime,&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+          -  Ability to comply with the study protocol, in the Investigator's judgment&#xD;
+&#xD;
+        Cancer patients&#xD;
+&#xD;
+          -  Patients under active anticancer treatment: in adjuvant or neoadjuvant setting or in&#xD;
+             first line of treatment in metastatic setting. Except for prostate cancer (until&#xD;
+             metastatic castration-resistant prostate cancer); and breast cancer hormonal receptor&#xD;
+             positive/HER2 negative (until apparition of hormonoresistance).&#xD;
+&#xD;
+          -  Patients in follow-up (active treatment &lt; 3 months).&#xD;
+&#xD;
+        Elderly:&#xD;
+&#xD;
+        Age ≥ 70 years old&#xD;
+&#xD;
+        Healthy person:&#xD;
+&#xD;
+        Age ≥ 18 years old and &lt; 70 years old&#xD;
+&#xD;
+        *Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient under guardianship, curatorship or under the protection of justice&#xD;
+&#xD;
+          -  Receipt of a live, attenuated vaccine within 4 weeks prior to the initiation of&#xD;
+             treatment or anticipation that such a live, attenuated vaccine will be required during&#xD;
+             the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>marie kroemer, PharmD, PhD</last_name>
+    <phone>03 81 66 83 02</phone>
+    <email>mkroemer@chu-besancon.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>laura mansi, MD, PhD</last_name>
+    <email>lmansi@chu-besancon.fr</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Gomez-Cadena A, Spehner L, Kroemer M, Khelil MB, Bouiller K, Verdeil G, Trabanelli S, Borg C, Loyon R, Jandus C. Severe COVID-19 patients exhibit an ILC2 NKG2D(+) population in their impaired ILC compartment. Cell Mol Immunol. 2021 Feb;18(2):484-486. doi: 10.1038/s41423-020-00596-2. Epub 2020 Dec 14.</citation>
+    <PMID>33318627</PMID>
+  </reference>
+  <results_reference>
+    <citation>Kroemer M, Spehner L, Vettoretti L, Bouard A, Eberst G, Pili Floury S, Capellier G, Lepiller Q, Orillard E, Mansi L, Clairet AL, Westeel V, Limat S, Dubois M, Malinowski L, Bohard L, Borg C, Chirouze C, Bouiller K. COVID-19 patients display distinct SARS-CoV-2 specific T-cell responses according to disease severity. J Infect. 2021 Feb;82(2):282-327. doi: 10.1016/j.jinf.2020.08.036. Epub 2020 Aug 25.</citation>
+    <PMID>32853599</PMID>
+  </results_reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>vaccination</keyword>
+  <keyword>T cell</keyword>
+  <keyword>SARS-COV-2</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>cancer</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

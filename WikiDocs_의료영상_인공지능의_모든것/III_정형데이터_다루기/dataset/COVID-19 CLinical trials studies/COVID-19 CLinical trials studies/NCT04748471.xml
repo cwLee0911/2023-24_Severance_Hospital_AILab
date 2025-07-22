@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4074">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04748471</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP201504</org_study_id>
+    <secondary_id>2020-005889-34</secondary_id>
+    <nct_id>NCT04748471</nct_id>
+  </id_info>
+  <brief_title>Immunogenecity and Safety of VaccinemRNA-1273 in Elderly Volunteers (Over 65 y) Compared to Younger Ones (18-45y)</brief_title>
+  <acronym>CoviCompareM</acronym>
+  <official_title>A Phase II Trial Assessing Immunogenicity and Safety of SARS-CoV-2 Vaccine mRNA-1273 in Volunteers Aged of 65 Years or More Compared to Participants 18-45 Years Old</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Institut National de la Santé Et de la Recherche Médicale, France</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to evaluate the immunogenicity of Moderna mRNA-1273 vaccine in volunteers&#xD;
+      aged 65 years or more compared to volunteers aged 18-45 years, over 24 months duration. It&#xD;
+      will provide necessary data on the early immunological response to the vaccine and its&#xD;
+      evolution in quantitative and qualitative terms. This study will allow establishing how aging&#xD;
+      influences the response to the vaccine and help to adapt the vaccinal plan. For instance it&#xD;
+      will suggest the necessity of a vaccination booster.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Phase II, comparative, non-randomized trial assessing the immunogenicity and safety of&#xD;
+      vaccine candidate Moderna-1273 against SARS-CoV-2. A total of 180 volunteers will be included&#xD;
+      and vaccinated (2 doses, at day 1 and day 29), divided in 3 groups (60 volunteers 18 - 45&#xD;
+      years old, 60 volunteers 65 - 74 years old, 60 volunteers at least 75 years old). Vaccinated&#xD;
+      volunteers of the three arms will be immune-monitored during 24 months via a battery of in&#xD;
+      vitro and ex vivo tests to comprehensively assess the course of humoral, cellular and mucosal&#xD;
+      immunity over time.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 10, 2021</start_date>
+  <completion_date type="Anticipated">January 25, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Titers of anti-SARS-CoV-2 Spike IgG Immunoglobulin in sera</measure>
+    <time_frame>Day 57 (28 days after second injection of mRNA-1273)</time_frame>
+    <description>Anti-SARS-CoV-2 Spike specific IgG Immunity acquisition</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Anti SARS-CoV -2 IgG, IgA and IgM (total and subclasses IgG1-4) as measured by ELISA.</measure>
+    <time_frame>From Day 1 to Month 24</time_frame>
+    <description>Assessment of humoral immunity-systemic response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-SARS-CoV-2 neutralizing antibody (in vitro neutralisation assay.</measure>
+    <time_frame>From Day 1 to Month 24</time_frame>
+    <description>Assessment of humoral immunity-systemic response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-SARS-CoV-2 -specific neutralizing antibody (Pseudo neutralisation assay using lentiviral phenotypes carrying specific SARS-Cov-2 proteins.</measure>
+    <time_frame>From Day 1 to Month 24</time_frame>
+    <description>Assessment of humoral immunity-systemic response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fluorospot assays (TH1, TH2, TH17, Cytotoxicity). Phenotyping of antigen specific T-Cells via Mass cytometry, B cell repertoire and memory</measure>
+    <time_frame>From Day 1 to Month 24</time_frame>
+    <description>Assessment of cellular immunity acquisition</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mucosal SARS-CoV-2 -specific antibody via measure of sIgA, sIgM and IgG in saliva by specific home-made and commercially available ELISA assays.</measure>
+    <time_frame>From Day 1 to Month 24</time_frame>
+    <description>Assessment of mucosal immunity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functionality of mucosal sIgA and sIgM by Antibody Dependent Cellular Cytotoxicity (ADCC) assay specific for SARS-CoV-2 mucosal IgA and IgM</measure>
+    <time_frame>From Day 1 to Month 24</time_frame>
+    <description>Assessment of mucosal immunity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Local and systemic reactogenicity</measure>
+    <time_frame>From Day 1 to Month 24</time_frame>
+    <description>Clinical safety evaluation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determination of autoimmunity markers such as antibodies Anti-nuclear (unit measure: titers)</measure>
+    <time_frame>From Day 1 to Month 24</time_frame>
+    <description>Biological safety evaluation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determination of autoimmunity markers such as antibodies Anti-ACL, Anti-β2-GP1, Rheumatoid factor (unit measure: U/L)</measure>
+    <time_frame>From Day 1 to Month 24</time_frame>
+    <description>Biological safety evaluation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determination of autoimmunity markers such as antibodies Anti-GM1, Anti-MAG ( unit measure: pos/ne)</measure>
+    <time_frame>From Day 1 to Month 24</time_frame>
+    <description>Biological safety evaluation</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Prevention of COVID19</condition>
+  <arm_group>
+    <arm_group_label>18-45 years old</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>18 - 45 years old (60 volunteers), 2 injections of mRNA-1273, at day 1 and day 29</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>65-74 years old</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>65 - 74 years old (60 volunteers), 2 injections of mRNA-1273, at day 1 and day 29</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>At least 75 years old</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>At least 75 years old (60 volunteers), 2 injections of mRNA-1273, at day 1 and day 29</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>mRNA-1273</intervention_name>
+    <description>SARS-CoV-2 vaccine</description>
+    <arm_group_label>18-45 years old</arm_group_label>
+    <arm_group_label>65-74 years old</arm_group_label>
+    <arm_group_label>At least 75 years old</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. At least 65 years old, at least 75 years old or 18 to 45 years old, depending on the&#xD;
+             group of inclusion.&#xD;
+&#xD;
+          2. Healthy adults, or stable medical condition for adults with pre-existing medical&#xD;
+             conditions. A stable medical condition is defined as disease not requiring significant&#xD;
+             change in therapy or hospitalization for worsening disease during 3 months before&#xD;
+             enrolment, nor expected to require any significant change in therapy or&#xD;
+             hospitalization for worsening disease in foreseeable future.&#xD;
+&#xD;
+          3. Understands and agrees to comply with the study procedures (visits, phone calls) and&#xD;
+             provides written free informed consent.&#xD;
+&#xD;
+          4. Able to comply with study procedures based on Investigator judgement.&#xD;
+&#xD;
+          5. Affiliated to a social security system, (except state medical aid)&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          1. Subject is ill or febrile (body temperature ≥ 38.0°C) within 72 prior hours or and/or&#xD;
+             symptoms suggestive of COVID-19 within the past 14 days at enrolment visit.&#xD;
+&#xD;
+             (Ill or febrile participants may be re-scheduled within the inclusion period when no&#xD;
+             longer presenting symptoms)&#xD;
+&#xD;
+          2. History of documented COVID-19 (PCR+, antigenic test+ or chest TDM+ or serology&#xD;
+             SARS-CoV-2+) prior to first vaccine administration&#xD;
+&#xD;
+          3. Subjects with positive serology to SARS-CoV-2 at the enrolment visit&#xD;
+&#xD;
+          4. Subjects who already received another anti-SARS-CoV-2-vaccine&#xD;
+&#xD;
+          5. Subjects who received BCG given within the last year.&#xD;
+&#xD;
+          6. An immediate family member or household member of study staff.&#xD;
+&#xD;
+          7. Use of immunosuppressive drugs like e.g. corticosteroids at a dosage &gt; 10mg/day&#xD;
+             (excluding topical preparations and inhalers) within 3 months prior to enrolment or 6&#xD;
+             months for chemotherapies&#xD;
+&#xD;
+          8. Received immunoglobulin or other blood product within 3 months prior to enrolment or&#xD;
+             planned receipt of immunoglobulin or a blood product through study completion.&#xD;
+&#xD;
+          9. Received any vaccination within 4 weeks prior to first injection or plan to receive a&#xD;
+             licensed vaccine 4 weeks after the last injection.&#xD;
+&#xD;
+         10. History of severe adverse reactions to vaccine administration, including anaphylaxis&#xD;
+             and related symptoms, such as rush, respiratory difficulty, angioedema and abdominal&#xD;
+             pain to vaccines, or history of allergic reaction likely to be exacerbated by any&#xD;
+             component of the anti-SARS-CoV-2-vaccine.&#xD;
+&#xD;
+         11. History of severe allergic event&#xD;
+&#xD;
+         12. Participation in another investigational clinical study (Jardé 1 or Jardé 2) within 4&#xD;
+             weeks before the enrolment visits or planned before the study completion.&#xD;
+&#xD;
+         13. Known HIV, active HCV or HBV infection&#xD;
+&#xD;
+         14. Any pathological condition, such as cancer, which may be susceptible of reducing&#xD;
+             immunity response&#xD;
+&#xD;
+         15. Any bleeding disorder considered as contraindication to intramuscular injection or&#xD;
+             phlebotomy&#xD;
+&#xD;
+         16. The use of investigational Ig, investigational monoclonal antibodies or convalescent&#xD;
+             serum are not allowed during the study&#xD;
+&#xD;
+         17. Any condition which in the opinion of the investigator may interfere with the aim of&#xD;
+             the study&#xD;
+&#xD;
+         18. Pregnant or breastfeeding or positive pregnancy urine test at enrolment visit.&#xD;
+&#xD;
+         19. Woman in childbearing without efficacious contraception (in the opinion of the&#xD;
+             investigator) for 31 days after treatment (2nd vaccine injection)&#xD;
+&#xD;
+         20. People under legal protection measure (tutorship, curatorship or safeguard measures)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Odile LAUNAY, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistance Publique - Hôpitaux de Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Odile LAUNAY, Professor</last_name>
+    <phone>01 58 41 28 58</phone>
+    <email>odile.launay@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jean Daniel LELIEVRE, Professor</last_name>
+    <phone>01 49 81 24 09</phone>
+    <email>jean-daniel.lelievre@aphp.fr</email>
+  </overall_contact_backup>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 10, 2021</study_first_posted>
+  <last_update_submitted>February 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Vaccinology</keyword>
+  <keyword>Infectiology</keyword>
+  <keyword>Vaccine</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Immunity</keyword>
+  <keyword>Immune</keyword>
+  <keyword>Cells</keyword>
+  <keyword>Mucosal immunity</keyword>
+  <keyword>Autoimmunity</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data are available upon reasonable request The procedures carried out with the French data privacy authority (CNIL, Commission nationale de l'informatique et des libertés) do not provide for the transmission of the database, nor do the information and consent documents signed by the patients.&#xD;
+Consultation by the editorial board or interested researchers of individual participant data that underlie the results reported in the article after deidentification may nevertheless be considered, subject to prior determination of the terms and conditions of such consultation and in compliance with the applicable regulations.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Beginning 3 months and ending 3 years following article publication. Requests out can also be submitted to the sponsor</ipd_time_frame>
+    <ipd_access_criteria>Researchers who provide a methodologically sound proposal.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="564">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04824664</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Survey_ACOI_COVID19</org_study_id>
+    <nct_id>NCT04824664</nct_id>
+  </id_info>
+  <brief_title>The ALIGHIERI Survey: an Italian Overview of Global Impact of tHe COVID-19 pandemIc on General surgERy practIce</brief_title>
+  <acronym>ALIGHIERI</acronym>
+  <official_title>The ALIGHIERI Survey: an Italian Overview of Global Impact of tHe COVID-19 pandemIc on General surgERy practIce</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Associazione Chirurghi Ospedalieri Italiani</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Associazione Chirurghi Ospedalieri Italiani</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Introduction The present survey aimed to provide a comprehensive overview of the Italian&#xD;
+      scenario concerning general surgery during the first wave COVID-19 outbreak and evaluate the&#xD;
+      experiences, trends, attitudes, and possible educational outcomes that this emergency brought&#xD;
+      to light. Material and Methods A 31-item survey was designed and edited by the scientific&#xD;
+      board of the ACOI (Associazione Chirurghi Ospedalieri Italiani), addressing the impact of the&#xD;
+      pandemic outbreak on surgical staff and activity during the period from March 9 to May 30,&#xD;
+      2020 (phase 1, lockdown period) and addressing the status of surgical activity, staff, and&#xD;
+      surgery resumption in the period from June 1 to September 30, 2020 (phase 3, restart). The&#xD;
+      survey was distributed via email and social media to Italian general surgeon working both in&#xD;
+      COVID-19 and non-COVID-19 hospitals. R&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction The present survey aimed to provide a comprehensive overview of the Italian&#xD;
+      scenario concerning general surgery during the first wave COVID-19 outbreak and evaluate the&#xD;
+      experiences, trends, attitudes, and possible educational outcomes that this emergency brought&#xD;
+      to light. Material and Methods A 31-item survey was designed and edited by the scientific&#xD;
+      board of the ACOI (Associazione Chirurghi Ospedalieri Italiani), addressing the impact of the&#xD;
+      pandemic outbreak on surgical staff and activity during the period from March 9 to May 30,&#xD;
+      2020 (phase 1, lockdown period) and addressing the status of surgical activity, staff, and&#xD;
+      surgery resumption in the period from June 1 to September 30, 2020 (phase 3, restart). The&#xD;
+      survey was distributed via email and social media to Italian general surgeon working both in&#xD;
+      COVID-19 and non-COVID-19 hospitals. .&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2020</start_date>
+  <completion_date type="Actual">December 30, 2020</completion_date>
+  <primary_completion_date type="Actual">July 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>surgery volume during covid19 lockdown</measure>
+    <time_frame>8months</time_frame>
+    <description>number of surgical procedure performed all over italy during covid19 first lockdown</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>surgery volume after the first covid19 lockdown</measure>
+    <time_frame>3 months</time_frame>
+    <description>number of surgical procedure performed all over italy during re start period</description>
+  </secondary_outcome>
+  <enrollment type="Actual">400</enrollment>
+  <condition>Surgery and covid19</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>survey</intervention_name>
+    <description>survey among surgeon</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        all Italian general surgeon&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  alla surgeon in activity&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  none&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <location>
+    <facility>
+      <name>ACOI</name>
+      <address>
+        <city>Roma</city>
+        <state>Lazio</state>
+        <zip>00136</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Cozza V, Fransvea P, La Greca A, De Paolis P, Marini P, Zago M, Sganga G; I.-ACTSS.-COVID19 Collaborative Study Group. I-ACTSS-COVID-19-the Italian acute care and trauma surgery survey for COVID-19 pandemic outbreak. Updates Surg. 2020 Jun;72(2):297-304. doi: 10.1007/s13304-020-00832-4. Epub 2020 Jun 24.</citation>
+    <PMID>32583216</PMID>
+  </reference>
+  <results_reference>
+    <citation>Fransvea P, Sganga G, Cozza V, Di Grezia M, Fico V, Tirelli F, Pepe G, La Greca A. Set up of a dedicated COVID-19 surgical pathway and operating room for surgical emergencies. J Trauma Acute Care Surg. 2020 Oct;89(4):e97-e100. doi: 10.1097/TA.0000000000002852.</citation>
+    <PMID>33017138</PMID>
+  </results_reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Associazione Chirurghi Ospedalieri Italiani</investigator_affiliation>
+    <investigator_full_name>Pietro Fransvea</investigator_full_name>
+    <investigator_title>MD</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

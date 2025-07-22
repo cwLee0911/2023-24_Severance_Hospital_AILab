@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2727">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04793464</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10032020.002</org_study_id>
+    <secondary_id>P50DA048756-02S2</secondary_id>
+    <nct_id>NCT04793464</nct_id>
+  </id_info>
+  <brief_title>COVID-19: Healthy Oregon (Oregon Saludable): Together We Can (Juntos Podemos)</brief_title>
+  <acronym>OSJP</acronym>
+  <official_title>Scaling Up SARS-CoV-2 Testing to Serve Latinx Communities</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Oregon</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Oregon</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The global SARS-CoV-2 pandemic that causes the severe respiratory illness COVID-19 is the&#xD;
+      worst health crisis that the United States has faced in a century. Although this highly&#xD;
+      contagious virus has infected millions of Americans already, the disease burdens are&#xD;
+      disproportionately born by historically underserved populations such as Latinx communities.&#xD;
+      This disparity is notable in Oregon, where the 13% of the population that is Latinx&#xD;
+      represents approximately 44% of COVID-19 cases. An urgent need exists to reach Oregon's&#xD;
+      Latinx community to prevent SARS-CoV-2 transmission.&#xD;
+&#xD;
+      The overall goal of this study is to implement a Promotores de Salud intervention to increase&#xD;
+      the reach, access, uptake, and impact of testing in Latinx communities in Oregon. This&#xD;
+      project will fully integrate with the National institutes of Health (NIH) Rapid Acceleration&#xD;
+      of Diagnostics (RADx) consortium and its Coordination and Data Collection Center (CDCC). With&#xD;
+      guidance and leadership from the study's Latinx Community and Scientific Advisory Board, 36&#xD;
+      testing sites have been established to test the Promotores de Salud intervention. The&#xD;
+      investigators will test whether the Promotores de Salud intervention will increase testing&#xD;
+      rates and promote better health behaviors in communities over time. The investigators will&#xD;
+      test the intervention using a randomized control trial comparing the intervention to county&#xD;
+      outreach services as usual. Evaluation of the Promotores de Salud intervention held during a&#xD;
+      testing event (compared to distribution of a pamphlet only) will test whether culturally&#xD;
+      competent education results in greater use of strategies that reduce transmission of COVID-19&#xD;
+      at the community and individual level.&#xD;
+&#xD;
+      The investigators have designed a working group structure with teams focused on: Community&#xD;
+      Engagement, Molecular Biology, Data Science, and Implementation Science. These working groups&#xD;
+      are coordinated by an Administrative Hub and guided by the study's Latinx Community and&#xD;
+      Scientific Advisory Board.&#xD;
+&#xD;
+      Over time, this project will help communities institutionalize optimal local testing&#xD;
+      frameworks supported by University of Oregon laboratory facilities for testing capacity,&#xD;
+      technical support for testing logistics, and collection of data on health behaviors, testing&#xD;
+      rates, and sustainability. The resulting structures and systems will be poised for future&#xD;
+      scale-up to other vulnerable communities and/or for other public health purposes (e.g.,&#xD;
+      vaccination campaigns).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A total of 36 communities have established a testing site with testing events held every&#xD;
+      other week (bi-weekly). The study randomized counties at the site level within county. The&#xD;
+      investigators used a priori stratification by county as sample size is small. Half of all&#xD;
+      sites in a county were assigned to the control condition (services as usual), and the other&#xD;
+      half to the intervention condition (Promotores de Salud). Randomly assigned communities&#xD;
+      receive one of two outreach strategies: Services as usual (culturally tailored flyers, radio&#xD;
+      announcements, social media posts, health behavior pamphlet on site) or services as usual&#xD;
+      plus the Promotores de Salud intervention, where a paid, trusted community member reaches out&#xD;
+      to community members to motivate them to utilize the free testing services and improve&#xD;
+      COVID-19 related health behaviors. The Promotores de Salud intervention was designed to build&#xD;
+      relationships with Latinx community members and facilitate trust.&#xD;
+&#xD;
+      To assess the proportion of Latinx community members tested at each site, the investigators&#xD;
+      will use de-identified health information provided to the study by the University of Oregon's&#xD;
+      (UO) COVID-19 clinical genomics laboratory, who are processing the tests. To assess health&#xD;
+      behaviors, a subset of adult participants at each site will be invited to participate in a&#xD;
+      research survey, administered at baseline and again 30 days later. For both approaches, the&#xD;
+      study anticipates engaging a greater proportion Latinx community members, relative to overall&#xD;
+      county demographics. The overall study population is expected to be 85% Hispanic and 15%&#xD;
+      non-Hispanic, with 84% of individuals identifying as White in both ethnic groups and the&#xD;
+      remaining 16% identifying as African American, Asian, Pacific Islander, American&#xD;
+      Indian/Alaska Native, or more than one race. There will be 18 sites per study group (36&#xD;
+      total) and up to roughly 3,600 adult individuals assigned to the intervention (n = 1,800) or&#xD;
+      control conditions (n = 1,800).&#xD;
+&#xD;
+      This study also leverages data from a patient registry from the University of Oregon's&#xD;
+      COVID-19 clinical genomics laboratory.&#xD;
+&#xD;
+      Quality Assurance, Data Checks, Source Data Verification, Data Dictionary, and Standard&#xD;
+      Operating Procedures: Data and biospecimens will be collected in-person at testing sites,&#xD;
+      requiring direct interaction with participants. In order to report SARS-CoV-2 infection&#xD;
+      results back to each participant, name, date of birth, and contact information are collected.&#xD;
+      To fulfill reporting requirements to the Oregon Health Authority, county of residence and zip&#xD;
+      code are also collected for each person tested. Data used to evaluate the efficacy of&#xD;
+      intervention will involve aggregate variables derived from data collected as part of the&#xD;
+      diagnostic testing procedure and will be aggregated at the level of the testing site (e.g.,&#xD;
+      tests performed, race and ethnicity percentages, etc.).&#xD;
+&#xD;
+      For the collection of SARS-CoV-2 samples, testing facilitators will guide participants in the&#xD;
+      self-collection process. For anterior nares, participants are instructed to place the nasal&#xD;
+      swab about 1cm into their nostril and rotate it, making contact with the nasal membrane for&#xD;
+      10 seconds, then repeating the process with the same swab in the other nostril. For saliva&#xD;
+      collection, participants spit 1 - 5 ml of saliva into a sterile container, which may take a&#xD;
+      participant up to 10 minutes to produce. Parents are instructed to collect the sample for&#xD;
+      their child if the child is under 10 years old, or if the minor child requests parental&#xD;
+      assistance. Testing site staff can assist participants who have low dexterity or physical&#xD;
+      impairments in sample collection. In case of an injury during sample collection, the&#xD;
+      partnering community organization staff will direct the participant to the appropriate&#xD;
+      medical resources. Samples will be placed into sterile barcoded vials (1 ml Matrix, barcoded&#xD;
+      screw-cap tubes) that each contain 500 microliters (μl) of DNA/RNA Shield. Each Matrix tube&#xD;
+      will then be closed tightly and will be placed in a standard plastic laboratory&#xD;
+      microcentrifuge tube rack with eight rows and twelve columns (8-by-12 rack with 96&#xD;
+      positions). This rack will then be externally decontaminated by brief submersion in&#xD;
+      accelerated hydrogen peroxide (H202). Each 96-position microcentrifuge tube rack will then be&#xD;
+      labeled and placed in a sterile temporary container with wet ice at 4Cdegrees. If possible at&#xD;
+      each site, racks will be periodically transferred either to a refrigerator (4C) or freezer&#xD;
+      (-20C) for storage. At the end of the day all racks will be transported on wet ice to the&#xD;
+      COVID-19 clinical genomics Laboratory at UO, ensuring that they will arrive no longer than 48&#xD;
+      hours after collection and preferably within 12-24 hours. If the testing site is located too&#xD;
+      distally for hand transport, tube racks will be secured and shipped by express methods on dry&#xD;
+      ice.&#xD;
+&#xD;
+      Each 96 well collection plate will next proceed to molecular processing using the standard,&#xD;
+      FDA approved Thermo Fisher TaqPath analysis protocol. All steps of this approved protocol&#xD;
+      will be followed exactly, including the appropriate reagents, volumes, and inclusion of&#xD;
+      appropriate positive and negative controls. In addition, investigators will employ the&#xD;
+      software analysis system and parameters exactly as specified. First, RNA will be extracted&#xD;
+      from each well using the MagMax Viral/Pathogen Nucleic Acid Isolation Kit (ThermoFisher,&#xD;
+      #100081242) which removes potentially inhibiting contamination and increases the sensitivity&#xD;
+      and consistency of subsequent qPCR protocols. Depending upon the number of samples to be&#xD;
+      processed, the RNA extraction will either occur by hand using multichannel pipettors or&#xD;
+      through the use of the Hamilton Robot. The purified RNA will then be retrotranscribed for&#xD;
+      analysis using the TaqPath RT-PCR COVID-19 Kit on either 96 well or 384 well QuantStudio5&#xD;
+      (QS5) thermocyclers depending upon the number of samples to be processed. If the lab&#xD;
+      technicians need to process 384 samples, they will use the Hamilton liquid handling robot&#xD;
+      (Hamilton, Microlab VANTAGE 2.0) to aliquot from each of four-96 well plates into the 384&#xD;
+      well plate format for subsequent qPCR amplification. In this RT-PCR process, probes anneal to&#xD;
+      three unique forward and reverse primers for three SARS-CoV-2 genes: ORF1ab, N Protein and S&#xD;
+      Protein.&#xD;
+&#xD;
+      All laboratory and reporting will be automated through the use of barcodes, robotics, 96 and&#xD;
+      384 well qPCR machines, and the use of a fully HIPAA and CAP3 compliant Laboratory&#xD;
+      Information Management System (LIMS) built by L7 informatics (https://l7informatics.com/).&#xD;
+      These system automations and use of LIMS allow increased throughput (up to several thousand&#xD;
+      samples per day) and rapid analysis and automated reporting of results through the LIMS. The&#xD;
+      qPCR data are stored in the LIMS system for analysis using the Applied Biosystems COVID-19&#xD;
+      Interpretive Software to allow a qualitative assessment of whether the virus is present in&#xD;
+      the sample (a 'positive' case), absent, or uncertain. The LIMS system in the COVID-19-MAP lab&#xD;
+      allows the integration of this analysis software into the appropriate step of the overall&#xD;
+      sample tracking workflow pipeline, and therefore the immediate result can be linked to the&#xD;
+      appropriate barcode in the database. Furthermore, the LIMS system is connected and&#xD;
+      communicates via a local area network (LAN) with all equipment (e.g., robots and qPCR&#xD;
+      machines) to document each step of the process for CLIA validation. The results for each&#xD;
+      sample, and associated metadata on the steps during processing, are then associated with each&#xD;
+      assigned barcode and can then be disseminated, as appropriate, to the Oregon Health&#xD;
+      Authority, the appropriate county health department, and the individual. Test results will be&#xD;
+      available within 48 hours and no later than 4 days to the individual and/or the health&#xD;
+      authority.&#xD;
+&#xD;
+      After testing occurs, researchers will have access to aggregate, community-level (e.g.,&#xD;
+      counts and prevalence rates), de-identified data prepared by the UO's CLIA clinical genomics&#xD;
+      laboratory. The data will include three protected health identifiers: site zip code,&#xD;
+      participant zip code, and testing date. It will also include demographic data this is not&#xD;
+      protected health information such as age range, race, and ethnicity. These data will be used&#xD;
+      to assess outreach activities aimed at increasing participation of Latinx community members&#xD;
+      in SARS-COV-2 testing. The primary outcome for this aspect of the study is site-level testing&#xD;
+      rates of Latinx individuals.&#xD;
+&#xD;
+      Sample Size Assessment, Plan for Missing Data, Statistical Analysis Plan: For the primary&#xD;
+      efficacy evaluation of the Promotores intervention, the investigators will employ standard&#xD;
+      normal theory analysis of covariance (ANCOVA) and auto-regressive linear modeling for&#xD;
+      continuous outcomes such as COVID-19 knowledge; and they will employ pre-post generalized&#xD;
+      linear modeling for count and ordered categorical outcomes such as proportion of Latinx&#xD;
+      tested at each geographic site. To address the non-independence of participants in the&#xD;
+      intervention design, investigators will estimate linear mixed models. Two primary sources of&#xD;
+      missing data are expected, item non-response and attrition over time. For dropout,&#xD;
+      investigators will conduct standard attrition analyses to compare baseline characteristics&#xD;
+      between attriters and completers. They will consider propensity score matching procedures and&#xD;
+      complier average causal effects models to address substantial differences. For item&#xD;
+      non-response and scale score development, investigators will require 70% of scale items be&#xD;
+      present for scoring. They will test whether scale level data are missing completely at random&#xD;
+      (MCAR) within waves and then across waves. If data are not MCAR, under assumptions of missing&#xD;
+      at random (MAR, i.e., data are not dependent on missing values of the intervention response&#xD;
+      variable), investigators will employ one of two recommended approaches for SEM, full&#xD;
+      information maximum likelihood (FIML) or multiple imputation (MI). Although these approaches&#xD;
+      can be problematic when data are non-ignorable missing, they are still recommended for&#xD;
+      handling missingness, particularly with covariates associated with attrition. Both methods&#xD;
+      provide more efficient standard errors than listwise or pairwise deletion, or mean&#xD;
+      substitution. Should missing data or attrition be associated with covariates, investigators&#xD;
+      will include appropriate covariates in hypothesis testing. For the pre-post individual level&#xD;
+      criterion outcomes, 36 sites with roughly 50 to 100 participants per site plus attrition (n =&#xD;
+      2160) an alpha level of .05 and intra-class correlations ranging from .05 to .20 provides&#xD;
+      power to detect effects ranging from .19 to .32, respectively (small to moderate).&#xD;
+&#xD;
+      Finally, data will be collected in accordance with Tier 1 &quot;common data elements&quot; from the&#xD;
+      national Duke Coordination and Data Collection Center (CDCC). The CDCC directly assists each&#xD;
+      individual RADx-UP project to optimize engagement, outreach, testing strategies, and to&#xD;
+      facilitate co-learning opportunities between and among RADx-UP projects. Key outcome data and&#xD;
+      the testing procedures for obtaining the sample, analysis platform, analysis procedures, and&#xD;
+      test resulting will be collected and represented in a consistent manner for harmonization&#xD;
+      across the consortium, integrated with test reporting requirements under the Coronavirus Aid,&#xD;
+      Relief, and Economic Security Act (CARES Act).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 4, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Latinx testing engagement</measure>
+    <time_frame>One time point only (~15 minute survey), when a participant engages in COVID-19 testing at a testing site, no longitudinal follow-up</time_frame>
+    <description>Number and proportion of Latinx community members tested at each site, defined by the number and proportion of Latinx tested divided by the total census block frequency of Latinx individuals above the age of 3.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID-19 Prevention Health Behaviors</measure>
+    <time_frame>Change from baseline health behaviors at 30 days</time_frame>
+    <description>From the PhenX toolkit, Protocol - COVID-19 Knowledge, Attitudes, and Avoidant Behaviors, participants are asked to indicate &quot;Which of the following have you done in the last seven days to keep yourself safe from coronavirus? Only consider actions that you took or decisions that you made personally.&quot; There are a total of 17 possible items participants rate as a binary, Yes/No, response. The scale will range from 0-17. Participants are also asked &quot;Which of the following have you done in the last five days?&quot; There are 5 items that increase risk for COVID-19, rated on a checklist (check indicates participation in behavior). The scale ranges from 0-5 with 5 indicating greater risk behavior.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID-19 Knowledge and Attitudes</measure>
+    <time_frame>Change from baseline COVID-19 attitudes and knowledge at 30 days</time_frame>
+    <description>Participants are asked, &quot;How can the novel coronavirus be transmitted?&quot; adapted from the PhenX toolkit COVID-19 COMMUNITY RESPONSE SURVEY, KNOWLEDGE &amp; ATTITUDES TOWARDS COVID-19. Participants to indicate using a Yes/No response. The sum of responses indicates overall knowledge of transmission out of a possible score of 2 with 2 indicating greater knowledge.&#xD;
+Participants are also asked: &quot;In your opinion, how effective are the following actions for keeping you safe from COVID-19?&quot; A list of 5 prevention strategies are listed. Participants indicate their response on a scale Very Effective (5) to Not Effective at All. The possible score ranges from 5 to 25.&#xD;
+The are also asked: &quot;How safe or unsafe are the following actions for avoiding exposure to coronavirus?&quot; A list of 11 activities are listed and responses are on scale of 1 (Extremely Unsafe) to 4 (Extremely Safe).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Attitudes Towards COVID-19 Vaccines</measure>
+    <time_frame>Change from baseline attitudes towards COVID-19 vaccines at 30 days</time_frame>
+    <description>Participants are asked, &quot;How likely are you to get vaccinated for coronavirus once a vaccination is available to the public?&quot; on a 5-item response scale of &quot;Very likely&quot; to &quot;Definitely not&quot;. The item will be computed on a scale of 1-5 with 5 indicating greater likelihood of receiving the vaccine and lower vaccine hesitancy.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">3600</enrollment>
+  <condition>Health Behavior</condition>
+  <condition>Health Care Utilization</condition>
+  <arm_group>
+    <arm_group_label>Promotores</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The Promotores de Salud intervention involves specified outreach and psychoeducation on SARS-CoV-2 health related behaviors.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Services as usual includes outreach as usual strategies and pamphlets on site at events.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Promotores de Salud</intervention_name>
+    <description>The Promotores de Salud intervention is delivered by a paid Promotor(a) who is a trusted member of the community where the testing site is located. The intervention includes: (1) psychoeducation to increase knowledge about COVID-19 and the benefits of testing; (2) motivational interviewing (MI) strategies to explore personal, social, and behavioral barriers to testing and to discuss available resources to resolve these barriers; (3) emotional support to address testing-related concerns and anxieties that may dissuade Latinx individuals from getting tested; and (4) service navigation. When promotores are on-site at testing events, they will provide information about COVID-19 and preventive behaviors using in-person instruction on effective mask wearing, hand washing, and physical distancing, as well as the importance of repeated testing and vaccines.</description>
+    <arm_group_label>Promotores</arm_group_label>
+    <other_name>Promotores</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Services as usual</intervention_name>
+    <description>Services as usual, our control condition, includes strategies that are typically conducted by county and community-based organizations that serve under-represented groups to notify people of testing opportunities related to COVID-19. These include Facebook advertisements, email announcements, circulation to other community-based organizations and state agencies (e.g., Oregon Health Authority, county public health), and other flyer distribution means. This condition also includes a pamphlet about health behaviors and community resources handed out by testing facilitators at testing events.</description>
+    <arm_group_label>Control</arm_group_label>
+    <other_name>Control</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Proportion Tested: Age 3 or older&#xD;
+&#xD;
+          -  Proportion Tested: Received testing at study testing site&#xD;
+&#xD;
+          -  Individual Survey: 18 or older&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        • Individual Survey: Unable to understand Spanish or English or another language translated&#xD;
+        by a qualified translator at a 5th grade level&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Leslie D Leve, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Oregon</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kelsey Van Brocklin, BS</last_name>
+    <phone>541-346-9530</phone>
+    <email>kelseyvb@uoregon.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Camille C Cioffi, PhD</last_name>
+    <phone>541-525-4886</phone>
+    <email>ccioffi@uoregon.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Oregon</name>
+      <address>
+        <city>Eugene</city>
+        <state>Oregon</state>
+        <zip>97403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Leslie D Leve, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 11, 2021</study_first_posted>
+  <last_update_submitted>March 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Oregon</investigator_affiliation>
+    <investigator_full_name>Leslie Leve,</investigator_full_name>
+    <investigator_title>Alumni Faculty Professor, College of Education; Associate Director, Prevention Science Institute</investigator_title>
+  </responsible_party>
+  <keyword>Latinx</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Hispanic</keyword>
+  <keyword>Testing</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>We will share IPD with the RADx-Up CDCC. All Tier 1 data elements required by the CDCC will be shared.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>IPD will be shared in accordance with timeframes set by the RADX-UP CDCC</ipd_time_frame>
+    <ipd_access_criteria>The RADX-UP CDCC will make these determinations</ipd_access_criteria>
+    <ipd_url>https://radx-up.org/about/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

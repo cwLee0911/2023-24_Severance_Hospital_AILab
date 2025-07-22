@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4226">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04780555</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AIBU-FTR-EY-02</org_study_id>
+    <nct_id>NCT04780555</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Musculoskeletal System Symptoms and Biochemical Parameters in COVID-19</brief_title>
+  <official_title>Evaluation of Pain Symptoms Correlation With Biochemical and Radiological Findings in COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Abant Izzet Baysal University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Abant Izzet Baysal University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The neutrophil-lymphocyte ratio (NLR) used to demonstrate inflammatory status in recent years&#xD;
+      can be calculated by dividing the absolute neutrophil count by the absolute lymphocyte count&#xD;
+      at routine blood tests.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Dysregulation in immune responses has been reported in association with hyperinflammation in&#xD;
+      COVID-19 patients, NLR has been linked to the severity of the patient's clinical status, and&#xD;
+      an increase in NLR is reported to be an independent risk factor for in-hospital mortality.&#xD;
+      Pain is a frequently seen symptom at the onset of viral infections and throughout the course&#xD;
+      of the disease. Although the pain mechanisms triggered by viral pathogens are not yet&#xD;
+      entirely understood, pain is thought to arise as a result of direct activation of nociceptor&#xD;
+      neurons by pathogens and their interaction with molecular ligands. Toll-like receptor 7&#xD;
+      (TLR7), a pathogen recognition receptor that plays an important role in immune responses to&#xD;
+      viruses by binding to viral RNA, is known to be involved in pain development in different RNA&#xD;
+      virus infections. Park et al. showed that extracellular micro RNAs activate nociceptive&#xD;
+      neurons via the TLR7 pathway. Although these mechanisms have been demonstrated for different&#xD;
+      viral infections, the viral pathogenesis leading to pain in COVID-19 is still unclear. The&#xD;
+      purpose of this study was to investigate the prevalence of headache and muscular pain in&#xD;
+      patients diagnosed with COVID-19 and to determine the relationship between these symptoms and&#xD;
+      inflammatory parameters.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">June 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Neutrophil-lymphocyte ratio (NLR)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>It can be calculated by dividing the absolute neutrophil count by the absolute lymphocyte count at routine blood tests</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>D-dimer</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Peripheral venous blood specimens were collected using standard surgical procedures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fibrinogen</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Peripheral venous blood specimens were collected using standard surgical procedures</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Covid19</condition>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Peripheral venous blood specimens will be collected using standard surgical procedures during&#xD;
+      presentation and were investigated in the Abant İzzet Baysal University Medical Faculty&#xD;
+      central laboratory. Complete blood count parameters (hemoglobin, leukocytes, erythrocytes,&#xD;
+      platelets, and leukocyte subtypes) will be analyzed using a Syxmex XN-1000 (Kobe, Japan)&#xD;
+      automatic analyzer. D-dimer and fibrinogen parameters will be measured on a Sysmex CS-2500&#xD;
+      (Kobe, Japan) device, and biochemical parameters (CRP, ferritin, procalcitonin, LDH,&#xD;
+      troponin) on an automatic biochemical analyzer (Abbott Architect C8000, USA). In addition,&#xD;
+      the NLR will be calculated by dividing the absolute neutrophil count by the absolute&#xD;
+      lymphocyte count.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients aged 18-65 and diagnosed with COVID-19 will be included in the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged 18-70&#xD;
+&#xD;
+          -  Diagnosed with COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with suspected SARS-CoV-2 infection, with two negative RT-PCR tests,&#xD;
+             hospitalized in the intensive care unit during inclusion in the study&#xD;
+&#xD;
+          -  Musculoskeletal pains in the previous three months, with diseases capable of causing&#xD;
+             myalgia prior to diagnosis (such as fibromyalgia and inflammatory muscle disease)&#xD;
+&#xD;
+          -  Cognitive disorders capable of preventing history-taking and physical examination such&#xD;
+             as mental disability and dementia,&#xD;
+&#xD;
+          -  previous history of headache (migraine, tension type headache)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nalan Doğan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Beykoz State Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Dursun Karakaş, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sancaktepe Şehit İlhan Varank Research Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Osman Yakşi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Abant İzzet Baysal University Medical Faculty</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Elif Yakşi, MD</last_name>
+    <phone>+905069078505</phone>
+    <email>elifyaksi@hotmail.com</email>
+  </overall_contact>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>March 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>pain</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

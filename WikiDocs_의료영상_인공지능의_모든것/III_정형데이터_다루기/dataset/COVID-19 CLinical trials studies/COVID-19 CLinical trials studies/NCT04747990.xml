@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4990">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04747990</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Biliary Pancreatitis</org_study_id>
+    <nct_id>NCT04747990</nct_id>
+  </id_info>
+  <brief_title>coMpliAnce With evideNce-based cliniCal Guidelines in the managemenT of Acute biliaRy pancreAtitis</brief_title>
+  <acronym>MANCTRA-1</acronym>
+  <official_title>coMpliAnce With evideNce-based cliniCal Guidelines in the managemenT of Acute biliaRy pancreAtitis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Cagliari</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Chiara Gerardi - Istituto Di Ricerche Farmacologiche Mario Negri</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Federico Coccolini - General, Emergency and Trauma Surgery, Pisa</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Salomone di Saverio -Department of Surgery, Varese</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Gianluca Pellino - Universitá degli Studi della Campania 'Luigi Vanvitelli', Naples</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Francesco Pata - General Surgery Unit, Nicola Giannettasio Hospital, Corigliano-Rossano</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Benedetto Ielpo - HPB Surgery Unit, Hospital del Mar, Barcelona</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Francesco Virdis - Trauma and Acute Care Surgery Unit, Milan</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Dimitrios Damaskos - Royal Infirmary of Edinburgh, Edinburgh</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Stavros Gourgiotis - Addenbrooke's Hospital, Cambridge</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Gaetano Poillucci - Department of Surgery &quot;Paride Stefanini&quot;, Rome</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Daniela Pacella - University of Naples Federico II, Naples</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Kumar Jayant- University of Chicago, USA</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ferdinando Agresta- Vittorio Veneto Civil Hospital, Italy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ari Leppaniemi - University of Helsinki, Finland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fausto Catena - Maggiore Hospital, Parma</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Yoram Kluger - Rambam Health care campus, Haifa</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Adolfo Pisanu - University of Cagliari, Cagliari</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Cagliari</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Acute pancreatitis (AP) is an inflammatory disease of the pancreas, most commonly caused by&#xD;
+      gallstones, or excessive use of alcohol. It represents a management challenge and a&#xD;
+      significant healthcare burden. The incidence of AP ranges globally from 5 to 30 cases per&#xD;
+      100.000 inhabitants/year, and there is evidence that the incidence has been rising in recent&#xD;
+      years. The overall case-fatality rate for AP is roughly 5%, and it is expectedly higher for&#xD;
+      more severe stages of the disease. In most cases (80%), the outcome of AP is rapidly&#xD;
+      favorable. However, acute necrotizing pancreatitis (ANP) may develop in up to 20% of cases,&#xD;
+      and is associated with significant rates of early organ failure (38%), needing some type of&#xD;
+      surgical/endoscopic intervention (38%) and death (15%).&#xD;
+&#xD;
+      In the United States, AP is a leading cause of inpatient care among gastrointestinal&#xD;
+      conditions: more than 270.000 patients are hospitalized for AP annually, at an aggregate cost&#xD;
+      of over 2.5 billion dollars per year. In Europe, the UK incidence of AP is estimated as 15-42&#xD;
+      cases per 100.000/year and is rising by 2.7% each year. Despite existing evidence-based&#xD;
+      practice guidelines for the management of biliary AP, clinical compliance with&#xD;
+      recommendations is poor, with studies on this field identifying major discrepancies between&#xD;
+      evidence-based recommendations and daily clinical practice. Audits about biliary AP have been&#xD;
+      performed in Italy, Germany, France, and England, with quite disappointing results. Indeed,&#xD;
+      in these audits, the treatment of biliary AP differed substantially from the recommendations.&#xD;
+      For example, less than 15% of the responders stated that they strictly followed all&#xD;
+      recommendations included in the guidelines in Germany and 25.8% of patients did not receive&#xD;
+      definitive treatment for biliary AP within 1 year in the UK. These findings support the view&#xD;
+      that publication alone of nationally or internationally developed and approved guidelines is&#xD;
+      insufficient to modify the practice of non-specialists and raises the question of how best to&#xD;
+      spread guideline recommendations. In 2020, the spread of the virus Covid-19 has represented a&#xD;
+      pandemic that also had a profound impact on the surgical community. There are many ways&#xD;
+      through which the outbreak of the Covid-19 pandemic could have influenced daily clinical&#xD;
+      practice for patients with biliary AP also leading to a failure to adhere to the&#xD;
+      recommendations coming from the guidelines, especially those regarding the early and&#xD;
+      definitive treatment with cholecystectomy or ERCP and sphincterotomy. First of all, the&#xD;
+      recommendation to postpone all non-urgent endoscopic procedures during the peak of the&#xD;
+      pandemic. Second, the recommendation to conservatively treat inflammatory conditions such as&#xD;
+      acute cholecystitis and acute appendicitis wherever possible.&#xD;
+&#xD;
+      Since the clinical compliance with recommendations about AP is poor and the impact of&#xD;
+      implementing guideline recommendations in biliary AP has not been well studied on a global&#xD;
+      basis, we launched the MANCTRA-1 study with the aim to demonstrate areas where there is&#xD;
+      currently a sub-optimal implementation of contemporary guidelines on biliary AP.&#xD;
+&#xD;
+      Moreover, we argue that during the Covid-19 pandemic the tendency to disregard the guidelines&#xD;
+      recommendations has been more marked than usual and we will try to find out if AP patients'&#xD;
+      care during the Covid-19 pandemic resulted in a higher rate of adverse outcomes compared to&#xD;
+      non-pandemic times due to the lack in the compliance of the guidelines.&#xD;
+&#xD;
+      The MANCTRA-1 can identify a number of areas for quality improvement that will require new&#xD;
+      implementation strategies. Our aim is to summarize the main areas of sub-optimal care to&#xD;
+      provide the basis for introducing a number of bundles in the management of AP patients to be&#xD;
+      implemented during the next years.&#xD;
+&#xD;
+      The primary objective of the study is to evaluate which items of the current AP guidelines if&#xD;
+      disregarded, correlate with negative clinical outcomes according to the different clinical&#xD;
+      presentations of the disease.&#xD;
+&#xD;
+      Secondary objectives are to assess the compliance of surgeons worldwide to the most&#xD;
+      up-to-date international guidelines on biliary AP, to evaluate the medical and surgical&#xD;
+      practice in the management of biliary AP during the non-pandemic (2019) and pandemic Covid-19&#xD;
+      periods (2020), and to investigate outcomes of patients with biliary AP treatment during the&#xD;
+      two study periods.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background&#xD;
+&#xD;
+      Acute pancreatitis (AP) is an inflammatory disease of the pancreas, most commonly caused by&#xD;
+      gallstones, or excessive use of alcohol. It represents a management challenge and a&#xD;
+      significant healthcare burden. The incidence of AP ranges globally from 5 to 30 cases per&#xD;
+      100.000 inhabitants/year, and there is evidence that the incidence has been rising in recent&#xD;
+      years. The overall case-fatality rate for AP is roughly 5%, and it is expectedly higher for&#xD;
+      more severe stages of the disease. In most cases (80%), the outcome of AP is rapidly&#xD;
+      favorable. However, acute necrotizing pancreatitis (ANP) may develop in up to 20% of cases,&#xD;
+      and is associated with significant rates of early organ failure (38%), needing some type of&#xD;
+      surgical/endoscopic intervention (38%) and death (15%).&#xD;
+&#xD;
+      In the United States, AP is a leading cause of inpatient care among gastrointestinal&#xD;
+      conditions: more than 270.000 patients are hospitalized for AP annually, at an aggregate cost&#xD;
+      of over 2.5 billion dollars per year. In Europe, the UK incidence of AP is estimated as 15-42&#xD;
+      cases per 100.000/year and is rising by 2.7% each year.&#xD;
+&#xD;
+      Several scientific societies published their clinical practice guidelines making&#xD;
+      recommendations on the management of AP. The main topics of these guidelines are the&#xD;
+      diagnosis, antibiotic treatment, management in the intensive care unit, surgical and&#xD;
+      operative management, and open abdomen management.&#xD;
+&#xD;
+      Audits about biliary AP have been performed in Italy, Germany, France, and England, with&#xD;
+      quite disappointing results. Indeed, in these audits, the treatment of biliary AP differed&#xD;
+      substantially from the recommendations. For example, less than 15% of the responders stated&#xD;
+      that they strictly followed all recommendations included in the guidelines in Germany and&#xD;
+      25.8% of patients did not receive definitive treatment for biliary AP within 1 year in the&#xD;
+      UK.&#xD;
+&#xD;
+      A recent study from Singapore aiming to review the clinical management of patients with AP in&#xD;
+      an HPB referral center in the light of assessing the compliance to the 2013 International&#xD;
+      Association of Pancreatology (IAP)/American Pancreatic Association (APA) and the 2015&#xD;
+      Japanese guidelines found that only 50% of patients received Ringer lactate for initial fluid&#xD;
+      resuscitation, 38.7% received antibiotics as prophylaxis, 21.4% of patients with severe AP&#xD;
+      had early enteral nutrition, and only 21.4% patients with biliary AP had index admission&#xD;
+      cholecystectomy despite the recommendations. In another recent study by a Canadian group,&#xD;
+      only 25% of patients with gallstones AP underwent a cholecystectomy on the same admission.&#xD;
+      Furthermore, only one-quarter of patients in whom an index admission cholecystectomy was not&#xD;
+      possible underwent ERCP with sphincterotomy, and only one-third of patients with gallstones&#xD;
+      AP and an imaging-confirmed obstructed common bile duct had an ERCP and sphincterotomy. Slow&#xD;
+      implementation of the recommendation on early cholecystectomy has been reported also in a&#xD;
+      Danish survey seeking compliance with the recommendations of the national reference program&#xD;
+      for the treatment of patients with gallstone disease, and a similar lack of compliance with&#xD;
+      guidelines was found in Italy, mainly regarding indications for endoscopic and surgical&#xD;
+      management.&#xD;
+&#xD;
+      Conversely, a recent study from Sweden has shown that by improved compliance to current AP&#xD;
+      guidelines, recurrence rate and associated costs can be reduced. The authors found that 80%&#xD;
+      of patients with biliary AP underwent definitive treatment during their first attack (68%&#xD;
+      cholecystectomy, 17% ERCP and sphincterotomy, 15% both interventions).&#xD;
+&#xD;
+      Moreover, significant overall differences between the practice of HPB specialists and&#xD;
+      non-specialists in gallstone AP have been reported, especially regarding severity assessment,&#xD;
+      indication and timing of requesting CT scan, nutritional support, and in common bile duct&#xD;
+      assessment prior to cholecystectomy.&#xD;
+&#xD;
+      These findings support the view that publication alone of nationally or internationally&#xD;
+      developed and approved guidelines is insufficient to modify the practice of non-specialists&#xD;
+      and raises the question of how best to spread guideline recommendations. Previous reports,&#xD;
+      including the one from France in 2012 have shown that major changes in biliary AP patients&#xD;
+      management were noticed since the publication of the French guidelines. In particular, after&#xD;
+      the publication of the mentioned guidelines, lipase levels were measured for establishing AP&#xD;
+      diagnosis by 99% (vs. 83% pre-guidelines) and a CT scan was performed at 48h by 69% (vs. 29%&#xD;
+      pre-guidelines) to evaluate AP severity. Antibiotic prophylaxis and enteral nutrition were&#xD;
+      proposed by 20% (vs. 57% pre-guidelines) and 58% (vs. 25% pre-guidelines) for necrotizing AP.&#xD;
+&#xD;
+      Management of pancreatic necrosis Infection of pancreatic necrosis is the predominant driver&#xD;
+      of sustained morbidity and late mortality in patients with severe AP. The subset of patients&#xD;
+      with ANP may face a complex and prolonged clinical course, with an associated mortality of up&#xD;
+      to 30% if an infection develops in the necrotic collection. Optimal management of patients&#xD;
+      with pancreatic necrosis requires a multidisciplinary approach, and specific guidelines for&#xD;
+      this specific subgroup of patients have been recently released. Although antibiotic&#xD;
+      prophylaxis may prevent or reduce colonization of necrosis, the results of RCTs evaluating&#xD;
+      this approach and meta-analyses do not support prophylaxis. Consequently, internationally&#xD;
+      applicable recommendations are that intravenous antibiotic prophylaxis is not recommended for&#xD;
+      the prevention of infectious complications in AP. However, several global overviews assessing&#xD;
+      reports from across the world of the use of antibiotics in prophylaxis in AP have shown a&#xD;
+      spread diffusion of such behavior.&#xD;
+&#xD;
+      COVID-19 and management of AP In 2020, the spread of the virus Covid-19 has represented a&#xD;
+      pandemic that also had a profound impact on the surgical community. The constant increase in&#xD;
+      the number of patients requiring treatment has represented a huge challenge for the&#xD;
+      healthcare systems of many involved countries and could be their breaking point. In an&#xD;
+      emergency situation, resources must be concentrated and used rationally, both to handle the&#xD;
+      pandemic and to continue handling the pre-existing diseases. In this context, the majority of&#xD;
+      surgical departments were forced to re-schedule their activity giving priority to&#xD;
+      urgent/emergent surgical cases and to non-deferrable oncological cases. There are many ways&#xD;
+      through which the outbreak of the Covid-19 pandemic could have influenced daily clinical&#xD;
+      practice for patients with biliary AP also leading to a failure to adhere to the&#xD;
+      recommendations coming from the guidelines, especially those regarding the early and&#xD;
+      definitive treatment with cholecystectomy or ERCP and sphincterotomy. First of all, the&#xD;
+      recommendation to postpone all non-urgent endoscopic procedures during the peak of the&#xD;
+      pandemic. Second, the recommendation to conservatively treat inflammatory conditions such as&#xD;
+      acute cholecystitis and acute appendicitis wherever possible.&#xD;
+&#xD;
+      The rationale for the study Despite existing evidence-based practice guidelines for the&#xD;
+      management of biliary AP, in Europe clinical compliance with recommendations is poor. Studies&#xD;
+      in this field have identified major discrepancies between evidence-based recommendations and&#xD;
+      daily clinical practice.&#xD;
+&#xD;
+      It is believed by many that clinical guidelines would help to decrease inappropriate&#xD;
+      variation in practice, that they provide a rational basis for referral, and that they would&#xD;
+      help to reduce uncertainty in the management of some conditions. Clinical guidelines also&#xD;
+      provide a basis for continuing medical education and can improve control of healthcare costs.&#xD;
+      However, the value of national and/or international guidelines is very much dependent on a&#xD;
+      strategy for their implementation.&#xD;
+&#xD;
+      Although different guidelines for the management of biliary AP have been published, they have&#xD;
+      not been properly investigated and compliance has generally been unsatisfactory. Deficiencies&#xD;
+      and lack of standardization of the management of AP worldwide have been reported.&#xD;
+&#xD;
+      The most commonly reported gaps between clinical practice and guidelines on AP include the&#xD;
+      indications for CT scan, need and timing of artificial nutritional support, indications for&#xD;
+      antibiotics, and surgical/endoscopic management of biliary AP.&#xD;
+&#xD;
+      The MANCTRA-1 can identify a number of areas for quality improvement that will require new&#xD;
+      implementation strategies.&#xD;
+&#xD;
+      Aim of the study Since the clinical compliance with recommendations about AP is poor and the&#xD;
+      impact of implementing guideline recommendations in biliary AP has not been well studied on a&#xD;
+      global basis, the MANCTRA-1 study has been launched with the aim to demonstrate areas where&#xD;
+      there is currently a sub-optimal implementation of contemporary guidelines on biliary AP. The&#xD;
+      main areas of sub-optimal care due to the lack of compliance with current guidelines will be&#xD;
+      investigated to provide the basis for introducing a number of bundles in the management of AP&#xD;
+      patients to be implemented during the next years. Moreover, during the Covid-19 pandemic, the&#xD;
+      tendency to disregard the guidelines recommendations may have been more marked than usual.&#xD;
+      The study will try to find out if AP patients' care during the Covid-19 pandemic resulted in&#xD;
+      a higher rate of adverse outcomes compared to non-pandemic times due to the lack of&#xD;
+      compliance with the guidelines.&#xD;
+&#xD;
+      Primary objective To evaluate which items of the current AP guidelines, if disregarded,&#xD;
+      correlate with negative clinical outcomes according to the different clinical presentations&#xD;
+      of the disease&#xD;
+&#xD;
+      Secondary objectives To assess the compliance of surgeons worldwide to the most up-to-date&#xD;
+      international guidelines on biliary AP.&#xD;
+&#xD;
+      To evaluate the medical and surgical practice in the management of biliary AP during the&#xD;
+      non-pandemic (2019) and pandemic Covid-19 periods (2020).&#xD;
+&#xD;
+      To investigate outcomes of patients with biliary AP treatment during the two study periods.&#xD;
+&#xD;
+      Study design The MANCTRA-1 study (coMpliAnce with evideNce-based cliniCal guidelines in the&#xD;
+      managemenT of acute biliaRy pancreAtitis) is an international multicenter, retrospective&#xD;
+      cohort study to assess the outcomes of patients admitted to hospital with a diagnosis of&#xD;
+      biliary AP and the compliance of surgeons worldwide to the most up-to-date international&#xD;
+      guidelines on biliary AP. The study compares data collected in 2019 (pre-pandemic period)&#xD;
+      with those of 2020 (Covid-19 pandemic period).&#xD;
+&#xD;
+      Study population All consecutive adult patients admitted to the participating surgical&#xD;
+      departments with a clinical and radiological diagnosis of biliary AP (with and without&#xD;
+      concomitant cholecystitis) between 01/01/2019 and 31/12/2020. Patient data will be&#xD;
+      retrospectively analyzed and demographic characteristics, comorbidity status, clinical and&#xD;
+      radiological findings, treatment strategies, 30-day morbidity, and mortality will be&#xD;
+      evaluated.&#xD;
+&#xD;
+      Study periods The pre-pandemic period runs from 01/01/2019 to 31/12/2019. The Covid-19&#xD;
+      pandemic period runs from 01/01/2020 to 31/12/2020. Data will be entered in the database from&#xD;
+      01/03/2021 to 31/08/2021.&#xD;
+&#xD;
+      Data collection All epidemiological, clinical, and surgical data will be collected on a CFR&#xD;
+      that will be completed by accessing a protected data system. The link for accessing the&#xD;
+      completion of the CFR will be sent via email to only one contact person (Local Lead) of each&#xD;
+      participating center.&#xD;
+&#xD;
+      Sample size Studies on biliary AP found a mortality rate of approximately 10%. Patients with&#xD;
+      biliary AP tend to have higher mortality than patients with alcoholic pancreatitis. However,&#xD;
+      this rate has been falling over the last 2 decades as improvements in supportive care have&#xD;
+      been initiated. In patients with severe disease (organ failure), who account for about 20% of&#xD;
+      presentations, mortality is approximately 30%. This rate has not decreased in the past 10&#xD;
+      years.&#xD;
+&#xD;
+      We estimate that a minimum of 200 patients per group (2019 vs. 2020) would yield a power of&#xD;
+      0.80 (1-ß) to establish whether changes in clinical care for patients with biliary AP during&#xD;
+      the Covid-19 pandemic has impacted on overall mortality using a one-sided significance ɑ&#xD;
+      level of 0.05 (5%) with power sample size calculator (sealedenvelope.com).&#xD;
+&#xD;
+      Statistical analysis The dichotomous variables will be expressed as numbers and percentages,&#xD;
+      while continuous variables will be expressed as mean and SD, or median and IQR (minimum and&#xD;
+      maximum values). Student's t-test or ANOVA will be used for comparisons of continuous&#xD;
+      variables between groups. Chi-squared test or Fisher's exact test, as appropriate, will be&#xD;
+      used for the analysis of categorical data. Multi logistics regression models will be used to&#xD;
+      investigate clinical, laboratory, and radiologic variables predictive of morbidity and&#xD;
+      mortality. A value of P &lt; 0.05 will be considered statistically significant.&#xD;
+&#xD;
+      Ethical aspects This is an international observational study, it will not attempt to change&#xD;
+      or modify the clinical practice of the participating physicians. The study will meet and&#xD;
+      conform to the standards outlined in the Declaration of Helsinki and Good Epidemiological&#xD;
+      Practices. Every clinical center attending the study is responsible for Ethics Committee&#xD;
+      approval depending on the local policy for observational and non-interventional studies. All&#xD;
+      surgeons involved in the patients' recruitment will be included in the research authorship.&#xD;
+&#xD;
+      Publication policy The Local Lead and two Collaborators from each center will be listed as&#xD;
+      Co-authors in the final publications. Data will be published as a pool from all participating&#xD;
+      surgical units. Data that emerged from the MANCTRA-1 study will be published irrespective of&#xD;
+      findings. Results will be published on ClinicalTrials.Gov and each manuscript that is&#xD;
+      generated based on the registry will be disseminated to all participating centers before&#xD;
+      final publication.&#xD;
+&#xD;
+      Safety issues None.&#xD;
+&#xD;
+      Data collection In each center, the coordinator will collect and compile data in an online&#xD;
+      case report system. Data will be recorded contemporaneously on a dedicated, secure server&#xD;
+      that allows collaborators to enter and store data in a secure system. No patient identifiable&#xD;
+      data (name, date of birth, address, telephone number, etc.) will be recorded.&#xD;
+&#xD;
+      Informed consent Due to its retrospective design, this observational study will not attempt&#xD;
+      to change or modify the laboratory or clinical practices of the participating physicians.&#xD;
+      Consequently, informed consent will not be required.&#xD;
+&#xD;
+      Data management Every local investigator is responsible for entering data on an online case&#xD;
+      report form for every patient included in the study.&#xD;
+&#xD;
+      Funding This research has not received any specific grant from funding agencies in the&#xD;
+      public, commercial, or not-for-profit sectors.&#xD;
+&#xD;
+      Financial and Insurance Not applicable.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">September 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>30-day</time_frame>
+    <description>30-day mortality: assessed by the number of AP patients with biliary etiology deceased during the non-pandemic period (2019) and the Covid-19 pandemic period (2020)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Early Cholecystectomy or ERCP and Sphincterotomy</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Early definitive treatment rate in 2019 vs. 2020: defined as the number of patients treated in accordance with the current guidelines (cholecystectomy or ERCP with endoscopic sphincterotomy during the same hospital admission or within 2 weeks of discharge)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital re-admission</measure>
+    <time_frame>30-days</time_frame>
+    <description>30-day hospital readmission rate in 2019 vs. 2020: defined as the number of patients re-admitted to the hospital within 30-days from discharge for recurrent biliary AP while awaiting interval cholecystectomy, or due to post-cholecystectomy complications</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Morbidity</measure>
+    <time_frame>30-day</time_frame>
+    <description>30-day morbidity: assessed by the number of AP patients with biliary etiology who experienced any type of AP-related complication within 30-days from the hospital admission during the non-pandemic period (2019) and the Covid-19 pandemic period (2020)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital readmission</measure>
+    <time_frame>30-day</time_frame>
+    <description>30-day hospital readmission: defined as the number of AP patients with biliary etiology readmitted to hospital in 2019 vs. 2020 within 30-days from discharge for recurrent biliary AP while awaiting interval cholecystectomy.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Acute Pancreatitis</condition>
+  <condition>Acute Pancreatic Necrosis</condition>
+  <condition>Acute Pancreatitis Due to Gallstones</condition>
+  <condition>Acute Pancreatic Fluid Collection</condition>
+  <condition>Acute Pancreatitis With Infected Necrosis</condition>
+  <condition>Acute Pancreatitis Without Necrosis or Infection</condition>
+  <condition>Acute Pancreatitis Due to Common Bile Duct Calculus</condition>
+  <condition>Acute Pancreatitis Recurrent</condition>
+  <condition>Acute Pancreatitis Without Necrosis or Infection (Diagnosis)</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Baseline (Pre-Covid19) group</arm_group_label>
+    <description>All patients admitted to the participating surgical departments with a clinical and radiological diagnosis of biliary acute pancreatitis in 2019</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pandemic (During Covid-19) group</arm_group_label>
+    <description>All patients admitted to the participating surgical departments with a clinical and radiological diagnosis of biliary acute pancreatitis in 2020</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Early Definitive Treatment</intervention_name>
+    <description>defined as treatment in accordance with the current guidelines (cholecystectomy or ERCP with endoscopic sphincterotomy during the same hospital admission or within 2 weeks of discharge)</description>
+    <arm_group_label>Baseline (Pre-Covid19) group</arm_group_label>
+    <arm_group_label>Pandemic (During Covid-19) group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients admitted to the participating surgical departments with a clinical and&#xD;
+        radiological diagnosis of biliary AP (with and without concomitant cholecystitis).&#xD;
+&#xD;
+        In the United States, AP is a leading cause of inpatient care among gastrointestinal&#xD;
+        conditions: more than 270.000 patients are hospitalized for AP annually, at an aggregate&#xD;
+        cost of over 2.5 billion dollars per year [5]. In Europe, the UK incidence of AP is&#xD;
+        estimated as 15-42 cases per 100.000/year and is rising by 2.7% each year [6].&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients of both sexes, ≥ 16 years old, admitted to any of the participating surgical&#xD;
+             departments for biliary AP.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with AP of etiology other than gallstones; Pregnant patients.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Mauro Podda, M.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Cagliari</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Adolfo Pisanu, Ph.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Cagliari - Department of Surgical Science</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mauro Podda, M.D.</last_name>
+    <email>mauropodda@ymail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Adolfo Pisanu, PHh.D.</last_name>
+    <phone>+3907051096571</phone>
+    <phone_ext>8360</phone_ext>
+    <email>adolfo.pisanu@unica.it</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Krishna SG, Kamboj AK, Hart PA, Hinton A, Conwell DL. The Changing Epidemiology of Acute Pancreatitis Hospitalizations: A Decade of Trends and the Impact of Chronic Pancreatitis. Pancreas. 2017 Apr;46(4):482-488. doi: 10.1097/MPA.0000000000000783.</citation>
+    <PMID>28196021</PMID>
+  </reference>
+  <reference>
+    <citation>Koutroumpakis E, Slivka A, Furlan A, Dasyam AK, Dudekula A, Greer JB, Whitcomb DC, Yadav D, Papachristou GI. Management and outcomes of acute pancreatitis patients over the last decade: A US tertiary-center experience. Pancreatology. 2017 Jan - Feb;17(1):32-40. doi: 10.1016/j.pan.2016.10.011. Epub 2016 Oct 24.</citation>
+    <PMID>28341116</PMID>
+  </reference>
+  <reference>
+    <citation>Singh VK, Bollen TL, Wu BU, Repas K, Maurer R, Yu S, Mortele KJ, Conwell DL, Banks PA. An assessment of the severity of interstitial pancreatitis. Clin Gastroenterol Hepatol. 2011 Dec;9(12):1098-103. doi: 10.1016/j.cgh.2011.08.026. Epub 2011 Sep 3.</citation>
+    <PMID>21893128</PMID>
+  </reference>
+  <reference>
+    <citation>van Santvoort HC, Bakker OJ, Bollen TL, Besselink MG, Ahmed Ali U, Schrijver AM, Boermeester MA, van Goor H, Dejong CH, van Eijck CH, van Ramshorst B, Schaapherder AF, van der Harst E, Hofker S, Nieuwenhuijs VB, Brink MA, Kruyt PM, Manusama ER, van der Schelling GP, Karsten T, Hesselink EJ, van Laarhoven CJ, Rosman C, Bosscha K, de Wit RJ, Houdijk AP, Cuesta MA, Wahab PJ, Gooszen HG; Dutch Pancreatitis Study Group. A conservative and minimally invasive approach to necrotizing pancreatitis improves outcome. Gastroenterology. 2011 Oct;141(4):1254-63. doi: 10.1053/j.gastro.2011.06.073. Epub 2011 Jul 8.</citation>
+    <PMID>21741922</PMID>
+  </reference>
+  <reference>
+    <citation>Peery AF, Crockett SD, Barritt AS, Dellon ES, Eluri S, Gangarosa LM, Jensen ET, Lund JL, Pasricha S, Runge T, Schmidt M, Shaheen NJ, Sandler RS. Burden of Gastrointestinal, Liver, and Pancreatic Diseases in the United States. Gastroenterology. 2015 Dec;149(7):1731-1741.e3. doi: 10.1053/j.gastro.2015.08.045. Epub 2015 Aug 29.</citation>
+    <PMID>26327134</PMID>
+  </reference>
+  <reference>
+    <citation>Goodchild G, Chouhan M, Johnson GJ. Practical guide to the management of acute pancreatitis. Frontline Gastroenterol. 2019 Jul;10(3):292-299. doi: 10.1136/flgastro-2018-101102. Epub 2019 Mar 2. Review.</citation>
+    <PMID>31288253</PMID>
+  </reference>
+  <reference>
+    <citation>Leppäniemi A, Tolonen M, Tarasconi A, Segovia-Lohse H, Gamberini E, Kirkpatrick AW, Ball CG, Parry N, Sartelli M, Wolbrink D, van Goor H, Baiocchi G, Ansaloni L, Biffl W, Coccolini F, Di Saverio S, Kluger Y, Moore E, Catena F. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019 Jun 13;14:27. doi: 10.1186/s13017-019-0247-0. eCollection 2019. Review.</citation>
+    <PMID>31210778</PMID>
+  </reference>
+  <reference>
+    <citation>Toh SK, Phillips S, Johnson CD. A prospective audit against national standards of the presentation and management of acute pancreatitis in the South of England. Gut. 2000 Feb;46(2):239-43.</citation>
+    <PMID>10644319</PMID>
+  </reference>
+  <reference>
+    <citation>Gurusamy KS, Farouk M, Tweedie JH. UK guidelines for management of acute pancreatitis: is it time to change? Gut. 2005 Sep;54(9):1344-5.</citation>
+    <PMID>16099804</PMID>
+  </reference>
+  <reference>
+    <citation>Lankisch PG, Weber-Dany B, Lerch MM. Clinical perspectives in pancreatology: compliance with acute pancreatitis guidelines in Germany. Pancreatology. 2005;5(6):591-3. Epub 2005 Aug 16.</citation>
+    <PMID>16110257</PMID>
+  </reference>
+  <reference>
+    <citation>Cavallini G, Frulloni L, Bassi C, Gabbrielli A, Castoldi L, Costamagna G, De Rai P, Di Carlo V, Falconi M, Pezzilli R, Uomo G; ProInf-AISP Study Group. Prospective multicentre survey on acute pancreatitis in Italy (ProInf-AISP): results on 1005 patients. Dig Liver Dis. 2004 Mar;36(3):205-11.</citation>
+    <PMID>15046191</PMID>
+  </reference>
+  <reference>
+    <citation>Green R, Charman SC, Palser T. Early definitive treatment rate as a quality indicator of care in acute gallstone pancreatitis. Br J Surg. 2017 Nov;104(12):1686-1694. doi: 10.1002/bjs.10578. Epub 2017 Aug 9.</citation>
+    <PMID>28792589</PMID>
+  </reference>
+  <reference>
+    <citation>Tan JW, Gao Y, Kow AWC, Bonney G, Madhavan K, Windsor JA, Iyer SG. Clinical management and outcomes of acute pancreatitis: Identifying areas for quality improvement in a tertiary Asian setting. Pancreatology. 2019 Jun;19(4):507-518. doi: 10.1016/j.pan.2019.04.011. Epub 2019 Apr 30.</citation>
+    <PMID>31088718</PMID>
+  </reference>
+  <reference>
+    <citation>Greenberg JA, Hsu J, Bawazeer M, Marshall J, Friedrich JO, Nathens A, Coburn N, Huang H, McLeod RS. Compliance with Evidence-Based Guidelines in Acute Pancreatitis: an Audit of Practices in University of Toronto Hospitals. J Gastrointest Surg. 2016 Feb;20(2):392-400. doi: 10.1007/s11605-015-3023-9. Epub 2015 Nov 30.</citation>
+    <PMID>26621675</PMID>
+  </reference>
+  <reference>
+    <citation>Jakobsen HL, Rosenberg J, Schulze S, Kristiansen VB. [Treatment of gallstone pancreatitis in Denmark]. Ugeskr Laeger. 2005 Jun 13;167(24):2651-3. Danish.</citation>
+    <PMID>16014225</PMID>
+  </reference>
+  <reference>
+    <citation>Pezzilli R, Uomo G, Gabbrielli A, Zerbi A, Frulloni L, De Rai P, Castoldi L, Cavallini G, Di Carlo V; ProInf-AISP Study Group. A prospective multicentre survey on the treatment of acute pancreatitis in Italy. Dig Liver Dis. 2007 Sep;39(9):838-46. Epub 2007 Jun 29.</citation>
+    <PMID>17602904</PMID>
+  </reference>
+  <reference>
+    <citation>Ragnarsson T, Andersson R, Ansari D, Persson U, Andersson B. Acute biliary pancreatitis: focus on recurrence rate and costs when current guidelines are not complied. Scand J Gastroenterol. 2017 Mar;52(3):264-269. doi: 10.1080/00365521.2016.1243258. Epub 2016 Dec 9.</citation>
+    <PMID>27700180</PMID>
+  </reference>
+  <reference>
+    <citation>Aly EA, Milne R, Johnson CD. Non-compliance with national guidelines in the management of acute pancreatitis in the United kingdom. Dig Surg. 2002;19(3):192-8.</citation>
+    <PMID>12119521</PMID>
+  </reference>
+  <reference>
+    <citation>Baron TH, DiMaio CJ, Wang AY, Morgan KA. American Gastroenterological Association Clinical Practice Update: Management of Pancreatic Necrosis. Gastroenterology. 2020 Jan;158(1):67-75.e1. doi: 10.1053/j.gastro.2019.07.064. Epub 2019 Aug 31. Review.</citation>
+    <PMID>31479658</PMID>
+  </reference>
+  <reference>
+    <citation>Trikudanathan G, Wolbrink DRJ, van Santvoort HC, Mallery S, Freeman M, Besselink MG. Current Concepts in Severe Acute and Necrotizing Pancreatitis: An Evidence-Based Approach. Gastroenterology. 2019 May;156(7):1994-2007.e3. doi: 10.1053/j.gastro.2019.01.269. Epub 2019 Feb 15. Review.</citation>
+    <PMID>30776347</PMID>
+  </reference>
+  <reference>
+    <citation>Lim CL, Lee W, Liew YX, Tang SS, Chlebicki MP, Kwa AL. Role of antibiotic prophylaxis in necrotizing pancreatitis: a meta-analysis. J Gastrointest Surg. 2015 Mar;19(3):480-91. doi: 10.1007/s11605-014-2662-6. Epub 2015 Jan 22. Review.</citation>
+    <PMID>25608671</PMID>
+  </reference>
+  <reference>
+    <citation>Baltatzis M, Jegatheeswaran S, O'Reilly DA, Siriwardena AK. Antibiotic use in acute pancreatitis: Global overview of compliance with international guidelines. Pancreatology. 2016 Mar-Apr;16(2):189-93. doi: 10.1016/j.pan.2015.12.179. Epub 2016 Jan 12. Review.</citation>
+    <PMID>26804006</PMID>
+  </reference>
+  <reference>
+    <citation>Rebours V, Lévy P, Bretagne JF, Bommelaer G, Hammel P, Ruszniewski P. Do guidelines influence medical practice? Changes in management of acute pancreatitis 7 years after the publication of the French guidelines. Eur J Gastroenterol Hepatol. 2012 Feb;24(2):143-8. doi: 10.1097/MEG.0b013e32834d864f.</citation>
+    <PMID>22123707</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 10, 2021</study_first_posted>
+  <last_update_submitted>February 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Cagliari</investigator_affiliation>
+    <investigator_full_name>Mauro Podda</investigator_full_name>
+    <investigator_title>M.D., Consultant Surgeon</investigator_title>
+  </responsible_party>
+  <keyword>Acute Pancreatitis</keyword>
+  <keyword>Biliary Pancreatitis</keyword>
+  <keyword>Gallstones Pancreatitis</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Pancreatic Necrosis</keyword>
+  <keyword>Optimal Care</keyword>
+  <keyword>Guidelines</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Pancreatitis</mesh_term>
+    <mesh_term>Gallstones</mesh_term>
+    <mesh_term>Cholelithiasis</mesh_term>
+    <mesh_term>Cholecystolithiasis</mesh_term>
+    <mesh_term>Pancreatitis, Acute Necrotizing</mesh_term>
+    <mesh_term>Necrosis</mesh_term>
+    <mesh_term>Calculi</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 16, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/90/NCT04747990/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

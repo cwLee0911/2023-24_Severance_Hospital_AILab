@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="381">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04762186</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Uni-Koeln-4480</org_study_id>
+    <nct_id>NCT04762186</nct_id>
+  </id_info>
+  <brief_title>Adoptive SARS-CoV-2 Specific T Cell Transfer in Patients at Risk for Severe COVID-19</brief_title>
+  <acronym>ACT-COVID-19</acronym>
+  <official_title>A Randomized Phase I/II Trial to Analyse Safety and Efficacy of Adoptive SARS-CoV-2 Specific T Cell Transfer in Patients at Risk for Severe COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universitätsklinikum Köln</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>ZKS Köln</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>MMH Institute for Transfusion Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Miltenyi Biomedicine GmbH</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universitätsklinikum Köln</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Monocentric open phase I (dose escalation component), followed by a multi-center, randomized,&#xD;
+      phase II component benchmarking IMP+SoC against SoC&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The clinical trial will consist of a phase I and a phase II part. The main trial objective in&#xD;
+      the phase I part is to determine the recommended phase II dose (RP2D) of adoptive SARS-CoV&#xD;
+      2-specific T cells by evaluation of safety and tolerability.&#xD;
+&#xD;
+      In the phase II part, the primary objective is to gain first data on efficacy of adaptive&#xD;
+      therapy with adoptive SARS-CoV-2-specific T cells. This will be a randomized, prospective&#xD;
+      feasibility trial.&#xD;
+&#xD;
+      All study patients at WHO ordinal scale ≥ 5 will receive the current SoC for treatment of&#xD;
+      Covid-19. Currently this is remdesivir (loading dose 200mg i.v. on day 1, 100mg maintenance&#xD;
+      dose day two to five (up to day 10), dexamethasone 6mg once daily p.o. or i.v. up to day 10&#xD;
+      and a subcutaneous thromboembolism prophylaxis with low molecular-weight heparin. Due to the&#xD;
+      dynamic of the ongoing COVID-19 pandemic, SoC treatments are underlying rapid changes and are&#xD;
+      continuously developed. Therefore, SoC treatment as defined at the time of respective IMP&#xD;
+      dosing, will be administered.&#xD;
+&#xD;
+      The adoptive SARS-CoV-2 specific T cells are suspended and formulated in 50 ml of platelet&#xD;
+      additive solution and will be administered intravenously within 15 min to 30 min.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2021</start_date>
+  <completion_date type="Anticipated">December 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>The clinical trial will consist of a phase I and a phase II part. The main trial objective in the phase I part is to determine the recommended phase II dose (RP2D) of SARS-CoV-2-specific T cells by evaluation of safety and tolerability.&#xD;
+In the phase II part the primary objective is to gain first data on efficacy of adoptive therapy with SARS-CoV-2-specific T cells. This will be a randomized, prospective feasibility trial.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>During the dose-escalation phase I of this clinical trial, the study participants and the study team are aware of the treatment as this is an open label trial.&#xD;
+During phase II both study participants and the study team are aware of the treatment as this again is an open label trial.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase I: Dose-limiting toxicities</measure>
+    <time_frame>28 days</time_frame>
+    <description>Dose-limiting toxicities until Day 28 after infusion of SARS-CoV-2- specific T cells</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase II:</measure>
+    <time_frame>28 days</time_frame>
+    <description>AUC of the course defined by the WHO ordinal scale for COVID-19</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety outcome measures</measure>
+    <time_frame>3 Month</time_frame>
+    <description>The rate and severity of adverse events after infusion of SARS-CoV-2 specific T cells during the trial</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute graft- vs. -host disease</measure>
+    <time_frame>100 days after randomization</time_frame>
+    <description>Clinical manifestations of acute graft- vs. -host disease at day 100 after randomization</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">51</enrollment>
+  <condition>Moderate COVID-19-infection</condition>
+  <arm_group>
+    <arm_group_label>Phase I dose level 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose level one consists of 3 study patients receiving 1,000 adoptive SARS-CoV-2 specific T cells (IMP) per kg BW. If the first recipient does not experience a DLT associated with the dose level one therapeutic cells within 28 days, the second and third patient will receive 1.000 SARS-CoV-2 adoptive SARS-CoV-2 specific T cells per kg BW. If patient second and third do not experience a DLT within 14 days after treatment, the dose level two will be initiated.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase I dose level 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose level two consists of 3 study patients receiving 5.000 adoptive SARS-CoV-2 specific T cells (IMP) per kg BW. If the fourth patient does not experience a DLT associated with the dose level two within 28 days, the fifth and sixth patient will receive 5.000 adoptive SARS-CoV-2 specific T cells per kg BW.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase II SoC plus IMP at the RP2D</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Phase II SoC plus IMP at the RP2D consists of 26 patients treated with SoC plus adoptive SARS-CoV-2-specific T cells at the RP2D (Recommended Phase II Dose).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase II SoC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Phase II SoC consists of 13 patients treated with SoC.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>IMP 1,000 plus SoC</intervention_name>
+    <description>Intravenous administration of 1,000 adoptive SARS-CoV-2 specific T cells (IMP) per kg BW.&#xD;
+The adoptive SARS-CoV-2 specific T cells are suspended and formulated in 50 ml of platelet additive solution and will be administered intravenously within 15 min to 30 min.&#xD;
+All study patients at WHO Ordinal Scale ≥ 5 will receive the current SoC for treatment of COVID-19. Currently this is remdesivir (loading dose 200 mg i.v. on day 1, 100 mg maintenance dose day two to five (up to day 10)) - only WHO Ordinal Scale 5, dexamethasone 6 mg once daily p.o. or i.v. up to day 10 and a subcutaneous thromboembolism prophylaxis with low molecular-weight heparin.</description>
+    <arm_group_label>Phase I dose level 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>IMP 5,000 plus SoC</intervention_name>
+    <description>Intravenous administration of 5,000 adoptive SARS-CoV-2 specific T cells (IMP) per kg BW.&#xD;
+The adoptive SARS-CoV-2 specific T cells are suspended and formulated in 50 ml of platelet additive solution and will be administered intravenously within 15 min to 30 min.&#xD;
+All study patients at WHO Ordinal Scale ≥ 5 will receive the current SoC for treatment of COVID-19. Currently this is remdesivir (loading dose 200 mg i.v. on day 1, 100 mg maintenance dose day two to five (up to day 10)) - only WHO Ordinal Scale 5, dexamethasone 6 mg once daily p.o. or i.v. up to day 10 and a subcutaneous thromboembolism prophylaxis with low molecular-weight heparin.</description>
+    <arm_group_label>Phase I dose level 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>IMP RP2D plus SoC</intervention_name>
+    <description>Intravenous administration adoptive SARS-CoV-2 specific T cells (IMP) at Recommended Phase II Dose (RP2D).&#xD;
+The adoptive SARS-CoV-2 specific T cells are suspended and formulated in 50 ml of platelet additive solution and will be administered intravenously within 15 min to 30 min.</description>
+    <arm_group_label>Phase II SoC plus IMP at the RP2D</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SoC</intervention_name>
+    <description>Patients will receive the current SoC for treatment of COVID-19.&#xD;
+Currently this is remdesivir (loading dose 200 mg i.v. on day 1, 100 mg maintenance dose day two to five (up to day 10)) - only WHO Ordinal Scale 5, dexamethasone 6 mg once daily p.o. or i.v. up to day 10 and a subcutaneous thromboembolism prophylaxis with low molecular-weight heparin.</description>
+    <arm_group_label>Phase II SoC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 years or above&#xD;
+&#xD;
+          -  Written informed consent from the trial subject has been obtained&#xD;
+&#xD;
+          -  Willing to follow contraception guidelines&#xD;
+&#xD;
+          -  Tested positive for SARS-CoV-2 by PCR &lt;72 hours after swab&#xD;
+&#xD;
+          -  WHO score 5 OR&#xD;
+&#xD;
+          -  WHO score 4 with at least one additional risk factor for disease progression&#xD;
+&#xD;
+          -  Acceptable risk factors are:&#xD;
+&#xD;
+               -  Radiographically proven lung infiltrates&#xD;
+&#xD;
+               -  Immunosuppression either by malignant disease or it's treatment, or other&#xD;
+                  underlying diseases leading to immunodeficiency or underlying diseases that&#xD;
+                  require treatment resulting in immunosuppression&#xD;
+&#xD;
+               -  Immunosuppressive drugs for example 6mg dexamethasone per os or intravenous 1x/d&#xD;
+                  (SoC) and steroids at a prednisolone equivalent of &lt;1 mg/kg BW) are allowed&#xD;
+&#xD;
+               -  Autologous transplant during the past 3 months&#xD;
+&#xD;
+               -  Allogeneic transplant during the past year or ongoing immunosuppression or&#xD;
+                  chronic Graft-versus-Host Disease&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Participation in any other clinical trial of an experimental agent treatment for&#xD;
+             COVID-19&#xD;
+&#xD;
+          -  COVID-19 WHO ordinal scale ≥6&#xD;
+&#xD;
+          -  Anticipated life-expectancy &lt;72 hours&#xD;
+&#xD;
+          -  Expected duration of hospital stay &lt;72 hours&#xD;
+&#xD;
+          -  Leukocytes &lt;1000/µl or platelets &lt;50.000/µl unless resulting from underlying disease&#xD;
+             or it's treatment&#xD;
+&#xD;
+          -  CT pneumonia score ≥13 [50]&#xD;
+&#xD;
+          -  Any other Steroids ≥ 1mg/kg Prednisolone-equivalent/kg BW, besides 6mg Dexamethasone&#xD;
+             i.v. or p.o. 1x/d (Standard of Care)&#xD;
+&#xD;
+          -  Pregnant or breast feeding&#xD;
+&#xD;
+          -  Any serious medical condition or abnormality of clinical laboratory tests that, in the&#xD;
+             Investigator's judgment, precludes the subject's safe participation in and completion&#xD;
+             of the study&#xD;
+&#xD;
+          -  Failure to use highly-effective contraceptive methods. The following contraceptive&#xD;
+             methods with a Pearl Index lower than 1% are regarded as highly-effective:&#xD;
+&#xD;
+               -  Oral hormonal contraception ('pill')&#xD;
+&#xD;
+               -  Dermal hormonal contraception&#xD;
+&#xD;
+               -  Vaginal hormonal contraception (NuvaRing®)&#xD;
+&#xD;
+               -  Contraceptive plaster&#xD;
+&#xD;
+               -  Long-acting injectable contraceptives&#xD;
+&#xD;
+               -  Implants that release progesterone (Implanon®)&#xD;
+&#xD;
+               -  Tubal ligation (female sterilization)&#xD;
+&#xD;
+               -  Intrauterine devices that release hormones (hormone spiral)&#xD;
+&#xD;
+               -  Double barrier methods This means that the following are not regarded as safe:&#xD;
+                  condom plus spermicide, simple barrier methods (vaginal pessaries, condom, female&#xD;
+                  condoms), copper spirals, the rhythm method, basal temperature method, and the&#xD;
+                  withdrawal method (coitus interruptus).&#xD;
+&#xD;
+          -  Persons with any kind of dependency on the principal investigator or employed by the&#xD;
+             sponsor or principal investigator&#xD;
+&#xD;
+          -  Legally incapacitated persons&#xD;
+&#xD;
+          -  Persons held in an institution by legal or official order&#xD;
+&#xD;
+        [not yet final]&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Philipp Köhler, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department I for Internal Medicine University Hospital of Cologne</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Philipp Köhler, Dr.</last_name>
+    <phone>+49-221-478-85523</phone>
+    <email>philipp.koehler@uk-koeln.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Oliver A. Cornely, Prof.</last_name>
+    <phone>+49-221-478-85523</phone>
+    <email>oliver.cornely@uk-koeln.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Department I for Internal Medicine University Hospital of Cologne</name>
+      <address>
+        <city>Cologne</city>
+        <state>NRW</state>
+        <zip>50937</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Philipp Köhler, Dr.</last_name>
+      <phone>+49-221-478-85523</phone>
+      <email>philipp.koehler@uk-koeln.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Oliver A. Cornely, Prof.</last_name>
+      <phone>+49-221-478-85523</phone>
+      <email>oliver.cornely@uk-koeln.de</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Philipp Köhler, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Oliver A. Cornely, Prof.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>T-Cell</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Infusion</keyword>
+  <keyword>Adoptive</keyword>
+  <keyword>Allogeneic</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

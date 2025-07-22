@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3122">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04821570</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IIT-2021-CANINE</org_study_id>
+    <nct_id>NCT04821570</nct_id>
+  </id_info>
+  <brief_title>To Assess Immunogenicity of Coronavirus Disease 2019 (COVID-19) Vaccine in Cancer Patients Receiving Cancer Treatment</brief_title>
+  <acronym>CANINE</acronym>
+  <official_title>Cancer Therapy and Immunogenicity of COVID Vaccine (CANINE Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Kansas Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Kansas Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a trial of prospective collection of serial blood samples after administration of&#xD;
+      COVID-19 vaccine in patients with cancer who are receiving active cancer treatment, planned&#xD;
+      to start therapy with 14 days of consent, or have had stem cell transplant. Cancer treatments&#xD;
+      and administration of vaccine are not controlled by the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 23, 2021</start_date>
+  <completion_date type="Anticipated">March 28, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 28, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Geometric mean titer (GMT) with corresponding 95%confidence interval (CI) at each time point of the entire population and individually of all cohorts</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Pfizer: Baseline, Day 21, Day 51, Day 111, Day 201.</time_frame>
+    <description>Elecsys Anti severe acute respiratory syndrome (SARS) coronavirus 2 (CoV 2) S quantitative assay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Geometric mean titer (GMT) with corresponding 95% CI at each time point of the entire population and individually of all cohorts</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Moderna: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 S quantitative assay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Geometric mean titer (GMT) with corresponding 95% CI at each time point of the entire population and individually of all cohorts</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Johnson &amp; Johnson: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 S quantitative assay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Geometric mean fold rise (GMFR) with corresponding 95% CI at each post-baseline timepoint over preinjection baseline</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Moderna: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 S quantitative assay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Geometric mean fold rise (GMFR) with corresponding 95% CI at each post-baseline timepoint over preinjection baseline</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Pfizer baseline, Day 21, Day 51, Day 111, Day 201</time_frame>
+    <description>Elecsys Anti SARS CoV 2 S quantitative assay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Geometric mean fold rise (GMFR) with corresponding 95% CI at each post-baseline timepoint over preinjection baseline</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Johnson &amp; Johnson: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 S quantitative assay</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Geometric median, minimum and maximum assay titer values for each cohort</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Moderna: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 S quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric median, minimum and maximum assay titer values for each cohort</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Pfizer: Baseline, Day 21, Day 51, Day 111, Day 201</time_frame>
+    <description>Elecsys Anti SARS CoV 2 S quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric median, minimum and maximum assay titer values for each cohort</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Johnson &amp; Johnson: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 S quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of subjects with fold-rise ≥ 2 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Moderna: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percentage of subjects with fold-rise ≥ 2 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Moderna: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of subjects with fold-rise ≥ 3 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Moderna: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percentage of subjects with fold-rise ≥ 3 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Moderna: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of subjects with fold-rise ≥ 4 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Moderna: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percentage of subjects with fold-rise ≥ 4 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Moderna: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of subjects with fold-rise ≥ 2 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Pfizer: Baseline, Day 21, Day 51, Day 111, Day 201</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percentage of subjects with fold-rise ≥ 2 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Pfizer: Baseline, Day 21, Day 51, Day 111, Day 201</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of subjects with fold-rise ≥ 3 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Pfizer: Baseline, Day 21, Day 51, Day 111, Day 201</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percentage of subjects with fold-rise ≥ 3 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Pfizer: Baseline, Day 21, Day 51, Day 111, Day 201</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of subjects with fold-rise ≥ 4 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Pfizer: Baseline, Day 21, Day 51, Day 111, Day 201</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percentage of subjects with fold-rise ≥ 4 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Pfizer: Baseline, Day 21, Day 51, Day 111, Day 201</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of subjects with fold-rise ≥ 2 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Johnson &amp; Johnson: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percentage of subjects with fold-rise ≥ 2 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Johnson &amp; Johnson: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of subjects with fold-rise ≥ 3 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Johnson &amp; Johnson: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percentage of subjects with fold-rise ≥ 3 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Johnson &amp; Johnson: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of subjects with fold-rise ≥ 4 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Johnson &amp; Johnson: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percentage of subjects with fold-rise ≥ 4 from baseline at each post injection time points with 95% CIs</measure>
+    <time_frame>Participants will have scheduled blood sampling (for immunogenicity assessment) at: For Johnson &amp; Johnson: Baseline, Day 29, Day 57, Day 119, Day 209</time_frame>
+    <description>Elecsys Anti SARS CoV 2 quantitative assay</description>
+  </secondary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Breast Cancer</condition>
+  <condition>Lung Cancer</condition>
+  <condition>Melanoma (Skin)</condition>
+  <arm_group>
+    <arm_group_label>Chemotherapy (IV and oral)</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Immunotherapy</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Chemotherapy + Immunotherapy</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cyclin- dependent kinase (CDK) 4/6 inhibitors</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stem Cell Transplant recipients</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVID-19 Vaccine</intervention_name>
+    <description>Per recommended dosing schedule</description>
+    <arm_group_label>Chemotherapy (IV and oral)</arm_group_label>
+    <arm_group_label>Chemotherapy + Immunotherapy</arm_group_label>
+    <arm_group_label>Cyclin- dependent kinase (CDK) 4/6 inhibitors</arm_group_label>
+    <arm_group_label>Immunotherapy</arm_group_label>
+    <arm_group_label>Stem Cell Transplant recipients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants undergoing treatment for breast cancer, lung cancer and melanoma with&#xD;
+        chemotherapy, immunotherapy and/or oral anticancer agents, or have undergone stem cell&#xD;
+        transplantation&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ability of participant OR Legally Authorized Representative (LAR) to understand this&#xD;
+             study, and participant or LAR willingness to sign a written informed consent&#xD;
+&#xD;
+          -  Males and females age ≥ 18 years&#xD;
+&#xD;
+          -  Patients with breast cancer, lung cancer, malignant melanoma or who have undergone&#xD;
+             stem cell transplant or chimeric antigen receptor (CAR) T cell therapy for a&#xD;
+             hematologic malignancy.&#xD;
+&#xD;
+        Other cancer types including hematologic malignancies may be allowed if they are receiving&#xD;
+        treatments outlined in section 4.1.4&#xD;
+&#xD;
+          -  Solid Tumor patients and those with hematologic malignancies: Currently receiving&#xD;
+             active anti-cancer therapy, or planned to start within 14 days, with intravenous&#xD;
+             cytotoxic chemotherapy (oral or intravenous), intravenous chemoimmunotherapy&#xD;
+             combination, immunotherapy alone, an oral CDK 4/6 inhibitor. (This does not apply to&#xD;
+             recipients of stem cell transplant and CAR T therapy)&#xD;
+&#xD;
+          -  Therapy may be neo/adjuvant or for metastatic disease&#xD;
+&#xD;
+          -  Eastern Cooperation Oncology Group (ECOG) Performance status (PS) of 0-2&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        * Life expectancy of &lt; 12 months&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Qamar Khan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Kansas</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>KUCC Navigation</last_name>
+    <phone>9135883671</phone>
+    <email>kucc_navigation@kumc.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The University of Kansas Cancer Center, Westwood Campus</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>KUCC Navigation</last_name>
+      <phone>913-588-3671</phone>
+      <email>kucc_navigation@kumc.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 29, 2021</study_first_posted>
+  <last_update_submitted>March 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Melanoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

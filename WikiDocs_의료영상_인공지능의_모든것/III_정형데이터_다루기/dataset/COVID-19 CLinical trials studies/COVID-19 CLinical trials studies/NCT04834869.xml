@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1854">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04834869</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CoVaST</org_study_id>
+    <nct_id>NCT04834869</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Vaccines Safety Tracking (CoVaST)</brief_title>
+  <official_title>COVID-19 Vaccines Safety Tracking: Global Consortium Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Masaryk University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Masaryk University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project aims to monitor the side effects of COVID-19 vaccines worldwide actively. The&#xD;
+      primary objectives of the project include a) to estimate the prevalence of each local and&#xD;
+      systemic side effect of each COVID-19 vaccine among healthcare workers (HCW), old adults over&#xD;
+      +65 (OA), and schoolteachers (ST); b) to evaluate the potential demographic and medical risk&#xD;
+      factors for side effects frequency and intensity; c) to evaluate the long-term consequences&#xD;
+      of COVID-19 vaccines. The secondary objectives include a) to evaluate the relative safety of&#xD;
+      COVID-19 vaccines compared to each other; b) to evaluate the impact of palliative drugs used&#xD;
+      by the recently vaccinated individuals on their short-term side effects resolution.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction:&#xD;
+&#xD;
+      COVID-19 vaccines are the foremost asset to overcome the ongoing pandemic; therefore, mass&#xD;
+      vaccination has become a high priority for the world's governments. While vaccination&#xD;
+      strategies need to be accelerated to minimise daily fatalities and relieve the pandemic's&#xD;
+      economic burdens, vaccine hesitancy (VH) remains a serious challenge for these efforts. VH&#xD;
+      refers to &quot;delay in acceptance or refusal of vaccines despite availability of vaccine&#xD;
+      services&quot;,; and it is an emerging public health challenge nourished by misinformation related&#xD;
+      to vaccines effectiveness and safety. Aversion to vaccines' potential side effects is the&#xD;
+      most frequent cause of VH among population groups. Therefore, a recent systematic review&#xD;
+      revealed that raising public awareness of vaccines' effectiveness and side effects is vital&#xD;
+      for improving vaccine uptake.&#xD;
+&#xD;
+      Public health systems globally experience a novel and unique challenge due to the variety of&#xD;
+      vaccines manufacturers and the high levels of public awareness about those manufacturers and&#xD;
+      their marketing strategies. This unprecedented situation is predicted to create what we can&#xD;
+      refer to as &quot;vaccine selectivity, &quot; increasing the pressure on our weakened health systems&#xD;
+      and economies and increasing vaccine hesitancy levels. Independent (non-sponsored) studies&#xD;
+      with rigorous methods can perfectly lead the pharmacovigilance efforts of COVID-19 vaccines&#xD;
+      globally. Given their independent nature and transparent design, these studies can play a key&#xD;
+      role in suppressing vaccine hesitancy levels by enhancing public confidence in vaccines.&#xD;
+&#xD;
+      Design&#xD;
+&#xD;
+      This project comprises two phases; a) a cross-sectional survey for the short-term side&#xD;
+      effects of COVID-19 vaccines; b) a prospective cohort study for the long-term safety of&#xD;
+      COVID-19 vaccines.&#xD;
+&#xD;
+      Phase A:&#xD;
+&#xD;
+      A validated self-administered questionnaire will be developed and delivered online to the&#xD;
+      target population groups (HCW, OA &amp; ST). The questionnaire will be inquiring about the&#xD;
+      short-term side effects that emerged within 30 days following the vaccine shot (either the&#xD;
+      first or the second dose). The side effects will be classified as local or systemic, and&#xD;
+      their onset, duration, and intensity will be self-assessed and self-reported by the&#xD;
+      respondents. This phase is proposed to take place until December 31st, 2021.&#xD;
+&#xD;
+      Phase B:&#xD;
+&#xD;
+      A validated self-administered questionnaire will be developed and delivered online to the&#xD;
+      volunteers who participated in Phase A and expressed their interest to report their long-term&#xD;
+      side effects. In this phase, the vaccine effectiveness and side effects will be evaluated&#xD;
+      after booster doses. Phase B will take place for five consecutive years starting from 2022.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2021</start_date>
+  <completion_date type="Anticipated">January 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Local Side Effects</measure>
+    <time_frame>0-30 days after the COVID-19 vaccine shot</time_frame>
+    <description>Dichotomous outcome for the emergence of local side effects (e.g. injection site pain, injection site swelling, and injection site redness)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Systemic Side Effects</measure>
+    <time_frame>0-30 days after the COVID-19 vaccine shot</time_frame>
+    <description>Dichotomous outcome for the emergence of systemic side effects (e.g. fever, chills, headache, fatigue, nausea, diarrhea, etc)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Unrecognized Side Effects</measure>
+    <time_frame>0-30 days after the COVID-19 vaccine shot</time_frame>
+    <description>Dichotomous outcome for the emergence of oral and dermatologic side effects (e.g. oral paresthesia, oral ulcers, dysgeusia, skin rash, acne, urticaria, etc)</description>
+  </secondary_outcome>
+  <number_of_groups>10</number_of_groups>
+  <enrollment type="Anticipated">30000</enrollment>
+  <condition>Adverse Reaction to Vaccine</condition>
+  <condition>COVID19 Vaccine</condition>
+  <arm_group>
+    <arm_group_label>Pfizer-BioNTech COVID-19 Vaccine</arm_group_label>
+    <description>Recently vaccinated individuals by Pfizer-BioNTech COVID-19 Vaccine (Comirnaty)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderna COVID-19 Vaccine</arm_group_label>
+    <description>Recently vaccinated individuals by Moderna COVID-19 Vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AstraZeneca-Oxford University COVID-19 Vaccine</arm_group_label>
+    <description>Recently vaccinated individuals by AstraZeneca-Oxford University COVID-19 Vaccine (Vaxzevria)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CoronaVac</arm_group_label>
+    <description>Recently vaccinated individuals by CoronaVac (Sinovac COVID-19 Vaccine)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sinopharm</arm_group_label>
+    <description>Recently vaccinated individuals by Vero Cells (Sinopharm COVID-19 Vaccine)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sputnik V</arm_group_label>
+    <description>Recently vaccinated individuals by Sputnik V COVID-19 Vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Janssen</arm_group_label>
+    <description>Recently vaccinated individuals by Janssen COVID-19 Vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CureVac</arm_group_label>
+    <description>Recently vaccinated individuals by CureVac COVID-19 Vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Novavax</arm_group_label>
+    <description>Recently vaccinated individuals by Novavax COVID-19 Vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Covaxin</arm_group_label>
+    <description>Recently vaccinated individuals by Covaxin COVID-19 Vaccine</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b2</intervention_name>
+    <description>Receiving either the first dose only or both doses of BNT162b2 vaccine (Pfizer-BioNTech COVID-19 Vaccine)</description>
+    <arm_group_label>Pfizer-BioNTech COVID-19 Vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>mRNA-1273</intervention_name>
+    <description>Receiving either the first dose only or both doses of mRNA-1273 vaccine (Moderna COVID-19 Vaccine)</description>
+    <arm_group_label>Moderna COVID-19 Vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>AZD1222</intervention_name>
+    <description>Receiving either the first dose only or both doses of AZD1222 vaccine (AstraZeneca-Oxford University COVID-19 Vaccine)</description>
+    <arm_group_label>AstraZeneca-Oxford University COVID-19 Vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CoronaVac</intervention_name>
+    <description>Receiving either the first dose only or both doses of CoronaVac (Sinovac COVID-19 Vaccine)</description>
+    <arm_group_label>CoronaVac</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Sinopharm</intervention_name>
+    <description>Receiving either the first dose only or both doses of Sinopharm Vero Cell COVID-19 Vaccine</description>
+    <arm_group_label>Sinopharm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Gam-COVID-Vac</intervention_name>
+    <description>Receiving either the first dose only or both doses of Gam-COVID-Vac (Sputnik V)</description>
+    <arm_group_label>Sputnik V</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>JNJ-78436735</intervention_name>
+    <description>Receiving JNJ-78436735 (Janssen COVID-19 Vaccine)</description>
+    <arm_group_label>Janssen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CVnCoV</intervention_name>
+    <description>Receiving either the first dose only or both doses of CVnCoV (CureVac COVID-19 vaccine)</description>
+    <arm_group_label>CureVac</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>NVX-CoV2373</intervention_name>
+    <description>Receiving either the first dose only or both doses of NVX-CoV2373 (Novavax COVID-19 vaccine)</description>
+    <arm_group_label>Novavax</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BBV152</intervention_name>
+    <description>Receiving either the first dose only or both doses of BBV152 (Covaxin COVID-19 vaccine)</description>
+    <arm_group_label>Covaxin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        In Phase A, a pragmatic approach will track each target group according to the governmental&#xD;
+        plan; in most countries, it went from HCW to OA to ST. The sample of Phase B will be&#xD;
+        pre-identified based on the outcome of Phase A. If ≥ 5% of Phase A respondents showed their&#xD;
+        interest to join Phase B, no additional recruitment will be required. If &lt; 5% of Phase A&#xD;
+        respondents showed their interest in Phase B, additional recruitment will be carried out&#xD;
+        targeting healthcare workers who will receive booster doses. In case of the emergence of&#xD;
+        special side effects after booster doses, additional recruitment of healthcare workers will&#xD;
+        be required.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  HCW, OA and ST who received COVID-19 vaccine during the last 30 days.&#xD;
+&#xD;
+          -  Participating subjects should be at least 18-year-old and able to give their informed&#xD;
+             consent independently.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  HCW, OA and ST who did not receive the COVID-19 vaccine recently.&#xD;
+&#xD;
+          -  Non HCW, OA and ST who received the COVID-19 vaccine recently.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Miloslav Klugar, PhD</last_name>
+    <phone>+420549495676</phone>
+    <email>klugar@med.muni.cz</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Abanoub Riad, DDS</last_name>
+    <phone>+420549496572</phone>
+    <email>abanoub.riad@med.muni.cz</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Riad A, Pokorná A, Attia S, Klugarová J, Koščík M, Klugar M. Prevalence of COVID-19 Vaccine Side Effects among Healthcare Workers in the Czech Republic. Journal of Clinical Medicine. 2021; 10(7):1428. https://doi.org/10.3390/jcm10071428</citation>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2021</study_first_posted>
+  <last_update_submitted>April 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Vaccines</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Side Effects</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

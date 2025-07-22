@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="717">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04753476</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SCCR_Secretome</org_study_id>
+    <nct_id>NCT04753476</nct_id>
+  </id_info>
+  <brief_title>Treatment of Severe COVID-19 Patients Using Secretome of Hypoxia-Mesenchymal Stem Cells in Indonesia</brief_title>
+  <official_title>The Effect of Secretome of Hypoxia-Mesenchymal Stem Cells in Improving Survival of Severe Covid-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stem Cell and Cancer Research Indonesia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Provincial Government of Central Java, Indonesia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stem Cell and Cancer Research Indonesia</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this randomized controlled trial (RCT), severe cases of COVID-19 infection will be treated&#xD;
+      with secretome of hypoxia-mesenchymal stem cells. The improvement in clinical, laboratory,&#xD;
+      and radiological manifestations will be evaluated in treated patients compared with the&#xD;
+      control group.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The devastating effect of severe acute respiratory syndrome coronavirus-2 (SARS COV-2)&#xD;
+      infection is caused by a robust cytokine storm that leads to lung tissue damage. Several&#xD;
+      studies reported a correlation between disease severity and the release of excessive&#xD;
+      proinflammatory cytokines, such as tumor necrosis factor-α (TNF-α), IL-6, IL-1, IFN-Υ,&#xD;
+      IFN-Υ-induced protein 10 (IP10), monocyte chemoattractant protein-1 (MCP-1), macrophage&#xD;
+      inflammatory protein-1a (MIP-1a), and granulocyte-colony stimulating factor (G-CSF). This&#xD;
+      finding was confirmed by the high level of plasma cytokines found in most severe COVID-19&#xD;
+      patients associated with extensive lung damage. Therefore, finding an effective therapeutic&#xD;
+      option to control the devastating cytokine storm of COVID-19 and regenerate the damaged lung&#xD;
+      is crucial.&#xD;
+&#xD;
+      Previous studies reported that the hypoxic condition of MSCs could enhance the release of&#xD;
+      their active soluble molecules known as Secretome-MSCs (S-MSCs), such as IL-10 and TGF-β that&#xD;
+      useful in alleviating inflammation. Moreover, they could also increase the expression of&#xD;
+      growth factors such as VEGF and PDGF that accelerate lung injury improvement. These active&#xD;
+      molecules could potentially serve as a biological therapeutic agent for treating the severe&#xD;
+      SARS-CoV-2 infection. According to recent studies, we successfully isolated the S-MSCs from&#xD;
+      their culture medium using tangential flow filtration (TFF) strategy with several molecular&#xD;
+      weight cut-off category. This study investigated the clinical outcomes of severe COVID-19&#xD;
+      patients with several comorbidities treated with S-MSCs in Indonesia.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 8, 2020</start_date>
+  <completion_date type="Anticipated">August 8, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 8, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in patients clinical manifestation</measure>
+    <time_frame>1 months</time_frame>
+    <description>mild, moderate, or severe</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Need for a ventilator</measure>
+    <time_frame>1 months</time_frame>
+    <description>There are respiratory variables that made severe Covid-19 patients previously stable but worsened, requiring a ventilator&#xD;
+Divided into two categories:&#xD;
+It is necessary&#xD;
+No need</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Duration of using a ventilator</measure>
+    <time_frame>1 months</time_frame>
+    <description>Duration of use of a ventilator from the day of intubation to the day of extubation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Length of stay</measure>
+    <time_frame>1 months</time_frame>
+    <description>The length of stay from the first treatment to the patient's final outcome, recovery, or death</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Routine blood profile</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Obtained from patients before and after treatment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CRP</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Obtained from patients before and after treatment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>D-dimer</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Obtained from patients before and after treatment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood Gas Analisis (BGA)</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Obtained from patients before and after treatment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Photo thorax</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Obtained from patients before and after treatment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Survival</measure>
+    <time_frame>2 months</time_frame>
+    <description>Death</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Covid-19</condition>
+  <condition>Cytokine Storm</condition>
+  <arm_group>
+    <arm_group_label>Secretome-MSCs (n=24)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will be given Covid-19 standard therapy with intramuscular Hypoxic S-MSC secretome</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control (n=24)</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>This group will receive standard Covid-19 therapy with the best supportive care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Injection of Secretome-MSCs</intervention_name>
+    <description>Injection of Hypoxic Secretome-MSCs intramuscular (deltoideus) :&#xD;
+Day 1: 1 cc every 12 hours&#xD;
+Day 2: 1 cc every 12 hours&#xD;
+Day 3: 0,5 cc every 12 hours</description>
+    <arm_group_label>Secretome-MSCs (n=24)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard treatment of Covid-19</intervention_name>
+    <description>Patients will be given Standard treatment of Covid-19 which accordance with National protocol</description>
+    <arm_group_label>Control (n=24)</arm_group_label>
+    <arm_group_label>Secretome-MSCs (n=24)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients whose clinical and laboratory test results have a positive diagnosis of&#xD;
+             Covid-19.&#xD;
+&#xD;
+          2. Patients who are willing to participate as subjects in the study by signing the&#xD;
+             informed content.&#xD;
+&#xD;
+          3. Criteria for Berlin to enter ARDS (moderate and severe) with or without a ventilator:&#xD;
+&#xD;
+               -  PaO2 / FiO2: moderate 100-200&#xD;
+&#xD;
+               -  PaO2 / FiO2: weight &lt;100&#xD;
+&#xD;
+          4. One or more comorbid history&#xD;
+&#xD;
+          5. SOFA score&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. The Covid19 patient has fibrosis (based on the results of the chest X-ray or CT chest)&#xD;
+&#xD;
+          2. ECOG 4 performance status, decreased irreversible consciousness, brain stem death.&#xD;
+&#xD;
+          3. Severe NYHA III / IV heart failure&#xD;
+&#xD;
+          4. Pregnant women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Agung Putra, Assoc.Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stem Cell and Cancer Research Indonesia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Agung Putra, Assoc.Prof</last_name>
+    <phone>+628164251646</phone>
+    <email>dr.agungptr@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Bhirau Wilaksono, MD</last_name>
+    <phone>+6285277777824</phone>
+    <email>bhirau@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Sultan Imanuddin Hospital</name>
+      <address>
+        <city>Kalimantan</city>
+        <state>Central Borneo</state>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zainuddin Aziz, MD, Sp.P</last_name>
+      <phone>+62812-3159-2216</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Charlie Hospital</name>
+      <address>
+        <city>Kendal</city>
+        <state>Central Java</state>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>M Riza Setiawan, MD, MOSH</last_name>
+      <phone>+62857-4199-4178</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>RS PKU Muhammadiyah Yogyakarta</name>
+      <address>
+        <city>Yogyakarta</city>
+        <state>Central Java</state>
+        <zip>55122</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Agus Widyatmoko, MD, Sp.PD</last_name>
+      <phone>+62813-2832-4539</phone>
+      <email>aguswidi@umy.ac.id</email>
+    </contact>
+    <investigator>
+      <last_name>Agus Widyatmoko, MD, Sp.PD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bhayangkara Hospital</name>
+      <address>
+        <city>Makassar</city>
+        <state>South Celebes</state>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fajar Amansyah, MD, Sp.PD</last_name>
+      <phone>+62853-4363-7775</phone>
+    </contact>
+    <investigator>
+      <last_name>Farid Amansyah, MD, Sp.PD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gatot Soebroto Army Hospital</name>
+      <address>
+        <city>Jakarta</city>
+        <zip>10410</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Basuki Rachmad, MD, Sp.An KIC</last_name>
+      <phone>+62852-2022-2519</phone>
+      <email>basukibanjarmasin1@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Gunawan Dwi Prayitno, MD, Sp,OG KFER</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dr. Esnawan Antariksa Air Force Hospital</name>
+      <address>
+        <city>Jakarta</city>
+        <zip>13610</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Crispinus Adhi Suryo, MD, Sp.An</last_name>
+      <phone>+62812-9578-192</phone>
+      <email>c.adhisuryo@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Flora Eka Sari, MD, Sp.P</last_name>
+      <phone>+62821-1447-7473</phone>
+      <email>floraeka86@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sugeng Ibrahim, MD, M.Biomed (AAM)</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Indonesia</country>
+  </location_countries>
+  <reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </reference>
+  <reference>
+    <citation>Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 May;8(5):475-481. doi: 10.1016/S2213-2600(20)30079-5. Epub 2020 Feb 24. Erratum in: Lancet Respir Med. 2020 Apr;8(4):e26.</citation>
+    <PMID>32105632</PMID>
+  </reference>
+  <reference>
+    <citation>Chen L, Xu Y, Zhao J, Zhang Z, Yang R, Xie J, Liu X, Qi S. Conditioned medium from hypoxic bone marrow-derived mesenchymal stem cells enhances wound healing in mice. PLoS One. 2014 Apr 29;9(4):e96161. doi: 10.1371/journal.pone.0096161. eCollection 2014. Erratum in: PLoS One. 2015;10(12):e0145565.</citation>
+    <PMID>24781370</PMID>
+  </reference>
+  <reference>
+    <citation>Haraszti RA, Miller R, Stoppato M, Sere YY, Coles A, Didiot MC, Wollacott R, Sapp E, Dubuke ML, Li X, Shaffer SA, DiFiglia M, Wang Y, Aronin N, Khvorova A. Exosomes Produced from 3D Cultures of MSCs by Tangential Flow Filtration Show Higher Yield and Improved Activity. Mol Ther. 2018 Dec 5;26(12):2838-2847. doi: 10.1016/j.ymthe.2018.09.015. Epub 2018 Sep 22.</citation>
+    <PMID>30341012</PMID>
+  </reference>
+  <results_reference>
+    <citation>Harrell CR, Jovicic BP, Djonov V, Volarevic V. Therapeutic Potential of Mesenchymal Stem Cells and Their Secretome in the Treatment of SARS-CoV-2-Induced Acute Respiratory Distress Syndrome. Anal Cell Pathol (Amst). 2020 Nov 20;2020:1939768. doi: 10.1155/2020/1939768. eCollection 2020. Review.</citation>
+    <PMID>33274176</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Johnson BS, Laloraya M. A cytokine super cyclone in COVID-19 patients with risk factors: the therapeutic potential of BCG immunization. Cytokine Growth Factor Rev. 2020 Aug;54:32-42. doi: 10.1016/j.cytogfr.2020.06.014. Epub 2020 Jul 1. Review.</citation>
+    <PMID>32747157</PMID>
+  </results_reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 15, 2021</study_first_posted>
+  <last_update_submitted>February 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stem Cell and Cancer Research Indonesia</investigator_affiliation>
+    <investigator_full_name>Agung Putra</investigator_full_name>
+    <investigator_title>Assoc. Prof. Dr. dr. Agung Putra, M.Si. Med</investigator_title>
+  </responsible_party>
+  <keyword>secretome</keyword>
+  <keyword>mesenchymal stem cells</keyword>
+  <keyword>covid-19</keyword>
+  <keyword>hypoxia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypoxia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

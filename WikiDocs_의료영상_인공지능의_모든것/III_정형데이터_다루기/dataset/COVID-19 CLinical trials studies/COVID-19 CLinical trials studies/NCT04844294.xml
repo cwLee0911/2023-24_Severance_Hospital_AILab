@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5486">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04844294</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020B0396</org_study_id>
+    <nct_id>NCT04844294</nct_id>
+  </id_info>
+  <brief_title>A Randomized Clinical Trial Testing the Effectiveness of Telemental Health for Suicidal Patients</brief_title>
+  <official_title>A Randomized Clinical Trial Testing the Effectiveness of Telemental Health for Suicidal Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ohio State University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ohio State University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The long-term goal of this study is to reduce suicidal thoughts and behaviors among&#xD;
+      treatment-seeking individuals who are experiencing suicidal thoughts or have recently made a&#xD;
+      suicide attempt. Brief cognitive behavioral therapies for suicide prevention (BCBT) has&#xD;
+      demonstrated empirical support for reducing suicide attempts as compared to treatment as&#xD;
+      usual. However, no studies to date have assessed their effectiveness when delivered via&#xD;
+      telehealth, highlighting an important knowledge gap in light of increased use of telehealth&#xD;
+      subsequent to the outbreak of the novel coronavirus (COVID-19) in the U.S. In light of this&#xD;
+      knowledge gap, the primary objective of this study will be to test the effectiveness of brief&#xD;
+      cognitive behavioral therapy (BCBT) as compared to present-centered therapy (PCT), an active&#xD;
+      comparator, for the reduction of suicide ideations and attempts when delivered via&#xD;
+      telehealth.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Suicide remains one of the top 10 causes of death in the United States. Since 1999, the&#xD;
+      age-adjusted suicide rate has increased by approximately 33%, from 10.5 per 100,000 in 1999&#xD;
+      up to 14.0 per 100,000 in 2017. Cognitive behavioral therapies are empirically supported for&#xD;
+      the rapid reduction of suicidal thoughts and behaviors, especially when they are delivered in&#xD;
+      an individual therapy (versus group therapy) format. One particular protocol-brief cognitive&#xD;
+      behavioral therapy for suicide prevention (BCBT)-was developed by our research team and&#xD;
+      tested in a sample of active duty military personnel in a randomized clinical trial. Results&#xD;
+      of that study showed that service members receiving BCBT were 60% less likely to attempt&#xD;
+      suicide during the two-year follow-up and showed faster reductions in suicide ideation as&#xD;
+      compared to service members receiving treatment as usual (TAU). A recently completed pilot&#xD;
+      randomized clinical trial similarly found a large reduction in suicide attempt rates among&#xD;
+      adolescents and young adults who received BCBT as compared to TAU (0% vs. 25%).&#xD;
+&#xD;
+      Unfortunately, fewer than half of suicide decedents and individuals with past-year suicide&#xD;
+      ideation seek out mental health treatment. While several factors influence the decision to&#xD;
+      use (or not use) mental health services, logistical barriers such as insufficient time and/or&#xD;
+      geographic location are among the most commonly cited reasons for choosing not to access&#xD;
+      treatment. Telehealth services can address this disparity due to reduced need for travel and&#xD;
+      less time away from school and/or work, which can increase attendance rates to medical&#xD;
+      appointments. Evidence also suggests that delivering mental health services via telehealth&#xD;
+      improves help-seeking behaviors. Although numerous studies indicate that the efficacy of&#xD;
+      empirically-supported treatments for a wide range of mental health conditions are not&#xD;
+      diminished when delivered via telehealth, no studies have examined the effects of&#xD;
+      suicide-focused treatment protocols when delivered in this format.&#xD;
+&#xD;
+      The present study aims to address this knowledge gap by testing the effectiveness of BCBT&#xD;
+      when delivered via telehealth as compared to present-centered therapy (PCT), an active&#xD;
+      comparator that has been shown to significantly reduce suicide ideation. The results of this&#xD;
+      study would provide critical information about the effectiveness of BCBT when delivered via&#xD;
+      telehealth.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">April 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in number of suicide attempts from baseline.</measure>
+    <time_frame>Baseline, 3, 6, 9, and 12 month follow-up.</time_frame>
+    <description>The change in number of suicide attempts will be assessed using the Self-injurious thoughts and behaviors interview-Revised (SITBI-R). The SITBI-R is an empirically-supported researcher-administered structured interview for assessing the characteristics and features of self-injurious thoughts and behaviors, and to distinguish different types of suicidal and self-injurious behaviors. An increased number of suicide attempts at any assessment is considered a worse outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in severity of suicide ideation from baseline.</measure>
+    <time_frame>Baseline, during treatment, 3, 6, 9, and 12 month follow-up.</time_frame>
+    <description>The change in severity of suicide ideation will be assessed using the Scale for Suicide Ideation (SSI), a 19-item 3-point likert scale where higher scores indicate increased severity of suicide ideation. Summed total scores for these items range from 0-38. The SSI is an empirically-supported researcher-administered interview that assesses the intensity of suicide-related thoughts, urges, intentions, and behaviors. All participants complete the first 5 items. If a subject positively endorses either item 4 (active ideation) or item 5 (passive ideation), they are directed to complete an additional 14 items.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in psychiatric symptom severity will be measured across multiple time points post-treatment.</measure>
+    <time_frame>Baseline, during treatment, 3, 6, 9, and 12 month follow-up.</time_frame>
+    <description>Will be assessed using the Patient-Reported Outcomes Measurement Information System 9PROMIS). PROMIS is a 43-item self-report measure that asks participants' health status in the following domains: physical function, anxiety, depression, fatigue, sleep disturbance, pain interference, and participation in social roles. Respondents are directed to rate the frequency of each symptom within the past 7 days on a 5-point scale ranging from 1 (never) to 5 (always) with higher scores indicating worse symptoms. Within the seven domains summed raw scores range from 6 to 30, with the pain intensity scale ranging from 0-10.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Suicide</condition>
+  <condition>Suicidal Ideation</condition>
+  <condition>Suicide Attempt</condition>
+  <arm_group>
+    <arm_group_label>Brief Cognitive Behavioral Therapy (BCBT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Present-Centered Therapy (PCT)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Brief Cognitive Behavioral Therapy (BCBT)</intervention_name>
+    <description>BCBT is divided into three phrases. In phase I (5 sessions), the therapist conducts a detailed assessment of the patient's most recent suicidal episode or suicide attempt, identifies patient-specific factors that contribute to and maintain suicidal behaviors, provides a cognitive-behavioral conceptualization, collaboratively develops a crisis response plan, and teaches basic emotion regulation skills such as relaxation and mindfulness. In phase II (5 sessions), the therapist applies cognitive strategies to reduce beliefs and assumptions that serve as vulnerabilities to suicidal behavior. In phase III (2 sessions), a relapse prevention task is conducted.</description>
+    <arm_group_label>Brief Cognitive Behavioral Therapy (BCBT)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Present-Centered Therapy (PCT)</intervention_name>
+    <description>PCT includes (1) psychoeducation about the typical symptoms and features associated with suicidal thoughts and behaviors; (2) normalization of symptoms; (3) experience of receipt of support and feedback from a licensed professional; and (4) positive interpersonal interactions. PCT differs from BCBT in several key ways including less structure (i.e., patients are allowed to have more input into PCT session agendas) and no systematic training in behavioral or cognitive strategies for managing emotions and changing suicide-focused thoughts. PCT will be used as an active comparator because it is an empirically supported treatment for depression and PTSD that also reduces suicidal ideation (Bryan et al., 2016; Resick et al., 2017), but contains unique elements that distinguish the treatment from BCBT.</description>
+    <arm_group_label>Present-Centered Therapy (PCT)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 years of age or older;&#xD;
+&#xD;
+          -  a score of 5 or higher on the Scale for Suicide Ideation and/or a suicide attempt&#xD;
+             within the past month;&#xD;
+&#xD;
+          -  ability to understand and speak the English language;&#xD;
+&#xD;
+          -  ability to complete the informed consent process;&#xD;
+&#xD;
+          -  regular access to a stable internet connection; and&#xD;
+&#xD;
+          -  ownership of an internet-enable communication device (e.g., computer, tablet,&#xD;
+             smartphone).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  substance use disorder requiring acute medical management;&#xD;
+&#xD;
+          -  imminent suicide risk warranting inpatient hospitalization; and&#xD;
+&#xD;
+          -  impaired mental status that precludes the ability to provide informed consent (e.g.,&#xD;
+             intoxication, psychosis, mania).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Justin C Baker, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ohio State University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Justin C. Baker, PhD</last_name>
+    <phone>614-257-2069</phone>
+    <email>justin.baker@osumc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Craig Bryan, PsyD</last_name>
+    <phone>614-257-2069</phone>
+    <email>craig.bryan@osumc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The Ohio State University</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Justin C Baker, PhD</last_name>
+      <phone>614-257-2069</phone>
+      <email>justin.baker@osumc.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Rudd MD, Bryan CJ, Wertenberger EG, Peterson AL, Young-McCaughan S, Mintz J, Williams SR, Arne KA, Breitbach J, Delano K, Wilkinson E, Bruce TO. Brief cognitive-behavioral therapy effects on post-treatment suicide attempts in a military sample: results of a randomized clinical trial with 2-year follow-up. Am J Psychiatry. 2015 May;172(5):441-9. doi: 10.1176/appi.ajp.2014.14070843. Epub 2015 Feb 13.</citation>
+    <PMID>25677353</PMID>
+  </reference>
+  <reference>
+    <citation>Sinyor M, Williams M, Mitchell R, Zaheer R, Bryan CJ, Schaffer A, Westreich N, Ellis J, Goldstein BI, Cheung AH, Selchen S, Kiss A, Tien H. Cognitive behavioral therapy for suicide prevention in youth admitted to hospital following an episode of self-harm: A pilot randomized controlled trial. J Affect Disord. 2020 Apr 1;266:686-694. doi: 10.1016/j.jad.2020.01.178. Epub 2020 Jan 30.</citation>
+    <PMID>32056945</PMID>
+  </reference>
+  <reference>
+    <citation>Brown GK, Ten Have T, Henriques GR, Xie SX, Hollander JE, Beck AT. Cognitive therapy for the prevention of suicide attempts: a randomized controlled trial. JAMA. 2005 Aug 3;294(5):563-70.</citation>
+    <PMID>16077050</PMID>
+  </reference>
+  <reference>
+    <citation>Bryan CJ, Clemans TA, Hernandez AM, Mintz J, Peterson AL, Yarvis JS, Resick PA; STRONG STAR Consortium. EVALUATING POTENTIAL IATROGENIC SUICIDE RISK IN TRAUMA-FOCUSED GROUP COGNITIVE BEHAVIORAL THERAPY FOR THE TREATMENT OF PTSD IN ACTIVE DUTY MILITARY PERSONNEL. Depress Anxiety. 2016 Jun;33(6):549-57. doi: 10.1002/da.22456. Epub 2015 Dec 4.</citation>
+    <PMID>26636426</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ohio State University</investigator_affiliation>
+    <investigator_full_name>Justin Baker</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>Telemental health</keyword>
+  <keyword>Telemedicine</keyword>
+  <keyword>Cognitive Behavioral Therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Suicide</mesh_term>
+    <mesh_term>Suicidal Ideation</mesh_term>
+    <mesh_term>Suicide, Attempted</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>January 25, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/94/NCT04844294/ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

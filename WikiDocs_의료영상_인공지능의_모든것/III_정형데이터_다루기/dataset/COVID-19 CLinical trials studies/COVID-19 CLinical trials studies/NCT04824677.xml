@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="871">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04824677</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-Ponent</org_study_id>
+    <nct_id>NCT04824677</nct_id>
+  </id_info>
+  <brief_title>Risk Factors and Prognoses in Patients Hospitalized for COVID-19</brief_title>
+  <official_title>Risk Factors and Prognoses in Patients Hospitalized for COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sociedad Española de Neumología y Cirugía Torácica</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sociedad Española de Neumología y Cirugía Torácica</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multicenter and observational study. The study will include patients admitted to hospitals in&#xD;
+      the Lleida health region with confirmed COVID-19. Follow-up will be carried out up to six&#xD;
+      months after hospital discharge.&#xD;
+&#xD;
+      Through the analysis of clinical data and biological parameters, it is possible to identify&#xD;
+      in advance patients who will evolve in an unfavorable prognosis in relation to COVID-19,&#xD;
+      either because they present criteria of severe disease or because they present thrombotic&#xD;
+      complications associated with the disease. The final aim is to make anticipated and&#xD;
+      individualized therapeutic decisions that reduce the morbidity and mortality associated with&#xD;
+      the disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The main objective is to develop a predictive model of adverse events in hospitalized&#xD;
+      COVID-19 patients (death, initiation of mechanical ventilation, ICU admission and thrombotic&#xD;
+      event). An additional analyses will be performed for each individualized outcome.&#xD;
+&#xD;
+      Metodology: Prospective case-only study. The variables that will be collected are:&#xD;
+&#xD;
+        1. Previous epidemiological data of the patient.&#xD;
+&#xD;
+        2. Clinical and biological data and treatment upon admission to the hospital.&#xD;
+&#xD;
+        3. Clinical and biological evolutionary data (Increases in the values of certain biological&#xD;
+           variables in a defined period of time (&gt; 48 h) during admission):&#xD;
+&#xD;
+             -  Baseline epidemiological and clinical variables&#xD;
+&#xD;
+             -  Baseline biological variables&#xD;
+&#xD;
+             -  Complications and clinical evolutionary variables&#xD;
+&#xD;
+             -  Evolutionary biological variables&#xD;
+&#xD;
+        4. Clinical evolutionary data of final outcomes, including death (at 30, 90 days and at 6&#xD;
+           months), initiation of mechanical ventilation, ICU admission and thrombotic event.&#xD;
+&#xD;
+        5. For future studies of new biological and epigenetic variables, blood samples will be&#xD;
+           collected from hospitalized patients under the CIBER coverage.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 18, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>6 Months</target_duration>
+  <primary_outcome>
+    <measure>Composite endpoint (death, initiation of mechanical ventilation, ICU admission and thrombotic event)</measure>
+    <time_frame>18 months</time_frame>
+    <description>Development of a predictive model of adverse events (death, initiation of mechanical ventilation, ICU admission and thrombotic event).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Death</measure>
+    <time_frame>18 months</time_frame>
+    <description>Development of a predictive model for mortality risk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation</measure>
+    <time_frame>18 months</time_frame>
+    <description>Development of a predictive model for the need of mechanical ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU admission</measure>
+    <time_frame>18 months</time_frame>
+    <description>Development of a predictive model for admission at the ICU.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Thrombotic event</measure>
+    <time_frame>18 months</time_frame>
+    <description>Development of a predictive model for the risk of thrombotic events.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Hospital treatment of COVID disease</intervention_name>
+    <description>Hospital treatment of COVID disease</description>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      1 tube EDTA&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients admitted to the participating centers of the Lleida health region, with a positive&#xD;
+        laboratory diagnosis for COVID19.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Laboratory confirmed COVID-19 infection.&#xD;
+&#xD;
+          -  Hospitalization in a center in the Lleida healthcare region.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients admitted with repeatedly negative COVID-19 test results.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ferran Barbé, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Spanish Respiratory Society (SEPAR)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gerard Torres Cortada, MD</last_name>
+    <phone>+34 660365957</phone>
+    <email>gtorres@gss.cat</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ferran Barbé Illa, MD</last_name>
+    <phone>+34 973705372</phone>
+    <email>febarbe.lleida.ics@gencat.cat</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital Universitari Arnau de Vilanova</name>
+      <address>
+        <city>Lleida</city>
+        <zip>25198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ferran Barbe Illa, MD</last_name>
+      <phone>+34 973705372</phone>
+      <email>febarbe.lleida.ics@gencat.cat</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Santa Maria</name>
+      <address>
+        <city>Lleida</city>
+        <zip>25198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gerard Torres Cortada, MD</last_name>
+      <phone>+34 660365957</phone>
+      <email>gtorres@gss.cat</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>March 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sociedad Española de Neumología y Cirugía Torácica</investigator_affiliation>
+    <investigator_full_name>Ferran Barbe</investigator_full_name>
+    <investigator_title>Chair Respiratory Medicine</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1025">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04812327</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SGP-21AsymVer-01</org_study_id>
+    <nct_id>NCT04812327</nct_id>
+  </id_info>
+  <brief_title>Capturing Infectious COVID-19 Asymptomatic Cases in Singapore</brief_title>
+  <official_title>Capturing Infectious COVID-19 Asymptomatic Cases in Singapore</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Becton, Dickinson and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Becton, Dickinson and Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is being conducted to assess the performance of the BD Veritor™ Plus System for&#xD;
+      Rapid Detection of SARS-CoV-2, used in serial testing, in identification of infectious,&#xD;
+      asymptomatic individuals. This information may be used to inform development of an effective&#xD;
+      testing strategy by policy makers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This multi-center, prospective, observational, diagnostic evaluation study is designed to&#xD;
+      assess the performance of the BD Veritor System in the detection of SARS-CoV-2 in&#xD;
+      asymptomatic individuals compared to viral culture and a commercially available RT-PCR assay&#xD;
+      over multiple testing time points. The study will enroll a minimum of 150 asymptomatic, adult&#xD;
+      participants who test positive for SARS-CoV-2 during community/traveler screening procedures.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2021</start_date>
+  <completion_date type="Anticipated">November 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assess the performance of the BD Veritor System for Rapid Detection of SARS-CoV-2 compared viral culture, over multiple collection time points</measure>
+    <time_frame>6 days</time_frame>
+    <description>Assay results: Positive percent agreement (PPA)&#xD;
+Assay results: Negative percent agreement (NPA)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assess the performance of the BD Veritor System for Rapid Detection of SARS-CoV-2 compared to a commercially available RT-PCR asay, over multiple collection time points</measure>
+    <time_frame>6 days</time_frame>
+    <description>Assay results: Positive percent agreement (PPA)&#xD;
+Assay results: Negative percent agreement (NPA)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the performance a commercially available RT-PCR assay compared to viral culture, over multiple test time points</measure>
+    <time_frame>6 days</time_frame>
+    <description>Assay results: Positive percent agreement (PPA)&#xD;
+Assay results: Negative percent agreement (NPA)</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS CoV-2</condition>
+  <arm_group>
+    <arm_group_label>Prospective Observational Diagnostic Evaluation</arm_group_label>
+    <description>Potential participants will be recruited at study sites where they are admitted/held for COVID-19 isolation. On the first day of isolation (ideally on the day they first test positive for SARS-CoV-2), potential participants will be asked to participate in the study. After consent (Study Day 0), two nasopharyngeal swabs (NP swabs) and one nasal swab will be collected. One NP swab will be tested via viral culture and the other nasal swab will be tested by RT-PCR for SARS-CoV-2. The nasal swab will be tested on the BD Veritor System. Specimen collection and testing will be repeated every 2 days for 6 days (Study Day 2, Day 4, and Day 6) or until the RT-PCR Ct value is &gt;30, whichever comes first. Participants will be monitored for symptoms of COVID-19 throughout the study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>BD Veritor Plus System for Rapid Detection of SARS CoV-2</intervention_name>
+    <description>Nasal Sawb for the conduct of the Veritor Antigen Test</description>
+    <arm_group_label>Prospective Observational Diagnostic Evaluation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>rt-PCR</intervention_name>
+    <description>Nasopharyngeal Swab for the conduct of a rt-PCR</description>
+    <arm_group_label>Prospective Observational Diagnostic Evaluation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>viral culture</intervention_name>
+    <description>Nasopharyngeal Swab for the conduct of viral culture</description>
+    <arm_group_label>Prospective Observational Diagnostic Evaluation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants will be recruited at study sites from individuals admitted for SARS-CoV-2&#xD;
+        isolation. Once enrolled, participants may be transferred to a different care unit, or&#xD;
+        units, throughout their time in the study depending on their medical needs.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female ≥21 years of age at the time of informed consent&#xD;
+&#xD;
+          2. Has a positive screening test for SARS-CoV-2 by RT-PCR&#xD;
+&#xD;
+          3. Is asymptomatic for COVID-19 on the day of their positive screening test (may have&#xD;
+             symptoms on the actual day of study enrollment)&#xD;
+&#xD;
+          4. Is expected to remain at the study site for the full 6-day study period&#xD;
+&#xD;
+          5. Willing and able to complete all study required procedures&#xD;
+&#xD;
+          6. Provision of signed and dated informed consent form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of frequent or difficult to control nosebleeds within the 14 days prior to&#xD;
+             study participation&#xD;
+&#xD;
+          2. If, at the discretion of the Investigator, involvement in the study is likely to&#xD;
+             jeopardize the subject's health or their current or future medical treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yen Seow Tan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Employee</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Monika Bamberger</last_name>
+    <phone>+4915174486252</phone>
+    <email>monika.bamberger@bd.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Changi General Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Yen Seow Tan</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Singapore</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 23, 2021</study_first_posted>
+  <last_update_submitted>March 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

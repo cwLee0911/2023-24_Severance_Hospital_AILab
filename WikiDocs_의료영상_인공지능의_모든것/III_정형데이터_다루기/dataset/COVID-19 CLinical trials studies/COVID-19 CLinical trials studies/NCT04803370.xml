@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="182">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04803370</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CO-PLASMA-2020</org_study_id>
+    <nct_id>NCT04803370</nct_id>
+  </id_info>
+  <brief_title>Efficacy of Reinforcing Standard Therapy in COVID-19 Patients With Repeated Transfusion of Convalescent Plasma</brief_title>
+  <official_title>Study of the Efficacy of Reinforcing of the Standard Therapy in COVID-19 Patients With Repeated Transfusion of Immune Plasma From COVID-19 Convalescents vs Exclusive Standard Therapy in Hospitalized COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Son Llatzer</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fundació d'investigació Sanitària de les Illes Balears</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital Son Llatzer</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The coronavirus disease 2019 (COVID-19) was classified as a pandemic by the WHO in March&#xD;
+      2020. The SARS-COV-2 virus is easily transmissible and there is currently no approved&#xD;
+      treatment with effective results. Although the main epidemiological parameters are currently&#xD;
+      being studied, apparently the speed of contagion, the incidence and the mortality rate in&#xD;
+      severe cases appear to be high. Therefore, there is an urgent need to find a viable&#xD;
+      therapeutic option. The present trial is a pilot study with an objective to determine the&#xD;
+      efficacy of standard treatment reinforced with two repeated doses in two consecutive days of&#xD;
+      plasma from former convalescent people of the COVID-19 disease already discharged and / or&#xD;
+      with results in negative COVID-19 screenings, transfused to hospitalized COVID-19 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 8, 2020</start_date>
+  <completion_date type="Anticipated">September 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>WHO clinical progression scale</measure>
+    <time_frame>Day 21</time_frame>
+    <description>The scale provides a measure of illness severity across a range from 0 (not infected) to 9 (Mechanical ventilation pO2/FiO2 &lt;150 and vasopressors, dialysis, or ECMO)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>lung X-ray</measure>
+    <time_frame>At inclusion, Day 21</time_frame>
+    <description>Evaluation of the lungs with a chest x-ray</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Concomitant medication assessment</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>Indicate if the patient had to take a concomitant medication and specify the type of medication.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hematimetry</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>blood count</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activated partial thromboplastin time</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>measurement of the number of seconds it takes for a clot to form in a patient's blood.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fibrinogen level</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>measurement of the level of fibrinogen in the blood (mg / dl), as a measure of assessing the severity of the disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fragment D-dimer assessment</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>Determination of the existence of the D-dimer fragment in blood as a measure of assessing the severity of the disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glomerular Filtration Rate assessment</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>estimation of how much blood passes per minute through the glomerular filters of the kidneys (ml/min).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ferritin blood assessment</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>measurement of the amount of ferritin (blood protein) in ng/ml in the blood, as a measure of assessing the severity of the disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive protein assessment</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>measurement of the level of c-reactive protein in the blood (mg/dl), as a measure of a change in inflammation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lactate Dehydrogenase (LDH) assessment</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>measurement of the level of lactate dehydrogenase in the blood (U/L), as a measure of assessing the severity of the disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Troponin I assessment</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>measurement of the levels of troponin I proteins in the blood (ng/L), as a measure of assessing the severity of the disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Procalcitonin assessment</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>measurement of the levels of procalcitonin in the blood (ng/ml), as a measure of assessing the severity of the disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin-6 assessment</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>measurement of serum levels Interleukin-6 in pg/mL, as a measure of assessing the severity of the disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>partial pressure of oxygen (pO2) assessment</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>measurement of the oxygen pressure in the blood (mmHg), as a measure of assessing the severity of the disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantitative determination of antibodies</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>Anti-SARS-Cov 2 immunoglobulin G / A level and anti-SARS-Cov 2 neutralizing antibody levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-Cov-2 viral quantification in a nasopharyngeal specimen</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>RT-PCR test for the diagnosis of SARS-COV-2 virus</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to negativization of RT-PCR</measure>
+    <time_frame>Day 21</time_frame>
+    <description>total time elapsed until negative RT-PCR test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pneumonia Severity Index (PSI) score</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+    <description>be used to assess the COVID-19 severity and predict the 14-day mortality risk in cases of COVID-19 pneumonia. The patient is then stratified into five classes ( class I: low risk, class V: high risk by his/her score on the PSI scale based on physical or laboratory examination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients requiring admission to intensive care units.</measure>
+    <time_frame>At inclusion, Day 3, Day 7, Day 14, Day 21</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate at 15 days</measure>
+    <time_frame>Day 15</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate at 30 days</measure>
+    <time_frame>Day 30</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay</measure>
+    <time_frame>Day 21</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Standard treatment for COVID-19 (according to clinical guidelines for COVID-19).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Convalescent patient plasma 300 ml given in 2 consecutive days, plus standard treatment for COVID-19 (according to clinical guidelines).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Convalescent Plasma with antibody against SARS-CoV-2.</intervention_name>
+    <description>Convalescent plasma plus standard treatment for COVID-19. The convalescent plasma is from patients recovered from COVID-19 and negative viremia in the test detection COVID-19.&#xD;
+The infusions will be given on days 1 and 2, of the study, after the positive result for COVID-19 of the recipient patient.</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard treatment for COVID-19</intervention_name>
+    <description>The patients will receive the standard treatment for COVID-19, according to guidelines for COVID-19 (retrovirals drugs, interferon-α / β, anti-IL-6 monoclonal antibody, oxygen therapy, etc..)</description>
+    <arm_group_label>Control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ability to understand the HIP and sign the study IC&#xD;
+&#xD;
+          -  male or female =/&gt; 18 years&#xD;
+&#xD;
+          -  Patient hospitalized with a COVID-19 diagnosis by PCR on nasopharyngeal swabs or any&#xD;
+             other biological sample.&#xD;
+&#xD;
+          -  Presence of respiratory symptoms and / or fever associated with COVID-19, with&#xD;
+             clinical evolution time for COVID-19 equal to or less than 7 days.&#xD;
+&#xD;
+          -  Presence of pneumonia on chest X-ray and / or SatO2 &lt;94% aa.&#xD;
+&#xD;
+          -  Sequential Organ Failure Assessment (SOFA) score ≤ 6.&#xD;
+&#xD;
+          -  Accept the condition of complying with the procedures established in the protocol.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with a previous history of allergic transfusion reaction.&#xD;
+&#xD;
+          -  Lactating or pregnant women and a positive pregnancy test.&#xD;
+&#xD;
+          -  Patients who have been treated with plasma in the 21 days prior to the screening /&#xD;
+             baseline visit.&#xD;
+&#xD;
+          -  Patients who are at the time of study, participating in another clinical trial.&#xD;
+&#xD;
+          -  Patients who haven't completed all study procedures.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Maria Arrizabalaga Asenjo</last_name>
+    <phone>0034871202000</phone>
+    <email>marrizab@hsll.es</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Hospital Son Llatzer</name>
+      <address>
+        <city>Palma De Mallorca</city>
+        <state>Islas De Balears</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria Arrizabalaga Asenjo</last_name>
+      <phone>0034871202000</phone>
+      <email>marrizab@hsll.es</email>
+    </contact>
+    <investigator>
+      <last_name>Maria Arrizabalaga Asenjo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Joan Bargay Lleonart</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Manuel Raya</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jose Maria Guerra Coll</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maria Fiorella Sarubbo</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Josep Borràs Vives</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maria Victoria Fernández Baca del Alamo</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maria Antonia Bautista Gili</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Laia Vilaplana Marz</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Juan Tena Anies</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Khaoulah El Haji</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maria Magdalena Flexas</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Aina Vidal Balle</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Carmen Gallegos</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maria Arranda</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 17, 2021</study_first_posted>
+  <last_update_submitted>March 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital Son Llatzer</investigator_affiliation>
+    <investigator_full_name>Maria Arrizabalaga Asenjo</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>COVID19, Immune Plasma</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

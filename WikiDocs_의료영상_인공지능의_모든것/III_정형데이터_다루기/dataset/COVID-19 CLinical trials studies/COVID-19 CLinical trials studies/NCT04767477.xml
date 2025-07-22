@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4500">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04767477</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CR and TR</org_study_id>
+    <nct_id>NCT04767477</nct_id>
+  </id_info>
+  <brief_title>Telerehabilitation and Face-to-face Rehabilitation on COVID-19 Survivors</brief_title>
+  <official_title>Telerehabilitation and Face-to-face Rehabilitation on Tolerance to Exercise and Quality of Life of COVID-19 Survivors: a Study Protocol</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidade Federal de Pernambuco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universidade Federal de Pernambuco</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      INTRODUCTION: As this is a new disease, the short- and long-term consequences for patients&#xD;
+      with COVID-19 are still unclear. The use of sedatives, as well as prolonged rest, can lead to&#xD;
+      musculoskeletal damage, including decreased muscle strength and physical function. Thus,&#xD;
+      rehabilitation after this disease is a key component in continuing patient care. OBJECTIVE:&#xD;
+      To verify the effects of face-to-face cardiac rehabilitation and telerehabilitation on&#xD;
+      tolerance to the maximum and submaximal exercise, lung function, fatigue intensity and&#xD;
+      quality of life of COVID-19 survivors. METHODS: This is a longitudinal, intervention study.&#xD;
+      Primary outcomes will be maximum and submaximal functional capacity, intensity and impact of&#xD;
+      fatigue, while secondary outcomes will be lung function and quality of life. EXPECTED&#xD;
+      RESULTS: This work will bring important information to the scientific community and health&#xD;
+      professionals, about the best forms of intervention and its repercussions on the surviving&#xD;
+      individuals of COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 28, 2021</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum functional capacity</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Evaluated by the cardiopulmonary exercise test by measuring the maximum oxygen consumption</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Submaximal functional capacity</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Evaluated by the six-minute walk test</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intensity and impact of fatigue</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Evaluated by the Fatigue pictogram questionnaire, an ordinal scale composed of two questions graded in 5 captioned illustrations that assess the intensity (not at all tired, a little tired, moderately tired, very tired and extremely tired) and the impact of fatigue (I manage to do everything I normally do I do, I can do almost everything I usually do, I can do some of the things I usually do, I just do what I have to do and I can do very little).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Spirometry</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Number of patients with ventilatory disorder assessed by spirometry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life assessment: Short Form-36 questionnaire</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>In this questionnaire, a score of zero corresponds to the worst general health status and the one hundred best health status.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Perception of clinical change</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Evaluated by the Patient Global Impression of Change Scale which is a one-dimensional measure in which individuals can rate their associated improvement on a 7-item scale ranging from &quot;1 = no changes&quot; to &quot;7 = much better&quot;.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <condition>Exercise Tolerance</condition>
+  <condition>Quality of Life</condition>
+  <condition>Lung Function</condition>
+  <condition>Fatigue Intensity</condition>
+  <arm_group>
+    <arm_group_label>Face-to-face rehabilitation and Telerehabilitation</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>The Face-to-face rehabilitation and Telerehabilitation protocol will consist of flexibility exercises, aerobic and resistance training, with two sessions per week.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Face-to-face rehabilitation</intervention_name>
+    <description>Aerobic training will be performed with 60% to 80% of the maximum VO2 obtained through the CPET. The exercise will be performed on the treadmill, with a total time of 40 minutes, with 5 minutes of warm-up, 30 minutes of conditioning, 5 minutes of cooling down. Resistance training will be performed for upper and lower limbs and the load used in the exercises will be 60% of the maximum repetition test (1RM), with load progression every six sessions. The exercises are performed in three series of 12 repetitions.</description>
+    <arm_group_label>Face-to-face rehabilitation and Telerehabilitation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Telerehabilitation</intervention_name>
+    <description>The telerehabilitation protocol will consist of stretching the muscles of the upper and lower limbs and accessory muscles of breathing. The conditioning phase will consist of stationary walking, side running, jumping jump and stationary running, 3 times of 40 seconds with a 30-second passive rest interval between them. Resistance training will be applied to the muscles of the upper limbs and lower limbs, with specific exercises for each musculature, using elastic bands as resistance.</description>
+    <arm_group_label>Face-to-face rehabilitation and Telerehabilitation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults of both genders;&#xD;
+&#xD;
+          -  With a diagnosis of COVID-19 confirmed by a laboratory through RT-PCR means;&#xD;
+&#xD;
+          -  Have to access to the internet and some device (smartphone, computer or notebook) that&#xD;
+             allows them to participate in the call centre.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individuals with orthopaedic or neurological diseases;&#xD;
+&#xD;
+          -  Individuals with difficulties in understanding and that present psychological changes&#xD;
+             that make it difficult or impossible to understand the information presented.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Bruna Araújo</last_name>
+    <phone>+55 81 997961625</phone>
+    <email>brunatsaraujo@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Universidade Federal de Pernambuco</name>
+      <address>
+        <city>Recife</city>
+        <state>PE</state>
+        <zip>50740-560</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Armele Dornelas de Andrade</last_name>
+      <phone>+55 81 21268496</phone>
+      <email>armeledornelas@hotmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>December 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>February 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 23, 2021</study_first_posted>
+  <last_update_submitted>February 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidade Federal de Pernambuco</investigator_affiliation>
+    <investigator_full_name>BRUNA THAYS SANTANA DE ARAÚJO</investigator_full_name>
+    <investigator_title>physiotherapist</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

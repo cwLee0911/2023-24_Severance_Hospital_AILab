@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4759">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04747756</url>
+  </required_header>
+  <id_info>
+    <org_study_id>60304</org_study_id>
+    <nct_id>NCT04747756</nct_id>
+  </id_info>
+  <brief_title>Creating a Virtual Village for People Aging With HIV During COVID-19</brief_title>
+  <official_title>A Solution to Halt Further Isolation of People Aging With HIV During the COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Riverside</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of South Florida</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Southern California</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>HIV+Aging Research Project-Palm Springs</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, Riverside</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In a PCORI-funded project on HIV and aging engagement that was co-led by the study team, the&#xD;
+      topics of isolation and depressions were identified as priority areas of deep concern among&#xD;
+      older PLWH. The COVID-19 pandemic has enhanced the urgency to test interventions to mitigate&#xD;
+      depression and isolation among older PLWH. However, there is scant evidence on effective&#xD;
+      interventions that help mitigate depression and isolation among older PLWH. While physical&#xD;
+      distancing and stay at home orders are a necessary strategy to flatten the curve, ease&#xD;
+      pressure on the healthcare system, and protect the most vulnerable, the order further&#xD;
+      increases the isolation faced by people aging with HIV, and creates barriers to accessing&#xD;
+      medications, health services, and other resources. This project will include 6 virtual focus&#xD;
+      groups and 12 individual interviews with adults ages 50 or older in California (Palm Spring,&#xD;
+      Los Angeles) and the Tampa-Bay region, Florida to (1): further characterize issues related to&#xD;
+      depression, isolation, and basic needs of people aging with HIV during the COVID-19 pandemic&#xD;
+      (2) utilizing results from Aim 1, co-develop ideas for what to include in a virtual village,&#xD;
+      and (3) create and pilot the virtual village in a group of people aging with HIV. The overall&#xD;
+      goal of this study is to execute an innovative solution to address issues related to&#xD;
+      isolation for older PLWH which have been exacerbated during the COVID-19 pandemic.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in depression after pilot testing virtual village</measure>
+    <time_frame>3 months</time_frame>
+    <description>Measuring change in depression using PHQ9</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Hiv</condition>
+  <condition>Depression in Old Age</condition>
+  <condition>Isolation, Social</condition>
+  <condition>Aging</condition>
+  <arm_group>
+    <arm_group_label>Study participants</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>No participants will be randomized. All participants will have an opportunity to participate in the study procedures.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Virtual Village</intervention_name>
+    <description>The purpose of this study is to create a virtual village for people aging with HIV, and to pilot test the virtual village intervention as a final step.</description>
+    <arm_group_label>Study participants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  English or Spanish speaking adults&#xD;
+&#xD;
+          -  Living with HIV&#xD;
+&#xD;
+          -  residing in Palm Springs, Los Angeles, or Tampa Bay Florida&#xD;
+&#xD;
+          -  age 50 or older&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  not able to read English or Spanish&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>UC Riverside</name>
+      <address>
+        <city>Riverside</city>
+        <state>California</state>
+        <zip>92521</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Christine Davis</last_name>
+      <phone>951-827-5733</phone>
+      <email>christine.davis@medsch.ucr.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Brandon Brown, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Andrea Polonijo, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 10, 2021</study_first_posted>
+  <last_update_submitted>February 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

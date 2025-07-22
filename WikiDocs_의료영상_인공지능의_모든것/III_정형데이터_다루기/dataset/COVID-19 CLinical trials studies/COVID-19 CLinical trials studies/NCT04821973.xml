@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2463">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04821973</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-35</org_study_id>
+    <secondary_id>2020-A01627-32</secondary_id>
+    <nct_id>NCT04821973</nct_id>
+  </id_info>
+  <brief_title>Respiratory Tele Monitoring COVID 19 (TMR COVID-19)</brief_title>
+  <official_title>Interest of Respiratory Tele Monitoring in COVID-19 Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique Hopitaux De Marseille</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique Hopitaux De Marseille</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The determinants of the evolution to a severe form for COVID-19 pneumonia remain unclear.&#xD;
+      COVID-19 pneumonia is characterized by a hypoxemia with a possible rapid worsening and&#xD;
+      related resuscitation requirement. The monitoring of patients in hospital wards (excluding&#xD;
+      intensive care unit) is therefore both necessary and complicated given the contagious risks&#xD;
+      for health workers.&#xD;
+&#xD;
+      The COVID 19 Respiratory Tele Monitoring (RTM COVID 19) research project is based on a&#xD;
+      comparison between usual nurse respiratory monitoring (4 to 6 time per day) of respiratory&#xD;
+      parameters (capillary oxygen saturation, respiratory rate, hearth rate) and a continuous&#xD;
+      monitoring of these respiratory parameters with continuous monitoring by a portable, wireless&#xD;
+      and stand-alone device.&#xD;
+&#xD;
+      The main objective of this work is a more sensitive and earlier detection of respiratory&#xD;
+      degradation events in patients with COVID-19 pneumonia (capillary desaturation, increased&#xD;
+      respiratory rate) requiring the introduction of oxygen therapy, its increase or a&#xD;
+      resuscitation requirement with possible intensive care admission.&#xD;
+&#xD;
+      A prospective, randomized, multicentre, comparative exposure study will be conducted with&#xD;
+      planned inclusion of 80 patients. This investigation will focus on patients with COVID-19&#xD;
+      pneumonia hospitalized in dedicated medical wards of two University Hospitals in France.&#xD;
+&#xD;
+      A randomization will be stratified by Hospital and adapted so that each Hospital provides the&#xD;
+      same number of subjects in each arms:&#xD;
+&#xD;
+        -  Control Respiratory Monitoring Group (40 patients)&#xD;
+&#xD;
+        -  Experimental Respiratory Monitoring Group (40 patients)&#xD;
+&#xD;
+      The main criterion is respiratory degradation event, during a 4 days period after ward&#xD;
+      admission, which motivates a change in the therapeutic strategy defined by the presence of at&#xD;
+      least one of these elements:&#xD;
+&#xD;
+        -  Capillary saturation &lt; 94% (regardless of oxygen intake) for at least 2 minutes.&#xD;
+&#xD;
+        -  And/or an increase in respiratory rate &gt; 20/minute for at least 2 minutes.&#xD;
+&#xD;
+      The modification of the therapeutic strategy is defined by:&#xD;
+&#xD;
+        -  Introduction of oxygen therapy for included patients without oxygen therapy or&#xD;
+           supplementation of oxygen therapy &gt; 2 litres/minutes for included patients with oxygen&#xD;
+           therapy&#xD;
+&#xD;
+        -  And/or introduction of a high oxygen concentration mask&#xD;
+&#xD;
+        -  And/or Request an On-Site Opinion from a member of the resuscitation team.&#xD;
+&#xD;
+        -  And/or Transfer to intensive care or resuscitation unit&#xD;
+&#xD;
+        -  And/or Need for immediate resuscitation for life-threatening distress.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 22, 2020</start_date>
+  <completion_date type="Anticipated">November 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 15, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>respiratory degradation event 1</measure>
+    <time_frame>during the 4 days period</time_frame>
+    <description>Capillary saturation &lt; 94% (regardless of oxygen intake) for at least 2 minutes</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>respiratory degradation event 2</measure>
+    <time_frame>during the 4 days period</time_frame>
+    <description>an increase in respiratory rate &gt; 20/minute for at least 2 minutes</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>New Early Warning Score (NEWS) evaluation</measure>
+    <time_frame>during the 4 days period</time_frame>
+    <description>post hoc comparison of the respiratory monitoring using the experimental device with the NEWS on the repiratory event occurence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of caregiver feelings</measure>
+    <time_frame>during the 4 days period</time_frame>
+    <description>post hoc analysis of the team in regard to the monitoring strategy used based on a self-assessment questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensive Care Unit tansfer</measure>
+    <time_frame>during the 4 days period</time_frame>
+    <description>post hoc analysis of the frequency of ICU transfer</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Control Respiratory Monitoring Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental Respiratory Monitoring Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Radius PPG Tetherless Pulse Oximetry (Masimo)</intervention_name>
+    <description>continuous monitoring by a portable, wireless and stand-alone device</description>
+    <arm_group_label>Experimental Respiratory Monitoring Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>usual monitoring</intervention_name>
+    <description>usual nurse respiratory monitoring</description>
+    <arm_group_label>Control Respiratory Monitoring Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient with COVID 19 pneumonia assessed by PCR and CT scann.&#xD;
+&#xD;
+          -  Patient admited in a dedicated medical ward&#xD;
+&#xD;
+          -  Patient with oxygen supply less or equal to 4 liters per minute.&#xD;
+&#xD;
+          -  Written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient with limitation of care.&#xD;
+&#xD;
+          -  Patient with immediate risk to ICU transfer within the first 12 hours&#xD;
+&#xD;
+          -  Patient with neurological or psychiatric symptoms that interfere with respiratory&#xD;
+             parameters interpretation.&#xD;
+&#xD;
+          -  Patient with acute or chronic respiratory disease such as COPD, cancer.&#xD;
+&#xD;
+          -  Pregnancy, age &lt; 18 of vulnerable profile.&#xD;
+&#xD;
+          -  Patient refusal to participate or previously included in a clinical research trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>10 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GARRIDO-PRADALIE Emilie</last_name>
+    <role>Study Director</role>
+    <affiliation>Assistance Publique Hôpitaux de Marseille</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pierre MICHELET</last_name>
+    <phone>04 13 42 97 05</phone>
+    <phone_ext>+33</phone_ext>
+    <email>pierre.michelet@ap-hm.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Claire MORANDO</last_name>
+    <phone>0491382183</phone>
+    <phone_ext>+33</phone_ext>
+    <email>claire.morando@ap-hm.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Assistance Publique Hôpitaux de Marseille</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13005</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pierre MICHELET</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2021</study_first_posted>
+  <last_update_submitted>March 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

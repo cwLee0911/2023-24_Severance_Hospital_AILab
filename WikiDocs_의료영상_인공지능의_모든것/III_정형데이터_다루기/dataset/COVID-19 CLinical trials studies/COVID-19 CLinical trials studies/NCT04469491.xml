@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3129">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04469491</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PI2020_843_0041</org_study_id>
+    <nct_id>NCT04469491</nct_id>
+  </id_info>
+  <brief_title>Treatment of COVID-19 by Nebulization of Inteferon Beta 1b Efficiency and Safety Study</brief_title>
+  <acronym>COV-NI</acronym>
+  <official_title>Treatment of COVID-19 by Nebulization of Inteferon Beta 1b Efficiency and Safety Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire, Amiens</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire, Amiens</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 is causing a serious viral pandemic in terms of health and social impact. To date,&#xD;
+      no treatment has yet demonstrated Strong efficacy in treating the infectious disease&#xD;
+      (COVID-19). Pulmonary administration of Interferon (IFN) type I is a therapeutic strategy&#xD;
+      with high potential,due to higher local concentrations and minimal adverse effects. Type I&#xD;
+      interferons (including IFN-α and IFN-β) are antiviral defence cytokines and also have the&#xD;
+      potential to negatively modulate IFN Type II and IL-6 dependent cytokine storm, the latter&#xD;
+      being induced in the late forms of COVID-19. In vitro, IFN-β were more effective on COVID-19&#xD;
+      than IFN-α. In existing preliminary studies, only patients receiving IFN type I modulators&#xD;
+      have a decrease in viral carriage and a rapid reversal. The purpose of this project is to&#xD;
+      assess in hospitalized patients with oxygen for COVID 19, the clinical efficacy on oxygen&#xD;
+      requirements of the addition of inhaled Interferon type I compared to the control arm .&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 20, 2020</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>oxygen requirement score at day 0</measure>
+    <time_frame>day 0</time_frame>
+    <description>oxygen requirement score at day 0</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>oxygen requirement score at day 15</measure>
+    <time_frame>day 15</time_frame>
+    <description>oxygen requirement score at day 15</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Variation oxygen requirement score between day 0 and day15</measure>
+    <time_frame>at day 15</time_frame>
+    <description>Variation oxygen requirement score between day 0 and day15</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">146</enrollment>
+  <condition>COVID-19</condition>
+  <condition>INTERFERON</condition>
+  <condition>NEBULIZATION</condition>
+  <arm_group>
+    <arm_group_label>Inhaled IFN arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IFN (Interferon) pulmonary (Inhalation) + routine care (+/- antibiotics; +/- dexamethasone; + appropriate O2 support)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Arm:</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Aerosol (WFI water and routine care (+/- antibiotics;+/- dexamethasone; + appropriate O2 support).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>inhaled type I interferon</intervention_name>
+    <description>The interventional arm includes inhaled interferon (9.6 MUI x2/d for 48 hours, then 9.6 MUI x1/d for 8 to 16 days or discharge), in addition to standard care. In phase B, maximum treatment duration is 8 days.</description>
+    <arm_group_label>Inhaled IFN arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>WFI water nebulization</intervention_name>
+    <description>The interventional arm includes a WFI water nebulization comparator.</description>
+    <arm_group_label>Control Arm:</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years old&#xD;
+&#xD;
+          -  Patient with laboratory-confirmed SARS-CoV-2 infection as determined by PCR &lt; 96 h (at&#xD;
+             initial diagnosis or persistent carriage &lt;96 h)&#xD;
+&#xD;
+          -  Hospitalized patient with COVID-19 requiring oxygen therapy&#xD;
+&#xD;
+        And targeting in phase B :&#xD;
+&#xD;
+          -  Patients under oxygen therapy such as nasal cannula/mask or non-invasive ventilation&#xD;
+             with paO2/FiO2 &gt; 200 mmHg.&#xD;
+&#xD;
+          -  Patients hospitalized for less than 7 days.&#xD;
+&#xD;
+          -  Patients with symptoms for less than 10 days or RT-PCR (&lt;96h) with Cycle Treshold &lt;&#xD;
+             25.&#xD;
+&#xD;
+          -  Social security coverage&#xD;
+&#xD;
+          -  signed informed consent (by patient or their legally authorized representative)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Hypersensitivity to natural or recombinant interferon-ß&#xD;
+&#xD;
+          -  Hypersensitivity to human albumin or mannitol&#xD;
+&#xD;
+          -  Recent suicide attempt&#xD;
+&#xD;
+          -  Decompensation of liver failure&#xD;
+&#xD;
+          -  age &lt; 18 years&#xD;
+&#xD;
+          -  Pregnant or nursing.&#xD;
+&#xD;
+          -  Patients managed on an outpatient basis (i.e. not initially hospitalized).&#xD;
+&#xD;
+          -  Parenteral IFN treatment. In periode B, addition of new exclusion criteria&#xD;
+&#xD;
+          -  Patients with kidney transplant&#xD;
+&#xD;
+          -  Immunocompromised patients&#xD;
+&#xD;
+          -  Patients with severe systemic disease constantly threatening their vital prognosis&#xD;
+             (ASA ≥ IV: e.g. severe ARF, advanced cancer pathology, recent myocardial IDM, severe&#xD;
+             valvular dysfunction, dependence on parenteral nutrition on central line, shock,&#xD;
+             sepsis, trauma, ...).&#xD;
+&#xD;
+          -  Patients in septic shock.&#xD;
+&#xD;
+          -  Patients with documented fungal infection.&#xD;
+&#xD;
+          -  Patients on mechanical ventilation.&#xD;
+&#xD;
+          -  Patients hospitalized for COVID-19 for more than 7 days.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean-Philippe Lanoix, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU Amiens</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jean-Philippe Lanoix, MD</last_name>
+    <phone>(33)322668813</phone>
+    <email>lanoix.jean-philippe@chu-amiens.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Aurélien Mary, MD</last_name>
+    <phone>(33)22087140</phone>
+    <email>mary.aurelien@chu-amiens.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CH d'Abbeville</name>
+      <address>
+        <city>Abbeville</city>
+        <zip>80142</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Olivier LELEU, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Amiens</name>
+      <address>
+        <city>Amiens</city>
+        <zip>80480</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean-Philippe Lanoix, MD</last_name>
+      <phone>(33)3 22 66 88 13</phone>
+      <email>lanoix.jean-philippe@chu-amiens.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Aurélien Mary, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Michel Brazier, Pr</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jean Luc Jean Luc Schmit, Pr</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CH Compiègne-Noyon</name>
+      <address>
+        <city>Compiegne</city>
+        <zip>60200</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Anne-Lise LECAPITAINE, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH de l'Arrondissement de Montreuil-sur-mer</name>
+      <address>
+        <city>Rang-du-Fliers</city>
+        <zip>62180</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Chandra ADJODAH, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH de Saint-Quentin</name>
+      <address>
+        <city>Saint-Quentin</city>
+        <zip>02100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Houcine BENTAYEB</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH de Tourcoing</name>
+      <address>
+        <city>Tourcoing</city>
+        <zip>59208</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Eric SENEVILLE, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH de valenciennes</name>
+      <address>
+        <city>Valenciennes</city>
+        <zip>59322</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Hatem BOUGHANMI, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>July 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 14, 2020</study_first_posted>
+  <last_update_submitted>March 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>INTERFERON</keyword>
+  <keyword>NEBULIZATION</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Interferons</mesh_term>
+    <mesh_term>Interferon Type I</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

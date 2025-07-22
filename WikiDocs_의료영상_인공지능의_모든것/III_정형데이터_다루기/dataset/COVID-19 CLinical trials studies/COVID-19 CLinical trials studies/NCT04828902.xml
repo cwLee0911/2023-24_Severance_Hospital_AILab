@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5213">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04828902</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NKBBN/4421/2020</org_study_id>
+    <nct_id>NCT04828902</nct_id>
+  </id_info>
+  <brief_title>Influence of Postoperative Delirium on Outcome After Cardiac Surgery in Adults.</brief_title>
+  <official_title>Influence of Postoperative Delirium on Outcome After Cardiac Surgery in Adults - a Prospective Observational Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of Gdansk</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medical University of Gdansk</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Postoperative delirium is an acute syndrome of mental deterioration characterized by acute&#xD;
+      onset and fluctuating course during the day. Very frequent delirium is a presage of other&#xD;
+      serious comorbidities i.e.: sepsis, acute kidney injury, circulatory and/or respiratory&#xD;
+      failure. A detailed knowledge of symptoms and early diagnose of delirium increase the chances&#xD;
+      of early therapy. To what extent the occurrence of postoperative delirium influences hospital&#xD;
+      therapy in the Cardiac Surgical Postoperative ICU in University Clinical Centre in Gdańsk is&#xD;
+      unknown so far.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study type: prospective, observational cohort study. Facility: tertiary, university hospital&#xD;
+      Methods: Patients will undergo routine, continuous observation for symptoms of delirium by a&#xD;
+      trained nursing staff. Occurrence of delirium, Delirium Observation Screening Scale (DOSS)&#xD;
+      grading, and therapy will by annotated on case record forms (CRFs) every 12 hours.&#xD;
+      Additionally, collected will be known risk factors of delirium: schedule type, age, arterial&#xD;
+      hypertension, atrial fibrillation, body mass index (BMI), angiotensin converting enzyme (ACE)&#xD;
+      inhibitors / angiotensin receptor blockers (ARBs) therapy, hearing loss, dementia, peripheral&#xD;
+      artery disease, myocardial infarction, depression, diabetes, corona virus disease 2019&#xD;
+      (COVID19) infection and/or vaccination; and outcome data: hospital-LOS, prolonged sedation,&#xD;
+      antipsychotic therapy, surgical reintervention, hours on mechanical ventilation (HOV), number&#xD;
+      of tracheal intubations, length of consciousness disorders, blood product transfusions,&#xD;
+      cardiopulmonary resuscitation (CPR), renal replacement therapy (RRT), mechanical circulatory&#xD;
+      support (MCS), duration of catecholamine support, ICU readmissions, new antibiotic therapies,&#xD;
+      30-day mortality.&#xD;
+&#xD;
+      Statistical methods: Delirium morbidity and risk will be calculated from two-by-two table.&#xD;
+      Associations between delirium and secondary outcome measures will be evaluated by simple and&#xD;
+      logistic regression with use of ANOVA test for continuous variables with homogeneous&#xD;
+      distribution, or Kruskal-Wallis test for continuous variables with non-homogeneous&#xD;
+      distribution, or categorical variables. Significant will be considered results with p&lt;0.05.&#xD;
+&#xD;
+      A period of one year was assumed sufficient to draw conclusions on the primary endpoints of&#xD;
+      the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 1, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Delirium incidence and risk</measure>
+    <time_frame>Through hospitalisation in Postop-ICU - an average of 2 days</time_frame>
+    <description>Incidence and risk of postoperative delirium</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Risk factors of delirium.</measure>
+    <time_frame>Through hospitalisation in Postop-ICU - an average of 2 days</time_frame>
+    <description>collected will be known risk factors of delirium: schedule type, age, arterial hypertension, atrial fibrillation, BMI, ACE/ARBs therapy, hearing loss, dementia, peripheral artery disease, myocardial infarction, depression, diabetes, COVID19 and/or vaccination for it; and outcome data: hospital-LOS, prolonged sedation, antipsychotic therapy, surgical reintervention, direct coercion, length of mechanical ventilation, number of tracheal intubations, length of consciousness disorders, blood product transfusions, cardiopulmonary resuscitation, renal replacement therapy, mechanical circulatory support, duration of catecholamine support, ICU readmissions, new antibiotic therapies, 30-day mortality.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Association between delirium and length of stay in ICU (LOS-ICU).</measure>
+    <time_frame>Through hospitalisation in Postop-ICU - an average of 2 days</time_frame>
+    <description>Association between delirium and length of stay in ICU (LOS-ICU).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>DOSS</measure>
+    <time_frame>Through hospitalisation in Postop-ICU - an average of 2 days</time_frame>
+    <description>Associations between delirium and mean DOSS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital-LOS</measure>
+    <time_frame>Through hospitalisation in Postop-ICU - an average of 2 days</time_frame>
+    <description>Association between delirium and hospital-LOS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prolonged sedation, antipsychotic therapy and surgical re-intervention.</measure>
+    <time_frame>Through hospitalisation in Postop-ICU - an average of 2 days</time_frame>
+    <description>Association between delirium and prolonged sedation, antipsychotic therapy, surgical reintervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hours on ventilator.</measure>
+    <time_frame>Through hospitalisation in Postop-ICU - an average of 2 days</time_frame>
+    <description>Association between delirium and HOV.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intubations</measure>
+    <time_frame>Through hospitalisation in Postop-ICU - an average of 2 days</time_frame>
+    <description>Association between delirium and number of tracheal intubations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Consciousness disorders</measure>
+    <time_frame>Through hospitalisation in Postop-ICU - an average of 2 days</time_frame>
+    <description>Association between delirium and length of consciousness disorders.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transfusions</measure>
+    <time_frame>Through hospitalisation in Postop-ICU - an average of 2 days</time_frame>
+    <description>Association between delirium and blood product transfusions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CPR, RRT, MCS</measure>
+    <time_frame>Through hospitalisation in Postop-ICU - an average of 2 days</time_frame>
+    <description>Association between delirium and CPR, RRT, and MCS.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Catecholamines</measure>
+    <time_frame>Through hospitalisation in Postop-ICU - an average of 2 days</time_frame>
+    <description>Association between delirium and duration of catecholamine support.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU readmissions</measure>
+    <time_frame>Through hospitalisation in Postop-ICU - an average of 2 days</time_frame>
+    <description>Association between delirium and ICU readmissions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New antibiotic</measure>
+    <time_frame>Through hospitalisation in Postop-ICU - an average of 2 days</time_frame>
+    <description>Association between delirium and new antibiotic therapy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>30-day mortality</measure>
+    <time_frame>30 days after operation</time_frame>
+    <description>Association between delirium and 30-day mortality</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Postoperative Delirium</condition>
+  <condition>Adult Cardiac Surgery</condition>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>cardiac surgery</intervention_name>
+    <description>Any heart surgery on or without cardiopulmonary bypass performed under general anesthesia in the Cardiac Surgical Department, Medical University of Gdańsk.</description>
+    <other_name>cabg</other_name>
+    <other_name>valve surgery</other_name>
+    <other_name>aorta surgery</other_name>
+    <other_name>heart transplant</other_name>
+    <other_name>other cardiac surgery</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All adult patients undergoing elective/emergency cardiac surgery will be considered&#xD;
+        eligible.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients (&gt;18 y.a.), undergoing cardiac surgery, who will sign an informed&#xD;
+             consent to participate in the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Deny to sign or absence of an informed consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Gender will be reported as declared by the subjects.</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Romuald Lango, Prof.dr.hab.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Medical University of Gdańsk, Department of Cardiac Anesthesiology</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Maciej Kowalik, Dr hab.</last_name>
+    <role>Study Director</role>
+    <affiliation>Medical University of Gdańsk, Department of Cardiac Anesthesiology</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Pawel Kozak, Mgr. Piel.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of Gdańsk, Department of Cardiac Anesthesiology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Maciej M Kowalik, Dr. hab.</last_name>
+    <phone>+48585844209</phone>
+    <email>mkowalik@gumed.edu.pl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Paweł Kozak, Mgr. Piel.</last_name>
+    <phone>+48585844208</phone>
+    <email>Paweł.kozak@gumed.edu.pl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Department of Cadiac Anesthesiology, Medical University of Gdańsk</name>
+      <address>
+        <city>Gdańsk</city>
+        <state>Pomorskie</state>
+        <zip>80-211</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maciej M Kowalik, Dr hab.</last_name>
+      <phone>+48585844209</phone>
+      <email>mkowalik@gumed.edu.pl</email>
+    </contact>
+    <contact_backup>
+      <last_name>Paweł Kozak, Mgr. piel.</last_name>
+      <phone>+48585844208</phone>
+      <email>Paweł.kozak@gumed.edu.pl</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Maciej M Kowalik, M.D., Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Paweł Kozak, Mgr. Piel.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Poland</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 2, 2021</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Medical University of Gdansk</investigator_affiliation>
+    <investigator_full_name>Maciej M. Kowalik, MD, PhD</investigator_full_name>
+    <investigator_title>Promotor, Dr hab. n. med. Maciej Michał Kowalik</investigator_title>
+  </responsible_party>
+  <keyword>postoperative delirium</keyword>
+  <keyword>cardiac surgery</keyword>
+  <keyword>Covid19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Delirium</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Anonymized patients data are planned to be uploaded into a public data repository (ZENODO.com) after data completion.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

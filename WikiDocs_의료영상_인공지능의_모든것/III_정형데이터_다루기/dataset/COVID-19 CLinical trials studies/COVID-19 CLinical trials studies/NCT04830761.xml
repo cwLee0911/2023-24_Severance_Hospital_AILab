@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4735">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04830761</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-00164</org_study_id>
+    <nct_id>NCT04830761</nct_id>
+  </id_info>
+  <brief_title>Behavior Change in Context to Contain the Spread of COVID-19</brief_title>
+  <official_title>Behaviour Change in Context to Contain the Spread of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Bern</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ursula Wirz Stiftung</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Bern</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Project BECCCS (=Behavior Change in Context to Contain the Spread of COVID-19) aims to&#xD;
+      optimise and test a behaviour change intervention to promote correct hand hygiene at key&#xD;
+      times in the short and long term.&#xD;
+&#xD;
+      The study's specific aims are:&#xD;
+&#xD;
+        1. Optimisation phase: Identify the most effective combination and sequence of three&#xD;
+           different intervention modules (habit, motivation, social norms), and to assess&#xD;
+           usability and fidelity measures in order to optimise the intervention&#xD;
+&#xD;
+        2. Evaluation phase: Test the final intervention against treatment-as-usual, i.e. FOPH&#xD;
+           (=Federal Office of Public Health) hygiene and behaviour recommendations&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study design:&#xD;
+&#xD;
+      In this study, the MOST methodology (multiphase optimization strategy; Collins et al., 2014)&#xD;
+      will be applied. First, the most effective intervention components for specific target groups&#xD;
+      will be determined, which is called the optimisation phase. To this end, we run a parallel&#xD;
+      randomized trial that investigates all combinations of three interventions modules (= 9&#xD;
+      combinations) in terms of its usability and its effectiveness.&#xD;
+&#xD;
+      To collect in-depth information about usability and feasibility, we will additionally run a&#xD;
+      qualitative survey with a small subsample of the trial.&#xD;
+&#xD;
+      After this optimisation phase, the intervention's effectiveness will be tested against a&#xD;
+      control group in a randomized controlled trial, which is called the evaluation phase.&#xD;
+&#xD;
+      For the optimisation phase, participants will be randomly assigned to one of nine conditions.&#xD;
+      All participants are randomized into one of nine intervention group in a 1:1:1:1:1:1:1:1&#xD;
+      ratio. For the randomization, an even randomization procedure is applied using Qualtrics.&#xD;
+      Because the randomization is even, the probability is fixed if the number of the participants&#xD;
+      can be divided by 9, it means that at the end we will have exactly even number of&#xD;
+      participants in each group.&#xD;
+&#xD;
+      In the evaluation phase, the optimised intervention from the optimisation phase will be&#xD;
+      tested in an RCT. To this end, participants will be randomly assigned to one of two&#xD;
+      conditions: final intervention vs. control group (TAU). The control group will not be given&#xD;
+      access to the final intervention. Nonetheless, they will be working with the study&#xD;
+      application for answering the three questionnaires (pre-test, post-test, follow-up) and the&#xD;
+      short questionnaires (diary days). The control group will further have access to the public&#xD;
+      information concerning the FOPHs recommendations on hand hygiene.&#xD;
+&#xD;
+      Recruitment and informed consent procedure:&#xD;
+&#xD;
+      The sample will be recruited via Facebook and Instagram. Those who click on the link of the&#xD;
+      campaign will lead to a landing page with the relevant study information. Here, participants&#xD;
+      read the study info and enter their e-mail address. When they click on &quot;send&quot;, an info box&#xD;
+      explains that an email has been sent including the link to the actual study.&#xD;
+&#xD;
+      In the mail, the participants can access via link to an eligibility and consent survey with&#xD;
+      detailed information about the nature of the study (=optimization and evaluation phase), its&#xD;
+      purpose, the procedures involved, the expected duration, the potential risks and benefits,&#xD;
+      any discomfort it may entail and finally an e-consent form to give consent to the study&#xD;
+      electronically. If people meet all inclusion criteria, the participants can directly sign&#xD;
+      with the mouse (on computer) or finger (on mobile device) the consent form.&#xD;
+&#xD;
+      After the participants agree to participate in the study, they receive a registration code&#xD;
+      via e-Mail to participate in the study as well as a signed copy of the consent form (at the&#xD;
+      latest of one week after giving consent electronically).&#xD;
+&#xD;
+      In the mail, the participants are guided to download the app &quot;soapp&quot; from their app store&#xD;
+      with the registration code. After downloading the app, they have to register and tip in the&#xD;
+      registration code. After that, they start with the first questionnaire T1 (optimization&#xD;
+      phase) or pre-test (evaluation phase).&#xD;
+&#xD;
+      Study procedure:&#xD;
+&#xD;
+      The duration of the study is 5 weeks (optimisation phase) plus a 6-month follow-up in the&#xD;
+      evaluation phase. Each participant receives two different intervention modules which each&#xD;
+      last 2 weeks.&#xD;
+&#xD;
+      After downloading the study app, the participants receive the first baseline questionnaire&#xD;
+      (T1 or pre-test).&#xD;
+&#xD;
+      Optimization phase: The day after T1, people attend a diary day. The diary day includes five&#xD;
+      1-minute-questionnaires during one day. People will be informed that the intervention starts&#xD;
+      on the subsequent day after the diary day. The intervention will take four weeks and includes&#xD;
+      two modules. During the first module, people will attend another diary day at the end of each&#xD;
+      week (2 in total during one module). On the subsequent day of the last dairy day of the first&#xD;
+      module, people will receive the second questionnaire (T2). After T2, the second intervention&#xD;
+      module follows in the same structure: The participants follow the instructions of the&#xD;
+      intervention and their hand hygiene behaviour is surveyed on the last day of each week using&#xD;
+      the short questionnaire within the diary day. A day after the participants completed the last&#xD;
+      diary day and with that the second module, they receive the last questionnaire (T3).&#xD;
+      Additionally, to the normal questionnaire, the participants can indicate at T3, whether they&#xD;
+      are willing to take part in a qualitative survey. Here, people will be interviewed via&#xD;
+      telephone by a study member. This interview will take around 30 minutes for the participants,&#xD;
+      where they will be asked questions about the usability of the app and their experience with&#xD;
+      the intervention modules. This information will be used to improve the study app before&#xD;
+      starting with the evaluation phase. By the end of the study, the participants will have&#xD;
+      completed three questionnaires (T1-T3) and five short-questionnaires.&#xD;
+&#xD;
+      Evaluation phase: The day after the pre-test questionnaire, people attend a diary day to&#xD;
+      assess their previous hand hygiene behaviour. People will be informed that the intervention&#xD;
+      starts on the subsequent day after the diary day. The intervention will run for four weeks.&#xD;
+      During these four weeks, people will attend another diary day at the end of each week (4 in&#xD;
+      total during the total intervention). A day after the last diary day of the intervention,&#xD;
+      participants are asked to fill in the second questionnaire (post-test). In the evaluation&#xD;
+      phase, the participants will receive a six-month follow-up. They will first attend a diary&#xD;
+      day after 6 months after the intervention started and will then receive the follow-up&#xD;
+      questionnaire the subsequent day. By the end of the study, the participants will have&#xD;
+      completed three questionnaires (pre-test, post-test, follow-up) and six short-questionnaires.&#xD;
+&#xD;
+      Hypotheses:&#xD;
+&#xD;
+      Optimisation:&#xD;
+&#xD;
+      Hyp.1: The intervention groups show a significant increase in correct hand hygiene behaviour&#xD;
+      at key times (T3).&#xD;
+&#xD;
+      Hyp.2: The intervention groups significantly differ in their effects on correct hand hygiene&#xD;
+      behaviour at key times (T1-T3).&#xD;
+&#xD;
+      Hyp.3. The intervention groups show a significant increase in (not correct) hand hygiene&#xD;
+      behaviour at key times (T3).&#xD;
+&#xD;
+      Hyp.4. The groups attending a motivation module show a significant increase in a) intention,&#xD;
+      b) self-efficacy, c) outcome expectancies and d) attitude from T1 to the post measures.&#xD;
+&#xD;
+      Hyp.5. The groups attending a habit module show a significant increase in a) habit strength,&#xD;
+      b) action control, and c) planning from T1 to the post measures.&#xD;
+&#xD;
+      Hyp.6. The groups attending a social norms module show a significant increase in a)&#xD;
+      injunctive norms and b) descriptive norms from T1 to the post measures.&#xD;
+&#xD;
+      Evaluation:&#xD;
+&#xD;
+      Hyp. 7. The intervention group show a greater increase in correct hand hygiene behaviour at&#xD;
+      key times at the post measure (H7a) and at 6-month follow-up (H7b) compared to the control&#xD;
+      group.&#xD;
+&#xD;
+      Hyp. 8 The intervention group show a significant increase in the targeted behavioural&#xD;
+      determinants that are included compared to the control group at the post-intervention measure&#xD;
+      (H8a) and at 6-month follow-up (H8b). [the exact behavioural determinants depend on the&#xD;
+      results of the optimisation phase].&#xD;
+&#xD;
+      Statistics:&#xD;
+&#xD;
+      In the optimisation phase, 387 subjects are to be randomized. This sample size was determined&#xD;
+      with an a priori power analysis with g*power (Faul et al., 2009). The aim is that a&#xD;
+      statistical analysis using repeated-measures ANOVA with a within-between-interaction with a&#xD;
+      power of 0.80 and α = 0.05, a small effect of f =0.1 should be detectable. Accounting for 20%&#xD;
+      attrition, this leads to N = 465 for the enrolment in the parallel control trial.&#xD;
+&#xD;
+      In the evaluation phase, 204 new subjects are to be randomized. The aim is that that a&#xD;
+      statistical analysis using an independent samples t-test adopting an error probability and&#xD;
+      statistical power of α = 0.05 and β = 0.80, at least a small intermediate intervention effect&#xD;
+      of Cohen's d = 0.35 should be detectable (Faul et al., 2007). Accounting for 20% attrition,&#xD;
+      this leads to N = 245 for the enrolment in the RCT.&#xD;
+&#xD;
+      There is no statistical criterion of termination of trial. If more participate are included&#xD;
+      in the study than 387 people in the optimisation phase and 204 people in the evaluation&#xD;
+      phase, the results can be examined in more detail and more complex contexts in terms of&#xD;
+      differential indication can be examined thereby helping to improve the intervention.&#xD;
+&#xD;
+      Planned Analyses:&#xD;
+&#xD;
+      The analysed sample includes all randomized participants. The analyses are carried out on the&#xD;
+      basis of the intention-to-treat approach.&#xD;
+&#xD;
+      In the optimisation phase, the primary analyses will be conducted (T1-T3) to test the&#xD;
+      hypotheses using R and SPSS after 387 participants have completed the study.&#xD;
+&#xD;
+      To address the primary research question, the main effect of a univariate analysis of&#xD;
+      variance with repeated measures will be analysed. After, post-hoc comparison analyses with&#xD;
+      independent t-test will be conducted between all groups. Last, multiple linear regression&#xD;
+      analyses will be conducted to test the effect of the targeted behavioural determinants on the&#xD;
+      outcome.&#xD;
+&#xD;
+      In the evaluation phase, the primary analyses will be conducted (pre-test, post-test,&#xD;
+      follow-up) to test the hypotheses using R and SPSS after 204 participants have completed the&#xD;
+      study. Secondary follow-up analyses will be conducted six months later. Multiple linear&#xD;
+      regression analyses will be conducted to test the effect of the targeted behavioural&#xD;
+      determinants on the outcome and to test mediation hypotheses.&#xD;
+&#xD;
+      The qualitative data in the optimisation phase are analysed by using thematic analysis (Braun&#xD;
+      &amp; Clarke, 2006).&#xD;
+&#xD;
+      No interim analyses or safety analyses are planned. Deviations from the planned analyses will&#xD;
+      be reported in the final report.&#xD;
+&#xD;
+      Handling of missing data and drop-outs:&#xD;
+&#xD;
+      The main analysis will be performed according to the intention-to-treat (ITT) principle. The&#xD;
+      ITT analysis includes every subject who is randomized according to randomized study group. It&#xD;
+      ignores noncompliance, protocol deviations as not adhering to the intervention modules, and&#xD;
+      anything that happens after randomization. Participants who withdrew consent are excluded&#xD;
+      from ITT analysis. ITT analysis avoids overoptimistic estimates of the efficacy of an&#xD;
+      intervention resulting from the removal of non-compliers by accepting that noncompliance and&#xD;
+      protocol deviations are likely to occur in practice.&#xD;
+&#xD;
+      To analyse our hypotheses and research questions, we follow-the ITT analysis strategy. This&#xD;
+      includes: 1) Attempt to follow up all randomized individuals, even if they withdraw from&#xD;
+      allocated group. 2) Perform a main analysis that is valid under a plausible assumption about&#xD;
+      the missing data and that uses all observed data 3) Perform sensitivity analyses to explore&#xD;
+      the impact of departures from the assumption made in the main analysis 4) Account for all&#xD;
+      randomized individuals, at least in the sensitivity analyses.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 26, 2021</start_date>
+  <completion_date type="Anticipated">April 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>In this study, the MOST methodology (multiphase optimization strategy; Collins et al., 2007) will be applied. First, the most effective intervention components for specific target groups will be determined, which is called the optimisation phase. To this end, the investigators run a parallel randomized trial with nine intervention groups that investigates three interventions modules in different order. After this optimisation phase, the final intervention will be tested against a control group (treatment-as-usual) in a randomized controlled trial, which is called the evaluation phase.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Average frequency of correct hand hygiene behaviour at key times</measure>
+    <time_frame>Day 16 (after module 1)</time_frame>
+    <description>First, participants indicate, whether they experienced key times, e.g. arriving home, after using the toilet, which require to wash or disinfect hands since the last questionnaire. Participants will then be asked how many times they correctly washed or disinfected hands at the indicated key times. The response options are 0 = never, 1 = rarely, 2 = sometimes, 3 = often, 4 = always.&#xD;
+Participants receive 5 questionnaires during a diary day. People attend a diary day after module 1 and after module 2.&#xD;
+The frequencies across the 5-times daily diaries will be averaged to indicate the average frequency by which participants correctly performed hand hygiene at key times that day (scale ranging from 0 to 4).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Average frequency of correct hand hygiene behaviour at key times</measure>
+    <time_frame>Day 33 (after module 2)</time_frame>
+    <description>First, participants indicate, whether they experienced key times, e.g. arriving home, after using the toilet, which require to wash or disinfect hands since the last questionnaire. Participants will then be asked how many times they correctly washed or disinfected hands at the indicated key times. The response options are 0 = never, 1 = rarely, 2 = sometimes, 3 = often, 4 = always.&#xD;
+Participants receive 5 questionnaires during a diary day. People attend a diary day after module 1 and after module 2.&#xD;
+The frequencies across the 5-times daily diaries will be averaged to indicate the average frequency by which participants correctly performed hand hygiene at key times that day (scale ranging from 0 to 4).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of hand hygiene behaviour at key times, but not correctly</measure>
+    <time_frame>Day 16 (after module 1) and day 33 (after module 2)</time_frame>
+    <description>How many times they wash or disinfect their hands, but not correctly? The responses are: 0 = never, 1 = rarely, 2 = sometimes, 3 = often, 4 = always. Participants receive 5 questionnaires during a diary day. People attend a diary day after module 1 and after module 2. The frequencies across the 5-times daily diaries will be averaged to indicate the average frequency by which participants not-correctly performed hand hygiene at key times that day (scale ranging from 0 to 4).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported behavioural intention</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>One item: &quot;To what extent do you intend to correctly perform your hand hygiene behavior at key times?&quot; The response options ranged from 1 &quot;not at all&quot; to 6 &quot;very strongly.&quot; Higher scores indicate stronger intention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of self-reported fife risk perception items</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>Fife items such as &quot;To what extent do you think that the probability is high that I will have serious health problems, if I do not perform correct hand hygiene behavior at key times?&quot; The response options ranged from 1 &quot;not at all&quot; to 6 &quot;very strongly.&quot; Higher scores indicate higher risk perception.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of eight self-reported outcome-expectancies items</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>Eight items such as &quot;If I do not perform correct hand hygiene behavior at key times, then I stay rather healthy&quot; The response options ranged from 1 &quot;not at all&quot; to 6 &quot;very strongly.&quot; Higher scores indicate higher outcome-expectancies.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of four self-reported coping planning items</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>Four items such as: &quot;I have made a detailed plan about how I can perform correct hand hygiene behavior at key times, when soap and water are not available' The response options ranged from 1 &quot;not at all&quot; to 6 &quot;very strongly.&quot; Higher scores indicate higher coping planning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of three self-reported action planning items</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>Three items such as: &quot;I have made a detailed plan about when I am going to wash and disinfect may hands.&quot; The response options ranged from 1 &quot;not at all&quot; to 6 &quot;very strongly.&quot; Higher scores indicate higher action planning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Habit strength assessed with the self-report habit index (SRHI)</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>Self-Report Habit Index (SRHI) with four times such as: &quot;Correct hand hygiene behavior at key times is something that I do automatically.&quot; The response options ranged from 1 &quot;strongly disagree&quot; to 6 &quot;strongly agree&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of three self-reported injunctive norm items</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>Three items such as &quot;To what extent do you think that most people who are important to me approve correct hand hygiene behavior at key times? The response options ranged from 1 &quot;not at all&quot; to 6 &quot;very strongly.&quot; Higher scores indicate higher injunctive norms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of two self-reported descriptive norm items</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>Two times such as &quot;To what extent do you think that most people who are important to me perform correct hand hygiene behavior at key times? The response options ranged from 1 &quot;not at all&quot; to 6 &quot;very strongly.&quot; Higher scores indicate higher descriptive norms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of six self-reported attitude items</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>Six items such as &quot;Correct hand hygiene behavior at key times is…&quot; response range from pleasant to unpleasant. Higher scores indicate higher attitude.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of three self-reported action control items</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>Three items such as &quot;During the last two weeks I have constantly monitored myself whether I washed or disinfected my hands according to my plans&quot; The response options ranged from 1 &quot;not at all&quot; to 6 &quot;very strongly.&quot; With the additional item option &quot;During the last two weeks, I did not intend to perform correct hand hygiene behavior at key times&quot;. Higher scores indicate higher action control.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>User engagement assessed with the DBCI Engagement Scale</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>Eight items such as &quot;How strongly did you experience interest?&quot; Response ranged from &quot;not at all&quot; to &quot;moderately&quot; to &quot;extremely&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intervention usability using the System Usability Scale (SUS)</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>Ten items such as &quot;I think that I would like to use this product frequently&quot;. Response range from 1 &quot;strongly disagree&quot; to 6 &quot;strongly agree&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Satisfaction using the ZUF-8 (Original Englische Version CSQ-8)</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>Eight items such as &quot;Would you recommend this app to a friend&quot; responses are 1 definitely not / 2 not really / 3 rather yes / 4 definitely yes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of intervention fidelity items</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>Items generated to evaluate the interventions. Fifteen items such as &quot;The description in the soapp app was clear to me&quot; or &quot;The tasks with the pro and contra list was fun&quot; The response options ranged from 1 &quot;not at all&quot; to 6 &quot;very strongly.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported flu-like infection symptoms</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>In the last two weeks, did you have flu-like infection symptoms?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported statement of the occurrences of Covid-19.</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>In the last two weeks, did you have a positive corona test?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of eight self-reported self-efficacy items</measure>
+    <time_frame>Day 17 (main survey T2) and day 34 (main survey T3)</time_frame>
+    <description>Eight items such as &quot;How confident are you that you correctly wash/disinfect your hands at key times, when you are on the way&quot; The response options ranged from 1 &quot;not at all&quot; to 6 &quot;very strongly.&quot; Higher scores indicate higher self-efficacy.</description>
+  </secondary_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Anticipated">710</enrollment>
+  <condition>Hand Hygiene</condition>
+  <arm_group>
+    <arm_group_label>Habit - Motivation group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>First: 2 weeks habit intervention; Second: 2 weeks motivation intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Habit - Social group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>First: 2 weeks habit intervention; Second: 2 weeks social intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Habit - Habit group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>4 weeks habit intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Motivation - Habit group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>First: 2 weeks motivation intervention; Second: 2 weeks habit intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Motivation - Social group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>First: 2 weeks motivation intervention; Second: 2 weeks social intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Motivation - Motivation group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>4 weeks motivation intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Social - Habit group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>First: 2 weeks social intervention; Second: 2 weeks habit intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Social - Motivation group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>First: 2 weeks social intervention; Second: 2 weeks motivation intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Social - Social group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>4 weeks social intervention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Motivation</intervention_name>
+    <description>The key constructs targeted by the motivational module are attitudes towards the target behavior, risk perception, outcome expectancies and self-efficacy. The intervention includes the following techniques: information about health consequences, salience of consequences, goal setting (behavior), problem solving, verbal persuasion about capabilities, focus on past success (Michie et al., 2013)</description>
+    <arm_group_label>Habit - Motivation group</arm_group_label>
+    <arm_group_label>Motivation - Habit group</arm_group_label>
+    <arm_group_label>Motivation - Motivation group</arm_group_label>
+    <arm_group_label>Motivation - Social group</arm_group_label>
+    <arm_group_label>Social - Motivation group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Habit</intervention_name>
+    <description>The goal of the habit module is to guide participants to perform correct hand hygiene at self-selected key times repeatedly. The aim is that the behavior will be translated into a habit. The intervention includes the following techniques: Information about antecedents, self-monitoring of behavior, action planning, prompts/cues, habit formation, behavioral practice/ rehearsal, prompts/cues (physical cue) (Michie et al., 2013).</description>
+    <arm_group_label>Habit - Habit group</arm_group_label>
+    <arm_group_label>Habit - Motivation group</arm_group_label>
+    <arm_group_label>Habit - Social group</arm_group_label>
+    <arm_group_label>Motivation - Habit group</arm_group_label>
+    <arm_group_label>Social - Habit group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Social</intervention_name>
+    <description>The key constructs targeted by the social module are perceived norms including descriptive norms and injunctive norm. The intervention includes the following techniques: Monitoring of behavior by others, social incentive, social comparison, social reward, restructuring the physical environment, information about others approval, credible source, information about health consequences, feedback on behavior (Michie et al., 2013).</description>
+    <arm_group_label>Habit - Social group</arm_group_label>
+    <arm_group_label>Motivation - Social group</arm_group_label>
+    <arm_group_label>Social - Habit group</arm_group_label>
+    <arm_group_label>Social - Motivation group</arm_group_label>
+    <arm_group_label>Social - Social group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Be at least 18 years old&#xD;
+&#xD;
+          -  Have signed an electronically written informed consent (online) form to participate in&#xD;
+             the study&#xD;
+&#xD;
+          -  Own a smartphone with mobile access to the internet&#xD;
+&#xD;
+          -  Be proficient in the German language to the degree that they understand the contents&#xD;
+             and instructions of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Melanie Dr. Amrein</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Bern</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Melanie Dr. Amrein</last_name>
+    <phone>+41316313641</phone>
+    <email>melanie.amrein@psy.unibe.ch</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Bern</name>
+      <address>
+        <city>Bern</city>
+        <zip>3012</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melanie Amrein</last_name>
+      <email>melanie.amrein@psy.unibe.ch</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <reference>
+    <citation>Michie S, Richardson M, Johnston M, Abraham C, Francis J, Hardeman W, Eccles MP, Cane J, Wood CE. The behavior change technique taxonomy (v1) of 93 hierarchically clustered techniques: building an international consensus for the reporting of behavior change interventions. Ann Behav Med. 2013 Aug;46(1):81-95. doi: 10.1007/s12160-013-9486-6.</citation>
+    <PMID>23512568</PMID>
+  </reference>
+  <reference>
+    <citation>Collins LM, Murphy SA, Strecher V. The multiphase optimization strategy (MOST) and the sequential multiple assignment randomized trial (SMART): new methods for more potent eHealth interventions. Am J Prev Med. 2007 May;32(5 Suppl):S112-8.</citation>
+    <PMID>17466815</PMID>
+  </reference>
+  <reference>
+    <citation>Reyes Fernández B, Knoll N, Hamilton K, Schwarzer R. Social-cognitive antecedents of hand washing: Action control bridges the planning-behaviour gap. Psychol Health. 2016 Aug;31(8):993-1004. doi: 10.1080/08870446.2016.1174236. Epub 2016 Apr 26.</citation>
+    <PMID>27049339</PMID>
+  </reference>
+  <reference>
+    <citation>Allan JL, Sniehotta FF, Johnston M. The best laid plans: planning skill determines the effectiveness of action plans and implementation intentions. Ann Behav Med. 2013 Aug;46(1):114-20. doi: 10.1007/s12160-013-9483-9.</citation>
+    <PMID>23456214</PMID>
+  </reference>
+  <reference>
+    <citation>Bierbauer W, Inauen J, Schaefer S, Kleemeyer MM, Lüscher J, König C, Tobias R, Kliegel M, Ihle A, Zimmerli L, Holzer BM, Siebenhuener K, Battegay E, Schmied C, Scholz U. Health Behavior Change in Older Adults: Testing the Health Action Process Approach at the Inter- and Intraindividual Level. Appl Psychol Health Well Being. 2017 Nov;9(3):324-348. doi: 10.1111/aphw.12094. Epub 2017 Oct 12.</citation>
+    <PMID>29024515</PMID>
+  </reference>
+  <reference>
+    <citation>Orbell S, Verplanken B. The automatic component of habit in health behavior: habit as cue-contingent automaticity. Health Psychol. 2010 Jul;29(4):374-83. doi: 10.1037/a0019596.</citation>
+    <PMID>20658824</PMID>
+  </reference>
+  <reference>
+    <citation>Ajzen I. The theory of planned behaviour: reactions and reflections. Psychol Health. 2011 Sep;26(9):1113-27. doi: 10.1080/08870446.2011.613995.</citation>
+    <PMID>21929476</PMID>
+  </reference>
+  <reference>
+    <citation>Sniehotta FF, Scholz U, Schwarzer R. Action plans and coping plans for physical exercise: A longitudinal intervention study in cardiac rehabilitation. Br J Health Psychol. 2006 Feb;11(Pt 1):23-37.</citation>
+    <PMID>16480553</PMID>
+  </reference>
+  <reference>
+    <citation>Perski O, Blandford A, Garnett C, Crane D, West R, Michie S. A self-report measure of engagement with digital behavior change interventions (DBCIs): development and psychometric evaluation of the &quot;DBCI Engagement Scale&quot;. Transl Behav Med. 2020 Feb 3;10(1):267-277. doi: 10.1093/tbm/ibz039.</citation>
+    <PMID>30927357</PMID>
+  </reference>
+  <reference>
+    <citation>Schmidt J, Lamprecht F, Wittmann WW. [Satisfaction with inpatient management. Development of a questionnaire and initial validity studies]. Psychother Psychosom Med Psychol. 1989 Jul;39(7):248-55. German.</citation>
+    <PMID>2762479</PMID>
+  </reference>
+  <reference>
+    <citation>Schwarzer R, Schuz B, Ziegelmann JP, Lippke S, Luszczynska A, Scholz U. Adoption and maintenance of four health behaviors: theory-guided longitudinal studies on dental flossing, seat belt use, dietary behavior, and physical activity. Ann Behav Med. 2007 Apr;33(2):156-66.</citation>
+    <PMID>17447868</PMID>
+  </reference>
+  <reference>
+    <citation>Braun, V., &amp; Clarke, V. (2006). Using thematic analysis in psychology. Qualitative research in psychology, 3(2), 77-101.</citation>
+  </reference>
+  <reference>
+    <citation>Faul F, Erdfelder E, Lang AG, Buchner A. G*Power 3: a flexible statistical power analysis program for the social, behavioral, and biomedical sciences. Behav Res Methods. 2007 May;39(2):175-91.</citation>
+    <PMID>17695343</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2021</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Behavioral intervention</keyword>
+  <keyword>Hand hygiene behavior</keyword>
+  <keyword>MOST</keyword>
+  <keyword>Health behavior change</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

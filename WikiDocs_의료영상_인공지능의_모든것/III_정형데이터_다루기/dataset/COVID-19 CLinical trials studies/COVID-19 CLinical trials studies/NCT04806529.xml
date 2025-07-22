@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1488">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04806529</url>
+  </required_header>
+  <id_info>
+    <org_study_id>V451_07</org_study_id>
+    <nct_id>NCT04806529</nct_id>
+  </id_info>
+  <brief_title>An Efficacy, Immunogenicity and Safety Study Investigating an Adjuvanted SARS-CoV-2 Influenza Vaccine to Protect Against COVID-19 in Adults Over Aged 18 Years-old and Older</brief_title>
+  <official_title>A Phase 2/3 Randomised, Observer-blind, Placebo-controlled, Multi-centre Study to Evaluate the Efficacy, Immunogenicity and Safety of the Adjuvanted SARS-CoV-2 Subunit Vaccine in Adults Aged 18 Years and Above</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Seqirus</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Seqirus</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary efficacy objective is to demonstrate the efficacy of aCoV2 versus a placebo to&#xD;
+      prevent the first occurrence of virologically-confirmed symptomatic COVID 19 according to the&#xD;
+      European Centre for Disease Prevention and Control (ECDC) COVID 19 case definition. The&#xD;
+      co-primary efficacy objective is to demonstrate the efficacy of aCoV2 versus a placebo to&#xD;
+      prevent virologically confirmed symptomatic COVID 19 defined by the US Food and Drug&#xD;
+      Administration (FDA) guidance.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Withdrawn</overall_status>
+  <why_stopped>
+    Seqirus discontinued V451_07 Phase 2 start-up activities prior to enrolling subjects. Data from&#xD;
+    Phase 1 did not support further development. Further details are here:&#xD;
+    www.seqirus.com/news/update-on-the-university-of-queensland-covid-19-vaccine&#xD;
+  </why_stopped>
+  <start_date type="Anticipated">December 15, 2020</start_date>
+  <completion_date type="Anticipated">April 9, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 15, 2020</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Observer-blind design, 2-arm, parallel group with 1:1 randomization between aCoV2 and placebo, equally stratified by age in two age subgroups, 18-55 years and 56 years and older</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Participant and observer-blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary endpoint - preventing first occurrence of virologically-confirmed (RT-PCR) symptomatic COVID-19 cases as defined by ECDC guidance</measure>
+    <time_frame>14 days post vaccination through until 12 months after the last vaccination.</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Co-primary endpoint - If successful, the co-primary measure of efficacy is preventing first-occurrence of symptomatic COVID-19 as defined by the US FDA guidance</measure>
+    <time_frame>14 days post vaccination through until 12 months after the last vaccination.</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Secondary endpoint #1 - preventing first occurrence of RT-PCR confirmed severe COVID-19</measure>
+    <time_frame>14 days post vaccination through until 12 months after the last vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Secondary endpoint #2 - number of subjects hospitalized with RT-PCR-confirmed COVID-19 versus placebo</measure>
+    <time_frame>14 days post vaccination through until 12 months after the last vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Secondary endpoint #3- number of subjects admitted to ICU with RT-PCR-confirmed COVID-19 versus placebo</measure>
+    <time_frame>14 days post vaccination through until 12 months after the last vaccination</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">0</enrollment>
+  <condition>Influenza</condition>
+  <arm_group>
+    <arm_group_label>Adjuvanted SARS-CoV-2 Subunit vaccine (aCoV2)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The experimental group will receive a 2-dose series of 0.5 mL of the study vaccine, administered intramuscularly (IM) into the deltoid muscle, preferably in the non-dominant arm, Day 1 and Day 29 (e.g. 28 days apart)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>The Comparator Group - Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The comparator group will receive a 2-dose series of 0.5 mL of the study vaccine, administered intramuscularly (IM) into the deltoid muscle, preferably in the non-dominant arm, Day 1 and Day 29 (e.g. 28 days apart)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Adjuvanted SARS-CoV-2 Subunit vaccine (aCoV2)</intervention_name>
+    <description>Biological/Vaccine: Investigational adjuvanted SARS-CoV-2 Subunit vaccine</description>
+    <arm_group_label>Adjuvanted SARS-CoV-2 Subunit vaccine (aCoV2)</arm_group_label>
+    <other_name>Tthe aCoV2 group</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Comparator</intervention_name>
+    <description>Biological/Vaccine: A dose of 0.5 mL saline for injection will be administrated to subjects randomized to receive the placebo</description>
+    <arm_group_label>The Comparator Group - Placebo</arm_group_label>
+    <other_name>The Placebo Group</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA:&#xD;
+&#xD;
+          1. Individuals 18 years of age or older on the day of informed consent.&#xD;
+&#xD;
+          2. Individuals who have voluntarily given written informed consent after the nature of&#xD;
+             the study has been explained according to local regulatory requirements, prior to&#xD;
+             study entry.&#xD;
+&#xD;
+          3. Individuals who can comply with study procedures including follow-up .&#xD;
+&#xD;
+          4. Females of non-childbearing potential or females of childbearing potential who are&#xD;
+             using an effective birth control method which they intend to use for at least 30 days&#xD;
+             after the last study vaccination.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+          1. Females of childbearing potential3 who are pregnant, lactating, or who have not&#xD;
+             adhered to a specified set of contraceptive methods from at least 30 days prior to&#xD;
+             informed consent and who do not plan to do so until 2 months after the last&#xD;
+             vaccination.&#xD;
+&#xD;
+          2. Progressive, unstable or uncontrolled clinical conditions such as decompensated&#xD;
+             congestive heart failure, cardiac arrhythmia, unstable angina, acute coronary syndrome&#xD;
+             or any major organ failure&#xD;
+&#xD;
+          3. Hypersensitivity, including allergy, to any component of vaccine (including the&#xD;
+             adjuvant, MF59C.1), medicinal products or medical equipment whose use is foreseen in&#xD;
+             this study.&#xD;
+&#xD;
+          4. Clinical conditions representing a contraindication to intramuscular vaccination and&#xD;
+             blood draws.&#xD;
+&#xD;
+          5. History of Guillain-Barré Syndrome or acute disseminated encephalomyelitis (ADEM)&#xD;
+&#xD;
+          6. Abnormal function of the immune system resulting from:&#xD;
+&#xD;
+               1. Clinical conditions.&#xD;
+&#xD;
+               2. Systemic administration of corticosteroids (PO/IV/IM) at any dose for more than&#xD;
+                  14 consecutive days within 90 days prior to informed consent. Topical, inhaled&#xD;
+                  and intranasal corticosteroids are permitted. Intermittent use (one dose in 30&#xD;
+                  days) of intra-articular corticosteroids are also permitted.&#xD;
+&#xD;
+               3. Administration of antineoplastic and immunomodulating agents or radiotherapy&#xD;
+                  within 90 days prior to informed consent.&#xD;
+&#xD;
+          7. Received immunoglobulins or any blood products within 90 days prior to informed&#xD;
+             consent&#xD;
+&#xD;
+          8. Received an investigational or non-registered medicinal product within 30 days prior&#xD;
+             to informed consent or an investigational coronavirus vaccine (SARS-CoV; MERS-CoV) at&#xD;
+             any time prior to informed consent&#xD;
+&#xD;
+          9. Individuals who received any other vaccines within 14 days (for inactivated vaccines)&#xD;
+             or 28 days (for live vaccines) prior to enrolment in this study or who are planning to&#xD;
+             receive any vaccine within 28 days from the study vaccines.&#xD;
+&#xD;
+         10. Acute (severe) febrile illness (see Section 4.3)&#xD;
+&#xD;
+         11. Known positive serology for human immunodeficiency virus (HIV) type 1 or 2 antibodies,&#xD;
+             hepatitis B virus surface antigen, or hepatitis C virus antibody&#xD;
+&#xD;
+         12. Acute COVID-19 infection (positive COVID-19 test: nasopharyngeal swab) at screening,&#xD;
+             or Day 1&#xD;
+&#xD;
+         13. Study personnel or immediate family or household member of study personnel&#xD;
+&#xD;
+         14. Any other clinical condition that, in the opinion of the investigator, might interfere&#xD;
+             with the results of the study or pose additional risk to the subject due to&#xD;
+             participation in the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 19, 2021</study_first_posted>
+  <last_update_submitted>March 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Influenza, Human</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>SEQIRUS supports the release of anonymized subject-level and study-level data in compliance with regulatory requirements, including Clinical Documents which are part of the CTD modules submitted to regulatory agencies for public release.&#xD;
+Summary results disclosure is either in document form (e.g., ICH E3 Clinical Study Report synopsis) or structured data form (such as summary results in ClinicalTrials.gov (United States) or eudract.ema.europa.eu (EU Clinical Trial Registry [EU CTR])&#xD;
+Supporting Information:&#xD;
+Study Protocol&#xD;
+Statistical Analysis Plan (SAP)</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>SEQIRUS discloses results from clinical studies within 12 months of last patient last visit (LPLV) unless otherwise mandated by local laws or regulations.</ipd_time_frame>
+    <ipd_access_criteria>Access: SEQIRUS considers requests from qualified scientific and medical researchers to disclose protocols, anonymized subject-level data and study-level data when there is medical, scientific and/or public health interest to ensure the safe use of a Seqirus product licensed on or after 1 January 2014 in the US and/or EU. This applies to Seqirus-sponsored interventional studies initiated after 27 September 2007 and ongoing as of 26 December 2007, that have been included as part of a US or EU submission package which received approval in US and EU on or after 1 January 2014 and have been accepted for publication</ipd_access_criteria>
+    <ipd_url>https://www.seqirus.us/partnering</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

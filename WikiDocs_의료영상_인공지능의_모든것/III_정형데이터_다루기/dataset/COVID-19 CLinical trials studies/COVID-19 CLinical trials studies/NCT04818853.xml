@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1875">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04818853</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-300006311</org_study_id>
+    <nct_id>NCT04818853</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Associated Pulmonary Aspergillosis (CAPA) and Other Invasive Fungal Infections (IFI)</brief_title>
+  <acronym>CAPA IFI</acronym>
+  <official_title>COVID-19 Associated Pulmonary Aspergillosis (CAPA) and Other Invasive Fungal Infections (IFI)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centers for Disease Control and Prevention</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Astellas Pharma Inc</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to identify the number of individuals with severe CoVID who&#xD;
+      require ventilator support and who develop serious fungal infections. The study is an&#xD;
+      observational study, meaning that we are not providing any intervention that does not involve&#xD;
+      usual standard of care. Our chief goal is to find evidence of fungal infection by using&#xD;
+      traditional, approved methods of diagnosis, but by applying these methods in the same way and&#xD;
+      frequency among all study participants. We will be looking especially for evidence of a&#xD;
+      fungal infection known as Aspergillus, which can causes a serious lung infection called&#xD;
+      invasive aspergillosis (IA).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 is a disease caused by infection with the novel coronavirus SARS-COV2 which emerged&#xD;
+      in late 2019 in Wuhan, China (1). This illness is associated with viral prodromal symptoms,&#xD;
+      then subsequently fever, cough, and shortness of breath (1). In a subset of patients, lower&#xD;
+      respiratory tract infection associated with respiratory failure develops. Among these&#xD;
+      patients, progression to severe respiratory failure and ARDS requiring ventilator support has&#xD;
+      occurred in an alarming number of patients at rates that are many-fold higher than what is&#xD;
+      typically associated with seasonal influenza A or B (2). One of the most feared complications&#xD;
+      of post-influenza respiratory failure is the development of invasive pulmonary aspergillosis&#xD;
+      which may occur in as many as 15-20% of those requiring ventilator support (based on European&#xD;
+      data) (3-6). Among those developing IA following influenza A or B, mortality of 50% or&#xD;
+      greater is reported (3-6).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 9, 2021</start_date>
+  <completion_date type="Anticipated">March 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Participants requiring mechanical ventilation</measure>
+    <time_frame>72 hours or greater</time_frame>
+    <description>Number of patients placed on a ventilator</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participants with all cause mortality</measure>
+    <time_frame>In 30 days</time_frame>
+    <description>Participants with all cause mortality in SARS-CoV-2</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participants with all cause mortality</measure>
+    <time_frame>In 60 days</time_frame>
+    <description>Participants with all cause mortality in SARS-CoV-2</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Participants at risk for developing CAPA or IFIs</measure>
+    <time_frame>180 days</time_frame>
+    <description>Risk factors associated with patients who are at risk for CAPA or IFIs</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19</condition>
+  <condition>Aspergillosis</condition>
+  <condition>Fungal Infection</condition>
+  <arm_group>
+    <arm_group_label>COVID Patients with Aspergillosis and Other fungal Infections</arm_group_label>
+    <description>All patients have been diagnosed with COVID-19. The purpose of this study is to look at this group of patients in the potential to develop Aspergillosis and other fungal infections.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Observation to monitor patients for these infections</intervention_name>
+    <description>We will be receiving discarded specimens weekly. From these we are going to identify these various potential infections.</description>
+    <arm_group_label>COVID Patients with Aspergillosis and Other fungal Infections</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Discarded clinical samples from routine testing will be collected and tested for diagnostic&#xD;
+      purposes on a weekly basis. These will include serum, deep suction specimens, and BAL when&#xD;
+      available. These samples will be tested for Aspergillus GM, Aspergillus PCR, and Pneumocystis&#xD;
+      PCR. Specimens will be stored at the CDC biorepository for future diagnostic use.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult Intensive Care Unit Patients with SARS-CoV2 requiring greater than 72 hours of&#xD;
+        mechanical ventilation.&#xD;
+&#xD;
+        Participating sites include: University of Alabama at Birmingham, University of Pittsburgh,&#xD;
+        Washington University in St. Louis, University of California at Davis, University of Texas&#xD;
+        at Houston, University of Maryland, and University of Texas Health Sciences Center at San&#xD;
+        Antonio, Cornell University and Columbia/Presbyterian Medical Center&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults aged 18 years or older at the time of enrollment&#xD;
+&#xD;
+          -  SARS-COV2 positivity by PCR with respiratory failure requiring mechanical ventilation&#xD;
+             for at least 72 hours&#xD;
+&#xD;
+          -  Prior therapy with antifungals, including prophylaxis, is NOT an exclusion.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Life expectancy of less than 72 hours as determined by the site investigator.&#xD;
+&#xD;
+          -  Expected to be weaned from mechanical ventilation in next 24 hours&#xD;
+&#xD;
+          -  Care received in any setting other than an intensive care unit (ICU) at the time of&#xD;
+             enrollment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter Pappas, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rachel McMullen, BS</last_name>
+    <phone>2059347292</phone>
+    <email>rlmcmullen@uabmc.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rachel McMullen, BS</last_name>
+      <phone>205-934-7292</phone>
+      <email>rlmcmullen@uabmc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Peter Pappas, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 26, 2021</study_first_posted>
+  <last_update_submitted>April 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Alabama at Birmingham</investigator_affiliation>
+    <investigator_full_name>Peter Pappas</investigator_full_name>
+    <investigator_title>Principle Investigator</investigator_title>
+  </responsible_party>
+  <keyword>COVID19</keyword>
+  <keyword>Aspergillosis</keyword>
+  <keyword>Fungal</keyword>
+  <keyword>CAPA</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Mycoses</mesh_term>
+    <mesh_term>Aspergillosis</mesh_term>
+    <mesh_term>Invasive Fungal Infections</mesh_term>
+    <mesh_term>Pulmonary Aspergillosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>To Be Determined</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

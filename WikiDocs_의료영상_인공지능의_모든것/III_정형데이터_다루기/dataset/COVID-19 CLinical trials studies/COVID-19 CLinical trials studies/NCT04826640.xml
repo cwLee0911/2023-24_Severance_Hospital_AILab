@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="767">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04826640</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00107518</org_study_id>
+    <nct_id>NCT04826640</nct_id>
+  </id_info>
+  <brief_title>Observational Maternal COVID-19 Vaccination Study</brief_title>
+  <official_title>A Prospective Observational Study to Evaluate the Safety of COVID-19 Vaccination in Pregnant Women</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centers for Disease Control and Prevention</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Children's Hospital Medical Center, Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Boston Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective, observational study. During the study, pregnant women will be followed&#xD;
+      post COVID-19 vaccination.&#xD;
+&#xD;
+      Injection-site (local) and systemic reaction data will be assessed on vaccination day and&#xD;
+      during the 8 days following the second vaccination using either identical web-based or paper&#xD;
+      diaries, depending on study participant preference.&#xD;
+&#xD;
+      Maternal serum samples will be collected for antibody titers relevant to COVID-19 at time&#xD;
+      points that include: prior to vaccination, ~29 days post second vaccination, and at delivery.&#xD;
+      At Duke University, maternal and infant cord blood will be collected at delivery and analyzed&#xD;
+      for the same antibody titers. At other clinical sites, these delivery samples will only be&#xD;
+      collected if feasible.&#xD;
+&#xD;
+      Pregnant women will be followed through 90 days postpartum. with comprehensive obstetric and&#xD;
+      neonatal outcomes obtained from medical record review.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2021</start_date>
+  <completion_date type="Anticipated">May 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adverse birth outcomes in pregnant women vaccinated with COVID-19 vaccine</measure>
+    <time_frame>12 months</time_frame>
+    <description>As measured by the proportion of women experiencing one of the following:&#xD;
+Adverse birth outcome is a composite of occurrence of at least one of the following: preterm birth, spontaneous abortion, fetal death, or neonatal death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Preterm birth after COVID-19 vaccination</measure>
+    <time_frame>12 months</time_frame>
+    <description>As measured by proportions of preterm birth after COVID-19 vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Combined fetal and neonatal death after COVID-19 vaccination</measure>
+    <time_frame>12 months</time_frame>
+    <description>As measured by proportions of combined fetal and neonatal death after COVID-19 vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Spontaneous abortion after COVID-19 vaccination</measure>
+    <time_frame>12 months</time_frame>
+    <description>As measured by proportions of spontaneous abortion after COVID-19 vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pregnant women with moderate/severe solicited reactogenicity events (local and systemic) within 7 days after COVID-19 vaccination</measure>
+    <time_frame>7 days</time_frame>
+    <description>As measured by proportions of pregnant women with moderate/severe solicited reactogenicity events (local and systemic) within 7 days after COVID-19 vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Women with ≥ 1 severe local and/or systemic reactogenicity event after COVID-19 vaccination</measure>
+    <time_frame>3 months</time_frame>
+    <description>As measured by proportion of women with ≥ 1 severe local and/or systemic reactogenicity event after COVID-19 vaccination</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">350</enrollment>
+  <condition>Pregnancy</condition>
+  <arm_group>
+    <arm_group_label>Pregnant women who receive COVID-19 vaccine</arm_group_label>
+    <description>Pregnant women who receive COVID-19 vaccine</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Observational</intervention_name>
+    <description>Observational</description>
+    <arm_group_label>Pregnant women who receive COVID-19 vaccine</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      serum&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        350 adult pregnant women aged 18-45 years at &lt; 34 weeks gestation who plan on receiving&#xD;
+        COVID-19 vaccination during the current pregnancy in accordance with the Advisory Committee&#xD;
+        on Immunization Practices (ACIP) and American College of Obstetricians &amp; Gynecologists&#xD;
+        (ACOG) national recommendations.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Pregnant women 18-45 years of age at the time of consent, inclusive&#xD;
+&#xD;
+          2. Intention of receiving or within 3 days of receiving the first dose or only dose of&#xD;
+             COVID-19 vaccine based on Advisory Committee on Immunization Practices (ACIP) and&#xD;
+             American College of Obstetricians and Gynecologists (ACOG) guidelines in response to&#xD;
+             the FDA Emergency Use Authorization (EUA) and in conjunction with federal and local&#xD;
+             vaccination campaign distribution plans&#xD;
+&#xD;
+          3. Willing to provide informed consent in a written or electronic format&#xD;
+&#xD;
+          4. Gestational age at time of consent &lt; 34 weeks 0 days based on reconciliation of last&#xD;
+             menstrual period and ultrasound dating. Estimated due date (EDD) and Gestational Age&#xD;
+             (GA-EDD) will be based on reconciliation of &quot;sure&quot; first day of the last menstrual&#xD;
+             period (LMP) and earliest dating ultrasound. If the LMP is uncertain, then the&#xD;
+             earliest dating ultrasound will be used to determine EDD and GA. If the ultrasound&#xD;
+             derived-EDD is in agreement with sure-LMP derived EDD, then the LMP-derived EDD is&#xD;
+             used to determine GA. If the ultrasound derived EDD is not in agreement with the&#xD;
+             LMP-derived EDD, the ultrasound-derived EDD is used to determine GA.&#xD;
+&#xD;
+          5. Intention of being available for entire study period and complete all relevant study&#xD;
+             procedures, including follow-up phone calls and collection of delivery information.&#xD;
+&#xD;
+          6. English or Spanish literate&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Has immunosuppression as a result of an underlying illness. Stable hepatitis B,&#xD;
+             hepatitis C, or HIV are permitted per the following parameters&#xD;
+&#xD;
+               1. If known hepatitis C (HCV): evidence of sustained virological response for &gt; or +&#xD;
+                  12 weeks after treatment or without evidence of HCV RNA viremia (undetectable HCV&#xD;
+                  RNA)&#xD;
+&#xD;
+               2. If known hepatitis B (HBV): confirmed inactive chronic HBV infection: HBsAg&#xD;
+                  present for &gt; or = 6 months and HBeAg negative, anti-HBe positive; serum HBV DNA&#xD;
+                  &lt;2000 IU/mL; persistently normal alanine transaminase (ALT) and/or aspartate&#xD;
+                  transaminase (AST) levels; in those who had liver biopsy, findings that confirm&#xD;
+                  absence of significant necroinflammation&#xD;
+&#xD;
+               3. If known HIV infection: confirmed stable HIV disease defined as document viral&#xD;
+                  load (VL) &lt;50 copies/mL and CD4 count &gt;200 within 6 months before enrollment, and&#xD;
+                  on stable antiretroviral therapy for at least 6 months)&#xD;
+&#xD;
+          2. Use of oral, parenteral, or high-dose inhaled glucocorticoids&#xD;
+&#xD;
+          3. Has an active neoplastic disease (excluding non-melanoma skin cancer), including those&#xD;
+             who used anti-cancer chemotherapy or radiation therapy during the current pregnancy&#xD;
+&#xD;
+          4. Signs or symptoms of active preterm labor, defined as regular uterine contractions&#xD;
+             with cervical change (dilation/effacement)&#xD;
+&#xD;
+          5. Known fetal congenital anomaly, e.g. genetic abnormality or major congenital&#xD;
+             malformation based on antenatal ultrasound&#xD;
+&#xD;
+          6. Anyone who is already enrolled or plans to enroll in another randomized clinical trial&#xD;
+             with any drug, vaccine or medical device. Co-enrollment in behavioral or other&#xD;
+             observational intervention studies are allowed at any time.&#xD;
+&#xD;
+          7. Any condition which, in the opinion of the investigators, may pose a health risk to&#xD;
+             the subject or interfere with the evaluation of the study objectives.&#xD;
+&#xD;
+          8. Anyone who is a relative of any research study personnel or is an employee supervised&#xD;
+             by study staff.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Geeta K Swamy, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Karen R Broder, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centers for Disease Control and Prevention</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Geeta K Swamy, MD</last_name>
+    <phone>919-681-5220</phone>
+    <email>geeta.swamy@duke.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kristin E Weaver, BS</last_name>
+    <phone>919-681-0308</phone>
+    <email>kristin.weaver@duke.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Centers for Disease Control and Prevention</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30333</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Karen R Broder, MD</last_name>
+      <email>krb2@cdc.gov</email>
+    </contact>
+    <contact_backup>
+      <last_name>Naomi Tepper, MD</last_name>
+      <email>gdq2@cdc.gov</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Karen R Broder, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Naomi Tepper, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Stephen I Pelton, MD</last_name>
+      <email>spelton@bu.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Glenn Markenson, MD</last_name>
+      <email>glenn.markenson@bmc.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Stephen I Pelton, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Glenn Markenson, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Geeta K Swamy, MD</last_name>
+      <phone>919-681-5220</phone>
+      <email>geeta.swamy@duke.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kristin E Weaver, BS</last_name>
+      <phone>919-681-0308</phone>
+      <email>kristin.weaver@duke.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Geeta K Swamy, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sarah K Dotters-Katz, MD, MEd</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Emmanuel Walter, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Elizabeth Schlaudecker, MD</last_name>
+      <phone>513-803-0747</phone>
+      <email>elizabeth.schlaudecker@cchmc.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mary Allen Staat, MD, MPH</last_name>
+      <email>mary.staat@cchmc.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Elizabeth Schlaudecker, MD, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mary Allen Staat, MD, MPH</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19 Vaccination</keyword>
+  <keyword>Immunizations in Pregnancy</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

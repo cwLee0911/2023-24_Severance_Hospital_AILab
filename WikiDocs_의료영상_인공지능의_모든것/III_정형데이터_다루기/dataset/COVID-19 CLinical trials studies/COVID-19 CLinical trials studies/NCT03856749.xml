@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5500">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03856749</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WSP2019-01</org_study_id>
+    <nct_id>NCT03856749</nct_id>
+  </id_info>
+  <brief_title>Effectiveness of Wheelchair Skills Training for Caregivers of Manual Wheelchair Users</brief_title>
+  <official_title>Effectiveness of Wheelchair Skills Training for Caregivers of Manual Wheelchair Users: a Randomized Waitlist-controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lee Kirby</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>IWK Health Centre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Nova Scotia Health Authority</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Although there have been a small number of studies suggesting the important role that&#xD;
+      caregivers play in assisting wheelchair users with mobility, there has never been a&#xD;
+      randomized controlled trial (RCT) looking at the effectiveness or cost-utility of wheelchair&#xD;
+      skills training for caregivers. The overall goal of this study is to correct this knowledge&#xD;
+      gap and, triggered by the COVID-19 pandemic of 2020, to conduct the training remotely. The&#xD;
+      main purpose of this study is to test if providing wheelchair skills training remotely to&#xD;
+      caregivers of manual wheelchair users enhances caregiver-assisted wheelchair skills ability&#xD;
+      and confidence in comparison to a control group of participants who are receiving usual care&#xD;
+      and self-study material on wheelchair skills. The investigators will also study whether the&#xD;
+      benefits of training are still seen at a 6-week follow-up and assess the health-economic&#xD;
+      impact of caregiver training.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 4, 2019</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A single-blind randomized controlled trial. Each participant in the study consists of a caregiver and wheelchair user dyad. 1 dyad = 1 manual wheelchair user + his/her caregiver.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>This is a single-blind study. The outcomes assessor will be blind to group allocation. Because of the nature of the study, it will not be possible to blind participants or trainer.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in Wheelchair Skills Test Questionnaire at 5 weeks</measure>
+    <time_frame>5 weeks</time_frame>
+    <description>Change from baseline in self-reported ability and confidence to perform 33 wheelchair skills. Score ranges from 0-100%, with 0 indicating a poor outcome (not able to do any wheelchair skills and 100% indicating being able to do all the skills).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in Wheelchair Skills Test Questionnaire at 18 weeks</measure>
+    <time_frame>18 weeks</time_frame>
+    <description>Change from baseline in self-reported ability and confidence to perform 33 wheelchair skills. Score ranges from 0-100%, with 0 indicating a poor outcome (not able to do any wheelchair skills and 100% indicating being able to do all the skills).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Satisfaction with wheelchair skills training over course of study</measure>
+    <time_frame>5 weeks, 18 weeks</time_frame>
+    <description>Participants will be asked their perceptions of the content and benefits of the training material.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cost-effectiveness of training</measure>
+    <time_frame>5 weeks</time_frame>
+    <description>Measured using Quality-Adjusted Life Years (QALY), estimated costs and quality of life. QALY scores range from 0(dead) to 1(perfect health).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in quality of life at 5 weeks</measure>
+    <time_frame>5 weeks</time_frame>
+    <description>Change from baseline in quality of life measured using the EQ-5D-5L as validated quality of life self-report outcome measure. Scores range from 1 (no problem) to 5 (extreme problem) in dimensions of mobility, self-care, activities, pain and mental health. General health score from 0 % (worst health imaginable) to 100% (best health imaginable).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in quality of life at 18 weeks</measure>
+    <time_frame>18 weeks</time_frame>
+    <description>Change from baseline in quality of life measured using the EQ-5D-5L as validated quality of life self-report outcome measure. Scores range from 1 (no problem) to 5 (extreme problem) in dimensions of mobility, self-care, activities, pain and mental health. General health score from 0 % (worst health imaginable) to 100% (best health imaginable).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Caregivers</condition>
+  <arm_group>
+    <arm_group_label>Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The wheelchair user and caregiver will be trained together on wheelchair skills using remote technology (Zoom for healthcare and/or Facetime).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The wheelchair user and caregiver will receive the same self-study materials provided to the Treatment arm. Usual care, which may include wheelchair skills training for both wheelchair users and caregivers( but which often does not do so to an adequate extent) by wheelchair user's clinical therapist.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Remote wheelchair skills training</intervention_name>
+    <description>Prior to the first training session, the trainer will be provided with the results from the assessment immediately preceding training to provide him/her time to individualize the training session. Trainer will provide self-study materials (the Caregiver Handbook and caregiver-training video-recording) and an explanation on how these materials should be used.&#xD;
+The wheelchair user and caregiver will be trained together on wheelchair skills, using the principles of the Wheelchair Skills Training Program, as outlined in the Wheelchair Skills Program Manual using remote technology. Each training session will be with a trainer-to-dyad ratio of 1:1 1 dyad = 1 manual wheelchair user + his/her caregiver. Training will continue until the goals have been met and retained (for at least one subsequent session), using up to 4 training sessions that will each last up to 60 minutes at intervals a minimum of 3 days.</description>
+    <arm_group_label>Treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for caregiver and wheelchair user dyad&#xD;
+&#xD;
+          -  be ≥ 18 years of age&#xD;
+&#xD;
+          -  able to communicate in English&#xD;
+&#xD;
+          -  be willing to participate and be committed to setting regularly scheduled times for&#xD;
+             the study activities&#xD;
+&#xD;
+          -  will need to have the appropriate connectivity for the remote training and testing&#xD;
+             (i.e. telephone, limited-access e-mail and internet).&#xD;
+&#xD;
+        Exclusion Criteria for caregiver and wheelchair user dyad :&#xD;
+&#xD;
+          -  fail to complete the baseline (T1) assessment&#xD;
+&#xD;
+          -  have unstable medical conditions (e.g. angina, seizures) that might make the use of a&#xD;
+             manual wheelchair dangerous&#xD;
+&#xD;
+          -  emotional problems (e.g. severe anxiety, depression) that might make participation&#xD;
+             unsafe or unpleasant&#xD;
+&#xD;
+          -  have a medical condition that is likely to deteriorate in the three months following&#xD;
+             enrollment.&#xD;
+&#xD;
+        Inclusion Criteria for wheelchair user&#xD;
+&#xD;
+          -  a person who uses a manual wheelchair&#xD;
+&#xD;
+          -  be expected to continue to use a manual wheelchair at least part-time in the coming&#xD;
+             months&#xD;
+&#xD;
+          -  requires no more than minimal assistance for communication and auditory comprehension&#xD;
+&#xD;
+        Inclusion Criteria for caregiver of wheelchair user&#xD;
+&#xD;
+        -must be a caregiver (e.g. a family member, friend, volunteer or regular homecare worker)&#xD;
+        who spends an average total of at least 2 hours per week with the manual wheelchair user&#xD;
+        that includes manual wheelchair mobility.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Lee Kirby, MD</last_name>
+    <phone>1-902-473-1268</phone>
+    <email>lee.kirby@nshealth.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Nova Scotia Rehabilitation Centre</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3H 4K4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kristin Russell</last_name>
+      <phone>902-473-7362</phone>
+      <email>Kristin.russell@nshealth.ca</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 22, 2019</study_first_submitted>
+  <study_first_submitted_qc>February 26, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 27, 2019</study_first_posted>
+  <last_update_submitted>March 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Nova Scotia Health Authority</investigator_affiliation>
+    <investigator_full_name>Lee Kirby</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

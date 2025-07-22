@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5722">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04753307</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INSIGHT</org_study_id>
+    <nct_id>NCT04753307</nct_id>
+  </id_info>
+  <brief_title>Perioperative Inflammatory Response Assessment in High-risk Patients Undergoing Noncardiac Surgery</brief_title>
+  <acronym>INSIGHT</acronym>
+  <official_title>Perioperative Inflammatory Response Assessment in High-risk Patients Undergoing Noncardiac Surgery - a Prospective Non-interventional Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of Vienna</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Medical University of Graz</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medical University of Vienna</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Postoperative cardiovascular complications are common after noncardiac surgery. The&#xD;
+      association between perioperative inflammation and the occurrence of cardiovascular&#xD;
+      complications after surgery is still unknown. Therefore, we will evaluate as our primary aim&#xD;
+      the association between patients with increased postoperative inflammation, assessed with&#xD;
+      C-reactive protein measurements, and the occurrence of major cardiovascular complications&#xD;
+      after noncardiac surgery. We will further evaluate the influence of perioperative&#xD;
+      inflammation on the occurrence of postoperative acute kidney injury. We will also evaluate&#xD;
+      the association between inflammation and the influence on Days-At-Home within 30 days.&#xD;
+      Furthermore, we will evaluate the association between increased inflammatory biomarkers and&#xD;
+      postoperative N-terminal pro brain natriuretic peptide (NT-proBNP) concentration.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 19, 2021</start_date>
+  <completion_date type="Anticipated">January 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Composite of cardiovascular complications</measure>
+    <time_frame>within 30 days after surgery and one year after surgery</time_frame>
+    <description>The primary aim of the study is to investigate the influence of the maximum C-reactive protein value (over the first 3 days after surgery) on the incidence of major cardiovascular complications within 30 days after surgery. The composite binary endpoint is defined as myocardial infarction, myocardial injury after noncardiac surgery, new onset of atrial fibrillation, stroke or death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive protein</measure>
+    <time_frame>within 30 days after surgery</time_frame>
+    <description>Secondary goals of the study are to investigate the influence of the C-reactive protein on day 5 on the incidence of cardiovascular complications within 30 days after surgery (combined binary endpoint).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute Kidney Injury - C-reactive proteint</measure>
+    <time_frame>within 5 days after surgery</time_frame>
+    <description>We will evaluate the influence C-reactive protein on the occurrence of postoperative acute kidney injury.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute Kidney Injury - Interleukin 6</measure>
+    <time_frame>within 5 days after surgery</time_frame>
+    <description>We will evaluate the influence of Interleukin 6 on the occurrence of postoperative acute kidney injury.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute Kidney Injury - Procalcitonin</measure>
+    <time_frame>within 5 days after surgery</time_frame>
+    <description>We will evaluate the influence of Procalcitonin on the occurrence of postoperative acute kidney injury.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute Kidney Injury - Copeptin</measure>
+    <time_frame>within 5 days after surgery</time_frame>
+    <description>We will evaluate the influence of Copeptin on the occurrence of postoperative acute kidney injury.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days at home within 30 days (DAH 30)</measure>
+    <time_frame>within 30 days after surgery</time_frame>
+    <description>We will evaluate the correlation between perioperative inflammation (C-reactive protein, Interleukin 6, Procalcitonin, Copeptin) and the number of days patient spend at home after surgery within 30 days (DAH30). Outcomes measure: Hospital discharge data will be used to calculate hospital length of stay. DAH30 will be calculated using mortality and hospitalization data from the date of the index surgery (day 0).&#xD;
+For example, if a patient will die on day 2 after surgery, they were assigned 0 DAH30. If a patient will be discharged from hospital at day 6 after surgery but will be readmitted for 4 days before the second hospital discharge, we will assign 20 DAH30. If a patient will die within 30 days after surgery, irrespective of whether they will spend time at home, DAH30 will be scored as 0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NT-proBNP</measure>
+    <time_frame>within 5 days after surgery</time_frame>
+    <description>We will evaluate the correlation of each of the following inflammatory parameters including C-reactive protein, Interleukin 6, Procalcitonin, Copeptin on postoperative NT-proBNP concentration. NT-proBNP will be measured before surgery, and on the first, second and third postoperative day.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin 6</measure>
+    <time_frame>within 30 days after surgery</time_frame>
+    <description>We investigate the influence of the Interleukin 6 ,measured within the first five days after surgery, on the incidence of cardiovascular complications within 30 days after surgery (combined binary endpoint).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Copeptin</measure>
+    <time_frame>within 30 days after surgery</time_frame>
+    <description>We investigate the influence of the copeptin ,measured within the first five days after surgery, on the incidence of cardiovascular complications within 30 days after surgery (combined binary endpoint).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Procalcitonin</measure>
+    <time_frame>within 30 days after surgery</time_frame>
+    <description>We investigate the influence of the procalcitonin ,measured within the first five days after surgery, on the incidence of cardiovascular complications within 30 days after surgery (combined binary endpoint).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Atrial fibrillation (AF) evaluation</measure>
+    <time_frame>within 5 days after surgery</time_frame>
+    <description>To evaluate the incidence of asymptomatic atrial fibrillation (AF) and symptomatic AF. Asymptomatic AF will be defined as irregular pulse without any clinical symptoms. Symptomatic AF will be defined as irregular pulse with one of the symptoms including racing heart, fluttering or palpitations; fatigue, shortness of breath; and lightheadedness.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SARS-Cov-2 - Inflammation</measure>
+    <time_frame>within first 5 days after surgery</time_frame>
+    <description>We will evaluate the effect of having a perioperative or previous infection with Severe Acute Respiratory Syndrome Corona Virus 2 (SARS-CoV-2) on postoperative inflammatory parameters including C-reactive protein, Copeptin, Interleukin 6 and Procalcitonin.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SARS-Cov-2 - Cardiovascular Complications</measure>
+    <time_frame>One year after surgery</time_frame>
+    <description>We will evaluate the effect of having a perioperative or previous infection with SARS-CoV-2 on the incidence of our composite outcome including myocardial myocardial infarction, myocardial njury after noncardiac surgery, new onset of atrial fibrillation, stroke or death.&#xD;
+We will evaluate the outcome one year after surgery via a telephone interview.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SARS-Cov-2 One Year Follow-Up</measure>
+    <time_frame>One year after surgery</time_frame>
+    <description>We will evaluate the effect of a perioprative or previous SARS-Cov-2 infection on the neurocognitive function one year after surgery. Therefore, we will perform the telphone Montreal Cognitive Assessment (MoCA) before surgery and one year after surgery.</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1400</enrollment>
+  <condition>Postoperative Complications</condition>
+  <condition>Cardiovascular Complication</condition>
+  <condition>Myocardial Ischemia</condition>
+  <condition>Inflammation</condition>
+  <arm_group>
+    <arm_group_label>Patients at least 45 years at-risk for cardiovascular complications</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Laboratory measurements</intervention_name>
+    <description>Inflammatory and cardiac biomarkers will be measured before surgery, and on the first, second, third and fifth postoperative day</description>
+    <arm_group_label>Patients at least 45 years at-risk for cardiovascular complications</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients at least 45 years and at-risk to develop postoperative cardiovascular&#xD;
+        complications undergoing noncardiac surgery.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        All patients need to meet all of the following criteria for inclusion (1-4):&#xD;
+&#xD;
+          1. Surgery planned for more than two hours&#xD;
+&#xD;
+          2. ≥ 45 years of age&#xD;
+&#xD;
+          3. Provide written informed consent AND&#xD;
+&#xD;
+          4. Fulfill ≥ 1 of the following criteria (A-K)&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  NT-proBNP ≥ 200 ng/L&#xD;
+&#xD;
+          -  Troponin T &gt; 25 ng/L&#xD;
+&#xD;
+          -  History of coronary artery disease&#xD;
+&#xD;
+          -  History of peripheral artery disease (PAD)&#xD;
+&#xD;
+          -  75 years or older&#xD;
+&#xD;
+          -  History of transient ischemic attack (TIA) or stroke&#xD;
+&#xD;
+          -  Current smoking or cessation of smoking within 2 years&#xD;
+&#xD;
+          -  Diabetes or currently taking anti-diabetic drug&#xD;
+&#xD;
+          -  Hyperlipidemia&#xD;
+&#xD;
+          -  History of hypertension or currently taking an antihypertensive drug&#xD;
+&#xD;
+          -  Atrial fibrillation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients on immune-suppressive therapy&#xD;
+&#xD;
+          -  ICU patients undergoing surgery&#xD;
+&#xD;
+          -  Preoperative Sepsis/systemic inflammatory syndrome (SIRS) needing ICU treatment&#xD;
+&#xD;
+          -  Preoperative hemodynamically instable patients, who require vasopressor or inotropic&#xD;
+             support&#xD;
+&#xD;
+          -  History of severe heart failure (defined as left ventricular ejection fraction (LVEF)&#xD;
+             &lt; 30%)&#xD;
+&#xD;
+          -  Liver cirrhosis&#xD;
+&#xD;
+          -  Chronic inflammatory bowel diseases (CIBD)&#xD;
+&#xD;
+          -  Severe rheumatic diseases requiring immunosuppressive treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Christian Reiterer, MD</last_name>
+    <phone>004340400</phone>
+    <phone_ext>20760</phone_ext>
+    <email>christian.reiterer@meduniwien.ac.at</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Barbara Kabon, MD</last_name>
+    <phone>004340400</phone>
+    <phone_ext>41020</phone_ext>
+    <email>barbara.kabon@meduniwien.ac.at</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Medical University of Vienna</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christian Reiterer, MD</last_name>
+      <phone>004340400</phone>
+      <phone_ext>20760</phone_ext>
+      <email>christian.reiterer@meduniwien.ac.at</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+  </location_countries>
+  <reference>
+    <citation>Ridker PM, Lüscher TF. Anti-inflammatory therapies for cardiovascular disease. Eur Heart J. 2014 Jul 14;35(27):1782-91. doi: 10.1093/eurheartj/ehu203. Epub 2014 May 26. Review.</citation>
+    <PMID>24864079</PMID>
+  </reference>
+  <reference>
+    <citation>Kaptoge S, Seshasai SR, Gao P, Freitag DF, Butterworth AS, Borglykke A, Di Angelantonio E, Gudnason V, Rumley A, Lowe GD, Jørgensen T, Danesh J. Inflammatory cytokines and risk of coronary heart disease: new prospective study and updated meta-analysis. Eur Heart J. 2014 Mar;35(9):578-89. doi: 10.1093/eurheartj/eht367. Epub 2013 Sep 10. Review.</citation>
+    <PMID>24026779</PMID>
+  </reference>
+  <reference>
+    <citation>Writing Committee for the VISION Study Investigators, Devereaux PJ, Biccard BM, Sigamani A, Xavier D, Chan MTV, Srinathan SK, Walsh M, Abraham V, Pearse R, Wang CY, Sessler DI, Kurz A, Szczeklik W, Berwanger O, Villar JC, Malaga G, Garg AX, Chow CK, Ackland G, Patel A, Borges FK, Belley-Cote EP, Duceppe E, Spence J, Tandon V, Williams C, Sapsford RJ, Polanczyk CA, Tiboni M, Alonso-Coello P, Faruqui A, Heels-Ansdell D, Lamy A, Whitlock R, LeManach Y, Roshanov PS, McGillion M, Kavsak P, McQueen MJ, Thabane L, Rodseth RN, Buse GAL, Bhandari M, Garutti I, Jacka MJ, Schünemann HJ, Cortes OL, Coriat P, Dvirnik N, Botto F, Pettit S, Jaffe AS, Guyatt GH. Association of Postoperative High-Sensitivity Troponin Levels With Myocardial Injury and 30-Day Mortality Among Patients Undergoing Noncardiac Surgery. JAMA. 2017 Apr 25;317(16):1642-1651. doi: 10.1001/jama.2017.4360.</citation>
+    <PMID>28444280</PMID>
+  </reference>
+  <reference>
+    <citation>Ridker PM, MacFadyen JG, Everett BM, Libby P, Thuren T, Glynn RJ; CANTOS Trial Group. Relationship of C-reactive protein reduction to cardiovascular event reduction following treatment with canakinumab: a secondary analysis from the CANTOS randomised controlled trial. Lancet. 2018 Jan 27;391(10118):319-328. doi: 10.1016/S0140-6736(17)32814-3. Epub 2017 Nov 13.</citation>
+    <PMID>29146124</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 15, 2021</study_first_posted>
+  <last_update_submitted>February 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Medical University of Vienna</investigator_affiliation>
+    <investigator_full_name>Barbara Kabon</investigator_full_name>
+    <investigator_title>PD Dr. med. univ.</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Myocardial Ischemia</mesh_term>
+    <mesh_term>Inflammation</mesh_term>
+    <mesh_term>Ischemia</mesh_term>
+    <mesh_term>Postoperative Complications</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

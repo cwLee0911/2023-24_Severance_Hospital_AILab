@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3721">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04748588</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REB21-0096</org_study_id>
+    <nct_id>NCT04748588</nct_id>
+  </id_info>
+  <brief_title>Treatment of Nosocomial COVID-19</brief_title>
+  <acronym>CATCO-NOS</acronym>
+  <official_title>Canadian Trial of the Safety and Efficacy of Investigational Therapeutics for the Treatment of Nosocomial Acquired COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Calgary</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sunnybrook Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Calgary</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 is a respiratory disease caused by a novel coronavirus (SARS-CoV-2) and causes&#xD;
+      substantial morbidity and mortality. Nosocomial acquisition of SARS-CoV-2 is a frequent&#xD;
+      concern across hospital settings in Canada and is associated with substantial morbidity and&#xD;
+      mortality. This clinical trial is initially designed to evaluate the role of bamlanivimab, a&#xD;
+      monoclonal antibody against the SARS-CoV-2 spike protein, for the treatment of hospitalized&#xD;
+      patients who acquire COVID19 via nosocomial infection. New treatments, as they become&#xD;
+      available, may be integrated, with appropriate adaptation of this document.&#xD;
+&#xD;
+      It is believed that monoclonal antibody treatments are most likely to be effective early in&#xD;
+      the disease course. The ability to rapidly identify and initiate such treatments in patients&#xD;
+      with nosocomial acquisition of the infection, combined with the high mortality of 25-30%&#xD;
+      experienced by this group of patients led us to propose this trial in collaboration with the&#xD;
+      CATCO national network.&#xD;
+&#xD;
+      The overall objective of the study is to evaluate the safety and clinical effectiveness of&#xD;
+      bamlanivimab relative to the control arm, in patients who develop nosocomial SARS-CoV-2&#xD;
+      infection, on need for mechanical ventilation or death.&#xD;
+&#xD;
+      This study is designed as a pragmatic randomized, open-label, controlled clinical trial.&#xD;
+&#xD;
+      Subjects will be randomized to receive either standard-of-care (control) or the study&#xD;
+      medication on a 1:2 basis. Bamlanivimab will be administered intravenously as a one-time&#xD;
+      infusion after randomization. Incidence of infusion-related reactions in the 24 hours post&#xD;
+      administration.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Requirement for mechanical ventilation or in-hospital death</measure>
+    <time_frame>Length of hospitalization or 60 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>In-hospital death</measure>
+    <time_frame>60 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for mechanical ventilation</measure>
+    <time_frame>60 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for new intensive care admission</measure>
+    <time_frame>60 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for new oxygen administration</measure>
+    <time_frame>60 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">648</enrollment>
+  <condition>Covid19</condition>
+  <condition>Nosocomial Infection</condition>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Bamlanivimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single IV administration of 700mg Bamlanivimab</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bamlanivimab</intervention_name>
+    <description>Bamlanivimab 700mg IV x1</description>
+    <arm_group_label>Bamlanivimab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 years of age or older&#xD;
+&#xD;
+          -  Has laboratory-confirmed SARS-CoV-2 infection as determined by PCR, or other&#xD;
+             commercial or public health assay, in any specimen prior to randomization.&#xD;
+&#xD;
+          -  Admitted to a participating centre&#xD;
+&#xD;
+          -  Is nosocomially acquired infection, as defined by ALL of:&#xD;
+&#xD;
+          -  COVID19 diagnosis being made on admission day three or later;&#xD;
+&#xD;
+          -  Admitted for a reason other than COVID19;&#xD;
+&#xD;
+          -  Within 5 days of COVID19 diagnosis based on test collection date or initial&#xD;
+             development of symptoms, which ever was earliest.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Plan for palliation within 24 hours&#xD;
+&#xD;
+          -  Known allergy to study medication or its components (non-medicinal ingredients)&#xD;
+&#xD;
+          -  Ordinal scale 6 or above&#xD;
+&#xD;
+          -  Admitted to facility for non-medical reasons including primary psychiatric diagnosis&#xD;
+             or labour and delivery.&#xD;
+&#xD;
+          -  Pregnancy or breast feeding&#xD;
+&#xD;
+          -  Weight less than 40kg&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Alain Tremblay, MDCM</last_name>
+    <phone>4032103866</phone>
+    <email>atrembla@ucalgary.ca</email>
+  </overall_contact>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 10, 2021</study_first_posted>
+  <last_update_submitted>February 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>bamlanivimab</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cross Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3746">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04791436</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OORCV</org_study_id>
+    <nct_id>NCT04791436</nct_id>
+  </id_info>
+  <brief_title>Oral and Olfactory Complications of Recovered COVID-19 Patients</brief_title>
+  <official_title>Oral and Olfactory Complications of Recovered COVID-19 Patients: A Prospective Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Giessen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Masaryk University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Kiel</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Giessen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This cohort study aims to investigate the long-standing chemosensory disorders and oral&#xD;
+      manifestation after recovery of the COVID-19 illness. A correlation between the long-standing&#xD;
+      symptoms and the COVID-19 severity grade will be very important to understand and clarify the&#xD;
+      aetiology of these symptoms.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This prospective cohort study aims to investigate the long-standing chemosensory disorders&#xD;
+      and oral manifestation after recovery of the COVID-19 illness. A correlation between the&#xD;
+      long-standing symptoms and the COVID-19 severity grade will be very important to understand&#xD;
+      and clarify the aetiology of these symptoms.&#xD;
+&#xD;
+      Study objectives:&#xD;
+&#xD;
+        1. To describe the frequency and severity of oral signs and chemosensory disorders that&#xD;
+           persist after the recovery of COVID-19 and to examine whether &quot;taste disorders&quot; can be&#xD;
+           discriminated into an- or hypogeusia and an- or hyposmia.&#xD;
+&#xD;
+        2. To report any correlation between the severity grade of COVID-19 and the resulting&#xD;
+           standing symptoms.&#xD;
+&#xD;
+        3. To describe the oral microbiome after infection with COVID-19 and to describe possible&#xD;
+           changes in comparison to normal healthy individuals.&#xD;
+&#xD;
+      Clinical and -if indicated- radiological examination to assess the long-term oral and&#xD;
+      chemosensory impairment and complaints of COVID-19 patients after their recovery shall be&#xD;
+      performed in an interdisciplinary setting of Maxillofacial Surgery, ENT and Medical&#xD;
+      Microbiology.&#xD;
+&#xD;
+      The study subjects will be divided into three groups according to the severity grade of&#xD;
+      illness: non-hospitalized, hospitalized, and intensive care patients. All adult COVID-19&#xD;
+      recovery patients (exceeding the age of 18) will be included in the study. The time between&#xD;
+      illness and study recruitment shall be at least 3 months. Exclusion criteria are psychiatric&#xD;
+      or neurological diseases, previous trauma, surgery or radiotherapy in the oral or nasal&#xD;
+      cavities, pre-existing taste or smell dysfunctions or chronic rhinosinusitis.&#xD;
+&#xD;
+      The study variables include age, sex, co-morbidities, possible causes of exclusion from the&#xD;
+      study. The oral health assessment will be performed by examination of: periodontal status,&#xD;
+      assessment of oral lesions, a radiological examination by using panoramic x-ray if clinically&#xD;
+      indicated, photo documentation, objective evaluation of the olfactory and gustatory functions&#xD;
+      with psychophysical tests. The gustatory and olfactory function will be tested by using the&#xD;
+      combined Burghart Screening 12 test containing smelling sticks and taste strips (Fa.&#xD;
+      MediSense, Groningen, Netherlands). Evaluation of taste and smell is performed by offering&#xD;
+      the sticks/strips and demand a forced multiple choice.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">February 28, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Periodontal health</measure>
+    <time_frame>At least 3 months after recovery of COVID-19</time_frame>
+    <description>Community Periodontal Index (CPI) of the World Health Organization (WHO) will be used to assess periodontal health (continuous variable)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Oral mucocutaneous lesions</measure>
+    <time_frame>At least 3 months after recovery of COVID-19</time_frame>
+    <description>An intraoral examination will be carried out to assess the presence of any mucocutaneous lesions (dichotomous variable)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gustatory function</measure>
+    <time_frame>At least 3 months after recovery of COVID-19</time_frame>
+    <description>Burghart Sniffin' Sticks &quot;Screening 12 Test&quot; will be used to assess gustatory function (continuous variable)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Olfactory function</measure>
+    <time_frame>At least 3 months after recovery of COVID-19</time_frame>
+    <description>Burghart Sniffin' Sticks &quot;Screening 12 Test&quot; will be used to assess olfactory function (continuous variable)</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">402</enrollment>
+  <condition>Oral Complication</condition>
+  <condition>Dysgeusia</condition>
+  <condition>Olfactory Disorder</condition>
+  <arm_group>
+    <arm_group_label>Mild Illness</arm_group_label>
+    <description>Recovered COVID-19 patients who experienced a mild clinical course</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderate Illness</arm_group_label>
+    <description>Recovered COVID-19 patients who experienced a moderate clinical course</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Severe Illness</arm_group_label>
+    <description>Recovered COVID-19 patients who experienced a severe clinical course</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Gustatory and olfactory function test</intervention_name>
+    <description>The gustatory and olfactory function will be tested by using the combined Burghart Screening 12 test containing smelling sticks and taste strips (Fa. MediSense, Groningen, Netherlands). Evaluation of taste and smell is performed by offering the sticks/strips and demand a forced multiple choice.</description>
+    <arm_group_label>Mild Illness</arm_group_label>
+    <arm_group_label>Moderate Illness</arm_group_label>
+    <arm_group_label>Severe Illness</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Molecular assessment of saliva</intervention_name>
+    <description>Saliva samples will be taken for molecular biological determination of the oral microbiome. The microbiome is determined at the Institute for Medical Microbiology by 16s-rRNA gene analysis with Next Generation Sequencing and bioinformatics.</description>
+    <arm_group_label>Mild Illness</arm_group_label>
+    <arm_group_label>Moderate Illness</arm_group_label>
+    <arm_group_label>Severe Illness</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Study subjects will be divided into three groups according to the severity grade of&#xD;
+        illness: non-hospitalized, hospitalized, and intensive care patients.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All adult COVID-19 recovery patients (exceeding the age of 18) will be included in the&#xD;
+             study. The time between illness and study recruitment shall be at least 3 months.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Exclusion criteria are psychiatric or neurological diseases, previous trauma, surgery&#xD;
+             or radiotherapy in the oral or nasal cavities, pre-existing taste or smell&#xD;
+             dysfunctions or chronic rhinosinusitis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sameh Attia, MSc</last_name>
+    <phone>00496419946110</phone>
+    <email>Sameh.Attia@dentist.med.uni-giessen.de</email>
+  </overall_contact>
+  <link>
+    <url>http://www.mdpi.com/journal/jcm/special_issues/Impact_Covid-19_Dental_Community</url>
+    <description>Impact of COVID-19 on The Dental Community</description>
+  </link>
+  <reference>
+    <citation>Attia S, Howaldt HP. Impact of COVID-19 on the Dental Community: Part I before Vaccine (BV). J Clin Med. 2021 Jan 14;10(2). pii: E288. doi: 10.3390/jcm10020288.</citation>
+    <PMID>33466777</PMID>
+  </reference>
+  <reference>
+    <citation>Böttger S, Zechel-Gran S, Streckbein P, Knitschke M, Hain T, Weigel M, Wilbrand JF, Domann E, Howaldt HP, Attia S. A New Type of Chronic Wound Infection after Wisdom Tooth Extraction: A Diagnostic Approach with 16S-rRNA Gene Analysis, Next-Generation Sequencing, and Bioinformatics. Pathogens. 2020 Sep 28;9(10). pii: E798. doi: 10.3390/pathogens9100798.</citation>
+    <PMID>32998201</PMID>
+  </reference>
+  <reference>
+    <citation>Ammar N, Aly NM, Folayan MO, Mohebbi SZ, Attia S, Howaldt HP, Boettger S, Khader Y, Maharani DA, Rahardjo A, Khan I, Madi M, Shamala A, Al-Batayneh OB, Rashwan M, Pavlic V, Cicmil S, Galluccio G, Polimeni A, Mancino D, Arheiam A, Dama MA, Nyan M, Phantumvanit P, Kim JB, Choi YH, Castillo JL, Joury E, Abdelsalam MM, Alkeshan MM, Hussein I, Vukovic AP, Iandolo A, Kemoli AM, El Tantawi M. Knowledge of dental academics about the COVID-19 pandemic: a multi-country online survey. BMC Med Educ. 2020 Nov 2;20(1):399. doi: 10.1186/s12909-020-02308-w.</citation>
+    <PMID>33138810</PMID>
+  </reference>
+  <reference>
+    <citation>Ammar N, Aly NM, Folayan MO, Khader Y, Virtanen JI, Al-Batayneh OB, Mohebbi SZ, Attia S, Howaldt HP, Boettger S, Maharani DA, Rahardjo A, Khan I, Madi M, Rashwan M, Pavlic V, Cicmil S, Choi YH, Joury E, Castillo JL, Noritake K, Shamala A, Galluccio G, Polimeni A, Phantumvanit P, Mancino D, Kim JB, Abdelsalam MM, Arheiam A, Dama MA, Nyan M, Hussein I, Alkeshan MM, Vukovic AP, Iandolo A, Kemoli AM, El Tantawi M. Behavior change due to COVID-19 among dental academics-The theory of planned behavior: Stresses, worries, training, and pandemic severity. PLoS One. 2020 Sep 29;15(9):e0239961. doi: 10.1371/journal.pone.0239961. eCollection 2020.</citation>
+    <PMID>32991611</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 10, 2021</study_first_posted>
+  <last_update_submitted>March 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Giessen</investigator_affiliation>
+    <investigator_full_name>Sameh Attia</investigator_full_name>
+    <investigator_title>Head of the Dental Polyclinic</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Oral Manifestations</keyword>
+  <keyword>Olfactory Manifestations</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dysgeusia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

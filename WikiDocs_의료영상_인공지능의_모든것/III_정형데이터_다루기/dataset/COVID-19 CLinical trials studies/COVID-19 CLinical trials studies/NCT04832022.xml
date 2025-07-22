@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="436">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04832022</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RECHMPL21_0021</org_study_id>
+    <nct_id>NCT04832022</nct_id>
+  </id_info>
+  <brief_title>Longitudinal Follow-up of Patients With Chronic Inflammatory Rheumatisms (CIRs) Vaccinated Against COVID-19 Compared to Patients Refusing Vaccination</brief_title>
+  <acronym>COVID-RIC3</acronym>
+  <official_title>Longitudinal Follow-up of Patients With Chronic Inflammatory Rheumatisms (CIRs) Vaccinated Against COVID-19 Compared to Patients Refusing Vaccination</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Montpellier</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Montpellier</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To date, studies on SARS-CoV2and vaccines have been mostly from the general population not&#xD;
+      exposed to immunosuppressants. The efficacy and safety of COVID-19 vaccines need to be&#xD;
+      evaluated in these populations.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Longitudinal, comparative, controlled, observational multicenter study based on a cohort of&#xD;
+      1500 SARS-CoV-2 seronegative patients with CIRs from the COVID-RIC1 cohort: 750 accepting&#xD;
+      vaccination and 750 refusing vaccination matched on age (+/-10 years), gender, rheumatism and&#xD;
+      recruiting center. Schedule: 4 visits over a 12-month period.&#xD;
+&#xD;
+      An observational routine care study was initiated in 15 French hospitals to assess the&#xD;
+      SARS-CoV-2 seroprevalence in France in a population with CIRs. The project plans to screen&#xD;
+      5000 CIRs patients. The COVID-RIC3 study will thus be proposed to these pre-screened subjects&#xD;
+      according to their agreement or refusal to be vaccinated against COVID-19 based on a question&#xD;
+      asked at the time of their inclusion in COVID-RIC1.&#xD;
+&#xD;
+      The efficacy and safety of the SARS-CoV2 vaccines as well as the vaccine-induced humoral&#xD;
+      immune responses and their maintenance over time in immunosuppressed patients with CIRs are&#xD;
+      essential to guide vaccine recommendations in these specific immunocompromised populations in&#xD;
+      terms of &quot;boost&quot; or booster.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">August 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of documented COVID-19 infection in vaccinated chronic inflammatory Rheumatism patients</measure>
+    <time_frame>At 3 months of the 1st dose of vaccine SARS-COV-2</time_frame>
+    <description>Proportion of documented COVID-19 infection according to Food and Drug Administration criteria in vaccinated chronic inflammatory Rheumatism patients</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of documented COVID-19 infection in non vaccinated chronic inflammatory Rheumatism patients</measure>
+    <time_frame>At 3 months of the 1st dose of vaccine SARS-COV-2</time_frame>
+    <description>Proportion of documented COVID-19 infection according to Food and Drug Administration criteria in non vaccinated chronic inflammatory Rheumatism patients</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of documented COVID-19 infection</measure>
+    <time_frame>6 months from 1st vaccine dose</time_frame>
+    <description>Proportion of documented COVID-19 infection at 6 months between groups of vaccine and non vaccine patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of documented COVID-19 infection</measure>
+    <time_frame>12 months from 1st vaccine dose</time_frame>
+    <description>Proportion of documented COVID-19 infection at 12 months between groups of vaccine and non vaccine patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>occurrence of infections by type of treatment</measure>
+    <time_frame>6 months from 1st vaccine dose</time_frame>
+    <description>occurrence of infections at 6 months by type of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>occurrence of infections by type of treatment</measure>
+    <time_frame>12 months from 1st vaccine dose</time_frame>
+    <description>occurrence of infections at 12 months by type of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>occurrence of infections by type of vaccine</measure>
+    <time_frame>3 months from 1st vaccine dose</time_frame>
+    <description>occurrence of infections at 3 months by type of vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients who developed local or systemic reactions to the vaccine, in the vaccinated group at 3 months</measure>
+    <time_frame>3 months from 1st vaccine dose</time_frame>
+    <description>Proportion of patients who developed local or systemic reactions to the vaccine, in the vaccinated group at 3 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients who developed local or systemic reactions to the vaccine, in the vaccinated group at 6 months</measure>
+    <time_frame>6 months from 1st vaccine dose</time_frame>
+    <description>Proportion of patients who developed local or systemic reactions to the vaccine, in the vaccinated group at 6 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients who developed local or systemic reactions to the vaccine, in the vaccinated group at 12 months</measure>
+    <time_frame>12 months from 1st vaccine dose</time_frame>
+    <description>Proportion of patients who developed local or systemic reactions to the vaccine, in the vaccinated group at 12 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients who developed adverse events at 12 months</measure>
+    <time_frame>12 months from 1st vaccine dose</time_frame>
+    <description>Proportion of patients who developed adverse events at 12 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with vaccine response</measure>
+    <time_frame>3 months from 1st vaccine dose</time_frame>
+    <description>Proportion of patients with vaccine response (SARS-CoV-2 neutralizing antibody IgG and IgM titers) after vaccination against SARS-CoV2 in vaccine patients group</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with vaccine response</measure>
+    <time_frame>6 months from 1st vaccine dose</time_frame>
+    <description>Proportion of patients with vaccine response (SARS-CoV-2 neutralizing antibody IgG and IgM titers) after vaccination against SARS-CoV2 in vaccine patients group</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of responding patients</measure>
+    <time_frame>3 months from 1st vaccine dose</time_frame>
+    <description>Proportion of responding patients with specific IgG in ELISA ≥ titer corresponding to the vaccine protection threshold and neutralizing IgG at 3 months of the first dose of COVID19 vaccine in vaccinated ICRs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of responding patients</measure>
+    <time_frame>6 months from 1st vaccine dose</time_frame>
+    <description>Proportion of responding patients with specific IgG in ELISA ≥ titer corresponding to the vaccine protection threshold and neutralizing IgG at 3 months of the first dose of COVID19 vaccine in vaccinated ICRs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of responding patients</measure>
+    <time_frame>12 months from 1st vaccine dose</time_frame>
+    <description>Proportion of responding patients with specific IgG in ELISA ≥ titer corresponding to the vaccine protection threshold and neutralizing IgG at 3 months of the first dose of COVID19 vaccine in vaccinated ICRs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>compare the evolution of disease activity</measure>
+    <time_frame>3 months from first vaccine dose</time_frame>
+    <description>compare the evolution of disease activity at 3 months in the two groups : change in formula DAS28- CRP (Disease Activity Score C-reactive Protein) between 0 and 3 months for patients with Rheumatoid Arthritis (RA) and patients with psoriatic arthritis.&#xD;
+DAS28 &lt; 2.6: Remission DAS28 &gt;= 2.6 and &lt;= 3.2:Low Disease Activity DAS28 &gt; 3.2 and &lt;= 5.1:Moderate Disease Activity DAS28 &gt; 5.1: High Disease Activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>compare the evolution of disease activity</measure>
+    <time_frame>6 months from first vaccine dose</time_frame>
+    <description>compare the evolution of disease activity at 6 months in the two groups : change in formula DAS28- CRP (Disease Activity Score C-reactive Protein) between 0 and 6 months for patients with Rheumatoid Arthritis (RA) and patients with psoriatic arthritis DAS28 &lt; 2.6: Remission DAS28 &gt;= 2.6 and &lt;= 3.2:Low Disease Activity DAS28 &gt; 3.2 and &lt;= 5.1:Moderate Disease Activity DAS28 &gt; 5.1: High Disease Activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>compare the evolution of disease activity</measure>
+    <time_frame>12 months from first vaccine dose</time_frame>
+    <description>compare the evolution of disease activity at 12 months in the two groups : change in formula DAS28- CRP (Disease Activity Score C-reactive Protein) between 0 and 12 months for patients with Rheumatoid Arthritis (RA) and patients with psoriatic arthritis DAS28 &lt; 2.6: Remission DAS28 &gt;= 2.6 and &lt;= 3.2:Low Disease Activity DAS28 &gt; 3.2 and &lt;= 5.1:Moderate Disease Activity DAS28 &gt; 5.1: High Disease Activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>compare the evolution of disease activity</measure>
+    <time_frame>3 months from first vaccine dose</time_frame>
+    <description>compare the evolution of disease activity at 3 months in the two groups : change in formula ASDAS-CRP (Ankylosing Spondylitis Disease Activity Score with C-reactive protein) between 0 and 6 months for patients with Ankylosing spondylitis (SpA) ASDAS &lt; 1.3: Inactive disease ASDAS &gt;= 1.3 and &lt;= 2.1:Low Disease Activity ASDAS &gt; 2.1 and &lt;= 3.5:Moderate Disease Activity ASDAS &gt; 3.5: High Disease Activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>compare the evolution of disease activity</measure>
+    <time_frame>6 months from first vaccine dose</time_frame>
+    <description>compare the evolution of disease activity at 6 months in the two groups : change in formula ASDAS-CRP (Ankylosing Spondylitis Disease Activity Score with C-reactive protein) between 0 and 6 months for patients with Ankylosing spondylitis (SpA) ASDAS &lt; 1.3: Inactive disease ASDAS &gt;= 1.3 and &lt;= 2.1:Low Disease Activity ASDAS &gt; 2.1 and &lt;= 3.5:Moderate Disease Activity ASDAS &gt; 3.5: High Disease Activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>compare the evolution of disease activity</measure>
+    <time_frame>12 months from first vaccine dose</time_frame>
+    <description>compare the evolution of disease activity at 12 months in the two groups : change in formula ASDAS-CRP (Ankylosing Spondylitis Disease Activity Score with C-reactive protein) between 0 and 12 months for patients with Ankylosing spondylitis (SpA) ASDAS &lt; 1.3: Inactive disease ASDAS &gt;= 1.3 and &lt;= 2.1:Low Disease Activity ASDAS &gt; 2.1 and &lt;= 3.5:Moderate Disease Activity ASDAS &gt; 3.5: High Disease Activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological impact scores: anxiety (GAD7 : General Anxiety Disorder-7)</measure>
+    <time_frame>3 months from first vaccine dose</time_frame>
+    <description>The GAD-7 score is calculated by assigning scores of 0, 1, 2, and 3, to the response categories of 'not at all', 'several days', 'more than half the days', and 'nearly every day', respectively, and adding together the scores for the seven questions.&#xD;
+Scores of 5, 10, and 15 are taken as the cut-off points for mild, moderate and severe anxiety, respectively.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological impact scores: anxiety (GAD7 : General Anxiety Disorder-7)</measure>
+    <time_frame>6 months from first vaccine dose</time_frame>
+    <description>The GAD-7 score is calculated by assigning scores of 0, 1, 2, and 3, to the response categories of 'not at all', 'several days', 'more than half the days', and 'nearly every day', respectively, and adding together the scores for the seven questions.&#xD;
+Scores of 5, 10, and 15 are taken as the cut-off points for mild, moderate and severe anxiety, respectively.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological impact scores: anxiety (GAD7 : General Anxiety Disorder-7)</measure>
+    <time_frame>12 months from first vaccine dose</time_frame>
+    <description>The GAD-7 score is calculated by assigning scores of 0, 1, 2, and 3, to the response categories of 'not at all', 'several days', 'more than half the days', and 'nearly every day', respectively, and adding together the scores for the seven questions.&#xD;
+Scores of 5, 10, and 15 are taken as the cut-off points for mild, moderate and severe anxiety, respectively.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological impact scores: depression (HADS : Hospital Anxiety and Depression Scale)</measure>
+    <time_frame>3 months from first vaccine dose</time_frame>
+    <description>The HADS is a self-administered 14-item scale. Each item is rated on a scale of 0 to 3. Borderline scores make it possible to distinguish: non-cases or asymptomatic ones (score ≤ 7); probable or borderline cases (score 8-10); clearly or clinically symptomatic cases (score ≥ 11).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological impact scores: depression (HADS : Hospital Anxiety and Depression Scale)</measure>
+    <time_frame>6 months from first vaccine dose</time_frame>
+    <description>The HADS is a self-administered 14-item scale. Each item is rated on a scale of 0 to 3. Borderline scores make it possible to distinguish: non-cases or asymptomatic ones (score ≤ 7); probable or borderline cases (score 8-10); clearly or clinically symptomatic cases (score ≥ 11).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological impact scores: depression (HADS : Hospital Anxiety and Depression Scale)</measure>
+    <time_frame>12 months from first vaccine dose</time_frame>
+    <description>The HADS is a self-administered 14-item scale. Each item is rated on a scale of 0 to 3. Borderline scores make it possible to distinguish: non-cases or asymptomatic ones (score ≤ 7); probable or borderline cases (score 8-10); clearly or clinically symptomatic cases (score ≥ 11).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological impact scores: quality of life (EQ5D)</measure>
+    <time_frame>3 months from first vaccine dose</time_frame>
+    <description>EQ-5D is an European quality of life scale. It is presents as follows: a first part with the questions called &quot;EQ-5D descriptive system&quot;, supplemented by a visual analogue scale, called &quot;EQ-5D VAS&quot;. It consists of a line of 20 cm, graduated from 0 to 100, where the patient must indicate how he assesses his current state of health, 0 being the worst state possible and 100 the best.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological impact scores: quality of life (EQ5D)</measure>
+    <time_frame>6 months from first vaccine dose</time_frame>
+    <description>EQ-5D is an European quality of life scale. It is presents as follows: a first part with the questions called &quot;EQ-5D descriptive system&quot;, supplemented by a visual analogue scale, called &quot;EQ-5D VAS&quot;. It consists of a line of 20 cm, graduated from 0 to 100, where the patient must indicate how he assesses his current state of health, 0 being the worst state possible and 100 the best.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological impact scores: quality of life (EQ5D)</measure>
+    <time_frame>12 months from first vaccine dose</time_frame>
+    <description>EQ-5D is an European quality of life scale. It is presents as follows: a first part with the questions called &quot;EQ-5D descriptive system&quot;, supplemented by a visual analogue scale, called &quot;EQ-5D VAS&quot;. It consists of a line of 20 cm, graduated from 0 to 100, where the patient must indicate how he assesses his current state of health, 0 being the worst state possible and 100 the best.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">1500</enrollment>
+  <condition>Rheumatic Diseases</condition>
+  <condition>SARS-CoV Infection</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Vaccinated</arm_group_label>
+    <description>Seronegative Chronic Inflammatory Rheumatism (CIR) who accepted vaccination against SARS-CoV2</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non vaccinated</arm_group_label>
+    <description>Seronegative Chronic Inflammatory Rheumatism (CIR) who refused vaccination against SARS-CoV2</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Biological samples</intervention_name>
+    <description>Serum and plasma samples. At baseline, 3, 6 and 12 months</description>
+    <arm_group_label>Non vaccinated</arm_group_label>
+    <arm_group_label>Vaccinated</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Serum and plasma samples. At visit baseline, 3, 6, 12 months.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        1500 CIR patients with or without SARS-COV2 vaccine.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult ≥ 18 years old,&#xD;
+&#xD;
+          -  Chronic inflammatory arthritis: rheumatoid arthritis, psoriatic arthritis, axial SpA,&#xD;
+             diagnosed by a rheumatologist&#xD;
+&#xD;
+          -  Having a negative serology for SARS-CoV-2 infection upon inclusion in COVID-RIC1.&#xD;
+&#xD;
+          -  Under csDMARD (conventional synthetic Disease-modifying antirheumatic drug),&#xD;
+             biotherapy, JAK inhibitor or under symptomatic treatment such as NSAIDs or&#xD;
+             corticosteroids alone or in combination with a DMARD (Disease-modifying antirheumatic&#xD;
+             drug)&#xD;
+&#xD;
+          -  Subject having signed a consent&#xD;
+&#xD;
+          -  Affiliated with Social Security&#xD;
+&#xD;
+          -  Having accepted or agreed to be vaccinated against COVID-19 (for vaccine group)&#xD;
+&#xD;
+          -  Having refused to be vaccinated against COVID-19 (for non-vaccine group)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Adult patient under legal protection (guardian, curator)&#xD;
+&#xD;
+          -  Patient vaccinated with an anti-SARS-CoV-2 vaccine before the serological test&#xD;
+&#xD;
+          -  Refusal to be vaccinated (for vaccine group)&#xD;
+&#xD;
+          -  Acceptance to be vaccinated (for non-vaccine group))&#xD;
+&#xD;
+          -  Refusal to participate in the study&#xD;
+&#xD;
+          -  Pregnancy and breast feeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jacques MOREL</last_name>
+    <email>j-morel@chu-montpellier.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Secretariat DRI</last_name>
+    <phone>+33467330913</phone>
+    <email>sec-recherche@chu-montpellier.fr</email>
+  </overall_contact_backup>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 5, 2021</study_first_posted>
+  <last_update_submitted>April 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rheumatic Fever</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Rheumatic Diseases</mesh_term>
+    <mesh_term>Collagen Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

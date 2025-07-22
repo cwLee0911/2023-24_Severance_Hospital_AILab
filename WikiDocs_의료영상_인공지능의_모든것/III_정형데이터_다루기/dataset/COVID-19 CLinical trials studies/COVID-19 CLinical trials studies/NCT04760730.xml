@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="633">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04760730</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CV03872091</org_study_id>
+    <nct_id>NCT04760730</nct_id>
+  </id_info>
+  <brief_title>Safety and Immunogenicity Study in Adults of AZD1222 and rAd26-S Administered as Heterologous Prime Boost Regimen for the Prevention of Coronavirus Disease 2019 (COVID-19)</brief_title>
+  <official_title>A Phase I/II Single-Blinded Randomised Safety and Immunogenicity Study in Adults of AZD1222 and rAd26-S Administered as Heterologous Prime Boost Regimen for the Prevention of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>R-Pharm</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>R-Pharm</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A Phase I/II Single-Blinded Randomised Safety and Immunogenicity Study in Adults of AZD1222&#xD;
+      and rAd26-S Administered as Heterologous Prime Boost Regimen for the Prevention of COVID-19&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, single blinded randomised clinical study, designed to provide data on&#xD;
+      the heterologous prime boost use of AZD1222 and rAd26-S, to be administered one after the&#xD;
+      other interchangeably. This study aims to explore the immunogenicity and safety of combining&#xD;
+      these 2 different adenovirus vector vaccines in the prevention of coronavirus disease 2019&#xD;
+      (COVID-19).&#xD;
+&#xD;
+      Participants will be healthy adults ≥ 18 years of age.&#xD;
+&#xD;
+      This is a parallel group treatment study with 2 groups and single blinded (participant&#xD;
+      blinded).&#xD;
+&#xD;
+      Participants will be randomised (1:1) to one of the following groups:&#xD;
+&#xD;
+        -  Group A: 1 intramuscular (IM) injection AZD1222 on Day 1 followed by rAd26-S on Day 29&#xD;
+           of the study.&#xD;
+&#xD;
+        -  Group B: 1 IM injection of rAd26-S on Day 1 followed by AZD1222 on Day 29.&#xD;
+&#xD;
+      All participants will remain on study for 6 months (180 days) following the first&#xD;
+      vaccination.&#xD;
+&#xD;
+      Immunogenicity will be assessed for the duration of the study, including serologic&#xD;
+      quantification of severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) antigen&#xD;
+      specific antibody levels and antibody seroconversion rate, neutralising antibody assays.&#xD;
+&#xD;
+      Safety will be assessed for the duration of the study as follows:&#xD;
+&#xD;
+        -  Solicited adverse events (AEs; local and systemic) will be assessed for 7 days following&#xD;
+           each vaccination (Day 1 through Day 7 for first vaccination and Day 29 through Day 35&#xD;
+           for second vaccination).&#xD;
+&#xD;
+        -  Unsolicited AEs will be recorded for 29 days following each vaccination (ie, until Day&#xD;
+           29 following the first vaccination and Day 57 following the second vaccination).&#xD;
+&#xD;
+        -  Serious adverse events (SAEs) will be recorded from signing of the informed consent form&#xD;
+           through Day 180. However, the safety endpoint for SAEs will be assessed after the first&#xD;
+           vaccination.&#xD;
+&#xD;
+        -  Adverse events of special interest (AESIs) will be recorded from first vaccination&#xD;
+           through Day 180.&#xD;
+&#xD;
+      This study is going to be conducted in the United Arab Emirates. An appropriate number of&#xD;
+      participants will be screened to achieve approximately 100 evaluable participants.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 17, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>single-blinded (participant-blinded study)</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Antibody seroconversion rate (≥ 4 fold increase from baseline) against SARS-CoV-2 Spike protein 29 days post second vaccination</measure>
+    <time_frame>from Day 29 till Day 57</time_frame>
+    <description>The assessment of antibody responses to Spike antigen following one IM dose of AZD1222 followed by one IM dose of rAd26-S (for group A) and following one IM dose of rAd26-S followed by one IM dose of AZD1222 (for Group B), 29 days apart, in subjects who are SARS-CoV-2 seronegative at baseline</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of local and systemic solicited Adverse Events (AEs) for 7 days following each vaccination (Day 1 through Day 7 for first vaccination and Day 29 through Day 35 for second vaccination)</measure>
+    <time_frame>from Day 1 till Day 7 and from Day 29 till Day 35</time_frame>
+    <description>To describe the reactogenicity of one IM dose of AZD1222 followed by one IM dose of rAd26-S (for Group A) and of one IM dose of rAd26-S followed by one IM dose of AZD1222 (for Group B).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of unsolicited AEs, Serious Adverse Events (SAEs) and Adverse Events of Special Interest (AESIs) through 29 days post each vaccination</measure>
+    <time_frame>from day 1 till Day 29 and from Day 29 till Day 57</time_frame>
+    <description>To describe the safety and tolerability of one IM dose of AZD1222 followed by one IM dose of rAd26-S (for Group A) and of one IM dose of rAd26-S followed by one IM dose of AZD1222 (for Group B)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of SAEs and AESIs after first vaccination until study end (Day 180)</measure>
+    <time_frame>from Day 1 till Day 180</time_frame>
+    <description>For further assessment of safety and tolerability of one IM dose of AZD1222 followed by one IM dose of rAd26-S (for Group A) and of one IM dose of rAd26-S followed by one IM dose of AZD1222 (for Group B).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antibody seroconversion rate (≥ 4 fold increase from baseline) against SARS-CoV-2 Spike protein 29 days post first vaccination</measure>
+    <time_frame>from Day 1 till Day 29</time_frame>
+    <description>Assessment of antibody responses to Spike antigen following one IM dose of AZD1222 (for Group A) and following one IM dose of rAd26-S (for Group B), in subjects who are SARS-CoV-2 seronegative at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antibody seroconversion rate (≥ 4 fold increase from baseline) against Receptor Binding Domain (RBD) antigen</measure>
+    <time_frame>On Day 15, Day 29, Day 57,Day 180</time_frame>
+    <description>Assessment of antibody responses to RBD antigen following one intramuscular (IM) dose of AZD1222 followed by one IM dose of rAd26-S (for Group A) and following one IM dose of rAd26-S followed by one IM dose of AZD1222 (for Group B)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Titre (GMT) and Geometric Mean Fold Rise (GMFR) of immunogenicity against Spike and RBD antigens at the day of vaccination (baseline), Day 15, 29 days post each vaccination and at study end (Day 180).</measure>
+    <time_frame>On Day 1, Day 15, Day 29, Day 57,Day 180</time_frame>
+    <description>The assessment of time course of antibody to Spike and RBD antigens of one IM dose of AZD1222 followed by one IM dose of rAd26-S (for Group A) and of one IM dose of rAd26-S followed by one IM dose of AZD1222 (for Group B)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antibody seroconversion rate (≥ 4 fold increase from baseline) SARS-CoV-2 neutralising antibodies</measure>
+    <time_frame>On Day 15, Day 29, Day 57,Day 180</time_frame>
+    <description>To determine anti-SARS-CoV-2 neutralising antibody levels in serum following one IM dose of AZD1222 followed by one IM dose of rAd26-S (for group A) and following one IM dose of rAd26-S followed by one IM dose of AZD1222 (for Group B)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT and GMFR of immunogenicity as measured by SARS-CoV-2 neutralising antibodies at day of vaccination (baseline), Day 15, 29 days post each vaccination and at study end (Day 180)</measure>
+    <time_frame>On Day 1, Day 15, Day 29, Day 57,Day 180</time_frame>
+    <description>To determine anti-SARS-CoV-2 neutralising antibody levels in serum following one IM dose of AZD1222 followed by one IM dose of rAd26-S (for group A) and following one IM dose of rAd26-S followed by one IM dose of AZD1222 (for Group B)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Group A: 1 intramuscular (IM) injection of AZD1222 on Day 1 followed by rAd26-S on Day 29</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive 1 intramuscular (IM) injection of 5 × 10^10 viral particles (vp) (nominal) of AZD1222 on Day 1 followed by rAd26-S (1.0±0.5) х 10^11 viral particles (vp) (nominal) on Day 29</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B: 1 intramuscular (IM) injection of rAd26-S on Day 1 followed by AZD1222 on Day 29</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive 1 intramuscular (IM) injection of rAd26-S (1.0±0.5) х 10^11 viral particles (vp) (nominal) on Day 1 followed by AZD1222 5 × 10^10 vp (nominal) on Day 29.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>AZD1222</intervention_name>
+    <description>Active substance: ChAdOx1 nCoV-19, a replicant-deficient simian adenoviral vector in the amount of 5 х 10^10 particles (nominal) per dose (unit dose strength &gt; 0.7 × 10^11 vp/mL).&#xD;
+Solution for intramuscular injection, supplied in vials in a carton box</description>
+    <arm_group_label>Group A: 1 intramuscular (IM) injection of AZD1222 on Day 1 followed by rAd26-S on Day 29</arm_group_label>
+    <arm_group_label>Group B: 1 intramuscular (IM) injection of rAd26-S on Day 1 followed by AZD1222 on Day 29</arm_group_label>
+    <other_name>ChAdOx1 nCoV-19</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>rAd26-S</intervention_name>
+    <description>Component I (Dose 1) - (0.5 ml per dose) contains:&#xD;
+Active substance: recombinant adenovirus serotype 26 particles containing the SARS-CoV-2 protein S gene, in the amount of (1.0±0.5) х 10^11 particles per dose (unit dose strength 1 × 10^11 vp/0.5 mL) .&#xD;
+Solution for intramuscular injection, supplied in vials in containers</description>
+    <arm_group_label>Group A: 1 intramuscular (IM) injection of AZD1222 on Day 1 followed by rAd26-S on Day 29</arm_group_label>
+    <arm_group_label>Group B: 1 intramuscular (IM) injection of rAd26-S on Day 1 followed by AZD1222 on Day 29</arm_group_label>
+    <other_name>Gam-COVID-Vac combined vector vaccine</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Participants are eligible to be included in the study only if all of the following criteria&#xD;
+        apply:&#xD;
+&#xD;
+          -  Capable to sign the study informed consent form (ICF) before performing any&#xD;
+             study-specific procedure&#xD;
+&#xD;
+          -  Participants who are overtly healthy as determined by medical evaluation, or Medically&#xD;
+             stable such that, according to the judgment of the investigator, hospitalization&#xD;
+             within the study period is not anticipated and the participant appears likely to be&#xD;
+             able to remain in follow-up through the end of protocol-specified follow up.&#xD;
+&#xD;
+        (A stable medical condition is defined as disease not requiring significant change in&#xD;
+        therapy or hospitalisation for worsening disease during the 3 months prior to enrolment.)&#xD;
+&#xD;
+          -  Ability to understand and comply with study requirements/procedures based on the&#xD;
+             assessment of the investigator.&#xD;
+&#xD;
+          -  Female participants&#xD;
+&#xD;
+               1. Women of childbearing potential must:&#xD;
+&#xD;
+                    -  Have a negative pregnancy test on the day of screening and on Day 1&#xD;
+&#xD;
+                    -  Use one highly effective form of birth control for at least 28 days prior to&#xD;
+                       Day 1 and agree to continue using one highly effective form of birth control&#xD;
+                       through 60 days following administration of the second dose of study&#xD;
+                       vaccine. A highly effective method of contraception is defined as one that&#xD;
+                       can achieve a failure rate of less than 1% per year when used consistently&#xD;
+                       and correctly. Periodic abstinence, the rhythm method, and withdrawal are&#xD;
+                       NOT acceptable methods of contraception.&#xD;
+&#xD;
+               2. Women are considered of childbearing potential unless they meet either of the&#xD;
+                  following criteria:&#xD;
+&#xD;
+                    -  Surgically sterilised (including bilateral tubal ligation, bilateral&#xD;
+                       oophorectomy, or hysterectomy), or&#xD;
+&#xD;
+                    -  Postmenopausal&#xD;
+&#xD;
+                    -  For women aged &lt; 50 years, postmenopausal is defined as having both:&#xD;
+&#xD;
+                         -  A history of ≥ 12 months amenorrhea prior to first dosing, without an&#xD;
+                            alternative cause, following cessation of exogenous sex-hormonal&#xD;
+                            treatment, and&#xD;
+&#xD;
+                         -  A follicle-stimulating hormone level in the post-menopausal range Until&#xD;
+                            follicle-stimulating hormone is documented to be within menopausal&#xD;
+                            range, the participant is to be considered of childbearing potential&#xD;
+&#xD;
+                    -  For women aged ≥ 50 years, postmenopausal is defined as having a history of&#xD;
+                       ≥ 12 months amenorrhea prior to first dosing, without an alternative cause,&#xD;
+                       following cessation of exogenous sex-hormonal treatment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known past laboratory-confirmed SARS-CoV-2 infection.&#xD;
+&#xD;
+          -  Positive SARS-CoV-2 Reverse Transcription-Polymerase Chain Reaction (RT-PCR) test at&#xD;
+             screening&#xD;
+&#xD;
+          -  Seropositivity to SARS-CoV-2 at screening&#xD;
+&#xD;
+          -  Significant infection or other illness, including fever &gt; 37.8°C on the day prior to&#xD;
+             or day of randomisation.&#xD;
+&#xD;
+          -  Any confirmed or suspected immunosuppressive or immunodeficient state, including human&#xD;
+             immunodeficiency virus (HIV) infection; asplenia; recurrent severe infections and use&#xD;
+             of chronic immunosuppressant medication within the past 6 months (≥ 20 mg/day of&#xD;
+             prednisone or its equivalent, given daily or on alternate days for ≥ 15 days within 30&#xD;
+             days prior to vaccination), except topical/inhaled steroids or short term oral&#xD;
+             steroids (course lasting ≤ 14 days).&#xD;
+&#xD;
+               1. Note: HIV-positive participants with CD4 counts &gt; 500 for ≥ 12 months and on a&#xD;
+                  stable HIV antiretroviral regimen may be enrolled.&#xD;
+&#xD;
+               2. Note: Topical tacrolimus is allowed if not used within 14 days prior to the day&#xD;
+                  of enrolment.&#xD;
+&#xD;
+          -  History of allergy to any component of the vaccine.&#xD;
+&#xD;
+          -  Any history of anaphylaxis or angioedema.&#xD;
+&#xD;
+          -  Current diagnosis of or treatment for cancer (except basal cell carcinoma of the skin&#xD;
+             and uterine cervical carcinoma in situ).&#xD;
+&#xD;
+          -  History of serious psychiatric condition likely to affect participation in the study.&#xD;
+&#xD;
+          -  Bleeding disorder (eg, factor deficiency, coagulopathy or platelet disorder), or prior&#xD;
+             history of significant bleeding or bruising following IM injections or venepuncture.&#xD;
+&#xD;
+          -  Suspected or known current alcohol or drug dependency.&#xD;
+&#xD;
+          -  History of Guillain-Barré syndrome or any other demyelinating condition.&#xD;
+&#xD;
+          -  Any other significant disease, disorder or finding which may significantly increase&#xD;
+             the risk to the participant because of participation in the study, affect the ability&#xD;
+             of the participant to participate in the study or impair interpretation of the study&#xD;
+             data.&#xD;
+&#xD;
+          -  Severe and/or uncontrolled cardiovascular disease, respiratory disease,&#xD;
+             gastrointestinal disease, liver disease, renal disease, endocrine disorder and&#xD;
+             neurological illness (mild/moderate well controlled comorbidities are allowed).&#xD;
+&#xD;
+          -  Receipt of any vaccine (licensed or investigational) other than the study vaccine&#xD;
+             within 30 days before and after the second vaccination.&#xD;
+&#xD;
+          -  Prior or planned receipt of an investigational or licensed vaccine or product likely&#xD;
+             to impact on interpretation of the trial data (eg, adenovirus vectored vaccines, any&#xD;
+             coronavirus vaccines).&#xD;
+&#xD;
+          -  Administration of immunoglobulins and/or any blood products within the 3 months&#xD;
+             preceding the planned administration of the vaccine candidate.&#xD;
+&#xD;
+          -  Continuous use of anticoagulants, such as coumarins and related anticoagulants (ie,&#xD;
+             warfarin) or novel oral anticoagulants (ie, apixaban, rivaroxaban, dabigatran and&#xD;
+             edoxaban).&#xD;
+&#xD;
+          -  Participation in COVID-19 prophylactic drug trials for the duration of the study.&#xD;
+&#xD;
+          -  Involvement in the planning and/or conduct of the study (applies to both AstraZeneca&#xD;
+             staff and/or staff at the study site).&#xD;
+&#xD;
+          -  Judgment by the investigator that the participant should not participate in the study&#xD;
+             if the participant is unlikely to comply with study procedures, restrictions, and&#xD;
+             requirements.&#xD;
+&#xD;
+          -  Previous randomisation in the present study.&#xD;
+&#xD;
+          -  For women only - currently pregnant (confirmed with positive pregnancy test) or breast&#xD;
+             feeding.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mikhail Samsonov</last_name>
+    <role>Study Director</role>
+    <affiliation>Chief Medical Officer, R-Pharm</affiliation>
+  </overall_official>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 18, 2021</study_first_posted>
+  <last_update_submitted>February 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Severe acute respiratory syndrome coronavirus 2</keyword>
+  <keyword>2019-nCoV</keyword>
+  <keyword>2019 novel coronavirus</keyword>
+  <keyword>Respiratory disease</keyword>
+  <keyword>lung disease</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>coronavirus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

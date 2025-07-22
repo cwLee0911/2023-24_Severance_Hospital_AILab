@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="274">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04763395</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Soh-Med-21-02-27</org_study_id>
+    <nct_id>NCT04763395</nct_id>
+  </id_info>
+  <brief_title>Liver Function Test Abnormalities in COVID-19</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>Liver Function Test Abnormalities in COVID-19 Egyptian Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sohag University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sohag University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      With the increasing number of COVID-19 infected patients, several studies reported that the&#xD;
+      liver is the most frequently affected organ after lung damage. The percentage of infected&#xD;
+      patients who had abnormal levels of transaminases (alanine aminotransferase (ALT) and&#xD;
+      aspartate aminotransferase (AST)) was about 14.8-53.1%. The elevation in serum bilirubin was&#xD;
+      mostly mild.&#xD;
+&#xD;
+      Aims of work:&#xD;
+&#xD;
+        -  To study liver function tests abnormalities in Egyptian patients who infected with&#xD;
+           COVID19&#xD;
+&#xD;
+        -  To evaluate if liver function test abnormalities are related to the severity of the&#xD;
+           Covid19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This retrospective study will be conducted on 100 patients who were diagnosed as SARS COVID19&#xD;
+      positive. The data will be collected from patient records in COVID19 isolation hospitals in&#xD;
+      Sohag governorate and isolation department in Sohag university hospitals during the period&#xD;
+      from the start of June 2020 to the end of July 2020.&#xD;
+&#xD;
+      The study protocol will be approved by the Scientific Research Ethical Committee, Faculty of&#xD;
+      Medicine, Sohag University.&#xD;
+&#xD;
+      Inclusion criteria:&#xD;
+&#xD;
+      Patients with Covid19 positive PCR.&#xD;
+&#xD;
+      Exclusion Criteria:&#xD;
+&#xD;
+      Patients with chronic liver diseases as liver cirrhosis, Hbs Ag positive, or patients having&#xD;
+      anti-HCV antibodies positive and HCV RNA positive.&#xD;
+&#xD;
+      The Data will be collected according to the rules of the Sohag university ethical committee.&#xD;
+      The following will be collected&#xD;
+&#xD;
+        1. Data about clinical manifestations including fever, cough, dyspnea, fatigue, and&#xD;
+           diarrhea.&#xD;
+&#xD;
+        2. Laboratory investigation:&#xD;
+&#xD;
+             -  CBC -Total bilirubin and direct&#xD;
+&#xD;
+             -  AST - ALT&#xD;
+&#xD;
+             -  Albumin - Prothrombin time and concentration&#xD;
+&#xD;
+             -  CRP -D-dimer&#xD;
+&#xD;
+             -  Serum ferritin&#xD;
+&#xD;
+        3. Assessment of the severity of the disease:&#xD;
+&#xD;
+      Patients were classified into severe or mild cases based on results from chest radiography,&#xD;
+      clinical examination, and symptoms.&#xD;
+&#xD;
+        -  Patients with mild symptoms (i.e., fever, cough, expectoration, and other upper&#xD;
+           respiratory tract symptoms), and without abnormalities, or with mild changes on chest&#xD;
+           radiography, were classified as non-severe types.&#xD;
+&#xD;
+        -  A mild change in chest radiography is defined by multiple small patchy shadows and&#xD;
+           interstitial changes, mainly in the outer zone of the lung and under the pleura.&#xD;
+&#xD;
+        -  Severe pneumonia was defined by the presence of any of the following conditions: i)&#xD;
+           significantly increased respiration rate (RR): RR &gt;-30 times/minute; ii) hypoxia: oxygen&#xD;
+           saturation (resting state) &lt;-93%; iii) blood gas analysis: partial pressure of&#xD;
+           oxygen/fraction of inspired oxygen (PaO2) /FiO2) &lt;- 300 mmHg (millimeters of Mercury),&#xD;
+           or iv) the occurrence of respiratory or another organ failure that require Intensive&#xD;
+           care unit (ICU) monitoring and treatment, or shock&#xD;
+&#xD;
+           4. Statistical analysis: Data will be analyzed using STATA version 14.2 (Statistical&#xD;
+           Software: Release 14.2 College Station, TX: Stata Corp LP). Quantitative data will be&#xD;
+           represented as mean, standard deviation, median and range. normally distributed.&#xD;
+           Qualitative data will be presented as numbers and percentages. Chi square test will be&#xD;
+           used for comparison of percentages in different groups. P value will be considered&#xD;
+           significant if it was less than 0.05.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 29, 2021</start_date>
+  <completion_date type="Anticipated">March 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 20, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of liver function tests abnormalities in Egyptian patients who infected with COVID19 -To evaluate if liver function test abnormalities are related to the severity of the Covid19.</measure>
+    <time_frame>during the period from the start of June 2020 to the end of July 2020</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Risk factors of Liver function test abnormalities</measure>
+    <time_frame>during the period from the start of June 2020 to the end of July 2020</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Liver function test abnormalities among patients with severe and non-severe disease</measure>
+    <time_frame>during the period from the start of June 2020 to the end of July 2020</time_frame>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Liver Function Tests Abnormalities</condition>
+  <arm_group>
+    <arm_group_label>non-severe COVID19</arm_group_label>
+    <description>Patients with mild symptoms (i.e., fever, cough, expectoration, and other upper respiratory tract symptoms), and without abnormalities, or with mild changes on chest radiography, were classified as non-severe types.&#xD;
+A mild change in chest radiography is defined by multiple small patchy shadows and interstitial changes, mainly in the outer zone of the lung and under the pleura.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Severe Covid19</arm_group_label>
+    <description>Severe COVID19 was defined by the presence of any of the following conditions: i) significantly increased respiration rate (RR): RR &gt;-30 times/minute; ii) hypoxia: oxygen saturation (resting state) &lt;-93%; iii) blood gas analysis: partial pressure of oxygen/fraction of inspired oxygen (PaO2) /FiO2) &lt;- 300 mmHg (millimeters of Mercury), or iv) the occurrence of respiratory or another organ failure that require Intensive care unit (ICU) monitoring and treatment, or shock</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No intervention</intervention_name>
+    <description>No intervention</description>
+    <arm_group_label>Severe Covid19</arm_group_label>
+    <arm_group_label>non-severe COVID19</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients who were diagnosed as SARS COVID19 positive. The data will be collected from&#xD;
+        patient records in COVID19 isolation hospitals in Sohag governorate and isolation&#xD;
+        department in Sohag university hospitals during the period from the start of June 2020 to&#xD;
+        the end of July 2020&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients with Covid19 positive PCR.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients with chronic liver diseases as liver cirrhosis, Hbs Ag positive, or patients&#xD;
+        having anti-HCV antibodies positive and HCV RNA positive&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Asmaa Mahmoud, lecturer</last_name>
+    <role>Study Chair</role>
+    <affiliation>Sohag University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mustafa Younis, lecturer</last_name>
+    <role>Study Chair</role>
+    <affiliation>Sohag University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mahmoud Mahmoud, lecturer</last_name>
+    <role>Study Chair</role>
+    <affiliation>Sohag University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mona Mohammed, Lecturer</last_name>
+    <phone>01021025895</phone>
+    <phone_ext>02</phone_ext>
+    <email>monamohamed@med.sohag.edu.eg</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Noha Shafik, lecturer</last_name>
+    <phone>010067261504</phone>
+    <phone_ext>02</phone_ext>
+    <email>Nohasaber@med.sohag.edu.eg</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Mona Mohammed Abdelrhman</name>
+      <address>
+        <city>Sohag</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mona Abdelrhman, lecturer</last_name>
+      <phone>01021025895</phone>
+      <phone_ext>02</phone_ext>
+      <email>monamohamed@med.sohag.edu.eg</email>
+    </contact>
+    <contact_backup>
+      <last_name>Noha Shafik, lecturer</last_name>
+      <phone>01067261504</phone>
+      <phone_ext>02</phone_ext>
+      <email>Nohasaber@med.sohag.edu.eg</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Asmaa Mahmoud, lecturer</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mustafa Younis, lecturer</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mahmoud Mahmoud, lecturer</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <reference>
+    <citation>Lai CC, Shih TP, Ko WC, Tang HJ, Hsueh PR. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and coronavirus disease-2019 (COVID-19): The epidemic and the challenges. Int J Antimicrob Agents. 2020 Mar;55(3):105924. doi: 10.1016/j.ijantimicag.2020.105924. Epub 2020 Feb 17.</citation>
+    <PMID>32081636</PMID>
+  </reference>
+  <reference>
+    <citation>Mao R, Liang J, Shen J, Ghosh S, Zhu LR, Yang H, Wu KC, Chen MH; Chinese Society of IBD, Chinese Elite IBD Union; Chinese IBD Quality Care Evaluation Center Committee. Implications of COVID-19 for patients with pre-existing digestive diseases. Lancet Gastroenterol Hepatol. 2020 May;5(5):425-427. doi: 10.1016/S2468-1253(20)30076-5. Epub 2020 Mar 11. Erratum in: Lancet Gastroenterol Hepatol. 2020 Jul;5(7):e6.</citation>
+    <PMID>32171057</PMID>
+  </reference>
+  <reference>
+    <citation>Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.</citation>
+    <PMID>32007143</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang C, Shi L, Wang FS. Liver injury in COVID-19: management and challenges. Lancet Gastroenterol Hepatol. 2020 May;5(5):428-430. doi: 10.1016/S2468-1253(20)30057-1. Epub 2020 Mar 4.</citation>
+    <PMID>32145190</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sohag University</investigator_affiliation>
+    <investigator_full_name>Mona Mohammed Abdelrhman</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>Liver function tests</keyword>
+  <keyword>Covid19</keyword>
+  <keyword>Severity</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Congenital Abnormalities</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1727">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04544176</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20NS031</org_study_id>
+    <nct_id>NCT04544176</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Risk From Attending Outpatient Radiology Appointments</brief_title>
+  <official_title>Determining the Risk of Developing Symptomatic SARS-COV2-19 Infection After Attending Hospital for Radiological Examinations: a Controlled Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nottingham University Hospitals NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Hospital of Wales</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Nottingham University Hospitals NHS Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      By using recent data on hospital attendance and COVID-19 laboratory tests, available within&#xD;
+      two NHS trusts in Nottingham and Cardiff we will enable the calculation of the risk of&#xD;
+      developing COVID-19 infection after attending an outpatient hospital appointment. This will&#xD;
+      assist in the restart planning when resuming face to face outpatient radiology appointment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Since March 2020, the novel coronavirus (COVID-19) pandemic has caused considerable&#xD;
+      disruption to the provision of routine healthcare in the UK. A key priority for healthcare&#xD;
+      providers when gaining control of COVID-19, is to restart the provision of urgent non-COVID&#xD;
+      care. There are several barriers including a reluctance for people to attend hospital&#xD;
+      appointments for fears of contracting COVID-19. Although SARS-COV2 infections have been&#xD;
+      reported to occur during hospital inpatient stay, the risk of acquiring SARS-COV2 during&#xD;
+      outpatient consultations or radiological investigations has not been reported.&#xD;
+&#xD;
+      In a pilot study at our hospitals during the pandemic, we have found radiology to reliably&#xD;
+      record in person attendance contrary to outpatient clinic appointments records that were&#xD;
+      contaminated by remote consultations. The investigators will calculate the incidence of&#xD;
+      infection in approximately 30,000 patients at Nottingham and 17,000 patients at Cardiff and&#xD;
+      calculate the risk of infection within 28 days of attending outpatient radiology&#xD;
+      appointments. Controls will use data on patients who attended the hospitals in 2019.&#xD;
+&#xD;
+      The study team will utilize the data held in the electronic systems of NUH and University&#xD;
+      Hospital of Wales to perform a cohort study which will comprise both an exposed cohort and&#xD;
+      unexposed cohort.&#xD;
+&#xD;
+      The exposed cohort will comprise patients who attended outpatient radiology appointments&#xD;
+      during (between 29/1/20 - 24/5/20) and whether they subsequently developed a positive or&#xD;
+      negative PCR test for Sars-CoV2 result within 28-days of their attendance. The unexposed&#xD;
+      cohort will work as a control group, comprising individuals who attended outpatient radiology&#xD;
+      appointments during the equivalent period in 2019.&#xD;
+&#xD;
+      All of this data will be retrospective, so will not require any additional data collection,&#xD;
+      nor will it interfere with routine clinical care. Pseudo-anonymised data will be transferred&#xD;
+      from University Hospital of Wales in Cardiff to Nottingham University Hospitals (NUH) Trust&#xD;
+      via a password-protected, encrypted spreadsheet, with original patient identifiers removed,&#xD;
+      and a unique code assigned, that only the researcher in Cardiff can use to trace back to the&#xD;
+      individual, this is so all the analysis can be performed at NUH by a Nottingham based&#xD;
+      statistician.&#xD;
+&#xD;
+      The study team consisting of clinicians, data analysts, epidemiologist and clinical&#xD;
+      researchers will analyse this information to quantify the risk of infection which will help&#xD;
+      inform the recovery plans and service provision during the restart of urgent and routine&#xD;
+      non-COVID care.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2020</start_date>
+  <completion_date type="Actual">January 1, 2021</completion_date>
+  <primary_completion_date type="Actual">June 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>A microbiological diagnosis of COVID infection.</measure>
+    <time_frame>6 months</time_frame>
+    <description>Information will be collected on patients who receive a positive or negative COVID-19 test.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">48000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Exposed Cohort</arm_group_label>
+    <description>This group will include patients attending radiology outpatient appointments in 2020 in our period of interest from the peak of the first wave of the pandemic, who were subsequently tested for SARS-COV2 within 28-days of their attendance.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Unexposed Cohort</arm_group_label>
+    <description>This group will form the control group and comprises all individuals who attended radiological appointments during the same period for each hospital in 2019 but not 2020.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Observational</intervention_name>
+    <description>There will be no interventions in this study, it is purely observational using data already collected.</description>
+    <arm_group_label>Exposed Cohort</arm_group_label>
+    <arm_group_label>Unexposed Cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All individuals attending outpatient clinics will be included for analysis, this is&#xD;
+        anticipated this to be in excess of 30,000 patients at NUH and around 17,000 patients at&#xD;
+        Cardiff. To ensure a substantive number of patients are included for analysis and&#xD;
+        comparison across the UK, 2 large hospitals (Nottingham University Hospitals and Cardiff&#xD;
+        University Hospitals) will be participating in this study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Exposed Cohort: outpatient radiology attendance at NUH between 29/1/20 - 24/5/20 or at&#xD;
+        University Hospital of Wales, Cardiff between 7/3/20 - 11/5/20.&#xD;
+&#xD;
+        Unexposed Cohort: outpatient attendance outpatient attendance at NUH between 29/1/19 -&#xD;
+        24/5/19 or at University Hospital of Wales, Cardiff between 7/3/19 - 11/5/19.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients who had an inpatient stay in the previous 28-days but excluding the 2 days prior&#xD;
+        to the SARS-COV2 test Radiological examinations that were part of an inpatient stay were&#xD;
+        not considered&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nikos Evangelou, FRCP, DPhil (Oxon)</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Nottingham</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Nottingham University Hospitals, NHS Trust</name>
+      <address>
+        <city>Nottingham</city>
+        <state>Nottinghamshire</state>
+        <zip>NG7 2UH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>September 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 10, 2020</study_first_posted>
+  <last_update_submitted>February 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Radiology</keyword>
+  <keyword>Outpatient</keyword>
+  <keyword>Hospital</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

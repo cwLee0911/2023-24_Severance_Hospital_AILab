@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1165">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04827160</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020308</org_study_id>
+    <nct_id>NCT04827160</nct_id>
+  </id_info>
+  <brief_title>Prediction of Thrombosis Using D-dimer Trends in COVID-19</brief_title>
+  <acronym>TRENDS</acronym>
+  <official_title>Predictive Value of D-dimers Trends and Levels for Thrombosis in Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Central Hospital, Nancy, France</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Central Hospital, Nancy, France</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A high incidence of venous thromboembolic events (VTE) has been demonstrated in COVID-19.&#xD;
+      This incidence correlates with disease severity. Activation of coagulation secondary to&#xD;
+      sepsis combined with classical thrombotic risk factors may contribute to this prothrombotic&#xD;
+      state. Since the beginning of March 2020, the issue of venous thrombosis during SARS-CoV-2&#xD;
+      infection has rapidly emerged as a major medical challenge since a significant rate of&#xD;
+      patients were thrombosing, some of them in spite of a well conducted preventive&#xD;
+      anticoagulation. Although D-dimers have been shown to be useful in identifying patients at&#xD;
+      risk of severe COVID-19 and even mortality, they cannot be used for diagnostic exclusion of&#xD;
+      pulmonary embolism. Indeed, since D-dimer levels rise non-specifically during infectious&#xD;
+      states, the exclusion threshold of 500 ng/ml cannot be used.&#xD;
+&#xD;
+      It would therefore be useful to study the predictive value of D-dimers for thrombosis in&#xD;
+      COVID-19 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary outcome : Characterize different D-dimer trends in COVID-19 patients.&#xD;
+&#xD;
+      Secondary outcomes :&#xD;
+&#xD;
+        -  Identify the predictive value of different D-dimers trends for thrombosis / all-cause&#xD;
+           mortality / orotracheal intubation during hospitalization&#xD;
+&#xD;
+        -  Identify the predictive value of D-dimers at admission for thrombosis / all-cause&#xD;
+           mortality / orotracheal intubation during hospitalization&#xD;
+&#xD;
+        -  Identify the predictive value of 1st D-dimer/fibrinogen ratio for thrombosis / all-cause&#xD;
+           mortality / orotracheal intubation during hospitalization&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 2, 2020</start_date>
+  <completion_date type="Actual">August 11, 2020</completion_date>
+  <primary_completion_date type="Actual">August 11, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>D-dimer trends</measure>
+    <time_frame>From date of admission until the date of first documented thrombosis or date of death from any cause, or date of intubation whichever came first, assessed up to 1 month</time_frame>
+    <description>Modifications of D-dimers overtime during the hospitalization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Thrombosis</measure>
+    <time_frame>From date of admission until the date of first documented thrombosis or date of death from any cause, or date of intubation whichever came first, assessed up to 1 month</time_frame>
+    <description>Arterial or venous thrombosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>From date of admission until the date of first documented thrombosis or date of death from any cause, or date of intubation whichever came first, assessed up to 1 month</time_frame>
+    <description>All-cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Orotracheal intubation</measure>
+    <time_frame>From date of admission until the date of first documented thrombosis or date of death from any cause, or date of intubation whichever came first, assessed up to 1 month</time_frame>
+    <description>Orotracheal intubation</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">280</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVID-19</arm_group_label>
+    <description>Patients with COVID-19</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients admitted at Nancy University Hospital for SARS-CoV-2 infection and with at least&#xD;
+        one D-dimer result from February 24, 2020 to May 12, 2020.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: Positive SARS-CoV-2 PCR and at least one D-dimer result&#xD;
+&#xD;
+        Non inclusion Criteria: Below 18 yo&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>CHRU Nancy</name>
+      <address>
+        <city>Nancy</city>
+        <zip>54000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Central Hospital, Nancy, France</investigator_affiliation>
+    <investigator_full_name>Stéphane Zuily</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Thrombosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

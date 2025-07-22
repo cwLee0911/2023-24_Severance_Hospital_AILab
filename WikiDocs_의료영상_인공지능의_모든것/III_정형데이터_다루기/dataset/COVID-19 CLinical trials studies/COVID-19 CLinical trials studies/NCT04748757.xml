@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4185">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04748757</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REDA-10122</org_study_id>
+    <nct_id>NCT04748757</nct_id>
+  </id_info>
+  <brief_title>Annexin A5 in Patients With Severe COVID-19 Disease</brief_title>
+  <acronym>AX-COVID</acronym>
+  <official_title>Annexin A5 in Patients With Severe COVID-19 Disease: A Single Centre, Randomized, Double-blind, Placebo-controlled Pilot Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lawson Health Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ontario Ministry of Colleges and Universities</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>London Health Sciences Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Lawson Health Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Randomized, double-blind, placebo-controlled trial comparing 2 doses of SY-005 (recombinant&#xD;
+      human Annexin A5) to placebo in patients with severe coronavirus 2019 disease in a single&#xD;
+      hospital centre with 2 intensive care units&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Enrollment</measure>
+    <time_frame>12 months</time_frame>
+    <description>Participants enrolled per site per month with success defined as enrollment &gt;= 50% of screened eligible patients</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Protocol adherence</measure>
+    <time_frame>7 days</time_frame>
+    <description>Delivery of investigational product within 1 hour of scheduled dose; success defined as &gt;= 90%</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Data completeness</measure>
+    <time_frame>12 months</time_frame>
+    <description>Case Report Forms completed with &lt;10% missing data after verification and monitoring</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Organ failure</measure>
+    <time_frame>30 days</time_frame>
+    <description>Sequential Organ Failure Assessment (SOFA) at 30 days; range 0 (normal) to 24</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Organ function at end of treatment measured with SOFA</measure>
+    <time_frame>7 days</time_frame>
+    <description>SOFA at end of treatment (EOT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Organ function at end of treatment measured with Multiple Organ Dysfunction Score (MODS)</measure>
+    <time_frame>7 days</time_frame>
+    <description>MODS at end of treatment (EOT); range 0 (normal) to 24</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Individual organ function scores at EOT measured with SOFA</measure>
+    <time_frame>30 days</time_frame>
+    <description>SOFA for individual organ systems</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Individual organ function scores at 30 days measured with SOFA</measure>
+    <time_frame>30 days</time_frame>
+    <description>SOFA for individual organ systems</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Individual organ function scores at EOT measured with MODS</measure>
+    <time_frame>30 days</time_frame>
+    <description>MODS for individual organ systems</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Individual organ function scores at 30 days measured with MODS</measure>
+    <time_frame>30 days</time_frame>
+    <description>MODS for individual organ systems</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma annexin A5 levels daily days 1-8 (treatment period) and on day 14</measure>
+    <time_frame>14 days</time_frame>
+    <description>Annexin A5 will be measured daily during treatment and on day 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality at 60 days</measure>
+    <time_frame>60 days</time_frame>
+    <description>All cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital mortality</measure>
+    <time_frame>60 days</time_frame>
+    <description>Hospital mortality censored at 60 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-free days</measure>
+    <time_frame>30 days</time_frame>
+    <description>Days alive and off ventilator at 30 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU-free days</measure>
+    <time_frame>30 days</time_frame>
+    <description>Days alive and not in ICU at 30 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with persistent organ dysfunction</measure>
+    <time_frame>30 days</time_frame>
+    <description>MODS score greater or equal to 2 in any organ system at day 30</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of serious adverse events (SAE)</measure>
+    <time_frame>60 days</time_frame>
+    <description>SAE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum plasma concentration (Cmax) of annexin A5 (SY-005)</measure>
+    <time_frame>1 day</time_frame>
+    <description>Pharmacokinetic profile on day 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elimination half-life of annexin A5 (SY-005)</measure>
+    <time_frame>1 day</time_frame>
+    <description>Pharmacokinetic profile on day 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with anti-annexin A5 antibodies</measure>
+    <time_frame>21 days</time_frame>
+    <description>Anti-annexin A5 antibodies</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Coronavirus Infection</condition>
+  <condition>Sepsis</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Normal saline, 50 ml infusion over 30 minutes every 12 hours for 7 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>50 microg/kg SY-005 in 50 ml saline infused over 30 minutes every 12 hours for 7 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 microg/kg SY-005 in 50 ml saline infused over 30 minutes every 12 hours for 7 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>recombinant human annexin A5</intervention_name>
+    <description>recombinant human annexin A5, manufactured as SY-005</description>
+    <arm_group_label>High dose</arm_group_label>
+    <arm_group_label>Low dose</arm_group_label>
+    <other_name>SY-005</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Normal saline 50 ml</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥ 19 years&#xD;
+&#xD;
+          2. Positive test for SARS-CoV-2 virus (anytime during current illness episode)&#xD;
+&#xD;
+          3. Admitted to intensive care for organ failure support (at least one of vasopressor,&#xD;
+             non-invasive or invasive ventilation)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Known allergy to any of the ingredients or components of the investigational product&#xD;
+&#xD;
+          2. Known pregnancy&#xD;
+&#xD;
+          3. Moribund and not expected to survive beyond 24 hours&#xD;
+&#xD;
+          4. Known or suspected risk for serious bleeding complications (note that Disseminated&#xD;
+             Intravascular Coagulopathy (DIC) is an expected finding in patient with sepsis and&#xD;
+             COVID-19 disease and is not an exclusion criterion on its own)&#xD;
+&#xD;
+          5. Acute or chronic renal failure (dialysis dependent)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Claudio Martin, MD, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Lawson Health Research Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Eileen Campbell</last_name>
+    <phone>5196858090</phone>
+    <email>eileen.campbell@lhsc.on.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>London Health Sciences Centre</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 5W9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Eileen Campbell</last_name>
+      <phone>519-685-8500</phone>
+      <phone_ext>55664</phone_ext>
+      <email>eileen.campbell@lhsc.on.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Claudio Martin, MD, MSc</last_name>
+      <phone>519-685-8500</phone>
+      <phone_ext>58090</phone_ext>
+      <email>cmartin1@uwo.ca</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 10, 2021</study_first_posted>
+  <last_update_submitted>February 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Annexin A5</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Information and data sharing will be considered on individual basis at conclusion of the study.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>To be evaluated on individual basis</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

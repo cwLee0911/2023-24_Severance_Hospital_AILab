@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3948">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04816643</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C4591007</org_study_id>
+    <secondary_id>2020-005442-42</secondary_id>
+    <nct_id>NCT04816643</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Safety, Tolerability, and Immunogenicity of an RNA Vaccine Candidate Against COVID-19 in Healthy Children &lt;12 Years of Age</brief_title>
+  <official_title>A PHASE 1, OPEN-LABEL DOSE-FINDING STUDY TO EVALUATE SAFETY, TOLERABILITY, AND IMMUNOGENICITY AND PHASE 2/3 PLACEBO-CONTROLLED, OBSERVER-BLINDED SAFETY, TOLERABILITY, AND IMMUNOGENICITY STUDY OF A SARS-COV-2 RNA VACCINE CANDIDATE AGAINST COVID-19 IN HEALTHY CHILDREN &lt;12 YEARS OF AGE</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioNTech SE</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>BioNTech SE</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 1/2/3 study in healthy children &lt;12 years of age.&#xD;
+&#xD;
+      Dependent upon safety and/or immunogenicity data generated during the course of this study,&#xD;
+      and the resulting assessment of benefit-risk, the safety, tolerability, and immunogenicity of&#xD;
+      BNT162b2 in participants &lt;6 months of age may subsequently be evaluated.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Phase 1 is the open-label dose-finding portion of the study to evaluate safety, tolerability,&#xD;
+      and immunogenicity of BNT162b2 on a 2-dose (separated by approximately 21 days) schedule in&#xD;
+      up to 3 age groups (participants ≥5 to &lt;12 years, ≥2 to &lt;5 years, and ≥6 months to &lt;2 years&#xD;
+      of age). Dose finding is being initiated in this study in participants ≥5 to &lt;12 years of age&#xD;
+      based on the acceptable blinded safety assessment of the 30-μg dose in 12- to 15-year-olds in&#xD;
+      the C4591001 study.&#xD;
+&#xD;
+      The purpose of Phase 1 is to identify preferred dose level(s) of BNT162b2 from up to 3&#xD;
+      different dose levels in each age group.&#xD;
+&#xD;
+      Phase 2/3 will evaluate the safety, tolerability, and immunogenicity in each age group at the&#xD;
+      selected dose level from Phase 1. Efficacy will be evaluated across all age groups in which&#xD;
+      immunobridging is successful, depending on accrual of a sufficient number of cases across&#xD;
+      those age groups.&#xD;
+&#xD;
+      All participants will have blood drawn at baseline prior to Dose 1 and 6 months after Dose 2.&#xD;
+      Immunobridging to participants 16 to 25 years of age in the C4591001 study will be based on&#xD;
+      immunogenicity data collected at baseline and 1 month after Dose 2. The persistence of the&#xD;
+      immune response will be based on immunogenicity data collected in participants at baseline&#xD;
+      and at 1, 6, 12 (original BNT162b2 group only), and 24 months after Dose 2 (original BNT162b2&#xD;
+      group only). In addition, efficacy against confirmed COVID-19 and against asymptomatic&#xD;
+      infection will also be assessed.&#xD;
+&#xD;
+      At the 6-month follow-up visit, all participants will be unblinded. Participants who&#xD;
+      originally received placebo will be offered the opportunity to receive BNT162b2 as part of&#xD;
+      the study.&#xD;
+&#xD;
+      Approximately 450 participants (300 in the active vaccine group and 150 in the placebo group)&#xD;
+      randomized in each age group in this phase will contribute to the immunobridging analysis at&#xD;
+      1 month after Dose 2 and will contribute to the overall analysis of the persistence of immune&#xD;
+      response at 6 months after Dose 2. These participants will be enrolled from both US and EU&#xD;
+      sites to ensure this subset is representative of the whole study.&#xD;
+&#xD;
+      For the persistence time points of 12 and 24 months after Dose 2, approximately 70&#xD;
+      participants from each age group in the original BNT162b2 vaccine group will have an&#xD;
+      immunogenicity blood draw in order to contribute to the analysis. All approximately 4500&#xD;
+      participants will contribute to the VE analysis for conditional VE and asymptomatic&#xD;
+      infection. Efficacy will be evaluated across all age groups in which immunobridging is&#xD;
+      successful, depending on accrual of a sufficient number of cases across those age groups.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 24, 2021</start_date>
+  <completion_date type="Anticipated">August 29, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of participants in Phase 1 reporting local reaction in each dose level in each age group</measure>
+    <time_frame>for 7 days after Dose 1 and Dose 2</time_frame>
+    <description>For participants in ≥5 to &lt;12 years and ≥2 to &lt;5 years of age:&#xD;
+Pain at the injection site, redness and swelling as reported on electronic diaries.&#xD;
+For participants in ≥6 months to &lt;2 years of age:&#xD;
+Tenderness at the injection site, redness, and swelling as reported on electronic diaries</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants in Phase 1 reporting systemic events in each dose level in each age group</measure>
+    <time_frame>for 7 days after Dose 1 and Dose 2</time_frame>
+    <description>For participants ≥5 to &lt;12 years and ≥2 to &lt;5 years of age Fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened join pain as reported on electronic diaries&#xD;
+For Participants ≥6 months to &lt;2 years of age Fever, decreased appetite drowsiness, and irritability as reported on electronic diaries</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants in Phase 1 reporting adverse events in each dose level in each age group</measure>
+    <time_frame>from Dose 1 through 1 month after the last dose</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants in Phase 1 reporting serious adverse events in each dose level in each age group</measure>
+    <time_frame>from Dose 1 through 6 months after the last dose</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants in Phase 2/3 reporting local reaction in each dose level in each age group</measure>
+    <time_frame>for 7 days after Dose 1 and Dose 2</time_frame>
+    <description>For participants in ≥5 to &lt;12 years and ≥2 to &lt;5 years of age:&#xD;
+Pain at the injection site, redness and swelling as reported on electronic diaries.&#xD;
+For participants in ≥6 months to &lt;2 years of age:&#xD;
+Tenderness at the injection site, redness, and swelling as reported on electronic diaries</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants in Phase 2/3 reporting systemic events in each dose level in each age group</measure>
+    <time_frame>for 7 days after Dose 1 and Dose 2</time_frame>
+    <description>For participants in ≥5 to &lt;12 years and ≥2 to &lt;5 years of age: fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain as reported on electronic diaries.&#xD;
+For participants in ≥6 months to &lt;2 years of age:&#xD;
+Fever, decreased appetite, drowsiness, and irritability as reported on electronic diaries</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants in Phase 2/3 reporting adverse events in each dose level in each age group</measure>
+    <time_frame>from Dose 1 through 1 month after the last dose</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants in Phase 2/3 reporting serious adverse events in each dose level in each age group</measure>
+    <time_frame>from Dose 1 through 6 months after the last dose</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>In Phase 2/3 participants, Geometric Mean Ratio of SARS-CoV-2 neutralizing titers in participants in each age group at selected dose level to those 16 to 25 years of age in study C4591001</measure>
+    <time_frame>1 month after the second dose</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>In Phase 1 participants in each age group at each dose level, Geometric Mean Titers of SARS-CoV-2 serum neutralizing antibody titers</measure>
+    <time_frame>Through 7 days after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In Phase 1 participants in each age group at each dose level, Geometric Mean Fold Ratio in SARS-CoV-2 serum neutralizing antibody titers from before vaccination to each subsequent time point</measure>
+    <time_frame>Up to 7 days after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In evaluable Phase 2/3 participants at selected dose level in each age group, Geometric Mean Titers of SARS-CoV-2 neutralizing titers with no serological or virological evidence of past SARS-CoV-2 infection</measure>
+    <time_frame>At baseline, and at 1, 6, 12(participants who originally received BNT162b2) and 24 months(participants who originally received BNT162b2) after dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In evaluable Phase 2/3 participants at selected dose level in each age group, Geometric Mean Fold Ratio in SARS-CoV-2 serum neutralizing titer from before vaccination to each subsequent time point</measure>
+    <time_frame>from before Dose 1 and at 1, 6, 12(participants who originally received BNT162b2) and 24 months(participants who originally received BNT162b2) after dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ratio of confirmed COVID-19 illness, in all age groups of Phase 2/3 participants without evidence of prior SARS-CoV-2 infection for the active vaccine group to the placebo group</measure>
+    <time_frame>from 7 days after the second dose</time_frame>
+    <description>Per 1001 person-years of follow-up if at least 22 cases are accrued across the age group</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ratio of confirmed COVID-19 illness, in all age groups of Phase 2/3 participants with and without evidence of prior SARS-CoV-2 infection for the active vaccine group to the placebo group</measure>
+    <time_frame>from 7 days after the second dose</time_frame>
+    <description>Per 1001 person-years of follow-up if at least 22 cases are accrued across the age group</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In the evaluable Phase 2/3 participants, Ratio of incidence of asymptomatic SARS-CoV-2 infection based on N-binding antibody seroconversion for the active vaccine group to the placebo group without evidence of past SARS-CoV-2 infection</measure>
+    <time_frame>Through 6 months after the second dose</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Anticipated">4644</enrollment>
+  <condition>SARS-CoV-2 Infection, COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Low-Dose, ≥5 to &lt;12 Years old</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Low-Dose (10mcg), 2 doses 21 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mid-Dose, ≥5 to &lt;12 Years old</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Mid-Dose, (20mcg), 2 doses 21 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-Dose, ≥5 to &lt;12 Years old</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High-Dose (30mcg), 2 doses 21 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-Dose, ≥2 to &lt; 5 Years old</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Low Dose (10mcg), 2 doses 21 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mid-Dose, ≥2 to &lt;5 Years old</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Mid-Dose, (20mcg), 2 doses 21 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-Dose, ≥2 to &lt;5 Years old</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High-Dose, (30mcg), 2 doses 21 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-Dose, ≥6 Months to &lt;2 years old</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Low-Dose, (10mcg), doses 21 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mid-Dose, ≥6 Months to &lt;2 years old</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Mid-Dose, (20mcg), doses 21 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-Dose, ≥6 Months to &lt;2 years old</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High-Dose, (30mcg), 2 doses 21 days apart</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Biological/Vaccine: BNT162b2 10mcg</intervention_name>
+    <description>BNT162b2 Low-Dose (10mcg) level</description>
+    <arm_group_label>Low-Dose, ≥2 to &lt; 5 Years old</arm_group_label>
+    <arm_group_label>Low-Dose, ≥5 to &lt;12 Years old</arm_group_label>
+    <arm_group_label>Low-Dose, ≥6 Months to &lt;2 years old</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b2 20mcg</intervention_name>
+    <description>BNT162b2 Mid-Dose (20mcg) level</description>
+    <arm_group_label>Mid-Dose, ≥2 to &lt;5 Years old</arm_group_label>
+    <arm_group_label>Mid-Dose, ≥5 to &lt;12 Years old</arm_group_label>
+    <arm_group_label>Mid-Dose, ≥6 Months to &lt;2 years old</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b2 30mcg</intervention_name>
+    <description>BNT162b2 High-Dose (30mcg) level</description>
+    <arm_group_label>High-Dose, ≥2 to &lt;5 Years old</arm_group_label>
+    <arm_group_label>High-Dose, ≥5 to &lt;12 Years old</arm_group_label>
+    <arm_group_label>High-Dose, ≥6 Months to &lt;2 years old</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female participants ≥6 months to &lt;12 years of age, at the time of&#xD;
+             randomization, at Visit 1.&#xD;
+&#xD;
+          -  Participants' parent(s)/legal guardian(s) and participants, as age appropriate, who&#xD;
+             are willing and able to comply with all scheduled visits, treatment plan, laboratory&#xD;
+             tests, lifestyle considerations, and other study procedures.&#xD;
+&#xD;
+          -  Healthy participants who are determined by medical history, physical examination, and&#xD;
+             clinical judgment of the investigator to be eligible for inclusion in the study.&#xD;
+&#xD;
+          -  Participants are expected to be available for the duration of the study and whose&#xD;
+&#xD;
+          -  parent(s)/legal guardian can be contacted by telephone during study participation.&#xD;
+&#xD;
+          -  Negative urine pregnancy test for female participants who are biologically capable of&#xD;
+             having children.&#xD;
+&#xD;
+          -  Female participant of childbearing potential or male participant able to father&#xD;
+             children who is willing to use a highly effective method of contraception as outlined&#xD;
+             in this protocol for at least 28 days after the last dose of study intervention if at&#xD;
+             risk of pregnancy with her/his partner; or female participant not of childbearing&#xD;
+             potential or male participant not able to father children.&#xD;
+&#xD;
+          -  The participant's parent(s)/legal guardian is capable of giving signed informed&#xD;
+             consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Phase 1 only: Past clinical (based on COVID-19 symptoms/signs alone, if a&#xD;
+&#xD;
+          -  SARS-CoV-2 NAAT result was not available) or microbiological (based on COVID-19&#xD;
+             symptoms/signs and a positive SARS-CoV-2 NAAT result) diagnosis of COVID-19.&#xD;
+&#xD;
+          -  Phase 1 only: Known infection with HIV, HCV, or HBV.&#xD;
+&#xD;
+          -  Receipt of medications intended to prevent COVID-19.&#xD;
+&#xD;
+          -  Previous or current diagnosis of MIS-C.&#xD;
+&#xD;
+          -  Other medical or psychiatric condition including recent (within the past year) or&#xD;
+             active suicidal ideation/behavior or laboratory abnormality that may increase the risk&#xD;
+             of study participation or, in the investigator's judgment, make the participant&#xD;
+             inappropriate for the study.&#xD;
+&#xD;
+          -  History of severe adverse reaction associated with a vaccine and/or severe allergic&#xD;
+             reaction (eg, anaphylaxis) to any component of the study intervention(s).&#xD;
+&#xD;
+          -  Immunocompromised individuals with known or suspected immunodeficiency, as determined&#xD;
+             by history and/or laboratory/physical examination.&#xD;
+&#xD;
+          -  Individuals with a history of autoimmune disease or an active autoimmune disease&#xD;
+             requiring therapeutic intervention, including but not limited to systemic lupus&#xD;
+             erythematosus.&#xD;
+&#xD;
+          -  Bleeding diathesis or condition associated with prolonged bleeding that would, in the&#xD;
+             opinion of the investigator, contraindicate intramuscular injection.&#xD;
+&#xD;
+          -  Female who is pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Previous vaccination with any coronavirus vaccine.&#xD;
+&#xD;
+          -  Individuals who receive treatment with immunosuppressive therapy, including cytotoxic&#xD;
+             agents or systemic corticosteroids, eg, for cancer or an autoimmune disease, or&#xD;
+             planned receipt throughout the study. If systemic corticosteroids have been&#xD;
+             administered short term (&lt;14 days) for treatment of an acute illness, participants&#xD;
+             should not be enrolled into the study until corticosteroid therapy has been&#xD;
+             discontinued for at least 28 days before study intervention administration.&#xD;
+             Inhaled/nebulized, intra-articular, intrabursal, or topical (skin or eyes)&#xD;
+             corticosteroids are permitted.&#xD;
+&#xD;
+          -  Receipt of blood/plasma products, immunoglobulin, or monoclonal antibodies, from 60&#xD;
+             days before study intervention administration, or receipt of any passive antibody&#xD;
+             therapy specific to COVID-19 from 90 days before study intervention administration, or&#xD;
+             planned receipt throughout the study.&#xD;
+&#xD;
+          -  Participation in other studies involving study intervention within 28 days prior to&#xD;
+             study entry and/or during study participation.&#xD;
+&#xD;
+          -  Previous participation in other studies involving study intervention containing LNPs.&#xD;
+&#xD;
+          -  Participants who are direct descendants (child or grandchild) of investigational site&#xD;
+             staff members or Pfizer/BioNTech employees directly involved in the conduct of the&#xD;
+             study, site staff otherwise supervised by the investigator, and their respective&#xD;
+             family members.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Months</minimum_age>
+    <maximum_age>11 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+    <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Center for Immunization Research Inpatient Unit</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Medical Center Investigational Pharmacy</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Pickett Road</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Vaccine and Trials Unit</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Accessioning Unit and Repository</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Investigational Drug Service Pharmacy</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Childrens Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Childrens Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Senders Pediatrics</name>
+      <address>
+        <city>South Euclid</city>
+        <state>Ohio</state>
+        <zip>44121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=C4591007</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 25, 2021</study_first_posted>
+  <last_update_submitted>April 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronavirus Vaccine</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>RNA Vaccine</keyword>
+  <keyword>mRNA Vaccine</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

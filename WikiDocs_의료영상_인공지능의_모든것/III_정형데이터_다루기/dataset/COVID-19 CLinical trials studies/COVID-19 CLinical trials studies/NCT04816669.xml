@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3120">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04816669</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C4591020</org_study_id>
+    <nct_id>NCT04816669</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Safety, Tolerability, and Immunogenicity of a Lyophilized Formulation of BNT162b2 Against COVID-19 in Healthy Adults</brief_title>
+  <official_title>A PHASE 3, RANDOMIZED, OBSERVER-BLIND STUDY TO EVALUATE THE SAFETY, TOLERABILITY, AND IMMUNOGENICITY OF A LYOPHILIZED FORMULATION OF THE VACCINE CANDIDATE BNT162b2 AGAINST COVID-19 IN HEALTHY ADULTS 18 THROUGH 55 YEARS OF AGE</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioNTech SE</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>BioNTech SE</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase 3 study will evaluate the safety and tolerability of lyophilized BNT162b2&#xD;
+      presented in single-dose vials and of frozen liquid BNT162b2 in multidose vials and&#xD;
+      demonstrate that the immune response of the lyophilized formulation is noninferior:&#xD;
+&#xD;
+        -  As a 2-dose schedule (separated by 21 days)&#xD;
+&#xD;
+        -  At a dose of 30µg (as studied in the Phase 2/3 study C4591001)&#xD;
+&#xD;
+        -  In healthy adults 18 through 55 years of age&#xD;
+&#xD;
+        -  The duration of the study for each participant will be approximately 2 months (3 visits&#xD;
+           in total)&#xD;
+&#xD;
+        -  The study will be conducted in the United States&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2021</start_date>
+  <completion_date type="Anticipated">May 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Geometric mean ratio from lyophilized BNT162b2 in single-dose vials is noninferior to frozen-liquid BNT162b2 in MDVs in participants without evidence of SARS-CoV-2 infection</measure>
+    <time_frame>1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting local reactions</measure>
+    <time_frame>For 7 days after Dose 1 and Dose 2</time_frame>
+    <description>Pain at the injection site, redness, and swelling, as self-reported in electronic diaries</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting systemic events</measure>
+    <time_frame>For 7 days after Dose 1 and Dose 2</time_frame>
+    <description>Fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain, as self-reported in electronic diaries</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting adverse events</measure>
+    <time_frame>From Dose 1 through 1 month after Dose 2</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting serious adverse events</measure>
+    <time_frame>From Dose 1 through 1 month after Dose 2</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Geometric mean ratio from lyophilized BNT162b2 in MDVs is noninferior to frozen-liquid BNT162b2 in MDVs in participants without evidence of SARS-CoV-2 infection</measure>
+    <time_frame>1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean concentration of SARS-CoV-2 full-length S-binding antibody levels in participants vaccinated with BNT162b2</measure>
+    <time_frame>At baseline (before Dose 1) and at 1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean fold rise of SARS-CoV-2 full-length S-binding antibody levels in participants vaccinated with BNT162b2</measure>
+    <time_frame>From baseline (before Dose 1) to 1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">550</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Lyophilized SDV</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Frozen liquid MDV (control for lyo SDV)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Control for lyophilized SDV</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lyophilized MDV</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Frozen liquid MDV (control for lyo MDV)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Control for lyophilized MDV</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b2</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Frozen liquid MDV (control for lyo MDV)</arm_group_label>
+    <arm_group_label>Frozen liquid MDV (control for lyo SDV)</arm_group_label>
+    <arm_group_label>Lyophilized MDV</arm_group_label>
+    <arm_group_label>Lyophilized SDV</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female participants 18 - 55 years of age, inclusive, at Visit 1, (Day 1).&#xD;
+&#xD;
+          -  Participants who are willing and able to comply with all scheduled visits, treatment&#xD;
+             plan, laboratory tests, lifestyle considerations, and other study procedures.&#xD;
+&#xD;
+          -  Healthy participants who are determined by medical history, physical examination (if&#xD;
+             required), and clinical judgment of the investigator to be eligible for inclusion in&#xD;
+             the study. Note: Healthy participants with pre-existing stable disease, defined as&#xD;
+             disease not requiring significant change in therapy or hospitalization for worsening&#xD;
+             disease during the 6 weeks before enrolment, can be included.&#xD;
+&#xD;
+          -  Capable of giving personal signed informed consent, which includes compliance with the&#xD;
+             requirements and restrictions listed in the ICD and in the protocol.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Other medical or psychiatric condition including recent (within the past year) or&#xD;
+             active suicidal ideation/behavior or laboratory abnormality that may increase the risk&#xD;
+             of study participation or, in the investigator's judgment, make the participant&#xD;
+             inappropriate for the study.&#xD;
+&#xD;
+          -  Known infection with HIV, HCV, or HBV.&#xD;
+&#xD;
+          -  History of severe adverse reaction associated with a vaccine and/or severe allergic&#xD;
+             reaction (eg, anaphylaxis) to any component of the study intervention(s).&#xD;
+&#xD;
+          -  Previous clinical (based on COVID-19 symptoms/signs alone, if a SARS-CoV-2 NAAT result&#xD;
+             was not available) or microbiological (based on COVID-19 symptoms/signs and a positive&#xD;
+             SARS-CoV-2 NAAT result) diagnosis of COVID-19.&#xD;
+&#xD;
+          -  Immunocompromised individuals with known or suspected immunodeficiency, as determined&#xD;
+             by history and/or laboratory/physical examination.&#xD;
+&#xD;
+          -  Bleeding diathesis or condition associated with prolonged bleeding that would, in the&#xD;
+             opinion of the investigator, contraindicate intramuscular injection.&#xD;
+&#xD;
+          -  Women who are pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Previous vaccination with any coronavirus vaccine.&#xD;
+&#xD;
+          -  Receipt of medications intended to prevent COVID-19.&#xD;
+&#xD;
+          -  Individuals who receive treatment with radiotherapy or immunosuppressive therapy,&#xD;
+             including cytotoxic agents or systemic corticosteroids (if systemic corticosteroids&#xD;
+             are administered for ≥14 days at a dose of ≥20 mg/day of prednisone or equivalent),&#xD;
+             eg, for cancer or an autoimmune disease, or planned receipt throughout the study.&#xD;
+             Inhaled/nebulized, intra-articular, intrabursal, or topical (skin or eyes)&#xD;
+             corticosteroids are permitted.&#xD;
+&#xD;
+          -  Receipt of blood/plasma products or immunoglobulin, from 60 days before study&#xD;
+             intervention administration or planned receipt throughout the study.&#xD;
+&#xD;
+          -  Participation in other studies involving study intervention within 28 days prior to&#xD;
+             study entry and/or during study participation / Previous participation in other&#xD;
+             studies involving study intervention containing lipid nanoparticles (LNPs).&#xD;
+&#xD;
+          -  Previous participation in other studies involving study intervention containing lipid&#xD;
+             nanoparticles.&#xD;
+&#xD;
+          -  Investigator site staff or Pfizer/BioNTech employees directly involved in the conduct&#xD;
+             of the study, site staff otherwise supervised by the investigator, and their&#xD;
+             respective family members.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+    <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Anaheim Clinical Trials, LLC</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Diablo Clinical Research, Inc.</name>
+      <address>
+        <city>Walnut Creek</city>
+        <state>California</state>
+        <zip>94598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Indago Research &amp; Health Center, Inc</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Centers of America ( Hollywood )</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Neuroscience Solutions, Inc. dba CNS Healthcare</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Neuroscience Solutions</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Atlanta</name>
+      <address>
+        <city>Stockbridge</city>
+        <state>Georgia</state>
+        <zip>30281</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>East-West Medical Research Institute</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96814</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Solaris Clinical Research</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83646</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kentucky Pediatric/ Adult Research</name>
+      <address>
+        <city>Bardstown</city>
+        <state>Kentucky</state>
+        <zip>40004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research, LLC</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Amici Clinical Research LLC</name>
+      <address>
+        <city>Raritan</city>
+        <state>New Jersey</state>
+        <zip>08869</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PMG Research of Wilmington, LLC</name>
+      <address>
+        <city>Wilmington</city>
+        <state>North Carolina</state>
+        <zip>28401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aventiv Research Inc</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Benchmark Research</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Medical Branch</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77555</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Center For Drug Development, Inc.</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DM Clinical Research (Administrative and Storage Office only)</name>
+      <address>
+        <city>Tomball</city>
+        <state>Texas</state>
+        <zip>77375</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Martin Diagnostic Clinic</name>
+      <address>
+        <city>Tomball</city>
+        <state>Texas</state>
+        <zip>77375</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>J. Lewis Research, Inc. / Foothill Family Clinic</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>J. Lewis Research, Inc. / Foothill Family Clinic South</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=C4591020</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 25, 2021</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Vaccine</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>RNA Vaccine</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+    <ipd_url>https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5143">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04816708</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00107657</org_study_id>
+    <nct_id>NCT04816708</nct_id>
+  </id_info>
+  <brief_title>A Self-directed Mobile Mindfulness Intervention to Address Distress and Burnout in Frontline Healthcare Workers</brief_title>
+  <acronym>LIFT-HCW</acronym>
+  <official_title>A Self-directed Mobile Mindfulness Intervention to Address Distress and Burnout in Frontline Healthcare Workers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a pilot randomized waitlist control trial assessing if the feasibility of using a&#xD;
+      mobile mindfulness app to treat emotional distress and burnout amongst nurses taking care of&#xD;
+      COVID-19 patients. This trial will tell us if we can disseminate the intervention to a large&#xD;
+      number of nurses in a short time period, and if the intervention has evidence of a clinical&#xD;
+      impact.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Emotional distress and burnout are common among health care workers, particularly among&#xD;
+      nurses. These burdens have been worsened due to the COVID-19 pandemic's imposition of&#xD;
+      substantial physical and psychological stressors as well as persistent worry about personal&#xD;
+      health. There are few effective therapies for healthcare workers' symptoms of distress, fewer&#xD;
+      still that can be easily scaled, and most require face-to-face contact which is discouraged&#xD;
+      during a pandemic.&#xD;
+&#xD;
+      Mindfulness is a type of mind-body therapy that promotes a practice of non-judgmental&#xD;
+      awareness that can alleviate distress by uncoupling emotional reactions and habitual behavior&#xD;
+      from unpleasant symptoms, thoughts, and emotions. LIFT is a mobile mindfulness app which can&#xD;
+      assess levels of emotional distress via survey, and subsequently offer mindfulness content.&#xD;
+&#xD;
+      To address the unmet needs of frontline nurses, we propose the LIFT-Healthcare Worker pilot&#xD;
+      randomized control trial (RCT). We will explore the feasibility and impact of the LIFT mobile&#xD;
+      app in relieving symptoms of emotional distress among nurses directly caring for COVID-19&#xD;
+      patients in the Duke University Health System.&#xD;
+&#xD;
+      We aim to enroll up to 200 participants. After signing consent, participants will be&#xD;
+      randomized via the LIFT app in a 2:1 (intervention:control) fashion into two arms:&#xD;
+&#xD;
+        1. Arm 1: Intervention group (access to LIFT mindfulness app)&#xD;
+&#xD;
+        2. Arm 2: Control waitlist group (delayed access to LIFT app)&#xD;
+&#xD;
+      AIM 1, which is to determine the feasibility of using the LIFT app among nurses directly&#xD;
+      caring for COVID-19 patients, will be assessed via the app which tracks user fidelity and&#xD;
+      adherence, and the use of an interactive dashboard for administrative users (i.e., study&#xD;
+      team) to track individual participant use. An open ended narrative question at 1 month will&#xD;
+      also help provide guidance for improving usability in future studies, as will directed&#xD;
+      telephone interviews with participants with high and low app.&#xD;
+&#xD;
+      AIM 2, which is to assess evidence of clinical impact of LIFT compared to control among&#xD;
+      nurses directly caring for COVID-19 patients at 1 month, will be assessed by comparing&#xD;
+      changes in the Patient Health Questionnaire-9 (PHQ-9), General Anxiety Disorder -7 (GAD-7)&#xD;
+      questionnaire, the Maslach Burnout Index (MBI), and Perceived Stress Scale 4 (PSS-4) over the&#xD;
+      study duration (1 month) between intervention and usual care groups.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 15, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Single site, pilot randomized waitlist control trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Intervention completion</measure>
+    <time_frame>Between baseline and 30 days post randomization</time_frame>
+    <description>The percentage of participants who complete all 4 weeks of the intervention, a measure of feasibility.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sessions completed</measure>
+    <time_frame>Between baseline and 30 days post-randomization</time_frame>
+    <description>Number of daily mindfulness sessions completed by participants in intervention arm, a measure of feasibility.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Survey completion</measure>
+    <time_frame>Between baseline and 30 days post-randomization.</time_frame>
+    <description>The percentage of patients who complete surveys at baseline 1 month, a measure of feasibility.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Patient Health Questionnaire-9 Item scale (PHQ-9)</measure>
+    <time_frame>Between baseline and 30 days post-randomization</time_frame>
+    <description>Depression symptoms. Scores range from 0 (better) to 27 (worse)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Generalized Anxiety Disorder 7-item scale (GAD-7)</measure>
+    <time_frame>Between Baseline and 30 days post-randomization</time_frame>
+    <description>Anxiety symptoms. Scores range from 0 (better) to 21 (worse)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Perceived Stress Scale (PSS-4)</measure>
+    <time_frame>Between Baseline and 30 days post-randomization</time_frame>
+    <description>Stress symptoms. Scores range from 0 (better) to 16 (worse)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Maslach Burnout Index (MBI)</measure>
+    <time_frame>Between Baseline and 30 days post-randomization</time_frame>
+    <description>Burnout Symptoms. Score range 0-132, based on three components: emotional exhaustion, depersonalization, and personal accomplishment.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19, Emotional Distress, Burnout, Healthcare Workers</condition>
+  <arm_group>
+    <arm_group_label>Arm 1: Intervention group (access to LIFT mindfulness app)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants randomized to the intervention arm will be provided access to LIFT app's daily mobile mindfulness therapy for 30 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2: Control waitlist group (delayed access to LIFT mindfulness app)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Control participants will not receive access to the LIFT app daily mobile mindfulness therapy during study period. They may have access to LIFT app daily mobile mindfulness therapy after completion of the study period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>LIFT Mindfulness</intervention_name>
+    <description>Mindfulness is a type of mind-body therapy that promotes a practice of non-judgmental awareness that can alleviate distress by uncoupling emotional reactions and habitual behavior from unpleasant symptoms, thoughts, and emotions. LIFT is a mobile mindfulness app which can assess levels of emotional distress via survey, and subsequently offer mindfulness content that has previously been used in ICU patients, where it was shown to reduce symptoms of depression, anxiety, and PTSD.</description>
+    <arm_group_label>Arm 1: Intervention group (access to LIFT mindfulness app)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adult ≥ 18 years of age&#xD;
+&#xD;
+          2. Currently working as a nurse in an adult COVID unit at Duke University Hospital&#xD;
+&#xD;
+          3. English Fluency&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Lack of access to either reliable smartphone with cellular data plan or home internet&#xD;
+             access.&#xD;
+&#xD;
+          2. Anticipation of leaving current position in ≤30 days.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christopher Cox, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christopher Cox, MD</last_name>
+    <phone>919-681-7232</phone>
+    <email>christopher.cox@duke.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Elias Pratt, MD</last_name>
+    <phone>919-684-8111</phone>
+    <email>elias.pratt@duke.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 25, 2021</study_first_posted>
+  <last_update_submitted>March 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Burnout, Psychological</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

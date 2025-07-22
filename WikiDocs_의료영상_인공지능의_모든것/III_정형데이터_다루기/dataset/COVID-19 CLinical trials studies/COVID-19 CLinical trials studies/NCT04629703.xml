@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4164">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04629703</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C-935788-061</org_study_id>
+    <nct_id>NCT04629703</nct_id>
+  </id_info>
+  <brief_title>Double-Blind, Randomized, Placebo-Controlled, Adaptive Design, Multi-Center Phase 3 Study to Evaluate the Efficacy and Safety of Fostamatinib in COVID-19 Subjects</brief_title>
+  <official_title>Double-Blind, Randomized, Placebo-Controlled, Adaptive Design, Multi-Center Phase 3 Study to Evaluate the Efficacy and Safety of Fostamatinib in COVID-19 Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rigel Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rigel Pharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is a double-blind, randomized, placebo-controlled, adaptive design, multi-center,&#xD;
+      Phase 3 study to evaluate the efficacy and safety of fostamatinib in COVID-19 subjects.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 22, 2021</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression to severe/critical disease within 29 days of first dose of study treatment</measure>
+    <time_frame>29 days</time_frame>
+    <description>Progression to severe/critical disease within 29 days of first dose of study treatment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects transferred into the intensive care unit (ICU) or who died prior to Day 29</measure>
+    <time_frame>29 days</time_frame>
+    <description>Proportion of subjects transferred into the intensive care unit (ICU) or who died prior to Day 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total number of calendar days hospitalized through Day 29</measure>
+    <time_frame>29 days</time_frame>
+    <description>Total number of calendar days hospitalized through Day 29</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">308</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS (Severe Acute Respiratory Syndrome)</condition>
+  <condition>SARS Pneumonia</condition>
+  <condition>SARS-Associated Coronavirus as Cause of Disease Classified Elsewhere</condition>
+  <condition>Pneumonia</condition>
+  <condition>Pneumonia, Viral</condition>
+  <arm_group>
+    <arm_group_label>Fostamatinib (150 mg twice daily for 14 days) + Standard of Care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Fostamatinib (150 mg twice daily for 14 days) + Standard of Care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo (twice daily for 14 days) + Standard of Care</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo (twice daily for 14 days) + Standard of Care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fostamatinib</intervention_name>
+    <description>Fostamatinib (150 mg twice daily) for 14 days and Standard of Care</description>
+    <arm_group_label>Fostamatinib (150 mg twice daily for 14 days) + Standard of Care</arm_group_label>
+    <other_name>Fostamatinib disodium</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo (twice daily) for 14 days and Standard of Care</description>
+    <arm_group_label>Placebo (twice daily for 14 days) + Standard of Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ≥18 years of age at screening.&#xD;
+&#xD;
+          -  The subject or a legally authorized representative has provided written informed&#xD;
+             consent.&#xD;
+&#xD;
+          -  Hospitalized COVID-19 subjects without respiratory failure who are either not&#xD;
+             receiving any oxygen therapy or are receiving supplemental oxygen via mask or nasal&#xD;
+             prongs.&#xD;
+&#xD;
+          -  Male or non-pregnant, non-lactating female subjects with SARS-CoV-2 infection&#xD;
+             documented by a hospital approved diagnostic test (eg, a Food and Drug Administration&#xD;
+             authorized test in the US) within 7 days prior to randomization.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant or lactating female of childbearing potential.&#xD;
+&#xD;
+          -  Use of extracorporeal membrane oxygenation (ECMO) or ARDS.&#xD;
+&#xD;
+          -  Uncontrolled hypertension (systolic blood pressure [BP] ≥160 mmHg and/or diastolic BP&#xD;
+             ≥100 mmHg), unstable angina, congestive heart failure of New York Heart Association&#xD;
+             classification III or IV, serious cardiac arrhythmia requiring treatment.&#xD;
+&#xD;
+          -  History of myocardial infarction within 3 months prior to screening.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Sutter Health - Mills Peninsula Medical Center</name>
+      <address>
+        <city>Burlingame</city>
+        <state>California</state>
+        <zip>94010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alexander Zider, MD</last_name>
+      <phone>650-696-5334</phone>
+      <email>HasterRE@sutterhealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Alexander Zider, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Irvine</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amin Alpesh, MD</last_name>
+      <phone>949-824-8297</phone>
+      <email>rmagallo@hs.uci.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Amin Alpesh, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Loyola University Medical School</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <zip>60600</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Amit Goyal, MD</last_name>
+      <phone>708-216-1166</phone>
+      <email>jdelpri@luc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Amit Goyal, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Harvard Medical School- Bringham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gyorgy Frendl, MD</last_name>
+      <phone>617-732-8386</phone>
+      <email>ntoutounchishabestari@bwh.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Gyorgy Frendl, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ascension Medical Group- St. John Clinic Infectious Disease</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anuj Malik, MD</last_name>
+      <phone>918-744-3426</phone>
+      <email>Jane.Bryce@ascension.org</email>
+    </contact>
+    <investigator>
+      <last_name>Anuj Malik, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Portland Medical Center</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jason Wells, MD</last_name>
+      <phone>503-215-2613</phone>
+      <email>Brenda.Fisher@providence.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jason Wells, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Houston Methodist Research Institute</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Deepa Gotur, MD</last_name>
+      <phone>346-238-4586</phone>
+      <email>sfafshar@houstonmethodist.org</email>
+    </contact>
+    <investigator>
+      <last_name>Deepa Gotur, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Inova Fairfax Medical Campus</name>
+      <address>
+        <city>Falls Church</city>
+        <state>Virginia</state>
+        <zip>22042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Steven Nathan, MD</last_name>
+      <phone>703-776-6649</phone>
+      <email>rebecca.hays@inova.org</email>
+    </contact>
+    <investigator>
+      <last_name>Steven Nathan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Alta Complejidad Cuenta Alta</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>B1814</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Javier Farina, MD</last_name>
+      <phone>1159907129</phone>
+      <email>DR.JAVIERFARINA@GMAIL.COM</email>
+    </contact>
+    <investigator>
+      <last_name>Javier Farina, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Del Bicentenario - Dr. Luis Federico Leloir</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>B1842</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Adriana Russo</last_name>
+      <phone>54911-4025-2708</phone>
+      <email>adrianarusso.sc@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Nicolás Caminiti, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Zabala</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1426</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Maximiliano Ink</last_name>
+      <phone>54 9 11 6051-6472</phone>
+      <email>maximilianoink1@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lucio Capelloni</last_name>
+      <phone>54 9 11 5858-6224</phone>
+      <email>luciocappelloni@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Dario Scublinsky, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CEMIC</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Florencia Gentilli</last_name>
+      <phone>54 11 5299-0600</phone>
+      <phone_ext>5961</phone_ext>
+      <email>mgentili@cemic.edu.ar</email>
+    </contact>
+    <investigator>
+      <last_name>Ricardo Valentini, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Adventista Belgrano</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marcelo Casas, MD</last_name>
+      <phone>5491145508248</phone>
+      <email>marcelocasas@arsema.com.ar</email>
+    </contact>
+    <investigator>
+      <last_name>Marcelo Casas, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Monte Grande</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Xavier Bocca, MD</last_name>
+      <phone>5491154005094</phone>
+      <email>xbocca@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Xavier Bocca</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Infecciosas Francisco Javier Muñiz.</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Carlos J Gonzalez, MD</last_name>
+      <phone>01157233801</phone>
+      <email>carlosgonzalez@buenosaires.gob.ar</email>
+    </contact>
+    <investigator>
+      <last_name>Carlos Gonzalez, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sanatorio Guemes</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Anselmo Bertetti, MD</last_name>
+      <phone>115746-0780</phone>
+      <email>anselmobertetti@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Anselmo Bertetti, Bertetti</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sanatorio Sagrado Corazon</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pedro Marin</last_name>
+      <phone>5491164698656</phone>
+      <email>pedromarin.hematologia@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Mario Dobarro, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital San Roque</name>
+      <address>
+        <city>Córdoba</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ana Barreto</last_name>
+      <phone>3517063884</phone>
+      <email>belehem23@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Maria Leonor Parody, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sanatorio Mayo Privado</name>
+      <address>
+        <city>Córdoba</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>German Ambasch, MD</last_name>
+      <phone>54 9 351 5642602</phone>
+      <email>germanambasch@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>German Ambasch, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital das Clínicas da Universidade Federal de Goiás (HC/UFG)</name>
+      <address>
+        <city>Goiânia</city>
+        <state>Goiás</state>
+        <zip>74605</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Weimar Sebba Barroso de Souza, MD</last_name>
+      <phone>+55 55 62 99416 4280</phone>
+      <email>kenya.pesquisa@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Weimar Sebba Barroso de Souza, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Luxenburgo-Associação Mário Penna</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>Minas Gerais</state>
+        <zip>30380</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Frederico Bruzzi de Carvalho, MD</last_name>
+      <phone>55 31 98468 1313</phone>
+      <email>natalia.brazil@mariopenna.org.br</email>
+    </contact>
+    <investigator>
+      <last_name>Frederico Bruzzi de Carvalho, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Maringa</name>
+      <address>
+        <city>Maringá</city>
+        <state>Parana</state>
+        <zip>87083</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sérgio Seiji Yamada, MD</last_name>
+      <phone>+55 44 3011 9210</phone>
+      <email>sandrabin@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Sérgio Seiji Yamada, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Irmandade da Santa Casa de Misericórdia de Porto Alegre - ISCMPA</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90020</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Claudio Marcela Bendun Stadnik, MD</last_name>
+      <phone>(55) 51 998082624</phone>
+      <email>marjoriestadnik@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Claudio Marcela Bendun Stadnik, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Complexo de Prevenção, Diagnóstico, Terapia e Reabilitação Respiratória LTDA</name>
+      <address>
+        <city>Blumenau</city>
+        <state>Santa Catarina</state>
+        <zip>89030</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marina Andrade Lima, MD</last_name>
+      <phone>+55 47-3037-9527</phone>
+      <email>pesquisaclinica@hospitaldopulmao.com.br</email>
+    </contact>
+    <investigator>
+      <last_name>Marina Andrade Lima, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Alemão Oswaldo Cruz (HAOC)</name>
+      <address>
+        <city>Bela Vista</city>
+        <state>Sao Paolo</state>
+        <zip>01323</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>David José de Barros Machado, MD</last_name>
+      <phone>+5511 3549 0729</phone>
+      <email>dvilanova@haoc.com.br</email>
+    </contact>
+    <investigator>
+      <last_name>David José de Barros Machado, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pontificia Universidade Catolica de Campinas (PUC-CAMP) - Hospital e Maternidade Celso Pierro (HMCP)</name>
+      <address>
+        <city>Campinas</city>
+        <state>Sao Paolo</state>
+        <zip>13060</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria Patelli Souza Lima, MD</last_name>
+      <phone>+55 19-3343-8600</phone>
+      <email>carolina-sanchez@uol.com.br</email>
+    </contact>
+    <investigator>
+      <last_name>Maria Patelli Souza Lima, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Bandeirantes (LeForte)</name>
+      <address>
+        <city>Liberdade</city>
+        <state>Sao Paolo</state>
+        <zip>01506</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Paulo Genestreti, MD</last_name>
+      <phone>+55 11 95286-8076</phone>
+      <email>regulatorio@svriglobal.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paulo Genestreti, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica de Alergia Martti Antila S/S Ltda</name>
+      <address>
+        <city>Sorocaba</city>
+        <state>Sao Paulo</state>
+        <zip>18040</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Antilla Martti Anton, MD</last_name>
+      <phone>+5515-99735-5812</phone>
+      <email>pesquisa.clinica@alergiaclinica.com.br</email>
+    </contact>
+    <investigator>
+      <last_name>Antilla Martti Anton, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fundação Faculdade Reg. de Med de SJRP</name>
+      <address>
+        <city>São José Do Rio Preto</city>
+        <state>Sao Paulo</state>
+        <zip>15090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Suzana Margareth Lobo, MD</last_name>
+      <phone>+55 1799102 9256</phone>
+      <email>keulle.cip@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Suzana Margareth Lobo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Unidad Medica para la Salud Integral (UMSI)</name>
+      <address>
+        <city>Monterrey</city>
+        <state>Nuevo Leon</state>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Adalia Longoria Jiménez</last_name>
+      <phone>81-1190-5470</phone>
+      <email>adalia.longoria@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Rodolfo Posadas-Valay, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Cardiologica Aguascalientes</name>
+      <address>
+        <city>Aguascalientes</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mayra Servin de Loera</last_name>
+      <phone>4499154000</phone>
+      <email>mayra_81deloera@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Francisco Marquez Diaz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nuevo Hospital Civil de Guadalajara</name>
+      <address>
+        <city>Guadalajara</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marisol Aguiñaga</last_name>
+      <phone>+523314055338</phone>
+      <email>marisol_hcg@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jorge Enrique Aguilar Arreola, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Medico Issemym Toluca</name>
+      <address>
+        <city>Metepec</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Daniel Ponce</last_name>
+      <phone>528126212560</phone>
+      <email>dponcen@etcurae.com</email>
+    </contact>
+    <investigator>
+      <last_name>Miguel Martínez-Arias, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The American British Cowdray Medical Center I.A.P.</name>
+      <address>
+        <city>Mexico City</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ana Rangel Peña</last_name>
+      <phone>55 64 23 76 34</phone>
+      <email>benjamin.valente-acosta1@alumni.lshtm.ac.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Benjamín Valente Acosta, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Ángeles Roma</name>
+      <address>
+        <city>Mexico</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Guerrero Cynthia</last_name>
+      <phone>5577750339</phone>
+      <email>amarolimanoel@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Noel Amaro Lima, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CEPREP Centro de Prevención y Rehabilitación de Enfermedades Pulmonares Crónicas</name>
+      <address>
+        <city>Nuevo León</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Maria Rodriguez Semporini</last_name>
+      <phone>84 83482018</phone>
+      <email>arodriguez@ceprep.mx</email>
+    </contact>
+    <investigator>
+      <last_name>Juan Francisco Moreno Hoyos, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Civil de Culiacan</name>
+      <address>
+        <city>Sinaloa</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Olivia Espinoza López</last_name>
+      <phone>52 6677215355</phone>
+      <email>Olivia.espinoza@sinacor.org</email>
+    </contact>
+    <investigator>
+      <last_name>David Rubio Payan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>EsSalud - Hospital Nacional Alberto Sabogal Sologuren</name>
+      <address>
+        <city>Lima</city>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Luis Hercilla</last_name>
+      <phone>51 996590028</phone>
+      <email>lhercilla@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Luis Hercilla, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Chancay</name>
+      <address>
+        <city>Lima</city>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lisbeth Cahuas</last_name>
+      <phone>964397935</phone>
+      <email>lizitavillanueva@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Oscar Carbajal, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Nacional Arzobispo Loayza</name>
+      <address>
+        <city>Lima</city>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Patricia Ortiz</last_name>
+      <phone>995036963</phone>
+      <email>pattyob@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Eduardo Matos, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Nacional Cayetano Heredia</name>
+      <address>
+        <city>Lima</city>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Evelyne La Madrid Santana</last_name>
+      <phone>941979506</phone>
+      <email>lic.eve.la.madrid@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Danilo Joel Salazar Oré, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Nacional Hipolito Unanue</name>
+      <address>
+        <city>Lima</city>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pedro Sullón, MD</last_name>
+      <phone>51-975420042</phone>
+      <email>pedro_sullon1@yahoo.es</email>
+    </contact>
+    <investigator>
+      <last_name>Pedro Sullón, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Brazil</country>
+    <country>Mexico</country>
+    <country>Peru</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2020</study_first_posted>
+  <last_update_submitted>March 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID19</keyword>
+  <keyword>SARS-Associated Coronavirus Pneumonia</keyword>
+  <keyword>Pneumonia, Viral</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

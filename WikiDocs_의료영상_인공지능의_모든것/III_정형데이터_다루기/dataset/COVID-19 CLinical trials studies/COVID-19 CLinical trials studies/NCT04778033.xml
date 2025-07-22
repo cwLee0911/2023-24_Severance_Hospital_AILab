@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3073">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04778033</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SHEBA - 21 - 8079- JH - CTIL</org_study_id>
+    <nct_id>NCT04778033</nct_id>
+  </id_info>
+  <brief_title>Semen Analysis Parameters Following Pfizer's COVID-19 Vaccine</brief_title>
+  <official_title>The Effect of BNT162b2 mRNA COVID-19 Vaccine on Semen Analysis Parameters Among 75 Fertile Men</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sheba Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sheba Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study the investigators will explore the effect of the BNT162b2 COVID-19 Vaccine on&#xD;
+      semen analysis parameters among 75 fertile men. Fertile men will be regarded as such if they&#xD;
+      previously successfully impregnated their partners without the use of artificial reproductive&#xD;
+      technology, or men who previously had a normal sperm analysis exam by WHO criteria (2010).&#xD;
+      Those recruited will supply a single sperm sample 1-2 months following the second dose of the&#xD;
+      vaccination. In addition, the participants will fill a brief questionnaire with information&#xD;
+      regarding their medical and reproductive history. The investigators will examine the&#xD;
+      macroscopic and microscopic properties of the semen samples and compare them to the WHO semen&#xD;
+      analysis reference range in an attempt to ascertain whether the vaccine influences sperm&#xD;
+      parameters.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The 2019 novel coronavirus disease (COVID-19) is a highly infectious respiratory tract&#xD;
+      disease which was first reported in Wuhan, Hubei Province, China in Dec 2019, but has since&#xD;
+      spread globally. By march 2020 it was declared by WHO as a public health emergency pandemic&#xD;
+      and has thus far affected tens of millions worldwide. The implications of COVID 19 infection&#xD;
+      on male fertility were examined in a previous study, which found decreased sperm&#xD;
+      concentration in recovering patients compared with controls.&#xD;
+&#xD;
+      The newly available mRNA COVID 19 vaccine by Pfizer was recently evaluated in a large&#xD;
+      multicenter placebo controlled RCT. The vaccine is comprised of BNT162b2, a lipid&#xD;
+      nanoparticle formulated nucleoside-modified RNA (modRNA) encoding the SARS-CoV2 full length&#xD;
+      spike protein, modified by two Proline mutations. The two 20 µg doses were shown to elicit&#xD;
+      high SARS-COV2 neutralizing antibody titers alongside high antigen specific CD8+ and Th1 type&#xD;
+      CD4+ T cell response. It was subsequently shown to be 95% effective in preventing COVID-19&#xD;
+      infection a week following the second dose with a favorable safety profile in a 2-month&#xD;
+      median following up time.&#xD;
+&#xD;
+      Unfounded claims in the popular media linked a possible correlation between the COVID-19&#xD;
+      vaccine and potential female\male infertility. Currently. there is no information in the&#xD;
+      medical literature which examined semen analysis parameters following the COVD-19 vaccine.&#xD;
+&#xD;
+      In this study the investigators will explore the effect of the BNT162b2 COVID-19 Vaccine on&#xD;
+      semen analysis parameters among 75 fertile men. Fertile men will be regarded as such if they&#xD;
+      previously successfully impregnated their partners without the use of artificial reproductive&#xD;
+      technology, or men who previously had a normal sperm analysis exam by WHO criteria (2010).&#xD;
+      Those recruited will supply a single sperm sample 1-2 months following the second dose of the&#xD;
+      vaccination. In addition, the participants will fill a brief questionnaire with information&#xD;
+      regarding their medical and reproductive history. The investigators will examine the&#xD;
+      macroscopic and microscopic properties of the semen samples and compare them to the WHO semen&#xD;
+      analysis reference range in an attempt to ascertain whether the vaccine influences sperm&#xD;
+      parameters.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 9, 2021</start_date>
+  <completion_date type="Anticipated">May 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 10, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sperm Concentration (10^6/ml)</measure>
+    <time_frame>1-2 months after the second COVID-19 vaccine</time_frame>
+    <description>Semen concentration (10^6/ml)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sperm Motility (%)</measure>
+    <time_frame>1-2 months after the second COVID-19 vaccine</time_frame>
+    <description>Sperm percentage with proper forward progression</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>White Blood Cells (10^6/ml) in Semen</measure>
+    <time_frame>1-2 months after the second COVID-19 vaccine</time_frame>
+    <description>Amount of white blood cells (10^6/ml) in semen</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sperm Morphology (%)</measure>
+    <time_frame>1-2 months after the second COVID-19 vaccine</time_frame>
+    <description>Sperm morphology (%)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sperm Vitality (%)</measure>
+    <time_frame>1-2 months after the second COVID-19 vaccine</time_frame>
+    <description>Sperm vitality (%)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Semen Liquefaction (normal/abnormal)</measure>
+    <time_frame>1-2 months after the second COVID-19 vaccine</time_frame>
+    <description>Macroscopic appearance - Semen liquefaction appearance</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Semen Viscosity (normal/abnormal)</measure>
+    <time_frame>1-2 months after the second COVID-19 vaccine</time_frame>
+    <description>Macroscopic appearance - Semen viscosity appearance</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Semen Color</measure>
+    <time_frame>1-2 months after the second COVID-19 vaccine</time_frame>
+    <description>Macroscopic appearance - Semen color appearance</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Semen PH</measure>
+    <time_frame>1-2 months after the second COVID-19 vaccine</time_frame>
+    <description>Semen PH</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Semen Volume (ml)</measure>
+    <time_frame>1-2 months after the second COVID-19 vaccine</time_frame>
+    <description>Semen Volume (ml)</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Covid19</condition>
+  <condition>Fertility Issues</condition>
+  <arm_group>
+    <arm_group_label>Vaccinated Men</arm_group_label>
+    <description>Fertile men who were vaccinated with the BNT162b2 COVID-19 Vaccine</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Sperm collection</intervention_name>
+    <description>Those recruited will supply a single sperm sample 1-2 months following the second dose of the vaccination. The sample will be analyzed for macroscopic and microscopic features in the IVF laboratory and will be discarded immediately afterwards.</description>
+    <arm_group_label>Vaccinated Men</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Semen&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Fertile men 1-2 months following the second dose of BNT162b2 COVID-19 Vaccine&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Previously impregnated their partner without the use of assisted reproduce technology,&#xD;
+             or previously had a normal sperm analysis exam by WHO 2010 criteria.&#xD;
+&#xD;
+          -  1-2 months following the second dose of BNT162b2 COVID-19 Vaccine.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known abnormal semen parameters.&#xD;
+&#xD;
+          -  Age above 45.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jigal Haas, MD</last_name>
+    <phone>972-54-6975372</phone>
+    <email>jigal.haas@sheba.health.gov.il</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Dror Lifshitz, MD</last_name>
+    <phone>972-50-4645474</phone>
+    <email>dror_lifshitz@hotmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Sheba medical center</name>
+      <address>
+        <city>Ramat Gan</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jigal Haas, M.D</last_name>
+      <phone>0972524651054</phone>
+      <email>jigalh@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jigal Haas, M.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 2, 2021</study_first_posted>
+  <last_update_submitted>February 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sheba Medical Center</investigator_affiliation>
+    <investigator_full_name>Dr. Jigal Haas MD</investigator_full_name>
+    <investigator_title>Senior Gynecologist and Obstetrician</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infertility</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

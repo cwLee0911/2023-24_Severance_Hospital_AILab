@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2011">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04819802</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP210249</org_study_id>
+    <secondary_id>2021-A00321-40</secondary_id>
+    <nct_id>NCT04819802</nct_id>
+  </id_info>
+  <brief_title>MIcrovascular Dysfunction in CRitically Ill cOVID-19 Patients</brief_title>
+  <acronym>MICROVID</acronym>
+  <official_title>Microvascular Flow Alteration and Endothelial Dysfunction in Critically Ill Patient With Covid-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Microcirculatory dysfunction appears to play a key role in the development of organ failure&#xD;
+      leading to the death of patients with coronavirus disease 2019 (Covid-19). It is still&#xD;
+      uncertain today whether this damage is secondary to direct viral infection of endothelial&#xD;
+      cells or the consequence of the inappropriate inflammatory response induced by the infection.&#xD;
+      The analysis of endothelial and microcirculatory dysfunctions and glycocalyx degradation&#xD;
+      therefore appears to be necessary in the understanding of the pathophysiological mechanisms&#xD;
+      of Covid sepsis and could play a role in the evaluation of the efficacy of certain&#xD;
+      therapeutics which would aim at improving regional perfusion by decreasing microcirculatory&#xD;
+      dysfunction.However, the analysis of microcirculatory failure, endothelial dysfunction and&#xD;
+      glycocalyx degradation has so far only been evaluated in small cohorts, without quantitative&#xD;
+      analysis of microcirculatory perfusion&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study of pathophysiological mechanisms of cellular penetration of Severe Acute&#xD;
+      Respiratory Syndrome Coronavirus 2 (SARS CoV-2) allows the understanding of organ failures&#xD;
+      observed in COVID 19. In order to allow its fusion with the cell membrane, SARS-Cov-2 must&#xD;
+      bind the Angiotensin Converting Enzyme 2 (ACE2) via its Spike protein. This process requires&#xD;
+      the priming of the viral S protein by a cellular serine protease TMPRSS2. Thus, any cell&#xD;
+      co-expressing these two receptors is a potential target for the virus. Among all the cells&#xD;
+      for which this co-expression could be observed, endothelial cells and vascular pericytes seem&#xD;
+      to be potential targets, whose infection could lead to the development of an endothelial&#xD;
+      dysfunction responsible for microcirculatory dysfunction. In addition, inappropriate host&#xD;
+      immune system response observed in Covid-19 with massive production of pro-inflammatory&#xD;
+      cytokines as IL-6, TNF α and VEGF could lead to endothelial dysfunction through neutrophils,&#xD;
+      monocytes and macrophages mobilization producing Reactive Oxygen Species that increase&#xD;
+      endothelium and glycocalyx damages. The resulting pro-adhesive, pro-vasoconstricting and&#xD;
+      prothrombotic effects could lead to vascular micro-thrombosis, capillary plugging and&#xD;
+      impairment of capillary flow.&#xD;
+&#xD;
+      Whether endothelial dysfunction is caused by direct viral cell infection or pro-inflammatory&#xD;
+      response is uncertain, but various studies have confirmed that endotheliopathy plays a key&#xD;
+      role in pathophysiological mechanisms in Covid 19.&#xD;
+&#xD;
+      In the context of critical care, the evaluation of microcirculatory perfusion appears to be a&#xD;
+      diagnostic tool of major importance. Indeed, microcirculatory dysfunction is directly&#xD;
+      associated with increased organ failure and mortality in the ICU. In addition, many clinical&#xD;
+      situations such as sepsis or hemorrhagic shock may be responsible for a loss of hemodynamic&#xD;
+      coherence between macro and microcirculatory parameters. Thus, the correction of&#xD;
+      macrohemodynamic parameters (arterial pressure, cardiac output, plasma lactate, central&#xD;
+      venous oxygen saturation) may be associated with persistent microcirculatory hypoperfusion.&#xD;
+      It thus appears essential to develop systems for assessing the microcirculation in order to&#xD;
+      move towards resuscitation guided by microcirculatory objectives.&#xD;
+&#xD;
+      The aim of this study is to describe the sublingual microcirculation and to evaluate&#xD;
+      endothelial dysfunction in critically ill patient with Covid-19, and to determine whether&#xD;
+      there is a correlation between the severity of microcirculatory damage, endothelial&#xD;
+      dysfunction and clinically important outcomes in ICU. The data will serve to develop&#xD;
+      strategies for individualized management of high-risk patients screened with microcirculation&#xD;
+      evaluation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 28, 2021</start_date>
+  <completion_date type="Anticipated">October 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Microvascular flow index (MFI)</measure>
+    <time_frame>At admission, on day 1 and day 2</time_frame>
+    <description>Change in a semi quantitative score evaluating the sublingual microcirculation using an incident dark field imaging device (Microscan, MicroVision Medical ) over the first days of ICU stay</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in perfused vessel density</measure>
+    <time_frame>At admission, on day 1 and day 2</time_frame>
+    <description>Change in sublingual microcirculation over the first days of ICU stay as assessed by perfused vessel density evaluation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in plasma Syndecan-1 levels (in pg/ml)</measure>
+    <time_frame>At admission, on day 1 and day 2</time_frame>
+    <description>Change in the levels of endothelium biomarker Syndecan-1 over the first days of ICU stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in plasma Thrombomodulin levels (in arbitrary units/ml)</measure>
+    <time_frame>At admission, on day 1 and day 2</time_frame>
+    <description>Change in the levels of endothelium biomarker Thrombomodulin over the first days of ICU stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in plasma VEGF-A levels (in arbitrary units/ml)</measure>
+    <time_frame>At admission, on day 1 and day 2</time_frame>
+    <description>Change in the levels of endothelium biomarker VEGF-A over the first days of ICU stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in plasma Angiopoietin-2 levels (in ng/ml)</measure>
+    <time_frame>At admission, on day 1 and day 2</time_frame>
+    <description>Change in the levels of endothelium biomarker Angiopoietin-2 over the first days of ICU stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in cardiac output</measure>
+    <time_frame>At admission, on day 1 and day 2</time_frame>
+    <description>Change in cardiac output (in ml/min) measured by transthoracic echocardiography over the first days in ICU stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood D-dimer levels (in µg/l)</measure>
+    <time_frame>At admission</time_frame>
+    <description>D-dimer level measurement to evaluate the prothrombotic condition</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutrophil to Lymphocyte ratio</measure>
+    <time_frame>At admission</time_frame>
+    <description>Neutrophil to Lymphocyte ratio measurement to evaluate the proinflammatory status</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood C Reactive Protein levels (in mg/l)</measure>
+    <time_frame>At admission</time_frame>
+    <description>C Reactive Protein levels measurement to evaluate the proinflammatory status</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The ratio of arterial oxygen partial pressure (PaO2) to fractional inspired oxygen (FiO2)</measure>
+    <time_frame>At admission</time_frame>
+    <description>PaO2/FiO2 ratio measurement to evaluate the severity of lung disease</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percentage of pulmonary lesions as assessed by computerized tomography (CT) scan</measure>
+    <time_frame>At admission</time_frame>
+    <description>The percentage of pulmonary lesions as assessed by CT scan to evaluate the severity of lung disease at ICU admission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Mortality rate in the ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Invasive Mechanical ventilation</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Number of days under invasive Mechanical ventilation in the ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay in the ICU</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Number of days of hospitalization in the ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute kidney injury</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Occurrence of acute kidney injury using KDIGO definition during the ICU stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Organ failure</measure>
+    <time_frame>Every day from Day 0 to Day 8, and at Day 28 after inclusion</time_frame>
+    <description>Change in Sequential Organ Failure Assessment (SOFA) Score during the ICU stay (minimum value 0; maximum value 24; the higher score means a worst outcome).</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid-19</condition>
+  <condition>Critical Illness</condition>
+  <condition>Hemodynamics</condition>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Covid-19 patients</arm_group_label>
+    <description>Adult Covid-19 patients admitted to intensive care units</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Measurement of sublingual microcirculation</intervention_name>
+    <description>Sublingual microcirculation will be evaluated using a MicroScan (Microvision Medical, Amsterdam, the Netherlands) incident dark field imaging device. Perfusion measurements will be taken once a day during the first three days after inclusion (i.e. three measurement times). At each measurement time, five sequences of 20 secs will be recorded at five different sites. The video clips will be secondarily analyzed by a trained, blind investigator.</description>
+    <arm_group_label>Covid-19 patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Plasma sampling</intervention_name>
+    <description>Additional volume during blood draw to assess plasma levels of the following endothelial markers: syndecan-1, angiopoietin-2, vascular endothelial growth factor-A (VEGF-A), thrombomodulin.</description>
+    <arm_group_label>Covid-19 patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult patients admitted to ICU for COVID-19&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patient (≥ 18 ans)&#xD;
+&#xD;
+          -  Affiliation to the French social security system&#xD;
+&#xD;
+          -  Patient admitted to ICU within 72 hours before inclusion&#xD;
+&#xD;
+          -  Patient presenting SARS-CoV-2 pneumonia diagnosed by CT scan or by COVID-19 PCR test&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Lesions of the oral mucosa&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jacques Duranteau, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>APHP, Kremlin Bicêtre Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Benjamin Bergis, MD</last_name>
+    <phone>+33145212367</phone>
+    <email>benjamin.bergis@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anatole Harrois, MD, PhD</last_name>
+    <email>Anatole.harrois@aphp.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Surgical Intensive Care Unit - Kremlin Bicêtre Hospital, APHP</name>
+      <address>
+        <city>Le Kremlin Bicêtre</city>
+        <zip>94270</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin Bergis, MD</last_name>
+      <phone>+33145212367</phone>
+      <email>benjamin.bergis@aphp.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 29, 2021</study_first_posted>
+  <last_update_submitted>March 31, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid-19</keyword>
+  <keyword>Covid-19 / Pathophysiology</keyword>
+  <keyword>Covid-19 / Virology</keyword>
+  <keyword>Critical illness</keyword>
+  <keyword>Hemodynamics</keyword>
+  <keyword>Intensive Care Units</keyword>
+  <keyword>Microcirculation</keyword>
+  <keyword>Microcirculation / Physiology</keyword>
+  <keyword>Microvessels / Physiopathology</keyword>
+  <keyword>Capillary permeability</keyword>
+  <keyword>Prospective Studies</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>SARS-CoV-2 / physiology</keyword>
+  <keyword>Biomarkers / Blood</keyword>
+  <keyword>Glycocalyx / metabolism</keyword>
+  <keyword>Glycocalyx / Pathology</keyword>
+  <keyword>Regional blood flow</keyword>
+  <keyword>Mouth mucosa / Blood supply</keyword>
+  <keyword>Syndecan-1 / Blood</keyword>
+  <keyword>Organ dysfunction scores</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Critical Illness</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

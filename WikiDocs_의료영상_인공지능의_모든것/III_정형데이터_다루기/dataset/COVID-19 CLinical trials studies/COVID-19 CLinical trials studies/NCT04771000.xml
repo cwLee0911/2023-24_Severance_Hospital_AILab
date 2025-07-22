@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3651">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04771000</url>
+  </required_header>
+  <id_info>
+    <org_study_id>N-003-CRD008</org_study_id>
+    <nct_id>NCT04771000</nct_id>
+  </id_info>
+  <brief_title>A Study of Micro Dose Ambrisentan in Hospitalized Patients With Respiratory Insufficiency Due to COVID-19</brief_title>
+  <official_title>A Randomised, Double-blind, Placebo-controlled Trial to Evaluate the Efficacy and Safety of Ambrisentan in Patients With Severe COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Noorik Biopharmaceuticals AG</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Noorik Biopharmaceuticals AG</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients with COVID-19 frequently develop lower respiratory complications. Difficulty&#xD;
+      breathing and a low concentration of oxygen in the blood are of concern in patients with&#xD;
+      COVID-19, as they indicate that the lungs may be significantly affected. In some patients,&#xD;
+      respiratory symptoms may progress to the point where oxygen support is needed (i.e. use of an&#xD;
+      oxygen prongs, mask or ventilator).&#xD;
+&#xD;
+      The exact mechanism of why patients with COVID-19 develop low concentrations of oxygen in&#xD;
+      blood is not fully understood. Some data suggest that the Severe Acute Respiratory Syndrome&#xD;
+      Coronavirus 2 (SARS-CoV-2), the virus causing Coronavirus Disease 2019 (COVID-19), can affect&#xD;
+      the body's blood vessels directly and extensively. In the lung, blood vessels participate in&#xD;
+      the absorption of oxygen.&#xD;
+&#xD;
+      Endothelin is a potent hormone produced by human blood vessels. When increased, endothelin&#xD;
+      can result in the narrowing of blood vessels in the lung and decrease the volume of blood&#xD;
+      flowing through the lungs. This decrease in in blood flow through the lungs may be one of&#xD;
+      many factors affecting normal lung function. Ambrisentan can block the effects of endothelin&#xD;
+      in the body, and this could theoretically improve blood flow through the lungs.&#xD;
+&#xD;
+      This study will evaluate whether ambrisentan, by blocking the effects of the hormone&#xD;
+      endothelin in the lungs, improves the breathing capacity of patients with COVID-19, increases&#xD;
+      the concentration of oxygen in the blood and prevents the progression to respiratory failure&#xD;
+      and death. Ambrisentan is a drug that is currently used to treat patients with pulmonary&#xD;
+      hypertension, a disease where blood flow through the lungs is decreased.&#xD;
+&#xD;
+      Subjects participating in this study are those patients hospitalised with severe respiratory&#xD;
+      symptoms related to COVID-19, and are considered to be at high-risk of developing respiratory&#xD;
+      complications. Ambrisentan will be administered in the hospital, and will be continued at&#xD;
+      home for up to 28 days. In this study, ambrisentan will be administered at much lower doses&#xD;
+      that those used in patients with pulmonary hypertension.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, double-blind, placebo-controlled, multi-centre trial to evaluate the&#xD;
+      safety and efficacy of ambrisentan for the treatment of severe COVID-19. The population&#xD;
+      consists of hospitalized subjects who have a confirmed SARS-CoV-2 (a coronavirus (CoV) )&#xD;
+      infection, are at high-risk of progression to respiratory failure or death and have low&#xD;
+      oxygen saturation and/or require oxygen supplementation at the time of admission. Pregnant or&#xD;
+      lactating women will not be allowed to participate in this study given the teratogenic&#xD;
+      potential of ambrisentan. Subjects requiring mechanical ventilation or intubation at the time&#xD;
+      of enrolment are considered to have respiratory failure and will not be allowed into the&#xD;
+      study, as one primary objective of the study is to evaluate the effect of ambrisentan in&#xD;
+      preventing respiratory failure.&#xD;
+&#xD;
+      Enrolled subjects will be randomly assigned to the treatment arm or control arm at a 1:1&#xD;
+      ratio. In the treatment arm, subjects will receive ambrisentan on top of the&#xD;
+      standard-of-care. In the control arm, subjects will receive the administration vehicle only&#xD;
+      (i.e., placebo) and on top of the standard of care. The study medication (ambrisentan or&#xD;
+      placebo) will be administered for up to 28 days. In the event that the subject is discharged&#xD;
+      between Day 4 and Day 28, the subject will continue the study treatment at home until&#xD;
+      completion of the 28-day study medication regimen. Investigators, the Sponsor and the subject&#xD;
+      will be blinded to the treatment assignment. A Drug Safety Monitoring Board will be&#xD;
+      monitoring the safety of the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 8, 2021</start_date>
+  <completion_date type="Anticipated">October 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in SpO2/FiO2 from baseline to the time-weighted average obtained on Day 3</measure>
+    <time_frame>3 days</time_frame>
+    <description>The difference in blood oxygen saturation (SpO2) corrected by the inspired fraction of oxygen (FiO2) between baseline and the time-adjusted average calculated for day 3 will be compared between the experimental and placebo arms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of subjects alive and not having developed respiratory failure from randomization to Day 14</measure>
+    <time_frame>14 days</time_frame>
+    <description>The number of patients that are alive and have not developed respiratory failure by day 14 after entering the study will be compared between the experimental and placebo arms</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in SpO2/FiO2 from baseline to the time-weighted average obtained on Day 1</measure>
+    <time_frame>1 day</time_frame>
+    <description>The difference in blood oxygen saturation corrected by the inspired fraction of oxygen between baseline and the time-adjusted average calculated for day 1 will be compared between the experimental and placebo arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SpO2/FiO2 from baseline to the time-weighted average obtained on Day 2</measure>
+    <time_frame>2 days</time_frame>
+    <description>The difference in blood oxygen saturation corrected by the inspired fraction of oxygen between baseline and the time-adjusted average calculated for day 2 will be compared between the experimental and placebo arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects alive and not requiring oxygen supplementation or higher respiratory support at Day 14.</measure>
+    <time_frame>14 days</time_frame>
+    <description>The number of patients not requiring supplemental oxygen, or any other type of respiratory support at day 14 will be compared between the experimental and placebo arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects alive and free of respiratory failure at Day 14</measure>
+    <time_frame>14 days</time_frame>
+    <description>The number of patients that are alive and have not developed respiratory failure on day 14 will will be compared between the experimental and placebo arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time until weaning from oxygen therapy (up to Day 30)</measure>
+    <time_frame>30 days</time_frame>
+    <description>The time in days subjects required to breathe independently and without oxygen support will be estimated and compared for the experimental and placebo groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time until weaning from respiratory support other than low-flow oxygen supplementation for subjects having developed respiratory failure (up to Day 30)</measure>
+    <time_frame>30 days</time_frame>
+    <description>The time in days subjects required to breathe independently with or without supplemental oxygen will be estimated and compared for the experimental and placebo groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to hospital discharge (up to Day 30)</measure>
+    <time_frame>30 days</time_frame>
+    <description>The time in days required for subjects to be discharged from the first hospitalisation will be estimated and compared between the experimental and placebo groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to death due to any cause (up to Day 30)</measure>
+    <time_frame>30 days</time_frame>
+    <description>For those subjects dying in the first 30 days after study entry, the time from study entry to death will be estimated and compared between the experimental and placebo groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects admitted to the Intensive Care Unit or High-Dependency Unit (up to Day 30)</measure>
+    <time_frame>30 days</time_frame>
+    <description>The number of patients who qualified for admission or where admitted to an intensive care or a high-dependency unit at any time during the first 30 days after entering the study will be estimated and compared between the experimental and placebo groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects experiencing at least one event of venous thrombosis (specifically deep venous thrombosis or pulmonary embolism) (up to Day 30).</measure>
+    <time_frame>30 days</time_frame>
+    <description>The number of patients who developed thrombosis or pulmonary embolism during the first 30 days after entering the study will be estimated and compared between the experimental and placebo groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects by clinical status reported on a 11-point ordinal scale at Day 14 and Day 30</measure>
+    <time_frame>14 days and 30 days</time_frame>
+    <description>The number of patients classified according to an 11-pont scale on their clinical status at day 14 and day 30 will be calculated and compared between the experimental and placebo groups. The 11-point scale is as follows: Uninfected (0 points), Ambulatory and Asymptomatic (1 point), Symptomatic and independent (2 points), Symptomatic requiring assistance (3 points), Hospitalized with no oxygen therapy (4 points), Hospitalized with oxygen by mask or nasal prongs (5 points), Hospitalized with oxygen by non-invasive ventilation or high flow (6 points), Intubation and mechanical ventilation, PaO2/FiO2 ≥ 150 or SpO2/FiO2 ≥ 200 (7 points), Mechanical ventilation, PaO2/FiO2 &lt;150 (SpO2/FiO2 &lt; 200) or vasopressors (8 points), Mechanical ventilation, PaO2/FiO2 &lt; 150 (SpO2/FiO2 &lt; 200) and vasopressors, dialysis or Extracorporeal Membrane Oxygenation (ECMO) (9 points), Dead (10 points).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in SpO2/FiO2 from baseline to the time-weighted average obtained on Day 14</measure>
+    <time_frame>14 days</time_frame>
+    <description>The difference in blood oxygen saturation corrected by the inspired fraction of oxygen between baseline and the time-adjusted average calculated for day 14 will be compared between the experimental and placebo arms</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Covid19</condition>
+  <condition>Hypoxemia</condition>
+  <arm_group>
+    <arm_group_label>Ambrisentan</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ambrisentan, reconstituted oral solution, 125µg twice a day for up to 28 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo, oral solution, twice a day for up to 28 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ambrisentan</intervention_name>
+    <description>Endothelin receptor antagonist</description>
+    <arm_group_label>Ambrisentan</arm_group_label>
+    <other_name>N-003 (ambrisentan solution) reconstituted in propylene glycol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Propylene glycol</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subject (or legally authorized representative) provides informed consent (written or&#xD;
+             oral) prior to initiation of any study procedures.&#xD;
+&#xD;
+          -  Male or non-pregnant, non-lactating female. Women of child-bearing potential must have&#xD;
+             a confirmed negative serum pregnancy test at the time of screening and must use a&#xD;
+             highly effective contraceptive method throughout the study (such as implants,&#xD;
+             injectables, hormonal contraceptives and condom, double barrier contraception [i.e.,&#xD;
+             condom + diaphragm/spermicidal gel or foam]) and until one month after completing&#xD;
+             treatment with the study medication. In the case of hormonal contraception, women&#xD;
+             should have been on a stable regimen for a minimum of three months before study&#xD;
+             enrolment. Women not of child-bearing potential include post-menopausal females&#xD;
+             (defined as having a history of amenorrhea for at least one year) or a documented&#xD;
+             status as being surgically sterile (hysterectomy, bilateral oophorectomy, tubal&#xD;
+             ligation/salpingectomy). Men must use an effective contraception method (i.e., condom&#xD;
+             + diaphragm/spermicidal gel or foam, or vasectomy), and should not donate semen during&#xD;
+             the study. Men are considered to be fertile from the time of puberty, except for those&#xD;
+             men with permanent sterility secondary to bilateral orchiectomy.&#xD;
+&#xD;
+          -  At least 50 years of age and not older than 85 years of age at time of enrolment&#xD;
+&#xD;
+          -  Confirmed SARS-CoV-2 infection defined as: Positive Real-Time Polymerase Chain&#xD;
+             Reaction (RT-PCR) result in sample collected in 96 hours prior to randomisation, OR&#xD;
+             positive antigenic test result in sample collected in 96 hours prior to randomisation.&#xD;
+&#xD;
+          -  Radiological confirmation of pneumonia.&#xD;
+&#xD;
+          -  At least one of the following respiratory signs or symptoms (one option): SpO2 ≤ 93%&#xD;
+             at rest in ambient air, OR requiring supplemental oxygen up to 5 L/min to maintain a&#xD;
+             SpO2 ≥ 88%.&#xD;
+&#xD;
+          -  At least one of the following risk factors: Age ≥ 60 years, Medical history of chronic&#xD;
+             pulmonary disease, moderate or severe asthma, chronic obstructive pulmonary disease,&#xD;
+             emphysema, Diabetes Mellitus (type 1 or 2), requiring one ongoing medication or&#xD;
+             insulin for treatment, Hypertension, requiring at least one ongoing medication for&#xD;
+             treatment, Medical history of coronary heart disease or congestive heart failure, or&#xD;
+             Body Mass Index (BMI) ≥ 30 kg/m2.&#xD;
+&#xD;
+          -  Subject (or legally authorized representative) understands and agrees to comply with&#xD;
+             planned study procedures.&#xD;
+&#xD;
+          -  Subject (or legally authorized representative) agrees to not participate in any other&#xD;
+             clinical trial, including clinical trials for the treatment or prevention of COVID-19&#xD;
+             or SARS-CoV-2 through Day 30.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject at a high risk of death, according to investigator's opinion, in the 3 months&#xD;
+             following enrollment from other causes than Acute Respiratory Distress Syndrome (e.g.,&#xD;
+             severe neurological damage or cancer patients in terminal stages of the disease).&#xD;
+&#xD;
+          -  Subject currently being treated with an endothelin receptor antagonist.&#xD;
+&#xD;
+          -  Subject currently being treated with another pulmonary vasodilator.&#xD;
+&#xD;
+          -  Anticipated need for non-invasive mechanical ventilation, endotracheal intubation or&#xD;
+             tracheostomy at the time of screening.&#xD;
+&#xD;
+          -  History of mechanical ventilation (invasive or non-invasive) in the last 7 days.&#xD;
+&#xD;
+          -  Documented history of end-stage liver disease, cirrhosis or idiopathic pulmonary&#xD;
+             fibrosis (IPF) with or without pulmonary arterial hypertension.&#xD;
+&#xD;
+          -  Aspartate Aminotransferase (AST) or Alanine Aminotransferase (ALT) &gt; 3-times the upper&#xD;
+             limit of normal (ULN).&#xD;
+&#xD;
+          -  Anticipated discharge from the hospital or transfer to another hospital which is not a&#xD;
+             study site within 96 hours.&#xD;
+&#xD;
+          -  Participation in another interventional clinical trial in the 15 days prior to&#xD;
+             enrollment.&#xD;
+&#xD;
+          -  Known hypersensitivity to ambrisentan or propylene glycol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pilar Escribano Subias, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital 12 de Octubre</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Iker Navarro, MD</last_name>
+    <phone>+41 76 398 7007</phone>
+    <email>iker.navarro@noorik.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen de las Nieves</name>
+      <address>
+        <city>Granada</city>
+        <state>Comunidad De Andalucia</state>
+        <zip>18014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sergio Sequera</last_name>
+      <phone>+34 958 020 000</phone>
+    </contact>
+    <investigator>
+      <last_name>Carmen Hidalgo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario San Cecilio</name>
+      <address>
+        <city>Granada</city>
+        <state>Comunidad De Andalucia</state>
+        <zip>18016</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clara Martinez</last_name>
+      <phone>+34 958 02 30 00</phone>
+    </contact>
+    <investigator>
+      <last_name>Jose Hernandez Quero, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Jaén</name>
+      <address>
+        <city>Jaén</city>
+        <state>Comunidad De Andalucía</state>
+        <zip>23007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Asunción Villen</last_name>
+      <phone>+34 953 00 80 00</phone>
+    </contact>
+    <investigator>
+      <last_name>Justo Martinez Colmenero, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Galdakao-Usansolo</name>
+      <address>
+        <city>Galdakao</city>
+        <state>Comunidad De Bizkaia</state>
+        <zip>48960</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Nagore Perez Garcia</last_name>
+      <phone>+34 944 007 000</phone>
+    </contact>
+    <investigator>
+      <last_name>Aitor Ballaz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Comunidad De Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ruth Garcia Rey</last_name>
+      <phone>+34 848 42 22 22</phone>
+    </contact>
+    <investigator>
+      <last_name>Pilar Cebollero Rivas, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nuria Ochoa Parra</last_name>
+      <phone>+34 913 90 80 00</phone>
+    </contact>
+    <investigator>
+      <last_name>Pilar Escribano Subias, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cristina Miragall Roig</last_name>
+      <phone>+34 917 27 70 00</phone>
+    </contact>
+    <investigator>
+      <last_name>Sergio Alcolea Batres, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <reference>
+    <citation>Argulian E, Sud K, Vogel B, Bohra C, Garg VP, Talebi S, Lerakis S, Narula J. Right Ventricular Dilation in Hospitalized Patients With COVID-19 Infection. JACC Cardiovasc Imaging. 2020 Nov;13(11):2459-2461. doi: 10.1016/j.jcmg.2020.05.010. Epub 2020 May 15.</citation>
+    <PMID>32426088</PMID>
+  </reference>
+  <reference>
+    <citation>Fox SE, Akmatbekov A, Harbert JL, Li G, Quincy Brown J, Vander Heide RS. Pulmonary and cardiac pathology in African American patients with COVID-19: an autopsy series from New Orleans. Lancet Respir Med. 2020 Jul;8(7):681-686. doi: 10.1016/S2213-2600(20)30243-5. Epub 2020 May 27.</citation>
+    <PMID>32473124</PMID>
+  </reference>
+  <reference>
+    <citation>Santamarina MG, Boisier D, Contreras R, Baque M, Volpacchio M, Beddings I. COVID-19: a hypothesis regarding the ventilation-perfusion mismatch. Crit Care. 2020 Jul 6;24(1):395. doi: 10.1186/s13054-020-03125-9.</citation>
+    <PMID>32631389</PMID>
+  </reference>
+  <reference>
+    <citation>Gattinoni L, Chiumello D, Caironi P, Busana M, Romitti F, Brazzi L, Camporota L. COVID-19 pneumonia: different respiratory treatments for different phenotypes? Intensive Care Med. 2020 Jun;46(6):1099-1102. doi: 10.1007/s00134-020-06033-2. Epub 2020 Apr 14.</citation>
+    <PMID>32291463</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </reference>
+  <reference>
+    <citation>Ackermann M, Verleden SE, Kuehnel M, Haverich A, Welte T, Laenger F, Vanstapel A, Werlein C, Stark H, Tzankov A, Li WW, Li VW, Mentzer SJ, Jonigk D. Pulmonary Vascular Endothelialitis, Thrombosis, and Angiogenesis in Covid-19. N Engl J Med. 2020 Jul 9;383(2):120-128. doi: 10.1056/NEJMoa2015432. Epub 2020 May 21.</citation>
+    <PMID>32437596</PMID>
+  </reference>
+  <reference>
+    <citation>Varga Z, Flammer AJ, Steiger P, Haberecker M, Andermatt R, Zinkernagel AS, Mehra MR, Schuepbach RA, Ruschitzka F, Moch H. Endothelial cell infection and endotheliitis in COVID-19. Lancet. 2020 May 2;395(10234):1417-1418. doi: 10.1016/S0140-6736(20)30937-5. Epub 2020 Apr 21.</citation>
+    <PMID>32325026</PMID>
+  </reference>
+  <reference>
+    <citation>Kalk P, Senf P, Deja M, Petersen B, Busch T, Bauer C, Boemke W, Kaisers U, Hocher B. Inhalation of an endothelin receptor A antagonist attenuates pulmonary inflammation in experimental acute lung injury. Can J Physiol Pharmacol. 2008 Aug;86(8):511-5. doi: 10.1139/Y08-046.</citation>
+    <PMID>18758498</PMID>
+  </reference>
+  <reference>
+    <citation>Deja M, Busch T, Wolf S, Donaubauer B, Petersen B, Skomrock J, Boemke W, Kaisers U. Inhalation of the endothelin-A receptor antagonist LU-135252 at various doses in experimental acute lung injury. J Cardiovasc Pharmacol. 2004 Nov;44 Suppl 1:S151-5.</citation>
+    <PMID>15838267</PMID>
+  </reference>
+  <reference>
+    <citation>Comellas AP, Briva A. Role of endothelin-1 in acute lung injury. Transl Res. 2009 Jun;153(6):263-71. doi: 10.1016/j.trsl.2009.02.007. Epub 2009 Mar 20. Review.</citation>
+    <PMID>19446279</PMID>
+  </reference>
+  <reference>
+    <citation>Henry PJ. Respiratory viral infections and the endothelin system. Pulm Pharmacol Ther. 1998 Apr-Jun;11(2-3):133-40. Review.</citation>
+    <PMID>9918745</PMID>
+  </reference>
+  <reference>
+    <citation>Carpenter TC, Reeves JT, Durmowicz AG. Viral respiratory infection increases susceptibility of young rats to hypoxia-induced pulmonary edema. J Appl Physiol (1985). 1998 Mar;84(3):1048-54.</citation>
+    <PMID>9480968</PMID>
+  </reference>
+  <reference>
+    <citation>Carpenter TC, Stenmark KR. Endothelin receptor blockade decreases lung water in young rats exposed to viral infection and hypoxia. Am J Physiol Lung Cell Mol Physiol. 2000 Sep;279(3):L547-54.</citation>
+    <PMID>10956630</PMID>
+  </reference>
+  <reference>
+    <citation>Oparil S, Chen SJ, Meng QC, Elton TS, Yano M, Chen YF. Endothelin-A receptor antagonist prevents acute hypoxia-induced pulmonary hypertension in the rat. Am J Physiol. 1995 Jan;268(1 Pt 1):L95-100.</citation>
+    <PMID>7840234</PMID>
+  </reference>
+  <reference>
+    <citation>Maguire JJ, Kuc RE, Davenport AP. Defining the affinity and receptor sub-type selectivity of four classes of endothelin antagonists in clinically relevant human cardiovascular tissues. Life Sci. 2012 Oct 15;91(13-14):681-6. doi: 10.1016/j.lfs.2012.05.008. Epub 2012 May 23.</citation>
+    <PMID>22634326</PMID>
+  </reference>
+  <reference>
+    <citation>Yanagisawa M, Kurihara H, Kimura S, Goto K, Masaki T. A novel peptide vasoconstrictor, endothelin, is produced by vascular endothelium and modulates smooth muscle Ca2+ channels. J Hypertens Suppl. 1988 Dec;6(4):S188-91.</citation>
+    <PMID>2853725</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>February 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 25, 2021</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Hypoxemia</keyword>
+  <keyword>Endothelin</keyword>
+  <keyword>Endothelin receptor antagonist</keyword>
+  <keyword>Ambrisentan</keyword>
+  <keyword>Micro-dose</keyword>
+  <keyword>Acute Respiratory Distress Syndrome (ARDS)</keyword>
+  <keyword>Mechanical ventilation</keyword>
+  <keyword>Pulmonary vasodilator</keyword>
+  <keyword>Hypoxic respiratory failure</keyword>
+  <keyword>Respiratory Failure</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypoxia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ambrisentan</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Not yet discussed or decided</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

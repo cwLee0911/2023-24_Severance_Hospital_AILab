@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1378">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04770649</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PB-2021-01</org_study_id>
+    <nct_id>NCT04770649</nct_id>
+  </id_info>
+  <brief_title>Vaccine Observation to Include All Communities for Equitable Science</brief_title>
+  <acronym>VOICES</acronym>
+  <official_title>VOICES: Vaccine Observation to Include All Communities for Equitable Science</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Persephone Biosciences</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Persephone Biosciences</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      VOICES is a longitudinal, prospective, observational study that will enroll up to 10,000&#xD;
+      subjects of diverse racial backgrounds being administered an emergency use authorized&#xD;
+      COVID-19 vaccine, for collection and analysis of stool and blood samples. It has recently&#xD;
+      been shown that the gut microbiome, the collection of microbes that line our GI tract, play a&#xD;
+      significant role in vaccine immune response and severe complications from COVID-19. The&#xD;
+      identification of biomarkers may aid in predicting response to vaccination and are critical&#xD;
+      towards improving vaccine-induced immunity. These real-world patient derived biomarkers could&#xD;
+      be used as interventional targets for the design of innovative adjuvant co-therapies that can&#xD;
+      boost an effective immune response to the vaccine, enhancing efficacy for a broader&#xD;
+      population, including those at most risk.&#xD;
+&#xD;
+      Subjects who meet the entry criteria will provide two samples each of blood, one prior to and&#xD;
+      one following vaccine administration. Follow-up questionnaires will be sent at 3, 6, 9, and&#xD;
+      12 months to determine if participants have contracted COVID-19 or have experienced any&#xD;
+      adverse effects of the vaccine. Nasal swab samples will also be collected from participants&#xD;
+      that have contracted COVID-19. The samples will be analyzed to determine the impact of gut&#xD;
+      microbiome composition and function on the immune system and vaccine efficacy.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Determine whether the microbiome composition can predict effectiveness of vaccine.</measure>
+    <time_frame>6-12 months</time_frame>
+    <description>Whole genome sequencing and metabolomics will be used to characterize the patient's microbiome, and whether there is any correlation with subjects who contract COVID-19 post-vaccination</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Identify correlations between microbiome composition and immune system response to the vaccine</measure>
+    <time_frame>3-6 months</time_frame>
+    <description>Immune cell profile and cytokine analysis will be performed on the blood samples to characterize the patient's immune phenotype, and determine how it correlates to microbiome composition</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Track coronavirus variants of any individuals infected</measure>
+    <time_frame>6-12 months</time_frame>
+    <description>Any subject who contracts COVID-19 after vaccination will provide a nasal swab, which will be subject to viral sequencing to determine whether vaccinated individuals are more susceptible to certain variants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Build a library of samples and data for future research</measure>
+    <time_frame>6-24 months</time_frame>
+    <description>Samples will be stored and data saved in a HIPAA-compliant database. Samples will be linked to patient metadata</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>Vaccine Response Impaired</condition>
+  <condition>Vaccine Adverse Reaction</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 vaccine recipients</arm_group_label>
+    <description>Subjects who have an appointment to receive a COVID-19 vaccine, and are able to provide samples prior to and after their first vaccine dose.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVID-19 vaccine</intervention_name>
+    <description>Any vaccine for COVID-19</description>
+    <arm_group_label>COVID-19 vaccine recipients</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Stool and blood samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        It is anticipated that 10,000 subjects will be enrolled in this study. It is preferred that&#xD;
+        enrollment is balanced by sex; however, it is not required. All efforts will be made to&#xD;
+        provide racial/ethnic balance, with a goal of 50% underrepresented minorities.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men or women who are ≥ 18 years old and expecting to receive the SARS-CoV-2 vaccine&#xD;
+             within the next 30 days.&#xD;
+&#xD;
+          -  Subjects who are able to provide written informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects with known HIV, Hepatitis A, Hepatitis B, Hepatitis C, or SARS-CoV-2&#xD;
+             infection within 4 weeks of vaccination&#xD;
+&#xD;
+          -  Subjects without the mental capacity to complete either a written or online&#xD;
+             questionnaire, alone or with assistance, or make sound decisions&#xD;
+&#xD;
+          -  Women who are pregnant, plan on becoming pregnant, or are nursing.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Stephanie Culler, PhD</last_name>
+    <phone>7145950649</phone>
+    <email>sculler@persephonebiome.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Stephen Van Dien, PhD</last_name>
+    <phone>8582328733</phone>
+    <email>svandien@persephonebiome.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Persephone Biosciences, Inc.</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie Culler, PhD</last_name>
+      <phone>858-682-4777</phone>
+      <email>support@Join-VOICES.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Stephen Van Dien, PhD</last_name>
+      <phone>858-682-4777</phone>
+      <email>support@Join-VOICES.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 25, 2021</study_first_posted>
+  <last_update_submitted>February 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>gut microbiome</keyword>
+  <keyword>vaccine</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

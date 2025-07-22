@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="158">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04808986</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C20-72</org_study_id>
+    <secondary_id>ID RCB : 2020-A03298-31</secondary_id>
+    <nct_id>NCT04808986</nct_id>
+  </id_info>
+  <brief_title>Seroprevalence of IgG Antibodies to SARS-CoV-2 (COVID-19) in Primary Health Care Workers and Their Household Contacts</brief_title>
+  <acronym>COVID-SeroPRIM</acronym>
+  <official_title>Séroprévalence Des IgG dirigés Contre le SARS-CoV-2 Chez Les Professionnels de santé en Soins Primaires et Leurs Contacts au Sein Des ménages</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institut National de la Santé Et de la Recherche Médicale, France</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Institut National de la Santé Et de la Recherche Médicale, France</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Many uncertainties remain regarding the epidemiological and clinical characteristics of&#xD;
+      COVID-19, including the number of people exposed to the disease, the persistence of the&#xD;
+      humoral response and its associated neutralisation capacity in recovered patients, and the&#xD;
+      long-term health consequences of the infection. The French national COVID-SeroPRIM survey&#xD;
+      aims to estimate the seroprevalence of IgG antibodies to SARS-CoV-2 in four populations of&#xD;
+      primary care health professionals: primary care physicians (general practitioners and&#xD;
+      paediatricians), health professionals working in city pharmacies (pharmacists and&#xD;
+      compounders) and in dental practices (dentists and dental assistants). Indeed, the majority&#xD;
+      of published studies target healthcare professionals in hospitals. It is therefore essential&#xD;
+      to provide new knowledge on the exposure of primary care workers to the virus in order to&#xD;
+      assess the impact of the pandemic, the level of immunity and the risk factors for exposure to&#xD;
+      the virus. These data will be very useful for public health decision makers to better adapt&#xD;
+      health protocols and provide useful information to better guide future vaccination campaigns.&#xD;
+      Assuming that vaccination against COVID-19 will start in January 2021, data on the&#xD;
+      vaccination rate of health professionals and their households will also be collected and made&#xD;
+      available to policy makers in a timely manner. This study will be conducted in collaboration&#xD;
+      with four primary care research and/or monitoring networks: the Sentinelles network (general&#xD;
+      practitioners), the Association de Formation Professionnelle en Pédiatrie (Association for&#xD;
+      Professional Training in Paediatrics), IQVIA (general practitioners and pharmacies), and the&#xD;
+      Réseau de Recherche Clinique en Odontologie Libérale (ReCOL, dental surgeons) Seroprevalence&#xD;
+      will be estimated using a high-sensitivity ELISA designed to detect SARS-CoV-2 specific IgG&#xD;
+      antibodies in humoral fluid and a high-specificity seroneutralisation test to assess&#xD;
+      seropositivity (i.e. excluding false positive ELISA results due to cross-reactivity with&#xD;
+      other coronaviruses) and to assess SARS-CoV-2 neutralising antibody levels. These techniques&#xD;
+      have already been used in two general population cohort studies (SAPRIS-SERO and EpiCoV) with&#xD;
+      the objective of describing SARS-CoV-2 seroprevalence and risk factors. The secondary&#xD;
+      objectives of the COVID-SeroPRIM study will be to assess the seroprevalence of IgG antibodies&#xD;
+      to SARS-CoV-2 in household contacts of health care workers, to identify risk factors for&#xD;
+      seropositivity to SARS-CoV-2, and to retrospectively describe the symptoms experienced by&#xD;
+      individuals diagnosed with COVID-19. Due to the use of the same methodology to assess&#xD;
+      seroprevalence, these results will be broadly complementary and comparable to those of&#xD;
+      seroepidemiological studies conducted in the general population, such as EpiCOV and&#xD;
+      SAPRIS-SERO. These surveys (EpiCOV, SAPRIS-SERO and COVID-SeroPRIM) as a whole are based on&#xD;
+      similar questionnaires and identical serological methods and will provide many health&#xD;
+      indicators such as the proportion of people who presented symptoms, who consulted for a&#xD;
+      suspicion of COVID-19, who were screened but also who did not seek care in the recent period.&#xD;
+      The COVID-SeroPRIM study, by targeting primary care health professionals and their&#xD;
+      households, will provide data to reinforce the knowledge from SAPRIS-SERO and EpiCOV and to&#xD;
+      better understand the dynamics of the epidemic in these four populations in order to guide&#xD;
+      public policy makers.&#xD;
+&#xD;
+      This project has received funding from the French National Research Agency (ANR) as part of&#xD;
+      the COVID-19 call for research projects, which aims to support urgent and rapid projects&#xD;
+      whose results could be implemented in society in the coming months.&#xD;
+&#xD;
+      Main objective To estimate the seroprevalence of IgG antibodies to SARS-CoV-2 in four&#xD;
+      distinct populations of primary care health professionals (general practitioners,&#xD;
+      paediatricians, health professionals practising in city pharmacies and dental practices) in&#xD;
+      metropolitan France.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary endpoint&#xD;
+&#xD;
+      - Estimation of the prevalence of healthcare professionals with IgG antibodies to SARS-CoV-2&#xD;
+      in each of the four study populations (general practitioners, paediatricians, healthcare&#xD;
+      professionals practising in community pharmacies and dental practices).&#xD;
+&#xD;
+      Secondary endpoint&#xD;
+&#xD;
+        -  Comparison of the estimated prevalence of IgG antibodies to SARS-CoV-2 between each&#xD;
+           healthcare professional population and the general population (EpiCOV and SAPRIS-SERO&#xD;
+           studies);&#xD;
+&#xD;
+        -  Comparison of the estimated prevalence of IgG antibodies to SARS-CoV-2 between the four&#xD;
+           healthcare worker populations studied;&#xD;
+&#xD;
+        -  Estimation of the prevalence of household contacts of healthcare workers with IgG&#xD;
+           antibodies to SARS-CoV-2;&#xD;
+&#xD;
+        -  Estimation of the prevalence of neutralising antibodies to SARS-CoV-2;&#xD;
+&#xD;
+        -  Estimating the prevalence of vaccine-acquired antibodies among health workers and their&#xD;
+           household contacts;&#xD;
+&#xD;
+        -  Measurement of the association between SARS-CoV-2 IgG seropositivity and the&#xD;
+           characteristics (socio-demographic data, implementation of hygiene measures,&#xD;
+           professional practices, etc.) of the health professionals participating in the study;&#xD;
+&#xD;
+        -  Measure of association between SARS-CoV-2 IgG seropositivity and characteristics&#xD;
+           (socio-demographics, adherence to hygiene measures, work practices, etc.) among members&#xD;
+           of health workers' households;&#xD;
+&#xD;
+        -  Proportion of a- and paucisymptomatic forms in study participants;&#xD;
+&#xD;
+        -  To retrospectively describe the symptoms reported by health workers and their household&#xD;
+           members with a biologically confirmed diagnosis of COVID-19.&#xD;
+&#xD;
+      Target populations First phase The target populations are all four of the following&#xD;
+      healthcare professional populations: general practitioners, paediatricians, healthcare&#xD;
+      professionals practising in city pharmacies (pharmacists and dispensing chemists) and in&#xD;
+      dental practices (dental surgeons and dental assistants) who are self-employed in&#xD;
+      metropolitan France at the time of their inclusion in the study (planned for January 2021)&#xD;
+      The source populations are general practitioners, paediatricians, health professionals&#xD;
+      practising in city pharmacies (pharmacists and dispensing chemists) and in dental practices&#xD;
+      (dental surgeons and dental assistants) who are self-employed in metropolitan France, and who&#xD;
+      are affiliated to the following four health professional networks at the time of their&#xD;
+      inclusion in the study: Sentinelles, AFPA, IQVIA, and ReCOL networks.&#xD;
+&#xD;
+      Second phase Household members of primary care health professionals The target population is&#xD;
+      all the members of the households of the following four populations of healthcare&#xD;
+      professionals: general practitioners, paediatricians, healthcare professionals practising in&#xD;
+      town pharmacies (pharmacists and dispensing chemists) and in dental practices (dental&#xD;
+      surgeons and dental assistants) who are self-employed in metropolitan France at the time of&#xD;
+      their inclusion in the study. The source population is made up of members of households of&#xD;
+      general practitioners, paediatricians, health professionals practising in city pharmacies&#xD;
+      (pharmacists and dispensing chemists) and in dental practices (dental surgeons and dental&#xD;
+      assistants) who are members of a network of health professionals listed below, and who are&#xD;
+      participating in phase 1 of the COVID-SeroPRIM study: Sentinelles, AFPA, IQVIA, and ReCOL&#xD;
+      networks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2, 2021</start_date>
+  <completion_date type="Anticipated">November 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is a monocentric cross-sectional epidemiological study, with descriptive and analytical aims, carried out in metropolitan France. This study is qualified as research involving the human person of category 2 (RIPH2) as defined in the 2nd of article L. 1121-1 of the public health code, i.e. interventional research that involves only minimal risks and constraints, the list of which is set by order of 12 April 2018 of the minister in charge of health, after the opinion of the director general of the National Agency for the Safety of Medicines and Health Products (ANSM).</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Seroprevalence estimates in health care professionals</measure>
+    <time_frame>3 months</time_frame>
+    <description>Seroprevalence estimates of healthcare professionals with IgG antibodies to SARS-CoV-2 in each of the four study populations (general practitioners, paediatricians, healthcare professionals working in community pharmacies and dental practices).</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>serology COVID-19</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Serology of COVID-19 will be proposed to all health professionels and household members included in the study</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Serological test for the detection of IgG anti-SARS-CoV-2</intervention_name>
+    <description>Self-sampling dried-blood spot (DBS) kits will be send to each participant including material (a DBS card, lancets, pad), detailed printed instructionson how to perform thetest, and a self-addressed stamped padded envelope to be returned with the card to the centralized biobank (CEPH Biobank, Paris, France). Tubes will be sent sent to the virology laboratory (Unité des virus Émergents, Marseille, France) for serological analysis.</description>
+    <arm_group_label>serology COVID-19</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Health professionals in primary care :&#xD;
+&#xD;
+          -  General practitioners, paediatricians, pharmacists, pharmacy assistants, dental&#xD;
+             surgeons or dental assistants practising in metropolitan France at the time of&#xD;
+             inclusion (condition ensured by affiliation to one of the four networks);&#xD;
+&#xD;
+          -  Be affiliated to one of the following networks: Sentinelles, AFPA, IQVIA, ReCOL or&#xD;
+             work in a city pharmacy (for pharmacy assistants) or in a dental practice (dental&#xD;
+             assistants) whose owners are affiliated to these networks;&#xD;
+&#xD;
+          -  To be a volunteer to participate in the study;&#xD;
+&#xD;
+          -  To have given their agreement in principle to the collection of data (including&#xD;
+             personal data) necessary for recruitment;&#xD;
+&#xD;
+          -  Have given their consent to participate in the study;&#xD;
+&#xD;
+          -  To be affiliated to a social security scheme or to be a beneficiary of such a scheme.&#xD;
+&#xD;
+        Members of health professionals' households :&#xD;
+&#xD;
+          -  Occupy the same dwelling as a healthcare professional included in PHASE 1 of the&#xD;
+             COVID-SeroPRIM study at least 2 days per week (including weekend attendees, every&#xD;
+             other week, etc.) at the time of inclusion in the study, without necessarily being&#xD;
+             related;&#xD;
+&#xD;
+          -  To have volunteered to participate in the study;&#xD;
+&#xD;
+          -  To have given their consent to participate in the study or, in the case of minors,&#xD;
+             consent given by the representative(s) of the parental authority;&#xD;
+&#xD;
+          -  To be able to understand the study process, to fill in the questionnaires and to take&#xD;
+             the planned samples (if the person included is old enough to understand).&#xD;
+&#xD;
+        Exclusion criteria :&#xD;
+&#xD;
+          -  Persons subject to a legal protection measure (safeguard of justice, curatorship,&#xD;
+             guardianship);&#xD;
+&#xD;
+          -  Persons who have participated in clinical trials to test chemoprophylaxis to prevent&#xD;
+             infection with SARS-CoV-2.&#xD;
+&#xD;
+          -  Minors who do not have a parent or guardian in the health professional's household&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 22, 2021</study_first_posted>
+  <last_update_submitted>March 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

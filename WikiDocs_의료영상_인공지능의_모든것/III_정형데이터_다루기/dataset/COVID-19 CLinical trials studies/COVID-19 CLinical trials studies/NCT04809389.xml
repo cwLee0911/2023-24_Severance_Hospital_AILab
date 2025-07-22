@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1942">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04809389</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CTC2038</org_study_id>
+    <nct_id>NCT04809389</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate Safety and Immunogenicity of DelNS1-nCoV-RBD LAIV for COVID-19</brief_title>
+  <official_title>A Phase 1, Randomized, Double-blinded, Placebo-controlled, Dose-escalation and Dose-expansion Study to Evaluate the Safety and Immunogenicity of DelNS1-nCoV-RBD LAIV for COVID-19 in Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The University of Hong Kong</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To investigate the safety and immunogenicity profile of of a novel nasal spray&#xD;
+      investigational vaccine, which is a potential prophylactic vaccine for current pandemic&#xD;
+      disease COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, double-blinded, placebo-controlled study which comprises two parts,&#xD;
+      (dose escalation part and dose expansion part), and each volunteer will only be invited to&#xD;
+      join either one part. The duration of each part is around one (1) year, including screening,&#xD;
+      dosing and follow up visits.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 29, 2021</start_date>
+  <completion_date type="Anticipated">September 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The cumulative incidence of reactogenicity for all the subjects received at least 1 dose of investigational medicinal product (IMP), regardless of whether the subject withdrew early, delayed/missed the second dose or received any antipyretic.</measure>
+    <time_frame>For a 14-day period after each vaccination</time_frame>
+    <description>Reactogenicity: Occurrence of solicited local events (nasal irritation, sneezing, nasal congestion, cough, sore throat, change in smell, change in taste, change in vision and eye pain) and solicited systemic events (fever, headache, malaise, myalgia, joint pain, nausea, vomiting, diarrhea, abdominal pain, chills and sweating)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The seroconversion rate for serum RBD-specific binding antibodies for all the subjects received 2 doses of IMP, excluding subjects who missed the second dose, received any COVID-19 vaccine other than the IMPs or had a post-dose COVID-19 infection.</measure>
+    <time_frame>At 28 days after the second vaccination</time_frame>
+    <description>Seroconversion rate, which is defined as the percentage of subjects in each cohort who (i) have antibody titre &lt; LOD (limit of detection) or LLOQ (lower limit of quantification) at baseline and post-vaccination antibody titres of ≥ 40; or (ii) have at least a 4-fold increase in post-vaccination antibody titres in subjects with pre-existing baseline antibody titres.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">115</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Test Product</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>DelNS1-nCoV-RBD LAIV at 1×107 EID50 and 1×107.7 EID50, 2 doses 4 weeks apart, intranasal administration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Reference Product</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching placebo, 2 doses 4 weeks apart, intranasal administration</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>DelNS1-nCoV-RBD LAIV</intervention_name>
+    <description>Genetically engineered live attenuated influenza virus to express the receptor binding domain of SARS-CoV-2's spike protein for triggering human body's immune responses against SARS-CoV-2</description>
+    <arm_group_label>Test Product</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Matching placebo</intervention_name>
+    <description>0.9% NaCl solution</description>
+    <arm_group_label>Reference Product</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Informed Consent: The subject (or the subject's legally acceptable representative, if&#xD;
+             applicable) must be capable of giving written informed consent and, prior to the&#xD;
+             commencement of any study-specific procedure, must sign an ICF indicating the consent&#xD;
+             on the subject's voluntary participation in the study and compliance with the&#xD;
+             requirements and restrictions listed on the ICF.&#xD;
+&#xD;
+          2. Gender and Age: Male or female, at the age of ≥ 18 and ≤ 55 on the day of signing the&#xD;
+             ICF.&#xD;
+&#xD;
+          3. Body Weight and BMI: Body weight ≥ 50 kg and BMI ≥ 18.5 kg/m2 and &lt; 25 kg/m2 at&#xD;
+             screening and baseline.&#xD;
+&#xD;
+          4. Medical Conditions or Diagnoses: Existence of all of the following medical conditions&#xD;
+             or diagnoses:&#xD;
+&#xD;
+               1. Generally in good health with no clinically significant abnormality, as&#xD;
+                  determined by medical history, physical examination, 12-lead ECG and clinical&#xD;
+                  laboratory tests at screening and baseline;&#xD;
+&#xD;
+               2. Normal vital signs at screening and baseline, as defined by:&#xD;
+&#xD;
+                    -  Body (tympanic) temperature ≤ 37.5oC;&#xD;
+&#xD;
+                    -  Resting pulse rate ≥ 50 and ≤ 100 bpm; and&#xD;
+&#xD;
+                    -  DBP ≥ 50 and ≤ 90 mmHg and SBP ≥ 90 and ≤ 140 mmHg.&#xD;
+&#xD;
+          5. Contraception: Willingness and agreement to undertake measures to avoid pregnancy of&#xD;
+             the subject or the subject's sexual partner(s) as detailed below:&#xD;
+&#xD;
+               1. A female subject who is a woman of childbearing potential (WOCBP) must be willing&#xD;
+                  and agree to remain abstinent or practise at least one effective contraceptive&#xD;
+                  method from at least 30 days prior to the first vaccination until 60 days after&#xD;
+                  the second vaccination;&#xD;
+&#xD;
+               2. A male subject (i) who is sexually active with a WOCBP (except who is permanently&#xD;
+                  sterile by bilateral orchiectomy or vasectomy) must be willing and agree to&#xD;
+                  remain abstinent or practise at least one effective contraceptive method from the&#xD;
+                  first vaccination until 60 days after the second vaccination; and (ii) must be&#xD;
+                  willing and agree to refrain from sperm donation during the aforesaid period.&#xD;
+&#xD;
+          6. Breastfeeding: A female subject must be willing and agree to avoid engagement in&#xD;
+             breastfeeding at any time from the first vaccination until 60 days after the second&#xD;
+             vaccination.&#xD;
+&#xD;
+          7. Blood Donation: Willingness and agreement to avoid blood donation from screening to&#xD;
+             the end of the period of participation in this study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Medical History: History of any of the following diseases or conditions:&#xD;
+&#xD;
+               1. COVID-19;&#xD;
+&#xD;
+               2. SARS;&#xD;
+&#xD;
+               3. Any significant respiratory diseases (e.g. COPD, asthma);&#xD;
+&#xD;
+               4. Any significant cardiovascular disease (e.g. angina, cardiac arrhythmias);&#xD;
+&#xD;
+               5. Blood dyscrasias or any significant disorder of coagulation;&#xD;
+&#xD;
+               6. Any chronic liver disease (e.g. autoimmune hepatitis and cirrhosis);&#xD;
+&#xD;
+               7. Any chronic infection (e.g. hepatitis B, hepatitis C and HIV);&#xD;
+&#xD;
+               8. Any malignant neoplastic disease;&#xD;
+&#xD;
+               9. Encephalopathy, neuropathy or unstable central nervous system (CNS) pathology;&#xD;
+&#xD;
+              10. Any psychiatric disorder, psychotic disorder, major affective disorder or&#xD;
+                  suicidal ideation;&#xD;
+&#xD;
+              11. Any immunodeficiency or autoimmune disease;&#xD;
+&#xD;
+              12. Any severe allergic reaction (e.g. anaphylaxis) to any vaccine or substance,&#xD;
+                  which requires hospitalization or emergency medical care;&#xD;
+&#xD;
+              13. Any hypersensitivity to (especially anaphylactic reactions) to eggs, egg proteins&#xD;
+                  or gentamicin sulfate;&#xD;
+&#xD;
+              14. Any chronic rhinitis, nasal septal defect, cleft palate, nasal polyps or other&#xD;
+                  nasal abnormality that might affect vaccine administration;&#xD;
+&#xD;
+              15. History of alcohol or illicit drug abuse, or used any illicit drug within 6&#xD;
+                  months prior to screening.&#xD;
+&#xD;
+          2. Medical Conditions or Diagnoses: Existence of any of the following medical conditions&#xD;
+             or diagnoses:&#xD;
+&#xD;
+               1. Positive serum pregnancy test at screening or positive urine pregnancy test at&#xD;
+                  baseline (for WOCBP);&#xD;
+&#xD;
+               2. IgE level &gt; 1,000 U.I./ml at screening;&#xD;
+&#xD;
+               3. Positive SARS-CoV-2 test result in serum, deep throat saliva (DTS) or&#xD;
+                  nasopharyngeal swab (NPS) within 4 days prior to baseline;&#xD;
+&#xD;
+               4. T3, T4 or TSH &lt; LLN or &gt; ULN at screening;&#xD;
+&#xD;
+               5. Positive HIV test result at screening;&#xD;
+&#xD;
+               6. Positive HBsAg test result at screening;&#xD;
+&#xD;
+               7. Positive HCV antibody test result at screening;&#xD;
+&#xD;
+               8. Positive T-cell interferon-γ release assay (TIGRA) result (i.e. by&#xD;
+                  QuantiFERON®-TB Gold Plus™ test) at screening (Remark: A single repeat will be&#xD;
+                  allowed with an indeterminate result);&#xD;
+&#xD;
+               9. Positive urine drug screen test result or positive blood alcohol test result at&#xD;
+                  screening or baseline;&#xD;
+&#xD;
+              10. Any clinical significant findings (e.g. active or acute cardiac/pulmonary&#xD;
+                  diseases) of chest X-ray at screening.&#xD;
+&#xD;
+          3. Prior/Concomitant Interventions: Use of or undergoing any of the following prior or&#xD;
+             concomitant medications, therapies or interventions:&#xD;
+&#xD;
+               1. Any COVID-19 or coronavirus vaccine at any time prior to the first vaccination,&#xD;
+                  or planned use of any such vaccine throughout the study;&#xD;
+&#xD;
+               2. Any vaccine other than COVID-19 or coronavirus vaccines within 28 days prior to&#xD;
+                  the first vaccination, or planned use of any such vaccine up to 28 days after the&#xD;
+                  second vaccination;&#xD;
+&#xD;
+               3. Any immune-modifying medication/therapy (e.g. immunomodulator and&#xD;
+                  immunosuppressant) within 6 months prior to the first vaccination, or planned use&#xD;
+                  of any such medication/therapy throughout the study;&#xD;
+&#xD;
+               4. Any blood product (including blood transfusion) or immunoglobulin within 3 months&#xD;
+                  prior to the first vaccination, or planned use of any such therapy throughout the&#xD;
+                  study;&#xD;
+&#xD;
+               5. Any anticoagulation medication within 28 days prior to the first vaccination, or&#xD;
+                  planned use of any such medication up to 28 days after the second vaccination;&#xD;
+&#xD;
+               6. Any psychotropic medication within 28 days prior to the first vaccination, or&#xD;
+                  planned use of any such medication up to 28 days after the second vaccination;&#xD;
+&#xD;
+               7. Regular use of any inhaled/nebulized corticosteroid;&#xD;
+&#xD;
+               8. Any intranasal preparation within 48 hours prior to the first vaccination, or&#xD;
+                  planned use of any such preparation up to 48 hours after the second vaccination;&#xD;
+&#xD;
+               9. Any influenza antiviral medication within 48 hours prior to the first&#xD;
+                  vaccination, or planned use of any such medication up to 14 days after the second&#xD;
+                  vaccination;&#xD;
+&#xD;
+              10. Any prescription or over-the-counter medication or supplement product (e.g.&#xD;
+                  vitamin, dietary supplement, herbal preparation) within 7 days prior to the first&#xD;
+                  vaccination, unless with the investigator's approval for managing a chronic&#xD;
+                  condition;&#xD;
+&#xD;
+              11. Donated ≥ 450 ml of blood within 28 days prior to the first vaccination;&#xD;
+&#xD;
+              12. Prior nasal surgery or nasal cauterization.&#xD;
+&#xD;
+          4. Prior/Concurrent Clinical Study: Prior or concurrent participation in any other&#xD;
+             clinical study, including:&#xD;
+&#xD;
+               1. Prior or current participation in another COVID-19 vaccine study;&#xD;
+&#xD;
+               2. Prior participation in any interventional clinical study and use of any&#xD;
+                  investigational intervention within 90 days prior to the first vaccination;&#xD;
+&#xD;
+               3. Concurrent participation or plan for participation in another interventional&#xD;
+                  clinical study during participation in this study.&#xD;
+&#xD;
+          5. Other Significant Medical Conditions: Any clinically significant concomitant disease&#xD;
+             or condition that, in the reasonable opinion of the investigator, may interfere with&#xD;
+             the subject's participation in this study or pose an unacceptable safety risk for the&#xD;
+             subject's participation in this study.&#xD;
+&#xD;
+          6. Special Conditions: Existence of any of the following special conditions:&#xD;
+&#xD;
+               1. Close contact with anyone known to have COVID-19 within 30 days prior to the&#xD;
+                  first vaccination;&#xD;
+&#xD;
+               2. Travelled outside Hong Kong within 14 days prior to the first vaccination;&#xD;
+&#xD;
+               3. Planned to travel outside Hong Kong at any time during the period from screening&#xD;
+                  to Day 57(±3) visit.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ivan Fan-ngai Hung</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Hong Kong</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Volunteer Resource Centre</last_name>
+    <phone>85296812309</phone>
+    <email>ctcvrc@hku.hk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>HKU Phase 1 Clinical Trials Centre</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <link>
+    <url>https://www.fda.gov/media/139638/download</url>
+    <description>Accessed on 07 January 2021</description>
+  </link>
+  <link>
+    <url>https://www.fda.gov/media/73679/download</url>
+    <description>Accessed on 07 January 2021</description>
+  </link>
+  <link>
+    <url>https://www.gmp-compliance.org/files/guidemgr/E9-R1_Step4_Guideline_2019_1203.pdf</url>
+    <description>Accessed on 07 January 2021</description>
+  </link>
+  <link>
+    <url>https://www.nmpa.gov.cn/directory/web/nmpa/yaopin/ypggtg/20200814230916157.html</url>
+    <description>Accessed on 07 January 2021</description>
+  </link>
+  <link>
+    <url>https://covid19.who.int/table</url>
+    <description>Accessed on 28 December 2020</description>
+  </link>
+  <reference>
+    <citation>Mössler C, Groiss F, Wolzt M, Wolschek M, Seipelt J, Muster T. Phase I/II trial of a replication-deficient trivalent influenza virus vaccine lacking NS1. Vaccine. 2013 Dec 16;31(52):6194-200. doi: 10.1016/j.vaccine.2013.10.061. Epub 2013 Oct 30.</citation>
+    <PMID>24183981</PMID>
+  </reference>
+  <reference>
+    <citation>Surichan S, Wirachwong P, Supachaturas W, Utid K, Theerasurakarn S, Langsanam P, Lakornrach P, Nitisaporn L, Chansikkakorn C, Vangkanonta W, Kaweepornpoj R, Poopipatpol K, Thirapakpoomanunt S, Srichainak S, Artavatkun W, Chokevivat V, Wibulpolprasert S. Development of influenza vaccine production capacity by the Government Pharmaceutical Organization of Thailand: addressing the threat of an influenza pandemic. Vaccine. 2011 Jul 1;29 Suppl 1:A29-33. doi: 10.1016/j.vaccine.2011.04.120. Review.</citation>
+    <PMID>21684425</PMID>
+  </reference>
+  <reference>
+    <citation>Wacheck V, Egorov A, Groiss F, Pfeiffer A, Fuereder T, Hoeflmayer D, Kundi M, Popow-Kraupp T, Redlberger-Fritz M, Mueller CA, Cinatl J, Michaelis M, Geiler J, Bergmann M, Romanova J, Roethl E, Morokutti A, Wolschek M, Ferko B, Seipelt J, Dick-Gudenus R, Muster T. A novel type of influenza vaccine: safety and immunogenicity of replication-deficient influenza virus created by deletion of the interferon antagonist NS1. J Infect Dis. 2010 Feb 1;201(3):354-62. doi: 10.1086/649428.</citation>
+    <PMID>20039806</PMID>
+  </reference>
+  <reference>
+    <citation>Wang P, Zheng M, Lau SY, Chen P, Mok BW, Liu S, Liu H, Huang X, Cremin CJ, Song W, Chen Y, Wong YC, Huang H, To KK, Chen Z, Xia N, Yuen KY, Chen H. Generation of DelNS1 Influenza Viruses: a Strategy for Optimizing Live Attenuated Influenza Vaccines. mBio. 2019 Sep 17;10(5). pii: e02180-19. doi: 10.1128/mBio.02180-19.</citation>
+    <PMID>31530680</PMID>
+  </reference>
+  <reference>
+    <citation>Zheng M, Wang P, Song W, Lau SY, Liu S, Huang X, Mok BW, Liu YC, Chen Y, Yuen KY, Chen H. An A14U Substitution in the 3' Noncoding Region of the M Segment of Viral RNA Supports Replication of Influenza Virus with an NS1 Deletion by Modulating Alternative Splicing of M Segment mRNAs. J Virol. 2015 Oct;89(20):10273-85. doi: 10.1128/JVI.00919-15. Epub 2015 Jul 29.</citation>
+    <PMID>26223635</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 22, 2021</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>The results of this study will be publicly disseminated by ways of publication(s) in peer-reviewed scientific journal(s), presentation(s) in scientific conference(s), posting on public clinical trial registry(ies) and/or otherwise instead of individual participant data (IPD) sharing.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="842">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04800146</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IOSI-COVID19-001</org_study_id>
+    <nct_id>NCT04800146</nct_id>
+  </id_info>
+  <brief_title>A Study on the Immune-response to COVID-19 Vaccination in Cancer Patients - the IOSI-COVID-19-001 Study</brief_title>
+  <official_title>A Prospective Observational Study on the Immune-response to SARS-CoV-2 Vaccination in Cancer Patients - the IOSI-COVID-19-001 Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ilaria Colombo</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Institute for Research in Biomedicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ente Ospedaliero Cantonale, Bellinzona</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Oncology Institute of Southern Switzerland</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single centre prospective observational study to assess the immune response to&#xD;
+      SARS-CoV-2 vaccines in cancer patients receiving active treatment or in follow-up at the IOSI&#xD;
+      and in non-cancer patients (age and gender matched).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will be conducted on 7 cohorts of cancer patients and 1 cohort of non-cancer&#xD;
+      subjects (age and gender matched) with a sample size of 30 patients in each cohort:&#xD;
+&#xD;
+      All enrolled patients will be asked to provide blood samples (2 x 10cc Heparin Tubes) at the&#xD;
+      following time points:&#xD;
+&#xD;
+        -  Baseline: before the administration of the first dose of the SARS-CoV-2 vaccine (within&#xD;
+           4 weeks).&#xD;
+&#xD;
+        -  Before the second dose of the SARS-CoV-2 vaccine (within 7 days).&#xD;
+&#xD;
+        -  Follow-up: after 3, 6, 9 and 12 months after the second dose of the SARS-CoV-2 vaccine.&#xD;
+           A +/- 14 days window is allowed at each follow-up time point.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 25, 2021</start_date>
+  <completion_date type="Anticipated">December 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Immune response to SARS-CoV-2 vaccine in cancer patients</measure>
+    <time_frame>3, 6, 9 and 12 months following vaccination</time_frame>
+    <description>to determine the changes in the titer of serum antibodies (IgM, IgG and IgA) targeting SARS-CoV-2 antigens in 7 cohorts of cancer patients who have received the SARS-CoV-2 vaccination. A cohort of non-cancer subjects will be used as control group.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>changes in serum antibodies anti SARS-CoV-2 after vaccination</measure>
+    <time_frame>3, 6, 9 and 12 months following vaccination</time_frame>
+    <description>To explore the dynamic changes overtime of the levels of antibodies against SARS-CoV-2 following vaccination in cancer patients and controls</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cellular immune response to SARS-CoV-2 vaccine</measure>
+    <time_frame>3, 6, 9 and 12 months following vaccination</time_frame>
+    <description>To explore the dynamic changes overtime of the T cells immune response following SARS-CoV-2 vaccination in cancer patients and controls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cellular immune response to SARS-CoV-2 vaccine</measure>
+    <time_frame>3, 6, 9 and 12 months following vaccination</time_frame>
+    <description>To explore the dynamic changes overtime of the B cells immune response following SARS-CoV-2 vaccination in cancer patients and controls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immune response to SARS-CoV-2 vaccine according tumor and treatment type</measure>
+    <time_frame>3, 6, 9 and 12 months following vaccination</time_frame>
+    <description>To explore the correlation between the immune response against SARS-CoV-2 vaccination and the type of cancer (e.g., solid tumors versus hematological malignancies) and the type of anticancer treatment (e.g., anti-CD20, chemotherapy, targeted agents, immunotherapy, allogenic or autologous transplant)</description>
+  </secondary_outcome>
+  <number_of_groups>8</number_of_groups>
+  <enrollment type="Anticipated">240</enrollment>
+  <condition>Covid19</condition>
+  <condition>Cancer</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <description>patients with solid tumors treated with chemotherapy (ongoing or completed no more than 6 months before enrollment). Specific type of chemotherapy inducing similar immunosuppression will be selected (including but not limited to platinum-based combinations, anthracycline combinations, triweekly docetaxel).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <description>patients with solid tumors treated with single agent immune-check points inhibitors (ongoing or completed no more than 6 months before the enrollment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <description>patients with solid tumors treated with hormonal agents (ongoing or completed no more than 6 months before enrollment): any anti-androgen for prostate cancer and any anti-estrogen for breast cancer patients.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <description>patients with previously untreated mature B cell tumors in watch and wait</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 5</arm_group_label>
+    <description>patients with mature B cell tumors treated with anti-CD20 monoclonal antibody either alone or in combination with chemotherapy (ongoing or completed no more than 12 months before enrollment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 6</arm_group_label>
+    <description>patients with hematological malignancies treated with pathway inhibitors (ongoing or completed no more than 12 months before enrollment). Different type of targeted agents can be considered, including Bruton tyrosine kinase (BTK) inhibitors, B-cell lymphoma 2 (BCL-2) inhibitors or phosphoinositide-3 kinase (PI3K) inhibitors</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 7</arm_group_label>
+    <description>patients with hematological malignancies who have received autologous stem cell or allogenic transplant within 12 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 8</arm_group_label>
+    <description>non-cancer subjects (age and gender matched) referred to the Division of Infectious Diseases, Lugano, EOC for vaccination against SARS-CoV-2.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Blood sample</intervention_name>
+    <description>Patients will be asked to provide blood samples at specified time points: before and after the SARS-CoV-2 vaccination</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_label>Cohort 5</arm_group_label>
+    <arm_group_label>Cohort 6</arm_group_label>
+    <arm_group_label>Cohort 7</arm_group_label>
+    <arm_group_label>Cohort 8</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The population of this study is represented by patients with a diagnosis of solid tumor or&#xD;
+        hematological malignancy and receiving treatment or on active surveillance at the IOSI who&#xD;
+        have planned to receive an mRNA (messenger ribonucleic acid) SARS-CoV-2 vaccine, according&#xD;
+        to the prespecified cohorts.&#xD;
+&#xD;
+        A control group of non-cancer subjects followed at the outpatient clinic of the Division of&#xD;
+        Infectious Diseases, EOC will also be enrolled for comparative analysis.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male of Female age at least 18 years&#xD;
+&#xD;
+          -  Patients with a diagnosis of malignancy (solid tumors or hematological malignancies)&#xD;
+             according to the defined cohorts. Only for cohorts 1-7&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) Performance Status 0-2&#xD;
+&#xD;
+          -  Absence of known immune deficiency (other than cancer for cohorts 1-7)&#xD;
+&#xD;
+          -  Ability to understand the patient information and study consent. Signed and dated&#xD;
+             written informed consent must be available before performing any study-related&#xD;
+             procedure&#xD;
+&#xD;
+          -  Willing and able to comply with the study procedures.&#xD;
+&#xD;
+          -  Willing to receive an mRNA anti-SARS-CoV-2 vaccine.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Oncology Institute of Southern Switzerland</name>
+      <address>
+        <city>Bellinzona</city>
+        <zip>6500</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>ilaria colombo, MD</last_name>
+      <phone>+41764528823</phone>
+      <email>ilaria.colombo@eoc.ch</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 16, 2021</study_first_posted>
+  <last_update_submitted>March 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Oncology Institute of Southern Switzerland</investigator_affiliation>
+    <investigator_full_name>Ilaria Colombo</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

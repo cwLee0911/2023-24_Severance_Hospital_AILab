@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3143">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04780672</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MNCV-III/2-2020</org_study_id>
+    <nct_id>NCT04780672</nct_id>
+  </id_info>
+  <brief_title>Clinical Study in the Treatment of Patients With COVID-19</brief_title>
+  <official_title>Clinical Study to Analyze the Safety and Efficacy of Molixan® as Part of Standard Therapy in the Treatment of Patients With the Severe Course of New Coronavirus Infection (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pharma VAM</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pharma VAM</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multicenter, prospective, double-blind, placebo-controlled, randomized, parallel-group phase&#xD;
+      III study.&#xD;
+&#xD;
+      The study is designed for 2 treatment groups:&#xD;
+&#xD;
+        -  Group 1 of the investigational drug - Patients receive standard therapy and the&#xD;
+           investigational drug.&#xD;
+&#xD;
+        -  Group 2 of comparison - Patients receive standard therapy and placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with the severe course of COVID-19 infection confirmed by PCR laboratory test will&#xD;
+      be involved in the study on a voluntary basis.&#xD;
+&#xD;
+      In accordance with regulatory enactments, these patients receive specialized medical care in&#xD;
+      specialized medical institutions, where the conduct of the study is planned.&#xD;
+&#xD;
+      The study is planned as a double-blind, which will be achieved by using Molixan and placebo&#xD;
+      (0.9% NaCl solution) in the same packaging with the same labeling, indistinguishable in color&#xD;
+      and smell.&#xD;
+&#xD;
+      Patients will be randomized in an unpredictable manner using the IWRS system.&#xD;
+&#xD;
+      It is planned to divide patients into 2 parallel groups:&#xD;
+&#xD;
+        1. Group 1. Standard therapy + Molixan;&#xD;
+&#xD;
+        2. Group 2. Standard therapy + placebo. The regimen (1 or 2) assigned to each study subject&#xD;
+           will not be known to either the Investigator or the patient.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 9, 2021</start_date>
+  <completion_date type="Anticipated">October 19, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 19, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>WHO Ordinal Scale for Clinical Improvement</measure>
+    <time_frame>28 days</time_frame>
+    <description>The median time to reach the clinical improvement on the WHO Ordinal Scale for Clinical Improvement (follow-up period 28 days after initiation of treatment) using hazard ratio estimates.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>28 days</time_frame>
+    <description>All-cause mortality (follow-up period of 28 days after the start of treatment)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>28 days</time_frame>
+    <description>Duration of hospitalization from the start of therapy, days (observation period of 28 days after the start of treatment)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation</measure>
+    <time_frame>28 days</time_frame>
+    <description>The need for mechanical ventilation, extracorporeal membrane oxygenation, non-invasive ventilation or high-flow oxygen delivery by nasal cannula (observation period of 28 days after the start of treatment).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to cancellation of oxygen support</measure>
+    <time_frame>28 days</time_frame>
+    <description>Time to cancellation of oxygen support, if available, days (observation period of 28 days after the start of treatment)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Invasive mechanical ventilation</measure>
+    <time_frame>28 days</time_frame>
+    <description>The need for invasive mechanical ventilation of the lungs (observation period of 28 days after the start of treatment)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stay in the intensive care unit</measure>
+    <time_frame>28 days</time_frame>
+    <description>The need to stay in the intensive care unit (observation period of 28 days after the start of treatment).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The transition of the disease to an extremely severe course</measure>
+    <time_frame>28 days</time_frame>
+    <description>The frequency of the transition of the disease to an extremely severe course (observation period of 28 days after the start of treatment).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fever</measure>
+    <time_frame>28 days</time_frame>
+    <description>Duration of fever (≥38оC), days (observation period of 28 days after the start of treatment)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The dynamics of the National Early Warning Score (NEWS)</measure>
+    <time_frame>10 days</time_frame>
+    <description>The dynamics of the National Early Warning Score (NEWS) decrease in comparison with the baseline value (observation period of 10 days).&#xD;
+NEWS uses six physiological measurements: respiratory rate; oxygen saturation; temperature; systolic blood pressure; heart rate and level of consciousness. Each scores 0-3 and individual scores are added together for an overall score. An additional one points are added if the patient is receiving oxygen therapy.&#xD;
+Higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The dynamics of changes in the level of C-reactive protein</measure>
+    <time_frame>10 days</time_frame>
+    <description>The dynamics of changes in the level of C-reactive protein compared with the baseline value (observation period of 10 days).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The dynamics of residual symptoms</measure>
+    <time_frame>10 days</time_frame>
+    <description>The dynamics of residual symptoms compared to baseline values (observation period of 10 days).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The dynamics of residual symptoms</measure>
+    <time_frame>28 days</time_frame>
+    <description>The dynamics of residual symptoms on the 28th day after the start of treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The dynamics of blood biochemical parameters</measure>
+    <time_frame>10 days</time_frame>
+    <description>The dynamics of blood biochemical parameters in comparison with the initial value (observation period of 10 days) Any clinically significant deviations from laboratory parameters detected at visits after the first dosing of the drugs.&#xD;
+Biochemical blood assay: urea, creatinine, glucose, alanine aminotransferase, aspartate aminotransferase, bilirubin, albumin, lactate, lactate dehydrogenase, troponin, ferritin.&#xD;
+Local laboratories of research centers will be used for laboratory tests and assessments.&#xD;
+After collecting and verification 100% values of laboratory parameters according to the Protocol from all local laboratories, the units of measurement will be unified before Statistical process control by valid formulas for transitions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The dynamics of CT signs</measure>
+    <time_frame>14 days</time_frame>
+    <description>The dynamics of CT signs on the 14th day after the start of therapy compared with the baseline value.&#xD;
+In the conclusion CT study, a probabilistic assessment of the relationship of the detected changes with COVID 19 according to international recommendations and the approximate volume of lung damage according to the &quot;empirical&quot; scale of assessment shall be given.&#xD;
+The scale is based on a visual assessment of the approximate volume of compacted lung tissue in both lungs: 1. Absence of characteristic manifestations (CT-0) 2. Minimum volume/site &lt; 25% of lung volume (CT-1) 3. Average volume/site 25 - 50% of lung volume (CT-2) 4. Significant volume/site 50 - 75% of lung volume (CT-3) 5. Critical volume/site &gt; 75% of lung volume (CT-4).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">330</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Molixan</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>30 mg/ml solution for intravenous and intramuscular injection. Pharmacotherapeutic group: Metabolic agent. ATC code: V03AX - other medicinal products</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Sol. of NaCl (Sodium chloride) - 0.9% Pharmacotherapeutic group: Regulators of water-electrolytic balance and acid-base balance.&#xD;
+ATC: B05CB01 Sodium chloride</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Molixan</intervention_name>
+    <description>The investigational drug in this study is Molixan in the dosage form of 30 mg/ml solution for intravenous and intramuscular injection. Against the background of standard therapy: Molixan® at a dose of 3.0 mg/kg per day is administered once intravenously (stream injection) with 0.9% sodium chloride solution at a volume ratio of 1:1 for 10 days.</description>
+    <arm_group_label>Molixan</arm_group_label>
+    <other_name>Inosine glycyl-cysteinyl-glutamate disodium</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo will be used as a comparator drug and will be an analogue of the investigational drug without active substance. Against the background of standard therapy: Placebo at a dose of 3.0 mg/kg per day is administered once intravenously (stream injection) with 0.9% sodium chloride solution at a volume ratio of 1:1 for 10 days.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Sodium chloride</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Hospitalized male and female patients aged 18 to 75 and weighing no more than 120 kg&#xD;
+             inclusively with a diagnosis of the severe course of COVID-19 confirmed by the result&#xD;
+             of a laboratory study for the presence of SARS-CoV-2 RNA using nucleic acid&#xD;
+             amplification methods (to be performed on Screening, or results with sampling 72 hours&#xD;
+             prior to Screening may be accepted);&#xD;
+&#xD;
+          2. Changes in the lungs on CT (X-ray) typical for viral damage (the damage size is&#xD;
+             significant or subtotal; CT 3-4);&#xD;
+&#xD;
+          3. One or more criteria for a severe course:&#xD;
+&#xD;
+               -  RR &gt; 30/min&#xD;
+&#xD;
+               -  SpO2 ≤ 93%&#xD;
+&#xD;
+               -  PaO2 /FiO2 ≤ 300 mm Hg&#xD;
+&#xD;
+               -  Decreased consciousness, agitation&#xD;
+&#xD;
+               -  Unstable hemodynamics (systolic blood pressure less than 90 mm Hg or diastolic&#xD;
+                  blood pressure less than 60 mm Hg, urine output less than 20 ml/hour)&#xD;
+&#xD;
+               -  Arterial blood lactate &gt; 2 mmol/l&#xD;
+&#xD;
+               -  qSOFA &gt; 2 points&#xD;
+&#xD;
+          4. Signed informed consent of the patient to participate in the study*;&#xD;
+&#xD;
+          5. The patient's ability to adequately cooperate (the ability to understand the&#xD;
+             information provided about the clinical study, the willingness to comply with the&#xD;
+             requirements of the study protocol)*;&#xD;
+&#xD;
+             *In case of impossibility of the criteria No. 4 and 5 fulfilling the decision on&#xD;
+             including the patient shall be taken by a medical council. After the normalization of&#xD;
+             the status the patient shall compulsorily be proposed to acquaint themselves with the&#xD;
+             Patient Information Leaflet and take a decision on further participation in the study&#xD;
+             (Informed Consent Form signing) or withdrawal.&#xD;
+&#xD;
+          6. For women with preserved reproductive function - a negative pregnancy test and consent&#xD;
+             to use adequate methods of contraception from the moment of inclusion in the study&#xD;
+             until the end of the study;&#xD;
+&#xD;
+          7. For men - consent to use adequate methods of contraception from the moment of&#xD;
+             inclusion in the study to the end of the study.&#xD;
+&#xD;
+        Non-inclusion criteria:&#xD;
+&#xD;
+        Patients cannot be included in the study if at least one of the following criteria is met:&#xD;
+&#xD;
+        Associated with the underlying disease:&#xD;
+&#xD;
+          1. Mild, moderate and extremely severe COVID-19 disease upon admission to the hospital;&#xD;
+&#xD;
+          2. A condition requiring invasive oxygen support;&#xD;
+&#xD;
+          3. Failure to meet the criteria for inclusion and severity of the condition in terms of&#xD;
+             the main parameters;&#xD;
+&#xD;
+             Related to the investigational drug, prior and concomitant therapy:&#xD;
+&#xD;
+          4. Hypersensitivity or individual intolerance to the components of the investigational&#xD;
+             drug according to the history;&#xD;
+&#xD;
+          5. Taking any antiviral or immunomodulatory drugs after the manifestation of COVID-19&#xD;
+             (except for those planned for appointment as part of the study);&#xD;
+&#xD;
+             Associated with concomitant pathology:&#xD;
+&#xD;
+             According to the history and physical examination:&#xD;
+&#xD;
+          6. A history of active tuberculosis;&#xD;
+&#xD;
+          7. Impossibility of intravenous administration of the drug;&#xD;
+&#xD;
+          8. Severe, decompensated or unstable somatic diseases according to the history and&#xD;
+             outpatient card/medical history:&#xD;
+&#xD;
+               -  Child-Pugh class B and C cirrhosis;&#xD;
+&#xD;
+               -  Myocardial infarction, CVA/TIA, PE less than 3 months before the start of the&#xD;
+                  study, large aortic aneurysm (more than 6 cm);&#xD;
+&#xD;
+               -  Type 1 diabetes mellitus. Diseases of the thyroid gland with decompensation.&#xD;
+&#xD;
+               -  The presence of signs of severe damage to the central nervous system (history of&#xD;
+                  severe TBI, meningitis, consequences of CVA, encephalopathy of various origin,&#xD;
+                  epilepsy, etc.);&#xD;
+&#xD;
+               -  Current severe blood disorders or history of such diseases (i.e. baseline anemia&#xD;
+                  Hb&lt;80, myeloid leukemia, myelodysplastic syndrome, etc.);&#xD;
+&#xD;
+               -  No less than 3 months after the surgery for coronary artery bypass&#xD;
+                  grafting/stenting before inclusion in the study;&#xD;
+&#xD;
+               -  Malignant neoplasm of any localization at present or within 5 years prior to&#xD;
+                  inclusion in the study, with the exception of completely healed carcinoma in&#xD;
+                  situ;&#xD;
+&#xD;
+          9. Any other comorbidities or conditions that, in the opinion of the investigator, make&#xD;
+             it difficult to interpret the results of treatment or may limit the patient's&#xD;
+             participation in the study;&#xD;
+&#xD;
+             According to laboratory tests at screening:&#xD;
+&#xD;
+         10. A positive result for HIV, syphilis, hepatitis B and C at screening;&#xD;
+&#xD;
+             Associated with the patient compliance in the study:&#xD;
+&#xD;
+         11. A history of alcohol abuse, drug dependence or drug addiction;&#xD;
+&#xD;
+         12. Patients who, in the opinion of the investigator, are obviously or likely to be unable&#xD;
+             to understand and evaluate the information on this study as part of the informed&#xD;
+             consent signing process, in particular regarding the expected risks and possible&#xD;
+             discomfort;&#xD;
+&#xD;
+         13. Patient's inability or unwillingness to follow the rules for conducting and&#xD;
+             participating in the clinical study;&#xD;
+&#xD;
+         14. Severe visual and/or hearing impairments, severe speech impairments and/or other&#xD;
+             abnormalities that may prevent the patient from adequately cooperating during the&#xD;
+             study;&#xD;
+&#xD;
+         15. A history of mental illness;&#xD;
+&#xD;
+             Other:&#xD;
+&#xD;
+         16. Pregnancy;&#xD;
+&#xD;
+         17. Breast-feeding;&#xD;
+&#xD;
+         18. Participation in other clinical studies within 3 months prior to enrollment in this&#xD;
+             study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Erroneous inclusion (violation of inclusion/non-inclusion criteria).&#xD;
+&#xD;
+          2. Individual intolerance to the investigational drug.&#xD;
+&#xD;
+          3. Refusal of the patient to continue participating in the study/withdrawal of informed&#xD;
+             consent by the patient.&#xD;
+&#xD;
+          4. Termination of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Viktor Borisovich Filimonov</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Federal State Budgetary Educational Institution of Higher Education</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Tamara Valerievna Gaigolnik</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Federal Siberian Scientific and Clinical Center of the Federal Medical and Biological Agency, Krasnoyarsk</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Halida Hanafievna Ganceva</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Federal State Budgetary Educational Institution of Higher Education &quot;Bashkir State Medical University&quot; of the Ministry of Healthcare of the Russian Federation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Elena Petrovna Dmitrikova</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>State Budgetary Institution of Healthcare of Moscow Region &quot;Zhukovskaya City Clinical Hospital&quot;, Zhukovskiy, Moscow Region, Russian Federation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mariya Evgen'evna Mozhejko</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Yaroslavl Regional Clinical Hospital for War Veterans - The International Center for the Elderly &quot;Healthy Longevity&quot;</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Halit Saubanovich Haertynv</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Republican Clinical Infectious Diseases Hospital named after professor Agafonov</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Zoya Gennad'evna Tatarinceva</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>State Budgetary Healthcare Institution &quot;Research Institute - Regional Clinical Hospital No. 1 named after Professor S. V. Ochapovsky&quot; of the Ministry of Health of the Krasnodar Territory</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Aleksandr Alekseevich Punin</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Regional State Budgetary Healthcare Institution &quot;Smolensk Regional Clinical Hospital&quot;</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Dmitrij YUr'evich Konstantinov</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Federal State Budgetary Educational Institution of Higher Education &quot;Samara State Medical University&quot; of the Ministry of Healthcare of the Russian Federation</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mark Borisovich Balazovskij</last_name>
+    <phone>+7 (812) 714-10-10</phone>
+    <email>vam@glutoxim.ru</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Yaroslavl Regional Clinical Hospital for War Veterans - The International Center for the Elderly &quot;Healthy Longevity&quot;</name>
+      <address>
+        <city>Yaroslavl</city>
+        <zip>150047</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mariya Evgen'evna Mozhejko</last_name>
+      <phone>89056391139</phone>
+      <email>mmozheiko@yandex.ru</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>March 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>METABOLIC DRUG</keyword>
+  <keyword>Severe course of COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All of the individual participant data collected during the trial, after deidentification</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Immediately following publication. No end date</ipd_time_frame>
+    <ipd_access_criteria>Anyone who wishes to access the data.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

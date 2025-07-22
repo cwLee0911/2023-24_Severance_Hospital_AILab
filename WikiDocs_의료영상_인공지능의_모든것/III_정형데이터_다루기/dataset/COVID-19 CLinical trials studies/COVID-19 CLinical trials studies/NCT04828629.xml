@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="826">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04828629</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PMMHRI-BCO.75/2020</org_study_id>
+    <nct_id>NCT04828629</nct_id>
+  </id_info>
+  <brief_title>Complications and the Influence of COVID-19 on Myocardial Function and Exercise Capacity</brief_title>
+  <official_title>Complications and the Influence of COVID-19 on Myocardial Function and Exercise Capacity</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Polish Mother Memorial Hospital Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Polish Mother Memorial Hospital Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The subject of the study is the impact of COVID-19 on the indicators of myocardial efficiency&#xD;
+      and exercise capacity. As a result of the observed dependencies, it will be possible to start&#xD;
+      an appropriate diagnostic procedure early, select personalized treatment and develop a model&#xD;
+      of cardiological care for people with a history of SARS-CoV-2 infection and improve the&#xD;
+      quality and extend their life.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      About 100 adult patients hospitalized in the Department of Cardiology and Congenital Heart&#xD;
+      Diseases of Adults who had recovered from COVID-19 will be included in the study. Selected&#xD;
+      prognostic factors will be analyzed, among others: demographic data of the patient, physical&#xD;
+      examination, symptoms, co-morbidities, results of selected laboratory tests, lung imaging&#xD;
+      (X-ray or computed tomography) selected electrocardiographic and echocardiographic data,&#xD;
+      patient's cooperation with the doctor, treatment applied, parameters in the spiroergometric&#xD;
+      study, body mass analysis. One year after inclusion in the study, a control hospitalization&#xD;
+      will be performed. The same factors will be analyzed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 23, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prognosis in patients who have recovered from COVID-19</measure>
+    <time_frame>12 months after inclusion in the study</time_frame>
+    <description>A control hospitalization will be conducted with patients. The same prognostic factors will be analyzed: physical examination, symptoms, co-morbidities, treatment applied, results of selected laboratory tests, lung imaging (X-ray or computed tomography) selected electrocardiographic (ECG) and echocardiographic data, parameters in the spiroergometric study, body mass analysis.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Review of selected laboratory tests in patients who have recovered from COVID-19</measure>
+    <time_frame>12 months after inclusion in the study</time_frame>
+    <description>Diagnostic blood samples will be collected from each patient: N-terminal pro b-type natriuretic peptide (NT-proBNP) and high sensitive cardiac Troponin T (hsTnT), the alanine aminotransferase (ALT) and aspartate transaminase (ASP), creatinine, glomerular filtration rate (GFR) estimate by Modification of Diet in Renal Disease (MDRD) parameters, inflammatory cytokine [C-reactive protein (CRP)], glucose level, lipoprotein profile: low density lipoprotein (LDL), high density lipoprotein (HDL), triglycerides (TG) and total cholesterol (TC). Also, the amount of hemoglobin will be performed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The imaging of pulmonary changes in patients who have recovered from COVID-19</measure>
+    <time_frame>12 months after inclusion in the study</time_frame>
+    <description>Chest X-ray or lung computed tomography will be performed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Review of selected Holter ECG monitoring data in patients who have recovered from COVID-19</measure>
+    <time_frame>12 months after inclusion in the study</time_frame>
+    <description>Analysis of average heart rate, ST segment abnormality (elevation or depression), the presence of: atrioventricular delay (AV block), bundle branch block, supraventricular and ventricular extrasystoles, atrial fibrillation (AF).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Review of selected echocardiographic data in patients who have recovered from COVID-19</measure>
+    <time_frame>12 months after inclusion in the study</time_frame>
+    <description>Measurement of left ventricular (LV) volume and ejection fraction (EF), left atrial (LA) volume, LA volume index (LAVi), maximal early (E) and late (A) transmitral velocities, ratio of early transmitral peak velocity to early diastolic peak annular velocity (E/E'), early diastolic (E'), late diastolic (A') mitral annular myocardial velocity of the left ventricle, LAVi/A', tricuspid annular plane systolic excursion (TAPSE).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Review of parameters in the spiroergometric study in patients who have recovered from COVID-19</measure>
+    <time_frame>12 months after inclusion in the study</time_frame>
+    <description>Forced vital capacity (FVC),forced expiratory volume in one second (FEV1), FEV1/FVC ratio, VO2max (represents the maximal achievable level of oxidative metabolism involving large muscle groups), ventilatory exchange (VE), oxygen uptake (VO2), CO2 expenditure (VCO2), respiratory exchange ratio (RER), anaerobic threshold (AT), oxygen uptake at anaerobic threshold (VO2 AT), the minute ventilation/carbon dioxide production slope (VE/VCO2 slope) will be performed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Body mass analysis in patients who have recovered from COVID-19</measure>
+    <time_frame>12 months after inclusion in the study</time_frame>
+    <description>Body composition measurement will be conducted using bioelectrical impedance analysis (BIA). Fat mass (FM) and fat-free mass (FFM), total body water (TBW), extra-cellular (ECW) and intra-cellular (ICW) water, ECW/TBWx100% will be measured.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>Identification of prognostic factors in patients who have recovered from COVID-19</arm_group_label>
+    <description>Selected prognosis factors will be analyzed in patients who have recovered from COVID-19</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Diagnostic tests</intervention_name>
+    <description>Selected prognostic factors will be analyzed, among others: demographic data of the patient, physical examination, symptoms, co-morbidities, results of selected laboratory tests, lung imaging (X-ray or computed tomography) selected electrocardiographic and echocardiographic data, patient's cooperation with the doctor, treatment applied, parameters in the spiroergometric study, body mass analysis.</description>
+    <arm_group_label>Identification of prognostic factors in patients who have recovered from COVID-19</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The 100 consecutive adult patients (18 years of age or older) hospitalized in the&#xD;
+        Department of Cardiology and Congenital Heart Diseases of Adults who had recovered from&#xD;
+        COVID-19 will be included in the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age equal to or older than 18 years&#xD;
+&#xD;
+          -  infection with the SARS-CoV-2 in past medical history&#xD;
+&#xD;
+          -  current hospitalization&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  severe hypertension;&#xD;
+&#xD;
+          -  unstable angina;&#xD;
+&#xD;
+          -  acute pulmonary embolism;&#xD;
+&#xD;
+          -  decompensated heart failure;&#xD;
+&#xD;
+          -  recent myocardial infarction;&#xD;
+&#xD;
+          -  unstable heart rhythm disturbances;&#xD;
+&#xD;
+          -  acute myocarditis or pericarditis;&#xD;
+&#xD;
+          -  active endocarditis;&#xD;
+&#xD;
+          -  advanced atrioventricular block;&#xD;
+&#xD;
+          -  diagnosis of cardiomyopathy (hypertrophic, dilated, restrictive, peripartum,&#xD;
+             arrhythmogenic)&#xD;
+&#xD;
+          -  lysosomal storage disorders&#xD;
+&#xD;
+          -  severe hyper- and hypothyroidism&#xD;
+&#xD;
+          -  pregnancy and lactation&#xD;
+&#xD;
+          -  chronic kidney disease (IV, V stadium according to NKF) and dialysis treatment&#xD;
+&#xD;
+          -  documented neoplastic process&#xD;
+&#xD;
+          -  the patient's inability to cooperate and/or provide informed consent to participate in&#xD;
+             a research&#xD;
+&#xD;
+          -  alcohol and drug abuse&#xD;
+&#xD;
+          -  active autoimmune disease&#xD;
+&#xD;
+          -  treatment using immunosuppressants, cytostatic drugs, glucocorticosteroids, or&#xD;
+             antiretroviral drugs&#xD;
+&#xD;
+          -  a history of bone marrow transplant or other organ transplant, treatment with blood&#xD;
+             products within the last 6 months&#xD;
+&#xD;
+          -  active systemic infection&#xD;
+&#xD;
+          -  HBV, HCV or HIV carrier or positive for HbS antigen or antibodies to HCV&#xD;
+&#xD;
+          -  surgery or serious injury within the last month&#xD;
+&#xD;
+          -  patients who did not express their informed consent to participate in the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Agata Bielecka-Dabrowa</last_name>
+    <role>Study Chair</role>
+    <affiliation>Heart Failure Unit; Department of Cardiology and Congenital Diseases of Adults, PMMHRI</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Maciej Banach</last_name>
+    <role>Study Chair</role>
+    <affiliation>Heart Failure Unit; Department of Cardiology and Congenital Diseases of Adults, PMMHRI</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Katarzyna Gryglewska</last_name>
+    <phone>+48506434952</phone>
+    <email>gryglewskak@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Agata Bielecka-Dabrowa</last_name>
+    <email>agatabiel7@poczta.onet.pl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Heart Failure Unit; Department of Cardiology and Congenital Diseases of Adults, Polish Mother's Memorial Hospital Research Institute</name>
+      <address>
+        <city>Łódź</city>
+        <state>Polska</state>
+        <zip>93-338</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katarzyna Gryglewska</last_name>
+      <phone>+ 48506434952</phone>
+      <email>gryglewskak@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Agata Bielecka-Dabrowa</last_name>
+      <email>agatabiel7@poczta.onet.pl</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Katarzyna Gryglewska, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Agata Bielecka-Dabrowa, MD,PhD,FESC,FHFA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maciej Banach, MD,PhD,FNLA,FAHA,FESC,FASA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marek Maciejewski, MD,PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Poland</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 2, 2021</study_first_posted>
+  <last_update_submitted>April 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="536">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04765436</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRO-CL-001</org_study_id>
+    <nct_id>NCT04765436</nct_id>
+  </id_info>
+  <brief_title>PTX-COVID19-B, an mRNA Humoral Vaccine, is Intended for Prevention of COVID-19 in a General Population. This Study is Designed to Evaluate Safety, Tolerability, and Immunogenicity of PTX-COVID19-B Vaccine in Healthy Seronegative Adults Aged 18-64</brief_title>
+  <official_title>A Phase I, First-in-Human, Observer-Blinded, Randomized, Placebo Controlled, Ascending Dose Study to Evaluate the Safety, Tolerability, and Immunogenicity of PTX-COVID19-B Vaccine in Healthy Seronegative Adults Aged 18-64</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Providence Therapeutics Holdings Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Providence Therapeutics Holdings Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Vaccine Product, PTX-COVID19-B mRNA Humoral Vaccine, is intended for prevention of&#xD;
+      COVID-19 in a general population. This study is designed to evaluate the safety,&#xD;
+      tolerability, and immunogenicity of PTX-COVID19-B vaccine in healthy seronegative adults aged&#xD;
+      18 to 64.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 14, 2021</start_date>
+  <completion_date type="Anticipated">February 14, 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>observer-blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of adverse events (AEs) during the follow-up after each vaccination</measure>
+    <time_frame>Day 1 through Day 3</time_frame>
+    <description>Daily solicited adverse events will be analyzed using both the Per Protocol (PP) and Safety Populations.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assessments of AEs</measure>
+    <time_frame>Day 1 through Day 42</time_frame>
+    <description>Reports of unsolicited AEs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assessment of Safety</measure>
+    <time_frame>Day 1 through Day 395</time_frame>
+    <description>Reports of Medically attended AEs&#xD;
+Reports of serious adverse events (SAEs)&#xD;
+Reports of adverse events of special interest&#xD;
+Reports of potential immunemediated medical conditions</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunogenicity analysis</measure>
+    <time_frame>Day 1 and Day 28</time_frame>
+    <description>Cell-mediated immunity using blood/peripheral blood mononuclear cells (PBMCs [Flow Cytometry Assay])&#xD;
+Antibodies (anti-COVID-19 immunoglobulin (Ig), IgG, IgA [enzyme-linked immunosorbent assay]; and anti-COVID-19 neutralization titer assays)</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19 Vaccine</condition>
+  <arm_group>
+    <arm_group_label>PTX-COVID19-B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants, 45 healthy adults 18 to 64 years of age, will receive 1 intramuscular (IM) injection of PTX-COVID19-B vaccine in doses of 16 μg, 40 μg and 100 μg on Day 1, followed by a second dose on Day 28, respectively.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants, 15 healthy adults 18 to 64 years of age, will receive 1 IM injection of matching placebo on Day 1, followed by a second dose on Day 28.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PTX-COVID19-B</intervention_name>
+    <description>Sterile solution for injection</description>
+    <arm_group_label>PTX-COVID19-B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>0.9% sodium chloride (normal saline) injection</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Subjects must meet all inclusion criteria to be eligible for study participation. In&#xD;
+        addition, racial and ethnic minorities will be sought to obtain a diverse study population.&#xD;
+&#xD;
+          1. Subject has read, understood, and signed the informed consent form.&#xD;
+&#xD;
+          2. Healthy adult males and females 18 to 64 years of age, inclusive, at screening&#xD;
+&#xD;
+          3. Seronegative to SARS-CoV-2 and reverse transcription-polymerase chain reaction&#xD;
+             (RT-PCR)-negative at screening, without evidence of recent of exposure or viral&#xD;
+             respiratory disease not identified as influenza or RSV (febrile or lower respiratory&#xD;
+             tract infection)&#xD;
+&#xD;
+          4. Body mass index of ≥ 18 and ≤ 30 kg/m2 at screening&#xD;
+&#xD;
+          5. Must be in general good health before study participation with no clinically relevant&#xD;
+             abnormalities that could interfere with study assessments.&#xD;
+&#xD;
+          6. Women of childbearing potential (WOCBP) and men whose sexual partners are WOCBP must&#xD;
+             be able and willing to use at least 1 highly effective method of contraception (i.e.,&#xD;
+             including hysterectomy, bilateral salpingectomy, and bilateral oophorectomy, hormonal&#xD;
+             oral [in combination with male condoms with spermicide], transdermal, implant, or&#xD;
+             injection, barrier [i.e., condom, diaphragm with spermicide]; intrauterine device;&#xD;
+             vasectomized partner [6 months minimum], clinically sterile partner; or abstinence)&#xD;
+             during the study.&#xD;
+&#xD;
+               -  A female subject is considered a WOCBP after menarche and until she is in a&#xD;
+                  postmenopausal state for 12 consecutive months (without an alternative medical&#xD;
+                  cause) or otherwise permanently sterile.&#xD;
+&#xD;
+               -  Subjects not of childbearing potential are not required to use any other forms of&#xD;
+                  contraception during the study. Non-childbearing potential is defined as subject&#xD;
+                  confirmed:&#xD;
+&#xD;
+                    -  Surgical sterilization (e.g., bilateral oophorectomy, bilateral&#xD;
+                       salpingectomy, bilateral occlusion by cautery [Essure System® is not&#xD;
+                       acceptable], hysterectomy, or tubal ligation)&#xD;
+&#xD;
+                    -  Postmenopausal (defined as permanent cessation of menstruation for at least&#xD;
+                       12 consecutive months prior to screening); if postmenopausal status is&#xD;
+                       unclear, pregnancy tests will be performed prior to vaccinations.&#xD;
+&#xD;
+          7. Women of childbearing potential must have a negative pregnancy test before each&#xD;
+             vaccination. If menopausal status is unclear, a pregnancy test is required.&#xD;
+&#xD;
+          8. Must be able to attend all visits (scheduled and unscheduled, as applicable) for the&#xD;
+             duration of the study and comply with all study procedures, including daily completion&#xD;
+             of the Diary Card after each injection.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Subjects will not be eligible for study participation if they meet any of the exclusion&#xD;
+        criteria, or will be discontinued at the discretion of the investigator if they develop any&#xD;
+        of the exclusion criteria during the study.&#xD;
+&#xD;
+          1. History of an acute or chronic medical condition including dementia that, in the&#xD;
+             opinion of the investigator, would render vaccination unsafe or would interfere with&#xD;
+             the evaluation of responses.&#xD;
+&#xD;
+          2. History of any medical conditions that place subjects at higher risk for severe&#xD;
+             illness due to SARS-CoV-2 will be excluded including:&#xD;
+&#xD;
+               -  Chronic kidney disease&#xD;
+&#xD;
+               -  COPD (chronic obstructive pulmonary disease)&#xD;
+&#xD;
+               -  Heart conditions, such as heart failure, coronary artery disease, or&#xD;
+                  cardiomyopathies&#xD;
+&#xD;
+               -  Any Immunocompromised state including from transplantation, history&#xD;
+                  immunodeficiency, HIV, immunosuppressive drug intake.&#xD;
+&#xD;
+               -  Sickle cell disease&#xD;
+&#xD;
+               -  Current smoker or history of &gt;5 pack/years of smoking.&#xD;
+&#xD;
+               -  Type 2 diabetes mellitus&#xD;
+&#xD;
+             Subjects with history of any of the following conditions might be at an increased risk&#xD;
+             of complications from Covid 19 and will be excluded:&#xD;
+&#xD;
+               -  Asthma (moderate-to-severe)&#xD;
+&#xD;
+               -  Cerebrovascular disease (affects blood vessels and blood supply to the brain)&#xD;
+&#xD;
+               -  Cystic fibrosis&#xD;
+&#xD;
+               -  Hypertension or high blood pressure&#xD;
+&#xD;
+               -  Neurologic conditions, such as dementia&#xD;
+&#xD;
+               -  Liver disease&#xD;
+&#xD;
+               -  Pulmonary fibrosis (having damaged or scarred lung tissues)&#xD;
+&#xD;
+               -  Thalassemia (a type of blood disorder)&#xD;
+&#xD;
+               -  Type 1 diabetes mellitus&#xD;
+&#xD;
+          3. History of ongoing clinical condition or medication or treatments that may adversely&#xD;
+             affect the immune system.&#xD;
+&#xD;
+          4. Individuals who are seropositive or RT-PCR positive for SARS-CoV-2, including prior to&#xD;
+             a second dose of PTX-COVID19-B vaccine.&#xD;
+&#xD;
+          5. Individuals who are at increased risk of exposure to SARS-CoV-2 (e.g., healthcare&#xD;
+             workers, emergency responders).&#xD;
+&#xD;
+          6. Close contact of anyone known to have SARS-CoV-2 infection within 30 days prior to&#xD;
+             vaccine administration.&#xD;
+&#xD;
+          7. Living in a group setting or group care facility (e.g., dormitory, assisted living or&#xD;
+             nursing home).&#xD;
+&#xD;
+          8. Individuals with any elevated (Grade 1 or higher) laboratory test assessed as&#xD;
+             clinically significant for age/sex by the investigator at screening.&#xD;
+&#xD;
+          9. Individuals with any elevated for age/sex (Grade 1 or higher) liver function enzyme at&#xD;
+             screening, regardless of the appraisal of clinical significance (one retest&#xD;
+             permitted). The criteria for excluding subjects with elevated liver enzymes are as&#xD;
+             follows:&#xD;
+&#xD;
+               -  Alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, or&#xD;
+                  gamma-glutamyl transferase &gt; 1.5 × upper limit of normal (ULN)&#xD;
+&#xD;
+               -  Total bilirubin &gt; 1.5 × ULN&#xD;
+&#xD;
+         10. Active neoplastic disease (excluding nonmelanoma skin cancer that was successfully&#xD;
+             treated) or a history of any hematological malignancy. &quot;Active&quot; is defined as having&#xD;
+             received treatment within the past 5 years.&#xD;
+&#xD;
+         11. Long-term (&gt; 2 weeks) use of oral or parenteral steroids or high-dose inhaled steroids&#xD;
+             (&gt; 800 μg/day of beclomethasone dipropionate or equivalent) within 6 months before&#xD;
+             screening (nasal and topical steroids are allowed).&#xD;
+&#xD;
+         12. History of autoimmune, inflammatory disease, or PIMMCs.&#xD;
+&#xD;
+         13. Women currently pregnant, lactating, or planning a pregnancy between enrollment and&#xD;
+             181 days after randomization.&#xD;
+&#xD;
+         14. History of Guillain-Barré Syndrome or any degenerative neurology disorder.&#xD;
+&#xD;
+         15. History of anaphylactic-type reaction to any injected vaccines.&#xD;
+&#xD;
+         16. Known or suspected hypersensitivity to 1 or more of the components of the vaccine.&#xD;
+&#xD;
+         17. History of alcohol abuse, illicit drug use, physical dependence to any opioid, or any&#xD;
+             history of drug abuse or addiction within 12 months of screening.&#xD;
+&#xD;
+         18. Acute illness or fever (temperature &gt;37.5C) within 3 days before study enrollment&#xD;
+             (enrollment may be delayed for full recovery if acceptable to the investigator).&#xD;
+&#xD;
+         19. Individuals currently participating or planning to participate in a study that&#xD;
+             involves an experimental agent (vaccine, drug, biologic, device, or medication); or&#xD;
+             who have received an experimental agent within 1 month (3 months for immunoglobulins)&#xD;
+             before enrollment in this study; or who expect to receive another experimental agent&#xD;
+             during participation in this study.&#xD;
+&#xD;
+         20. Receipt of immunoglobulin or another blood product within the 3 months before&#xD;
+             enrollment in this study or those who expect to receive immunoglobulin or another&#xD;
+             blood product during this study.&#xD;
+&#xD;
+         21. Individuals who intend to donate blood within 6 months after the first vaccination and&#xD;
+             within 30 days post the last donation from Visit 1.&#xD;
+&#xD;
+         22. Individuals using prescription medications for prophylaxis of SARS-CoV-2.&#xD;
+&#xD;
+         23. Individuals who plan to receive another vaccine within the first 3 months of the study&#xD;
+             except influenza vaccine which should not be given within 2 weeks of vaccine.&#xD;
+&#xD;
+         24. Receipt of any other SARS-CoV-2 or other experimental coronavirus (Middle East&#xD;
+             Respiratory Syndrome, SARS etc.) vaccine at any time prior to or during the study.&#xD;
+&#xD;
+         25. Receipt of any investigational vaccine or investigational drug within 1 month of&#xD;
+             enrollment and through the end of the study (1 year after the last vaccination).&#xD;
+&#xD;
+         26. Plan to travel outside Canada from enrollment through Day 42.&#xD;
+&#xD;
+         27. History of surgery or major trauma within 12 weeks of screening, or surgery planned&#xD;
+             during the study.&#xD;
+&#xD;
+         28. Significant blood loss (&gt; 400 mL) or has donated 1 or more units of blood or plasma&#xD;
+             within 6 weeks prior to study participation.&#xD;
+&#xD;
+         29. Strenuous activity or significant alcohol intake (as assessed by the investigator)&#xD;
+             within 72 hours prior to safety laboratory sample collection.&#xD;
+&#xD;
+         30. Positive urine drugs of abuse screen.&#xD;
+&#xD;
+         31. Positive screen for human immunodeficiency virus-1 and -2 antibodies, hepatitis B&#xD;
+             surface antigen, or hepatitis C virus antibody.&#xD;
+&#xD;
+         32. Involved in the planning or conduct of this study.&#xD;
+&#xD;
+         33. Unwilling or unlikely to comply with the requirements of the study.&#xD;
+&#xD;
+         34. Subjects is an employee, contractor, or friend or relative of any employee of sponsor,&#xD;
+             CRO, study site, or site affiliate.&#xD;
+&#xD;
+         35. Subjects oximetry is &lt;90%&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Dr. Piyush Patel, MD, FRCP</last_name>
+    <phone>(416) 419-8300</phone>
+    <email>piyush.patel@providencetherapeutics.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Manna Research</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M9W 4L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dr. Ben Lasko, MD</last_name>
+      <phone>4167402895</phone>
+      <email>laskoresearch@lmcmanna.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

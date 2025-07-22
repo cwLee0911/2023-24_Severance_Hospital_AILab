@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2512">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04797871</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PI_2020/140</org_study_id>
+    <nct_id>NCT04797871</nct_id>
+  </id_info>
+  <brief_title>Resistance Training and Clinical Status in Patients With Post Discharge Symptoms After Covid-19</brief_title>
+  <acronym>EXER-COVID</acronym>
+  <official_title>Resistance Training Intervention on the Clinical Status in Patients With Post Discharge Symptoms After Covid-19: The &quot;EXER-COVID Study&quot;</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad Pública de Navarra</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fundacion Miguel Servet</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Complejo Hospitalario de Navarra</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universidad Pública de Navarra</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 survivors commonly exhibit a marked extra-respiratory complication affecting the&#xD;
+      cardiac (arrhythmias and myocardial injury), renal (acute kidney injury), gastrointestinal,&#xD;
+      nervous (neuropathy, encephalopathy), endocrine and musculoskeletal (weakness, pain, and&#xD;
+      fatigue) systems. In this context, several studies have found that resistance training&#xD;
+      intervention promotes important health-related benefits, including cardiac function, compared&#xD;
+      to aerobic exercise training. Other exercise adaptations include increased skeletal muscle&#xD;
+      metabolism function, yet physio/psychological adaptations are known to be limited in COVID-19&#xD;
+      survivors. Hence, given that resistance training intervention is implemented in a manner that&#xD;
+      is tolerable to the individual patient, it may be a potential beneficiary &quot;personalized&quot;&#xD;
+      rehabilitation treatment for patients with COVID-19 syndrome ambulatory.&#xD;
+&#xD;
+      The &quot;EXER-COVID Clinical Study&quot; project aims at determining the role of personalized exercise&#xD;
+      intervention in the treatment of post-COVID-19 syndrome ambulatory patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      100 patients will be recruited and undergo baseline testing, including examination, immune&#xD;
+      systems, biochemistry markers, ECG, DXA, metabolic/respiratory function, VO2max, muscular&#xD;
+      fitness, lipidomic/inflammatory/oxidative markers and psychological outcomes.&#xD;
+&#xD;
+      After baseline testing, participants will be randomly allocated into one group receiving&#xD;
+      standard of care (control group) or a group performing personalized resistance training&#xD;
+      intervention two times a week over a period of 6 weeks. The randomization procedure involves&#xD;
+      a computer-generated block randomization schedule in a ratio of 1:1 stratified by an&#xD;
+      independent person. Following the 8-week intervention period (with a 1-week washout period),&#xD;
+      both groups will complete a series of follow-up tests (as baseline testing). A 12-week&#xD;
+      follow-up experimental day is also planned in order to evaluate physio/psychological changes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">March 8, 2021</start_date>
+  <completion_date type="Anticipated">March 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 15, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Single (Investigator)</masking>
+    <masking_description>Single (Investigator)</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in lymphocytes subpopulations numbers</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Circulating immune cell characterization</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in monocytes number</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Circulating immune cell characterization</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in monocyte expression</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Circulating immune cell characterization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in pulse wave velocity</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Measuring pulse wave velocity (m/seg) by VaSera VS 2000 (Fukuda Denshi, Japan)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in cardio-ankle vascular index (CAVI)</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Measuring Cardio-Ankle Vascular Index (%) by VaSera VS 2000 (Fukuda Denshi, Japan)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Energy expenditure</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Measuring by COSMED Q-NRG+ plus OMNIA (COSMED®, Rome, Italy)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in bone mineral density measured with DXA</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Measuring in bone mineral density (g)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in fat mass measured with DXA</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Measuring in fat mass (%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in lean mass measured with DXA</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Measuring in lean mass (kg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Cardiorespiratory fitness</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Measured with an incremental VO2 protocol on exercise bike by COSMED k-5 plus OMNIA (COSMED®, Rome, Italy)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Fat max oxidation rate</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Measured with an incremental VO2 protocol on exercise bike by COSMED k-5 plus OMNIA (COSMED®, Rome, Italy)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Dynamic and isometric strength</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Muscular fitness testing (legs, chest, arms, hip and grip)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Axial accelerometer-based physical activity monitors</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Free-living physical activity is measured using axial accelerometer-based physical activity monitors (AX3; Axivity, Newcastle upon Tyne, UK)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Blood samples analysed for markers related to low grade inflammation</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Including ENA-78, GCSF, GM-CSF, GRO, GRO-alpha, I-309, IL-1alpha, IL-1beta, IL-2, IL-3, IL-4, IL-5, IL-6, IL-7, IL-8, IL-10, IL-12 p40/p70, IL-13, IL-15, IFN-gamma, MCP-1, MCP-2, MCP-3, MCSF, MDC, MIG, MIP-1delta, RANTES, SCF, SDF-1, TARC, TGF-beta1, TNF-alpha, TNF-beta, EGF, IGF-I, Angiogenin, Oncostatin M, Thrombopoietin, VEGF-A, PDGF BB, Leptin in (arbitrary units).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood samples analysed for markers related to oxidative stress</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Including catalase, glutathione peroxidase, peroxidase, glutathione reductase in arbitrary units.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in serum metabolic profiles</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Utrahigh-performance liquid chromatography (UHPLC)-time of flight-MS based platforms analyzing methanol and chloroform/methanol serum extracts will be combined with the lipids measurement using an UHPLC-single quadrupole-MS based analysis in arbitrary units. Explained fraction of variance and the goodness of prediction will be calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in creatinine kinase</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Creatinine kinase levels (units per liter)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in total troponins levels (ng/mL)</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Total troponins levels (ng/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in D-dimer</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>D-dimer (ng/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in thyroid function parameters</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>T3 and T4 levels (μg/dL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in liver function</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>ALT in (U/L), AST and GGT in (U/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in renal function</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Urea (mmol/L), sodium (mmol/L), potassium (mmol/L), chloride (mmol/L), calcium (mmol/L), inorganic phosphorus (mmol/L) and uric acid (mmol/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in haematology parameters</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>White Blood Cells and Red Blood Cells (cell characterization)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in cognitive status</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Montreal Cognitive Assessment (MOCA) will be used as an indicator of cognitive status. Scores range between 0 and 30. A score of 26 or over is considered to be normal</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in visual attention and task switching</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>The Trail Making Test will be used as an indicator of visual scanning, graphomotor speed, and executive function. This test consists of two parts in which the subject is instructed to connect a set of 25 dots as quickly as possible while still maintaining accuracy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Quality of life</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Two summary scores are reported from the SF-12 - a mental component score (MCS-12) and a physical component score (PCS-12). The scores will be reported as Z-scores (difference compared to the population average, measured in standard deviations), 0 (low) to 100 (high) quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in psychological stress</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>The 1 Item Statistics Canada Stress Question (SCSQ) will be used. The SCSQ is a 1-item question with a possible scoring of 0 to 10, with higher scores indicating more stress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in physical health symptomology</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>A Physical Health item will be used in the baseline. The scoring range is 0-13, with higher numbers indicating experiencing more negative physical health symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in psychological distress</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>The 10 Item Kessler Psychological Distress Scale will be used. Scores range from 10-50, with higher scores indicating more symptoms or more frequent experience of those symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in depressive symptomology</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>The 10 Item Center for Epidemiologic Studies Depression Scale (CES-D) will be used in the baseline survey, and will be in each weekly survey to track changes in the CES-D over the study period. The possible range in scores is 0 to 30 depending on number of symptoms, with those symptoms weighted by frequency experienced in a week. Higher scores indicating more or more frequent symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in life satisfaction</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>A Life Satisfaction item, consisting of three questions, will be used (scored 0-10). Higher scores indicate &quot;the best possible life overall&quot;. In addition, 2-follow-up questions asking individuals to rate their physical and mental/emotional health on a five point scale from poor to excellent. Higher scores overall indicate more satisfaction with life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in resilience</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>The Brief Resilience Scale will be used (scores from 1-5). Higher scores indicate the individual perceives they have a better ability to 'bounce back' and recover from stressful events and/or situations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in fatigue</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>CFQ-11 will be administrate (Each of the 11 items are answered on a 4-point scale ranging from the asymptomatic to maximum symptomology)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in pain score using numeric 0-10 rating scale</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>The numeric rating scale is 0-10 where 0 is no pain, 5 is moderate pain and 10 is the worst pain</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tracking the amount of exercise variety participants feel they engage in</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Using the Perceived Variety in Exercise questionnaire. There are 5 items asking about exercise variety, scored 1 (false) to 6 (true), with a possible score of 5-30; higher scores indicate greater perceived variety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in physical activity levels</measure>
+    <time_frame>Baseline, 6 Weeks and 12 Weeks</time_frame>
+    <description>Metabolic Equivalents (METs) throughout a week, including activity for work, during transport and leisure time, using the self-reported general physical activity questionnaire (GPAQ).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV2</condition>
+  <condition>Fatigue Syndrome, Chronic</condition>
+  <condition>Stress, Psychological</condition>
+  <condition>Pain, Chronic</condition>
+  <arm_group>
+    <arm_group_label>Exercise</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Resistance training</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Non-supervised ACSM exercise guidelines</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Resistance training</intervention_name>
+    <description>Participants will complete a 2-days-a-week training routine: Resistance training (RT, 50-75% 1RM (one-repetition maximum), 4 sets, 8-12 repetitions, 4 exercises). The warn up include Light Intensity Continuous Training (8-10 min, 65-70% HRR). Progressions will be individualized and consistent with patient tolerance. Sessions will be supervised by Physiotherapists and Graduated in Sports Sciences.</description>
+    <arm_group_label>Exercise</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Standard care</intervention_name>
+    <description>This group will be allocated to standard care and therefore no supervised exercise regimen according to scientific guidelines for general physical activity and return to sport provided by the ACSM guidelines for Chronic Obstructive Pulmonary Disease and Cardiovascular Disease.</description>
+    <arm_group_label>Standard care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  SARS-CoV-2 diagnosed using real-time reverse transcriptase polymerase chain reaction&#xD;
+             (PCR) tests or positive for SARS-CoV-2 virus antigen &gt;90 days before randomization.&#xD;
+&#xD;
+          -  Still present a chronic symptomatic phase lasting &gt;90 days since debut of symptoms.&#xD;
+&#xD;
+          -  Have not been hospitalized.&#xD;
+&#xD;
+          -  There is no evidence on clinical records of pneumonia or any other organ failure&#xD;
+             related to SARS-CoV-2.&#xD;
+&#xD;
+          -  Capable and willing to provide an informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy or breast-feeding.&#xD;
+&#xD;
+          -  Present atrial fibrillation.&#xD;
+&#xD;
+          -  Diagnosed with acute myocarditis.&#xD;
+&#xD;
+          -  Health conditions that prevent participating in the exercise intervention&#xD;
+&#xD;
+          -  Patients who cannot undergo VO2max (e.g. acute heart attack or unstable angina, aortic&#xD;
+             stenosis, acute endocarditis / pericarditis, uncontrolled high blood pressure, acute&#xD;
+             thromboembolism, severe heart failure, respiratory failure and uncontrolled acute&#xD;
+             decompensated diabetes mellitus or low blood sugar).&#xD;
+&#xD;
+          -  Treatment with IL-6 receptor antagonists (tocilizumab, kevzara) within the last month&#xD;
+             due to drug interference with the cardiopulmonary exercise adaptations.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mikel Izquierdo, Ph.D</last_name>
+    <role>Study Chair</role>
+    <affiliation>Universidad Publica de Navarra</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Robinson Ramírez-Vélez, Ph.D</name>
+      <address>
+        <city>Pamplona</city>
+        <zip>31001</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 15, 2021</study_first_posted>
+  <last_update_submitted>March 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fatigue Syndrome, Chronic</mesh_term>
+    <mesh_term>Chronic Pain</mesh_term>
+    <mesh_term>Stress, Psychological</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

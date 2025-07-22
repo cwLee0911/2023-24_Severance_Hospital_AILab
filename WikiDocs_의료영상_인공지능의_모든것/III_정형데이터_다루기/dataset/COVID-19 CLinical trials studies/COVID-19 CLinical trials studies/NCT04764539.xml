@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5484">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04764539</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1R43DC018447-01</org_study_id>
+    <secondary_id>1R43DC018447-01</secondary_id>
+    <nct_id>NCT04764539</nct_id>
+  </id_info>
+  <brief_title>Video Assisted Speech Technology to Enhance Motor Planning for Speech</brief_title>
+  <acronym>VAST</acronym>
+  <official_title>Video Assisted Speech Technology to Enhance Functional Language Abilities in Individuals With Autism Spectrum Disorder</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>iTherapy, LLC</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Deafness and Other Communication Disorders (NIDCD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>iTherapy, LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Nearly 3.5 million Americans are diagnosed with Autistic Spectrum Disorder (ASD), a&#xD;
+      communication disorder that causes skill limitations in the areas of language acquisition,&#xD;
+      sensory integration, and behavior. This lack of functional language ability limits&#xD;
+      conversation to its most basic parts, making daily tasks difficult for minimally to&#xD;
+      non-verbal individuals to achieve. iTherapy is developing the VAST platform, a personalized&#xD;
+      educational experience for students with ASD by creating a virtual reality-based&#xD;
+      video-modeling program to stimulate engagement and speech production practice, ultimately&#xD;
+      providing those with ASD an opportunity to enhance their quality of life by increasing their&#xD;
+      speech abilities which will enable them to build social networks and handle the events of&#xD;
+      daily life.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Autism Spectrum Disorder (ASD) is a neurodevelopmental communication disorder resulting in&#xD;
+      functional language and behavioral delays affecting over 3.5 million Americans. These delays&#xD;
+      vary with the severity of symptoms that present in ASD but often result in limited speech and&#xD;
+      increased communication challenges. Alongside linguistic acquisition, oral motor coordination&#xD;
+      is a crucial part of speech production.&#xD;
+&#xD;
+      Current clinical techniques have shown varying degrees of efficacy in improving functional&#xD;
+      language proficiency. Most techniques follow a drill-like procedure, where the child is made&#xD;
+      to repeat various sounds and phrases until they are retained. However, such a process&#xD;
+      requires potentially over twenty therapy sessions to show improvement which may then only be&#xD;
+      focused on one aspect of speech. This significantly limits the linguistic and social skills a&#xD;
+      student will acquire. To improve the efficacy of these therapy sessions, new technology must&#xD;
+      be developed to provide the most effective educational experience.&#xD;
+&#xD;
+      Video-assisted speech technology (VAST) is a method of using a video of a close-up model of&#xD;
+      the mouth and speaking simultaneously with it. Rather than present the individual with a&#xD;
+      static photograph of the initial phoneme, the entire sequence of oral movements can be&#xD;
+      presented sequentially via video-recorded segments of the orofacial area producing connected&#xD;
+      speech, combining best practices, video modeling, and literacy with auditory cues to provide&#xD;
+      unprecedented support the development of vocabulary, word combinations and communication.&#xD;
+&#xD;
+      In this SBIR Phase I proposal, iTherapy will develop a personalized educational experience&#xD;
+      for students with ASD by creating a virtual reality (VR) based VAST program to stimulate&#xD;
+      engagement and speech production practice. VR offers several benefits as a therapy technique:&#xD;
+      overcoming sensory difficulties, more effectively generalizing information, employing visual&#xD;
+      learning, and providing individualized treatment. As a user moves through the stages of the&#xD;
+      program, they will be immersed in a proactive environment where they will engross themselves&#xD;
+      with continuous content.&#xD;
+&#xD;
+      Rather than present the individual with a static photograph of the initial phoneme, the&#xD;
+      entire sequence of oral movements can be presented sequentially via VR-modelled segments of&#xD;
+      the orofacial area producing connected speech, combining best practices, video modeling,&#xD;
+      music therapy, and literacy with auditory cues to provide unprecedented support the&#xD;
+      development of vocabulary, word combinations and communication. The innovation will be a&#xD;
+      video series of a realistic VR mouth which will require the use of an app on a tablet or a&#xD;
+      smartphone, VR goggles, and bone conduction headphones.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 1, 2019</start_date>
+  <completion_date type="Actual">November 30, 2020</completion_date>
+  <primary_completion_date type="Actual">November 30, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Approximately 30 ASD students between the ages of 4 and 8 will be recruited to participate in a 12-sessions-long study that will utilize the VR-integrated VAST application. The students will be divided into two groups: one which receives the VR-integrated prototype, and one that receives the existing 2D application on a tablet. Each session will be Contact PD/PI: Brady, Lois Jean Protection of Human Subjects Page 46 approximately 30 minutes long, occurring twice per week. The frequency and duration of sessions is based on our extensive previous research and to ensure statistically relevant number of data points to measure the learning progress of the students. The first 10 sessions will be monitored by iTherapy to assess the user experience of the prototype VR hardware as well as the 2D VAST application.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Increased mean length of utterance (MLU)</measure>
+    <time_frame>2 months</time_frame>
+    <description>Participants (aged 4 to 8 years) were given a pre and post test 15 minute language sample</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>percentage of correctly transcribed words using automatic speech recognition</measure>
+    <time_frame>2 months</time_frame>
+    <description>15 minute pre and post testing was performed using speech recognition software and transcribed by a licensed speech pathologist</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>change speech intelligibility</measure>
+    <time_frame>2 months</time_frame>
+    <description>Pre and Post test measures of % of speech intelligibility were given for each subject and transcribed by a licensed speech pathologist</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Generalization of skills</measure>
+    <time_frame>2 months post research study</time_frame>
+    <description>Follow-up survey, at 2 months post research, with therapists who provide services once weekly</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">6</enrollment>
+  <condition>Autism Spectrum Disorder</condition>
+  <condition>Apraxia of Speech</condition>
+  <arm_group>
+    <arm_group_label>Stimuli administered via 2D format on an iPad Pro</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>50% of participants were given the video modeling stimuli in a 2D format (iPad Pro).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stimuli administered in 3D format via VR goggles and bone conduction headphones</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>50% of participants were given the video modeling stimuli in 3D format via VR goggles with integrated bone conduction headphones.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Video Assisted Speech Therapy (VAST)</intervention_name>
+    <description>6 ASD children between the ages of 4 and 8 who participated in all 14-sessions-long study that utilized the VR-integrated and the tablet-based VAST application. Three subjects received a 3D VR-integrated, bone conduction VAST prototype, while the remaining group of three received a tablet with a 2D version of the software. Sessions were held twice a week with each lasting approximately 15 minutes (i.e. +/- 5 minutes).</description>
+    <arm_group_label>Stimuli administered in 3D format via VR goggles and bone conduction headphones</arm_group_label>
+    <arm_group_label>Stimuli administered via 2D format on an iPad Pro</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Nonverbal-minimally verbal children (0-5 words)&#xD;
+&#xD;
+          -  Diagnosis of Autism Spectrum Disorder&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No history of seizures for participating with VR goggles.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>8 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>All research was conducted via tele-research due to COVID-19</name>
+      <address>
+        <city>Vallejo</city>
+        <state>California</state>
+        <zip>94591</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>iTherapy, LLC</investigator_affiliation>
+    <investigator_full_name>Lois Brady</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>autism</keyword>
+  <keyword>apraxia</keyword>
+  <keyword>speech therapy</keyword>
+  <keyword>speech pathology</keyword>
+  <keyword>nonverbal</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Apraxias</mesh_term>
+    <mesh_term>Autistic Disorder</mesh_term>
+    <mesh_term>Autism Spectrum Disorder</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>All data from individual participants will be kept private.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

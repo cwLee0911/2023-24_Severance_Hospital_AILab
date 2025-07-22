@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2853">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04713553</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C4591017</org_study_id>
+    <nct_id>NCT04713553</nct_id>
+  </id_info>
+  <brief_title>A Phase 3 Study to Evaluate the Safety, Tolerability, and Immunogenicity of Multiple Production Lots and Dose Levels of BNT162b2 Against COVID-19 in Healthy Participants</brief_title>
+  <official_title>A PHASE 3, RANDOMIZED, OBSERVER-BLIND STUDY TO EVALUATE THE SAFETY, TOLERABILITY, AND IMMUNOGENICITY OF MULTIPLE PRODUCTION LOTS AND DOSE LEVELS OF THE VACCINE CANDIDATE BNT162b2 AGAINST COVID-19 IN HEALTHY PARTICIPANTS 12 THROUGH 50 YEARS OF AGE</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioNTech SE</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>BioNTech SE</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 3, randomized, observer-blind study in healthy individuals.&#xD;
+&#xD;
+      The study will evaluate the safety, tolerability, and immunogenicity of the SARS-CoV-2 RNA&#xD;
+      vaccine candidate (BNT162b2):&#xD;
+&#xD;
+        -  As a 30-microgram dose, administered from 1 of 4 manufacturing lots (batches)&#xD;
+&#xD;
+        -  As a 20-microgram dose, administered from 1 of the manufacturing lots&#xD;
+&#xD;
+        -  As a 2-dose (separated by 21 days) schedule&#xD;
+&#xD;
+        -  In people 12 through 50 years of age&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 15, 2021</start_date>
+  <completion_date type="Anticipated">May 11, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 11, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Geometric Mean Ratio (GMR) of SARS-CoV-2 full-length S-binding or S1-binding antibody levels between US lots (Arms 1, 2 and 3) in participants without evidence of infection during the study</measure>
+    <time_frame>At 1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GMR of SARS-CoV-2 full-length S-binding or S1-binding antibody levels between the EU lot (Arm 4) and pooled US lots (Arms 1, 2, and 3) in participants without evidence of infection during the study</measure>
+    <time_frame>At 1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GMR of SARS-CoV-2 neutralizing antibody levels between the 20-microgram dose group (Arm 5) and the corresponding 30-microgram dose group (Arm 1, 2, or 3) in participants without evidence of SARS-C0V-2 infection during the study.</measure>
+    <time_frame>At 1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting local reactions</measure>
+    <time_frame>For 7 days after Dose 1 and Dose 2</time_frame>
+    <description>Pain at the injection site, redness, and swelling, as self-reported in electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting systemic events</measure>
+    <time_frame>For 7 days after Dose 1 and Dose 2</time_frame>
+    <description>Fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain, as self-reported in electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting adverse events</measure>
+    <time_frame>From Dose 1 through 1 month after Dose 2</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting serious adverse events</measure>
+    <time_frame>From Dose 1 through 1 month after Dose 2</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Concentrations (GMCs) of SARS-CoV-2 full-length S-binding or S1-binding antibody levels in participants vaccinated with one of the 30-microgram lots (US or EU).</measure>
+    <time_frame>At baseline (before Dose 1) and at 1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Fold Rise (GMFR) of SARS-CoV-2 full-length S-binding or S1-binding antibody levels in participants vaccinated with one of the 30-microgram lots (US or EU)</measure>
+    <time_frame>From baseline (before Dose 1) to 1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMCs of SARS CoV-2 neutralizing antibody levels in participants vaccinated with the 20-microgram or 30-microgram dose (from same US lot)</measure>
+    <time_frame>At baseline (before Dose 1) and 1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMFRs of SARS-CoV-2 neutralizing antibody levels in participants vaccinated with the 20-microgram or 30-microgram dose (from same US lot).</measure>
+    <time_frame>From baseline (before Dose 1) to 1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">1530</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>30-microgram dose of US manufactured drug substance (Lot 1)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>30-microgram dose of US manufactured drug substance (Lot 2)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>30-microgram dose of US manufactured drug substance (Lot 3)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>30-microgram dose of EU manufactured drug substance (Lot 4)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20-microgram dose of US manufactured drug substance (corresponding to Arm 1, 2 or 3 lot)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b2</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_label>Arm 3</arm_group_label>
+    <arm_group_label>Arm 4</arm_group_label>
+    <arm_group_label>Arm 5</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female participants between the ages of 12 and 50 years, inclusive, at&#xD;
+             randomization.&#xD;
+&#xD;
+          -  Participants who are willing and able to comply with all scheduled visits, treatment&#xD;
+             plan, laboratory tests, lifestyle considerations, and other study procedures.&#xD;
+&#xD;
+          -  Healthy participants who are determined by medical history, physical examination (if&#xD;
+             required), and clinical judgment of the investigator to be eligible for inclusion in&#xD;
+             the study.&#xD;
+&#xD;
+          -  Capable of giving personal signed informed consent/have parent(s)/legal guardian&#xD;
+             capable of giving signed informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Other medical or psychiatric condition including recent (within the past year) or&#xD;
+             active suicidal ideation/behavior or laboratory abnormality that may increase the risk&#xD;
+             of study participation or, in the investigator's judgment, make the participant&#xD;
+             inappropriate for the study.&#xD;
+&#xD;
+          -  Known infection with HIV, HCV, or HBV.&#xD;
+&#xD;
+          -  History of severe adverse reaction associated with a vaccine and/or severe allergic&#xD;
+             reaction (eg, anaphylaxis) to any component of the study intervention.&#xD;
+&#xD;
+          -  Previous clinical (based on COVID-19 symptoms/signs alone, if a SARS-CoV-2 NAAT result&#xD;
+             was not available) or microbiological (based on COVID-19 symptoms/signs and a positive&#xD;
+             SARS-CoV-2 NAAT result) diagnosis of COVID 19.&#xD;
+&#xD;
+             . Immunocompromised individuals with known or suspected immunodeficiency, as&#xD;
+             determined by history and/or laboratory/physical examination.&#xD;
+&#xD;
+          -  Bleeding diathesis or condition associated with prolonged bleeding that would, in the&#xD;
+             opinion of the investigator, contraindicate intramuscular injection.&#xD;
+&#xD;
+          -  Women who are pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Previous vaccination with any coronavirus vaccine.&#xD;
+&#xD;
+          -  Receipt of medications intended to prevent COVID-19.&#xD;
+&#xD;
+          -  Individuals who receive treatment with radiotherapy or immunosuppressive therapy,&#xD;
+             including cytotoxic agents or systemic corticosteroids, eg, for cancer or an&#xD;
+             autoimmune disease, or planned receipt throughout the study.&#xD;
+&#xD;
+          -  Receipt of blood/plasma products or immunoglobulin, from 60 days before study&#xD;
+             intervention administration or planned receipt throughout the study.&#xD;
+&#xD;
+          -  Participation in other studies involving study intervention within 28 days prior to&#xD;
+             study entry and/or during study participation.&#xD;
+&#xD;
+          -  Previous participation in other studies involving study intervention containing lipid&#xD;
+             nanoparticles.&#xD;
+&#xD;
+          -  Investigator site staff or Pfizer/BioNTech employees directly involved in the conduct&#xD;
+             of the study, site staff otherwise supervised by the investigator, and their&#xD;
+             respective family members.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+    <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Oakland</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Consulting</name>
+      <address>
+        <city>Milford</city>
+        <state>Connecticut</state>
+        <zip>06460</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Indago Research &amp; Health Center, Inc.</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Centers of America</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Neuroscience Solutions</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Atlanta</name>
+      <address>
+        <city>Stockbridge</city>
+        <state>Georgia</state>
+        <zip>30281</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>East-West Medical Research Institute</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96814</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Solaris Clinical Research</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83646</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kentucky Pediatric/Adult Research</name>
+      <address>
+        <city>Bardstown</city>
+        <state>Kentucky</state>
+        <zip>40004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Amici Clinical Research LLC</name>
+      <address>
+        <city>Raritan</city>
+        <state>New Jersey</state>
+        <zip>08869</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PMG Research of Wilmington, LLC</name>
+      <address>
+        <city>Wilmington</city>
+        <state>North Carolina</state>
+        <zip>28401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229-3039</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Center for Drug Development, Inc.</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trials of Texas, Inc.</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Martin Diagnostic Clinic</name>
+      <address>
+        <city>Tomball</city>
+        <state>Texas</state>
+        <zip>77375</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>J. Lewis Research, Inc. / Foothill Family Clinic South</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=C4591017</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>January 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2021</study_first_posted>
+  <last_update_submitted>March 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Vaccine</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>RNA Vaccine</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+    <ipd_url>https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

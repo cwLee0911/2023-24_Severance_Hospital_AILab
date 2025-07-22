@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3527">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04815850</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0810</org_study_id>
+    <nct_id>NCT04815850</nct_id>
+  </id_info>
+  <brief_title>Phenotyping Seroconversion Following Vaccination Against COVID-19 in Patients on Haemodialysis Study</brief_title>
+  <official_title>Phenotyping Seroconversion Following Vaccination Against COVID-19 in Patients on Haemodialysis Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Leicester</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Leicester Hospitals Charity</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Francis Crick Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Leicester</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients on haemodialysis are at higher risk of getting a severe form of COVID-19 if they&#xD;
+      become infected. Vaccinations are soon to arrive and offer great hope of controlling the&#xD;
+      current pandemic. It is likely that patients on haemodialysis will be amongst the first&#xD;
+      people to be offered vaccination against COVID-19 when they become available. While any&#xD;
+      vaccines offered to these patients will be safe to receive, the effectiveness of the vaccines&#xD;
+      at giving immunity to being infected with COVID-19 are not known as they have not been&#xD;
+      explicitly tested in patients on haemodialysis. This study will involve having 3 blood tests&#xD;
+      to test for an antibody response following vaccination for COVID-19. The first will be 1&#xD;
+      month after the first vaccination dose to look at the initial antibody response and the&#xD;
+      second and third will be 1 month and 6 months after the second vaccination dose.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with end stage kidney disease (ESKD) on haemodialysis are more likely to suffer&#xD;
+      poorer outcomes following infection with severe acute respiratory syndrome coronavirus 2&#xD;
+      (SARS-CoV-2) infection. This is likely to be because these patients have higher levels of&#xD;
+      co-morbid diseases and they are relatively immunosuppressed due to the effects of advanced&#xD;
+      kidney disease. The humoral response against common viral vaccination is known to be blunted&#xD;
+      in patients with ESKD and there are data to suggest seroconversion following infection with&#xD;
+      COVID-19 is blunted in patients with kidney disease. A successful programme of vaccination&#xD;
+      will undoubtedly improve outcomes for patients on haemodialysis, but vaccine testing&#xD;
+      programmes have not included patients with ESKD. Whilst initial press-coverage of the&#xD;
+      efficacy of vaccines which are available for use is promising, they are untested in patients&#xD;
+      on haemodialysis who are known to be relatively immunosuppressed as a result of their renal&#xD;
+      disease and as such the efficacy for this patient group is not known.&#xD;
+&#xD;
+      This study will phenotype the IgG antibody response to vaccination for COVID-19 in 100&#xD;
+      patients on haemodialysis compared to 50 healthy volunteers. Antibody testing will be&#xD;
+      conducted at 1 month post first vaccination dose and 1 month and 6 months post second&#xD;
+      vaccination dose. This will give crucial information as to the efficacy of the vaccine and&#xD;
+      inform possible requirements for re-vaccination.&#xD;
+&#xD;
+      This study will:&#xD;
+&#xD;
+        1. Phenotype the 1 month IgG antibody response to the first vaccination dose and the 1&#xD;
+           month and 6 month response to the second vaccination dose for COVID-19 in patients on&#xD;
+           haemodialysis&#xD;
+&#xD;
+        2. Compare the 1 month IgG antibody response to the first vaccination dose and the 1 month&#xD;
+           and 6 month response to the second vaccination dose for COVID-19 between patients on&#xD;
+           haemodialysis and healthy volunteers&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in COVID-19 IgG antibody (RLU)</measure>
+    <time_frame>Baseline; 1 month post first vaccine; 1 month post second vaccine; 6 months post second vaccine</time_frame>
+    <description>Measured from a serum blood sample</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>End Stage Kidney Disease</condition>
+  <arm_group>
+    <arm_group_label>Patients on haemodialysis</arm_group_label>
+    <description>Patients receiving haemodialysis</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <description>Participants with no chronic kidney disease or history of immunosuppression</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients receiving haemodialysis at Leicester General Hospital.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  End stage kidney disease on haemodialysis&#xD;
+&#xD;
+          -  Able and willing to give informed consent&#xD;
+&#xD;
+          -  Have completed or due to complete vaccination against COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Acute kidney injury requiring temporary haemodialysis&#xD;
+&#xD;
+          -  Unable to give informed consent&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Matthew PM Graham-Brown</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Leicester</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Matthew PM Graham-Brown</last_name>
+    <phone>0116 2584042</phone>
+    <email>mgb23@le.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Roseanne E Billany</last_name>
+    <phone>0116 2584042</phone>
+    <email>r.billany@leicester.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Hospital Leicester NHS Trust</name>
+      <address>
+        <city>Leicester</city>
+        <state>Leicestershire</state>
+        <zip>LE5 4PW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Matthew Graham-Brown</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 25, 2021</study_first_posted>
+  <last_update_submitted>March 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>haemodialysis</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>seroconversion</keyword>
+  <keyword>chronic kidney disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Kidney Failure, Chronic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3176">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04826822</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SPII_1789461</org_study_id>
+    <nct_id>NCT04826822</nct_id>
+  </id_info>
+  <brief_title>Spironolactone and Dexamethasone in Patients Hospitalized With COVID-19</brief_title>
+  <acronym>SPIDEX-II</acronym>
+  <official_title>Spironolactone and Dexamethasone in Patients Hospitalized With Moderate-to-severe COVID-19 (SPIDEX-II): a Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chita State Regional Clinical Hospital Number 1</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chita State Regional Clinical Hospital Number 1</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Severe Acute Respiratory Syndrome CoronaVirus 2 (SARS-CoV-2) is a rapidly spreading&#xD;
+      infection of the respiratory tract. Most infected patients have either asymptomatic disease&#xD;
+      or mild symptoms. However, a proportion of patients, especially elderly men or patients with&#xD;
+      comorbidities, are at risk of developing acute respiratory distress syndrome (ARDS). ARDS,&#xD;
+      alongside clotting abnormalities, is known to be a major contributor to SARS-CoV-2-related&#xD;
+      mortality and admission to intensive care units, with evidenced effective preventative&#xD;
+      treatment options lacking. In this study, the investigators test a novel hypothesis that the&#xD;
+      use of a combination of spironolactone and dexamethasone at low doses will improve the&#xD;
+      clinical progression of the infection evaluated by the 6-point ordinal scale in patients with&#xD;
+      moderate and severe disease by blocking exocytosis of the Weibel-Palade bodies from&#xD;
+      endothelial cells.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 24, 2021</start_date>
+  <completion_date type="Anticipated">September 2, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 8, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluation of the clinical status</measure>
+    <time_frame>Day 14 post-randomization</time_frame>
+    <description>Clinical status at day 14 post-randomization defined by a 6-point ordinal scale score (6 being the worst score)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>28-day all-cause mortality</measure>
+    <time_frame>28 days post-randomization</time_frame>
+    <description>All-cause mortality at 28 days post-randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen-free days</measure>
+    <time_frame>28 days post-randomization</time_frame>
+    <description>The number of days without oxygen support of any type</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-free days</measure>
+    <time_frame>28 days post-randomization</time_frame>
+    <description>The number of days without invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Invasive mechanical ventilation</measure>
+    <time_frame>28 days post-randomization</time_frame>
+    <description>The number of patients requiring invasive mechanical ventilation during hospitalization and the number of days spent on newly-administered invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to discharge</measure>
+    <time_frame>28 days post-randomization</time_frame>
+    <description>The number of days from hospitalization to discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of ICU stay</measure>
+    <time_frame>28 days post-randomization</time_frame>
+    <description>The number of days spent in the intensive care unit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New ICU admission</measure>
+    <time_frame>28 days post-randomization</time_frame>
+    <description>The number of patients requiring transfer to ICU and the number of days spent in the ICU post-transfer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Long-COVID development</measure>
+    <time_frame>60 and 90 days post-admission</time_frame>
+    <description>The number of patients with signs and symptoms that develop during or after an infection consistent with COVID-19, continue for more than 12 weeks and are not explained by an alternative diagnosis (Post-COVID-19 syndrome as defined by the relevant NICE guidance)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the clinical status</measure>
+    <time_frame>Day 7 post-randomization</time_frame>
+    <description>Clinical status at day 7 post-randomization defined by a 6-point ordinal scale score (6 being the worst score)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>28 days post-randomization</time_frame>
+    <description>Incidence of adverse events related to the use of the investigational products</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Laboratory abnormalities</measure>
+    <time_frame>28 days post-randomization</time_frame>
+    <description>Occurrence of laboratory hematimetric parameters, creatinine, d-dimer, c-reactive protein</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in classic cough score</measure>
+    <time_frame>28 days post-randomization</time_frame>
+    <description>Change in classic cough score measured daily in hospitalized patients</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Radiological abnormalities</measure>
+    <time_frame>28 days post-randomization</time_frame>
+    <description>Occurrence of viral pneumonia-associated changes on sequential chest CT scans in hospitalized patients</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">440</enrollment>
+  <condition>Coronavirus Infection</condition>
+  <condition>Pneumonia, Viral</condition>
+  <arm_group>
+    <arm_group_label>Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>After randomisation (Day 1): Spironolactone [100 mg 1x/day] + dexamethasone [2 mg 2x/day, 12/12h] Days 2-12*: Spironolactone [50 mg 2x/day, 12/12h] + dexamethasone [2 mg 2x/day, 12/12h] Days 13-20: Spironolactone [25 mg 2x/day, 12/12h] Days 21-28: Spironolactone [25 mg 1x/day] Standard treatment is according to the treatment protocol for 2019-nCoV infection.&#xD;
+*In case of cortisol levels above 100 nmol/L on days 3 and 4, the dexamethasone dose should be increased to 3 mg in the morning and in the evening (total 6 mg per day).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receiving standard-of-care treatment for SARS-CoV-2 infection as regulated by the relevant guidelines of the Ministry of Healthcare of the Russian Federation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Spironolactone + Dexamethasone</intervention_name>
+    <description>Low doses of orally administered spironolactone and dexamethasone</description>
+    <arm_group_label>Treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard-of-care SARS-CoV-2 treatment</intervention_name>
+    <description>Standard-of-care SARS-CoV-2 treatment administered according to the local guidelines</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 years or above;&#xD;
+&#xD;
+          -  Signed informed consent;&#xD;
+&#xD;
+          -  PCR-confirmed diagnosis of SARS-CoV-2 infection&#xD;
+&#xD;
+          -  Presenting with moderate-to-severe disease (scores 4-6 on WHO ordinal scale)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Women of childbearing age without a negative urine pregnancy test, currently pregnant&#xD;
+             or breastfeeding women;&#xD;
+&#xD;
+          -  Severe heart failure (NYHA4), severe renal failure (eGFR &lt; 30 ml/min/1.73 m2), severe&#xD;
+             liver failure (ALT/AST ratio &gt; 5 norms), severe anemia (haemoglobin &lt; 30 g/l)&#xD;
+&#xD;
+          -  Participating in another clinical trial&#xD;
+&#xD;
+          -  Severe electrolyte imbalance (hyperkalemia &gt; 5.0 mmol/l, hyponatremia &lt; 120 mmol/l)&#xD;
+&#xD;
+          -  Hypersensitivity or contraindications to the study drugs (spironolactone and&#xD;
+             dexamethasone)&#xD;
+&#xD;
+          -  Renal dialysis&#xD;
+&#xD;
+          -  Severe uncontrolled diabetes mellitus&#xD;
+&#xD;
+          -  Patient receiving one of the following medications that cannot be substituted over the&#xD;
+             trial duration: ACE inhibitors, amiloride, eplerenone, cortisone acetate, potassium&#xD;
+             canrenoate, triamterene&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sergey Lukyanov, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Chita State Regional Clinical Hospital Number 1</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sergey Lukyanov, MD</last_name>
+    <phone>+79242772971</phone>
+    <email>lukyanov-sergei@mail.ru</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Chita State Regional Clinical Hospital Number 1</name>
+      <address>
+        <city>Chita</city>
+        <zip>672039</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sergey Lukyanov, MD</last_name>
+      <phone>+7 924 277-29-71</phone>
+      <email>lukyanov-sergei@mail.ru</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 31, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>March 31, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Spironolactone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Sharing IPD would require material transfer agreement according to the local rules and regulations. The study protocol, statistical analysis plan, and the translated version of the informed consent form can be shared upon request.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

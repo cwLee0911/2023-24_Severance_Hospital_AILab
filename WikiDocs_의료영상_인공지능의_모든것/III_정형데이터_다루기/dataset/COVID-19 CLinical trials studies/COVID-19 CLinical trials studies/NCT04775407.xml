@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="344">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04775407</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-19 RHP</org_study_id>
+    <nct_id>NCT04775407</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Serological Testing of Patients With a Mental Disorder From the Catchment Area of the Capital Region of Denmark</brief_title>
+  <official_title>COVID-19 Serological Testing of Patients With a Diagnosis of Schizophrenia, Schizoaffective Disorder or Bipolar Affective Disorder From the Catchment Area of the Capital Region of Denmark</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Anders Fink-Jensen, MD, DMSci</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Psychiatric Centre Rigshospitalet</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The pandemic of coronavirus disease 2019 (COVID-19) caused by the severe acute respiratory&#xD;
+      syndrome coronavirus 2 (SARS-CoV-2) has lately caused worldwide health problems. Patients&#xD;
+      suffering from a severe mental disorder are at increased risk for infectious diseases. The&#xD;
+      primary aim of the present surveillance study is to perform COVID-19 serological testing on&#xD;
+      patients with a diagnosis of schizophrenia, schizoaffective disorder or a bipolar affective&#xD;
+      disorder. Patients from the catchment area of the Capital Region of Denmark will be COVID-19&#xD;
+      tested at baseline (0 months) and again at 6 and 12 months, in order to follow the spread of&#xD;
+      COVID-19 among this vulnerable patient population.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients suffering from severe mental illness could be in increased risk for a severe outcome&#xD;
+      if infected with COVID-19. Also, there are reports on fewer treatment activities among&#xD;
+      psychiatric patients (e.g. higher heart disease mortality), lower hospitalization rate and&#xD;
+      fewer invasive cardiac procedures among persons with schizophrenia than among the general&#xD;
+      population. This conveys a risk not only for the patient but for the spread of COVID-19 in&#xD;
+      the community. At present, we expect the outcome of a COVID-19 infection to be worse among&#xD;
+      the mentioned psychiatric patient population, but whether the spread of COVID-19 differs from&#xD;
+      the pattern observed in the general population is unknown. This information is of pivotal&#xD;
+      interest to come up with sufficient treatment strategies - especially when facing a possible&#xD;
+      second surge in the COVID-19 spread. Moreover, it is to the best of our knowledge unknown&#xD;
+      whether a possible CNS COVID-19 infection will worsen existing psychopathology among patients&#xD;
+      with severe schizophrenia, schizoaffective- or bipolar affective disorder. The study is&#xD;
+      exploratory in nature including as many patients as possible for testing. The target&#xD;
+      population is patients diagnosed with schizophrenia, schizoaffective disorder or a bipolar&#xD;
+      affective disorder receiving in-patient or out-patient care via one of the psychiatric&#xD;
+      centres in The Mental Health Services in the Capital Region of Denmark. Each patient will&#xD;
+      attend 3 study visits during a period of 12 months. A blood sample for IgG and IgM analysis&#xD;
+      for will be drawn at every visit.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 18, 2021</start_date>
+  <completion_date type="Anticipated">September 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The incidence of positive serological COVID-19 test result</measure>
+    <time_frame>18 month</time_frame>
+    <description>A blood sample from each patient is analyzed for COVID-19 antibodies</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Registered death (number), hospital admissions (number), changes in out-patients clinic contacts (number), changes in suicidal behavior (score on medical scale) and changes in psychopharmacological treatment (registered changed in medial journal).</measure>
+    <time_frame>18 month</time_frame>
+    <description>Data from Danish registers and from patient medical records are correlated with the possible presence of COVID-19 antibodies</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1400</enrollment>
+  <condition>Covid19</condition>
+  <condition>Severe Mental Disorder</condition>
+  <arm_group>
+    <arm_group_label>Screening</arm_group_label>
+    <description>Serological SARS-CoV-2 test</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>blood sampling</intervention_name>
+    <description>IgM og IgG analysis</description>
+    <arm_group_label>Screening</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood sampling for SARS-CoV-2 antibodies analysis&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The target population is patients diagnosed with schizophrenia, schizoaffective disorder or&#xD;
+        a bipolar affective disorder receiving in-patient or out-patient care via one of the&#xD;
+        psychiatric centres in The Mental Health Services in the Capital Region of Denmark&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Informed oral and written consent&#xD;
+&#xD;
+          2. Age ≥ 18 years&#xD;
+&#xD;
+          3. Patients with a diagnosis of schizophrenia, schizoaffective disorder or a bipolar&#xD;
+             affective disorder, according to the criteria of ICD10 (International Classification&#xD;
+             of Diseases, World Health Organization (WHO))&#xD;
+&#xD;
+          4. Receiving psychiatric treatment from a hospital in- or outpatient-clinic in the&#xD;
+             catchment area of the Capital Region of Denmark&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        1. Patient with signs of infection should initially be transferred to the national test&#xD;
+        centres antigen-PCR testing. These patients will be offered to participate in next blood&#xD;
+        sampling interval.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Anders Fink-Jensen, MD</last_name>
+    <phone>+45 22755843</phone>
+    <email>anders.fink-jensen@regionh.dk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Psychiatric Centre Copenhagen</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marie Sass, MD</last_name>
+      <phone>+45 26811832</phone>
+      <email>marie.reeberg.sass@regionh.dk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 1, 2021</study_first_posted>
+  <last_update_submitted>March 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Psychiatric Centre Rigshospitalet</investigator_affiliation>
+    <investigator_full_name>Anders Fink-Jensen, MD, DMSci</investigator_full_name>
+    <investigator_title>MD Proffessor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Mental Disorders</mesh_term>
+    <mesh_term>Psychotic Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

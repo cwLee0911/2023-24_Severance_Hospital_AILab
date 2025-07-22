@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4103">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04788355</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HA and A COVID 19</org_study_id>
+    <nct_id>NCT04788355</nct_id>
+  </id_info>
+  <brief_title>Prevention of Complications (SARS-CoV-2): Clinical Study</brief_title>
+  <official_title>Hydroxychloroquine and Apixaban: Analysis of Physiological Parameters for the Prevention of Complications in Patients With Infection With the New Coronavirus (Covid-19). A Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidade do Vale do Sapucai</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Apsen Farmaceutica S.A.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Dermadia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Methodos Laboratory</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Biofarma</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universidade do Vale do Sapucai</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Viral diseases have always posed a threat to public health. Recently, the SARS-Cov2 virus&#xD;
+      spread in an epidemic that began in China and soon spread globally, making its study&#xD;
+      extremely relevant, in order to seek mechanisms to combat it. Therefore, this study seeks to&#xD;
+      evaluate the benefit of using Hydroxychloroquine with or without Apixaban in the early&#xD;
+      treatment of patients with suspected COVID-19. Prospective, randomized, double-blind,&#xD;
+      controlled study, performed at Hospital das Clínicas Samuel Libânio (Universidade do Vale do&#xD;
+      Sapucaí) UNIVÁS, Pouso Alegre, Minas Gerais, Brasil. Patients treated in the emergency&#xD;
+      department who are reported as suspected cases of COVID-19 patients will be included,&#xD;
+      according to current guidelines. Will be randomized into 4 groups: Hydroxychloroquine,&#xD;
+      Hydroxychloroquine + Apixabana, only Apixabana and Control group, all receiving standard&#xD;
+      treatment recommended. Included patients will be monitored during hospitalization or remotely&#xD;
+      assisted in home treatment. Clinical, laboratory, electrocardiographic and image evaluation&#xD;
+      criteria will be considered to assess the evolution in 7 and 14 days after inclusion. Results&#xD;
+      will be subjected to appropriate statistical analysis, with sample calculation. An early&#xD;
+      therapeutic approach is proposed in suspected and confirmed patients with COVID-19, with the&#xD;
+      hope of reducing hospitalizations and severe forms of the disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The early administration of HCQ or in association with apixaban, could prevent worsening of&#xD;
+      suspected COVID-19, as well as preventing hospitalizations and the need for intensive&#xD;
+      treatment. In patients with mild to moderate disease, the use of hydroxychloroquine or&#xD;
+      hydroxychloroquine with apixaban or apixaban alone, could be able to reduce disease&#xD;
+      progression on an ordinal scale of outcome (including use of mechanical ventilation and&#xD;
+      death) and decrease the likelihood of hospitalization or worsening of clinical conditions.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Actual">December 23, 2020</completion_date>
+  <primary_completion_date type="Actual">November 15, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Clinical study that will evaluate the action of drugs combined or not to reduce complications of patients with covid 19</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Patients and outcome assessors will not know which groups the patients belong to</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patients in home isolation will be followed for (telemedicine) 14 days. The Beck scale will assess anxiety. Questions will be asked to patients about their health conditions. The answers will be tabulated in a spreadsheet composed of the following result</measure>
+    <time_frame>14 evaluation days after inclusion in the study</time_frame>
+    <description>The Beck scale will assess anxiety. Questions asked by telemedicine: cough, dyspnea, fatigue, malaise, myalgia, runny nose, odynophagia, anosmia, ageusia, headache, anorexia, abdominal pain, conjunctival congestion, diarrhea, nausea, vomiting, palpitation, bleeding, atypical symptoms. The parameters for such telemedicine evaluations were: yes or no.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of the presence or absence of secondary complications for patients in home isolation or hospitalized, after using the drugs.</measure>
+    <time_frame>14 evaluation days after inclusion in the study</time_frame>
+    <description>The relationship between the use of medications in the initial interventions and the presence or absence of secondary complications will be assessed both for patients in home isolation and for hospitalized patients. As for patients who are hospitalized, the following topics will be included in the table: use of oxygen therapy, mechanical ventilation, death. The parameters for answers will be yes or no.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">176</enrollment>
+  <condition>Complication</condition>
+  <arm_group>
+    <arm_group_label>Control Group standard treatment</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will be treated only with standard hospital treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group Hydroxychloroquine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will be treated with Hydroxychloroquine associated with standard hospital treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group Hydroxychloroquine e Apixaban</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will be treated with Hydroxychloroquine associated with apixaban and standard hospital treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group Apixabana</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will be treated with apixaban associated with standard hospital treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Control group (standard hospital treatment)</intervention_name>
+    <description>Medications defined by the hospital involved in the study</description>
+    <arm_group_label>Control Group standard treatment</arm_group_label>
+    <arm_group_label>Group Apixabana</arm_group_label>
+    <arm_group_label>Group Hydroxychloroquine</arm_group_label>
+    <arm_group_label>Group Hydroxychloroquine e Apixaban</arm_group_label>
+    <other_name>Drug protocols recommended by WHO and the Ministry of Health that make up the standard hospital treatment</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Group Hydroxychloroquine</intervention_name>
+    <description>Patients in this group will receive hydroxychloroquine orally 200 mg every 12 hours for 7 days. In addition, patients in this group will receive standard medication for COVID-19 which is part of the hospital protocol involved in the study.</description>
+    <arm_group_label>Group Hydroxychloroquine</arm_group_label>
+    <other_name>Hydroxychloroquine associated with standard treatment of the hospital involved in the study</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Group Hydroxychloroquine and apixaban</intervention_name>
+    <description>Patients in this group will receive hydroxychloroquine orally 200 mg every 12 hours for 7 days + apixaban orally 2.5 mg every 12 hours, also for 14 days (prophylactic dose). In addition, patients in this group will receive standard medication, which is the protocol of the hospital involved in the study.</description>
+    <arm_group_label>Group Hydroxychloroquine e Apixaban</arm_group_label>
+    <other_name>Hydroxychloroquine, Apixaban and standard treatment</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Group Apixaban</intervention_name>
+    <description>Patients in this group will receive apixaban 2.5 mg orally every 12 hours, also for 14 days (prophylactic dose). In addition, patients in this group will receive standard medication, which is the protocol of the hospital involved in the study.</description>
+    <arm_group_label>Group Apixabana</arm_group_label>
+    <other_name>Apixaban and standard treatment</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Patients with suspected or confirmed covid-19, above 18 years old&#xD;
+&#xD;
+          -  Patients with time between symptom onset and inclusion ≤ 14 days&#xD;
+&#xD;
+          -  Patients with time between hospital stay and inclusion ≤ 48 hours&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Patients tested negative for covid-19 by rt-pcr, serological or rapid test method&#xD;
+&#xD;
+          -  Patients unable to swallow for any reason&#xD;
+&#xD;
+          -  Patients with an extended qt interval, defined as a corrected qt (qtc) for heart rate&#xD;
+             above 450 ms for men and 470 ms for women&#xD;
+&#xD;
+          -  Patients with liver toxicity, defined as ast / alt or increased bilirubin&#xD;
+&#xD;
+          -  Patients with ventricular arrhythmias&#xD;
+&#xD;
+          -  Patients with bleeding, major hematoma or blood dyscrasia;&#xD;
+&#xD;
+          -  Patients who, at any time during the process, choose to give up participating in the&#xD;
+             study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Univás</name>
+      <address>
+        <city>Pouso Alegre</city>
+        <state>Minas Gerais</state>
+        <zip>37550000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>September 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 9, 2021</study_first_posted>
+  <last_update_submitted>March 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidade do Vale do Sapucai</investigator_affiliation>
+    <investigator_full_name>José Dias da Silva Neto</investigator_full_name>
+    <investigator_title>Doctor</investigator_title>
+  </responsible_party>
+  <keyword>Complications</keyword>
+  <keyword>Novel coronavirus 2019</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Chloroquine</keyword>
+  <keyword>Anticoagulants</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydroxychloroquine</mesh_term>
+    <mesh_term>Apixaban</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

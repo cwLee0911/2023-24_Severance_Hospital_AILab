@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1333">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04779021</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21infectiocovid01</org_study_id>
+    <nct_id>NCT04779021</nct_id>
+  </id_info>
+  <brief_title>Caracterisation of COVID-19 Patients Hospitalized in Infectious Disease Department</brief_title>
+  <official_title>Caracterisation of SARS-Cov2 Infected Patients Hospitalized in Infectious Disease Department</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Nice</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Nice</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main objective of this cohort is to characterize COVID-19 patients hospitalized in&#xD;
+      infectious disease department. The collection of clinical and biological data from start of&#xD;
+      hospitalization to long-term follow up will contribute to a better description of the patient&#xD;
+      care, to the identification of predisposition to complication related to the disease, and to&#xD;
+      the evaluation of the impact of different therapeutical strategies.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 15, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical characteristics</measure>
+    <time_frame>34 months</time_frame>
+    <description>Describe the clinical characteristic of patients hospitalized for SARS-CoV- 2 infection Identify factors associated with the COVID-19 disease severity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biological characteristics</measure>
+    <time_frame>34 months</time_frame>
+    <description>Describe the biological characteristic of patients hospitalized for SARS-CoV- 2 infection Identify factors associated with the COVID-19 disease severity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Radiological characteristics</measure>
+    <time_frame>34 months</time_frame>
+    <description>Describe the radiological characteristic of patients hospitalized for SARS-CoV- 2 infection Identify factors associated with the COVID-19 disease severity</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of patient hospitalised for Covid-19</measure>
+    <time_frame>34 months</time_frame>
+    <description>Inpatient up to Day 28 or discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Inpatient Mortality</measure>
+    <time_frame>34 months</time_frame>
+    <description>Number of death due to Covid-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement for mechanical ventilation</measure>
+    <time_frame>34 months</time_frame>
+    <description>Number of patients requiring mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU Length of Stay (LOS)</measure>
+    <time_frame>34 months</time_frame>
+    <description>Duration measured in days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of patient general state during hospitalisation</measure>
+    <time_frame>34 months</time_frame>
+    <description>the different measures (Body Mass Index (BMI), respiratory rate at rest, peripheral oxygen saturation, need for oxygen supplementation, body temperature) will be aggregated in order to obtain a clinical status corresponding to the clinical evolution (good or bad) of the patient's general state.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biological tests</measure>
+    <time_frame>34 months</time_frame>
+    <description>Dosage of Lymphocytes, C-reactive protein and IL-6</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1300</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV Infection</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Hospitalisation for SARS-COV2 infection</intervention_name>
+    <description>Patients hospitalized for SARS-COV2 infection</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients hospitalized for SARS-COV2 infection&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt; or = to 18&#xD;
+&#xD;
+          -  Patients hospitalised for SARS-CoV-2 infection confirmed by RT PCRand/or CT scan&#xD;
+             and/or serology&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients for whom SARS-CoV-2 infection has not been confirmed&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Michel CARLES</last_name>
+    <phone>+33492035847</phone>
+    <email>carles.m@chu-nice.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Elisa DEMONCHY</last_name>
+    <email>demonchy.e@chu-nice.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHU de NICE - Infectiologie</name>
+      <address>
+        <city>Nice</city>
+        <zip>06200</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elisa DEMONCHY</last_name>
+      <phone>+33492035847</phone>
+      <email>demonchy.e@chu-nice.fr</email>
+    </contact>
+    <investigator>
+      <last_name>David CHIRIO, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Karine RISSO, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Eric CUA, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Johan COURJON, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de NICE - Urgences</name>
+      <address>
+        <city>Nice</city>
+        <zip>06200</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julie CONTENTI</last_name>
+      <email>contenti.j@chu-ice.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>March 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>No data sharing plan is scheduled</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

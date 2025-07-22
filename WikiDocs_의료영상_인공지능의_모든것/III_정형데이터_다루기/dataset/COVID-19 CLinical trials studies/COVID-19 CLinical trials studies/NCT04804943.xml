@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5270">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04804943</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NOA001ARDS01</org_study_id>
+    <nct_id>NCT04804943</nct_id>
+  </id_info>
+  <brief_title>Pilot Clinical Study of NOA-001 for ARDS (Acute Respiratory Distress Syndrome)</brief_title>
+  <official_title>Pilot Clinical Study to Investigate the Efficacy and Safety of NOA-001 for the Treatment of Patients With Acute Respiratory Distress Syndrome.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Toray Industries, Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Toray Industries, Inc</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary object of this clinical study is to investigate the efficacy and the safety of&#xD;
+      NOA-001 in patients with ARDS (ARDS caused by Non-COVID-19 or COVID-19).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      (ARDS caused by Non-COVID-19 cohort): The objectives of this clinical study is to investigate&#xD;
+      the efficacy and safety of NOA-001 in patients with ARDS caused by Non-COVID-19. The number&#xD;
+      of patients enrolled is 30 (20 patients in the NOA-001 group and 10 patients in the standard&#xD;
+      therapy group).&#xD;
+&#xD;
+      (ARDS caused by COVID-19 cohort): The objectives of this clinical study is to investigate the&#xD;
+      efficacy and the safety of NOA-001 in patients with ARDS caused by COVID-19. The number of&#xD;
+      patients enrolled is 5 (in the NOA-001 group only).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 19, 2021</start_date>
+  <completion_date type="Anticipated">October 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ventilator Free Days (VFD, Days alive and ventilator-free)</measure>
+    <time_frame>Day 28</time_frame>
+    <description>VFD is a composite measure of all-cause mortality and the number of days free of mechanical ventilation (VFD) within 28 days.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause Mortality</measure>
+    <time_frame>Up to Day 28, 60 and 90</time_frame>
+    <description>Fatalities, mortality all-causes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality in ICU</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>All-cause mortality for patients who died in Intensive Care Units.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality in Hospital</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>The number of patients who died in hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in PaO2/ FiO2 ratio</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">35</enrollment>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <arm_group>
+    <arm_group_label>NOA-001 group (ARDS caused by Non-COVID-19 cohort)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive the standard and NOA-001 therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard treatment group (ARDS caused by Non-COVID-19 cohort)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients will receive the standard therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NOA-001 group (ARDS caused by COVID-19 cohort)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive the standard and NOA-001 therapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>NOA-001</intervention_name>
+    <description>NOA-001 will be replaced regularly (at 22 to 24 hours after the initiation of procedure), and will be continuously performed until 168 hours from the enrollment.</description>
+    <arm_group_label>NOA-001 group (ARDS caused by COVID-19 cohort)</arm_group_label>
+    <arm_group_label>NOA-001 group (ARDS caused by Non-COVID-19 cohort)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        (ARDS caused by Non-COVID-19 cohort)&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+        At Informed Consent&#xD;
+&#xD;
+          1. Patients with ARDS confirmed by the Berlin definition based on the following&#xD;
+             diagnostic criteria (a)-(d):&#xD;
+&#xD;
+               1. Patients within 7 days from invasion or exacerbation of respiratory symptoms or&#xD;
+                  acute onset of ARDS.&#xD;
+&#xD;
+               2. Patients with respiratory failure not fully explained by cardiac failure or fluid&#xD;
+                  overload; Need objective assessment (e. g., echo-cardiography) to exclude&#xD;
+                  hydrostatic edema if no risk factor present&#xD;
+&#xD;
+               3. Patients with bilateral opacities not fully explained by effusions, lobar/ lung&#xD;
+                  collapse, or nodules on chest X-ray or CT scan&#xD;
+&#xD;
+               4. Patients with PaO2/ FiO2 ratio ≤ 300 mmHg (PEEP ≥ 5 cmH2O)&#xD;
+&#xD;
+          2. Patients who are intubated and mechanically ventilated&#xD;
+&#xD;
+          3. Patients who can be enrolled in the study within 48 hours after ARDS diagnosis&#xD;
+             confirmed by Berlin definition&#xD;
+&#xD;
+          4. Patients aged ≥ 16 years at informed consent (Signed informed consent form from&#xD;
+             legally acceptable representative must be available if patient is aged &lt; 20 years)&#xD;
+&#xD;
+        At Enrollment&#xD;
+&#xD;
+          1. Patients with PaO2/ FiO2 ratio ≥ 50 mmHg and ≤ 200 mmHg (PEEP ≥ 5 cmH2O)&#xD;
+&#xD;
+          2. Patients with bilateral opacities not fully explained by effusions, lobar/ lung&#xD;
+             collapse, or nodules on CT scan within 48 hours before enrollment&#xD;
+&#xD;
+          3. Patients who are intubated and mechanically ventilated&#xD;
+&#xD;
+          4. Patients who can be enrolled in the study within 48 hours after ARDS diagnosis&#xD;
+             confirmed by Berlin definition&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        At Informed Consent&#xD;
+&#xD;
+          1. Patients with mechanical ventilation for more than 48 hours prior to ARDS diagnosis&#xD;
+             confirmed by Berlin definition&#xD;
+&#xD;
+          2. Patients who are considered to be extremely unlikely to withdraw from mechanical&#xD;
+             ventilation&#xD;
+&#xD;
+          3. Patients who are treated with ECMO or HFOV&#xD;
+&#xD;
+          4. Patients with renal dialysis therapy for chronic renal failure&#xD;
+&#xD;
+          5. Patients with congestive heart failure (NYHA class IV)&#xD;
+&#xD;
+          6. Patients with acuter left ventricular failure&#xD;
+&#xD;
+          7. Patients with liver failure (Child-Pugh grade C)&#xD;
+&#xD;
+          8. Patients who have burns in excess of 15% total body surface area&#xD;
+&#xD;
+          9. Patients after resuscitation from cardiac arrest&#xD;
+&#xD;
+         10. Patients with a history of hypersensitivity to the anticoagulants (Heparin or&#xD;
+             Nafamostat mesylate)&#xD;
+&#xD;
+         11. Patients who have received cytapheresis, blood purification therapy with cytokine&#xD;
+             adsorbing devices or endotoxin removal therapy within 7 days prior to informed consent&#xD;
+&#xD;
+         12. Patients with pregnancy or lactating&#xD;
+&#xD;
+         13. Patients tested positive for COVID-19&#xD;
+&#xD;
+        At Enrollment&#xD;
+&#xD;
+          1. Patients who are considered to be extremely unlikely to withdraw from mechanical&#xD;
+             ventilation&#xD;
+&#xD;
+          2. Patients who are treated with ECMO or HFOV after obtaining informed consent prior to&#xD;
+             enrollment&#xD;
+&#xD;
+          3. Patients with platelet count ≤ 50,000 /mm3 by the latest blood test&#xD;
+&#xD;
+          4. Patients who have received cytapheresis, blood purification therapy with cytokine&#xD;
+             adsorbing devices or endotoxin removal therapy between informed consent and enrollment&#xD;
+&#xD;
+          5. Patients whose life expectancy is ≤ 24 hours after enrollment&#xD;
+&#xD;
+          6. Patients after resuscitation from cardiac arrest between informed consent and&#xD;
+             enrollment&#xD;
+&#xD;
+          7. Patients tested positive for COVID-19 between informed consent and enrollment&#xD;
+&#xD;
+        (ARDS caused by COVID-19 cohort)&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+        At Informed Consent&#xD;
+&#xD;
+          1. Patients tested positive for COVID-19&#xD;
+&#xD;
+          2. Patients with ARDS confirmed by the Berlin definition based on the following&#xD;
+             diagnostic criteria (a)-(d):&#xD;
+&#xD;
+               1. Patients within 7 days from invasion or exacerbation of respiratory symptoms or&#xD;
+                  acute onset of ARDS.&#xD;
+&#xD;
+               2. Patients with respiratory failure not fully explained by cardiac failure or fluid&#xD;
+                  overload; Need objective assessment (e. g., echo-cardiography) to exclude&#xD;
+                  hydrostatic edema if no risk factor present&#xD;
+&#xD;
+               3. Patients with bilateral opacities not fully explained by effusions, lobar/ lung&#xD;
+                  collapse, or nodules on chest X-ray or CT scan&#xD;
+&#xD;
+               4. Patients with PaO2/ FiO2 ratio ≤ 300 mmHg (PEEP ≥ 5 cmH2O)&#xD;
+&#xD;
+          3. Patients who are intubated and mechanically ventilated&#xD;
+&#xD;
+          4. Patients who can be enrolled in the study within 48 hours after ARDS diagnosis&#xD;
+             confirmed by Berlin definition&#xD;
+&#xD;
+          5. Patients aged ≥ 16 years at informed consent (Signed informed consent form from&#xD;
+             legally acceptable representative must be available if patient is aged &lt; 20 years)&#xD;
+&#xD;
+        At Enrollment&#xD;
+&#xD;
+          1. Patients with PaO2/ FiO2 ratio ≥ 50 mmHg and ≤ 200 mmHg (PEEP ≥ 5 cmH2O)&#xD;
+&#xD;
+          2. Patients who are intubated and mechanically ventilated&#xD;
+&#xD;
+          3. Patients who can be enrolled in the study within 48 hours after ARDS diagnosis&#xD;
+             confirmed by Berlin definition&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        At Informed Consent&#xD;
+&#xD;
+          1. Patients with mechanical ventilation for more than 48 hours prior to ARDS diagnosis&#xD;
+             confirmed by Berlin definition&#xD;
+&#xD;
+          2. Patients who are considered to be extremely unlikely to withdraw from mechanical&#xD;
+             ventilation&#xD;
+&#xD;
+          3. Patients who are treated with ECMO or HFOV&#xD;
+&#xD;
+          4. Patients with renal dialysis therapy for chronic renal failure&#xD;
+&#xD;
+          5. Patients with congestive heart failure (NYHA class IV)&#xD;
+&#xD;
+          6. Patients with acuter left ventricular failure&#xD;
+&#xD;
+          7. Patients with liver failure (Child-Pugh grade C)&#xD;
+&#xD;
+          8. Patients who have burns in excess of 15% total body surface area&#xD;
+&#xD;
+          9. Patients after resuscitation from cardiac arrest&#xD;
+&#xD;
+         10. Patients with a history of hypersensitivity to the anticoagulants (Heparin or&#xD;
+             Nafamostat mesylate)&#xD;
+&#xD;
+         11. Patients who have received cytapheresis, blood purification therapy with cytokine&#xD;
+             adsorbing devices or endotoxin removal therapy within 7 days prior to informed consent&#xD;
+&#xD;
+         12. Patients with pregnancy or lactating&#xD;
+&#xD;
+        At Enrollment&#xD;
+&#xD;
+          1. Patients who are considered to be extremely unlikely to withdraw from mechanical&#xD;
+             ventilation&#xD;
+&#xD;
+          2. Patients who are treated with ECMO or HFOV after obtaining informed consent prior to&#xD;
+             enrollment&#xD;
+&#xD;
+          3. Patients with platelet count ≤ 50,000 /mm3 by the latest blood test&#xD;
+&#xD;
+          4. Patients who have received cytapheresis, blood purification therapy with cytokine&#xD;
+             adsorbing devices or endotoxin removal therapy between informed consent and enrollment&#xD;
+&#xD;
+          5. Patients whose life expectancy is ≤ 24 hours after enrollment&#xD;
+&#xD;
+          6. Patients after resuscitation from cardiac arrest between informed consent and&#xD;
+             enrollment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Naoki Ando</last_name>
+    <phone>+81 3 3245 8588</phone>
+    <email>naoki.ando.w5@mail.toray</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jun Miyakawa</last_name>
+    <phone>+81 3 3245 8588</phone>
+    <email>jun.miyakawa.m5@mail.toray</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Showa University Hospital</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 18, 2021</study_first_posted>
+  <last_update_submitted>March 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Diffuse Alveolar Damage</keyword>
+  <keyword>DAD</keyword>
+  <keyword>Acute Respiratory Distress Syndrome</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>NOA-001</keyword>
+  <keyword>Hemoperfusion</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

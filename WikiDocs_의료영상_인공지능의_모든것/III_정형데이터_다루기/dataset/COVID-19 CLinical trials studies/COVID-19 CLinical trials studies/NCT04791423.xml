@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3353">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04791423</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RT-CoV-2_01</org_study_id>
+    <nct_id>NCT04791423</nct_id>
+  </id_info>
+  <brief_title>Study of GRAd-COV2 for the Prevention of COVID-19 in Adults</brief_title>
+  <acronym>COVITAR</acronym>
+  <official_title>A Phase II/III, Randomized, Stratified, Observer-Blind, Placebo-Controlled Study to Evaluate the Efficacy, Safety, and Immunogenicity of GRAd-COV2 Vaccine in Adults Aged 18 Years and Older</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ReiThera Srl</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Istituto Nazionale per le Malattie Infettive Lazzaro Spallanzani</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>ReiThera Srl</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multicenter Study assessing the safety, efficacy, and immunogenicity of the candidate vaccine&#xD;
+      GRAd-COV2, compared to placebo, for the prevention of COVID-19. Participants will be adults ≥&#xD;
+      18 years of age who are healthy or have medically stable chronic diseases and are at&#xD;
+      increased risk for SARS-CoV-2 acquisition and COVID-19. In the phase II part approximately&#xD;
+      900 participants will be randomized in a 1:1:1 ratio to receive i) 2 repeated (21 days apart)&#xD;
+      intramuscular (IM) doses of GRAd-COV2 at 1x10^11 viral particle (vp) (n = approximately 300&#xD;
+      subjects) ii) 1 single IM dose of GRAd-COV2 at 2x10^11 vp plus 1 dose of placebo after 21&#xD;
+      days (n= approximately 300 subject) or 2 doses of placebo (n = approximately 300 subjects) on&#xD;
+      day 1 and day 22. There will be 3 strata for randomization: ≥ 65 years, &lt; 65 years and&#xD;
+      categorized to be at increased risk (&quot;at risk&quot;) for the complications of COVID-19, and &lt; 65&#xD;
+      years &quot;not at risk&quot;. Risk will be defined referring to the study participants' relevant past&#xD;
+      and current medical history. An independent Data Safety Monitoring Board will provide&#xD;
+      oversight, to ensure safe and ethical conduct of the Study; a Steering Committee will revise&#xD;
+      safety data (collected for 900 participants 1 week after dosing) and immunogenicity data&#xD;
+      (collected for 450 participants 5 weeks after the first dosing) generated in phase II part.&#xD;
+      Jointly DSMB and SC will recommend the expansion to phase III and the best regimen to be&#xD;
+      used.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">March 15, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 30, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>In the phase II part approximately 900 participants will be randomized in a 1:1:1 ratio to receive 1 single IM dose of GRAd-COV2 2x10^11 vp plus 1 dose of placebo after 21 days (n= approximately 300 subject) or 2 repeated (21 days apart) IM dose of GRAd-COV2 1x10^11 (n = approximately 300 subjects) or two doses of placebo (n = approximately 300 subjects) on day 1 and day 22.&#xD;
+Once the phase III expansion is granted, according to the epidemic evolution,the availability on the market of alternative vaccine(s) and the characteristics of vaccination campaign, the phase III study design will be adapted following these 3 potential scenarios: 1) a superiority trial vs placebo on overall population; 2) a superiority trial vs placebo on an subset of population (low risk subjects for infection outcome) or 3) a non-inferiority trial vs the available alternative vaccine on a surrogate endpoint (correlates of protection), if available.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The phase II part of the study is a parallel-group preventive study with 3 arms that is participant and investigator blinded (observer blinded). The blinding of the phase III will depend on the scenario that will be implemented.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with symptomatic laboratory confirmed COVID-19</measure>
+    <time_frame>FROM &gt; 28 DAYS POST FIRST DOSE (DAY 1) UP TO DAY 730</time_frame>
+    <description>A binary response, whereby a participant is defined as a COVID-19 case if their first case of SARS-CoV-2 RT-PCR-positive symptomatic illness occurs ≥ 28 days post first dose or ≥ 7 days after the second dose of study intervention (depending on the selected regimen).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of AEs, SAEs, MAAEs, and AESI</measure>
+    <time_frame>28 DAYS POST EACH DOSE FOR AEs and FROM RANDOMIZATION UP TO DAY 730 FOR SAEs, MAAEs, and AESI</time_frame>
+    <description>Incidence of AEs for 28 days post each dose of study intervention.&#xD;
+Incidence of SAEs, MAAEs, and AESIs from Day 1 post treatment through Day 730.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of local and systemic solicited AEs</measure>
+    <time_frame>7 DAYS POST EACH DOSE OF STUDY INTERVENTION</time_frame>
+    <description>Incidence of local and systemic solicited AEs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-treatment GMTs in SARS-CoV2 S and/or RBD antibodies</measure>
+    <time_frame>from day 1 to day 36</time_frame>
+    <description>Post-treatment GMTs from day of dosing baseline value to 35 days post first dose in SARS-CoV-2 S and/or RBD antibodies.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-treatment GMFRs in SARS-CoV2 S and/or RBD antibodies</measure>
+    <time_frame>from day 1 to day 36</time_frame>
+    <description>Post-treatment GMFRs from day of dosing baseline value to 35 days post first dose in SARS-CoV-2 S and/or RBD antibodies.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of participants with post-treatment seroresponse (&gt; 4-fold rise in titers) to the S and/or RBD antigens of GRAd-COV2</measure>
+    <time_frame>from day 1 to day 36</time_frame>
+    <description>Proportion of participants with post-treatment seroresponse (&gt; 4-fold rise in titers) to the S and/or RBD antigens of GRAd-COV2.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to first SARS-CoV2 RT-PCR positive severe or critical symptomatic illness</measure>
+    <time_frame>FROM &gt; 28 DAYS POST FIRST DOSE (DAY 1) UP TO DAY 730</time_frame>
+    <description>Time to first SARS-CoV-2 RT-PCR-positive severe or critical symptomatic illness occurring ≥ 28 days post first dose or ≥ 7 days after second dose of study intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who have a post-treatment response for SARS-COV2 Nucleocapside antibodies</measure>
+    <time_frame>from Day 1 up to day 730</time_frame>
+    <description>Proportion of participants who have a post-treatment response (negative at baseline to positive post treatment with study intervention) for SARS-CoV-2 Nucleocapsid antibodies over time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first case of SARS-COV2 RT-PCR positive symptomatic illness using CDC criteria</measure>
+    <time_frame>FROM &gt; 28 DAYS POST FIRST DOSE (DAY 1) UP TO DAY 730</time_frame>
+    <description>Time to first case of SARS-CoV-2 RT-PCR- positive symptomatic illness occurring ≥ 28 days post first dose or &gt; 7 days after second dose of study intervention using CDC criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first COVID-19 related Emergency Department admission</measure>
+    <time_frame>FROM &gt; 28 DAYS POST FIRST DOSE (DAY 1) UP TO DAY 730</time_frame>
+    <description>Time to first COVID-19-related Emergency Department admission occurring ≥ 28 days post single dose or ≥ 7 days post second dose of study intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to COVID-19 related death</measure>
+    <time_frame>FROM &gt; 28 DAYS POST FIRST DOSE (DAY 1) UP TO DAY 730</time_frame>
+    <description>Time to COVID-19 related death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-treatment GMTs in SARS-CoV-2 S and/or RBD antibodies</measure>
+    <time_frame>from day of dosing baseline value to 35 days after first dose</time_frame>
+    <description>Post-treatment GMTs from day of dosing baseline value to 35 days post first dose (14 days post second dose) in SARS-CoV-2 S and/or RBD antibodies</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-treatment GMFRs in SARS-CoV-2 S and/or RBD antibodies</measure>
+    <time_frame>from day of dosing baseline value to 35 days after first dose</time_frame>
+    <description>Post-treatment GMFRs from day of dosing baseline value to 35 days post first dose (14 days post second dose) in SARS-CoV-2 S and/or RBD antibodies</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who have a post-treatment seroresponse (≥ 4-fold rise in titers) in S and/or RBD antigens of GRAd-COV2.</measure>
+    <time_frame>from day 1 to day 36</time_frame>
+    <description>The proportion of participants who have a post-treatment seroresponse (≥ 4-fold rise in titers from day of dosing baseline value to 35 days post first dose) to the S and/or RBD antigens of GRAd-COV2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-treatment GMTs in SARS-CoV2 S neutralizing antibodies</measure>
+    <time_frame>from day of dosing baseline value to 35 days after first dose</time_frame>
+    <description>Post-treatment GMTs from day of dosing baseline value to 35 days post first dose (14 days post second dose) in SARS-CoV-2 neutralizing antibodies.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-treatment GMFRs in SARS-CoV2 S neutralizing antibodies</measure>
+    <time_frame>from day of dosing baseline value to 35 days after first dose</time_frame>
+    <description>Post-treatment GMFRs from day of dosing baseline value to 35 days post first dose (14 days post second dose) in SARS-CoV-2 neutralizing antibodies.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with post-treatment seroresponse (&gt; 4-fold rise in titers) in SARS-COV2 neutralizing antibodies</measure>
+    <time_frame>from day 1 to day 36</time_frame>
+    <description>Proportion of participants who have a post-treatment seroresponse (≥ 4-fold rise in titers from day of dosing baseline value to 35 days post first dose) to GRAd-COV2 as measured by SARS-CoV-2 neutralizing antibodies.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">10300</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Single dose of GRAd-COV2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 single IM dose of GRAd-COV2 2 x 10^11 vp plus 1 dose of saline placebo after 21 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Double dose of GRAd-COV2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 repeated (21 days apart) IM dose of GRAd-COV2 1 x 10^11</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Two doses of saline placebo on day 1 and day 22</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>GRAd-COV2</intervention_name>
+    <description>GRAd-COV2 is a replication-defective gorilla adenoviral vector (GRAd) encoding the SARS-CoV-2 surface glycoprotein (S, Spike) antigen under the control of CMV immediate early promoter. The encoded Spike antigen is stabilized in pre-fusion conformation by introducing 2 proline residues</description>
+    <arm_group_label>Double dose of GRAd-COV2</arm_group_label>
+    <arm_group_label>Single dose of GRAd-COV2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Saline solution</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adult female and male, ≥ 18 years of age at the time of consent&#xD;
+&#xD;
+          2. Medically stable such that, according to the judgment of the investigator,&#xD;
+             hospitalization within the study period is not anticipated and the participant appears&#xD;
+             likely to be able to remain on study through the end of protocol-specified follow-up.&#xD;
+             A stable medical condition is defined as disease not requiring significant change in&#xD;
+             therapy or hospitalization for worsening disease during the 3 months prior to&#xD;
+             enrollment&#xD;
+&#xD;
+          3. Able to understand and comply with study requirements/procedures based on the&#xD;
+             assessment of the investigator&#xD;
+&#xD;
+          4. Contraceptive use by women should be consistent with local regulations regarding the&#xD;
+             methods of contraception for those participating in clinical studies&#xD;
+&#xD;
+          5. Female participants, (a) Women of childbearing potential must: Have a negative&#xD;
+             pregnancy test on the day of screening and on Day 1; use one highly effective form of&#xD;
+             birth control for at least 28 days prior to Day 1 and agree to continue using one&#xD;
+             highly effective form of birth control through 60 days following administration of&#xD;
+             study intervention.&#xD;
+&#xD;
+          6. Capable of giving signed informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of allergy to any component of the vaccine&#xD;
+&#xD;
+          2. History of Guillain-Barré syndrome or any other demyelinating condition&#xD;
+&#xD;
+          3. Significant infection or other acute illness, including fever &gt; 37.3 °C on the day&#xD;
+             prior to or day of randomization&#xD;
+&#xD;
+          4. History of laboratory-confirmed SARS-CoV-2 infection&#xD;
+&#xD;
+          5. Any confirmed or suspected immunosuppressive or immunodeficient state, including&#xD;
+             asplenia (only for phase II)&#xD;
+&#xD;
+          6. Recurrent severe infections and use of immunosuppressant medication within the past 6&#xD;
+             months&#xD;
+&#xD;
+          7. History of primary malignancy except for: (a) Malignancy with low potential risk for&#xD;
+             recurrence after curative treatment (for example, history of childhood leukaemia) or&#xD;
+             metastasis (for example, indolent prostate cancer) in the opinion of the site&#xD;
+             investigator. (b) Adequately treated non-melanoma skin cancer or lentigo maligna&#xD;
+             without evidence of disease (c) Adequately treated uterine cervical carcinoma in situ&#xD;
+             without evidence of disease (d) Localized prostate cancer (only for phase II)&#xD;
+&#xD;
+          8. Clinically significant bleeding disorder (eg, factor deficiency, coagulopathy, or&#xD;
+             platelet disorder), or prior history of significant bleeding or bruising following IM&#xD;
+             injections or vene puncture&#xD;
+&#xD;
+          9. Severe and/or uncontrolled cardiovascular disease, respiratory disease,&#xD;
+             gastrointestinal disease, liver disease, renal disease, endocrine disorder, and&#xD;
+             neurological illness, as judged by the Investigator (mild/moderate well-controlled&#xD;
+             comorbidities are allowed) (only for phase II)&#xD;
+&#xD;
+         10. Any other significant disease, disorder, or finding that may significantly increase&#xD;
+             the risk to the participant because of participation in the study, affect the ability&#xD;
+             of the participant to participate in the study, or impair interpretation of the study&#xD;
+             data&#xD;
+&#xD;
+         11. Receipt of, or planned receipt of investigational or licensed products indicated for&#xD;
+             the treatment or prevention of SARS-CoV-2 or COVID-19&#xD;
+&#xD;
+         12. Receipt of any vaccine (licensed or investigational) other than licensed influenza&#xD;
+             vaccines within 30 days prior to and after administration of study intervention&#xD;
+&#xD;
+         13. Receipt of immunoglobulins and/or any blood products within 3 months prior to&#xD;
+             administration of study intervention or expected receipt during the period of study&#xD;
+             follow-up&#xD;
+&#xD;
+         14. Involvement in the planning and/or conduct of this study (applies to both Sponsor&#xD;
+             staff and/or staff at the study site)&#xD;
+&#xD;
+         15. For women only - currently pregnant (confirmed with positive pregnancy test) or&#xD;
+             breast-feeding&#xD;
+&#xD;
+         16. Has donated ≥ 450 mL of blood products within 30 days prior to randomization or&#xD;
+             expects to donate blood within 90 days of administration of study intervention.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Simone Lanini, Consultant</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Istituto per le Malattie Infettive Lazzaro Spallanzani IRCCS</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ospedale Vittorio Emanuele Ii</name>
+      <address>
+        <city>Bisceglie</city>
+        <state>Barletta- Andria-Trani</state>
+        <zip>76011</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto per le Malattie Infettive Lazzaro Spallanzani IRCCS</name>
+      <address>
+        <city>Roma</city>
+        <state>RM</state>
+        <zip>00149</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera San Giuseppe Moscati</name>
+      <address>
+        <city>Avellino</city>
+        <zip>83100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O. Sant'Anna E San Sebastiano Caserta</name>
+      <address>
+        <city>Caserta</city>
+        <zip>81100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Asst Di Cremona</name>
+      <address>
+        <city>Cremona</city>
+        <zip>26100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero-Universitaria Di Ferrara</name>
+      <address>
+        <city>Ferrara</city>
+        <zip>44121</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ao Ospedali Riuniti - Foggia</name>
+      <address>
+        <city>Foggia</city>
+        <zip>71122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>E.O. Ospedali Galliera</name>
+      <address>
+        <city>Genova</city>
+        <zip>16128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Ospedaliero Nord-Ospedale Santa Maria Goretti Latina</name>
+      <address>
+        <city>Latina</city>
+        <zip>04100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fondaz.Irccs Ca' Granda - Ospedale Maggiore Policlinico</name>
+      <address>
+        <city>Milano</city>
+        <zip>20122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Asst Fatebenefratelli Sacco</name>
+      <address>
+        <city>Milano</city>
+        <zip>20157</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale S.Gerardo - Monza</name>
+      <address>
+        <city>Monza</city>
+        <zip>20900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Dei Colli - P Cotugno</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Universitaria Della Universita' Vanvitelli I Di Napoli</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Az.Osp.Univ.P.Giaccone</name>
+      <address>
+        <city>Palermo</city>
+        <zip>90127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero-Universitaria Di Parma</name>
+      <address>
+        <city>Parma</city>
+        <zip>43126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico S. Matteo - Pavia</name>
+      <address>
+        <city>Pavia</city>
+        <zip>27100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Usl Di Piacenza</name>
+      <address>
+        <city>Piacenza</city>
+        <zip>29121</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero-Universitaria Pisana</name>
+      <address>
+        <city>Pisa</city>
+        <zip>56126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Policlinico Umberto I</name>
+      <address>
+        <city>Roma</city>
+        <zip>00161</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico A. Gemelli E C.I.C.- Policlinico Universitario A. Gemelli</name>
+      <address>
+        <city>Roma</city>
+        <zip>00168</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Amedeo Di Savoia</name>
+      <address>
+        <city>Torino</city>
+        <zip>10149</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Sanitaria Universitaria Integrata Di Trieste</name>
+      <address>
+        <city>Trieste</city>
+        <zip>34128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Asst Dei Sette Laghi</name>
+      <address>
+        <city>Varese</city>
+        <zip>21100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Unico Del Vercellese - Ospedale Sant'Andrea</name>
+      <address>
+        <city>Vercelli</city>
+        <zip>13100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Ricerche Cliniche Di Verona Srl</name>
+      <address>
+        <city>Verona</city>
+        <zip>37134</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 10, 2021</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

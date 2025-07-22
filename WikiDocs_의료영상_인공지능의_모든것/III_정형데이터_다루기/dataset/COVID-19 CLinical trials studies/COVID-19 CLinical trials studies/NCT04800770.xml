@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3379">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04800770</url>
+  </required_header>
+  <id_info>
+    <org_study_id>E1-21-1584</org_study_id>
+    <nct_id>NCT04800770</nct_id>
+  </id_info>
+  <brief_title>The Effect of COVID-19 Patients' Serum Phosphate Level on Mortality in ICU</brief_title>
+  <official_title>Phosphate Levels of COVID-19 Patients and Mortality</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ankara City Hospital Bilkent</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ankara City Hospital Bilkent</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators aimed to investigate the relationship between phosphate level and mortality&#xD;
+      using the 4C Mortality Score in COVID-19 patients who were followed up in the intensive care&#xD;
+      unit.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 3, 2021</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 15, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <target_duration>6 Months</target_duration>
+  <primary_outcome>
+    <measure>4C mortality score</measure>
+    <time_frame>6 months</time_frame>
+    <description>4C Mortality Scores of the patients will be calculated, according to age, gender, number of comorbidities, respiratory rate, SpO2, GCS, urea, and CRP parameters</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>serum phosphate levels</measure>
+    <time_frame>6 months</time_frame>
+    <description>mg/dl</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>mortality</measure>
+    <time_frame>28 days</time_frame>
+    <description>mortality percentage of patients in 28 days</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>Phosphate Deficiency</condition>
+  <condition>Covid19</condition>
+  <condition>Mortality</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>4C mortality score</intervention_name>
+    <description>4C mortality score and phosphate levels</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants hospitalized in the intensive care unit diagnosed with COVID-19 will incluse&#xD;
+        in the study&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants hospitalized in the intensive care unit diagnosed with COVID-19 will&#xD;
+             incluse in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  there is no exclusion criteria&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>betül aytaç, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>ankara ch bilkent</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>betül aytaç, MD</last_name>
+    <phone>+905073578351</phone>
+    <email>drbguven@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>ismail aytaç, MD</last_name>
+    <phone>+905056340369</phone>
+    <email>aytacismail1972@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ankara City Hospital</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06800</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>İsmail Aytac</last_name>
+      <phone>+905056340369</phone>
+      <email>aytacismail1972@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <results_reference>
+    <citation>Murer H, Forster I, Biber J. The sodium phosphate cotransporter family SLC34. Pflugers Arch. 2004 Feb;447(5):763-7. Epub 2003 May 16. Review.</citation>
+    <PMID>12750889</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Pistolesi V, Zeppilli L, Polistena F, Sacco MI, Pierucci A, Tritapepe L, Regolisti G, Fiaccadori E, Morabito S. Preventing Continuous Renal Replacement Therapy-Induced Hypophosphatemia: An Extended Clinical Experience with a Phosphate-Containing Solution in the Setting of Regional Citrate Anticoagulation. Blood Purif. 2017;44(1):8-15. doi: 10.1159/000453443. Epub 2017 Feb 21.</citation>
+    <PMID>28219057</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585. Erratum in: JAMA. 2021 Mar 16;325(11):1113.</citation>
+    <PMID>32031570</PMID>
+  </results_reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 16, 2021</study_first_posted>
+  <last_update_submitted>March 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ankara City Hospital Bilkent</investigator_affiliation>
+    <investigator_full_name>ismail aytaç</investigator_full_name>
+    <investigator_title>medical doctor</investigator_title>
+  </responsible_party>
+  <keyword>COVID19</keyword>
+  <keyword>phosphate deficiency</keyword>
+  <keyword>4C mortality score</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

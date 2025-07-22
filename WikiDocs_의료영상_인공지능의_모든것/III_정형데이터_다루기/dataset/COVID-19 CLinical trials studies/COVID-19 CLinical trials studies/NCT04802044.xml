@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3607">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04802044</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CARAMEL</org_study_id>
+    <nct_id>NCT04802044</nct_id>
+  </id_info>
+  <brief_title>COVID-19, Aging, and Cardiometabolic Risk Factors Study</brief_title>
+  <acronym>CARAMEL</acronym>
+  <official_title>COVID-19, Aging, and Cardiometabolic Risk Factors (CARAMEL) Study: Integrating Aging, Cardiovascular, Metabolic, and Immunological Studies to Unravel COVID-19 Pathophysiology</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indonesia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Leiden University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Indonesia University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 pandemic has made a tremendous impact on Indonesian economic and health care system&#xD;
+      especially with the double burden of diseases facing by Indonesia as a developing country.&#xD;
+      The prevalence of non-communicable diseases such as obesity, type diabetes, and&#xD;
+      cardiovascular diseases is increasing. These diseases along with older age have been known as&#xD;
+      an established risk factors for higher mortality and severe clinical disease entity in&#xD;
+      COVID-19 infection. Although, there is still some part of patients with these co-morbidities&#xD;
+      that only present with mild symptoms when infected with SARS-CoV-2, even for some without any&#xD;
+      symptoms. Thus, it would be very interesting to evaluate how are these role of aging and&#xD;
+      cardiometabolic parameters in the clinical disease course of COVID-19 infection, and how are&#xD;
+      the relationship with the immune system.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Indonesia is a country in transition where the burden of non-communicable diseases is taking&#xD;
+      over the infectious diseases problem, mostly due to the changes in lifestyle and increase in&#xD;
+      life expectancy.&#xD;
+&#xD;
+      However, the unprecedented rising numbers of COVID-19 patients in Indonesia has impacted the&#xD;
+      Indonesian healthcare system heavily. It has been reported that older age and the presence of&#xD;
+      cardiometabolic risk factors pose a poor prognostic factor of COVID-19. It is also important&#xD;
+      to note that in Indonesia, the presence of cardiometabolic risk factors is often observed at&#xD;
+      a younger age. Thus, this might also contribute to the higher mortality of COVID19 infected&#xD;
+      patients despite their relatively younger age in comparison to other countries. Nevertheless,&#xD;
+      specific data on the impact of aging and cardiometabolic risk factors on COVID-19 are&#xD;
+      fragmentary, justifying the achievement of a dedicated prospective observational study.&#xD;
+&#xD;
+      The CARAMEL study aims to specifically describe the phenotypic aging and cardiometabolic&#xD;
+      characteristics of patients with COVID-19 infection, in relation with the changes in the&#xD;
+      mucosal and systemic immune system. Particular attention will be devoted to obesity, central&#xD;
+      obesity, prediabetes, diabetes, hypertension, dyslipidemia, as well as anti-diabetic,&#xD;
+      antihypertensive, and anti-dyslipidemia therapies.&#xD;
+&#xD;
+      This study will provide answers to researchers, medical professionals, and especially&#xD;
+      patients, regarding the impact of aging and cardiometabolic risk factors for COVID-19&#xD;
+      prognosis. This pilot study will be used for the development of new studies and for the&#xD;
+      establishment of recommendations for the care of patients with cardiometabolic risk factors&#xD;
+      and COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 8, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Correlation of Body Mass Index with Clinical Disease Severity</measure>
+    <time_frame>Baseline</time_frame>
+    <description>To compare the body mass index, which calculated from body height (in meters) and body weight (in kilograms), in groups of COVID-19 patients with various disease severity based on WHO criteria</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation of Visceral Fat with Clinical Disease Severity</measure>
+    <time_frame>Baseline</time_frame>
+    <description>To compare the visceral fat that measures using a bio-impedance analyzer, in groups of COVID-19 patients with various disease severity based on WHO criteria</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation of Blood Glucose Levels with Clinical Disease Severity</measure>
+    <time_frame>Baseline</time_frame>
+    <description>To compare the random blood glucose levels during admission in groups of COVID-19 patients with various disease severity based on WHO criteria</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation of HbA1c with Clinical Disease Severity</measure>
+    <time_frame>Baseline</time_frame>
+    <description>To compare the HbA1c levels during admission in groups of COVID-19 patients with various disease severity based on WHO criteria</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes of Insulin Resistance Levels in COVID-19 Patients Overtime</measure>
+    <time_frame>Baseline, 6, and 12 month</time_frame>
+    <description>To compare the changes of HOMA-IR, a surrogate marker for whole-body insulin resistance which calculated from fasting blood glucose (IU/mL) and fasting insulin (mg/dL), between COVID-19 patients and healthy control subjects</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of Leptin/Adiponectin Ratio in COVID-19 Patients Overtime</measure>
+    <time_frame>Baseline, 6, and 12 month</time_frame>
+    <description>To compare the changes of leptin/adiponectin ratio, which calculated from leptin levels (ng/mL) divided by adiponectin levels (mikrogram/dL), between COVID-19 patients and healthy control subjects</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Systemic Immune Profiles in Diabetic COVID-19 Patients</measure>
+    <time_frame>Baseline</time_frame>
+    <description>To compare the systemic immune profiles using mass cytometry between diabetic/COVID-19, non-diabetic/COVID-19, and healthy control subjects</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nasal Mucosal Immune Profiles in Diabetic COVID-19 Patients</measure>
+    <time_frame>Baseline</time_frame>
+    <description>To compare the nasal-mucosal immune profiles using mass cytometry between diabetic/COVID-19, non-diabetic/COVID-19, and healthy control subjects</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Aging Parameter (ACE-2 gene expression) in COVID-19 Patients</measure>
+    <time_frame>Baseline</time_frame>
+    <description>To compare the nasal epithelial ACE-2 gene expression in groups of COVID-19 patients with various disease severity based on WHO criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Aging Parameter (Telomere Length) in COVID-19 Patients</measure>
+    <time_frame>Baseline</time_frame>
+    <description>To compare the aging parameter using telomere length in groups of COVID-19 patients with various disease severity based on WHO criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immune Cells Exhaustion in COVID-19 Patients</measure>
+    <time_frame>Baseline</time_frame>
+    <description>To compare the immune cells exhaustion marker (T-cell immunoglobulin mucin-3/TIM-3 expressions) in groups of COVID-19 patients with various disease severity based on WHO criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of Pro-Inflammatory Cytokine (IL-6) in COVID-19 Patients</measure>
+    <time_frame>Baseline, 1, 3, and 6 months</time_frame>
+    <description>To compare the changes of pro-inflammatory cytokine (IL-6) levels overtime, measured from the supernatant of stimulated PBMC isolation in groups of patients with various clinical disease severity based on WHO criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of Anti-Inflammatory Cytokine (IL-10) in COVID-19 Patients</measure>
+    <time_frame>Baseline, 1, 3, and 6 months</time_frame>
+    <description>To compare the changes of anti-inflammatory cytokine (IL-10) levels overtime, measured from the supernatant of stimulated PBMC isolation in groups of patients with various clinical disease severity based on WHO criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antibody Kinetics in COVID-19 Patients</measure>
+    <time_frame>Baseline, 1, 3, and 6 months</time_frame>
+    <description>To compare the changes of antibody titers in groups of patients with various clinical disease severity based on WHO criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Long COVID Syndrome</measure>
+    <time_frame>3, 6, and 12 months</time_frame>
+    <description>Percentage of COVID-19 patients still present with symptoms compared to whole study subjects</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Covid19</condition>
+  <condition>Obesity</condition>
+  <condition>Diabetes Mellitus</condition>
+  <condition>Aging</condition>
+  <condition>Cardiometabolic Syndrome</condition>
+  <condition>Immune System Disorder</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Serum PBMC Nasal scrappe Nasal swab&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        COVID-19 patients in hospital and community setting&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients newly diagnosed with COVID-19 at hospital setting or community screening,&#xD;
+             confirmed with biological proof (RT-PCR)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects opposed to the use of their data&#xD;
+&#xD;
+          -  Minors, adults under guardianship, protected persons&#xD;
+&#xD;
+          -  History of malignancy&#xD;
+&#xD;
+          -  History of autoimmune disease&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dicky L Tahapary</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Indonesia University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dicky L Tahapary, MD, PhD</last_name>
+    <phone>+62 21 29189160</phone>
+    <phone_ext>201201</phone_ext>
+    <email>dicky.tahapary@ui.ac.id</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Farid Kurniawan, MD</last_name>
+    <phone>+62 21 29189162</phone>
+    <email>farid.kurniawan01@ui.ac.id</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Dr. Cipto Mangunkusumo National General Hospital</name>
+      <address>
+        <city>Jakarta Pusat</city>
+        <state>DKI Jakarta</state>
+        <zip>10430</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Farid Kurniawan, MD</last_name>
+      <phone>+62 21 29189162</phone>
+      <email>farid.kurniawan01@ui.ac.id</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Metabolic Disorder, Cardiovascular, and Aging Research Cluster IMERI-FKUI, Research Tower, 5th Floor</name>
+      <address>
+        <city>Jakarta Pusat</city>
+        <state>DKI Jakarta</state>
+        <zip>10430</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tika Pradnaparamita, M. Biomed</last_name>
+      <phone>+62 21 29189162</phone>
+      <email>mva.imeri@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Indonesia</country>
+  </location_countries>
+  <reference>
+    <citation>Liu K, Chen Y, Lin R, Han K. Clinical features of COVID-19 in elderly patients: A comparison with young and middle-aged patients. J Infect. 2020 Jun;80(6):e14-e18. doi: 10.1016/j.jinf.2020.03.005. Epub 2020 Mar 27.</citation>
+    <PMID>32171866</PMID>
+  </reference>
+  <reference>
+    <citation>Iannelli A, Favre G, Frey S, Esnault V, Gugenheim J, Bouam S, Schiavo L, Tran A, Alifano M. Obesity and COVID-19: ACE 2, the Missing Tile. Obes Surg. 2020 Nov;30(11):4615-4617. doi: 10.1007/s11695-020-04734-7.</citation>
+    <PMID>32451913</PMID>
+  </reference>
+  <reference>
+    <citation>Apicella M, Campopiano MC, Mantuano M, Mazoni L, Coppelli A, Del Prato S. COVID-19 in people with diabetes: understanding the reasons for worse outcomes. Lancet Diabetes Endocrinol. 2020 Sep;8(9):782-792. doi: 10.1016/S2213-8587(20)30238-2. Epub 2020 Jul 17. Review. Erratum in: Lancet Diabetes Endocrinol. 2020 Oct;8(10):e5. Lancet Diabetes Endocrinol. 2020 Nov;8(11):e6.</citation>
+    <PMID>32687793</PMID>
+  </reference>
+  <reference>
+    <citation>Wu H, Ballantyne CM. Metabolic Inflammation and Insulin Resistance in Obesity. Circ Res. 2020 May 22;126(11):1549-1564. doi: 10.1161/CIRCRESAHA.119.315896. Epub 2020 May 21. Review.</citation>
+    <PMID>32437299</PMID>
+  </reference>
+  <reference>
+    <citation>Andersen CJ, Murphy KE, Fernandez ML. Impact of Obesity and Metabolic Syndrome on Immunity. Adv Nutr. 2016 Jan 15;7(1):66-75. doi: 10.3945/an.115.010207. Print 2016 Jan. Review.</citation>
+    <PMID>26773015</PMID>
+  </reference>
+  <reference>
+    <citation>Exley MA, Hand L, O'Shea D, Lynch L. Interplay between the immune system and adipose tissue in obesity. J Endocrinol. 2014 Nov;223(2):R41-8. doi: 10.1530/JOE-13-0516. Epub 2014 Sep 16. Review.</citation>
+    <PMID>25228503</PMID>
+  </reference>
+  <reference>
+    <citation>Agrawal M, Kern PA, Nikolajczyk BS. The Immune System in Obesity: Developing Paradigms Amidst Inconvenient Truths. Curr Diab Rep. 2017 Aug 15;17(10):87. doi: 10.1007/s11892-017-0917-9. Review.</citation>
+    <PMID>28812211</PMID>
+  </reference>
+  <reference>
+    <citation>Gerriets VA, MacIver NJ. Role of T cells in malnutrition and obesity. Front Immunol. 2014 Aug 11;5:379. doi: 10.3389/fimmu.2014.00379. eCollection 2014. Review.</citation>
+    <PMID>25157251</PMID>
+  </reference>
+  <reference>
+    <citation>Han JM, Levings MK. Immune regulation in obesity-associated adipose inflammation. J Immunol. 2013 Jul 15;191(2):527-32. doi: 10.4049/jimmunol.1301035. Review.</citation>
+    <PMID>23825387</PMID>
+  </reference>
+  <reference>
+    <citation>Rebello CJ, Kirwan JP, Greenway FL. Obesity, the most common comorbidity in SARS-CoV-2: is leptin the link? Int J Obes (Lond). 2020 Sep;44(9):1810-1817. doi: 10.1038/s41366-020-0640-5. Epub 2020 Jul 9. Review.</citation>
+    <PMID>32647360</PMID>
+  </reference>
+  <reference>
+    <citation>Misumi I, Starmer J, Uchimura T, Beck MA, Magnuson T, Whitmire JK. Obesity Expands a Distinct Population of T Cells in Adipose Tissue and Increases Vulnerability to Infection. Cell Rep. 2019 Apr 9;27(2):514-524.e5. doi: 10.1016/j.celrep.2019.03.030.</citation>
+    <PMID>30970254</PMID>
+  </reference>
+  <reference>
+    <citation>Kwaifa IK, Bahari H, Yong YK, Noor SM. Endothelial Dysfunction in Obesity-Induced Inflammation: Molecular Mechanisms and Clinical Implications. Biomolecules. 2020 Feb 13;10(2). pii: E291. doi: 10.3390/biom10020291. Review.</citation>
+    <PMID>32069832</PMID>
+  </reference>
+  <reference>
+    <citation>Li M, Qian M, Xu J. Vascular Endothelial Regulation of Obesity-Associated Insulin Resistance. Front Cardiovasc Med. 2017 Aug 9;4:51. doi: 10.3389/fcvm.2017.00051. eCollection 2017. Review.</citation>
+    <PMID>28848738</PMID>
+  </reference>
+  <reference>
+    <citation>Engin A. Endothelial Dysfunction in Obesity. Adv Exp Med Biol. 2017;960:345-379. doi: 10.1007/978-3-319-48382-5_15. Review.</citation>
+    <PMID>28585207</PMID>
+  </reference>
+  <reference>
+    <citation>Meyers MR, Gokce N. Endothelial dysfunction in obesity: etiological role in atherosclerosis. Curr Opin Endocrinol Diabetes Obes. 2007 Oct;14(5):365-9. Review.</citation>
+    <PMID>17940464</PMID>
+  </reference>
+  <reference>
+    <citation>van Deursen JM. The role of senescent cells in ageing. Nature. 2014 May 22;509(7501):439-46. doi: 10.1038/nature13193. Review.</citation>
+    <PMID>24848057</PMID>
+  </reference>
+  <reference>
+    <citation>Ni W, Yang X, Yang D, Bao J, Li R, Xiao Y, Hou C, Wang H, Liu J, Yang D, Xu Y, Cao Z, Gao Z. Role of angiotensin-converting enzyme 2 (ACE2) in COVID-19. Crit Care. 2020 Jul 13;24(1):422. doi: 10.1186/s13054-020-03120-0. Review.</citation>
+    <PMID>32660650</PMID>
+  </reference>
+  <reference>
+    <citation>Sungnak W, Huang N, Bécavin C, Berg M, Queen R, Litvinukova M, Talavera-López C, Maatz H, Reichart D, Sampaziotis F, Worlock KB, Yoshida M, Barnes JL; HCA Lung Biological Network. SARS-CoV-2 entry factors are highly expressed in nasal epithelial cells together with innate immune genes. Nat Med. 2020 May;26(5):681-687. doi: 10.1038/s41591-020-0868-6. Epub 2020 Apr 23.</citation>
+    <PMID>32327758</PMID>
+  </reference>
+  <reference>
+    <citation>Khemais-Benkhiat S, Idris-Khodja N, Ribeiro TP, Silva GC, Abbas M, Kheloufi M, Lee JO, Toti F, Auger C, Schini-Kerth VB. The Redox-sensitive Induction of the Local Angiotensin System Promotes Both Premature and Replicative Endothelial Senescence: Preventive Effect of a Standardized Crataegus Extract. J Gerontol A Biol Sci Med Sci. 2016 Dec;71(12):1581-1590. Epub 2015 Dec 15.</citation>
+    <PMID>26672612</PMID>
+  </reference>
+  <reference>
+    <citation>Song J, Hu B, Qu H, Wang L, Huang X, Li M, Zhang M. Upregulation of angiotensin converting enzyme 2 by shear stress reduced inflammation and proliferation in vascular endothelial cells. Biochem Biophys Res Commun. 2020 May 7;525(3):812-818. doi: 10.1016/j.bbrc.2020.02.151. Epub 2020 Mar 10.</citation>
+    <PMID>32169277</PMID>
+  </reference>
+  <reference>
+    <citation>Bunyavanich S, Do A, Vicencio A. Nasal Gene Expression of Angiotensin-Converting Enzyme 2 in Children and Adults. JAMA. 2020 Jun 16;323(23):2427-2429. doi: 10.1001/jama.2020.8707.</citation>
+    <PMID>32432657</PMID>
+  </reference>
+  <reference>
+    <citation>Alsufyani HA, Docherty JR. The renin angiotensin aldosterone system and COVID-19. Saudi Pharm J. 2020 Aug;28(8):977-984. doi: 10.1016/j.jsps.2020.06.019. Epub 2020 Jul 2. Review.</citation>
+    <PMID>32788834</PMID>
+  </reference>
+  <reference>
+    <citation>Al-Benna S. Association of high level gene expression of ACE2 in adipose tissue with mortality of COVID-19 infection in obese patients. Obes Med. 2020 Sep;19:100283. doi: 10.1016/j.obmed.2020.100283. Epub 2020 Jul 18.</citation>
+    <PMID>32835126</PMID>
+  </reference>
+  <reference>
+    <citation>Michalakis K, Ilias I. SARS-CoV-2 infection and obesity: Common inflammatory and metabolic aspects. Diabetes Metab Syndr. 2020 Jul - Aug;14(4):469-471. doi: 10.1016/j.dsx.2020.04.033. Epub 2020 Apr 29. Review.</citation>
+    <PMID>32387864</PMID>
+  </reference>
+  <reference>
+    <citation>Telles S, Reddy SK, Nagendra HR. Obesity, Inflammation and Endothelial Dysfunction. J Chem Inf Model. 2019;53(9):1689-99.</citation>
+  </reference>
+  <reference>
+    <citation>Cervia C, Nilsson J, Zurbuchen Y, Valaperti A, Schreiner J, Wolfensberger A, Raeber ME, Adamo S, Weigang S, Emmenegger M, Hasler S, Bosshard PP, De Cecco E, Bächli E, Rudiger A, Stüssi-Helbling M, Huber LC, Zinkernagel AS, Schaer DJ, Aguzzi A, Kochs G, Held U, Probst-Müller E, Rampini SK, Boyman O. Systemic and mucosal antibody responses specific to SARS-CoV-2 during mild versus severe COVID-19. J Allergy Clin Immunol. 2021 Feb;147(2):545-557.e9. doi: 10.1016/j.jaci.2020.10.040. Epub 2020 Nov 20.</citation>
+    <PMID>33221383</PMID>
+  </reference>
+  <reference>
+    <citation>Peron JPS, Nakaya H. Susceptibility of the Elderly to SARS-CoV-2 Infection: ACE-2 Overexpression, Shedding, and Antibody-dependent Enhancement (ADE). Clinics (Sao Paulo). 2020;75:e1912. doi: 10.6061/clinics/2020/e1912. Epub 2020 May 15. Review.</citation>
+    <PMID>32428113</PMID>
+  </reference>
+  <reference>
+    <citation>Lopes-Paciencia S, Saint-Germain E, Rowell MC, Ruiz AF, Kalegari P, Ferbeyre G. The senescence-associated secretory phenotype and its regulation. Cytokine. 2019 May;117:15-22. doi: 10.1016/j.cyto.2019.01.013. Epub 2019 Feb 16. Review.</citation>
+    <PMID>30776684</PMID>
+  </reference>
+  <reference>
+    <citation>Asghar M, Yman V, Homann MV, Sondén K, Hammar U, Hasselquist D, Färnert A. Cellular aging dynamics after acute malaria infection: A 12-month longitudinal study. Aging Cell. 2018 Feb;17(1). doi: 10.1111/acel.12702. Epub 2017 Nov 16.</citation>
+    <PMID>29143441</PMID>
+  </reference>
+  <reference>
+    <citation>Pathai S, Lawn SD, Gilbert CE, McGuinness D, McGlynn L, Weiss HA, Port J, Christ T, Barclay K, Wood R, Bekker LG, Shiels PG. Accelerated biological ageing in HIV-infected individuals in South Africa: a case-control study. AIDS. 2013 Sep 24;27(15):2375-84. doi: 10.1097/QAD.0b013e328363bf7f.</citation>
+    <PMID>23751258</PMID>
+  </reference>
+  <reference>
+    <citation>van de Berg PJ, Griffiths SJ, Yong SL, Macaulay R, Bemelman FJ, Jackson S, Henson SM, ten Berge IJ, Akbar AN, van Lier RA. Cytomegalovirus infection reduces telomere length of the circulating T cell pool. J Immunol. 2010 Apr 1;184(7):3417-23. doi: 10.4049/jimmunol.0903442. Epub 2010 Feb 22.</citation>
+    <PMID>20176738</PMID>
+  </reference>
+  <reference>
+    <citation>Robinson MW, McGuinness D, Swann R, Barclay S, Mills PR, Patel AH, McLauchlan J, Shiels PG. Non cell autonomous upregulation of CDKN2 transcription linked to progression of chronic hepatitis C disease. Aging Cell. 2013 Dec;12(6):1141-3. doi: 10.1111/acel.12125. Epub 2013 Aug 12.</citation>
+    <PMID>23931242</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>January 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 17, 2021</study_first_posted>
+  <last_update_submitted>March 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indonesia University</investigator_affiliation>
+    <investigator_full_name>Dicky L. Tahapary</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>adiposity</keyword>
+  <keyword>diabetes</keyword>
+  <keyword>insulin resistance</keyword>
+  <keyword>aging</keyword>
+  <keyword>inflammation</keyword>
+  <keyword>immune system</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Metabolic Syndrome</mesh_term>
+    <mesh_term>Immune System Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

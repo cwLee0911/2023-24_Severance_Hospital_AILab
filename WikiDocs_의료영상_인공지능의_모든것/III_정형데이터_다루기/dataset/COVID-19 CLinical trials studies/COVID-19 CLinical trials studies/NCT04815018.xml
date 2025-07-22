@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="621">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04815018</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-rmcovid</org_study_id>
+    <nct_id>NCT04815018</nct_id>
+  </id_info>
+  <brief_title>Shifts in the Respiratory Microbiome and Clinical Outcomes of SARS-CoV-2</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>A Longitudinal Observational Study Identifying Shifts in the Respiratory Microbiome and Clinical Outcomes of SARS-CoV-2 in Nursing Home Residents</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pathnostics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pathnostics</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a longitudinal, prospective observational study focusing on health-related outcomes&#xD;
+      relative to potential changes in the respiratory microbiome seen with weekly SARS-CoV-2&#xD;
+      testing in nursing home residents.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study targets the influence of SARS-CoV-2, and the presence of mixed/co-infections on&#xD;
+      the respiratory microbiome. Their interrelationship will be characterized in a prospective&#xD;
+      observational study design. The observed changes will be correlated to medical (FEV1, CXR/CT,&#xD;
+      mortality, morbidity, symptoms) and clinical laboratory parameters (hematology, coagulation,&#xD;
+      bacterial/viral detection). The study aims at the detection of significant changes in&#xD;
+      microbiome in the respiratory tract following incidence of SARS-CoV-2 infection. These&#xD;
+      alterations in the respiratory microbiome will be determined by shotgun metagenomic&#xD;
+      sequencing. Ultimately, this can provide a better understanding of how SARS-CoV-2 and the&#xD;
+      presence of other bacteria and viruses affect the composition of the respiratory microbiome&#xD;
+      and a description of the microbiological etiology of these respiratory tract infections.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 7, 2020</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent of SARS-CoV-2 infection</measure>
+    <time_frame>4-8 weeks</time_frame>
+    <description>Examine prospective data to determine the change from baseline (week 1 of testing) in resident/bed ratio positive for SARS-CoV-2.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percent of SARS-CoV-2 and bacterial co-infection</measure>
+    <time_frame>4-8 weeks</time_frame>
+    <description>Examine prospective data to determine the change from baseline number of healthy [SARS-CoV-2 naïve] to number that develop respiratory tract infection. Percent of SARS-CoV-2 positives without a bacterial source of RTI compared to percent of SARS-CoV-2 positives with bacterial co-infection identified by either PCR, symptoms, CXR, CT, throat culture swab, RDT and documented in patient chart.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percent of SARS-CoV-2 and viral co-infection</measure>
+    <time_frame>4-8 weeks</time_frame>
+    <description>Examine prospective data to determine the change from baseline number of healthy [SARS-CoV-2 naïve] to number that develop respiratory tract infection. Percent of SARS-CoV-2 positives without an additional viral cause identified compared to percent of SARS-CoV-2 positives with viral co-infection identified.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mortality rate due to SARS-CoV-2 infection with bacterial/viral co-infection</measure>
+    <time_frame>12 months</time_frame>
+    <description>Examine prospective data to determine the mortality rate (outpatient and inpatient) due to SARS-CoV-2 with additional bacteria and/or virus identified at any time during SARS-Cov-2 PCR positivity prior to death.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mortality rate due to SARS-CoV-2 infection</measure>
+    <time_frame>12 months</time_frame>
+    <description>Examine prospective data to determine the mortality rate (outpatient and inpatient) due to SARS-CoV-2 only (no additional bacteria and/or virus identified on PCR at any time during SARS-CoV-2 PCR positivity prior to death.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Symptoms of SARS-CoV-2 infection, bacterial co-infection, viral co-infection</measure>
+    <time_frame>Up to 12 weeks post-PCR confirmation for a SARS-CoV-2 positive diagnosis</time_frame>
+    <description>Any changes in symptom severity will be captured by monitoring the patient's chart for any updates in clinical progress notes. Any symptoms compatible with SARS-CoV-2 infection will be captured such as high temperature, dyspnea, diarrhea, vomiting, myalgia, pharynx pain, abdominal pain, anosmia, cough etc.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percent of SARS-Cov-2 positives and/or bacterial/viral infection with full resolution by 30 days</measure>
+    <time_frame>Up to 30 days after respiratory symptom onset</time_frame>
+    <description>Examine prospective data to determine the percent of SARS-Cov-2 positives and/or bacterial/viral infection with full resolution by 30 days after respiratory symptom onset [full resolution defined as resolution of acute onset clinical symptoms].</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percent of SARS-Cov-2 positives and/or bacterial/viral infection that develop pneumonia-like symptoms</measure>
+    <time_frame>4-8 weeks</time_frame>
+    <description>Examine prospective data to determine the percent of SARS-Cov-2 positives and/or bacterial/viral infection that develop pneumonia-like symptoms during SARS-CoV-2 PCR positivity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percent of asymptomatic SARS-Cov-2 positives and/or bacterial/viral infection</measure>
+    <time_frame>4-8 weeks</time_frame>
+    <description>Examine prospective data to determine the percent of asymptomatic SARS-Cov-2 positives and/or bacterial/viral infection that never develop symptoms throughout infectious period and are alive/healthy at end of study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percent of pre-symptomatic SARS-Cov-2 positives and/or bacterial/viral infection</measure>
+    <time_frame>4-8 weeks</time_frame>
+    <description>Examine prospective data to determine the percent of pre-symptomatic SARS-CoV-2 positives and/or bacterial/viral infection. This is the asymptomatic period PRIOR to a symptomatic period all during time of PCR positivity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percent of all acute medical complications</measure>
+    <time_frame>4-8 weeks</time_frame>
+    <description>Examine prospective data to determine the prevalence of all medical usual complications and geriatric acquired complications, such as delirium, falls, pressure sores, new infectious disease (UTI), cardiovascular, incidence of acute heart failure [elevated BNP presence of new ECG abnormalities (ST elevation and/or T-wave inversion), myocardial injury [reflected by elevation in cardiac troponin levels above the 99th percentile upper reference limit on admission, cerebrovascular disease [Stroke, stroke subtype (ischemic, cryptogenic , metabolic disease manifestations DKA, hyperosmolar hyperglycemic state (HHS), and severe insulin resistance, Neurological Manifestations [Anosmia/dysgeusia, Guillen Barre Syndrome, Meningoencephalitis, Encephalomyelitis, myoclonus (generalized), Rhabdomyolysis, VTE, DIC, PE, acute limb ischemia</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pulmonary function</measure>
+    <time_frame>Baseline to any timepoint for 4 to 8 weeks</time_frame>
+    <description>Examine prospective data to determine the the percent change in forced vital capacity (FVC), forced expiratory volume (FEV1), peak expiratory flow (PEF) in patients</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Chest CT X-ray</measure>
+    <time_frame>Baseline to any timepoint for 4 to 8 weeks</time_frame>
+    <description>Examine prospective data to determine the percent of lung CT containing consolidation, percent of patients showing reticular patterns, percent containing pure ground-glass opacification, percent containing honeycomb appearance, percent containing Bronchiectasis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in hematology</measure>
+    <time_frame>Baseline to any timepoint for 4 to 8 weeks</time_frame>
+    <description>Examine prospective data to identify changes in patient hematology through analysis of complete blood routines for CBC and WBC.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ALPHA Diversity (determined by NGS)</measure>
+    <time_frame>6-12 months</time_frame>
+    <description>Defined as intra-community diversity as measured by the total number of detected taxa and distribution of those taxa.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Taxon Identification (determined by NGS)</measure>
+    <time_frame>6-12 months</time_frame>
+    <description>Defined as intra-community diversity as measured by the total number of detected taxa and distribution of those taxa.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>BETA Diversity (determined by NGS)</measure>
+    <time_frame>6-12 months</time_frame>
+    <description>Defined as inter-community diversity as measured by the total number of detected taxa and distribution of those taxa.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Detection (Determined by NGS)</measure>
+    <time_frame>6-12 months</time_frame>
+    <description>Frequency of detection of the total amount of bacterial DNA/RNA that corresponds to specific bacterial taxa found within nasal swab/ exhaled breath</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>Bacterial Respiratory Tract Infection</condition>
+  <condition>Viral Respiratory Tract Infection</condition>
+  <arm_group>
+    <arm_group_label>Patients with New Cases of SARS-CoV-2</arm_group_label>
+    <description>Newly recruited residents who have been identified as positive through Ohio's Post-Acute Regional Rapid Testing (PARRT) Program will undergo at at least 4 weeks, but no more than 8 weeks, of nasal swab and exhaled breathe particles specimen collection for Covid testing. Previously enrolled residents will submit weekly collections of nasal swab specimens and exhaled breathe particles once they exhibit respiratory-related symptoms, or once a test is ordered by the provider for suspicion of exposure. Collection will continue until these subjects fulfill their 8 weeks of testing.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients without SARS-CoV-2</arm_group_label>
+    <description>This cohort will consist of previously enrolled residents who submitted nasal swabs and exhaled breathe particles for Covid testing once a week for 8 weeks. The patients will have been identified as negative for a SARS-CoV-2 infection each week.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Newly recruited patients are older adults (≥ 65 years) and pre-geriatric (≥60 years and &lt;65&#xD;
+        years) residents of nursing homes who have recently been identified as SARS-CoV-2 positive&#xD;
+        through Ohio's PARRT Program.&#xD;
+&#xD;
+        Subjects currently enrolled are older adults (≥ 65 years) and pre-geriatric (≥60 years and&#xD;
+        &lt;65 years) residents of nursing homes&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All residents of the nursing home facility, (M/F) 65 years or above, who have recently&#xD;
+             tested positive through Ohio's PARRT Program are eligible&#xD;
+&#xD;
+          -  Resident must submit weekly nasal swab sample per nursing home COVID testing&#xD;
+             guidelines&#xD;
+&#xD;
+          -  Clinical suspicion of a new episode of acute respiratory tract infection.&#xD;
+&#xD;
+          -  Laboratory confirmed SARS-CoV-2 infection by either a laboratory test, PCR or any&#xD;
+             other commercial or public health test&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Nursing home residents that are not taking part regularly in weekly screening for&#xD;
+             SARS-COV-2 or residents that test negative through Ohio's PARRT program cannot be&#xD;
+             included as part of study analyses&#xD;
+&#xD;
+          -  Residents on hospice, residents currently intubated, residents with scheduled transfer&#xD;
+             to another nursing home facility will not be included in study analyses&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alan Wolfe, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Loyola University Chicago</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kirk Wojno, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Comprehensive Urology</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Weigand, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Central Ohio Geriatrics</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Natalie Luke, PhD</last_name>
+    <phone>(714)966-1221</phone>
+    <phone_ext>615</phone_ext>
+    <email>nluke@pathnostics.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Patrick Cacdac, MD</last_name>
+    <phone>(714)966-1221</phone>
+    <email>pcacdac@pathnostics.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Willow Brook Christian Village</name>
+      <address>
+        <city>Delaware</city>
+        <state>Ohio</state>
+        <zip>43015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Weigand, MD</last_name>
+      <email>JWeigand@cog-med.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Willow Brook Delaware Run</name>
+      <address>
+        <city>Delaware</city>
+        <state>Ohio</state>
+        <zip>43015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Weigand, MD</last_name>
+      <email>JWeigand@cog-med.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kendall at Granville</name>
+      <address>
+        <city>Granville</city>
+        <state>Ohio</state>
+        <zip>43023</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Weigand, MD</last_name>
+      <email>JWeigand@cog-med.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Inniswood Village</name>
+      <address>
+        <city>Westerville</city>
+        <state>Ohio</state>
+        <zip>43081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Weigand, MD</last_name>
+      <email>JWeigand@cog-med.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 24, 2021</study_first_posted>
+  <last_update_submitted>March 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Nursing Home</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Respiratory Microbiome</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

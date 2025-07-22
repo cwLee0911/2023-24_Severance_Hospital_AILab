@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5296">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04765384</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CR108962</org_study_id>
+    <secondary_id>2020-005330-14</secondary_id>
+    <secondary_id>VAC31518COV2004</secondary_id>
+    <nct_id>NCT04765384</nct_id>
+  </id_info>
+  <brief_title>A Study of Ad26.COV2.S in Healthy Pregnant Participants (COVID-19)</brief_title>
+  <acronym>HORIZON 1</acronym>
+  <official_title>An Open-label, Phase 2 Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of Ad26.COV2.S in Healthy Pregnant Participants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Janssen Vaccines &amp; Prevention B.V.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Janssen Vaccines &amp; Prevention B.V.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the safety and reactogenicity of Ad26.COV2.S&#xD;
+      administered intramuscularly (IM) as a 2-dose schedule, in adult participants during the&#xD;
+      second and/or third trimester of pregnancy and (potentially) post-partum; to assess the&#xD;
+      humoral immune response in peripheral blood of adult participants, to Ad26.COV2.S&#xD;
+      administered IM as a 2-dose schedule during the second and/or third trimester of pregnancy,&#xD;
+      28 days after the first and second vaccination.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There is an increased risk of severe coronavirus disease-2019 (COVID-19) during pregnancy, as&#xD;
+      well as an increased risk of adverse birth outcomes. Therefore, the aim of this study is to&#xD;
+      assess the safety, reactogenicity and immunogenicity of Ad26.COV2.S in adult participants in&#xD;
+      the second and/or third trimester of pregnancy. Ad26.COV2.S (also known as Ad26COVS1) is a&#xD;
+      monovalent vaccine composed of a recombinant, replication incompetent adenovirus type 26&#xD;
+      (Ad26) vector, constructed to encode the severe acute respiratory syndrome coronavirus-2&#xD;
+      (SARS-CoV-2) spike (S) protein. For adult participants, the total study duration from&#xD;
+      screening until the last follow-up visit will be approximately 16 months (depending on the&#xD;
+      gestational age at enrollment and if the second dose of vaccine will need to be administered&#xD;
+      post-partum). The study will consist of a screening phase (28 days), vaccination phase (3&#xD;
+      months) and a follow up phase (up to 12 months post-partum [PP]). For neonates/infants (born&#xD;
+      to adult participants who received vaccination) the total study duration from birth until the&#xD;
+      last follow-up visit will be approximately 12 months. Safety assessments will include&#xD;
+      immunogenicity assessments, physical examination, vital signs, clinical safety laboratory&#xD;
+      assessments, medical, obstetric and delivery history, neonate safety assessment, adverse&#xD;
+      events (AEs), serious adverse events (SAEs).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 12, 2021</start_date>
+  <completion_date type="Anticipated">June 20, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 16, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with Solicited Local Adverse Events (AEs)</measure>
+    <time_frame>7 days after each vaccination (Up to Day 64)</time_frame>
+    <description>An AE is any untoward medical occurrence in a participant participating in a clinical study that does not necessarily have a causal relationship with the pharmaceutical/biological agent under study. Solicited local AEs are pre-defined local (at the injection site) AEs for which participants are specifically asked and which are noted by participants in their reactogenicity diary for 7 days post each vaccination. Solicited local AEs are: injection site pain/tenderness, erythema, swelling at the vaccination site.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Solicited Systemic AEs</measure>
+    <time_frame>7 days after each vaccination (Up to Day 64)</time_frame>
+    <description>An AE is any untoward medical occurrence in a participant participating in a clinical study that does not necessarily have a causal relationship with the pharmaceutical/biological agent under study. Participants will be instructed on how to note signs and symptoms in the diary on a daily basis for 7 days post-vaccination (Day of vaccination and the subsequent 7 days) for solicited systemic AEs. Solicited systemic events include fatigue, headache, nausea and myalgia.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Unsolicited AEs</measure>
+    <time_frame>28 days after each vaccination (Up to Day 85)</time_frame>
+    <description>An AE is any untoward medical occurrence in a participant participating in a clinical study that does not necessarily have a causal relationship with the pharmaceutical/biological agent under study. Unsolicited AEs are all AEs for which the participant is not specifically questioned in the participant's reactogenicity diary.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Serious Adverse Events (SAEs)</measure>
+    <time_frame>Up to 2 years and 3 months</time_frame>
+    <description>SAE is any untoward medical occurrence that at any dose results in any of the following outcomes: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly/birth defect; suspected transmission of any infectious agent via a medicinal product or medically important.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Medically-attended Adverse Events (MAAEs)</measure>
+    <time_frame>6 months after last vaccination (Up to Day 239)</time_frame>
+    <description>MAAEs are defined as AEs with medically-attended visits including hospital, emergency room, urgent care clinic, or other visits to or from medical personnel for any reason. Routine study visits will not be considered medically-attended visits. New onset of chronic diseases will be collected as part of the MAAEs.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with MAAEs leading to Discontinuation</measure>
+    <time_frame>Up to 2 years and 3 months</time_frame>
+    <description>MAAEs are defined as AEs with medically-attended visits including hospital, emergency room, urgent care clinic, or other visits to or from medical personnel for any reason. Routine study visits will not be considered medically-attended visits. New onset of chronic diseases will be collected as part of the MAAEs.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serological Response to Vaccination as Measured by Enzyme-Linked Immunosorbent Assay (ELISA) 28 Days After First Vaccination</measure>
+    <time_frame>28 days after first vaccination (Day 29)</time_frame>
+    <description>Serological response to vaccination as measured by enzyme-linked immunosorbent assay (S-ELISA, ELISA Units/milliliter [EU/mL]), 28 days after first vaccination will be reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Antibody Geometric Mean Concentration (GMC) 28 Days After First Vaccination</measure>
+    <time_frame>28 days after first vaccination (Day 29)</time_frame>
+    <description>Number of participants with antibody GMC (S-ELISA, EU/mL), 28 days after first vaccination will be reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serological Response to Vaccination as Measured by ELISA 28 Days After Second Vaccination</measure>
+    <time_frame>28 days after second vaccination (Day 85)</time_frame>
+    <description>Serological response to vaccination as measured by ELISA (S-ELISA, EU/mL), 28 days after second vaccination will be reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Antibody GMC 28 Days After Second Vaccination</measure>
+    <time_frame>28 days after second vaccination (Day 85)</time_frame>
+    <description>Number of participants with antibody GMC (S-ELISA, EU/mL), 28 days after second vaccination will be reported.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Pregnancy Outcomes</measure>
+    <time_frame>Up to 2 years and 3 months</time_frame>
+    <description>Number of participants with pregnancy outcomes (including, live term birth, live preterm birth, stillbirth, and abortion) will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Pregnancy Related AEs</measure>
+    <time_frame>Up to 2 years and 3 months</time_frame>
+    <description>Number of participants with pregnancy-related AEs including: gestational diabetes, gestational hypertension, premature rupture of membranes, premature labor, premature uterine contractions, poor or restricted fetal growth, pre-eclampsia, eclampsia, vaginal or intrauterine hemorrhage (non-exhaustive) will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Neonates and Infants with any Complications, Anomalies and Deaths</measure>
+    <time_frame>From birth up to 12 months</time_frame>
+    <description>Number of neonates and infants with any complication, anomalies and death will be reported. This will also includes normal neonate, term neonate with complications, preterm neonate with complications, neonatal infection, respiratory distress, congenital anomalies, neonatal death, low birth weight, and small for gestational age measured from birth up to 12 months of age (non exhaustive).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Neonates and Infants with SAEs</measure>
+    <time_frame>From birth up to 12 months</time_frame>
+    <description>Number of neonates and infants (born to adult participants who received vaccination) with SAEs including multisystem inflammatory syndrome in children (MIS-C) from birth up to 12 months of age will be reported. Patients with MIS-C usually present with persistent fever, fatigue and a variety of signs and symptoms including multiorgan (example, cardiac, gastrointestinal, renal, hematologic, dermatologic, neurologic) involvement, elevated inflammatory markers and, in severe cases, hypotension and shock.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Neonates and Infants with MAAEs</measure>
+    <time_frame>From birth up to 6 months</time_frame>
+    <description>Number of neonates and infants (born to adult participants who received vaccination) with MAAEs from birth up to 6 months of age will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Neonates and Infants with MAAEs leading to Study Discontinuation</measure>
+    <time_frame>From birth up to 12 months</time_frame>
+    <description>Number of neonates and infants (born to adult participants who received vaccination) with MAAEs leading to discontinuation from birth up to 12 months of age will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serological Response to Vaccination as Measured by ELISA</measure>
+    <time_frame>From birth up to 2 months, 6 months, 12 months</time_frame>
+    <description>Serological response to vaccination as measured by ELISA (S-ELISA, EU/mL) will be reported for neonates and infants (born to adult participants who received vaccination) at birth and up to 2 months, 6 months, and 12 months of age.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Neonates and Infants with Antibody GMC</measure>
+    <time_frame>From birth up to 2 months, 6 months, 12 months</time_frame>
+    <description>Number of neonates and infants (born to adult participants who received vaccination) with antibody GMC (S-ELISA, EU/mL) will be reported at birth and up to 2 months, 6 months, and 12 months of age.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Ad26.COV2.S</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive standard dose of Ad26.COV2.S as intramuscular injection (first dose on Day 1 and second dose on Day 57) based on safety and reactogenicity results assessed on Day 3 and 8 post dose 1. A low dose of Ad26.COV2.S may be administered if standard dose has safety and reactogenicity issues.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Ad26.COV2.S</intervention_name>
+    <description>Participants will receive IM injection of Ad26.COV2.S.</description>
+    <arm_group_label>Ad26.COV2.S</arm_group_label>
+    <other_name>JNJ-78436735, Ad26COVS1</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  If on medication for a condition, the medication dose must have been stable for at&#xD;
+             least 12 weeks preceding vaccination and expected to remain stable for the duration of&#xD;
+             the study&#xD;
+&#xD;
+          -  Participant will be included on the basis of physical examination, medical history,&#xD;
+             and vital signs&#xD;
+&#xD;
+          -  Participant will be at second or third trimester of pregnancy, that is, Week 16 to&#xD;
+             Week 38 of gestation(inclusive), at the time of vaccination, based on ultrasound at&#xD;
+             the time of screening (unless performed elsewhere within 28-days prior to vaccination)&#xD;
+&#xD;
+          -  Participant agrees to not donate bone marrow, blood, and blood products from the first&#xD;
+             study vaccine administration until 3 months after receiving the last dose of study&#xD;
+             vaccine&#xD;
+&#xD;
+          -  Participant must be willing to provide verifiable identification, has means to be&#xD;
+             contacted and to contact the investigator during the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants with medical or obstetric histories that put them at higher risk for&#xD;
+             maternal or fetal complications (example, preeclampsia, premature birth during&#xD;
+             previous pregnancy)&#xD;
+&#xD;
+          -  Participant with abnormal pregnancy screening test (example, ultrasound fetal&#xD;
+             abnormalities, maternal blood screen)&#xD;
+&#xD;
+          -  Participant has a history of malignancy within 5 years before screening (exceptions&#xD;
+             are squamous and basal cell carcinomas of the skin and carcinoma in situ of the&#xD;
+             cervix, or malignancy, which is considered cured with minimal risk of recurrence&#xD;
+&#xD;
+          -  Participant has a known or suspected allergy or history of anaphylaxis or other&#xD;
+             serious adverse reactions to vaccines or their excipients (including specifically the&#xD;
+             excipients of the study vaccine)&#xD;
+&#xD;
+          -  Participant has a history of any serious, chronic, or progressive neurological&#xD;
+             disorders or seizures including Guillain-Barre syndrome, with the exception of febrile&#xD;
+             seizures during childhood&#xD;
+&#xD;
+          -  Participant has a positive diagnostic test result for past (serological testing) or&#xD;
+             current (polymerase chain reaction [PCR] based viral ribonucleic acid [RNA] detection)&#xD;
+             severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) infection at screening or&#xD;
+             Day 1 (if more than 4 days in between)&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Janssen Vaccines &amp; Prevention B.V. Clinical Trial</last_name>
+    <role>Study Director</role>
+    <affiliation>Janssen Vaccines &amp; Prevention B.V.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Contact</last_name>
+    <phone>844-434-4210</phone>
+    <email>JNJ.CT@sylogent.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Central Research Associates, Inc.</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SEC Clinical Research</name>
+      <address>
+        <city>Dothan</city>
+        <state>Alabama</state>
+        <zip>36303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Southern California</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90089</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford Health Care - Positive Care Clinic</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94306-5640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Cross Hospital - Michael and Dianne Bienes Comprehensive Cancer Center</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spectrum Health System</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medpharmics, LLC</name>
+      <address>
+        <city>Gulfport</city>
+        <state>Mississippi</state>
+        <zip>39503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research, LLC</name>
+      <address>
+        <city>Grand Island</city>
+        <state>Nebraska</state>
+        <zip>68803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research, LLC</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Nebraska</state>
+        <zip>68701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Excel Clinical Research</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medpharmics, LLC</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10019</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Monroe Biomedical Research</name>
+      <address>
+        <city>Monroe</city>
+        <state>North Carolina</state>
+        <zip>28112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest Baptist Medical Center</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Clinical Research US, Inc</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Medical Center (UPMC)</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tekton Research Inc.</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine and Texas Childrens Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centex Studies, Inc.</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77058</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maximos OB/GYN</name>
+      <address>
+        <city>League City</city>
+        <state>Texas</state>
+        <zip>77573</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Women's and Children's Hospital</name>
+      <address>
+        <city>North Adelaide</city>
+        <zip>5006</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Murdoch Children's Research Institute</name>
+      <address>
+        <city>Parkville</city>
+        <zip>3052</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mater Hospital Brisbane</name>
+      <address>
+        <city>South Brisbane</city>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Clinicas da Universidade Federal De Minas Geraisnas Gerais</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <zip>30130-100</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HMCP - Hospital e Maternidade Celso Pierro - PUC-Campinas</name>
+      <address>
+        <city>Campinas</city>
+        <zip>13060-904</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Estudos e Pesquisas em Moléstias Infecciosas</name>
+      <address>
+        <city>Natal</city>
+        <zip>59025-050</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Clínicas de Porto Alegre</name>
+      <address>
+        <city>Porto Alegre</city>
+        <zip>90035-903</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Geral de Nova Iguacu - HGNI DST/AIDS</name>
+      <address>
+        <city>Rio De Janeiro</city>
+        <zip>26030-380</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacao Faculdade Regional De Medicina De Sao Jose Do Rio Preto</name>
+      <address>
+        <city>Sao Jose do Rio Preto</city>
+        <zip>15090-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Sao Paulo Brazil NICHD CRS</name>
+      <address>
+        <city>Sao Paulo</city>
+        <zip>14049-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CMPC - Consultoria Médica e Pesquisa Clínica</name>
+      <address>
+        <city>Sorocaba</city>
+        <zip>18040-425</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universidade Municipal de Sao Caetano do Sul</name>
+      <address>
+        <city>São Caetano do Sul</city>
+        <zip>09521-160</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Das Clinicas Da Faculdade De Medicina Da Universidade De Sao Paulo</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>05403-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>British Columbia Children's Hospital</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V6H3N1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dalhousie University</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3K 6R8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alberta Children's Hospital</name>
+      <address>
+        <city>Calgary</city>
+        <zip>T3B 6A8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Helsinki University Hospital</name>
+      <address>
+        <city>Helsinki</city>
+        <zip>00290</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kokkolan rokotetutkimusklinikka</name>
+      <address>
+        <city>Kokkola</city>
+        <zip>67100</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oulun rokotetutkimusklinikka</name>
+      <address>
+        <city>Oulu</city>
+        <zip>90220</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seinäjoen rokotetutkimusklinikka</name>
+      <address>
+        <city>Seinäjoki</city>
+        <zip>60100</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tampereen rokotetutkimusklinikka</name>
+      <address>
+        <city>Tampere</city>
+        <zip>33100</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Turun rokotetutkimusklinikka</name>
+      <address>
+        <city>Turku</city>
+        <zip>20520</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Shandukani Research Centre</name>
+      <address>
+        <city>Johannesburg</city>
+        <zip>2001</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanza Clinical Research Centre : Mamelodi</name>
+      <address>
+        <city>Mamelodi East</city>
+        <zip>0122</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Setshaba Research Centre</name>
+      <address>
+        <city>Soshanguve</city>
+        <zip>152</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Perinatal HIV Research Unit, Chris Hani Baragwanath Hospital</name>
+      <address>
+        <city>Soweto</city>
+        <zip>1864</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vaccines and Infectious Diseases Analytics Research Unit (VIDA), Formely RMPRU</name>
+      <address>
+        <city>Soweto</city>
+        <zip>1864</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Univ. 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Univ. La Paz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Univ. Pta. de Hierro Majadahonda</name>
+      <address>
+        <city>Majadahonda</city>
+        <zip>28222</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Puerta Del Sur</name>
+      <address>
+        <city>Mostoles</city>
+        <zip>28938</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Quiron Madrid Pozuelo</name>
+      <address>
+        <city>Pozuelo de Alarcon</city>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Clinico Univ. de Santiago</name>
+      <address>
+        <city>Santiago de Compostela</city>
+        <zip>15706</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Bristol NHS Trust</name>
+      <address>
+        <city>Bristol</city>
+        <zip>BS1 3NU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Leeds Teaching Hospitals NHS Trust</name>
+      <address>
+        <city>Leeds,</city>
+        <zip>LS9 7TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barts Health NHS Trust, Royal London Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>E11BB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University College London Hospitals NHSFT</name>
+      <address>
+        <city>London</city>
+        <zip>NW1 2BU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Guy's and St Thomas' NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <zip>SE1 7EH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chelsea and Westminster NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <zip>SW10 9NH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Southampton NHS Foundation Trust</name>
+      <address>
+        <city>Southampton</city>
+        <zip>SO16 6YD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>Finland</country>
+    <country>South Africa</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>March 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The data sharing policy of the Janssen Pharmaceutical Companies of Johnson &amp; Johnson is available at www.janssen.com/clinical-trials/transparency. As noted on this site, requests for access to the study data can be submitted through Yale Open Data Access (YODA) Project site at yoda.yale.edu</ipd_description>
+    <ipd_url>https://www.janssen.com/clinical-trials/transparency</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

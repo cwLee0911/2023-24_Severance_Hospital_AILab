@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="359">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04818281</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VLP-58-1023-Al-K3</org_study_id>
+    <nct_id>NCT04818281</nct_id>
+  </id_info>
+  <brief_title>Study of a Severe Acute Respiratory Syndrome CoV-2 (SARS-CoV-2) Virus-like Particle (VLP) Vaccine in Healthy Adults</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>Phase I Study Evaluating the Basic Pharmacological and Toxicological Effects of the Protective VLP Vaccine Developed Against SARS-CoV-2 in Healthy Participants, Administered as Two Injections Subcutaneously, in Two Different Dosages.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ihsan GURSEL, PhD, Prof.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Dr Abdurrahman Yurtaslan Ankara Oncology Training and Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Scientific and Technological Research Council of Turkey</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>MonitorCRO</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Nobel Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Scientific and Technological Research Council of Turkey</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a VLP SARS-CoV-2 vaccine study of a vaccine developed in Turkey and manufactured&#xD;
+      according to Good Manufacturing Practices (GMP) requirements. Preclinical toxicology studies&#xD;
+      on experimental animals are to be concluded. The purpose of this Phase I study is to examine&#xD;
+      the safety, tolerability, and immunogenicity of the protective VLP vaccine against&#xD;
+      SARS-CoV-2, which will be administered by a double-blind, randomized method, in two different&#xD;
+      doses (low dose and high dose).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This phase I study is designed as double-blinded, randomised, placebo controlled, three-armed&#xD;
+      study composed of two different dose arms of protective VLP vaccine against SARS-CoV-2 in&#xD;
+      dose escalations (first low dose group, followed by high dose group) and placebo arm. Each&#xD;
+      dose of vaccine will be defined as a cohort in itself, with vaccine administration to 12&#xD;
+      participants and placebo administration to 6 participants. After completion of low-dose&#xD;
+      group, decision of switch to high-dose will be taken by the Independent Data Monitoring&#xD;
+      Committee and study will continue accordingly.&#xD;
+&#xD;
+      The study will be completed in 12 months.&#xD;
+&#xD;
+      All injections will be done subcutaneously.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 27, 2021</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Double-blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Acute adverse events (AEs)</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Frequency of acute AEs in all dosage groups</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Solicited local and systemic adverse events (AEs)</measure>
+    <time_frame>6 days</time_frame>
+    <description>Frequency of local and systemic AEs in all dosage groups</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Unsolicited local and systemic adverse events (AEs)</measure>
+    <time_frame>28 days</time_frame>
+    <description>Frequency of local and systemic AEs in all dosage groups</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Specific antibody (IgG) response</measure>
+    <time_frame>Before booster dose administration, on Day 14-21-28 and at the end of Month 3 and Month 6 after booster dose</time_frame>
+    <description>IgG type antibody titers against anti-Spike protein of SARS-CoV-2 (by ELISA)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibody response</measure>
+    <time_frame>Before booster dose administration, on Day 14-21-28 and at the end of Month 3 and Month 6 after booster dose</time_frame>
+    <description>Neutralizing antibody titer against anti-Spike protein by virus neutralization method developed against SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cellular immune response (IL-4)</measure>
+    <time_frame>Before booster dose administration, on Day 14-21-28 and at the end of Month 3 and Month 6 after booster dose</time_frame>
+    <description>ELISPOT: Interleukin-4 (IL4) positive cell level of peripheral blood mononuclear cells (PBMCs) stimulated with rec. S protein</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cellular immune response (IFN-γ)</measure>
+    <time_frame>Before booster dose administration, on Day 14-21-28 and at the end of Month 3 and Month 6 after booster dose</time_frame>
+    <description>ELISPOT: Interferon-γ (IFN-γ) positive cell level of peripheral blood mononuclear cells (PBMCs) stimulated with rec. S protein</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Low-Dose Group (Group A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 participants will receive 3.75 µg VLP vaccine (adjuvanted with alum and CpGODN-K3)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-Dose Group (Group B)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 participants will receive 15 µg VLP vaccine (adjuvanted with alum and CpGODN-K3)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>12 participants will receive 1 ml of 0.9% sodium chloride (NaCl)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 VLP Vaccine</intervention_name>
+    <description>VLP adjuvanted vaccine</description>
+    <arm_group_label>High-Dose Group (Group B)</arm_group_label>
+    <arm_group_label>Low-Dose Group (Group A)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>0.9% NaCl</description>
+    <arm_group_label>Placebo Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        To be eligible for the study, each participant must satisfy all the following criteria:&#xD;
+&#xD;
+          1. Healthy participants between 18-59 years of age,&#xD;
+&#xD;
+          2. Sign an informed consent document,&#xD;
+&#xD;
+          3. Negative immunoglobulin G (IgG) and immunoglobulin M (IgM) antibody for COVID-19,&#xD;
+&#xD;
+          4. Negative quantitative polymerase chain reaction (qPCR) SARS-CoV-2 results of&#xD;
+             nasopharyngeal/sputum samples,&#xD;
+&#xD;
+          5. Able to comply with the study protocol during the study period,&#xD;
+&#xD;
+          6. Negative tests for Human Immunodeficiency Virus (HIV), Hepatitis B Virus (HBV),&#xD;
+             Hepatitis C Virus (HCV),&#xD;
+&#xD;
+          7. Body temperature &lt;37.2 C,&#xD;
+&#xD;
+          8. Body mass index 18-35 kg/m2,&#xD;
+&#xD;
+          9. Normal laboratory levels of whole blood count, alanine transaminase (ALT), aspartate&#xD;
+             transaminase (AST), total bilirubin, urea, creatinine, and fasting blood glucose,&#xD;
+&#xD;
+         10. Good general health (no known disease in the history and physical examination within&#xD;
+             14 days prior to the enrolment),&#xD;
+&#xD;
+         11. Female participants who are not pregnant or who will be able to have appropriate&#xD;
+             contraception methods within 30 days prior to vaccine injection and within 6 months&#xD;
+             after vaccination,&#xD;
+&#xD;
+         12. Male participants who will be able to have appropriate contraception methods for 6&#xD;
+             months after vaccination,&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Participants with any of the following criteria will be excluded:&#xD;
+&#xD;
+          1. History of seizure, encephalopathy or psychosis,&#xD;
+&#xD;
+          2. History of allergic reactions to any known vaccine or to any component of the study&#xD;
+             vaccine,&#xD;
+&#xD;
+          3. Pregnant, breastfeeding or positive pregnancy test or planning to conceive within 6&#xD;
+             months,&#xD;
+&#xD;
+          4. Active infection signs or body temperature &gt;37.2 C,&#xD;
+&#xD;
+          5. History of SARS-CoV-2 infection,&#xD;
+&#xD;
+          6. Severe cardiovascular disorders (arrhythmia, conduction disorders, history of&#xD;
+             myocardial infarction, uncontrolled hypertension),&#xD;
+&#xD;
+          7. Severe chronic disorders (asthma, diabetes mellitus, thyroid disorders…etc),&#xD;
+&#xD;
+          8. Congenital or acquired angioedema,&#xD;
+&#xD;
+          9. Diagnosis of immunodeficiency,&#xD;
+&#xD;
+         10. Diagnosis of bleeding diathesis,&#xD;
+&#xD;
+         11. Use of immunosuppressive treatment, anti-allergic treatment, cytotoxic treatment,&#xD;
+             inhaler corticosteroids (allergic rhinitis or topical steroid ointments are excluded),&#xD;
+&#xD;
+         12. Those who received blood and blood product transfusions in the last 6 months,&#xD;
+&#xD;
+         13. Those on any vaccine program or experimental medication within 1 month prior to the&#xD;
+             study,&#xD;
+&#xD;
+         14. History of any live vaccine administration within 1 month prior to the study,&#xD;
+&#xD;
+         15. History of any inactive vaccine administration within 1 month prior to the study,&#xD;
+&#xD;
+         16. Use of active tuberculosis treatment,&#xD;
+&#xD;
+         17. According to the investigator's evaluation, those who have any condition (medical,&#xD;
+             psychological, social, etc.) that may impair the patient's compliance with the study&#xD;
+             will be excluded from the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>59 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Recep S SENTURK, MD</last_name>
+    <phone>(+90) 505 385 00 65</phone>
+    <email>drselim32@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Dr. Abdurahman Yurtaslan Ankara Oncology Training and Research Hospital Phase I Clinical Study Center</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06200</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Recep S SENTURK, MD</last_name>
+      <phone>+905053850065</phone>
+      <email>drselim32@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 26, 2021</study_first_posted>
+  <last_update_submitted>April 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>The Scientific and Technological Research Council of Turkey</investigator_affiliation>
+    <investigator_full_name>Ihsan GURSEL, PhD, Prof.</investigator_full_name>
+    <investigator_title>PhD, Prof</investigator_title>
+  </responsible_party>
+  <keyword>Virus-like Particles</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1112">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04796584</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SARSmRNA_MS</org_study_id>
+    <nct_id>NCT04796584</nct_id>
+  </id_info>
+  <brief_title>Efficacy of COVID-19 Vaccination in Patients With Multiple Sclerosis Treated With Immune Modulating Medication</brief_title>
+  <official_title>Efficacy of COVID 19 SARS-CoV-2 mRNA Vaccination in Patients With Multiple Sclerosis Treated With Immune Modulating Medication (SARSmRNA_MS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Providence Health &amp; Services</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Providence Health &amp; Services</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective is to determine whether the use of immunomodulating medications have an&#xD;
+      impact on the ability to mount and sustain an immune response to SARS-CoV-2 spike protein&#xD;
+      following mRNA vaccination in patients with MS when compared to healthy controls not&#xD;
+      receiving immunomodulating medications. We hypothesize that the use of immunomodulators in MS&#xD;
+      patients may eliminate or reduce the level of protective immune response, and/or shorten the&#xD;
+      duration of the protective response.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Analysis of cell-mediated and antibody-mediated immunity to the COVID 19, SARS-CoV-2 virus&#xD;
+      following treatment with mRNA vaccine, in patients with multiple sclerosis (MS) who are&#xD;
+      treated with immune modulating medication. Each consenting subject will provide approximately&#xD;
+      30 mL of whole blood via venipuncture before and 45, 90 and 180 days after the first vaccine&#xD;
+      injection. These samples, obtained at Providence St. Vincent Medical Center, will be&#xD;
+      transferred to the Laboratory of Molecular and Tumor Immunology at the Earle A. Chiles Cancer&#xD;
+      Research Institute, where the blood will be processed and cryopreserved. Serum samples will&#xD;
+      be analyzed for the presence and titer of neutralizing antibodies to the SARSCoV-2 virus.&#xD;
+      Isolated peripheral blood lymphocytes will be used for analyses of T cell responses to&#xD;
+      SARS-CoV-2 spike peptides. Responses will be compared to the immune responses of 10 subjects&#xD;
+      who have been enrolled in the CORVax spike plasmid DNA vaccine study and are subsequently&#xD;
+      referred to in this protocol as &quot;healthy controls.&quot; The unused portion of the samples will be&#xD;
+      stored for future deep cytokine and genomic analyses if funding becomes available to perform&#xD;
+      these latter studies. This study will include 4 cohorts, each will enroll 10 subjects who are&#xD;
+      being treated with an immunomodulating therapy for MS. The 4 immunomodulating medications&#xD;
+      selected, because each differs in their mechanisms of action, include ocrelizumab (B-cell&#xD;
+      lytic), fingolimod (prevents mobilization of B and T cells from peripheral lymphoid organs),&#xD;
+      natalizumab (blocks transmigration of monocytes, and lymphocytes into the central nervous&#xD;
+      system), and dimethyl fumarate/diroximel fumarate (reduces inflammation-induce oxidative&#xD;
+      stress).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 17, 2021</start_date>
+  <completion_date type="Anticipated">June 17, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 17, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Titer of antibody against SARS-CoV-2 spike protein</measure>
+    <time_frame>Day 45 following initial vaccination</time_frame>
+    <description>Serum Sample</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quantity of IFN-g secreted in response to stimulation with SARS-CoV-2 spike protein</measure>
+    <time_frame>Day 45 following initial vaccination</time_frame>
+    <description>Serum Sample</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quantity of TNF-a secreted in response to stimulation with SARS-CoV-2 spike protein</measure>
+    <time_frame>Day 45 following initial vaccination</time_frame>
+    <description>Serum Sample</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Titer of antibody against SARS-CoV-2 spike protein</measure>
+    <time_frame>Day 90 following initial vaccination</time_frame>
+    <description>Serum Sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Titer of antibody against SARS-CoV-2 spike protein</measure>
+    <time_frame>Day 180 following initial vaccination</time_frame>
+    <description>Serum Sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantity of IFN-g secreted in response to stimulation with SARS-CoV-2 spike protein</measure>
+    <time_frame>Day 90 following initial vaccination</time_frame>
+    <description>Serum Sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantity of IFN-g secreted in response to stimulation with SARS-CoV-2 spike protein</measure>
+    <time_frame>Day 180 following initial vaccination</time_frame>
+    <description>Serum Sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantity of TNF-a secreted in response to stimulation with SARS-CoV-2 spike protein</measure>
+    <time_frame>Day 90 following initial vaccination</time_frame>
+    <description>Serum Sample</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Multiple Sclerosis</condition>
+  <arm_group>
+    <arm_group_label>MS subjects who are being treated with ocrelizumab</arm_group_label>
+    <description>Ocrelizumab's immunomodulating mechanisms of action is B-cell lytic. Each consenting subject will provide approximately 30 mL of whole blood via venipuncture before and 45, 90 and 180 days after the first vaccine injection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MS subjects who are being treated with fingolimod</arm_group_label>
+    <description>Fingolimod's immunomodulating mechanisms of action is to prevent mobilization of B and T cells from peripheral lymphoid organs. Each consenting subject will provide approximately 30 mL of whole blood via venipuncture before and 45, 90 and 180 days after the first vaccine injection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MS subjects who are being treated with natalizumab</arm_group_label>
+    <description>Natalizumab's immunomodulating mechanisms of action is to block transmigration of monocytes, and lymphocytes into the central nervous system. Each consenting subject will provide approximately 30 mL of whole blood via venipuncture before and 45, 90 and 180 days after the first vaccine injection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MS subjects who are being treated with dimethyl fumarate/diroximel fumarate</arm_group_label>
+    <description>Dimethyl Fumarate's immunomodulating mechanisms of action is to reduce inflammation-induced oxidative stress. Each consenting subject will provide approximately 30 mL of whole blood via venipuncture before and 45, 90 and 180 days after the first vaccine injection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Analysis of cell-mediated and antibody-mediated immunity to SARS-CoV-2 virus</intervention_name>
+    <description>mRNA vaccination for SARS-CoV-2 is not provided by the study</description>
+    <arm_group_label>MS subjects who are being treated with dimethyl fumarate/diroximel fumarate</arm_group_label>
+    <arm_group_label>MS subjects who are being treated with fingolimod</arm_group_label>
+    <arm_group_label>MS subjects who are being treated with natalizumab</arm_group_label>
+    <arm_group_label>MS subjects who are being treated with ocrelizumab</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Serum samples will be analyzed for the presence and titer of neutralizing antibodies to the&#xD;
+      SARSCoV-2 virus. Isolated peripheral blood lymphocytes will be used for analyses of T cell&#xD;
+      responses to SARS-CoV-2 spike peptides.&#xD;
+&#xD;
+      The unused portion of the samples will be stored for future deep cytokine and genomic&#xD;
+      analyses if funding becomes available to perform these latter studies. Data and samples will&#xD;
+      be stored indefinitely. It is possible that disease specific genetic testing, as it relates&#xD;
+      to the Donor's diagnosis of autoimmunity and their immune response to the vaccine and/or&#xD;
+      their autologous tissue, may be done on samples. Other testing may be done as technology and&#xD;
+      scientific knowledge about the immune response to vaccines and autoimmunity advances&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        There is no available information on whether patients being treated with immunomodulating&#xD;
+        agents will mount a response to SARS-CoV-2 vaccination comparable to that observed in the&#xD;
+        general population. Volunteers will be recruited from the MS patient population cared for&#xD;
+        at the Providence MS Center. Patients will be identified by review of electronic medical&#xD;
+        records. Patients who appear to meet the eligibility criteria will be contacted by an&#xD;
+        investigator and/or a delegated research staff member.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Able to understand the purpose, benefits, and risks of the study; willing and able to&#xD;
+             adhere to the study requirements; able to provide informed consent in English&#xD;
+&#xD;
+          2. Male or female, between the ages of 18 and 55 years inclusive at time of consent&#xD;
+&#xD;
+          3. Plan to receive one of the FDA approved mRNA-based COVID SARS-CoV-2 vaccinations&#xD;
+             within 30 days&#xD;
+&#xD;
+          4. Meet the criteria of one of the four groups at the time of consent:&#xD;
+&#xD;
+        Group 1: Diagnosed with multiple sclerosis and currently being treated with a stable dose&#xD;
+        of ocrelizumab, for 6 months or longer Group 2: Diagnosed with multiple sclerosis and&#xD;
+        currently being treated with a stable dose of fingolimod, for 6 months or longer Group 3:&#xD;
+        Diagnosed with multiple sclerosis and currently being treated with a stable dose of&#xD;
+        natalizumab, for 6 months or longer Group 4: Diagnosed with multiple sclerosis and&#xD;
+        currently being treated with a stable dose of dimethyl fumarate or diroximel fumarate, for&#xD;
+        6 months or longer&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        1. Subjects who have a BMI of &gt;35.0 will be excluded&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stanley Cohan, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Providence Health &amp; Services</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Francesca Negreanu</last_name>
+    <phone>503-216-0004</phone>
+    <email>Francesca.Negreanu@providence.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tiffany Gervasi-Follmar, MPH</last_name>
+    <phone>(503) 216-1023</phone>
+    <email>Tiffany.Gervasi-Follmar@providence.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Providence Neurological Specialties West</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Tiffany Gervasi-Follmar, MPH</last_name>
+      <phone>503-216-1023</phone>
+      <email>tiffany.gervasi-follmar@providence.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Francesca Negreanu</last_name>
+      <email>Francesca.Negreanu@providence.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Stanley Cohan, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Justine Brink, DO</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kyle Smoot, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Kataria S, Tandon M, Melnic V, Sriwastava S. A case series and literature review of multiple sclerosis and COVID-19: Clinical characteristics, outcomes and a brief review of immunotherapies. eNeurologicalSci. 2020 Dec;21:100287. doi: 10.1016/j.ensci.2020.100287. Epub 2020 Nov 2.</citation>
+    <PMID>33163634</PMID>
+  </reference>
+  <reference>
+    <citation>Möhn N, Konen FF, Pul R, Kleinschnitz C, Prüss H, Witte T, Stangel M, Skripuletz T. Experience in Multiple Sclerosis Patients with COVID-19 and Disease-Modifying Therapies: A Review of 873 Published Cases. J Clin Med. 2020 Dec 16;9(12). pii: E4067. doi: 10.3390/jcm9124067. Review.</citation>
+    <PMID>33339436</PMID>
+  </reference>
+  <reference>
+    <citation>Sormani MP; Italian Study Group on COVID-19 infection in multiple sclerosis. An Italian programme for COVID-19 infection in multiple sclerosis. Lancet Neurol. 2020 Jun;19(6):481-482. doi: 10.1016/S1474-4422(20)30147-2. Epub 2020 Apr 30. Erratum in: Lancet Neurol. 2020 May 28;:.</citation>
+    <PMID>32359409</PMID>
+  </reference>
+  <reference>
+    <citation>Louapre C, Collongues N, Stankoff B, Giannesini C, Papeix C, Bensa C, Deschamps R, Créange A, Wahab A, Pelletier J, Heinzlef O, Labauge P, Guilloton L, Ahle G, Goudot M, Bigaut K, Laplaud DA, Vukusic S, Lubetzki C, De Sèze J; Covisep investigators, Derouiche F, Tourbah A, Mathey G, Théaudin M, Sellal F, Dugay MH, Zéphir H, Vermersch P, Durand-Dubief F, Françoise R, Androdias-Condemine G, Pique J, Codjia P, Tilikete C, Marcaud V, Lebrun-Frenay C, Cohen M, Ungureanu A, Maillart E, Beigneux Y, Roux T, Corvol JC, Bordet A, Mathieu Y, Le Breton F, Boulos DD, Gout O, Guéguen A, Moulignier A, Boudot M, Chardain A, Coulette S, Manchon E, Ayache SS, Moreau T, Garcia PY, Kumaran D, Castelnovo G, Thouvenot E, Taithe F, Poupart J, Kwiatkowski A, Defer G, Derache N, Branger P, Biotti D, Ciron J, Clerc C, Vaillant M, Magy L, Montcuquet A, Kerschen P, Coustans M, Guennoc AM, Brochet B, Ouallet JC, Ruet A, Dulau C, Wiertlewski S, Berger E, Buch D, Bourre B, Pallix-Guiot M, Maurousset A, Audoin B, Rico A, Maarouf A, Edan G, Papassin J, Videt D. Clinical Characteristics and Outcomes in Patients With Coronavirus Disease 2019 and Multiple Sclerosis. JAMA Neurol. 2020 Sep 1;77(9):1079-1088. doi: 10.1001/jamaneurol.2020.2581.</citation>
+    <PMID>32589189</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 15, 2021</study_first_posted>
+  <last_update_submitted>March 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>mRNA-based SARS-CoV-2 vaccination</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Sclerosis</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Study data will be kept in secure computer files, in locked research offices that are both only accessible to research personnel, and in a secure password protected Clinical Trial Management System (CTMS). Publications or presentations will report aggregate data and will not contain any subject identification.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

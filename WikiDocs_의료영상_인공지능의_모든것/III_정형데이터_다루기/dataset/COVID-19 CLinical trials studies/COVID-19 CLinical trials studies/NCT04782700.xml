@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1794">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04782700</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB # 21-0076</org_study_id>
+    <nct_id>NCT04782700</nct_id>
+  </id_info>
+  <brief_title>P-Co-Li (Pulmonary Covid-19 Study)</brief_title>
+  <official_title>P-CO-Li (Pulmonary Covid-19 Longterm Intervention Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwell Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Northwell Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to determine whether the use of steroids versus watchful waiting&#xD;
+      improves pulmonary function tests in patients with history of COVID 19 infection who have&#xD;
+      residual hypoxemia and lung infiltrates. This is a non-inferiority trial which tests whether&#xD;
+      the outcomes after watchful waiting are not worst than after the use of steroids, with a&#xD;
+      margin of acceptable inferiority. The study team will limit inclusion to patients who have&#xD;
+      PCR- confirmed COVID19 at least in 10-weeks prior to enrollment, persistent opacities on&#xD;
+      chest imaging, and hypoxemia either at rest or during ambulation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Rationale: The long-term pulmonary effects of COVID-19 infection have not been characterized.&#xD;
+      Many of the patients that have recovered from the initial infection still experience&#xD;
+      respiratory symptoms, require oxygen supplementation and/or have persistent opacities in&#xD;
+      chest imaging. The implications of these findings are not well described at this time, and it&#xD;
+      is unclear if these patients will eventually develop pulmonary fibrosis or fully recover. No&#xD;
+      standard therapy has been studied for this specific population and the use of steroids have&#xD;
+      only been tested in the acute setting. Outpatient providers are currently not sure whether to&#xD;
+      prescribe steroids or to carefully watch over time. This is a real-world question about which&#xD;
+      option is better and whether the risks of steroids outweigh the potential benefit when&#xD;
+      compared to watchful waiting. The investigator propose that watchful waiting is not inferior&#xD;
+      to the use of steroids in improving the pulmonary function tests of these patients at 12&#xD;
+      weeks.&#xD;
+&#xD;
+      Methodology: The investigators will include patients with history of COVID-19 infection who&#xD;
+      have persistent opacities on chest imaging, and who are hypoxemic - either at rest or with&#xD;
+      ambulation, at least 10 weeks post-COVID19 PCR positivity. The study team will randomize&#xD;
+      patients in a 1:1 fashion to receive either watchful waiting vs. steroids. The study team&#xD;
+      will follow the patients over time with sequential pulmonary function tests and clinic visits&#xD;
+      at baseline, 12 weeks, 6 months and 12 months, 24 and 36 months. The first 12 weeks will&#xD;
+      include weekly brief phone calls to check on the patients and to ask them to rate their&#xD;
+      dyspnea on the modified Borg Dyspnea Scale. Thereafter, phone follow up will occur monthly.&#xD;
+&#xD;
+      Outcomes:&#xD;
+&#xD;
+      Outcomes will be measured at baseline, 12 weeks, 6-months, 12-months, 24-months, and&#xD;
+      36-months. For the first 12 weeks weekly mBorg Dyspnea Scale will also be obtained.&#xD;
+&#xD;
+      The primary outcome will be worsening in pulmonary function tests (baseline to over 12&#xD;
+      weeks), defined as absolute value of FVC worsened by &gt;10% OR absolute value of DLCO worsened&#xD;
+      by &gt;15%. As a real-world study, if patients are unable to receive PFTs before their physician&#xD;
+      decides to escalate therapy, a 2-point worsening (increase) in mBorg will be considered as&#xD;
+      patient having achieved the primary outcome.&#xD;
+&#xD;
+      The secondary outcomes will include collection of the following: (1) Hypoxemia (increased&#xD;
+      oxygen supplementation by 1L/min or &gt;3% decrease in pulse Ox at ambulation to HR number); (2)&#xD;
+      6MWT (where possible); (3) SR-36 questionnaire; (4) PROMIS short forms; (5) mBorg Dyspnea&#xD;
+      Scale; (6) CT scan findings (where obtained as part of standard of care); and (7) PFT changes&#xD;
+      over time. All outcomes will be analyzed as binary variables (20% worsening Y/N or clinically&#xD;
+      meaningful worsening) from baseline, and as continuous variables to each time-point to&#xD;
+      follow-up.&#xD;
+&#xD;
+      The tertiary outcomes will include changes in COVID19 bundle labs ( inflammatory markers,&#xD;
+      D-dimer, metabolic panel, CBC, COVID IgG); radiographic improvement (where obtained as part&#xD;
+      of standard of care by the treating provider), HgA1c, pro-calcitonin, and documented&#xD;
+      infections. These values will be obtained from the medical record if already ordered by other&#xD;
+      providers, or will be ordered by the research team at the specified follow-up timepoints. Of&#xD;
+      note, radiology testing will not be ordered by the research team but will be at the&#xD;
+      discretion of the clinical providers who will be advised about clinic-set standards for&#xD;
+      frequency and timing of follow up.&#xD;
+&#xD;
+      Weekly phone call check-in will be made for the first 12-weeks asking mBorg, and monthly&#xD;
+      thereafter, and check-in clinic appointments will occur at 12 weeks and as needed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 15, 2021</start_date>
+  <completion_date type="Anticipated">March 3, 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 3, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Worsened pulmonary function test (PFT) (FVC or DLCO)</measure>
+    <time_frame>Baseline to 12-weeks</time_frame>
+    <description>Worsened PFT (FVC (forced vital capacity) or DLCO (diffusing capacity of the lungs for carbon monoxide)) at or prior to12 weeks. (FVC stayed the same if normal, or worsened by &gt;10% OR DLCO worsened by &gt;15%; or if start rescue treatment without pft we will assume it's a failed pft)**</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hypoxemia</measure>
+    <time_frame>Baseline to 12 weeks; and 6, 12, 24 and 36-months</time_frame>
+    <description>Hypoxemia (increased oxygen supplementation by 1L/min with &gt;3% decrease in pulse ox at ambulation to HR#)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>6 Minute-Walk Test (6MWT)</measure>
+    <time_frame>Baseline to 12 weeks; and 6, 12, 24 and 36-months</time_frame>
+    <description>6MWT will be perform where possible</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>mBorg Dyspnea Scale</measure>
+    <time_frame>Baseline to 12 weeks; and 6, 12, 24 and 36-months</time_frame>
+    <description>Changes of score (scale: 1-10) will be analyzed to see if there are any difference (improvement or worsening (higher score)) between the intervention and standard of care across all time points (baseline to 12 weeks, and 6, 12, 24, and 36-months).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PROMIS Short Forms Outcomes Survey</measure>
+    <time_frame>Baseline to 12 weeks; and 6, 12, 24 and 36-months</time_frame>
+    <description>Changes of all 7 surveys scores (min score 4 - max score 20) will be analyzed to see if there are any difference (improvement or worsening) between the intervention and standard of care across all time points (baseline to 12 weeks, and 6, 12, 24, and 36-months).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lower Extremity Functional Scale</measure>
+    <time_frame>Baseline to 12 weeks; and 6, 12, 24 and 36-months</time_frame>
+    <description>Changes of survey score (min score 18 - max score 72) will be analyzed to see if there are any difference (improvement or worsening (higher the score)) between the intervention and standard of care across all time points (baseline to 12 weeks, and 6, 12, 24, and 36-months).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EQ-5D-5L outcomes survey</measure>
+    <time_frame>Baseline to 12 weeks; and 6, 12, 24 and 36-months</time_frame>
+    <description>Changes of survey score will be analyzed to see if there are any difference (improvement or worsening) between the intervention and standard of care across all time points (baseline to 12 weeks, and 6, 12, 24, and 36-months).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes over time in CT chest sans</measure>
+    <time_frame>Baseline to 12 weeks; and 6, 12, 24 and 36-months</time_frame>
+    <description>CT chest scans findings will be included as a outcome (where available based on standard of care orders). The change of CT chest scans throughout the study will be examined if available in participants medical record to observe any specific changes due to COVID19.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Other pulmonary function test (PFT) changes over time</measure>
+    <time_frame>Baseline to 12 weeks; and 6, 12, 24 and 36-months</time_frame>
+    <description>Other PFT changes over time looking at either FVC or DLCO. All outcomes will be analyzed as binary (20% worsening Y/N) from baseline, and as continuous to each timepoint of follow-up.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Changes in COVID19 bundle labs</measure>
+    <time_frame>Baseline to 12 weeks; and 6, 12, 24 and 36-months</time_frame>
+    <description>The changes in COVID19 bundle labs will include the following: inflammatory markers, D-dimer, metabolic panel, cbc; COVID IgG; radiographic improvement (where available as part of standard fo care orders); HgA1c; pro-calcitonin; documented infections. All the labs are going to be combined to report as one measure. These labs will indicate if there is improvement or worsening indicating that additional treatment may be needed and/or if the current treatment is helping the study participant.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">522</enrollment>
+  <condition>Covid19</condition>
+  <condition>Lung Inflammation</condition>
+  <condition>Hypoxemic Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>Watchful Waiting</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The patients randomized to the watchful waiting group will not be prescribed any steroids at the time of randomization.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Prednisone (Steroid) Taper</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The patients randomized to the steroid group will be prescribed prednisone PO or an equivalent corticosteroid at a dose of 0.5 mg/kg/day for 4 weeks ((plus BACTRIM-DS (1PO qd. 160/800mg) as prophylaxis against infection - If patient have a sulfa allergy, their physician will prescribe atovaquone 1500mg qd instead of Bactrim) and followed by a gradual taper of 0.25 mg/kg/day for 4 weeks, followed by 0.125 mg/kg qd for 4 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Steroid Taper (Prednisone)</intervention_name>
+    <description>The patients randomized to the steroid group will be prescribed prednisone PO or an equivalent corticosteroid at a dose of 0.5 mg/kg/day for 4 weeks ((plus BACTRIM-DS (1PO qd. 160/800mg) as prophylaxis against infection - If patient have a sulfa allergy, their physician will prescribe atovaquone 1500mg qd instead of Bactrim) and followed by a gradual taper of 0.25 mg/kg/day for 4 weeks, followed by 0.125 mg/kg qd for 4 weeks.</description>
+    <arm_group_label>Prednisone (Steroid) Taper</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Outpatients age&gt;18 with PCR positive COVID19 at least 10-weeks prior;&#xD;
+&#xD;
+          2. persistent opacities (GGO and/or reticular changes) on any chest imaging at least&#xD;
+             10-weeks after positive COVID PCR;&#xD;
+&#xD;
+          3. HYPOXEMIA as defined by any of the below:&#xD;
+&#xD;
+               1. Desaturation 3% or greater from baseline at rest or with any ambulation at or&#xD;
+                  below target HR ([220-age]*0.6))#&#xD;
+&#xD;
+               2. Or patient already on supplemental oxygen&#xD;
+&#xD;
+               3. Or room air saturation 90% or less&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. age &lt;18&#xD;
+&#xD;
+          2. special populations (minors, pregnant women, decisional impairment which prevents them&#xD;
+             from making their own health decisions)&#xD;
+&#xD;
+          3. already on &gt;15 mg per day of prednisone&#xD;
+&#xD;
+          4. subjects with underlying ILD pre-COVID19 infection&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Negin Hajizadeh, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Northwell Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Negin Hajizadeh, MD</last_name>
+    <phone>5166001401</phone>
+    <email>nhajizadeh@northwell.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jennifer Polo, BA</last_name>
+    <phone>5166001483</phone>
+    <email>jpolo1@northwell.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Northwell Health</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Negin Hajizadeh</last_name>
+      <email>Nhajizadeh@northwell.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 4, 2021</study_first_posted>
+  <last_update_submitted>March 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Inflammation</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prednisone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5579">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04799405</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00044198</org_study_id>
+    <nct_id>NCT04799405</nct_id>
+  </id_info>
+  <brief_title>Home-based tDCS in Major Depressive Disorder</brief_title>
+  <acronym>MoodStim</acronym>
+  <official_title>Supervised Home-based Transcranial Direct Current Stimulation (tDCS) for Major Depressive Disorder</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hebrew SeniorLife</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hebrew SeniorLife</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators propose a study of telehealth supervised, caregiver-delivered, home-based&#xD;
+      transcranial direct current stimulation (tDCS) for antidepressant treatment of patients with&#xD;
+      an acute depressive episode.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open-label pilot feasibility telemedicine study. This pilot will involve a total&#xD;
+      of 37 stimulations sessions / at home visits (30- minute sessions of multichannel excitatory&#xD;
+      tDCS targeting the left DPFC) and the maintenance of a daily treatment diary to be completed&#xD;
+      by the subjects immediately after enrollment and 12 weeks following the last study visit.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 24, 2020</start_date>
+  <completion_date type="Anticipated">September 24, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 24, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical response</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The primary outcome will be change in the observer rated MADRS score from baseline to the 1-month follow-up. Clinical response is defined as ≥ 50% improvement in MADRS score from baseline to the 1-month follow-up. Remission is defined as a MADRS score ≤ 10.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Treatment-Emergent Adverse Events [Safety and Tolerability]</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Feasibility and tolerability/safety will be evaluated using home-based data as recorded in the Neuroelectrics portal: number of aborted sessions (%), missed sessions (%) and adverse event questionnaire responses (incidence of adverse events).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Activities of daily living</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The Quality of Life Enjoyment and Satisfaction Questionnaire - Short Form (Q-LES-Q-SF)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mood depressive symptomatology</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The Quick Inventory of Depressive Symptomatology (16-Item) (Self-Report)(QIDS-SR16)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mood depressive symptomatology</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Beck's Depression Inventory (BDI)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mood depressive symptomatology</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Hamilton Depression Rating Scale (HDRS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive assessment of global cognition</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>MoCA</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive assessment of verbal working memory</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Digit Span</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Major Depressive Disorder</condition>
+  <arm_group>
+    <arm_group_label>tDCS MDD</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A group of 50 participants with major depressive disorder (MDD).&#xD;
+tDCS, as a relatively simple and portable technology, is particularly well suited for remotely-supervised, home-based treatment, which would facilitate longer periods of treatment as well as offer a suitable therapeutic option at the present time as the investigators aim to deal with the COVID-19 pandemic.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>tDCS</intervention_name>
+    <description>Daily sessions (28 daily sessions): The device will be used to apply 30 minutes of tDCS to the participant with MDD's scalp in each of 28 daily sessions.&#xD;
+Thereafter, participants with MDD will undergo a taper phase of an additional 9 sessions of tDCS applied in progressively decreasing frequency until day #60 of the study as follows:&#xD;
+First taper phase: three 30 minutes tDCS sessions applied every other day;&#xD;
+Second taper phase: three 30 minutes tDCS sessions applied one every third day;&#xD;
+Third and final taper phase: three final 30 minutes tDCS sessions applied one every fourth day.</description>
+    <arm_group_label>tDCS MDD</arm_group_label>
+    <other_name>Transcranial direct current stimulation (tDCS)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Patients meeting one of the following criteria may be eligible to participate in this&#xD;
+        study.&#xD;
+&#xD;
+          1. Patients with medication-resistant MDD who have undergone rTMS or ECT and responded to&#xD;
+             it but whose benefit has lapsed, and they need repeat a rTMS or ECT course that they&#xD;
+             cannot access&#xD;
+&#xD;
+          2. Patients with medication-resistant MDD who have undergone rTMS or ECT and responded to&#xD;
+             it but whose benefit has lapsed, and they need repeat a rTMS or ECT course that they&#xD;
+             cannot access&#xD;
+&#xD;
+          3. Patients with medication-resistant MDD who are undergoing rTMS or ECT and responding,&#xD;
+             but cannot continue to get the rTMS or ECT course due to COVID-19 pandemic-related&#xD;
+             regulations or other access concerns&#xD;
+&#xD;
+          4. Patients with medication-resistant MDD who are referred to rTMS or ECT and are found&#xD;
+             well qualified but cannot access rTMS or ECT due to COVID-19 pandemic-related&#xD;
+             regulations or other access concerns.&#xD;
+&#xD;
+        The benefits of this project address a present need due to the COVID-19 pandemic, but also&#xD;
+        go beyond the present situation and address a larger, pre-existing need. Across all these&#xD;
+        potential groups of participants, prospective participants will:&#xD;
+&#xD;
+          -  need to have a primary psychiatrist who agrees to their participation in the study and&#xD;
+             is willing to continue to follow the patient and work collaboratively with the study&#xD;
+             team&#xD;
+&#xD;
+          -  need to be assessed by their primary psychiatrist to be stable enough to be able to&#xD;
+             remain at home and participate in the present study without undue risk to their safety&#xD;
+&#xD;
+          -  need to be living with an adult willing and capable to provide oversight and learn to&#xD;
+             deliver the home-based tDCS&#xD;
+&#xD;
+          -  have the capability to connect with the study team for daily supervision of the&#xD;
+             intervention sessions and close safety monitoring, and be willing to commit to doing&#xD;
+             so&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+        Individuals with MDD&#xD;
+&#xD;
+        Participants will be men and women who:&#xD;
+&#xD;
+          -  Are aged 50 or older&#xD;
+&#xD;
+          -  Able to read, write, and communicate in English&#xD;
+&#xD;
+          -  Have a caregiver who is willing and able to provide the home tDCS sessions.&#xD;
+&#xD;
+          -  Participants must be under the care of a treating psychiatrist who approves of the&#xD;
+             study participation and believes that TMS or ECT is indicated for his/her patient but&#xD;
+             that&#xD;
+&#xD;
+               -  it would not endanger the patient to participate in the present study rather than&#xD;
+                  pursue such alternative, or&#xD;
+&#xD;
+               -  the patient could not gain access to TMS or ECT due to COVID-19 (The depression&#xD;
+                  phase of bi-polar disorder is not a reason for exclusion if the treating&#xD;
+                  psychiatrist believes TMS or ECT would be indicated).&#xD;
+&#xD;
+        Participants with MDD must fit into one of the following 3 groups (medication-resistant MDD&#xD;
+        defined as 1) participant's condition has not responded to prescribed antidepressant&#xD;
+        medication; 2) participant is medication intolerant, or 3) some other underlying reason):&#xD;
+&#xD;
+          -  Patients with medication-resistant Major depressive disorder (MDD) who have undergone&#xD;
+             repetitive transcranial magnetic stimulation (rTMS) or electroconvulsive therapy (ECT)&#xD;
+             and responded to it but whose benefit has lapsed and they need repeat rTMS or ECT&#xD;
+             course that they cannot access;&#xD;
+&#xD;
+          -  Patients with medication-resistant MDD who are undergoing rTMS or ECT and responding,&#xD;
+             but cannot continue to get the rTMS or ECT course due to COVID-19 pandemic-related&#xD;
+             regulations or other access concerns&#xD;
+&#xD;
+          -  Patients with medication-resistant MDD who are referred to rTMS or ECT and are found&#xD;
+             well qualified but cannot access rTMS or ECT due to COVID-19 pandemic-related&#xD;
+             regulations or other access concerns.&#xD;
+&#xD;
+        Further, participants must:&#xD;
+&#xD;
+          -  Meet criteria for a diagnosis of MDD according to the Diagnostic and Statistical&#xD;
+             Manual of Mental Disorders (DSM-IV-TR) (American Psychiatric Association, 2000), as&#xD;
+             determined via an tele-health interview with a study psychiatrist, and confirmed with&#xD;
+             the Mini International Neuropsychiatric Interview (MINI; Version 5.0.0) (Sheehan et&#xD;
+             al., 1998) and the prospective participant's primary psychiatrist.&#xD;
+&#xD;
+          -  Currently experiencing a major depressive episode of at least four weeks' duration as&#xD;
+             part of a unipolar or bipolar depression. Score will need to be at least 20 on the&#xD;
+             MADRS.&#xD;
+&#xD;
+        Participant caregiver-administrators:&#xD;
+&#xD;
+        Caregiver-administrators will be men and women, who may be a spouse, family member or&#xD;
+        friend who is&#xD;
+&#xD;
+          -  At least 21 years of age&#xD;
+&#xD;
+          -  Able to read, write, and communicate in English&#xD;
+&#xD;
+          -  Self-reported computer proficiency and willingness to learn how to use tDCS as defined&#xD;
+             by &quot;yes&quot; answers to the questions &quot;Do you feel comfortable using a computer?&quot; and &quot;are&#xD;
+             you willing to learn&#xD;
+&#xD;
+          -  How to administer tDCS?&quot; Stated availability throughout the study period to administer&#xD;
+             tDCS sessions to the participant with MDD.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Exclusion criteria for participants with MDD will be:&#xD;
+&#xD;
+               -  Any DSM-psychotic disorder&#xD;
+&#xD;
+               -  Drug or alcohol abuse or dependence in the preceding three months;&#xD;
+&#xD;
+               -  Concurrent benzodiazepine medication;&#xD;
+&#xD;
+               -  High suicide risk (Utilizing the Beck Depression Inventory and the Hamilton&#xD;
+                  Depression Scale, suicide risk will be assessed at baseline by the study&#xD;
+                  psychiatrist) ;&#xD;
+&#xD;
+               -  History of clinically defined neurological disorder or insult; Metal in the&#xD;
+                  cranium or skull defects;&#xD;
+&#xD;
+               -  Skin lesions on the scalp at the proposed electrode sites;&#xD;
+&#xD;
+               -  Pregnancy.&#xD;
+&#xD;
+               -  Medical devices (i.e. cardiac pacemaker, deep brain stimulator, medication&#xD;
+                  infusion pump, cochlear implant, vagus nerve stimulator).&#xD;
+&#xD;
+               -  Previous skull surgery with resultant skull defects&#xD;
+&#xD;
+               -  Inability to understand study procedures following review of the Informed Consent&#xD;
+                  form.&#xD;
+&#xD;
+        Understanding will be assessed by asking the participant with MDD to answer the following&#xD;
+        three questions:&#xD;
+&#xD;
+          1. What is the purpose of this study?&#xD;
+&#xD;
+          2. What are the risks of study involvement?&#xD;
+&#xD;
+          3. If you decide to participate, are you allowed to withdraw from the study at any time?&#xD;
+             Answers will be recorded by study personnel on the &quot;Assessment of Protocol&#xD;
+             Understanding&quot; form. Insufficient understanding will be defined by one or more&#xD;
+             incorrect answers, as determined at the discretion of the investigator.&#xD;
+&#xD;
+        Exclusion criteria for Participant caregiver-administrators:&#xD;
+&#xD;
+          -  Poor eyesight,&#xD;
+&#xD;
+          -  Severe arthritis in the hands, pain, deformity or other condition that interferes with&#xD;
+             successful administration of tDCS.&#xD;
+&#xD;
+          -  Inability to understand study procedures following review of the Informed Consent&#xD;
+             form.&#xD;
+&#xD;
+        Understanding will be assessed by asking the participant caregiver-administrator to answer&#xD;
+        the following three questions:&#xD;
+&#xD;
+          1. What is the purpose of this study?&#xD;
+&#xD;
+          2. What are the risks of study involvement?&#xD;
+&#xD;
+          3. If you decide to participate, are you allowed to withdraw from the study at any time?&#xD;
+             Answers will be recorded by study personnel on the &quot;Assessment of Protocol&#xD;
+             Understanding&quot; form (see attached). Insufficient understanding will be defined by one&#xD;
+             or more incorrect answers, as determined at the discretion of the investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alvaro Pascual-Leone, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hinda and Arthur Marcus Institute for Aging Research</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alvaro Pascual-Leone, Dr.</last_name>
+    <phone>617-971-5372</phone>
+    <email>apleone@hsl.harvard.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Davide Cappon, Dr.</last_name>
+    <phone>617-971-5299</phone>
+    <email>davidebaloscappon@hsl.harvard.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hinda and Arthur Marcus Institute for Aging Research</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alvaro Pascual-Leone, Dr.</last_name>
+      <phone>617-971-5372</phone>
+      <email>apleone@hsl.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Davide Cappon, Dr.</last_name>
+      <phone>617-971-5299</phone>
+      <email>davidebaloscappon@hsl.harvard.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Alonzo A, Fong J, Ball N, Martin D, Chand N, Loo C. Pilot trial of home-administered transcranial direct current stimulation for the treatment of depression. J Affect Disord. 2019 Jun 1;252:475-483. doi: 10.1016/j.jad.2019.04.041. Epub 2019 Apr 10.</citation>
+    <PMID>31005790</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Antal A, Alekseichuk I, Bikson M, Brockmöller J, Brunoni AR, Chen R, Cohen LG, Dowthwaite G, Ellrich J, Flöel A, Fregni F, George MS, Hamilton R, Haueisen J, Herrmann CS, Hummel FC, Lefaucheur JP, Liebetanz D, Loo CK, McCaig CD, Miniussi C, Miranda PC, Moliadze V, Nitsche MA, Nowak R, Padberg F, Pascual-Leone A, Poppendieck W, Priori A, Rossi S, Rossini PM, Rothwell J, Rueger MA, Ruffini G, Schellhorn K, Siebner HR, Ugawa Y, Wexler A, Ziemann U, Hallett M, Paulus W. Low intensity transcranial electric stimulation: Safety, ethical, legal regulatory and application guidelines. Clin Neurophysiol. 2017 Sep;128(9):1774-1809. doi: 10.1016/j.clinph.2017.06.001. Epub 2017 Jun 19. Review.</citation>
+    <PMID>28709880</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Brunoni AR, Moffa AH, Fregni F, Palm U, Padberg F, Blumberger DM, Daskalakis ZJ, Bennabi D, Haffen E, Alonzo A, Loo CK. Transcranial direct current stimulation for acute major depressive episodes: meta-analysis of individual patient data. Br J Psychiatry. 2016 Jun;208(6):522-31. doi: 10.1192/bjp.bp.115.164715. Epub 2016 Apr 7. Review.</citation>
+    <PMID>27056623</PMID>
+  </results_reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 16, 2021</study_first_posted>
+  <last_update_submitted>March 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hebrew SeniorLife</investigator_affiliation>
+    <investigator_full_name>Alvaro Pascual-Leone</investigator_full_name>
+    <investigator_title>Senior Scientist-Professor of Neurology</investigator_title>
+  </responsible_party>
+  <keyword>non-invasive brain stimulation (NIBS)</keyword>
+  <keyword>transcranial direct current stimulation (tDCS)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

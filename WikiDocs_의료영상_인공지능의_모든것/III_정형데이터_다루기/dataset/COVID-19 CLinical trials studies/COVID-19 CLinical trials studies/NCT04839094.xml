@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2748">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 14, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04839094</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Q2059</org_study_id>
+    <nct_id>NCT04839094</nct_id>
+  </id_info>
+  <brief_title>Dry Versus Wet Nasopharyngeal Rapid Test for the Detection of COVID-19.</brief_title>
+  <acronym>RESTART</acronym>
+  <official_title>Dry Nasopharyngeal Swab Versus Transported in Viral Transport Media Rapid Antigen Test Comparison for the Detection of SARS-CoV-2: a Comparative Trial (RESTART).</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire Vaudois</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire Vaudois</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Saliva sampling could serve as an alternative non-invasive sample for SARS-CoV-2 diagnosis&#xD;
+      while rapid antigen testing (RAT) might help to mitigate the shortage of reagents&#xD;
+      sporadically encountered with RT-PCR. Thus, in the RESTART study the investigators compare&#xD;
+      antigen and RT-PCR testing methods on nasopharyngeal (NP) swabs and salivary samples. The&#xD;
+      investigators conducted a prospective observational study among COVID-19 hospitalized&#xD;
+      patients between 10th December 2020 and 1st February 2021. Paired saliva and NP samples were&#xD;
+      investigated by RT-PCR (Cobas 6800, Roche-Switzerland) and by two rapid antigen tests: One&#xD;
+      Step Immunoassay Exdia® COVID-19 Ag (Precision Biosensor, Korea) and Standard Q® COVID-19&#xD;
+      Rapid Antigen Test (Roche-Switzerland).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In response to the growing SARS-CoV-2 pandemic and shortages of laboratory based rapid&#xD;
+      molecular testing capacity and reagents on a worldwide scale, multiple manufacturers have&#xD;
+      developed rapid testing kits to use out of laboratory settings. These simple kits are based&#xD;
+      either on detection of proteins from the SARS-CoV-2 virus on respiratory samples (e.g.&#xD;
+      nasopharyngeal or throat swabs), or detection, in blood or serum, of human antibodies&#xD;
+      generated in response to infection.&#xD;
+&#xD;
+      On 28 October 2020 the Swiss Federal Council decided that as of 2 November 2020, in addition&#xD;
+      to polymerase chain reaction (PCR) tests, which are considered the &quot;Gold standard&quot; for&#xD;
+      SARS-CoV-2 diagnosis, it would be possible to conduct nasopharyngeal rapid antigen tests all&#xD;
+      over Switzerland, also outside licensed laboratories. In a hospital care setting rapid tests&#xD;
+      are intended to help physicians on prompt clinical management of cases with COVID-19&#xD;
+      compatible symptoms upon admission and facilitate patient triage and flow, notably in a&#xD;
+      period marked of transition to higher incidence rates and enormous pressure on health system.&#xD;
+      This strategy was subsequently adopted by the University Hospital of Lausanne as well.&#xD;
+&#xD;
+      Roche's SARS-CoV-2 Rapid Antigen Test (which is the actual test employed by our institution)&#xD;
+      is a rapid chromatographic immunoassay intended for the qualitative detection of a specific&#xD;
+      antigen of SARS-CoV-2 present in human nasopharynx. This test is performed using a&#xD;
+      nasopharyngeal swab collected from a patient with a result available after 10-15 minutes.&#xD;
+      While the manufacturer reports very good diagnostic performances of the test, literature&#xD;
+      shows high variability of sensitivity and specificity.Rapid antigen test's diagnostic&#xD;
+      performances can be high enough to detect cases with high viral load (i.e. pre-symptomatic&#xD;
+      and early symptomatic cases up to five days from symptom onset. Because of the intense but&#xD;
+      short-lived nature of SARS-CoV-2 shedding form the upper respiratory tract, the clinical use&#xD;
+      of rapid antigen testing requires great attention to the timing of infection because testing&#xD;
+      late in the course of infection will cause an apparently low clinical sensitivity. There is a&#xD;
+      significant decline of the viral load after 5-7 days of symptoms. In order to account for&#xD;
+      this possible drawback and compensate the loss of rapid antigen test's diagnostic performance&#xD;
+      on late infection, a confirmatory RT-PCR is systematically performed by the microbiology&#xD;
+      laboratory of Lausanne University Hospital. So as to avoid multiple sampling of the same&#xD;
+      patient and accelerate time-to-final-results, a single nasopharyngeal swab is performed on&#xD;
+      each patient and soaked on a viral transport medium. From this transport medium both tests&#xD;
+      are performed (rapid antigen test and RT-PCR). This procedure, introduces a pre-dilution step&#xD;
+      (in contrast to the usual rapid antigen testing procedure using a dry nasopharyngeal swab)&#xD;
+      but is in accordance to the specifications of the manufacturers' instructions. While current&#xD;
+      literature advocates against a significant decrease of tests' analytical performances due to&#xD;
+      this strategy, there is no strong consensus regarding the influence of transport medium on&#xD;
+      viral load stability and on test's analytical and clinical sensitivity&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 10, 2020</start_date>
+  <completion_date type="Actual">February 1, 2021</completion_date>
+  <primary_completion_date type="Actual">February 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diagnostic assessment</measure>
+    <time_frame>On the day of inclusion</time_frame>
+    <description>Comparison of diagnostic performances (sensitivity, specificity, positive and negative predictive value) of the different strategies on patients hospitalised with a SARS-CoV-2 infection.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Limit of detection determination.</measure>
+    <time_frame>On the day of inclusion</time_frame>
+    <description>- Define the limit of detection viral load and lowest dilution with the highest positivity rate of both strategies.</description>
+  </secondary_outcome>
+  <enrollment type="Actual">58</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>rapid antigen testing versus RT-PCR</intervention_name>
+    <description>Sensitivity of rapid antigen testing and RT-PCR performed on nasopharyngeal swabs versus saliva samples in COVID-19 hospitalized patients.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All hospitalized patients with a confirmed SARS-CoV-2 infection will be screened for&#xD;
+        inclusion criteria.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Hospitalized patients aged above 18 years with confirmed SARS-CoV-2 infection by&#xD;
+             RT-PCR assay.&#xD;
+&#xD;
+          -  Provide informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient's refusal to participate in the study.&#xD;
+&#xD;
+          -  Patients with negative RT-PCR if already performed for patient's follow up as part of&#xD;
+             standard care.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Vaudois</name>
+      <address>
+        <city>Lausanne</city>
+        <state>Vaud</state>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 9, 2021</study_first_posted>
+  <last_update_submitted>April 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Centre Hospitalier Universitaire Vaudois</investigator_affiliation>
+    <investigator_full_name>Antonios Kritikos</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>SARS-CoV-2 diagnosis</keyword>
+  <keyword>RT-PCR</keyword>
+  <keyword>rapid antigen testing</keyword>
+  <keyword>saliva</keyword>
+  <keyword>viral transport medium</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
